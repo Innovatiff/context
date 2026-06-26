@@ -11,10 +11,12 @@
     <line x1="0" y1="315" x2="1200" y2="315"/>
     <line x1="0" y1="472" x2="1200" y2="472"/>
   </g>
-  <g transform="translate(80,90)">
-    <circle cx="26" cy="26" r="24" fill="none" stroke="#0d9488" stroke-width="4"/>
-    <circle cx="26" cy="26" r="7" fill="#d97706"/>
-    <text x="70" y="36" font-family="Georgia, serif" font-size="34" fill="#fafaf9" font-weight="600">Honest Picture</text>
+  <g transform="translate(80,92)">
+    <path d="M2 44C16 44 21 8 30 8C39 8 44 44 58 44" fill="none" stroke="#2dd4bf" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1 44H59" stroke="#2dd4bf" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+    <path d="M40 44V20" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="40" cy="17" r="6" fill="#f59e0b"/>
+    <text x="78" y="36" font-family="Georgia, serif" font-size="34" fill="#fafaf9" font-weight="600">Honest Picture</text>
   </g>
   <text x="80" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#fafaf9" font-weight="600">
     <tspan x="80" dy="0">You see your life from the inside.</tspan>
