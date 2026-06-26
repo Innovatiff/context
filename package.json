@@ -2,7 +2,7 @@
   "name": "honest-picture",
   "type": "module",
   "version": "0.1.0",
-  "description": "Honest Picture (ContextLife) — a data-driven tool and research library that helps people understand where they actually stand in life using real research and population data.",
+  "description": "Honest Picture — a data-driven tool and research library that helps people understand where they actually stand in life using real research and population data.",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

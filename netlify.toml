@@ -1,4 +1,4 @@
-# Netlify configuration for Honest Picture / ContextLife
+# Netlify configuration for Honest Picture
 # Static Astro build — continuous deploy from the connected Git branch.
 
 [build]

@@ -1,4 +1,4 @@
-# Honest Picture · ContextLife
+# Honest Picture
 
 > You see your life from the inside. We'll show you what it looks like from the outside.
 
@@ -10,7 +10,7 @@ Built to scale into a library of up to **500 evergreen research pages** around t
 most universal human question: *Am I okay?*
 
 - **Live domain:** honestpicture.com
-- **Brand shown in UI:** ContextLife
+- **Brand shown in UI:** Honest Picture
 - **Stack:** [Astro](https://astro.build) static site + content collections
 
 ---
@@ -86,5 +86,5 @@ policy-safe zones (never inside the assessment or its results).
 
 ## License & content
 
-Original writing, design, and presentation are proprietary to ContextLife. Underlying
+Original writing, design, and presentation are proprietary to Honest Picture. Underlying
 research and statistics belong to their cited authors and institutions.

@@ -14,7 +14,7 @@
   <g transform="translate(80,90)">
     <circle cx="26" cy="26" r="24" fill="none" stroke="#0d9488" stroke-width="4"/>
     <circle cx="26" cy="26" r="7" fill="#d97706"/>
-    <text x="70" y="36" font-family="Georgia, serif" font-size="34" fill="#fafaf9" font-weight="600">ContextLife</text>
+    <text x="70" y="36" font-family="Georgia, serif" font-size="34" fill="#fafaf9" font-weight="600">Honest Picture</text>
   </g>
   <text x="80" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#fafaf9" font-weight="600">
     <tspan x="80" dy="0">You see your life from the inside.</tspan>

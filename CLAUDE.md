@@ -1,4 +1,4 @@
-# CLAUDE.md — Honest Picture / ContextLife
+# CLAUDE.md — Honest Picture
 
 Guidance for working in this repository.
 
@@ -6,7 +6,7 @@ Guidance for working in this repository.
 
 A static [Astro](https://astro.build) site that places people's real-life numbers
 (money, time, work, relationships, health, purpose) inside real population data and
-research. Brand name in UI is **ContextLife**; domain is **honestpicture.com**. The
+research. Brand name in UI is **Honest Picture**; domain is **honestpicture.com**. The
 long-term goal is a library scaling to ~500 cited research pages.
 
 ## Commands

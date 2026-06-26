@@ -1,4 +1,4 @@
-# ContextLife / honestpicture.com
+# Honest Picture / honestpicture.com
 User-agent: *
 Allow: /
 

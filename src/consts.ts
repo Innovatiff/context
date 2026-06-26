@@ -8,9 +8,9 @@
 
 export const SITE = {
   /** Public brand name shown in the UI. */
-  name: 'ContextLife',
+  name: 'Honest Picture',
   /** Short product/working name. */
-  shortName: 'ContextLife',
+  shortName: 'Honest Picture',
   /** Canonical production URL (no trailing slash). */
   url: 'https://honestpicture.com',
   /** One-line description used as a meta fallback. */
@@ -73,7 +73,7 @@ export const ANALYTICS = {
 
 /** Standard disclaimer used across the site. */
 export const DISCLAIMER =
-  'ContextLife presents publicly available research, government data, and peer-reviewed studies to help people understand their lives in honest context. It is not medical, psychological, financial, or legal advice. If you are experiencing a mental health crisis, please contact a qualified professional.';
+  'Honest Picture presents publicly available research, government data, and peer-reviewed studies to help people understand their lives in honest context. It is not medical, psychological, financial, or legal advice. If you are experiencing a mental health crisis, please contact a qualified professional.';
 
 /** Short disclaimer for compact spaces. */
 export const DISCLAIMER_SHORT =
