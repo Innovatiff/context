@@ -1,0 +1,77 @@
+{
+  "title": "Why Do We Keep Making the Same Mistakes?",
+  "slug": "why-do-we-keep-making-the-same-mistakes",
+  "category": "regret-and-life-decisions",
+  "metaTitle": "Why Do We Keep Making the Same Mistakes? The Research",
+  "metaDescription": "Why we repeat the same mistakes: habit, emotion, and how we fail to learn from failure. What the research shows about breaking the loop, without self-blame.",
+  "lifeArea": "Regret & Life Decisions",
+  "keyFinding": "We repeat mistakes mainly because much behaviour is automatic and cue-driven, and because people tend to learn less from failure than from success — not because of weak willpower.",
+  "honestAnswer": [
+    "We keep making the same mistakes largely because of how behaviour and learning actually work, not because of a character flaw. A great deal of what we do is automatic and triggered by cues rather than chosen deliberately, so under stress or in familiar situations we default to old patterns even when our intentions have changed. And — counterintuitively — people often learn less from their failures than from their successes, because failure feedback is ego-threatening and easy to tune out.",
+    "So the repetition is not a mystery of weak willpower. It is the predictable result of cue-driven habits, the way failure information bounces off us, and a built-in tendency to focus on the present. None of that means change is impossible. It means the levers that actually work are different from the ones we usually reach for."
+  ],
+  "whatDataShows": [
+    "Much of daily behaviour is habitual and automatic. Wendy Wood's research on habit formation estimates that a large share of everyday actions are performed in stable contexts that cue the same response, largely outside deliberate intention. The practical implication is that when the cue is present — the same place, mood, time, or trigger — the old response fires before a new plan can intervene. Intentions matter most when habits are weak; when habits are strong, the cue tends to win.",
+    "We also appear to learn surprisingly poorly from our own failures. Eskreis-Winkler and Fishbach (2019) ran a series of experiments and found that people learned less from failure feedback than from success feedback, even when failure was just as informative. A central reason is that failure is ego-threatening: it makes people feel bad about themselves, so they disengage from the information instead of absorbing the lesson. In other words, the very moments that should teach us the most are the ones we are most motivated to look away from.",
+    "On top of this sit two well-documented biases. Present bias is the tendency to overweight immediate rewards and costs relative to future ones, which is why the short-term pull of an old pattern routinely beats the long-term benefit of a new one. And the planning fallacy — the tendency to underestimate how long things will take and how much could go wrong — means we repeatedly walk into the same situations underprepared. Together these make repetition the path of least resistance."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like the problem must be willpower or self-discipline, because in the moment of failure we are intensely aware of having chosen badly. But that awareness arrives after the automatic response has already fired. From the inside, a cue-driven slip is indistinguishable from a deliberate choice, so we blame the chooser rather than the cue — and resolve to 'try harder' next time, which leaves the actual trigger untouched.",
+    "It also feels like we surely learned our lesson, because we remember the regret vividly. But remembering that something went badly is not the same as extracting why, and the research suggests the sting of failure often pushes us to stop thinking about the episode rather than to analyse it. The emotional memory survives; the usable lesson frequently does not.",
+    "And because we judge our past decisions knowing how they turned out, the repeat mistake can look more obvious and avoidable in hindsight than it ever was at the time. That makes the pattern feel like stubbornness or stupidity, when much of it is simply the ordinary mechanics of habit, emotion, and attention working as they always do."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent lever is changing the cue, not just the intention. Habit research suggests that altering the context — removing the trigger, changing the environment, or inserting friction between cue and response — is more effective than willpower, because it interrupts the automatic chain before it starts. Disrupted contexts, such as a move or a change of routine, are also windows when old habits are unusually easy to replace.",
+    "Implementation intentions — concrete 'if-then' plans that pre-decide what you'll do when a specific cue appears — have reasonably good support for closing the gap between intention and action. They work by linking the new response to the same trigger that used to fire the old one, so the deliberate choice is made in advance rather than in the heat of the moment.",
+    "To actually learn from failure, the research points to deliberately reframing it as information rather than a verdict on yourself, which lowers the ego threat enough to engage with the lesson. Studying others' failures, or stepping back and analysing your own from a more detached, third-person perspective, can make the feedback usable precisely because it is less personally stinging."
+  ],
+  "whatDoesNotHelp": [
+    "Simply resolving to 'try harder' or 'be more disciplined' tends to do little, because it targets intention while leaving the cue and the habit intact. When the trigger reappears, the old response still fires faster than the resolution can. Effort aimed at the wrong link in the chain mostly produces guilt, not change.",
+    "Harsh self-criticism after a slip is not only unpleasant but appears counterproductive: it increases the ego threat that, in the research, makes people disengage from failure rather than learn from it. Punishing yourself for the mistake can make the lesson harder to absorb and the relapse more likely.",
+    "Assuming the regret itself will prevent a repeat is also unreliable. Vividly remembering how bad something felt is not the same as understanding what caused it, and present bias means the next time the immediate pull can still outweigh the remembered consequence. Feeling bad is not a mechanism for change; redesigning the cue and extracting the lesson is."
+  ],
+  "realNumbersInContext": [
+    "There is no clean statistic for how often people repeat their mistakes, and anyone quoting a precise figure should be treated with caution. What the research does support is more structural: Wendy Wood's work suggests a substantial fraction of everyday behaviour is habitual and context-cued rather than deliberately decided, which is why the same situations reliably produce the same actions.",
+    "The clearest experimental result is about learning, not frequency. Eskreis-Winkler and Fishbach (2019) found people learned measurably less from failure than from success across multiple studies — a robust direction even though the exact effect size depends on the task. The honest takeaway is qualitative: repetition is the default unless you change the cue or actively extract the lesson, and self-blame makes both of those harder, not easier."
+  ],
+  "realNumbers": [
+    { "value": "Cue-driven", "label": "Much everyday behaviour is automatic and triggered by context, not deliberate choice", "source": "Wendy Wood, habit research" },
+    { "value": "Less", "label": "How much people tend to learn from failure versus success", "source": "Eskreis-Winkler & Fishbach, 2019" },
+    { "value": "Present bias", "label": "Immediate rewards and costs are systematically overweighted vs. future ones", "source": "Behavioural economics" },
+    { "value": "If-then", "label": "Implementation intentions help close the gap between intention and action", "source": "Goal-implementation research" }
+  ],
+  "faqs": [
+    {
+      "question": "Does repeating mistakes mean I lack willpower?",
+      "answer": "Not in the way it feels. A large share of behaviour is automatic and cue-driven, so under stress or familiar triggers the old response fires before deliberate intention can intervene. The issue is usually the cue and the habit, not a deficit of character or willpower."
+    },
+    {
+      "question": "Why don't I learn from my failures?",
+      "answer": "Because failure is ego-threatening. Research by Eskreis-Winkler and Fishbach (2019) found people learn less from failure than from success, largely because the discomfort makes them tune the information out. The lesson is harder to absorb precisely when it stings most."
+    },
+    {
+      "question": "What actually breaks the pattern?",
+      "answer": "Changing the cue rather than just the intention tends to work best — removing the trigger, changing the environment, or adding friction. Concrete 'if-then' plans that pre-decide your response to a specific trigger also help, because the choice is made before the moment, not during it."
+    },
+    {
+      "question": "Does being hard on myself help me stop?",
+      "answer": "The evidence suggests it usually doesn't. Harsh self-criticism raises the ego threat that makes people disengage from the failure rather than learn from it. Treating the mistake as information rather than a verdict on yourself makes the lesson easier to use."
+    },
+    {
+      "question": "Why does the same mistake look so obvious afterward?",
+      "answer": "Partly hindsight: once you know how something turned out, it seems far more predictable and avoidable than it was at the time. That can make an ordinary cue-driven slip feel like stubbornness, when it was mostly the normal mechanics of habit and attention."
+    }
+  ],
+  "dataSources": [
+    "Wood, W. — research on habit formation and the automaticity of everyday behaviour (e.g. Good Habits, Bad Habits, 2019).",
+    "Eskreis-Winkler, L., & Fishbach, A. (2019). Not Learning From Failure—The Greatest Failure of All. Psychological Science, 30(12), 1733–1744.",
+    "Research on present bias / hyperbolic discounting in behavioural economics (overweighting of immediate rewards and costs).",
+    "Kahneman, D., & Tversky, A. — the planning fallacy (systematic underestimation of task time and risk)."
+  ],
+  "relatedInsights": [
+    "why-do-we-procrastinate-even-when-it-hurts-us",
+    "how-to-make-decisions-you-wont-regret",
+    "does-forgiving-yourself-actually-help"
+  ],
+  "lastReviewed": "2026-06"
+}

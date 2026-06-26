@@ -1,0 +1,75 @@
+{
+  "title": "Why Do Meetings Feel Like Such a Waste of Time?",
+  "slug": "why-do-meetings-feel-like-such-a-waste-of-time",
+  "category": "work-and-career",
+  "metaTitle": "Why Meetings Feel Like a Waste of Time — The Research",
+  "metaDescription": "Meeting load has risen and a large share are rated ineffective. Here is what meeting science shows about why they drain you, and what helps.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Meetings feel draining mostly because there are too many of them and they fragment the long, uninterrupted blocks demanding work requires — not because meetings are inherently bad.",
+  "honestAnswer": [
+    "Meetings feel like a waste of time largely because there are too many of them, many are poorly run, and even good ones carry a hidden cost: they break up the long, uninterrupted blocks that demanding work actually needs. Research on meetings is fairly clear that a large share are rated as ineffective by the people sitting in them, and that meeting load has climbed substantially over the past decade.",
+    "It is worth being honest about the other side, though. A well-run meeting builds alignment, surfaces problems early, and does in twenty minutes what a chain of messages cannot. The drain is not really about the existence of meetings — it is about volume, structure, and the interruption cost of constantly switching between collaboration and focused work."
+  ],
+  "whatDataShows": [
+    "The clearest body of evidence comes from what is sometimes called meeting science, much of it associated with organizational psychologist Steven Rogelberg and colleagues. The recurring finding, summarized in his book The Surprising Science of Meetings, is that a substantial share of meetings are rated as ineffective by attendees, that managers tend to rate meetings more favorably than the people they invite, and that perceived meeting quality is tied to fairly basic factors — a clear purpose, the right people, and good facilitation.",
+    "Meeting load has also risen. Analyses of workplace activity, including Microsoft's Work Trend Index drawn from anonymized usage of its collaboration tools, have reported large increases in time spent in meetings and chats since the shift to more remote and hybrid work. The exact figures are specific to one platform and population, so treat them as directional rather than universal, but the broad pattern of rising meeting and message volume shows up across multiple sources.",
+    "The deeper cost is fragmentation. A long line of research on interruptions and attention finds that switching tasks carries a real penalty — it takes time to fully re-engage after an interruption, and demanding cognitive work benefits from long, unbroken stretches. A calendar sliced into short gaps between meetings can leave little room for that kind of focus, even when the total meeting time looks modest."
+  ],
+  "whyItFeelsDifferent": [
+    "Meetings feel worse than their raw hours suggest because the damage is partly to the time around them. A single meeting in the middle of an afternoon does not just cost its own length; it can render the surrounding gaps too short for anything that requires sustained concentration. The felt loss is the meeting plus the focus blocks it quietly destroyed.",
+    "There is also an autonomy effect. Much of the satisfaction people get from work comes from a sense of control over their own time and methods, and a day dictated by other people's meeting invitations erodes exactly that. A schedule you did not choose tends to feel draining regardless of what happens inside each individual meeting.",
+    "Finally, the costs and benefits land on different people. The person who calls a meeting captures most of the value — alignment, a decision, visible progress — while the cost is spread thinly across everyone invited. Because no single calendar absorbs the full price, meetings are easy to over-schedule, and the people paying the diffuse cost are the ones who feel it most."
+  ],
+  "whatResearchSaysToDo": [
+    "The interventions with the best support are structural and unglamorous. Meeting-science research repeatedly points to a clear agenda and purpose, inviting only the people who genuinely need to be there, and ending when the work is done rather than filling the scheduled block. Shorter default lengths and a real reason for each meeting to exist tend to improve attendees' ratings.",
+    "Protecting blocks of uninterrupted time is the other consistent lever. Because focused work depends on long stretches without context-switching, deliberately clustering meetings and reserving guarded blocks for concentration tends to help more than trimming any single meeting. Some teams formalize this with shared focus time or meeting-free periods.",
+    "It also helps to periodically question recurring meetings rather than letting them run on inertia. The honest test is whether a meeting would be missed if it were cancelled, and whether the same outcome could be reached asynchronously. Many can — but not all, and the goal is fewer, better meetings rather than zero."
+  ],
+  "whatDoesNotHelp": [
+    "Simply declaring war on all meetings does not hold up well. Some real coordination, alignment, and relationship-building is hard to replicate over text, and teams that eliminate meetings wholesale often find the work reappears as a flood of messages and longer threads. The evidence supports fewer and better, not none.",
+    "Multitasking through meetings you find pointless — answering email while half-listening — tends to make both tasks worse rather than reclaiming the time, because switching attention back and forth carries its own cost. It also quietly signals that the meeting is optional, which can keep low-value meetings alive.",
+    "Adding more tools or status dashboards on top of an already full calendar rarely reduces the meeting load on its own; it often adds another channel to monitor. The factors that actually move attendees' ratings are about purpose, the right people, and facilitation, which no tool supplies automatically."
+  ],
+  "realNumbersInContext": [
+    "The headline numbers vary a lot by source and population, so they are best read as a direction rather than a precise score. Meeting-science research consistently finds that a large share of meetings — often cited as roughly half or more in survey work — are rated as ineffective or as time that could have been spent better, and that managers tend to rate the same meetings more positively than other attendees do.",
+    "On volume, platform-level analyses such as Microsoft's Work Trend Index have reported sizeable increases in meeting and chat time since around 2020, with some measures of meetings per person roughly doubling or more. Because those figures come from one ecosystem of tools, the safest takeaway is that meeting load rose substantially for many knowledge workers — not an exact multiplier that applies to everyone."
+  ],
+  "realNumbers": [
+    { "value": "≈Half+", "label": "Share of meetings attendees commonly rate as ineffective in survey research", "source": "Meeting science (Rogelberg and colleagues)" },
+    { "value": "Large rise", "label": "Increase in meeting and chat time for many workers since ~2020", "source": "Microsoft Work Trend Index" },
+    { "value": "Real cost", "label": "Time penalty to fully re-engage with focused work after an interruption", "source": "Research on interruptions and attention" }
+  ],
+  "faqs": [
+    {
+      "question": "Are most meetings actually a waste of time?",
+      "answer": "A large share are rated as ineffective by the people attending, according to meeting-science research, but that is not the same as meetings being inherently useless. Well-run meetings with a clear purpose and the right people add real value; the problem is volume, poor structure, and the focus time they fragment."
+    },
+    {
+      "question": "Have meetings really increased, or does it just feel that way?",
+      "answer": "Both perception and data point the same way. Platform-level analyses such as Microsoft's Work Trend Index reported large increases in time spent in meetings and chats since the shift to hybrid work. The exact figures are specific to one set of tools, so treat them as directional, but the broad rise shows up across sources."
+    },
+    {
+      "question": "Why are meetings so draining even when they're short?",
+      "answer": "Because much of the cost is to the time around them. A meeting dropped into the middle of an afternoon can leave the surrounding gaps too short for focused work, which depends on long, uninterrupted stretches. The felt loss is the meeting plus the concentration blocks it quietly breaks up."
+    },
+    {
+      "question": "What actually makes a meeting better?",
+      "answer": "Research points to fairly basic factors: a clear purpose and agenda, inviting only people who need to be there, good facilitation, and ending when the work is done. Shorter defaults and protecting blocks of focus time around meetings tend to help more than any single tool or technique."
+    },
+    {
+      "question": "Should my team just cancel all meetings?",
+      "answer": "Probably not. Some coordination and alignment is genuinely hard to do over text, and teams that eliminate meetings entirely often see the work resurface as a flood of messages. The evidence supports fewer, better meetings and protected focus time, not zero meetings."
+    }
+  ],
+  "dataSources": [
+    "Rogelberg, S. G. (2019). The Surprising Science of Meetings: How You Can Lead Your Team to Peak Performance. Oxford University Press.",
+    "Microsoft, Work Trend Index — analyses of meeting and chat volume across collaboration tools.",
+    "Research on interruptions, task-switching, and focused work (e.g., studies on the cost of resuming work after interruptions)."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-many-hours-can-you-actually-focus-in-a-day",
+    "why-do-people-actually-quit-their-jobs"
+  ],
+  "lastReviewed": "2026-06"
+}

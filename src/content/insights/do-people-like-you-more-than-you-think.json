@@ -1,0 +1,71 @@
+{
+  "title": "Do People Like You More Than You Think?",
+  "slug": "do-people-like-you-more-than-you-think",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Do People Like You More Than You Think? The Liking Gap",
+  "metaDescription": "Usually yes. Research on the 'liking gap' shows people consistently underestimate how much others enjoyed talking to them. Here is what the data shows.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "After conversations, people systematically underestimate how much their partner liked them and enjoyed their company — a robust bias researchers call the liking gap.",
+  "honestAnswer": [
+    "Yes, almost certainly more than you think. When researchers measure both sides of a conversation, they consistently find that people underestimate how much the other person liked them and enjoyed the exchange. The other person walked away with a warmer impression than you assumed they did.",
+    "This is not flattery or reassurance — it is a measured, repeated pattern. The gap between how much you think you were liked and how much you actually were liked is real, it leans in one direction, and it tends to persist over time, even with people who go on to become friends."
+  ],
+  "whatDataShows": [
+    "The clearest evidence comes from a 2018 study by Erica Boothby, Gus Cooney, Gillian Sandstrom and Margaret Clark, published in Psychological Science, which named the effect the 'liking gap.' Across several experiments — including strangers paired for short conversations and people tracked over longer acquaintance — participants reliably underestimated how much their conversation partner liked them and how much the partner had enjoyed their company.",
+    "The gap was not a one-off first-meeting jitter. In the studies that followed people over time, including university students living together over an academic year, the liking gap was still detectable months in. People who genuinely came to like each other continued, to a degree, to under-read how positively the other felt.",
+    "The pattern fits a broader body of work showing people hold overly negative views of how they come across socially. We tend to assume our nervousness is visible, that our small fumbles registered, and that others are quietly less impressed than they actually are. The general direction of the error is consistent: we are harsher judges of our own social performance than the people in the room with us."
+  ],
+  "whyItFeelsDifferent": [
+    "You have full access to your own self-criticism and none to anyone else's actual opinion. During a conversation you can hear the awkward pause, the joke that did not land, the thing you wish you had said better — and you cannot hear that the other person barely noticed any of it. Your inner critic fills the silence with a verdict the other person never delivered.",
+    "That internal commentary then leaks into your estimate of what they think. Research on this suggests people partly use their own self-assessment as a stand-in for the other person's view, so a low opinion of your own performance quietly becomes a low guess about how much you were liked. The other person, meanwhile, was mostly attending to the content of the talk, not auditing your delivery.",
+    "There is also an information asymmetry baked into politeness. People rarely tell you directly that they enjoyed talking to you, so the warm signals are muted and easy to miss, while your own doubts are loud and constant. The result is a reading skewed toward 'that went worse than it did.'"
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful move is simply knowing the gap exists. Studies on debiasing social perception suggest that being told about a systematic error like this can soften it — when you catch yourself concluding 'they probably didn't like me,' you can treat that conclusion as a likely artifact of the liking gap rather than as information.",
+    "Assume the warmer interpretation as the default, because the evidence says it is usually the more accurate one. After a conversation that felt merely okay, the calibrated guess is that the other person enjoyed it somewhat more than you did and thought somewhat better of you than you assume.",
+    "Acting on that calibration tends to compound. Because people underestimate how much they are liked, they often hold back from following up — not reaching out again, not extending the next invitation. Since the other side frequently felt more positive than you realised, taking the small social risk of following up is, on the evidence, less risky than it feels."
+  ],
+  "whatDoesNotHelp": [
+    "Replaying the conversation to find what went wrong does not help, because it feeds exactly the self-critical loop that produces the gap. The more weight you give your own internal review, the further your estimate drifts from how the other person actually felt.",
+    "Generic 'just be confident' advice misses the mechanism. The issue is not usually a lack of confidence in the moment but a biased reading of the aftermath — a wrong guess about someone else's mind. Confidence affirmations do little for an error that is about misjudging another person rather than yourself.",
+    "Seeking constant reassurance also tends to backfire over time. It can erode the very relationships it is meant to protect, and it treats the symptom rather than the cause. The more durable correction is recalibrating your default assumption, not collecting fresh confirmations after every interaction."
+  ],
+  "realNumbersInContext": [
+    "The liking gap is a directional bias, not a precise figure — but its key feature is that it is consistent across studies and conversation types. In the original 2018 research, strangers paired for conversations reliably rated how much their partner liked them below how much the partner reported actually liking them, and the effect reappeared across follow-up samples and longer time frames.",
+    "It is worth holding alongside its cousin, the spotlight effect: people also overestimate how much others notice and scrutinise them. Taken together, the research points the same way — others are paying less critical attention to you than you fear, and liking you somewhat more than you assume. The honest reading of most ordinary conversations is more generous than the one your own mind defaults to."
+  ],
+  "realNumbers": [
+    { "value": "Underestimated", "label": "How much people think a conversation partner liked them, vs. reality", "source": "Boothby, Cooney, Sandstrom & Clark, Psychological Science 2018" },
+    { "value": "Persists", "label": "Whether the liking gap fades quickly or lingers over months of acquaintance", "source": "Boothby et al., 2018 (longitudinal follow-up)" },
+    { "value": "One-directional", "label": "The error consistently runs toward underestimating, not overestimating, being liked", "source": "Liking-gap research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the 'liking gap'?",
+      "answer": "It is the consistent finding that after a conversation, people underestimate how much the other person liked them and enjoyed their company. It was named in a 2018 Psychological Science study by Boothby, Cooney, Sandstrom and Clark, and it has been observed across strangers and people who become acquainted over time."
+    },
+    {
+      "question": "Does the liking gap go away once you know someone?",
+      "answer": "It shrinks but does not vanish quickly. In studies following people over months, including students living together over a year, a measurable liking gap persisted. So even in developing friendships, people tend to under-read how positively the other side feels."
+    },
+    {
+      "question": "Why do I assume conversations went worse than they did?",
+      "answer": "You hear all of your own self-criticism and none of the other person's actual opinion. Research suggests we partly use our own harsh self-assessment as a proxy for what others think, and politeness means people rarely state that they enjoyed talking to you — so the warm signals are quiet and the doubts are loud."
+    },
+    {
+      "question": "How can I correct for this?",
+      "answer": "Mainly by knowing it exists and defaulting to the warmer interpretation, which the evidence says is usually the more accurate one. Practically, that means following up after interactions you enjoyed rather than holding back — the other person likely felt more positive than you assumed."
+    }
+  ],
+  "dataSources": [
+    "Boothby, E. J., Cooney, G., Sandstrom, G. M., & Clark, M. S. (2018). The Liking Gap in Conversations: Do People Like Us More Than We Think? Psychological Science, 29(11), 1742–1756.",
+    "Gilovich, T., Medvec, V. H., & Savitsky, K. (2000). The spotlight effect in social judgment. Journal of Personality and Social Psychology, 78(2), 211–222.",
+    "Research on overly negative self-perception in social interaction (general literature on social anxiety and self-assessment biases)."
+  ],
+  "relatedInsights": [
+    "why-everyone-else-seems-more-put-together-than-you",
+    "do-people-notice-your-flaws-as-much-as-you-think",
+    "why-do-we-care-so-much-what-others-think"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Do First Impressions Actually Matter?",
+  "slug": "do-first-impressions-actually-matter",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Do First Impressions Actually Matter? What the Data Shows",
+  "metaDescription": "They form in milliseconds and do matter — but they are more updatable than the cliche suggests. Here is what the research shows about first impressions.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "First impressions form almost instantly and genuinely influence judgments, but they are more revisable with new, consistent evidence than the 'you never get a second chance' cliche implies.",
+  "honestAnswer": [
+    "Yes — first impressions form astonishingly fast and do shape how people read you, but they are not the permanent verdict the popular saying makes them out to be. The honest position sits between two myths: it is wrong to think first impressions don't matter, and equally wrong to think they can never be revised.",
+    "People form trait judgments from a face in a fraction of a second, and brief glimpses of behaviour predict some outcomes surprisingly well. But those snap judgments can be updated by new, consistent evidence, and their grip tends to loosen as real acquaintance accumulates. Fast and influential, in other words, but not fixed."
+  ],
+  "whatDataShows": [
+    "First impressions form faster than feels plausible. Research by Janine Willis and Alexander Todorov (2006, Psychological Science) found that people form judgments of traits like trustworthiness and competence from a face after exposure of roughly 100 milliseconds. Giving people more time to look did not much change the judgment itself — it mainly increased their confidence in it.",
+    "Brief observations can also carry real predictive signal. 'Thin-slice' research associated with Nalini Ambady and Robert Rosenthal showed that very short clips of behaviour — sometimes seconds long — let observers predict certain outcomes, such as ratings of teaching effectiveness, at levels well above chance. So first impressions are not pure noise; they pick up on something.",
+    "But the same literature shows impressions are revisable. Snap judgments rest on thin information, and they can be corrected when new, consistent evidence points the other way. As people actually get to know one another, the weight of a first encounter tends to fade relative to the accumulating record of real interactions. Primacy is a strong opening bid, not the final word."
+  ],
+  "whyItFeelsDifferent": [
+    "The cliche 'you never get a second chance to make a first impression' is memorable, tidy, and overstated, so it sticks. It captures the real speed and stickiness of first impressions but quietly drops the part where they can change — leaving people far more anxious about a single meeting than the evidence warrants.",
+    "First impressions also feel decisive because of how memory and attention work. An early judgment can act as a frame that colours how later behaviour is interpreted, which makes the initial read feel self-confirming. But that framing is a tendency, not a lock — disconfirming evidence that is clear and repeated does shift it.",
+    "And we feel the weight of impressions we make far more than impressions we revise about others. You vividly remember worrying about how you came across; you rarely notice the many times your own first read of someone quietly updated as you got to know them. That asymmetry makes first impressions feel more permanent than your own experience actually shows them to be."
+  ],
+  "whatResearchSaysToDo": [
+    "Because trait judgments form from a face in around a tenth of a second, the low-effort basics that shape that snap read are worth attending to: research links cues like a genuine smile and an open, non-threatening expression to higher trustworthiness ratings. These are small, reliable signals rather than tricks.",
+    "Where you can, give a relationship more than one data point. Since first impressions are revisable with consistent new evidence and lose weight as acquaintance grows, the practical implication is that a single rough encounter is rarely the whole story — for you or for the person you are judging. Time and repeated, consistent behaviour are the documented correctives.",
+    "For the impressions you form of others, treat the snap read as a hypothesis, not a conclusion. The thin-slice research shows quick judgments carry some signal, but they are built on little information, so holding them loosely and updating on real evidence is the more accurate strategy."
+  ],
+  "whatDoesNotHelp": [
+    "Treating one awkward first meeting as a sealed verdict does not match the evidence and tends to cause needless anxiety. Impressions are revisable, and with real acquaintance the opening encounter generally matters less than the cumulative record. Catastrophizing a single interaction overweights it.",
+    "Over-engineering a persona to 'win' the first impression can backfire, because consistency is what later evidence is judged against. An impression built on a performance you cannot sustain invites the very revision — downward — that the strategy was meant to avoid.",
+    "On the other side, dismissing first impressions as meaningless is also unsupported. They form fast, carry some predictive signal, and can frame how you are read early on. The accurate stance is that they matter and are updatable — not that they are decisive, and not that they are nothing."
+  ],
+  "realNumbersInContext": [
+    "The headline figure is the speed: Willis and Todorov (2006) found face-based trait judgments emerging at roughly 100 milliseconds of exposure, with longer looks mainly raising confidence rather than changing the verdict. Thin-slice studies add that observations of just seconds can predict some real-world outcomes above chance — both findings underline how little information a first impression actually runs on.",
+    "That thinness is also the reason for optimism. A judgment built in a tenth of a second on a single cue is, almost by definition, open to revision when fuller, consistent information arrives — and acquaintance supplies exactly that. The data supports a balanced reading: first impressions are fast and influential, but more updatable than the cliche claims."
+  ],
+  "realNumbers": [
+    { "value": "~100 ms", "label": "Exposure after which people form face-based trait judgments", "source": "Willis & Todorov, Psychological Science 2006" },
+    { "value": "Confidence, not accuracy", "label": "What extra viewing time mainly adds to a first impression", "source": "Willis & Todorov, 2006" },
+    { "value": "Seconds", "label": "Length of behavioural 'thin slices' that predict some outcomes above chance", "source": "Ambady & Rosenthal, thin-slice research" }
+  ],
+  "faqs": [
+    {
+      "question": "How fast do people form a first impression?",
+      "answer": "Very fast. Willis and Todorov (2006) found people form trait judgments such as trustworthiness and competence from a face after roughly 100 milliseconds of exposure. Looking longer mostly increased their confidence in the judgment rather than changing it."
+    },
+    {
+      "question": "Is 'you never get a second chance to make a first impression' true?",
+      "answer": "Only partly. First impressions are fast and do influence how you are read, so the saying captures something real. But it overstates the case: impressions can be revised by new, consistent evidence, and they tend to lose weight as genuine acquaintance grows."
+    },
+    {
+      "question": "Can a bad first impression be fixed?",
+      "answer": "Generally yes, though it takes consistent contrary evidence rather than a single gesture. Because first impressions rest on thin information, repeated behaviour that points the other way can update them — and over real acquaintance the opening encounter usually matters less than the accumulating record."
+    },
+    {
+      "question": "Do quick judgments actually predict anything?",
+      "answer": "Sometimes, more than you'd expect. 'Thin-slice' research by Ambady and Rosenthal found that observations of just seconds predicted certain outcomes, like ratings of teaching, above chance. So snap judgments carry some signal — but they are built on little information and are best held as hypotheses, not conclusions."
+    }
+  ],
+  "dataSources": [
+    "Willis, J., & Todorov, A. (2006). First Impressions: Making Up Your Mind After a 100-Ms Exposure to a Face. Psychological Science, 17(7), 592–598.",
+    "Ambady, N., & Rosenthal, R. (1993). Half a minute: Predicting interpersonal consequences from thin slices of expressive behavior. Journal of Personality and Social Psychology, 64(3), 431–441.",
+    "Research on the updating and revision of first impressions with new, consistent evidence (impression-formation literature)."
+  ],
+  "relatedInsights": [
+    "do-people-notice-your-flaws-as-much-as-you-think",
+    "do-people-like-you-more-than-you-think",
+    "how-much-do-looks-actually-matter"
+  ],
+  "lastReviewed": "2026-06"
+}

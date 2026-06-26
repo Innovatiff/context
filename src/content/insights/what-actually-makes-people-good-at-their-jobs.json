@@ -1,0 +1,75 @@
+{
+  "title": "What Actually Makes People Good at Their Jobs?",
+  "slug": "what-actually-makes-people-good-at-their-jobs",
+  "category": "work-and-career",
+  "metaTitle": "What Makes People Good at Their Jobs — The Research",
+  "metaDescription": "Practice, ability, fit, and context all matter — and 'just practice enough' is oversold. Here is what the research on expertise actually shows.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Skill comes from a mix of deliberate practice, ability, person-job fit, and supportive context — and the popular idea that practice alone explains performance is not what the evidence shows.",
+  "honestAnswer": [
+    "Being good at a job comes from a combination of factors — focused practice, underlying ability, how well the role fits the person, and the environment they work in — and the popular story that practice alone explains it is oversold. Deliberate, feedback-driven practice genuinely matters, sometimes a great deal, but the research finds it explains a meaningful and yet limited share of why some people perform better than others.",
+    "How much practice matters depends heavily on the domain. In stable, well-structured fields like music or chess, focused practice accounts for a larger slice of the difference. In messier, less predictable work — most professions and management roles — it accounts for less, leaving more room for ability, fit, experience, and context. The honest summary is that practice is necessary but rarely the whole story."
+  ],
+  "whatDataShows": [
+    "Much of the modern interest in skill traces to the work of psychologist K. Anders Ericsson on deliberate practice — not just repetition, but focused effort at the edge of your ability with clear feedback and correction. His research established that this kind of practice, sustained over years, is central to how people reach expert performance, and it reshaped how the development of expertise is understood.",
+    "But a large meta-analysis by Macnamara, Hambrick, and Oswald (2014, Psychological Science), pooling many studies across different fields, found that deliberate practice explained a real but limited share of the variance in performance — and far less than the strongest versions of the practice story imply. The share was larger in predictable domains such as games and music and smaller in less structured ones like education and professions, which suggests practice is more decisive in some kinds of work than others.",
+    "The rest of the picture involves factors practice does not capture. Person-job fit research — how well a person's abilities, interests, and values match the demands of a role — is associated with better performance and satisfaction. Underlying cognitive ability, prior experience, and a supportive environment with good feedback and resources all contribute. No single factor accounts for most of the difference; performance is multiply determined."
+  ],
+  "whyItFeelsDifferent": [
+    "The pure-practice story is appealing because it feels fair and fully in your control: if effort alone makes the difference, then anyone can get there with enough hours. That is an attractive message, and the rounded-off version of Ericsson's research — sometimes compressed into a single 'magic number' of hours — spread far more widely than the careful original, which never claimed practice was the only ingredient.",
+    "It also feels different because the inputs are uneven and mostly invisible. People rarely see how much a colleague's ability, fit, head start, or supportive manager contributed; they mostly see the visible output. So success gets attributed to whatever input is easiest to observe and admire, which is usually effort, even when other factors were doing real work underneath.",
+    "And progress in messy fields is hard to read. In a well-structured game, feedback is immediate and improvement is obvious. In a complex job, outcomes depend on teams, timing, and luck, feedback is slow and noisy, and it is genuinely difficult to tell how much of your performance is practice versus everything else."
+  ],
+  "whatResearchSaysToDo": [
+    "If you want to get better, the quality of practice matters more than raw hours. The research on deliberate practice emphasizes working at the edge of your current ability, on specific weaknesses, with prompt and honest feedback and correction — rather than simply accumulating time doing what you can already do comfortably. This is the part of the picture most under your control.",
+    "Fit is a lever worth taking seriously. Because person-job fit is associated with both performance and satisfaction, choosing or shaping roles that align with your abilities and interests can do as much as grinding harder in a poorly matched role. Sometimes the highest-return move is matching the work to the person rather than only improving the person.",
+    "Environment matters too, and it is partly choosable. Performance research consistently finds that good feedback, clear expectations, and adequate resources help people improve. Seeking out or building a setting that provides honest feedback and room to develop tends to compound over time more reliably than effort applied in a setting that offers neither."
+  ],
+  "whatDoesNotHelp": [
+    "Treating a fixed number of practice hours as a guarantee of expertise does not hold up. The meta-analytic evidence shows practice explains a limited share of performance differences, and the popular '10,000 hours' framing was a simplification that Ericsson himself pushed back on. Hours help, but they do not by themselves convert anyone into an expert regardless of domain, ability, or quality of practice.",
+    "Mere repetition — doing the same tasks the same way for years — produces far less improvement than the practice research implies. Without feedback, correction, and deliberate stretching, people often plateau at 'good enough' and stay there for decades. Time on the job is not the same thing as deliberate practice.",
+    "Forcing yourself to persist in a badly fitting role on willpower alone tends to underperform improving fit. Because match between person and job matters for both performance and satisfaction, grinding against a poor fit often yields slow, costly gains compared with finding work that aligns better with your strengths."
+  ],
+  "realNumbersInContext": [
+    "The most useful number to internalize is a share, not a count. Across many fields, the 2014 meta-analysis found deliberate practice explained a meaningful but minority portion of the differences in performance — larger in structured domains like games and music and smaller in professions and education. The exact percentages vary by study and domain and are debated, so the safer takeaway is the pattern: practice matters, and matters more in some fields than others.",
+    "Beyond that, the honest position is that no single factor dominates. Ability, fit, experience, environment, and quality of practice each contribute, and their relative weight shifts by job. The popular 'just put in the hours' story compresses a careful, qualified body of research into a slogan it does not actually support."
+  ],
+  "realNumbers": [
+    { "value": "Limited share", "label": "Portion of performance differences deliberate practice explained across fields", "source": "Macnamara, Hambrick & Oswald, Psychological Science 2014" },
+    { "value": "Domain-dependent", "label": "Practice mattered more in games/music, less in professions", "source": "Macnamara, Hambrick & Oswald, 2014" },
+    { "value": "Multi-factor", "label": "Ability, fit, experience, and environment also drive performance", "source": "Person-job fit and performance research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is the 10,000-hours rule actually true?",
+      "answer": "Not as usually stated. It is a simplification of K. Anders Ericsson's research on deliberate practice, and a large 2014 meta-analysis found practice explains a real but limited share of performance differences — more in structured fields like music, less in professions. Hours of focused, feedback-driven practice help, but they are not a guarantee of expertise."
+    },
+    {
+      "question": "Does talent matter, or is it all hard work?",
+      "answer": "The evidence supports both mattering, in proportions that vary by field. Deliberate practice is important, but ability, fit, prior experience, and environment also contribute, and no single factor accounts for most of the difference. The pure hard-work story is appealing but more confident than the research allows."
+    },
+    {
+      "question": "What's the difference between practice and deliberate practice?",
+      "answer": "Ordinary practice is repetition of what you can already do. Deliberate practice means working at the edge of your ability, targeting specific weaknesses, with prompt feedback and correction. The research suggests it is the deliberate version that drives improvement; time spent comfortably tends to plateau."
+    },
+    {
+      "question": "Why do some people improve faster than others?",
+      "answer": "Several factors stack up: the quality of their practice, underlying ability, how well the role fits them, prior experience, and how much honest feedback their environment provides. Because these inputs are uneven and mostly invisible, faster improvement is often credited to effort alone when other factors were also at work."
+    },
+    {
+      "question": "Can I get good at a job I'm not naturally suited to?",
+      "answer": "Often yes, but fit matters. Person-job fit is associated with both performance and satisfaction, so a poor match can make improvement slower and costlier. Sometimes the highest-return move is matching the work better to your strengths rather than only trying to push harder in a role that fits badly."
+    }
+  ],
+  "dataSources": [
+    "Ericsson, K. A., et al. — research on deliberate practice and the development of expert performance.",
+    "Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. Psychological Science, 25(8), 1608–1618.",
+    "Research on person-job fit and its relationship to job performance and satisfaction."
+  ],
+  "relatedInsights": [
+    "what-research-shows-about-changing-careers-after-40",
+    "how-common-is-impostor-syndrome",
+    "how-many-hours-can-you-actually-focus-in-a-day"
+  ],
+  "lastReviewed": "2026-06"
+}
