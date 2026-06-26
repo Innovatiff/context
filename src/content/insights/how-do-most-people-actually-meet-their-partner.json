@@ -1,0 +1,75 @@
+{
+  "title": "How Do People Actually Meet Their Partners Now?",
+  "slug": "how-do-most-people-actually-meet-their-partner",
+  "category": "relationships-and-connection",
+  "metaTitle": "How Do People Actually Meet Their Partners Now?",
+  "metaDescription": "Meeting online has overtaken meeting through friends. Here is what the U.S. research shows about how couples actually find each other today.",
+  "lifeArea": "Relationships & Connection",
+  "keyFinding": "In the U.S., meeting online has become the single most common way couples find each other, overtaking the long-standing route of introductions through friends and family.",
+  "honestAnswer": [
+    "For most of the last century, couples in the U.S. met through their existing social network — friends, family, school, church, neighbours, or colleagues. That has changed. The most cited research on this, by Stanford sociologist Michael Rosenfeld and colleagues, found that meeting online has risen to become the single most common way heterosexual couples now meet, overtaking introductions through friends, which had been the dominant route for decades.",
+    "So if you have wondered whether 'most people just meet through friends' or whether everyone is on the apps, the honest answer is that the older story is genuinely out of date. The exact figures vary by survey, age group, and year, and are specific to the U.S., so treat any single percentage as approximate. But the direction is clear and well documented: online is now where a large and growing share of couples first connect."
+  ],
+  "whatDataShows": [
+    "The clearest evidence comes from the 'How Couples Meet and Stay Together' surveys and Rosenfeld, Thomas and Hausen's 2019 paper in PNAS, titled 'Disintermediating your friends.' Tracking how U.S. couples met over many decades, they found that meeting online climbed steadily from the mid-1990s and, by the 2010s, became the most common way heterosexual couples met — surpassing the share who met through friends.",
+    "As online rose, the traditional routes fell. The shares of couples meeting through family, through friends, through church, and through school or college have all declined over the same period. The researchers describe online dating as having partly 'disintermediated' friends and family — that is, it lets people find partners outside their existing social circle rather than relying on someone they already know to make the introduction.",
+    "The pattern is even stronger for some groups. Earlier work in this same body of research found that same-sex couples adopted online meeting earlier and at higher rates, plausibly because the pool of potential partners in any given offline social setting is smaller, making a search tool more valuable. Across the board, the role of pre-existing social networks in starting relationships has shrunk."
+  ],
+  "whyItFeelsDifferent": [
+    "It can feel like 'real' couples still meet the old-fashioned way — at a party, through a mutual friend, at work — partly because those are the stories people tell more readily. For a long time meeting online carried a mild stigma, so couples were more likely to narrate a charming serendipitous version of how they met. As online meeting became normal, that reluctance faded, but the cultural image lagged behind the data.",
+    "It also feels different because the experience of online dating is uneven. The same tools that connect a large share of couples also produce a lot of unmatched messages, brief conversations that go nowhere, and stretches of frustration. So the route that statistically works most often can feel, from the inside, like the one that mostly does not — a gap between aggregate outcomes and individual experience.",
+    "And the change happened fast, within a single generation. People who came of age before smartphones often met partners entirely through offline networks, while people who came of age after met them largely through apps. Both can be looking at the same dating landscape and describing genuinely different normals, because the ground shifted under them."
+  ],
+  "whatResearchSaysToDo": [
+    "The data does not prescribe a 'best' way to meet someone, and it is not a verdict on how you met or hope to meet a partner. What it does suggest is that the route mattering less than people assume: relationships that begin online and offline do not show large, consistent differences in satisfaction or stability in this body of research, so there is little evidence that one starting point is inherently better than another.",
+    "Because online has 'disintermediated' the social network, the practical implication is simply that potential partners are now reachable outside your immediate circle. For people whose offline network is small, geographically scattered, or short on eligible partners — a common situation — that widening of the pool is the main thing the technology changed.",
+    "Beyond how couples meet, the broader relationship research is consistent that what predicts a lasting, satisfying relationship is mostly about how partners treat each other over time, not how they first crossed paths. So the meeting story, however it happens, is a starting point rather than a determinant."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming there is a 'right' or more legitimate way to meet a partner does not match the evidence. Online and offline introductions both lead to real, lasting relationships, and treating one as superior is not supported by the data. The route is not a measure of the relationship.",
+    "Reading too much into any single headline percentage is also a mistake. The figures shift by year, age group, country, and survey method, and most of the strongest data is U.S.-focused. Quoting one number as a fixed fact overstates how precise this research is; the reliable finding is the trend, not the decimal point.",
+    "Treating how a couple met as a predictor of how the relationship will go is not supported either. The research on meeting routes is largely separate from the much larger body of work on what makes relationships last, which points to things like communication, conflict handling, and felt closeness rather than origin story."
+  ],
+  "realNumbersInContext": [
+    "The headline finding from Rosenfeld, Thomas and Hausen (2019, PNAS) is a crossover: meeting online rose to become the most common way heterosexual U.S. couples met, overtaking meeting through friends sometime around the mid-2010s. As online climbed, the shares meeting through family, friends, church, and school all fell. These are approximate, U.S.-specific figures from survey data, so the trend is more reliable than any exact percentage.",
+    "Put in context, this is one of the faster social changes researchers have documented in how relationships begin. For most of the 20th century the dominant route was the social network — someone you knew introducing you to someone they knew. Within roughly two decades, a search-based, network-independent route became the leading one. The 'normal' way to meet a partner genuinely changed, which is part of why different generations describe it so differently."
+  ],
+  "realNumbers": [
+    { "value": "#1 route", "label": "Meeting online is now the most common way U.S. heterosexual couples meet", "source": "Rosenfeld, Thomas & Hausen, PNAS 2019" },
+    { "value": "Overtook friends", "label": "Online surpassed introductions through friends, the prior leading route", "source": "How Couples Meet and Stay Together (Stanford)" },
+    { "value": "Declining", "label": "Shares meeting through family, church, and school have fallen", "source": "Rosenfeld et al., PNAS 2019" },
+    { "value": "From ~1995", "label": "Roughly when online meeting began its steady climb", "source": "How Couples Meet and Stay Together (Stanford)" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it true most couples now meet online?",
+      "answer": "In the U.S., meeting online has become the single most common way couples meet, overtaking introductions through friends, according to research by Rosenfeld and colleagues at Stanford. The exact share varies by year, age, and survey, and the data is mostly U.S.-focused, so treat any one percentage as approximate. The trend, though, is well documented."
+    },
+    {
+      "question": "Don't most people still meet through friends?",
+      "answer": "That used to be the dominant route, but it has declined. Meeting through friends, family, church, and school all fell as online meeting rose. Friends still introduce many couples; they are simply no longer the leading way couples meet in the U.S."
+    },
+    {
+      "question": "Are relationships that start online less stable?",
+      "answer": "This body of research has not found large, consistent differences in satisfaction or stability between couples who met online and offline. There is little evidence that the starting point determines how a relationship turns out; what predicts lasting relationships is mostly how partners treat each other over time."
+    },
+    {
+      "question": "Did online dating change things for everyone equally?",
+      "answer": "No. Same-sex couples adopted online meeting earlier and at higher rates, plausibly because the offline pool of potential partners is smaller, which makes a search tool more useful. The broad shift toward online happened across groups, but not at the same pace."
+    },
+    {
+      "question": "What does 'disintermediating your friends' mean?",
+      "answer": "It is the title of Rosenfeld and colleagues' 2019 study. It refers to online dating reducing the role of friends and family as the middlemen who introduce people. Instead of relying on someone you already know, people increasingly find partners outside their existing social network."
+    }
+  ],
+  "dataSources": [
+    "Rosenfeld, M. J., Thomas, R. J., & Hausen, S. (2019). Disintermediating your friends: How online dating in the United States displaces other ways of meeting. PNAS, 116(36), 17753–17758.",
+    "How Couples Meet and Stay Together (HCMST) survey, Stanford University (Michael Rosenfeld and colleagues)."
+  ],
+  "relatedInsights": [
+    "what-is-a-normal-relationship-actually-like",
+    "how-many-close-friends-do-adults-actually-have",
+    "is-it-normal-to-feel-lonely-in-a-relationship"
+  ],
+  "lastReviewed": "2026-06"
+}

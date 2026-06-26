@@ -1,0 +1,74 @@
+{
+  "title": "Are You Actually Middle Class? What the Tiers Really Are",
+  "slug": "are-you-actually-middle-class",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Are You Actually Middle Class? What the Income Tiers Really Are",
+  "metaDescription": "Middle class has a concrete definition: Pew puts it at roughly two-thirds to double the median income. About half of U.S. adults fall in that tier.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "'Middle class' has a more concrete definition than people assume — Pew defines it as households earning roughly two-thirds to double the national median income — and about half of U.S. adults fall in that middle tier, even though people across the income range tend to self-identify as middle class.",
+  "honestAnswer": [
+    "Middle class is more clearly defined than most people assume. The Pew Research Center defines middle-income households as those earning roughly two-thirds to double the national median household income, adjusted for household size — and on that definition about half of U.S. adults fall in the middle tier, with the rest split between lower and upper income.",
+    "Median U.S. household income is around $80,610 (Census, 2023), so the middle band runs from roughly two-thirds of that to about double it, before adjusting for how many people the income supports. The catch is that self-identification barely tracks these tiers: people across the income spectrum, including many in the upper and lower tiers, describe themselves as 'middle class.'"
+  ],
+  "whatDataShows": [
+    "The Pew Research Center anchors 'middle class' to a defined income range: roughly two-thirds to double the national median household income, adjusted for household size so that a single person and a family of four are not judged by the same dollar figure. It is a concrete, calculable band, not a vibe.",
+    "By that definition, Pew finds roughly half of U.S. adults live in middle-income households, with the remainder divided between lower-income and upper-income tiers. So the middle tier is large but not a majority — a sizeable share of the country sits above or below it.",
+    "The reference point is the median. U.S. Census data put median household income at around $80,610 in 2023, which sets where the middle band falls. Because the definition scales with household size, two households with the same income can land in different tiers depending on how many people that income supports."
+  ],
+  "whyItFeelsDifferent": [
+    "Almost everyone calls themselves middle class, which blurs the actual tiers. People well into the upper-income band and people in the lower-income band alike tend to self-identify as middle class, so the label carries far less information than it seems to — it has become a cultural identity more than an income bracket.",
+    "Your sense of where you stand is also shaped by who is around you. People tend to cluster socially and geographically with others of similar income, so your immediate surroundings look 'normal' and 'middle' almost by construction, even if they sit well above or below the national median.",
+    "And cost of living scrambles the picture further. The same income that is comfortably upper-tier in a low-cost area can feel stretched in an expensive city, so people reasonably feel 'middle' based on how far their money goes locally, even when the national-income definition would place them elsewhere."
+  ],
+  "whatResearchSaysToDo": [
+    "If the question is factual — where you actually fall — the honest approach is to compare your household income, adjusted for household size, against the national median rather than against the people immediately around you. The middle band runs roughly from two-thirds to double that median, and seeing the real number tends to be more grounding than the felt sense.",
+    "It helps to separate the statistical tier from how things feel day to day. Where you fall in the income distribution and whether you feel financially secure are different questions, and research on financial wellbeing consistently ties security more to stability and a buffer against shocks than to which labelled tier you occupy.",
+    "Treating the tiers as descriptive rather than as a scorecard is the most useful framing. They locate you in a distribution; they do not tell you whether you are doing well or badly, which depends far more on your costs, stability, and circumstances than on a single bracket name."
+  ],
+  "whatDoesNotHelp": [
+    "Judging your tier purely by the people around you does not help, because social and geographic clustering makes almost any income feel 'middle.' Your immediate circle is an unrepresentative sample, so it is a poor proxy for where you actually fall in the national distribution.",
+    "Treating 'middle class' as a verdict on whether you are succeeding does not help either. It is a statistical band defined by income relative to the median, not a measure of security, stability, or how comfortable your life feels — those depend heavily on costs and circumstances the label ignores.",
+    "Comparing a single dollar income across very different household sizes or regions is misleading. The same number supports a very different standard of living for one person versus a family of four, or in a low-cost town versus an expensive city, which is exactly why the standard definitions adjust for household size."
+  ],
+  "realNumbersInContext": [
+    "The Pew Research Center defines middle-income households as those earning roughly two-thirds to double the national median household income, adjusted for household size, and finds about half of U.S. adults fall in that middle tier — with the rest split between lower and upper income. The band is anchored to median U.S. household income, around $80,610 in 2023 (Census).",
+    "So 'middle class' is both more defined and less self-evident than it feels. By the numbers it is a specific income range covering about half of adults, but in surveys people across the spectrum claim the label — which is why your felt sense of being 'middle' can diverge sharply from where the data actually places you."
+  ],
+  "realNumbers": [
+    { "value": "⅔ to 2×", "label": "Pew's middle-income band, as a share of median household income (size-adjusted)", "source": "Pew Research Center" },
+    { "value": "~Half", "label": "U.S. adults in the middle-income tier", "source": "Pew Research Center" },
+    { "value": "~$80,610", "label": "Median U.S. household income (2023)", "source": "U.S. Census Bureau, 2023" }
+  ],
+  "faqs": [
+    {
+      "question": "What income counts as middle class?",
+      "answer": "The Pew Research Center defines middle-income households as those earning roughly two-thirds to double the national median household income, adjusted for household size. With median U.S. household income around $80,610 in 2023 (Census), the middle band runs from roughly two-thirds of that to about double it, before the household-size adjustment."
+    },
+    {
+      "question": "What share of people are actually middle class?",
+      "answer": "By Pew's definition, about half of U.S. adults live in middle-income households, with the rest split between lower-income and upper-income tiers. So the middle is large but not a majority — a substantial share of the country sits above or below it."
+    },
+    {
+      "question": "Why does almost everyone think they're middle class?",
+      "answer": "Because self-identification barely tracks the actual tiers. People across the income range, including many in the upper and lower tiers, describe themselves as middle class. The label has become a cultural identity more than an income bracket, and social clustering means your surroundings tend to feel 'middle' regardless of where they fall nationally."
+    },
+    {
+      "question": "Why adjust for household size?",
+      "answer": "Because the same income supports a very different standard of living for one person than for a family of four. Adjusting for household size lets the definition compare households fairly, so two households with identical incomes can land in different tiers depending on how many people that income supports."
+    },
+    {
+      "question": "Does being middle class mean I'm financially secure?",
+      "answer": "Not necessarily. The tier is a statistical band defined by income relative to the median, not a measure of security. Research on financial wellbeing ties security more to stability and a buffer against shocks — and to your local costs — than to which labelled tier you occupy."
+    }
+  ],
+  "dataSources": [
+    "Pew Research Center — middle-class income definition (two-thirds to double the median, size-adjusted) and share of adults by tier.",
+    "U.S. Census Bureau, Income in the United States (2023) — median household income (~$80,610)."
+  ],
+  "relatedInsights": [
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "where-do-you-actually-stand-understanding-your-life-in-global-context",
+    "what-most-people-your-age-actually-have-saved"
+  ],
+  "lastReviewed": "2026-06"
+}

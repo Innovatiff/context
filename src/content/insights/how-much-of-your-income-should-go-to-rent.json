@@ -1,0 +1,71 @@
+{
+  "title": "How Much of Your Income Should Actually Go to Rent?",
+  "slug": "how-much-of-your-income-should-go-to-rent",
+  "category": "money-and-financial-reality",
+  "metaTitle": "How Much of Your Income Should Go to Rent? The Real Answer",
+  "metaDescription": "The '30% on housing' rule is a rough U.S. policy guideline, not a law. Roughly half of renters now exceed it. Here is the honest context.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "The familiar '30% of income on rent' figure comes from U.S. housing policy as the threshold for being 'cost-burdened,' and roughly half of U.S. renter households now spend more than that — so exceeding it is common, not a personal failing.",
+  "honestAnswer": [
+    "There is no single correct percentage, and the popular '30% of income on rent' number is a rough policy guideline rather than a law of personal finance. It traces back to U.S. housing policy, where 30% is the threshold above which a household is officially counted as 'cost-burdened.' It was never meant as a precise target every individual must hit.",
+    "In practice a large share of renters spend more than 30%, and in high-cost areas it can be close to unavoidable. So if your rent is above that line, you are in the company of roughly half of all U.S. renter households — not on the wrong side of some universal rule."
+  ],
+  "whatDataShows": [
+    "The 30% figure is a benchmark from U.S. housing policy. Households spending more than 30% of income on housing are classified as 'cost-burdened,' and those spending more than 50% as 'severely cost-burdened.' These are administrative definitions used to track affordability, not financial advice tuned to any one person's situation.",
+    "By that measure, being over the line is widespread. Drawing on Census data, the Harvard Joint Center for Housing Studies has reported that roughly half of U.S. renter households are cost-burdened — spending over 30% of income on rent — and that around a quarter are severely burdened, spending over 50%. These are approximate, vary year to year, and run higher in expensive metros.",
+    "The pattern reflects the gap between rents and incomes more than individual choices. When rents rise faster than wages, the share of income going to housing climbs for renters across the board, which is why the 30% guideline has become harder to meet over time rather than easier."
+  ],
+  "whyItFeelsDifferent": [
+    "The 30% rule gets repeated so often that it can feel like a moral standard — as though crossing it means you have overspent or mismanaged something. But it was designed as a population-level affordability flag, and a flag that roughly half of renters now trip is describing the housing market more than it is describing you.",
+    "It also feels different because rent is one of the few large numbers other people cannot see. You know exactly what share of your paycheck disappears on the first of the month; you have no idea what share of theirs does. That asymmetry makes it easy to assume you are an outlier when, in the data, a high housing share is close to the norm for renters.",
+    "And the guideline rarely travels with its context. The original 30% was framed around a typical household in a typical market, not around a renter in an expensive city where the cheapest available unit already eats a much larger slice. The rule has stayed fixed while the markets it is applied to have not."
+  ],
+  "whatResearchSaysToDo": [
+    "Treat 30% as a useful reference point, not a verdict. If your rent sits above it, the more informative questions are whether you can still cover essentials, build even a small buffer, and absorb an unexpected bill — the things research links to lower financial stress — rather than whether you have crossed a single line.",
+    "Where it is realistic, the largest housing decisions tend to matter more than small ones: location, unit size, and whether to share space move the percentage far more than trimming around the edges. In high-cost areas, the honest options are often structural — roommates, a longer commute, a different neighbourhood — rather than budgeting harder within a fixed rent.",
+    "Anchoring to the actual distribution helps. Knowing that a high housing share is common for renters, and not a sign you have failed, supports calmer decisions than measuring yourself against a guideline that roughly half the renting population already exceeds."
+  ],
+  "whatDoesNotHelp": [
+    "Treating 30% as a hard pass/fail line does not help, because for many renters in expensive areas it is not achievable at any responsible choice of housing. Framing an unavoidable market reality as a personal budgeting failure tends to produce guilt without changing the underlying math.",
+    "Aggressively cutting everything except rent rarely fixes the core problem, since rent is usually the largest fixed cost and the one least responsive to small economising. The savings from smaller line items are real but modest next to the housing number itself.",
+    "Comparing your rent share to people in cheaper markets or with very different circumstances is misleading. Housing costs are intensely local, so the same 30% guideline plays out completely differently in a low-cost town and a high-cost city, and a like-for-like comparison across them is not meaningful."
+  ],
+  "realNumbersInContext": [
+    "The 30% line comes from U.S. housing policy, where households above it are counted as 'cost-burdened' and those above 50% as 'severely cost-burdened.' Drawing on Census data, the Harvard Joint Center for Housing Studies has reported that roughly half of U.S. renter households are cost-burdened and around a quarter are severely burdened. These shares are approximate and tend to be higher in expensive metros.",
+    "So the honest reading is that exceeding 30% is not the exception among renters — it is close to the middle of the distribution. The guideline is best used as a flag for affordability pressure, which is widespread, rather than as a standard most renters are expected to meet."
+  ],
+  "realNumbers": [
+    { "value": "30%", "label": "Income-on-housing threshold for being 'cost-burdened' (U.S. policy)", "source": "U.S. housing policy / U.S. Census Bureau" },
+    { "value": "~Half", "label": "U.S. renter households that are cost-burdened (over 30%)", "source": "Harvard Joint Center for Housing Studies / Census" },
+    { "value": "~A quarter", "label": "U.S. renter households severely burdened (over 50%)", "source": "Harvard Joint Center for Housing Studies / Census" }
+  ],
+  "faqs": [
+    {
+      "question": "Where does the '30% on rent' rule actually come from?",
+      "answer": "From U.S. housing policy. Thirty percent of income is the threshold above which a household is officially counted as 'cost-burdened' on housing. It is an affordability benchmark used to track the population, not a precise personal finance rule, and it was never meant as a target everyone must hit."
+    },
+    {
+      "question": "Is it bad if I spend more than 30% of my income on rent?",
+      "answer": "Not unusual, and not a verdict. Drawing on Census data, the Harvard Joint Center for Housing Studies has reported that roughly half of U.S. renter households spend more than 30%, and around a quarter spend more than 50%. In high-cost areas it can be close to unavoidable. The more useful question is whether you can still cover essentials and build a small buffer."
+    },
+    {
+      "question": "What percentage should I actually aim for?",
+      "answer": "There is no universal number. Thirty percent is a reasonable reference if it is realistic where you live, but the honest answer depends heavily on your local rents and income. In expensive markets, structural choices — sharing space, location, unit size — move the percentage far more than budgeting at the margins."
+    },
+    {
+      "question": "Why has the 30% rule become so hard to meet?",
+      "answer": "Largely because rents have risen faster than wages in many areas, which pushes the share of income going to housing up for renters across the board. The guideline has stayed fixed while the markets it is applied to have grown more expensive, so the same line is harder to stay under than it used to be."
+    }
+  ],
+  "dataSources": [
+    "Harvard Joint Center for Housing Studies, America's Rental Housing report — share of renter households cost-burdened and severely cost-burdened.",
+    "U.S. Census Bureau — housing cost burden (share of income spent on housing).",
+    "U.S. housing policy — origin of the 30% cost-burden threshold."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-live-paycheck-to-paycheck",
+    "where-does-the-average-paycheck-actually-go",
+    "does-everyone-own-a-home-by-your-age"
+  ],
+  "lastReviewed": "2026-06"
+}

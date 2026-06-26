@@ -1,0 +1,77 @@
+{
+  "title": "What Age Do People Actually Hit Major Life Milestones?",
+  "slug": "what-age-do-people-actually-hit-major-life-milestones",
+  "category": "age-and-life-stages",
+  "metaTitle": "When Do People Actually Hit Life Milestones?",
+  "metaDescription": "Marriage, kids, homeownership, peak earnings: the real ages are later and far more spread out than the script suggests. Here is what the data shows.",
+  "lifeArea": "Age & Life Stages",
+  "keyFinding": "The ages at which people marry, have children, buy a home, and reach peak earnings are later than the cultural script implies and span a wide range, so there is no single 'on time' that most people actually meet.",
+  "honestAnswer": [
+    "There is no fixed age for any of the major milestones, and the 'expected' timeline most people carry around is far tidier than what the data shows. The real numbers are both later and far more spread out than the script — and they have been drifting later for decades.",
+    "In the United States, the median age at first marriage is now roughly 28 to 30, first births have moved later, the typical first-time homebuyer is around their late thirties, and peak earnings tend to arrive in the forties or fifties rather than the twenties. Just as important as the medians is the spread: for every person who hits a milestone at the median, there are large numbers who reach it years earlier or years later, and a meaningful share who never do at all."
+  ],
+  "whatDataShows": [
+    "The clearest pattern in the U.S. data is a steady shift later. The Census Bureau's median age at first marriage has risen for decades and now sits at roughly 28 to 30, up from the early-to-mid twenties two generations ago. Fertility data show the same drift: first births have moved later, and the share of first-time mothers in their thirties and beyond has grown substantially.",
+    "Homeownership has shifted later too. The National Association of Realtors reports that the median first-time homebuyer is now around their late thirties — older than at almost any point it has tracked, and well above the 'buy your first house in your twenties' assumption many people inherited. Earnings follow a different but equally non-intuitive shape: Bureau of Labor Statistics data show median earnings tend to climb through the working years and peak somewhere in the forties or fifties, not early on.",
+    "Underneath every median is a wide distribution. These figures are the middle of a broad range, not a deadline — and 'leaving the family home', 'finishing education', and 'reaching a stable career' vary so much from person to person that no single age describes most people. The honest summary is that milestones cluster loosely around later ages than the script assumes, with enormous normal variation on either side."
+  ],
+  "whyItFeelsDifferent": [
+    "The timeline most people measure themselves against was written for a different era. The script of marry-young, buy-a-house-early, settle-quickly reflects mid-twentieth-century norms, and the actual timing of those events has moved later and spread wider since. Comparing your real life to that schedule is comparing yourself to a calendar that no longer describes most people.",
+    "Visibility also distorts the picture. The people who hit a milestone early are the ones who announce it — engagements, house keys, baby photos — while the much larger group reaching it later, or on a different path entirely, is mostly invisible. So the felt 'normal' is pulled toward the early, photogenic end of a distribution whose real middle is later and quieter.",
+    "And medians get misremembered as deadlines. A median age is simply the middle of a wide range; roughly half of people reach the milestone after it. But it tends to get treated as the point by which a thing should have happened, which manufactures a sense of being late against a line that, statistically, half the population crosses later."
+  ],
+  "whatResearchSaysToDo": [
+    "The most reliable corrective is to replace the imagined deadline with the real distribution. Look up the actual median age and, crucially, how wide the spread around it is — for marriage, first homeownership, or earnings. People who feel 'behind' on a milestone are very often sitting comfortably inside the normal range once the full distribution is visible.",
+    "It also helps to treat milestones as decoupled rather than as a fixed sequence. The old script assumed they arrive in a set order and a tight window; the data show they increasingly happen in different orders, at different paces, and sometimes not at all — and that variation is ordinary, not a deviation from a real norm.",
+    "Where a specific milestone matters to you, the research on life timing suggests focusing on your own constraints and trajectory rather than a population average. The average age tells you what is common, not what is right for one life; the useful question is whether a given step fits your circumstances, not whether you have reached it by a culturally inherited date."
+  ],
+  "whatDoesNotHelp": [
+    "Treating a median age as a personal deadline does not help and is not what the number means. Because the median is the middle of a wide range, roughly half of people reach any given milestone later — so 'I should have done this by now' is, for very common milestones, a feeling measured against a line that half the population crosses afterward.",
+    "Comparing your timing to the most visible peers is also misleading, because the early and the announced are overrepresented in what you see. The quiet majority reaching milestones later, or following a different sequence entirely, rarely shows up in feeds or conversations, so the comparison set skews young and tidy.",
+    "Trying to force a milestone purely to be 'on time' rarely serves the underlying goal. The research on life decisions consistently shows that timing matched to circumstances tends to work out better than timing matched to an external schedule — hitting a date for its own sake does not change whether the step fits your actual life."
+  ],
+  "realNumbersInContext": [
+    "The headline ages are later than most people assume. The U.S. median age at first marriage is now roughly 28 to 30 and has risen steadily for decades (U.S. Census Bureau). First births have moved later as well, with a growing share of first-time mothers in their thirties (Census / CDC fertility data). The median first-time homebuyer is around their late thirties (National Association of Realtors) — older than at almost any point on record.",
+    "Earnings peak late, not early: BLS data show median earnings tend to rise through the working years and crest somewhere in the forties or fifties. None of these are deadlines. Each is the middle of a wide distribution, which means roughly half of people reach the milestone afterward — the variation around the median is the real story, not the median itself."
+  ],
+  "realNumbers": [
+    { "value": "~28–30", "label": "U.S. median age at first marriage (and rising)", "source": "U.S. Census Bureau" },
+    { "value": "Late 30s", "label": "Median age of a first-time homebuyer", "source": "National Association of Realtors" },
+    { "value": "40s–50s", "label": "When median earnings tend to peak over a career", "source": "U.S. Bureau of Labor Statistics" },
+    { "value": "Later & wider", "label": "Long-term direction of milestone timing", "source": "Census fertility & marriage data" }
+  ],
+  "faqs": [
+    {
+      "question": "What age do most people get married?",
+      "answer": "In the U.S., the median age at first marriage is now roughly 28 to 30 and has been rising for decades (Census Bureau). That is the middle of a wide range, not a typical or required age — large numbers of people marry years earlier or later, and a meaningful share never marry."
+    },
+    {
+      "question": "When do most people buy their first home?",
+      "answer": "The National Association of Realtors reports the median first-time homebuyer is now around their late thirties, older than at almost any point it has tracked. The 'buy a house in your twenties' assumption reflects an earlier era, not the current data."
+    },
+    {
+      "question": "Am I behind if I haven't hit these milestones?",
+      "answer": "These figures are medians, meaning roughly half of people reach each milestone afterward — so being later than the median is, by definition, extremely common. The milestones have also drifted later and grown more spread out for decades, so the inherited timeline overstates how 'on schedule' anyone really is."
+    },
+    {
+      "question": "When do people earn the most?",
+      "answer": "BLS data show median earnings tend to climb through the working years and peak somewhere in the forties or fifties, not early in a career. The sense that you should already be at peak income in your twenties or thirties runs against the typical earnings curve."
+    },
+    {
+      "question": "Is there a 'right' age for any of this?",
+      "answer": "The data describe what is common, not what is right. Milestones increasingly happen in different orders, at different paces, and sometimes not at all, and that variation is ordinary. The useful question is whether a given step fits your circumstances, not whether you reached it by a culturally inherited date."
+    }
+  ],
+  "dataSources": [
+    "U.S. Census Bureau — Estimated Median Age at First Marriage (historical time series).",
+    "U.S. Census Bureau / CDC National Center for Health Statistics — fertility and mean/median age at first birth.",
+    "National Association of Realtors — Profile of Home Buyers and Sellers (median age of first-time buyers).",
+    "U.S. Bureau of Labor Statistics — median weekly/annual earnings by age group."
+  ],
+  "relatedInsights": [
+    "how-many-people-actually-achieve-the-life-they-planned-at-22",
+    "does-everyone-own-a-home-by-your-age",
+    "why-you-feel-behind-even-when-youre-not"
+  ],
+  "lastReviewed": "2026-06"
+}

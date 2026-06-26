@@ -1,0 +1,75 @@
+{
+  "title": "How Does the Average Person Actually Spend Their Day?",
+  "slug": "how-the-average-person-actually-spends-their-day",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "How the Average Person Actually Spends Their Day",
+  "metaDescription": "Sleep, work, leisure, chores: here is how the average adult's 24 hours actually break down, according to time-use data, and why your day may look nothing like it.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "On an average day, the largest block of an adult's 24 hours goes to sleep, followed by paid work for those employed and several hours of leisure, but these averages hide enormous variation between individuals.",
+  "honestAnswer": [
+    "On an average day, the single largest block of time goes to sleep — roughly 8.8 hours including naps in U.S. time-use data — followed, for those who are employed, by paid work, and then by a few hours of leisure, much of it spent watching television. The rest is divided among household activities, eating and drinking, and caring for others. That is the broad shape of a 'typical' 24 hours.",
+    "But the word average does a lot of hidden work here. The figures are population means that blend the retired and the employed, parents and people without children, day-shift and night-shift workers, into a single composite day that very few people actually live. Treat the breakdown as a map of where time goes in aggregate, not a verdict on how your own day should look."
+  ],
+  "whatDataShows": [
+    "The most detailed picture of how people spend their time comes from the American Time Use Survey, which asks a large, representative sample to account for their previous 24 hours in detail. Averaged across everyone, sleep is consistently the biggest category at roughly 8.8 hours a day including naps. After that, for people who worked on the day they were surveyed, paid work is the next largest block.",
+    "Leisure and sports take up around 5 hours of the average day, and the largest single slice of that leisure is watching television — on the order of half of all leisure time. Household activities (cleaning, cooking, maintenance, finances) typically run somewhere around 1.5 to 2 hours, eating and drinking around an hour, and caring for and helping household members varies widely depending on whether there are young children at home.",
+    "Because these are averages across the whole adult population, the 'work' figure looks smaller than a working person's actual day: it is diluted by retirees, students, and anyone not employed. Among people who did work on a given weekday, the time spent on the job is much higher. This is exactly why a single average day can feel unrecognisable to the person reading it."
+  ],
+  "whyItFeelsDifferent": [
+    "An average day rarely matches a real day because real lives are clustered, not blended. A parent of a toddler, a retiree, and a night-shift nurse all contribute to the same averages, but each lives a day shaped by their own constraints. The composite is statistically true and individually fictional at the same time.",
+    "Time also feels scarcer than the numbers imply because the hours that matter most to us — uninterrupted, freely chosen leisure — tend to be the most fragmented. Five hours of leisure spread in fifteen-minute fragments around work and chores feels nothing like five continuous hours, even though the survey records them identically.",
+    "And television's large share of leisure surprises many people, partly because it is often the time we account for least deliberately. Passive, low-effort activities expand to fill the gaps between obligations, so the average day contains more screen-based downtime than most of us would estimate from memory alone."
+  ],
+  "whatResearchSaysToDo": [
+    "If you want to understand your own day rather than judge it, the most useful step is the one the survey itself uses: account for a real 24 hours honestly, in blocks, rather than relying on impressions. People are reliably poor at estimating how they spend time from memory, and a single honest day-log usually reveals where the hours actually go.",
+    "Time-use research also suggests that protecting some continuous, freely chosen time matters more for how a day feels than the raw total of leisure. A smaller block of uninterrupted leisure can feel more restorative than a larger amount scattered through the day, so where feasible, consolidating downtime tends to help more than simply trying to find more of it.",
+    "Finally, comparing your day to the relevant subgroup — other employed parents, other shift workers — is far more informative than comparing it to the all-adult average. The population mean answers 'what does everyone do', not 'what is normal for someone in my situation', and those are different questions."
+  ],
+  "whatDoesNotHelp": [
+    "Comparing your day to the headline average and concluding something is wrong with it rarely helps, because that average describes no real person. If your work block looks larger than the survey's, that is usually because the survey is diluted by everyone who did not work that day, not because you are overworking relative to peers.",
+    "Trying to optimise every hour for productivity tends to backfire. Time-use and wellbeing research consistently finds that adequate sleep and genuine leisure are not wasted time to be trimmed; compressing them to squeeze in more output generally costs more than it returns.",
+    "Aggressively cutting leisure to 'reclaim' time also misreads the data. Leisure is already a modest share of the average day, and most of the realistically recoverable time sits in passive, half-attended screen activity — not in the rest and connection that the rest of leisure provides."
+  ],
+  "realNumbersInContext": [
+    "In U.S. time-use data, the average adult sleeps roughly 8.8 hours a day including naps, spends around 5 hours on leisure and sports — with watching television the single biggest slice — and devotes somewhere in the region of 1.5 to 2 hours to household activities and about an hour to eating and drinking. For those who are employed, paid work is one of the largest blocks of the day, but it is averaged down across the whole population because not everyone works every day.",
+    "The honest takeaway is that these are approximate population averages, not a schedule. They tell you where a society's hours go in aggregate, which is genuinely useful context, but the spread around each figure is large. A day that looks nothing like the average is the rule, not the exception, especially for parents, carers, and anyone working non-standard hours."
+  ],
+  "realNumbers": [
+    { "value": "~8.8 hrs", "label": "Average daily sleep, including naps (U.S. adults)", "source": "American Time Use Survey, BLS" },
+    { "value": "~5 hrs", "label": "Average daily leisure and sports, much of it watching TV", "source": "American Time Use Survey, BLS" },
+    { "value": "~1.5–2 hrs", "label": "Average daily household activities (cooking, cleaning, chores)", "source": "American Time Use Survey, BLS" },
+    { "value": "~1 hr", "label": "Average daily time eating and drinking", "source": "American Time Use Survey, BLS" }
+  ],
+  "faqs": [
+    {
+      "question": "What does the average person spend the most time on each day?",
+      "answer": "Sleep, by a clear margin — roughly 8.8 hours including naps in U.S. time-use data. For people who are employed, paid work is the next largest block on a working day, followed by leisure, of which watching television is the biggest single component."
+    },
+    {
+      "question": "Why does the average 'work' time look so low?",
+      "answer": "Because the all-adult average blends in everyone who did not work on the surveyed day — retirees, students, people not employed, and workers on a day off. Among people who actually worked that day, time on the job is much higher. The diluted average answers 'what do all adults do', not 'what does a working day look like'."
+    },
+    {
+      "question": "How much leisure does the average person get?",
+      "answer": "Around 5 hours a day on average, but it is spread unevenly and often fragmented around work and chores. The largest single slice of that leisure is watching television. Parents of young children and shift workers typically have considerably less continuous free time than the average suggests."
+    },
+    {
+      "question": "Is it normal for my day to look nothing like these averages?",
+      "answer": "Yes. These are population averages that combine very different lives into one composite day almost no one actually lives. A retiree, an employed parent, and a night-shift worker all feed the same numbers. Comparing yourself to the relevant subgroup is far more meaningful than comparing yourself to the all-adult mean."
+    },
+    {
+      "question": "Where do these time-use numbers come from?",
+      "answer": "Primarily the American Time Use Survey, run by the Bureau of Labor Statistics, which asks a large representative sample to account in detail for how they spent the previous 24 hours. It is one of the most rigorous sources on how people actually use time, though all the figures are approximate averages with wide individual variation."
+    }
+  ],
+  "dataSources": [
+    "American Time Use Survey, U.S. Bureau of Labor Statistics (time spent on sleep, work, leisure, household activities, eating and caring for others).",
+    "American Time Use Survey, U.S. Bureau of Labor Statistics — leisure and sports breakdown (television as the largest leisure component)."
+  ],
+  "relatedInsights": [
+    "how-much-of-your-life-do-you-have-left-in-waking-hours",
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-does-your-screen-time-compare"
+  ],
+  "lastReviewed": "2026-06"
+}
