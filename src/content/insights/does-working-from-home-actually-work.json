@@ -1,0 +1,76 @@
+{
+  "title": "Does Working From Home Actually Work?",
+  "slug": "does-working-from-home-actually-work",
+  "category": "work-and-career",
+  "metaTitle": "Does Working From Home Actually Work? What the Data Shows",
+  "metaDescription": "The honest answer on remote work: it depends on the role, and hybrid tends to perform best. Here is what the research actually shows about productivity.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Remote work neither wrecks nor supercharges productivity on average; the effect depends heavily on the role, and hybrid arrangements tend to be the emerging sweet spot — comparable output with large gains in retention and satisfaction.",
+  "honestAnswer": [
+    "It works, but the honest answer is more nuanced than either side of the argument tends to claim. The research does not support the idea that everyone working from home collapses into idleness, nor the idea that remote work is a free productivity upgrade. The general pattern is that the effect of remote work depends heavily on the role and the setup — and that a hybrid arrangement, a few days at home and a few in the office, tends to perform best.",
+    "Stanford economist Nicholas Bloom, whose team ran some of the most-cited experiments on this question, summarises the evidence roughly this way: fully remote work can match office productivity for many roles and modestly change it for others, hybrid work tends to show no measurable productivity loss while delivering big improvements in retention and satisfaction, and fully remote setups can sometimes dampen the harder-to-measure things — mentoring, on-the-job learning, and innovation. So 'does it work' is the wrong shape of question. The better one is: for which role, in which arrangement?"
+  ],
+  "whatDataShows": [
+    "The clearest causal evidence comes from randomized experiments rather than opinion surveys. In a well-known study by Bloom and colleagues at a large Chinese travel firm, employees randomly assigned to work from home showed a measurable rise in performance, driven partly by working more actual minutes (fewer breaks, fewer sick days) and partly by a quieter environment. Notably, when the experiment ended, many of those workers chose to return to the office at least part-time — an early hint that fully remote was not optimal for everyone.",
+    "Later and larger studies pushed toward the hybrid conclusion. A subsequent Bloom-led randomized trial of hybrid work at a large firm found that letting employees work from home a couple of days a week produced no measurable drop in productivity or promotion rates, while substantially cutting quit rates — the retention gain was large enough to be valuable on its own. The pandemic-era natural experiment broadly reinforced this: across many studies, average productivity effects of remote and hybrid work clustered around 'roughly flat,' with wide variation by job type rather than a single universal verdict.",
+    "Where the research raises genuine caution is the parts that are hardest to count. Bloom and others note that fully remote work can weaken mentoring, informal learning, and the spontaneous collisions that feed innovation — costs that may not show up in this quarter's output but accumulate over years, and that tend to fall hardest on the most junior workers who learn the most by being around colleagues."
+  ],
+  "whyItFeelsDifferent": [
+    "The debate feels more black-and-white than the evidence because both sides are arguing from vivid anecdotes rather than distributions. Someone who thrives at home and someone who flounders are both real — they are just different points on a wide spread, and each becomes a confident story about 'how remote work goes.' The average hides enormous variation by role, personality, home setup, and management quality.",
+    "It also feels different because the costs and benefits land on different people and different timescales. The worker often feels the immediate gain — no commute, more autonomy, fewer interruptions — while the organisation worries about the slow, hard-to-measure erosion of culture, mentoring, and innovation. Neither perception is wrong; they are measuring different things over different horizons, which is why the same arrangement can look like an obvious win and an obvious mistake at once.",
+    "And the strongest opinions often skip the distinction the data keeps insisting on: fully remote and hybrid are not the same policy. Much of the evidence that remote work 'doesn't work' is really evidence that fully remote weakens specific things, while the evidence that it 'works great' is often really about hybrid. Collapsing the two produces an argument that cannot be settled because it is about two different things."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent practical signal is that hybrid is the lower-risk default for many office roles: a few days at home for focused, independent work and a few days in the office for collaboration, mentoring, and the social glue. In the research, this combination tends to preserve productivity and promotion rates while delivering the retention and satisfaction gains that pure-office arrangements lose.",
+    "Match the arrangement to the work, not the other way round. The evidence suggests roles that are independent and output-measurable tend to do well fully remote, while roles heavy on collaboration, apprenticeship, or rapid back-and-forth benefit from more in-person time. Bloom's framing is that the question is role-specific, so the useful move is to be honest about which kind of work yours mostly is.",
+    "For fully remote setups, the research points to deliberately rebuilding what proximity used to provide for free — structured mentoring, scheduled in-person gatherings, and intentional onboarding for junior staff — because these are exactly the things that erode quietly when no one is in the room. The default of 'do nothing and hope' is what tends to produce the slow costs."
+  ],
+  "whatDoesNotHelp": [
+    "Blanket mandates in either direction — fully remote for everyone or fully back to the office for everyone — fit the evidence poorly, because they ignore the role-dependence the data keeps surfacing. Forcing collaborative apprentices to work alone, or forcing focused independent workers into a noisy open office, both throw away the part of the arrangement that was working.",
+    "Heavy surveillance software aimed at proving remote workers are 'really working' has little support as a productivity tool and a fair amount of evidence that it damages trust and morale. The randomized studies found gains without monitoring; the bottleneck in remote work is rarely effort, so policing effort tends to solve a problem that mostly is not there.",
+    "Judging the whole question by your own experience, good or bad, is the most common trap. Because the variation is so wide, your personal result — whether you flourish at home or hate it — is a single data point, not the distribution. The honest read of the research is that it works well for some role-and-person combinations and poorly for others, and that your case does not settle anyone else's."
+  ],
+  "realNumbersInContext": [
+    "In the original Chinese travel-firm experiment, Bloom and colleagues reported a roughly 13% improvement in performance among randomly assigned home workers, with about half of that coming from working more minutes and about half from higher output per minute — though, tellingly, a majority later opted back into some office time. Treat the exact figure as specific to that firm and role rather than a universal number.",
+    "The later hybrid trial found essentially no productivity or promotion penalty from a couple of remote days a week, alongside a large drop in attrition — a retention effect big enough that, on its own, it changed the economics for the employer. Across the broader body of pandemic-era research, average productivity effects of remote and hybrid work tend to land near flat, with the real story being how widely they vary by job rather than the headline average."
+  ],
+  "realNumbers": [
+    { "value": "~13%", "label": "Performance gain among randomly assigned home workers in the Chinese travel-firm experiment (firm-specific)", "source": "Bloom et al., WFH randomized experiment" },
+    { "value": "~Flat", "label": "Productivity effect of a couple of hybrid days per week in a later randomized trial", "source": "Bloom et al., hybrid-work study" },
+    { "value": "Large drop", "label": "Reduction in quit rates under hybrid work in the same trial", "source": "Bloom et al., hybrid-work study" },
+    { "value": "Role-dependent", "label": "Overall pattern of how remote work affects output", "source": "Nicholas Bloom, Stanford remote-work research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is working from home more or less productive?",
+      "answer": "On average it is roughly comparable, but the average hides wide variation by role. Some randomized studies found gains, others found small losses, and the strongest pattern is that fully remote suits independent, output-measurable work while collaborative and apprenticeship-heavy roles benefit from in-person time. Hybrid tends to show no measurable productivity loss."
+    },
+    {
+      "question": "Why do many companies want people back in the office?",
+      "answer": "Largely because of the parts of work that are hard to measure quarter to quarter — mentoring, informal learning, culture, and innovation — which the research suggests can erode under fully remote setups, especially for junior staff. The day-to-day output that is easy to count often holds up fine, which is part of why the two sides talk past each other."
+    },
+    {
+      "question": "Is hybrid actually better than fully remote?",
+      "answer": "For many office roles the evidence points that way. Bloom-led trials found hybrid work preserved productivity and promotion rates while sharply cutting quit rates — capturing much of the upside of remote flexibility while keeping the in-person time that supports mentoring and collaboration. It is best read as the lower-risk default, not a universal rule."
+    },
+    {
+      "question": "Does remote work hurt your career?",
+      "answer": "The hybrid research did not find a promotion penalty from a couple of remote days a week. The bigger career caution is for junior workers who are fully remote, since on-the-job learning and mentoring — which matter a lot early on — are exactly the things that tend to fade without in-person contact unless an organisation deliberately rebuilds them."
+    },
+    {
+      "question": "Should my team go fully remote, hybrid, or in-office?",
+      "answer": "The honest answer is that it depends on the work. Independent, focus-heavy, measurable roles tend to do well with more remote time; collaborative, fast-iterating, or apprenticeship-heavy roles benefit from more in-person time. Hybrid is the common middle ground that the research treats as low-risk for a wide range of office jobs."
+    }
+  ],
+  "dataSources": [
+    "Bloom, N., and colleagues — randomized work-from-home experiment at a large Chinese travel firm (Ctrip), Stanford remote-work research.",
+    "Bloom, N., and colleagues — randomized hybrid-work field experiment (productivity, promotion, and attrition effects), Stanford remote-work research.",
+    "Nicholas Bloom (Stanford) — broader program of research and commentary on remote, hybrid, and in-office work and their effects on productivity, retention, mentoring, and innovation."
+  ],
+  "relatedInsights": [
+    "does-working-fewer-hours-actually-make-you-more-productive",
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-many-hours-can-you-actually-focus-in-a-day"
+  ],
+  "lastReviewed": "2026-06"
+}

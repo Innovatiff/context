@@ -1,0 +1,77 @@
+{
+  "title": "How Long Do Marriages Actually Last?",
+  "slug": "how-long-do-marriages-actually-last",
+  "category": "relationships-and-connection",
+  "metaTitle": "How Long Do Marriages Actually Last? The Real Data",
+  "metaDescription": "The 'half of marriages end in divorce' line is misleading. Here is what census and demographic data actually show about marriage duration and divorce risk.",
+  "lifeArea": "Relationships & Connection",
+  "keyFinding": "The flat 'half of marriages end in divorce' figure is an outdated approximation; divorce rates have fallen since the early 1980s, lifetime divorce risk for recent marriages is widely estimated somewhat below 50% and varies a lot by age at marriage and education, and the median duration for marriages that do end is roughly seven to eight years.",
+  "honestAnswer": [
+    "Longer than the famous slogan suggests, and the slogan itself is misleading. The often-repeated line that 'half of all marriages end in divorce' came from a rough projection rather than a count of completed marriages, and it has not described reality well for decades. Divorce rates in the U.S. have generally fallen since their early-1980s peak, and demographers widely estimate that the lifetime probability of divorce for recently married couples is somewhat below 50% and lower still for some groups — though any single figure is approximate and genuinely contested.",
+    "It is also the wrong question to ask as a flat average, because divorce risk varies enormously by age at marriage, education, and which cohort you are looking at. For marriages that do end in divorce, the median duration is roughly seven to eight years according to census and vital-statistics data. None of this is a verdict on any particular relationship; it is just the distribution, which is far more varied than the headline implies."
+  ],
+  "whatDataShows": [
+    "The 'half of marriages' figure is a projection, not a tally. It comes from comparing the number of divorces in a year to the number of marriages in that same year, or from extrapolating current age-specific divorce rates forward over a lifetime. Both are rough approximations, and demographers have long cautioned that the real lifetime divorce probability for recent marriage cohorts appears to sit somewhat below 50% rather than exactly at it. Economists Justin Wolfers and Betsey Stevenson, among others, have documented that U.S. divorce rates rose through the 1970s, peaked around 1980, and have generally declined since — so a number anchored to that peak overstates today's risk.",
+    "Risk is highly uneven across groups. The data consistently show that marrying at a very young age is associated with substantially higher divorce risk, and that college-educated couples have seen their divorce rates fall the most, so their marriages are, on average, more likely to last. This means a single population-wide average hides large differences; 'how long do marriages last?' has very different answers depending on who is marrying and when.",
+    "For the marriages that do end, duration data give a clearer picture than the lifetime-risk debate. U.S. Census Bureau and CDC/NCHS figures put the median duration of marriages that end in divorce at roughly seven to eight years. That is a median for divorcing couples specifically — most marriages do not end in divorce in any given window, and a large share last decades or for life."
+  ],
+  "whyItFeelsDifferent": [
+    "The 50% figure feels like settled fact because it has been repeated for forty years, often without a source, and a memorable round number is far stickier than a hedged, group-specific estimate. Once 'half of marriages fail' entered common speech it stopped being checked, even as the underlying rates moved.",
+    "Divorce is also far more visible than a quiet, durable marriage. A marriage that simply continues generates no event, no announcement, and no story, while a divorce is a discrete, noticeable change in someone's life. That visibility gap makes divorce feel more common than the numbers support — you notice the marriages that end and overlook the many that don't.",
+    "And because the figure is usually stated flat, it erases exactly the variation that matters most. Hearing 'half of marriages end in divorce' tells you nothing about your own situation, yet it lands as if it did, because averages are easy to mistake for predictions about a single case."
+  ],
+  "whatResearchSaysToDo": [
+    "If the goal is an accurate sense of the landscape rather than a verdict, the most useful move is to replace the flat figure with the conditional one: divorce risk depends heavily on age at marriage, education, and cohort, and the lifetime estimate for recent marriages is widely judged to be somewhat below 50% and trending down for some groups. That is a more honest input than any single percentage.",
+    "Demographic research is descriptive, not prescriptive, so it is careful about claiming that any individual choice 'causes' a lasting marriage. The associations that show up repeatedly — for example, that very early marriage carries higher divorce risk — describe group patterns, not guarantees for any one couple. Treating them as context rather than as rules is the accurate reading.",
+    "For anyone trying to understand their own situation, the data is most helpful as a corrective to fatalism: the headline overstates today's divorce risk, marriages that last are the larger story, and outcomes vary far more by circumstance than a single number can convey."
+  ],
+  "whatDoesNotHelp": [
+    "Quoting the flat '50% of marriages end in divorce' figure as current fact does not help, because it is an outdated approximation that overstates today's risk and ignores the large variation by age, education, and cohort. Treating it as a prediction about a specific marriage is a misuse of a population projection.",
+    "Reading a population statistic as a forecast for your own relationship does not work either. A lifetime-risk estimate describes a cohort, not a couple; it cannot tell any individual whether their marriage will last, and using it that way produces anxiety without information.",
+    "Swinging to the opposite belief — that divorce is rare or that falling rates mean marriages are uniformly more stable — is also unsupported. Rates have fallen overall but unevenly, and part of the decline reflects people marrying later and less, not just marriages lasting longer. The honest position is that the picture is mixed and group-dependent, not that either slogan is true."
+  ],
+  "realNumbersInContext": [
+    "The famous figure is a projection, not a count. The '50% of marriages end in divorce' line came from comparing yearly divorces to yearly marriages, or from extrapolating current rates over a lifetime — both rough methods. Demographers widely estimate the lifetime divorce probability for recent marriages is somewhat below 50% and declining for some groups, especially college-educated couples; U.S. divorce rates peaked around 1980 and have generally fallen since (analyses by Wolfers and Stevenson, among others). Treat any single percentage as approximate and contested.",
+    "For marriages that do end in divorce, the median duration is roughly seven to eight years according to U.S. Census Bureau and CDC/NCHS data. But this is a median for divorcing couples only — most marriages in any given period do not end in divorce, and risk varies sharply by age at marriage and education, so a flat average hides far more than it reveals."
+  ],
+  "realNumbers": [
+    { "value": "Below ~50%", "label": "Widely estimated lifetime divorce risk for recent marriages (approximate, contested)", "source": "Demographic analyses (Wolfers & Stevenson and others)" },
+    { "value": "~7–8 years", "label": "Median duration of marriages that end in divorce", "source": "U.S. Census Bureau / CDC-NCHS" },
+    { "value": "~1980", "label": "Peak of U.S. divorce rates, generally declining since", "source": "Demographic analyses (Wolfers & Stevenson)" },
+    { "value": "Falling fastest", "label": "Divorce-rate trend for college-educated couples", "source": "Demographic analyses of divorce by education" }
+  ],
+  "faqs": [
+    {
+      "question": "Do half of all marriages really end in divorce?",
+      "answer": "Not according to the best current reading of the data. The 50% figure was a rough projection, not a count of completed marriages, and U.S. divorce rates have generally fallen since their early-1980s peak. Demographers widely estimate the lifetime divorce probability for recent marriages is somewhat below 50% and lower for some groups, though any single number is approximate and contested."
+    },
+    {
+      "question": "How long does the average marriage that ends actually last?",
+      "answer": "For marriages that end in divorce, U.S. Census Bureau and CDC/NCHS data put the median duration at roughly seven to eight years. That is a median for divorcing couples specifically — most marriages in a given period do not end in divorce, and many last for decades or for life."
+    },
+    {
+      "question": "Why is the 50% number still everywhere if it's wrong?",
+      "answer": "It is a memorable round number that has been repeated for decades, often without a source, and divorce is far more visible than a quiet, lasting marriage. Once a figure becomes common speech it tends to stop being checked, even as the underlying rates change."
+    },
+    {
+      "question": "Does divorce risk vary a lot from person to person?",
+      "answer": "Yes — substantially. The data consistently show higher divorce risk for those who marry very young, and lower, falling rates among college-educated couples. A flat population average hides these large differences, which is part of why any single percentage is a poor guide to an individual situation."
+    },
+    {
+      "question": "Are marriages getting more stable over time?",
+      "answer": "On average, divorce rates have declined since around 1980, but the trend is uneven across groups, and part of the decline reflects people marrying later and less rather than marriages simply lasting longer. The honest summary is mixed: more stable in some respects and for some groups, not a uniform improvement."
+    }
+  ],
+  "dataSources": [
+    "U.S. Census Bureau — marriage and divorce statistics, including duration of marriage data (Survey of Income and Program Participation / American Community Survey).",
+    "CDC / National Center for Health Statistics (NCHS) — marriage and divorce rates and marriage duration.",
+    "Stevenson, B., & Wolfers, J. — analyses of U.S. marriage and divorce trends (divorce rates peaking around 1980 and declining since; the limits of the flat 50% figure).",
+    "Demographic research on divorce risk by age at marriage, education, and cohort."
+  ],
+  "relatedInsights": [
+    "does-getting-married-actually-make-you-happier",
+    "what-is-a-normal-relationship-actually-like",
+    "how-do-most-people-actually-meet-their-partner"
+  ],
+  "lastReviewed": "2026-06"
+}

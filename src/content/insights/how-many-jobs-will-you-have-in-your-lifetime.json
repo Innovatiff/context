@@ -1,0 +1,74 @@
+{
+  "title": "How Many Jobs Will You Actually Have in a Lifetime?",
+  "slug": "how-many-jobs-will-you-have-in-your-lifetime",
+  "category": "work-and-career",
+  "metaTitle": "How Many Jobs Will You Have in a Lifetime? The Real Number",
+  "metaDescription": "Most people hold around a dozen jobs over a career, many of them before age 25. Here is what the BLS data shows about how normal job-changing really is.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "People typically hold around a dozen jobs across a working life — a large share of them early on — so changing jobs repeatedly is statistically normal rather than a sign of instability.",
+  "honestAnswer": [
+    "More than most people expect, and far more than the old image of a single lifelong employer suggests. Long-running U.S. data tracking the same people across their careers finds that holding around a dozen jobs over a working life is typical, not unusual — and that a large share of those jobs are held early, before the mid-twenties, when people are still sorting out what fits.",
+    "The honest takeaway is that a career made of many jobs, including changes of direction, is close to the statistical norm rather than a warning sign. If your résumé already has several roles on it, or you expect to change again, that places you squarely in the middle of the distribution. The single-employer career was always less common than nostalgia implies, and it has become rarer still."
+  ],
+  "whatDataShows": [
+    "The most reliable source here is the U.S. Bureau of Labor Statistics' National Longitudinal Survey of Youth, which has followed the same group of Americans for decades and counted the jobs they actually held. For the cohort born in the early 1960s, the survey found people held roughly 12 jobs on average between ages 18 and about 56 — a figure that counts every separate employer, including short and part-time ones.",
+    "A striking share of that job-changing happens young. In the same data, a large fraction of all the jobs people ever hold are concentrated before age 25, when early-career exploration, part-time work, and finding a fit drive frequent moves. After the mid-twenties the pace of switching slows considerably, but it never drops to zero — people keep changing jobs throughout their working lives.",
+    "Separately, BLS tracks how long people stay in a given job, and median employee tenure has long hovered around four years. That median is pulled in two directions — many short stints and some very long ones — but it underlines the same point: staying a few years and moving on is the ordinary rhythm of a working life, not a deviation from it. Treat all of these as approximate, cohort-specific figures rather than precise predictions for any one person."
+  ],
+  "whyItFeelsDifferent": [
+    "Job-changing feels riskier and more abnormal than it is partly because of an outdated cultural script — the idea of one loyal employer and a gold watch at the end — that described a relatively narrow slice of mostly mid-20th-century workers and never matched the full population. Measuring yourself against that script makes an ordinary number of job changes feel like restlessness.",
+    "It also feels different because other people's careers are presented as tidy narratives after the fact. A résumé or a LinkedIn profile compresses a decade of false starts, lateral moves, and changes of heart into a clean upward line, so everyone else's path looks more deliberate and stable than your own messy, in-progress version. The exploration is real; it just gets edited out of the story.",
+    "And the language around job-changing is loaded. Words like 'job-hopping' frame a statistically normal pattern as a character flaw, while the same behaviour is also described as 'building experience' when it suits. The behaviour is identical; only the framing differs — and the data suggests the behaviour itself is simply what most working lives look like."
+  ],
+  "whatResearchSaysToDo": [
+    "The most grounded thing the data supports is recalibrating your sense of 'normal': if you expect to hold many jobs and change direction more than once, you are anticipating the average career, not failing at a stable one. That reframing alone tends to take some of the anxiety out of an upcoming move, because the move is no longer evidence that something has gone wrong.",
+    "The data also suggests treating early-career churn as expected information-gathering rather than a permanent record. Since so much job-changing is concentrated before the mid-twenties, the early jobs are doing the work of telling you what fits — which means a string of them is closer to the design of an early career than a deviation from it.",
+    "Where you do want to be deliberate is in distinguishing a move that adds skills, pay, or direction from one that simply repeats the last situation. The research on tenure does not say 'switch constantly' or 'never switch' — it says switching is normal, so the useful question is not whether to move but whether a given move actually changes your trajectory."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the number of jobs on your résumé as a verdict on your stability does not hold up against the data, because a dozen-ish jobs over a career is the ordinary figure. Reading your own normal job count as a red flag mostly imports an outdated standard and generates needless anxiety about a pattern almost everyone shares.",
+    "Staying in a role purely to avoid looking like a 'job-hopper' is weakly supported as a strategy, given how common changing jobs actually is and how often staying put can cost in pay and growth. The fear of the optics tends to be larger than the actual penalty, especially as multi-job careers have become the norm rather than the exception.",
+    "Chasing constant change for its own sake is the opposite trap and is no better grounded. The data normalises moving; it does not say movement itself improves anything. A change that repeats your previous situation adds a line to the résumé without adding to your trajectory, which is the part the numbers suggest is worth being honest about."
+  ],
+  "realNumbersInContext": [
+    "In the BLS National Longitudinal Survey of Youth, people born in the early 1960s held about 12 jobs on average between ages 18 and roughly 56 — and a large share of those jobs were held before age 25, during early-career exploration. Read these as averages for one tracked cohort: individual experience varies widely, and the exact figure shifts somewhat across cohorts and definitions of a 'job.'",
+    "Median employee tenure in the U.S. has long sat around four years (BLS), meaning the typical person stays in a given job a few years before moving on. Taken together, the picture is consistent: a working life of many jobs, faster switching when young and slower later, is the ordinary shape of a career rather than a sign of instability."
+  ],
+  "realNumbers": [
+    { "value": "~12", "label": "Average number of jobs held ages 18–56 (early-1960s birth cohort)", "source": "BLS, National Longitudinal Survey of Youth" },
+    { "value": "Most before 25", "label": "Large share of all jobs held during early-career years", "source": "BLS, National Longitudinal Survey of Youth" },
+    { "value": "~4 years", "label": "Median employee tenure in a given job", "source": "BLS, employee tenure data" }
+  ],
+  "faqs": [
+    {
+      "question": "How many jobs does the average person have in a lifetime?",
+      "answer": "Roughly a dozen. In the BLS National Longitudinal Survey of Youth, people born in the early 1960s held about 12 jobs on average between ages 18 and the mid-fifties, with a large share of those held before age 25. Treat it as an approximate average for a tracked cohort, not an exact figure for any one person."
+    },
+    {
+      "question": "Is changing jobs often a bad sign?",
+      "answer": "Not by the numbers. Holding many jobs over a career is statistically normal, and a lot of switching happens young, when people are finding a fit. The 'job-hopper' label frames an ordinary pattern as a flaw. What matters more than the count is whether a given move adds skills, pay, or direction."
+    },
+    {
+      "question": "How long do people usually stay in one job?",
+      "answer": "Median employee tenure in the U.S. has long been around four years (BLS). That sits between many shorter stints and some very long ones, but it reflects the same overall rhythm: staying a few years and then moving on is the ordinary pattern, not an exception."
+    },
+    {
+      "question": "Why does it feel like everyone else has a stable career?",
+      "answer": "Because finished résumés and profiles compress years of false starts and changes of direction into a clean upward line, the exploration gets edited out. The single-employer 'gold watch' career was also always less common than nostalgia suggests, so the stable-career image you compare yourself to was never the norm."
+    },
+    {
+      "question": "Will I really have a dozen jobs?",
+      "answer": "Maybe more, maybe fewer — the dozen figure is a cohort average, and individual paths vary a lot. The useful point is the order of magnitude: most working lives involve many jobs and more than one change of direction, so expecting that is expecting the average, not a worst case."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics, National Longitudinal Survey of Youth (NLSY79) — number of jobs held over a career; early-1960s birth cohort, ages 18 through the mid-fifties.",
+    "U.S. Bureau of Labor Statistics, Employee Tenure news release — median years with current employer."
+  ],
+  "relatedInsights": [
+    "does-changing-jobs-actually-pay-more-than-staying",
+    "what-research-shows-about-changing-careers-after-40",
+    "how-many-people-actually-achieve-the-life-they-planned-at-22"
+  ],
+  "lastReviewed": "2026-06"
+}

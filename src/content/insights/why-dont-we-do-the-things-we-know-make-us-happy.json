@@ -1,0 +1,75 @@
+{
+  "title": "Why Don't We Do the Things We Know Make Us Happy?",
+  "slug": "why-dont-we-do-the-things-we-know-make-us-happy",
+  "category": "happiness-research",
+  "metaTitle": "Why We Don't Do What Makes Us Happy — The Research",
+  "metaDescription": "We mispredict what will make us happy, intentions don't translate to action, and we default to easy rewards. Here is the research on the knowing-doing gap.",
+  "lifeArea": "Happiness Research",
+  "keyFinding": "The gap between knowing what makes us happy and actually doing it is a normal, well-documented pattern, driven by mispredicting our own feelings, intentions failing to become action, and a pull toward immediately rewarding but lower-value options.",
+  "honestAnswer": [
+    "Because there is a real, well-studied gap between knowing what makes us happy and doing it, and that gap is normal rather than a sign of weakness. Several documented patterns stack up: we are surprisingly bad at predicting what will actually make us happy and for how long, so we often aim at the wrong things; even when we intend to do the right thing, intentions translate into action far less reliably than we assume; and in the moment we default to whatever is convenient and immediately rewarding.",
+    "The things that reliably support wellbeing — connection, exercise, meaningful effort — tend to cost something up front and pay off slowly, while the low-value options, like scrolling, are effortless and rewarding right now. On top of that, we adapt to the good habits once we have them, which hides their payoff. So the failure to act is not a character flaw; it is the predictable result of how prediction, motivation, and reward actually work."
+  ],
+  "whatDataShows": [
+    "We mispredict our own future feelings. Research on affective forecasting by Wilson and Gilbert shows that people are systematically poor at anticipating how events will make them feel and, especially, how long the feeling will last — a tendency they call the impact bias. We overestimate the emotional impact of both good and bad events, which means the things we expect to make us happy often deliver less than imagined, and we chase the wrong targets as a result.",
+    "Knowing the right thing to do is a weak predictor of doing it. Research on the intention–behaviour gap, including work by Sheeran, finds that good intentions account for far less of our actual behaviour than people assume — across health and other domains, a large share of people who genuinely intend to act never follow through. Intending to exercise, call a friend, or sleep more is only loosely connected to whether it happens.",
+    "Immediate rewards beat delayed ones in the moment. The activities most associated with wellbeing — social connection, physical activity, absorbing effort — generally require some up-front cost and pay off later, whereas convenient options like scrolling deliver a small reward instantly and demand nothing. Given a default pull toward what is rewarding right now, the easy option tends to win the moment-to-moment contest even when we know it serves us less."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like a personal failing — laziness, lack of discipline — because we experience the gap from the inside, as 'I knew what to do and didn't do it.' But the research reframes it as a structural mismatch, not a willpower deficit: prediction errors, weak intention-to-action links, and immediate-reward bias are features of normal human cognition, present in basically everyone, not symptoms of a uniquely flawed character.",
+    "It also feels confusing because we genuinely do know what helps. The knowledge is real; the problem is that knowledge is one of the weakest levers on behaviour. We tend to assume that understanding the right thing should be enough to do it, so when it isn't, we conclude something is wrong with us — rather than recognising that the knowing-doing gap is exactly what the evidence predicts.",
+    "And adaptation hides the evidence that the good habits work. Because we get used to the benefits of exercise, connection, or good sleep, their payoff becomes part of our baseline and stops being noticeable, while the cost of doing them stays visible up front. The very mechanism that should reward the habit quietly erases the felt reward, which makes the effortless alternative look comparatively better than it is."
+  ],
+  "whatResearchSaysToDo": [
+    "Reduce the up-front cost rather than relying on motivation. Since the wellbeing-supporting options lose the in-the-moment contest because they take effort, the most reliable moves make them easier and the low-value options harder: laying out gym clothes, scheduling the walk with a friend so it's a commitment, keeping the phone in another room. Shrinking the friction tends to do more than resolving to try harder.",
+    "Close the intention–behaviour gap with structure, not just resolve. The research on this gap finds that concrete plans specifying when, where, and how you'll act — sometimes called implementation intentions — meaningfully improve follow-through compared with a general intention. 'I'll exercise more' is weak; 'I'll walk for twenty minutes after lunch on Monday, Wednesday, and Friday' converts to action far more often.",
+    "Account for misforecasting by trusting tested patterns over predicted feelings. Because we mispredict what will make us happy, it helps to lean on what reliably works for most people — connection, movement, meaningful activity — rather than on our in-the-moment sense of what we feel like doing, which is biased toward immediate comfort. The activities you'll be glad you did are often not the ones you predict you'll enjoy most."
+  ],
+  "whatDoesNotHelp": [
+    "Simply learning more about what makes people happy does not close the gap, because knowledge is a weak driver of behaviour. Reading another article on the benefits of exercise or connection adds information you probably already have; the bottleneck is translating intention into action, which more facts don't address.",
+    "Relying on willpower and motivation alone is unreliable, since the immediate-reward pull operates in exactly the moments when motivation is lowest. Plans that depend on feeling like doing the right thing tend to fail precisely when you need them, which is why reducing friction and pre-committing outperform 'trying harder.'",
+    "Harsh self-blame for the knowing-doing gap is both inaccurate and counterproductive. The gap is a normal, near-universal feature of how prediction and reward work, not evidence of a weak character, and treating it as a moral failure tends to add discouragement without improving follow-through. Designing the situation works better than berating the person."
+  ],
+  "realNumbersInContext": [
+    "There isn't a single clean statistic for the knowing-doing gap, and any precise 'we follow through X% of the time' figure should be treated cautiously, but the direction is well established. Research on the intention–behaviour gap (including Sheeran's work) consistently finds that intentions explain far less of actual behaviour than people assume — a large share of those who genuinely intend to act never do — which is why concrete plans outperform good intentions.",
+    "The other two pieces are robust as patterns rather than numbers. Affective forecasting research (Wilson and Gilbert) shows we systematically overestimate how much and how long things will affect our feelings, so we aim at the wrong targets. And the basic asymmetry holds: connection and exercise cost effort now and pay off later, while scrolling pays off instantly and costs nothing in the moment — so the easy option tends to win unless you change the setup. None of this is a personal flaw; it's the normal shape of human motivation."
+  ],
+  "realNumbers": [
+    { "value": "Impact bias", "label": "We overestimate how much and how long things affect our happiness", "source": "Wilson & Gilbert, affective forecasting research" },
+    { "value": "Weak link", "label": "Good intentions explain far less of behaviour than assumed", "source": "Sheeran, intention–behaviour gap research" },
+    { "value": "Immediate vs. delayed", "label": "Easy rewards beat slower-paying wellbeing habits in the moment", "source": "Research on habits and reward timing" }
+  ],
+  "faqs": [
+    {
+      "question": "Why don't I do the things I know would make me happier?",
+      "answer": "Because there's a real, well-documented gap between knowing and doing. We mispredict what will actually make us happy, our intentions translate into action far less reliably than we assume, and in the moment we default to whatever is immediately rewarding. The wellbeing-supporting options cost effort up front and pay off slowly, so the easy option tends to win. It's a normal pattern, not a character flaw."
+    },
+    {
+      "question": "Is this just laziness or lack of willpower?",
+      "answer": "No. The research reframes it as a structural mismatch present in nearly everyone — prediction errors, a weak link between intention and action, and a pull toward immediate rewards. These are features of normal human cognition, not symptoms of a uniquely flawed character. Designing your situation to reduce friction works better than blaming yourself or trying to force more willpower."
+    },
+    {
+      "question": "What actually helps close the gap?",
+      "answer": "Reducing the up-front cost of good options and adding friction to the easy ones, and making concrete plans that specify when, where, and how you'll act rather than relying on general intentions. 'I'll exercise more' converts to action far less often than 'I'll walk twenty minutes after lunch on Monday, Wednesday, Friday.' Structure and friction beat motivation and willpower."
+    },
+    {
+      "question": "Why do I keep chasing things that don't make me happy?",
+      "answer": "Affective forecasting research (Wilson and Gilbert) shows we're systematically bad at predicting how much and how long things will affect our feelings — a tendency called the impact bias. So we aim at targets we expect to deliver more happiness than they do, and in the moment we're drawn to immediate comfort. Leaning on what reliably works for most people beats trusting your in-the-moment prediction."
+    },
+    {
+      "question": "Why don't good habits feel rewarding even when they work?",
+      "answer": "Because of adaptation. Once exercise, connection, or good sleep become part of your routine, you get used to their benefits and they fade into your baseline, while the effort to do them stays visible up front. The mechanism that should reward the habit quietly erases the felt reward, which makes the effortless alternative look better than it actually is."
+    }
+  ],
+  "dataSources": [
+    "Wilson, T. D., & Gilbert, D. T. — affective forecasting research and the impact bias.",
+    "Sheeran, P. — research on the intention–behaviour gap.",
+    "Research on habits and the role of immediate versus delayed rewards in behaviour."
+  ],
+  "relatedInsights": [
+    "why-achieving-the-thing-you-wanted-didnt-feel-the-way-you-expected",
+    "what-small-things-actually-make-people-happier",
+    "can-you-train-yourself-to-be-happier"
+  ],
+  "lastReviewed": "2026-06"
+}

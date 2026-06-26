@@ -1,0 +1,81 @@
+{
+  "title": "How Common Is Depression, Really?",
+  "slug": "how-common-is-depression-really",
+  "category": "health-and-energy",
+  "metaTitle": "How Common Is Depression, Really? What the Data Shows",
+  "metaDescription": "Roughly 8% of U.S. adults had a major depressive episode in the past year, and far more over a lifetime. What the data shows — and what it does not.",
+  "lifeArea": "Health & Energy",
+  "keyFinding": "Depression is one of the most common health conditions in the world — affecting roughly 8% of U.S. adults in a given year and hundreds of millions globally — but a prevalence number describes how widespread it is, not whether any individual is unwell.",
+  "honestAnswer": [
+    "Educational only, not medical advice. Depression is far more common than most people assume. In the United States, national survey data suggest that roughly 8% of adults experienced a major depressive episode in the past year, and the lifetime figure — the share of people who will meet the criteria at some point — is considerably higher. Globally, the World Health Organization estimates that hundreds of millions of people live with depression. By the numbers, it is one of the most widespread health conditions there is.",
+    "But a prevalence statistic answers a population question, not a personal one. It tells you how common depression is across millions of people; it cannot tell you whether what you are feeling is depression, ordinary low mood, grief, burnout, or something else entirely. Only a qualified clinician can assess that. If you are struggling, this page is not a substitute for that conversation — and if you are in crisis or thinking about harming yourself, contact a professional or a crisis line right away (in the US, call or text 988)."
+  ],
+  "whatDataShows": [
+    "The most reliable U.S. figures come from the National Survey on Drug Use and Health (NSDUH), summarised by the National Institute of Mental Health (NIMH). Recent estimates put the past-year prevalence of a major depressive episode among adults at roughly 8% — meaning around one in twelve adults met the criteria within a single year. Rates are consistently higher among younger adults than older ones, and higher among women than men.",
+    "Past-year figures understate how common depression is across a whole life, because they only count a single twelve-month window. Lifetime prevalence — the share of people who experience at least one episode at some point — is substantially higher, with large epidemiological surveys generally landing in the range of roughly one in five to one in three adults depending on the population and how it is measured. The honest summary is that a large minority of people will deal with depression directly at some stage.",
+    "Globally, the World Health Organization estimates that hundreds of millions of people live with depressive disorders, and it ranks depression among the leading contributors to the global burden of disability. These numbers come with real caveats: definitions, screening tools, and willingness to report differ across countries, so cross-national comparisons are rough. But every credible source points the same direction — depression is common, worldwide, and frequently underdiagnosed and undertreated."
+  ],
+  "whyItFeelsDifferent": [
+    "Depression is common but largely invisible, which makes it feel rare. People rarely discuss it openly, and the symptoms — withdrawal, exhaustion, flatness, difficulty concentrating — are easy to hide or to attribute to stress, laziness, or a bad stretch. So the eight-in-a-hundred figure almost never matches the lived sense that you are the only one struggling.",
+    "Stigma compounds the distortion. Because depression is still widely misunderstood as a mood you should be able to talk yourself out of, many people stay silent, which keeps the true prevalence out of view and leaves those affected feeling unusually alone. The data says the opposite: if you have experienced it, you are in very large company.",
+    "There is also a subtler trap in the numbers themselves. Knowing that depression is common can feel either reassuring or dismissive depending on the moment — and it should never be read as 'so it's not a big deal.' Common and serious are not opposites. A condition affecting millions of people is, by definition, both."
+  ],
+  "whatResearchSaysToDo": [
+    "The single most evidence-backed step is also the simplest to state and the hardest to take: talk to a qualified professional. Depression is a recognised medical condition, and decades of research support effective treatments — including various forms of psychotherapy, medication, or a combination — though what works varies from person to person and finding the right fit can take time. A clinician's assessment is the starting point, not self-diagnosis from prevalence figures.",
+    "Screening tools used in primary care (such as standard depression questionnaires) exist precisely because the condition is common and treatable, and catching it earlier tends to lead to better outcomes. If low mood, loss of interest, or exhaustion has persisted for more than a couple of weeks and is affecting daily life, that persistence is the signal clinicians look for — and a reason to seek an assessment rather than wait it out.",
+    "Educational only, not medical advice. If you are in crisis, having thoughts of harming yourself, or worried about someone who is, do not wait for an appointment — contact a crisis line immediately. In the US you can call or text 988 (the Suicide and Crisis Lifeline), and emergency services are always an option. Support is available, and reaching for it is the step the evidence most consistently endorses."
+  ],
+  "whatDoesNotHelp": [
+    "Using prevalence numbers to self-diagnose — in either direction — does not help. Concluding 'it's common, so I'm probably fine' can delay care that would help, while concluding 'I definitely have what these statistics describe' skips the assessment that actually distinguishes depression from the many things that resemble it. The numbers are context, not a diagnosis.",
+    "The common advice to simply push through, stay busy, or 'snap out of it' is not supported by the evidence and can make things worse, because clinical depression is not a willpower problem. Likewise, waiting indefinitely for it to lift on its own is risky when symptoms are persistent — some episodes do resolve, but persistence is exactly when professional input matters most.",
+    "Treating depression as a personal failing or a character flaw is both inaccurate and counterproductive. The research frames it as a medical condition with biological, psychological, and social contributors — common, treatable, and no more shameful than any other illness. Self-blame tends to deepen the very symptoms it attaches to."
+  ],
+  "realNumbersInContext": [
+    "Roughly 8% of U.S. adults — about one in twelve — experienced a major depressive episode in the past year, according to NIMH estimates drawn from the National Survey on Drug Use and Health. Rates run higher among younger adults and among women. Past-year figures are a snapshot, not a lifetime count, so the share of people who experience depression at some point is considerably larger.",
+    "Globally, the World Health Organization estimates that hundreds of millions of people live with depressive disorders, placing it among the leading causes of disability worldwide. These cross-national numbers are approximate — measurement and reporting differ by country — but the consistent picture is of a common, widespread, and frequently undertreated condition. Educational only: if any of this resonates, the right next step is a qualified clinician, and in a crisis, a line such as 988 in the US."
+  ],
+  "realNumbers": [
+    { "value": "~8%", "label": "U.S. adults with a major depressive episode in the past year", "source": "NIMH / NSDUH" },
+    { "value": "~1 in 12", "label": "Past-year prevalence expressed as a share of adults", "source": "NIMH / NSDUH" },
+    { "value": "Hundreds of millions", "label": "People living with depression worldwide (estimate)", "source": "World Health Organization" },
+    { "value": "988", "label": "U.S. Suicide and Crisis Lifeline — call or text if in crisis", "source": "988 Suicide & Crisis Lifeline" }
+  ],
+  "faqs": [
+    {
+      "question": "What share of people experience depression?",
+      "answer": "In the US, roughly 8% of adults — about one in twelve — had a major depressive episode in the past year, per NIMH estimates from the National Survey on Drug Use and Health. The lifetime share is considerably higher, and globally the WHO estimates hundreds of millions of people live with depression. These are population figures, not a way to tell whether any one person is depressed."
+    },
+    {
+      "question": "Does a high prevalence mean depression isn't serious?",
+      "answer": "No. Common and serious are not opposites. Depression is one of the most widespread health conditions in the world and also a leading cause of disability. A high prevalence means many people are affected and that effective help exists — not that the condition is minor."
+    },
+    {
+      "question": "Can I use these numbers to tell if I'm depressed?",
+      "answer": "No. Prevalence statistics describe populations, not individuals. They cannot distinguish depression from low mood, grief, burnout, or other conditions that resemble it. This page is educational only — a qualified clinician's assessment is the only reliable way to know."
+    },
+    {
+      "question": "Why does depression feel so isolating if it's this common?",
+      "answer": "Because it is largely invisible and still stigmatised. People rarely discuss it openly, and its symptoms are easy to hide or misattribute, so the felt sense of being alone rarely matches the reality that millions of people are affected at any given time."
+    },
+    {
+      "question": "What should I do if I think I might be depressed?",
+      "answer": "Talk to a qualified professional — depression is a recognised, treatable medical condition, and earlier assessment tends to lead to better outcomes. If low mood or loss of interest has persisted beyond a couple of weeks and affects daily life, that persistence is a reason to seek an assessment rather than wait."
+    },
+    {
+      "question": "What if I'm in crisis right now?",
+      "answer": "Do not wait for an appointment. In the US, call or text 988 (the Suicide and Crisis Lifeline), or contact emergency services. If you are outside the US, contact a local crisis line or emergency number. Support is available right now, and reaching for it is the step the evidence most consistently endorses."
+    }
+  ],
+  "dataSources": [
+    "National Institute of Mental Health (NIMH) — Major Depression statistics (past-year prevalence among U.S. adults), drawn from the National Survey on Drug Use and Health (NSDUH).",
+    "Substance Abuse and Mental Health Services Administration (SAMHSA) — National Survey on Drug Use and Health (NSDUH).",
+    "World Health Organization — Depression / Depressive disorder estimates and global burden of disease.",
+    "988 Suicide & Crisis Lifeline (United States) — crisis support resource."
+  ],
+  "relatedInsights": [
+    "what-is-a-normal-amount-of-anxiety-to-live-with",
+    "is-it-normal-to-feel-tired-all-the-time",
+    "how-much-does-stress-actually-affect-your-health"
+  ],
+  "lastReviewed": "2026-06"
+}

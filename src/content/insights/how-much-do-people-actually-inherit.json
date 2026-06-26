@@ -1,0 +1,74 @@
+{
+  "title": "How Much Do People Actually Inherit?",
+  "slug": "how-much-do-people-actually-inherit",
+  "category": "money-and-financial-reality",
+  "metaTitle": "How Much Do People Actually Inherit? The Real Numbers",
+  "metaDescription": "Most people inherit little or nothing, and large inheritances are concentrated among already-wealthy families. Here is what the data actually shows.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Most people inherit little or nothing, the typical inheritance is modest, and the large wealth transfers are heavily concentrated among families that are already wealthy.",
+  "honestAnswer": [
+    "Most people inherit little or nothing, and among those who do receive something, the typical amount is modest — often in the low tens of thousands of dollars rather than a life-changing windfall. The cultural image of a transformative inheritance describes the experience of a relatively small, already-wealthy minority, not the average person.",
+    "The honest pattern from the data is concentration: only a minority of households ever receive an inheritance at all, the median amount among recipients is comparatively small, and the very large dollar transfers flow disproportionately to families that already have substantial wealth. So inheritance tends to widen existing gaps more than it spreads windfalls around."
+  ],
+  "whatDataShows": [
+    "The most reliable U.S. evidence comes from the Federal Reserve's Survey of Consumer Finances, which tracks inheritances and intergenerational transfers. It consistently shows that only a minority of households report ever having received an inheritance or substantial gift, so for most people the answer to 'how much will I inherit?' is, realistically, little or nothing.",
+    "Among the minority who do inherit, the median amount is modest — frequently in roughly the low tens of thousands of dollars. The averages look much larger, but as with most wealth figures that is because a small number of very large transfers pull the mean far above the middle. The typical recipient's experience is far closer to the median than to those headline sums.",
+    "The defining feature is concentration. Research on wealth transfers using this data finds that the largest inheritances go disproportionately to households that are already in the upper part of the wealth distribution. Wealthier families both inherit more and inherit more often, so inheritance tends to reinforce existing advantage rather than redistribute it. Hedge the exact figures — survey estimates vary and shift over time — but the broad shape, a minority receiving anything and the big money concentrated at the top, is robust."
+  ],
+  "whyItFeelsDifferent": [
+    "Inheritance feels more common and more dramatic than it is because the visible examples are the large ones. A relative who received a transformative sum becomes a story that circulates; the far larger number of people who inherited nothing, or a few thousand dollars in a modest estate, generate no story at all. The sample you hear about is skewed toward the windfall.",
+    "Popular culture leans hard on the windfall too. Films, novels, and news coverage feature the surprise fortune because it is a good plot, not because it is typical. That steady diet of dramatic examples quietly resets expectations toward an outcome the data says is rare.",
+    "And because estates and family money are taboo to discuss plainly, people rarely compare notes honestly. You may assume peers are quietly waiting on substantial inheritances when, statistically, most are not — another case where an invisible distribution gets filled in with the most impressive imagined version."
+  ],
+  "whatResearchSaysToDo": [
+    "The most grounded thing the data supports is planning as if an inheritance will not arrive, because for most people it will not, and even among recipients the amount and timing are uncertain. Treating a possible inheritance as a core part of a financial plan is building on a base that statistically is unlikely to materialise in a meaningful size.",
+    "Where transfers are part of a family's situation, the research on intergenerational wealth suggests that earlier, smaller help — assistance with education, a first home, or ordinary costs during the years money is tightest — often does more for a recipient's trajectory than a lump sum arriving late in life, when both parties are older. The timing of help can matter as much as the amount.",
+    "Anchoring expectations to the real distribution is itself useful. Knowing that most people inherit little and that the median is modest tends to produce calmer planning than measuring against the dramatic examples, in the same way that accurate population benchmarks reduce the felt pressure of any invisible comparison."
+  ],
+  "whatDoesNotHelp": [
+    "Building a financial plan around an expected inheritance does not help, because the base rate is against it: most people inherit nothing or very little, and even expected estates can shrink through long-term care costs, longevity, or family circumstances before anything is passed on. Counting on a windfall is planning around an unlikely event.",
+    "Comparing your situation to the visible large inheritances reliably produces a distorted sense of being behind, because those examples are the rare top slice, not the middle. The typical experience — no inheritance, or a modest one — is far more common than the stories that circulate suggest.",
+    "Assuming inheritance is what separates the financially secure from everyone else also misreads the data. While inherited wealth genuinely concentrates advantage at the top, the majority of households are not working from any inheritance at all, so treating it as the hidden explanation for everyone else's position is usually wrong."
+  ],
+  "realNumbersInContext": [
+    "The Federal Reserve's Survey of Consumer Finances shows that only a minority of U.S. households report ever receiving an inheritance, so 'little or nothing' is the typical answer. Among those who do inherit, the median is modest — often in roughly the low tens of thousands of dollars — while the mean is far higher, pulled up by a small number of very large transfers.",
+    "Research on intergenerational wealth using this data finds the largest inheritances are concentrated among already-wealthy families, who both inherit more and inherit more often. Exact figures vary across surveys and years and should be treated as approximate, but the overall shape is stable: a minority receive anything, the typical amount is small, and the big money flows to the top of the distribution rather than across it."
+  ],
+  "realNumbers": [
+    { "value": "A minority", "label": "Share of households that ever receive an inheritance", "source": "Federal Reserve Survey of Consumer Finances" },
+    { "value": "Low tens of thousands", "label": "Roughly the median inheritance among those who receive one (approximate)", "source": "Federal Reserve Survey of Consumer Finances" },
+    { "value": "Concentrated at the top", "label": "Where the largest dollar transfers go", "source": "Research on wealth-transfer concentration" }
+  ],
+  "faqs": [
+    {
+      "question": "How much does the average person inherit?",
+      "answer": "Most people inherit little or nothing. Federal Reserve data show only a minority of households ever receive an inheritance, and among those who do, the median is modest — often roughly the low tens of thousands of dollars. The averages look larger only because a small number of very big transfers pull the mean up."
+    },
+    {
+      "question": "Why do inheritances sound so much bigger than that?",
+      "answer": "Because the large ones are the visible ones. A transformative inheritance becomes a story that circulates, while the far more common experience of inheriting nothing or a modest sum generates no story. Culture and media also lean on the windfall because it is dramatic, not because it is typical."
+    },
+    {
+      "question": "Who actually receives large inheritances?",
+      "answer": "They are heavily concentrated among families that are already wealthy. Research on wealth transfers finds that wealthier households both inherit more and inherit more often, so inheritance tends to reinforce existing advantage at the top rather than spread windfalls across the population."
+    },
+    {
+      "question": "Should I factor a future inheritance into my financial plan?",
+      "answer": "The data suggests planning as if it will not arrive. For most people it won't, and even likely estates can be reduced by long-term care costs, longevity, or family circumstances. Treating an inheritance as a core part of your plan means building on a base that statistically is unlikely to materialise in a meaningful size."
+    },
+    {
+      "question": "Is it better to give money to family early or leave it as an inheritance?",
+      "answer": "Research on intergenerational wealth suggests earlier, smaller help — with education, a first home, or costs during the years money is tightest — often does more for someone's trajectory than a lump sum arriving late in life. The timing of support can matter as much as the amount, though every family's situation differs."
+    }
+  ],
+  "dataSources": [
+    "Federal Reserve, Survey of Consumer Finances — inheritances and intergenerational transfers.",
+    "Research on wealth-transfer concentration drawing on the Survey of Consumer Finances and related intergenerational-wealth studies."
+  ],
+  "relatedInsights": [
+    "what-most-people-your-age-actually-have-saved",
+    "where-do-you-actually-stand-understanding-your-life-in-global-context",
+    "how-much-debt-is-normal-to-have"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Does Getting Married Actually Make You Happier?",
+  "slug": "does-getting-married-actually-make-you-happier",
+  "category": "relationships-and-connection",
+  "metaTitle": "Does Getting Married Make You Happier? What Research Shows",
+  "metaDescription": "Marriage is linked to somewhat higher wellbeing, but it's nuanced. What research shows about the happiness bump, adaptation, and why quality beats status.",
+  "lifeArea": "Relationships & Connection",
+  "keyFinding": "On average marriage is associated with somewhat higher wellbeing, but longitudinal research suggests much of the boost is a temporary bump around the wedding that fades toward a person's baseline over a few years, there is a selection effect, and the quality of the relationship matters far more than marital status itself.",
+  "honestAnswer": [
+    "On average, somewhat — but the honest picture is more nuanced than 'married people are happier.' Longitudinal studies that follow the same people for years tend to find a happiness 'bump' around the time of marriage that, for many people, fades back toward their earlier baseline over the following years. There is also a selection effect: people who are already somewhat happier are, on average, a little more likely to marry in the first place, which inflates simple comparisons between married and unmarried people.",
+    "The factor that matters most is not whether you are married but how the relationship feels. Research consistently finds that marriage quality predicts wellbeing far more strongly than marital status does — a supportive marriage is associated with better wellbeing, while an unhappy one can lower it. This is context, not a verdict on anyone's relationship status: being single, partnered, or married are all ordinary, and none of them determines a person's happiness on its own."
+  ],
+  "whatDataShows": [
+    "The clearest evidence comes from long-running panel studies that track the same individuals before, during, and after marriage. Work led by Richard Lucas and colleagues, using the German Socio-Economic Panel, found that on average people experience a rise in life satisfaction around the time of marriage and then tend to adapt — drifting back toward the baseline level of satisfaction they had before — over the following years. The size and durability of that bump varied a lot between people; not everyone returned fully to baseline, and some stayed happier or less happy.",
+    "Cross-sectional snapshots that simply compare married and unmarried people tend to overstate marriage's effect because of selection. People who are happier to begin with are, on average, somewhat more likely to get married and to stay married, so part of the 'married people are happier' gap reflects who marries rather than what marriage does. Longitudinal designs that follow individuals over time are built specifically to separate these, and they generally show a smaller, more temporary effect than the snapshots suggest.",
+    "Across this literature, relationship quality consistently outweighs marital status. Studies of marital satisfaction and wellbeing find that a happy, supportive marriage is associated with higher wellbeing, while a strained or unhappy marriage is associated with lower wellbeing — sometimes lower than being unpartnered. So 'does marriage make you happier?' depends heavily on the marriage, which is why a flat yes-or-no answer is misleading."
+  ],
+  "whyItFeelsDifferent": [
+    "Marriage feels like it should deliver a permanent step-change in happiness partly because the wedding itself is a vivid, celebrated event, and we are good at imagining the joy of a milestone and bad at imagining how quickly we adapt to a new normal. The same tendency to return toward a baseline — sometimes called the hedonic treadmill — that applies to income and achievement also shows up here.",
+    "It also feels different because the cultural script frames marriage as an endpoint that settles the question of happiness, when the research describes it as a transition that most people adapt to. The gap between the expected lasting lift and the measured, partly temporary bump can leave people puzzled about why a major life event did not change their baseline mood as much as anticipated.",
+    "And comparisons are distorted from the outside: weddings, anniversaries, and curated couple content are highly visible, while the ordinary texture of long-term relationships — including the unremarkable and the difficult parts — is not. That visibility gap makes marriage look like a more reliable happiness upgrade than the longitudinal data supports."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent message from the research is to weight relationship quality over relationship status. Because a supportive marriage is associated with higher wellbeing and an unhappy one with lower wellbeing, the data points toward the quality of the bond mattering far more than the legal or social label of being married.",
+    "It also helps to hold realistic expectations about adaptation. Longitudinal findings suggest the wellbeing lift around marriage is, for many people, partly temporary, so expecting marriage itself to permanently raise baseline happiness sets up a gap between expectation and experience. Treating it as one meaningful part of a life rather than the thing that resolves happiness is the more accurate frame.",
+    "Because this research is descriptive, it does not prescribe marrying or not marrying. What it supports is context: marital status is a weak predictor of individual happiness, relationship quality is a stronger one, and any single person's outcome is not determined by whether they are married."
+  ],
+  "whatDoesNotHelp": [
+    "Treating marriage as a guaranteed or permanent happiness upgrade does not hold up. The longitudinal evidence points to an average bump that often fades toward baseline, and to large variation between people, so expecting marriage by itself to durably raise your happiness sets up disappointment rather than wellbeing.",
+    "Reading the cross-sectional 'married people are happier' headline as proof that marrying will make you happier is misleading, because part of that gap reflects selection — happier people are somewhat more likely to marry — rather than an effect of marriage itself. The simple comparison overstates the case.",
+    "The cynical opposite — that marriage makes no difference, or that it reliably reduces happiness — is equally unsupported. A supportive marriage is associated with higher wellbeing; an unhappy one with lower. The accurate position is that the effect depends on the relationship's quality and varies between people, not that marriage is either a reliable boost or a reliable cost."
+  ],
+  "realNumbersInContext": [
+    "The strongest evidence here is about shape, not a single statistic. Longitudinal panel research led by Richard Lucas and colleagues, using the German Socio-Economic Panel, found that average life satisfaction tends to rise around the time of marriage and then drift back toward each person's earlier baseline over the following years — with substantial variation between individuals, so adaptation was partial rather than uniform. There is no clean 'marriage raises happiness by X points' figure, and any such claim should be treated with caution.",
+    "Two qualifiers carry most of the weight. First, selection: people who are somewhat happier to begin with are, on average, a little more likely to marry, which inflates simple married-versus-unmarried comparisons. Second, quality dominates status: across the literature, how supportive or strained a marriage is predicts wellbeing far more than the fact of being married. Taken together, these make any flat 'marriage makes you happier' number unreliable."
+  ],
+  "realNumbers": [
+    { "value": "Temporary bump", "label": "Average happiness rise around marriage that tends to fade toward baseline", "source": "Lucas et al., German Socio-Economic Panel" },
+    { "value": "Selection effect", "label": "Happier people are somewhat more likely to marry, inflating simple comparisons", "source": "Research on marriage and wellbeing" },
+    { "value": "Quality > status", "label": "Marriage quality predicts wellbeing far more than marital status", "source": "Research on marital satisfaction and wellbeing" }
+  ],
+  "faqs": [
+    {
+      "question": "Are married people actually happier than single people?",
+      "answer": "On average, married people report somewhat higher wellbeing, but the gap is smaller than it looks once you account for selection — happier people are somewhat more likely to marry in the first place. Longitudinal studies that follow the same individuals find the boost from marrying is often partly temporary and varies a lot between people."
+    },
+    {
+      "question": "Does the happiness from getting married last?",
+      "answer": "For many people, not fully. Panel research (notably by Richard Lucas and colleagues) finds an average rise in satisfaction around the time of marriage that tends to drift back toward a person's earlier baseline over the following years — a pattern of adaptation. Some people stay happier and some less so; the variation between individuals is large."
+    },
+    {
+      "question": "Is it the marriage itself or just being in a good relationship?",
+      "answer": "Research consistently finds that relationship quality matters far more than marital status. A supportive, happy marriage is associated with higher wellbeing, while a strained or unhappy one can lower it — sometimes below being unpartnered. The bond's quality predicts wellbeing much more strongly than the label of being married."
+    },
+    {
+      "question": "What is a selection effect in this research?",
+      "answer": "It means part of the observed difference between married and unmarried people reflects who chooses to marry, not what marriage does. Because people who are already somewhat happier are a little more likely to marry, simple comparisons overstate marriage's effect. Longitudinal studies are designed to separate these and tend to find a smaller effect."
+    },
+    {
+      "question": "Does this mean I shouldn't get married?",
+      "answer": "No — this research is descriptive, not advice for or against marrying. It shows that marital status is a weak predictor of individual happiness while relationship quality is a stronger one, and that any one person's outcome is not determined by whether they marry. Being single, partnered, or married are all ordinary."
+    }
+  ],
+  "dataSources": [
+    "Lucas, R. E., Clark, A. E., Georgellis, Y., & Diener, E. — research on adaptation to life events including marriage, using the German Socio-Economic Panel (SOEP).",
+    "Research on marriage, selection effects, and subjective wellbeing (longitudinal vs. cross-sectional comparisons).",
+    "Research on marital quality and wellbeing (marriage satisfaction predicting wellbeing more strongly than marital status)."
+  ],
+  "relatedInsights": [
+    "what-happens-to-happiness-after-major-life-events",
+    "what-is-a-normal-relationship-actually-like",
+    "how-long-do-marriages-actually-last"
+  ],
+  "lastReviewed": "2026-06"
+}
