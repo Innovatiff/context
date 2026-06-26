@@ -21,6 +21,14 @@
 # Then update the publisher ID in public/ads.txt.
 # ---------------------------------------------------------------------------
 
+# Serve the Astro sitemap index at the conventional /sitemap.xml path too, so
+# both /sitemap.xml and /sitemap-index.xml work in Search Console (status 200 =
+# transparent rewrite, not a redirect). The index points crawlers to sitemap-0.xml.
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap-index.xml"
+  status = 200
+
 # Long-cache fingerprinted build assets (JS/CSS/fonts under /_astro/).
 [[headers]]
   for = "/_astro/*"
