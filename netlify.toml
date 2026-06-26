@@ -1,0 +1,48 @@
+# Netlify configuration for Honest Picture / ContextLife
+# Static Astro build — continuous deploy from the connected Git branch.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Astro 5 requires Node 18.20.8+/20.3+/22+. Match the dev environment.
+  NODE_VERSION = "22"
+  # Keep installs lean and reproducible on CI.
+  NPM_FLAGS = "--no-audit --no-fund"
+
+# ---------------------------------------------------------------------------
+# AdSense / analytics are OFF by default. To enable after approval, set these
+# as environment variables in the Netlify UI (Site settings → Environment) —
+# do NOT commit real IDs here:
+#   PUBLIC_ADSENSE_ENABLED = "true"
+#   PUBLIC_ADSENSE_CLIENT  = "ca-pub-XXXXXXXXXXXXXXXX"
+#   PUBLIC_ANALYTICS_ENABLED = "true"
+# Then update the publisher ID in public/ads.txt.
+# ---------------------------------------------------------------------------
+
+# Long-cache fingerprinted build assets (JS/CSS/fonts under /_astro/).
+[[headers]]
+  for = "/_astro/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# ads.txt / robots.txt should be revalidated reasonably often.
+[[headers]]
+  for = "/ads.txt"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# Baseline security headers (kept permissive so AdSense, Google Fonts, and
+# Firebase analytics still work once enabled — no restrictive CSP here).
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Astro pre-renders every route to static HTML and generates dist/404.html,
+# which Netlify serves automatically for unmatched paths. No SPA fallback or
+# catch-all redirect is needed (a catch-all would break the 404 page).
