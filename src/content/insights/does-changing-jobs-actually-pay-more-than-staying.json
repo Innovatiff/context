@@ -1,0 +1,75 @@
+{
+  "title": "Does Changing Jobs Actually Pay More Than Staying?",
+  "slug": "does-changing-jobs-actually-pay-more-than-staying",
+  "category": "work-and-career",
+  "metaTitle": "Does Changing Jobs Pay More Than Staying?",
+  "metaDescription": "On average, job switchers tend to see faster wage growth than stayers, especially in tight labour markets. But it is an average, not a guarantee.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "On average, job switchers tend to see faster wage growth than people who stay, and the gap widens when the labour market is tight — but this is an average, not a guarantee, and staying carries its own real advantages.",
+  "honestAnswer": [
+    "On average, yes — people who switch jobs tend to see faster wage growth than people who stay put. The pattern shows up repeatedly in U.S. wage data: median pay growth for job-switchers usually runs ahead of pay growth for job-stayers, and the gap tends to widen when the labour market is tight and employers are competing for workers.",
+    "But the honest version comes with heavy caveats. This is an average across millions of people, not a prediction for any individual. Staying can bring raises, promotions, accumulated benefits, security, and the value of being a known quantity; switching carries real risk, onboarding costs, and the chance the new role does not work out. The data describes a tendency, not a rule that switching always pays."
+  ],
+  "whatDataShows": [
+    "The most regularly cited source is the Federal Reserve Bank of Atlanta's Wage Growth Tracker, which separately reports median wage growth for job-switchers and job-stayers. Across most of its history it shows switchers with higher median wage growth than stayers — the 'switcher premium' — with the gap tending to widen in tight labour markets and narrow when the market loosens.",
+    "Research from the ADP Research Institute, drawing on its large payroll dataset, has found a similar pattern: workers who change jobs frequently see larger pay gains than those who remain, particularly during periods of strong demand for labour. Different datasets and methods produce different exact numbers, but they point in the same direction.",
+    "Context on how often people move helps frame this: median U.S. employee tenure is roughly four years according to the Bureau of Labor Statistics, and tends to be shorter for younger workers and longer for older ones. So changing jobs every few years is itself fairly normal — the typical worker is not staying in one place for decades."
+  ],
+  "whyItFeelsDifferent": [
+    "Inside a single job, raises usually arrive in small, incremental steps tied to annual budgets, while a job change resets your pay against the external market all at once. That makes the switcher premium feel larger and more visible than the slow compounding of internal raises and promotions, even when staying can produce meaningful gains over time.",
+    "Loss aversion also weights the comparison. The risks of switching — a bad new manager, a role that is not what was advertised, lost seniority — are vivid and easy to imagine, while the quieter cost of staying, a salary that drifts below the market rate, is invisible because you never see the offer you did not pursue. Both are real; only one is easy to picture.",
+    "And the loudest stories on both sides are unrepresentative. The colleague who doubled their pay by leaving, and the one who jumped and regretted it, are both memorable anecdotes rather than the average. The data describes a central tendency that few individual stories capture, which is why personal impressions can diverge sharply from the aggregate pattern."
+  ],
+  "whatResearchSaysToDo": [
+    "Treat the switcher premium as one real input among several, not the whole decision. The data supports the idea that periodically testing the external market — and being willing to move — tends to raise pay over a career, especially when demand for your skills is high. Tight labour markets are when the gap is widest, so timing matters.",
+    "Weigh total compensation and trajectory, not just base salary. Staying can carry vesting benefits, pension or retirement matching, promotion paths, and accumulated trust that a headline salary comparison misses; switching can forfeit some of these while resetting pay upward. The honest calculation includes the parts that do not show up in a single number.",
+    "Where staying is the choice, the evidence still suggests it is worth using market data to negotiate, since internal raises often lag the external rate. Knowing roughly what your role pays elsewhere is useful information whether you intend to move or not — it is the input that the switcher premium ultimately reflects."
+  ],
+  "whatDoesNotHelp": [
+    "Treating 'always switch' as a universal rule ignores that the premium is an average with wide variation. Frequent moves carry onboarding costs, the risk of a worse role, and the loss of seniority and accrued benefits, and not every switch pays off — some leave people worse off than if they had stayed.",
+    "Assuming loyalty alone will be rewarded with market-rate pay is also unsupported. Because internal raises tend to be incremental and budget-bound, staying without ever checking or negotiating against the external market is the scenario in which pay most reliably drifts below what the role commands elsewhere.",
+    "Deciding from anecdotes — the friend who got rich by leaving, or the cautionary tale of a jump gone wrong — tends to mislead, because individual stories rarely match the average and are selected for being dramatic. The aggregate tendency and your own total compensation are better guides than memorable cases."
+  ],
+  "realNumbersInContext": [
+    "The Atlanta Fed's Wage Growth Tracker regularly shows job-switchers with higher median wage growth than job-stayers, and the gap between the two tends to widen when the labour market is tight and narrow when it loosens. ADP's payroll research has found a comparable switcher advantage. The exact size of the gap moves with the economy, so it is best read as a persistent direction rather than a fixed figure.",
+    "Set against that, median U.S. employee tenure is roughly four years (Bureau of Labor Statistics), shorter for younger workers and longer for older ones — so changing jobs every few years is itself common. The takeaway is not that switching always pays, but that on average switchers tend to gain faster on wages, while staying offers security, benefits, and continuity that a salary comparison alone does not capture."
+  ],
+  "realNumbers": [
+    { "value": "Switchers > stayers", "label": "Median wage growth, job-switchers vs job-stayers", "source": "Federal Reserve Bank of Atlanta, Wage Growth Tracker" },
+    { "value": "Widens when tight", "label": "How the switcher premium moves with the labour market", "source": "Atlanta Fed; ADP Research Institute" },
+    { "value": "~4 years", "label": "Median U.S. employee tenure", "source": "U.S. Bureau of Labor Statistics" }
+  ],
+  "faqs": [
+    {
+      "question": "Do people who switch jobs really earn more?",
+      "answer": "On average, yes. U.S. wage data, including the Atlanta Fed's Wage Growth Tracker, regularly shows job-switchers with higher median wage growth than stayers. But it is an average across many people, not a guarantee for any individual, and switching carries real risk."
+    },
+    {
+      "question": "Why does switching jobs pay more than staying?",
+      "answer": "A job change resets your pay against the external market all at once, while internal raises usually arrive in small, budget-bound increments. The premium is widest when the labour market is tight and employers are competing for workers."
+    },
+    {
+      "question": "How often do people actually change jobs?",
+      "answer": "Median U.S. employee tenure is roughly four years according to the Bureau of Labor Statistics — shorter for younger workers, longer for older ones. Changing jobs every few years is fairly normal rather than unusual."
+    },
+    {
+      "question": "Is it always better financially to switch?",
+      "answer": "No. The switcher premium is an average with wide variation. Switching carries onboarding costs, the risk of a worse role, and the loss of seniority and accrued benefits, and some moves leave people worse off. Staying can bring raises, promotions, security, and benefits a salary comparison misses."
+    },
+    {
+      "question": "If I want to stay, how do I avoid falling behind on pay?",
+      "answer": "Use external market data to negotiate, since internal raises often lag the rate the same role pays elsewhere. Knowing roughly what your job pays on the open market is useful information whether or not you intend to move."
+    }
+  ],
+  "dataSources": [
+    "Federal Reserve Bank of Atlanta — Wage Growth Tracker (median wage growth for job-switchers vs. job-stayers).",
+    "ADP Research Institute — pay growth for job-switchers vs. stayers.",
+    "U.S. Bureau of Labor Statistics — Employee Tenure (median job tenure)."
+  ],
+  "relatedInsights": [
+    "what-research-shows-about-changing-careers-after-40",
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "is-it-normal-to-not-be-passionate-about-your-job"
+  ],
+  "lastReviewed": "2026-06"
+}

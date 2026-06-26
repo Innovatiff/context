@@ -1,0 +1,75 @@
+{
+  "title": "Where Does the Average Paycheck Actually Go?",
+  "slug": "where-does-the-average-paycheck-actually-go",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Where Does the Average Paycheck Actually Go?",
+  "metaDescription": "Housing, transport, and food take the biggest bites of the average U.S. paycheck. Here is the real spending breakdown, and why so little feels left over.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "For the average U.S. household, necessities — led by housing, then transportation and food — claim the large majority of the paycheck before any discretionary or savings choices, which is why it rarely feels like much is left over.",
+  "honestAnswer": [
+    "Most of it goes to necessities before you ever reach a choice. The U.S. Bureau of Labor Statistics' Consumer Expenditure Survey shows that housing alone takes roughly a third of household spending, followed by transportation at around 16–17% and food at around 12–13%, with healthcare, insurance, and pensions making up much of the rest.",
+    "Add those core categories together and the large majority of income is committed before any discretionary spending or saving happens. The personal saving rate has recently hovered around just 4–5% of disposable income. So the common feeling that there is never much 'left over' is not a budgeting failure — it is what the average spending distribution actually looks like."
+  ],
+  "whatDataShows": [
+    "The most detailed picture of where U.S. household money goes comes from the Bureau of Labor Statistics' Consumer Expenditure Survey, which breaks total spending into categories. Housing is consistently the single largest share, at roughly a third of all spending — covering rent or mortgage, utilities, and related costs.",
+    "Transportation is typically the next largest category at around 16–17%, reflecting car payments, fuel, insurance, and maintenance, followed by food at around 12–13% (split between groceries and eating out). After those three come healthcare and the insurance-and-pensions category, which includes things like health premiums and retirement contributions. Across the board, necessities dominate the picture.",
+    "On the saving side, the U.S. Bureau of Economic Analysis tracks the personal saving rate — the share of disposable income left unspent — which has recently hovered around 4–5%. That low figure is the natural consequence of the spending breakdown above: once the big committed categories are paid, only a thin slice typically remains for saving or genuinely discretionary use."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like the money should stretch further because the biggest costs are the least visible day to day. Housing and insurance leave your account in large, automatic chunks you barely register, while small discretionary purchases — coffee, a meal out — are the ones you actually notice. So the spending that gets blamed for 'where the money went' is usually the smallest part of it.",
+    "The cultural story about personal finance also overweights discretionary choices. A great deal of advice focuses on cutting small luxuries, which implies that is where the leakage is. But the data shows the large committed categories — housing, transport, healthcare — are what truly determine how much is left, and those are far harder to change than skipping a coffee.",
+    "And because necessities have risen substantially relative to incomes in many areas, especially housing, the squeeze is real, not imagined. When the fixed costs of an ordinary life take a larger share than they did a generation ago, the feeling that the paycheck disappears reflects a genuine structural shift rather than personal carelessness."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the big committed categories dominate, the changes that move the needle are structural, not cosmetic. Decisions about housing and transportation — where you live, your rent or mortgage, what you drive and how it is financed — shape your budget far more than trimming small discretionary items, so that is where attention pays off most.",
+    "Automating saving so it happens before the money reaches your discretionary spending is one of the few interventions with solid behavioural support. Treating saving as a fixed expense at the top of the list, rather than as whatever is left at the end, works with the reality that very little is usually left at the end.",
+    "Knowing the real breakdown is itself useful. People who understand that necessities normally claim the large majority of income tend to set more realistic expectations and judge their own spending against the actual distribution rather than against an assumption that there should be plenty left over."
+  ],
+  "whatDoesNotHelp": [
+    "Focusing your effort on small discretionary cuts — the daily coffee, the occasional takeout — generally does little, because those items are a minor share of total spending. The data points to the large committed categories as where budgets are really decided, so micro-frugality often delivers stress without meaningful savings.",
+    "Blaming yourself for the thin amount left over misreads the structure. With necessities claiming the large majority of income and the national saving rate around 4–5%, having little left is the normal result of the spending distribution, not evidence of poor discipline.",
+    "Aggressive, white-knuckle budgeting that targets every small expense tends not to last. Because it ignores the categories that actually dominate the budget and is unpleasant to sustain, it is frequently abandoned — leaving people no better off than a simpler approach focused on the few big costs and automated saving."
+  ],
+  "realNumbersInContext": [
+    "The average paycheck is mostly spoken for before any choice is made. In the BLS Consumer Expenditure Survey, housing takes roughly a third of spending, transportation around 16–17%, and food around 12–13%, with healthcare and insurance-and-pensions making up much of the remainder. Together, the necessities claim the large majority of income.",
+    "What is left for saving is correspondingly thin: the U.S. personal saving rate has recently hovered around 4–5% of disposable income (BEA). So for most households, the sense that there is rarely much 'left over' is an accurate reading of the data, not a sign of overspending — the committing happens before the discretionary choices begin."
+  ],
+  "realNumbers": [
+    { "value": "~33%", "label": "Share of household spending that goes to housing", "source": "U.S. BLS, Consumer Expenditure Survey" },
+    { "value": "~16–17%", "label": "Share of spending on transportation", "source": "U.S. BLS, Consumer Expenditure Survey" },
+    { "value": "~12–13%", "label": "Share of spending on food", "source": "U.S. BLS, Consumer Expenditure Survey" },
+    { "value": "~4–5%", "label": "Recent U.S. personal saving rate (of disposable income)", "source": "U.S. Bureau of Economic Analysis" }
+  ],
+  "faqs": [
+    {
+      "question": "What does the average household spend the most on?",
+      "answer": "Housing, by a clear margin. In the BLS Consumer Expenditure Survey, housing takes roughly a third of all household spending, followed by transportation at around 16–17% and food at around 12–13%. Necessities dominate the breakdown, which is why so little tends to be left for anything else."
+    },
+    {
+      "question": "Why does it feel like there's never anything left over?",
+      "answer": "Because there usually isn't much. Once housing, transportation, food, healthcare, and insurance are paid, the large majority of income is already committed — and the national personal saving rate has recently hovered around just 4–5% of disposable income. A thin amount left over is the normal result of the spending distribution, not a personal failing."
+    },
+    {
+      "question": "Will cutting small expenses like coffee fix my budget?",
+      "answer": "Rarely on its own. Small discretionary items are a minor share of total spending. The data shows the large committed categories — housing and transportation especially — are where budgets are really decided, so changes there move the needle far more than trimming daily luxuries."
+    },
+    {
+      "question": "How much of my income 'should' go to housing?",
+      "answer": "There is no universal rule that fits everyone, and many households spend more than common guidelines suggest because of local costs. What the data does show is that housing is typically the largest single category, around a third of spending, so it is the most important number to be realistic about when judging your budget."
+    },
+    {
+      "question": "Is a low saving rate normal?",
+      "answer": "Yes, at the population level. The U.S. personal saving rate has recently hovered around 4–5% of disposable income. With necessities claiming the large majority of the paycheck, only a thin slice typically remains — which is why automating even small, regular saving before the money is spent tends to work better than relying on what's left at month's end."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics, Consumer Expenditure Survey — household spending shares by category.",
+    "U.S. Bureau of Economic Analysis — personal saving rate."
+  ],
+  "relatedInsights": [
+    "what-does-financial-security-actually-look-like",
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "how-much-debt-is-normal-to-have"
+  ],
+  "lastReviewed": "2026-06"
+}

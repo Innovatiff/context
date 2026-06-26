@@ -1,0 +1,76 @@
+{
+  "title": "Why Do We Lose Friends as We Get Older?",
+  "slug": "why-do-we-lose-friends-as-we-get-older",
+  "category": "relationships-and-connection",
+  "metaTitle": "Why Do We Lose Friends as We Get Older?",
+  "metaDescription": "Friendship networks tend to peak in the mid-20s and shrink after. Here is what the data shows about why we lose friends with age — and how much is chosen.",
+  "lifeArea": "Relationships & Connection",
+  "keyFinding": "Social networks tend to peak in size around the mid-20s and gradually shrink afterward, partly through the passive pruning of life transitions and partly through a deliberate shift toward fewer, closer relationships as people age.",
+  "honestAnswer": [
+    "Losing friends as you get older is one of the most common and least-discussed adult experiences, and the data suggests it is closer to the rule than the exception. Analysis of large-scale social-contact data finds that the size of people's networks tends to peak in the mid-20s and then decline steadily for the rest of life. Some of this is passive — moving, changing jobs, and having children quietly prune ties — and some of it is an active, even healthy reprioritisation toward a smaller circle of people who matter most.",
+    "It is worth separating the two. Part of the shrinkage is circumstantial and not chosen: the structures that made friendship effortless in your late teens and twenties largely disappear. But part of it, according to a well-established line of research, is deliberate — as people sense their time horizons narrowing, they tend to invest in fewer, deeper relationships rather than a wide network. Both forces point the same way, which is why the pattern is so widespread."
+  ],
+  "whatDataShows": [
+    "The clearest large-scale evidence comes from analysis of mobile-phone communication data by Bhattacharya and colleagues (2016, Royal Society Open Science), which tracked how many people individuals stayed in regular contact with across the lifespan. The number of active social contacts tended to rise through the teens, peak around the mid-20s, and then decline gradually thereafter for both men and women. The peak-then-decline shape is the headline finding.",
+    "Laura Carstensen's socioemotional selectivity theory explains part of this decline as a choice rather than a loss. The theory holds that as people perceive their time horizons shortening — something that happens gradually with age — they shift priorities away from acquiring new contacts and information and toward emotionally meaningful, established relationships. The result is a smaller but often more satisfying network. Under this account, some friend loss reflects active selection, not social failure.",
+    "The rest is largely structural. Time-use data, such as the American Time Use Survey, shows that the amount of time people spend with friends tends to fall through adulthood, with much of that time redirected toward partners, children, and work. Major life transitions — relocating, career moves, becoming a parent — repeatedly thin out friendships not through any falling-out but through reduced shared time and proximity."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like a personal failing partly because the loss is usually gradual and unspoken. Friendships rarely end with a clear event; they fade through missed messages and slowly diverging schedules. Because there is no moment to point to, it is easy to read the accumulated quiet as something you did wrong rather than as the ordinary statistical pattern it is.",
+    "It also feels different because the cultural script for friendship is written around youth, when wide, easy, high-frequency networks are the norm. Measuring midlife friendship against that period — when school, college, or early shared housing manufactured constant contact — makes a perfectly normal contraction look like decline. The infrastructure changed; the comparison did not.",
+    "And the active, chosen part of the shift is largely invisible from the inside. Reprioritising toward a few close relationships does not feel like a strategy; it feels like having less energy for socialising or caring less about keeping up. Carstensen's research reframes that same experience as a normal reallocation toward what matters most, rather than as withdrawal or loss."
+  ],
+  "whatResearchSaysToDo": [
+    "Because so much of adult friend loss is structural, the research-aligned response is to rebuild the structures that once made friendship automatic — repeated, low-effort, in-person contact. Friendships are sustained far more by frequency and proximity than by intensity, so recurring shared activities tend to do more than occasional grand efforts. The mechanism that built your early friendships, regular unplanned contact, is the one worth recreating deliberately.",
+    "It also helps to treat the shift toward fewer, closer ties as legitimate rather than as something to fight. If socioemotional selectivity is partly driving the change, investing in a small number of meaningful relationships is not a consolation prize — it is what the research associates with high relationship satisfaction in later life. Depth can substitute for breadth.",
+    "Finally, naming the structural cause tends to defuse the self-blame. When people understand that the decline follows moves, careers, and parenthood rather than any failure of character, the loss reads as circumstance — which makes it easier to act on by changing circumstances rather than by ruminating."
+  ],
+  "whatDoesNotHelp": [
+    "Trying to maintain a large network purely by volume — more contacts, more shallow check-ins — tends not to help, because the data points to depth and regular contact as what sustains friendship, not headcount. A wider list of acquaintances does little for the experience of connection if none of them involve recurring shared time.",
+    "Reading the decline as evidence of a personal flaw is both inaccurate and counterproductive. The peak-then-decline pattern shows up across large populations and follows predictable life transitions; treating it as a character problem misdiagnoses a structural and partly chosen shift, and the self-criticism does nothing to rebuild the ties.",
+    "Waiting passively for friendships to re-form the way they did in youth rarely works, because the conditions that made them effortless — forced proximity and constant unplanned contact — usually no longer exist in adult life. Without deliberately recreating regular contact, the natural drift of adulthood continues in one direction."
+  ],
+  "realNumbersInContext": [
+    "Network size tends to peak around the mid-20s and decline afterward. The analysis of large-scale phone-contact data by Bhattacharya and colleagues (2016, Royal Society Open Science) found the number of people individuals stayed in regular contact with rose through youth, peaked in the mid-20s, and then fell gradually for the rest of life. The exact peak varies by person; the shape is the robust part.",
+    "Time with friends falls through adulthood. Time-use data such as the American Time Use Survey shows the hours people spend with friends declining across the lifespan, with that time largely reallocated to partners, children, and work. Much of adult friend loss is this quiet redistribution of limited time rather than any conflict.",
+    "Part of the decline is deliberate. Carstensen's socioemotional selectivity theory holds that as time horizons shorten, people actively prioritise a smaller set of emotionally meaningful relationships — so a narrowing circle in later life is partly chosen and is associated with high relationship satisfaction, not simply loss."
+  ],
+  "realNumbers": [
+    { "value": "Mid-20s", "label": "Approximate age at which the number of social contacts tends to peak", "source": "Bhattacharya et al., 2016, Royal Society Open Science" },
+    { "value": "Gradual decline", "label": "Trajectory of network size after the mid-20s peak", "source": "Bhattacharya et al., 2016, Royal Society Open Science" },
+    { "value": "Falls with age", "label": "Time spent with friends across adulthood", "source": "American Time Use Survey" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it normal to have fewer friends as you get older?",
+      "answer": "Yes. Analysis of large-scale social-contact data finds that network size tends to peak in the mid-20s and then decline steadily through the rest of life. The pattern shows up across whole populations and follows predictable life transitions, so a shrinking circle in adulthood is the common trajectory, not an exception."
+    },
+    {
+      "question": "Why does this happen even when nothing went wrong?",
+      "answer": "Most adult friend loss is passive and structural rather than the result of conflict. Moving, changing careers, and having children reduce the shared time and proximity that sustain friendships, so ties fade quietly. Time-use data shows the hours spent with friends falling steadily across adulthood as that time shifts toward partners, children, and work."
+    },
+    {
+      "question": "Is losing friends with age a bad thing?",
+      "answer": "Not necessarily. Carstensen's socioemotional selectivity theory describes part of the shift as deliberate: as people sense time horizons shortening, they tend to prioritise a smaller number of emotionally meaningful relationships over a wide network. That narrowing is associated with high relationship satisfaction in later life, so depth can replace breadth."
+    },
+    {
+      "question": "Can you do anything to keep friendships as you age?",
+      "answer": "The research points to frequency and proximity as what sustains friendship more than intensity, so recreating regular, low-effort, in-person contact tends to do more than occasional big gestures. Rebuilding the recurring shared activities that once made friendship automatic is the closest thing to a reliable lever."
+    },
+    {
+      "question": "When do most people have the most friends?",
+      "answer": "Large-scale contact data suggests the number of active social ties tends to be highest around the mid-20s. Before that it rises through the teens and early twenties; after that it gradually declines. The exact peak varies from person to person, but the rise-then-fall shape is consistent across the data."
+    }
+  ],
+  "dataSources": [
+    "Bhattacharya, K., et al. (2016). Sex differences in social focus across the life cycle in humans. Royal Society Open Science (analysis of large-scale mobile-phone contact data; network size peaks around the mid-20s and declines).",
+    "Carstensen, L. L. — socioemotional selectivity theory (shifting time horizons and the prioritisation of fewer, emotionally meaningful relationships with age).",
+    "American Time Use Survey, U.S. Bureau of Labor Statistics — time spent with friends across the lifespan."
+  ],
+  "relatedInsights": [
+    "how-many-close-friends-do-adults-actually-have",
+    "is-it-normal-to-drift-apart-from-people",
+    "what-the-data-shows-about-loneliness-in-adults-worldwide"
+  ],
+  "lastReviewed": "2026-06"
+}

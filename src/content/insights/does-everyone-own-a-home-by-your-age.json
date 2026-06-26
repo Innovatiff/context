@@ -1,0 +1,75 @@
+{
+  "title": "Does Everyone Own a Home by Your Age? The Real Numbers",
+  "slug": "does-everyone-own-a-home-by-your-age",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Does Everyone Own a Home by Your Age? The Real Numbers",
+  "metaDescription": "Homeownership rises steeply with age — under 35 only about 38% own. Here is what Census data shows, and why renting later is increasingly normal.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Homeownership rises steeply with age rather than being near-universal by any given point, and renting later into adulthood has become increasingly common as affordability has worsened relative to incomes.",
+  "honestAnswer": [
+    "No — not everyone owns a home by any particular age, and the idea that they do is one of the most persistent illusions about adult life. The overall U.S. homeownership rate is only around 65–66%, and it climbs steeply with age rather than arriving on a fixed schedule.",
+    "Among households under 35, only roughly 38–39% own; that rises to around 61% for ages 35–44 and to roughly 75–79% among those 65 and older. The median age of a first-time buyer has risen sharply in recent years. Renting later into adulthood is increasingly common, and the data frames it as a response to affordability, not a personal failure."
+  ],
+  "whatDataShows": [
+    "The U.S. Census Bureau tracks homeownership rates overall and by age. The headline national rate sits at roughly 65–66%, meaning about a third of households rent at any given time. But that single number hides an enormous age gradient: ownership is far from universal at younger ages and only becomes the majority experience later in life.",
+    "By age, the Census figures show only about 38–39% of households under 35 own their home, rising to around 61% at ages 35–44, and to roughly 75–79% among those 65 and older. So homeownership is better understood as something most people reach eventually, gradually, rather than something that happens to nearly everyone by 30 or even 40.",
+    "The timing has also shifted. According to the National Association of Realtors' Profile of Home Buyers and Sellers, the median age of a first-time buyer has risen sharply over recent years to somewhere around the late 30s. Buying a first home later — or renting for much longer than previous generations did — is now closer to typical than exceptional."
+  ],
+  "whyItFeelsDifferent": [
+    "Homeownership feels more universal than it is because it is loaded with cultural meaning — it is treated as the definitive marker of adulthood, stability, and 'making it.' That weight makes renting at an age when you expected to own feel like falling short of a milestone almost everyone supposedly clears, even though the data shows large shares of people your age do not own either.",
+    "It also feels different because owners are visible and renters are not in the same way. Friends announce house purchases; almost no one announces that they have renewed a lease. So the buying you hear about is salient and the long-term renting around you is invisible, which inflates your sense of how common ownership really is at your age.",
+    "And the script people measure against was written for a different market. Affordability has worsened relative to incomes, and the median first-time buyer is now significantly older than the cultural timeline assumes. When you feel late to ownership, you are often comparing yourself to a schedule built for housing costs and wages that no longer exist."
+  ],
+  "whatResearchSaysToDo": [
+    "The most grounding step the data supports is to anchor to the real age-specific ownership rate rather than to the assumption that 'everyone' owns. Knowing that fewer than 40% of under-35 households own, and that the median first-time buyer is now in their late 30s, reframes renting in your 20s or 30s as ordinary rather than behind.",
+    "Treating the buy-versus-rent decision as a financial and life-fit question, rather than a moral one, is what the evidence favours. Whether owning makes sense depends on local prices, how long you expect to stay, and your broader finances — not on hitting an arbitrary age. In many high-cost areas, renting and investing the difference can be financially reasonable, not a fallback.",
+    "Where buying is a genuine goal, the unremarkable fundamentals are what move the needle: building a deposit steadily, keeping high-interest debt down so it does not limit borrowing, and being realistic about total costs of ownership beyond the mortgage. These are slow levers, but they are the ones that actually determine readiness, far more than age does."
+  ],
+  "whatDoesNotHelp": [
+    "Measuring yourself against a single friend or relative who bought young rarely helps, because it treats an early outcome as the norm. At every age below retirement, a large share of households rent — so the person who bought at 28 is a data point, not the standard.",
+    "Buying before you are financially ready, just to hit a perceived age deadline, is the failure mode the data warns against most. Stretching into a purchase that strains your finances exposes you to exactly the shocks — repairs, rate changes, forced moves — that make ownership stressful rather than stabilising.",
+    "Treating renting as money 'thrown away' is a framing the evidence does not support cleanly. Renting buys flexibility and avoids the substantial transaction, maintenance, and interest costs of owning; whether owning comes out ahead depends heavily on local prices and how long you stay, not on a blanket rule that owning always wins."
+  ],
+  "realNumbersInContext": [
+    "Homeownership is a gradient, not a milestone everyone clears at once. The overall U.S. rate is roughly 65–66% (Census Bureau), but by age only about 38–39% of households under 35 own, rising to around 61% at 35–44 and roughly 75–79% among those 65 and older. So at younger ages, renting is closer to the majority experience than owning.",
+    "The timeline has stretched, too. The median age of a first-time buyer has risen sharply to somewhere around the late 30s in recent National Association of Realtors data, as affordability has worsened relative to incomes. Renting well into adulthood is increasingly common — a reflection of housing costs, not a personal shortfall."
+  ],
+  "realNumbers": [
+    { "value": "~65–66%", "label": "Overall U.S. homeownership rate", "source": "U.S. Census Bureau, Housing Vacancies and Homeownership" },
+    { "value": "~38–39%", "label": "Homeownership rate, households under 35", "source": "U.S. Census Bureau" },
+    { "value": "~61%", "label": "Homeownership rate, ages 35–44", "source": "U.S. Census Bureau" },
+    { "value": "Late 30s", "label": "Median age of a first-time buyer (recent, approx.)", "source": "National Association of Realtors, Profile of Home Buyers and Sellers" }
+  ],
+  "faqs": [
+    {
+      "question": "What percentage of people own a home by 30 or 40?",
+      "answer": "Far less than most assume. Census data shows only about 38–39% of households under 35 own their home, rising to around 61% at ages 35–44. Ownership becomes the majority experience gradually with age — it reaches roughly 75–79% only among those 65 and older."
+    },
+    {
+      "question": "Is it normal to still be renting in my 30s or 40s?",
+      "answer": "Yes. At younger ages renting is close to the majority experience, and the median age of a first-time buyer has risen to somewhere around the late 30s. With affordability worse relative to incomes than for past generations, renting later into adulthood is increasingly common rather than a personal failure."
+    },
+    {
+      "question": "Why does it feel like everyone else owns a home?",
+      "answer": "Because owners are visible and long-term renters are not — people announce house purchases, not lease renewals. Combined with the cultural framing of ownership as the marker of adulthood, that makes ownership feel far more universal at your age than the age-specific Census numbers show it to be."
+    },
+    {
+      "question": "Is renting just throwing money away?",
+      "answer": "Not necessarily. Renting buys flexibility and avoids the large transaction, maintenance, and interest costs of owning. Whether owning comes out ahead financially depends heavily on local prices and how long you stay, so renting can be a reasonable choice rather than a default loss."
+    },
+    {
+      "question": "Should I buy a home before prices rise further?",
+      "answer": "The data favours readiness over deadlines. Buying before you are financially prepared — just to beat an age or a market — exposes you to the shocks that make ownership stressful. Whether and when to buy depends on local affordability, how long you plan to stay, and your finances, not on a fixed age."
+    }
+  ],
+  "dataSources": [
+    "U.S. Census Bureau, Housing Vacancies and Homeownership (CPS/HVS) — homeownership rates overall and by age.",
+    "National Association of Realtors, Profile of Home Buyers and Sellers — first-time buyer median age."
+  ],
+  "relatedInsights": [
+    "what-most-people-your-age-actually-have-saved",
+    "how-many-people-actually-achieve-the-life-they-planned-at-22",
+    "why-you-feel-behind-even-when-youre-not"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,77 @@
+{
+  "title": "How Much Sleep Do People Actually Get?",
+  "slug": "how-much-sleep-do-people-actually-get",
+  "category": "health-and-energy",
+  "metaTitle": "How Much Sleep Do People Actually Get? The Real Numbers",
+  "metaDescription": "Guidelines say 7–9 hours, but about a third of US adults regularly get under 7. What the data shows about real sleep — and why self-reports overstate it.",
+  "lifeArea": "Health & Energy",
+  "keyFinding": "Most adults are recommended roughly 7–9 hours of sleep, average self-reported sleep sits near 7, and about a third of US adults regularly get less than 7 — so falling short of the ideal is common, though chronic shortfalls are worth taking seriously.",
+  "honestAnswer": [
+    "Most adults need roughly 7 to 9 hours of sleep, and average self-reported sleep sits around 7 hours — but that average hides a wide spread, and a large share of people fall short of it. U.S. national data suggest about a third of adults regularly get less than 7 hours, so getting less than the recommended amount is genuinely common rather than unusual.",
+    "Two honest caveats sit underneath that picture. First, people tend to overstate how much they actually sleep — time in bed is not the same as time asleep, and self-reports drift upward — so true sleep is often a little less than the figures suggest. Second, this page is educational context only, not medical advice. Common, mild short sleep is widespread, but persistent trouble sleeping or daytime impairment is worth raising with a qualified clinician rather than self-diagnosing from a population statistic."
+  ],
+  "whatDataShows": [
+    "The recommendation most professional bodies converge on is about 7 to 9 hours per night for most adults, with 7 or more hours treated as the floor for ongoing good health (American Academy of Sleep Medicine and the National Sleep Foundation). It is a range, not a single magic number — individual needs vary, and a small share of people genuinely function on a little less or need a little more.",
+    "Against that benchmark, U.S. Centers for Disease Control and Prevention data indicate that roughly one in three adults regularly gets less than 7 hours of sleep. Average self-reported sleep duration lands near 7 hours, but the distribution is uneven: short sleep is more common in some age groups, occupations, and shift-working populations than others, so the 'average' describes a middle that many people sit well below.",
+    "There is also a measurement gap worth naming. Time-use data, such as the American Time Use Survey, capture time spent in bed or sleeping, which tends to run higher than actual sleep. Self-reports in general lean optimistic — people round up, and lying awake counts as 'in bed' but not as sleep. So the realistic read is that true sleep is often modestly lower than the headline numbers, which makes the recommended 7-plus hours harder to reach than it looks on paper."
+  ],
+  "whyItFeelsDifferent": [
+    "It can feel like everyone else sleeps soundly while you struggle, but the data points the other way: short and imperfect sleep is one of the most widespread experiences there is. Because people rarely discuss their actual sleep honestly — and 'I slept terribly' is a more common throwaway line than a real accounting — the true commonness of short sleep stays invisible.",
+    "The ideal also gets flattened in the retelling. '8 hours' is repeated so often that the actual guidance, a 7-to-9-hour range with meaningful individual variation, gets lost. Measuring yourself against a single fixed number rather than a range tends to manufacture a sense of failure at durations that are within normal limits for many people.",
+    "And sleep-tracking devices add their own distortion. They can be motivating, but consumer trackers estimate rather than directly measure sleep stages, and fixating on a nightly 'score' can itself raise anxiety about sleep — a pattern clinicians have informally labelled with the term orthosomnia. Feeling worse about your sleep after checking an app does not mean your sleep got worse."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistently supported habits are unglamorous: a fairly regular sleep and wake schedule, including on weekends; a cool, dark, quiet sleep environment; and limiting caffeine, heavy meals, and alcohol close to bedtime. None of these are dramatic, and their effects are modest and gradual rather than transformative, but they are the levers with the best evidence behind them.",
+    "Getting daylight exposure during the day and dimming light in the evening supports the body's natural timing, and regular physical activity is associated with better sleep on average. For ongoing difficulty falling or staying asleep, the approach with the strongest evidence base is a structured behavioural one (cognitive behavioural therapy for insomnia), which a clinician can point you toward.",
+    "Most importantly: treat this as context, not a verdict on your health. If tiredness, difficulty sleeping, or daytime impairment is persistent, worsening, or interfering with your life, that is a reason to see a qualified clinician — chronic short sleep is associated with real health risks, and underlying issues such as sleep apnoea are treatable but need proper evaluation rather than a guess from an article."
+  ],
+  "whatDoesNotHelp": [
+    "Chasing a perfect number does not help and often backfires. Lying in bed straining to fall asleep, or anxiously watching the clock, tends to increase wakefulness rather than reduce it; the evidence favours getting up briefly and returning when sleepy over forcing it.",
+    "'Catching up' on weekends only partly offsets a week of short sleep, and the research suggests long weekend lie-ins do not fully reverse the effects of chronic weekday shortfalls. Heavy reliance on alcohol as a sleep aid is counterproductive — it can speed sleep onset but fragments sleep later in the night, leaving it less restorative.",
+    "Generic 'sleep hacks' and supplements are mostly weakly supported and over-marketed; effects, where they exist, tend to be small and short-lived. And no article, including this one, can diagnose why you specifically are tired — persistent or concerning sleep problems warrant a qualified clinician, not a self-directed fix based on a population average."
+  ],
+  "realNumbersInContext": [
+    "Roughly 7 to 9 hours is the recommended range for most adults (AASM / National Sleep Foundation), with 7-plus hours treated as the health floor. Average self-reported sleep sits near 7 hours, and about a third of U.S. adults regularly get less than 7 (CDC). So if you are around or just under 7, you are squarely within the most common band — not an outlier.",
+    "Remember that time in bed overstates time asleep, and self-reports tend to run high, so real sleep is often a little below the figures people quote. None of this is a clean bill of health or a cause for alarm by itself: it is context. Persistent short sleep, ongoing daytime tiredness, or trouble sleeping that disrupts your life is worth evaluating with a qualified clinician — this page is educational only and not a substitute for medical advice."
+  ],
+  "realNumbers": [
+    { "value": "~7–9 hrs", "label": "Recommended nightly sleep for most adults", "source": "American Academy of Sleep Medicine / National Sleep Foundation" },
+    { "value": "~7 hrs", "label": "Approximate average self-reported adult sleep", "source": "CDC / self-report surveys" },
+    { "value": "~1 in 3", "label": "U.S. adults regularly getting under 7 hours", "source": "U.S. CDC" },
+    { "value": "Overstated", "label": "Self-reported and time-in-bed figures vs. actual sleep", "source": "American Time Use Survey / self-report literature" }
+  ],
+  "faqs": [
+    {
+      "question": "How many hours of sleep do most people actually get?",
+      "answer": "Average self-reported sleep is around 7 hours, but it varies widely and tends to be overstated. About a third of U.S. adults regularly get less than 7 hours (CDC), so falling a bit short of the recommended range is common. This is general context, not a diagnosis of your own sleep."
+    },
+    {
+      "question": "Is getting less than 7 hours abnormal?",
+      "answer": "It is common rather than rare — roughly one in three U.S. adults regularly does. That said, 'common' is not the same as 'harmless': chronic short sleep is associated with health risks. Occasional short nights are normal life; persistent shortfalls or daytime impairment are worth raising with a qualified clinician."
+    },
+    {
+      "question": "Do I really need 8 hours exactly?",
+      "answer": "No. The guidance is a range of roughly 7 to 9 hours for most adults, not a fixed 8, and individual needs differ. Treating a single number as a pass/fail line tends to create unnecessary worry at durations that are within normal limits for many people."
+    },
+    {
+      "question": "Why do I feel like I sleep less than my tracker says?",
+      "answer": "Time in bed is not the same as time asleep, and consumer trackers estimate rather than directly measure sleep. People also tend to overstate sleep in self-reports. If a tracker is making you more anxious about sleep, that anxiety can itself worsen rest — a pattern sometimes called orthosomnia."
+    },
+    {
+      "question": "When should I see a doctor about my sleep?",
+      "answer": "This page is educational only, not medical advice. Persistent difficulty falling or staying asleep, loud snoring or gasping, ongoing daytime tiredness, or sleep problems that interfere with your life are reasons to see a qualified clinician, who can check for treatable causes such as sleep apnoea or insomnia."
+    }
+  ],
+  "dataSources": [
+    "U.S. Centers for Disease Control and Prevention (CDC) — short sleep duration prevalence among adults.",
+    "American Academy of Sleep Medicine & National Sleep Foundation — adult sleep duration recommendations (about 7–9 hours; 7+ as the health floor).",
+    "U.S. Bureau of Labor Statistics, American Time Use Survey — time spent sleeping / in bed.",
+    "Note: This page is educational context only and is not medical advice. Persistent or concerning sleep problems warrant evaluation by a qualified clinician."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-tired-all-the-time",
+    "how-much-do-people-actually-exercise",
+    "what-is-a-normal-amount-of-anxiety-to-live-with"
+  ],
+  "lastReviewed": "2026-06"
+}

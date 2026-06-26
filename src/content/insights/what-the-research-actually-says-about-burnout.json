@@ -1,0 +1,76 @@
+{
+  "title": "What the Research Actually Says About Burnout",
+  "slug": "what-the-research-actually-says-about-burnout",
+  "category": "work-and-career",
+  "metaTitle": "What the Research Actually Says About Burnout",
+  "metaDescription": "The WHO classes burnout as an occupational phenomenon with three dimensions, and research locates its drivers mainly in working conditions, not weakness.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Burnout is best understood as a work-related syndrome of exhaustion, cynicism, and reduced effectiveness whose drivers sit mainly in workplace conditions rather than in individual weakness — which is why resilience training alone often falls short.",
+  "honestAnswer": [
+    "Burnout is a recognised occupational phenomenon, not a personal failing or a character flaw. The World Health Organization's ICD-11 (2019) defines it specifically as resulting from chronic workplace stress that has not been successfully managed, and describes three dimensions: exhaustion, increased mental distance from or cynicism about the job, and a reduced sense of professional effectiveness.",
+    "Importantly, the WHO classifies burnout as an occupational phenomenon rather than a medical condition, and ties it specifically to the work context. The research it draws on locates the main drivers in the conditions of the job — not in how tough or disciplined the individual is. That distinction matters, because it changes where the most effective responses tend to sit. (This page is educational context, not medical advice; if low mood, exhaustion, or distress persists, it is worth seeing a qualified clinician.)"
+  ],
+  "whatDataShows": [
+    "The framework underlying the WHO definition comes from decades of research by Christina Maslach and colleagues, whose Maslach Burnout Inventory operationalised burnout along those three dimensions: emotional exhaustion, cynicism or depersonalisation, and reduced personal accomplishment. This three-part structure is the most established way burnout is measured in the research literature.",
+    "Maslach's work also locates the drivers of burnout primarily in the workplace through what she and Michael Leiter call the six 'areas of worklife': workload, control, reward, community, fairness, and values. The research pattern is that burnout becomes more likely when there are sustained mismatches between a person and their job across these areas — chronic overload, too little autonomy, insufficient reward, broken community, perceived unfairness, or a clash of values — rather than simply because an individual cannot cope.",
+    "Surveys consistently find that self-reported burnout is widespread across many occupations, and reporting rose around the pandemic period in particular, though exact figures vary considerably by how burnout is measured and which workforce is studied. The reliable takeaway is less any single percentage than the structural finding: where these workplace conditions are poor, burnout tends to be common; where they are better, it tends to be lower."
+  ],
+  "whyItFeelsDifferent": [
+    "Burnout is often experienced as a private inadequacy — a sense that everyone else is managing the same load and you simply are not strong enough. Because exhaustion and cynicism feel like they are happening inside you, it is easy to read them as evidence about your resilience rather than as a predictable response to the conditions you are working in.",
+    "The surrounding culture reinforces this. Much workplace messaging frames burnout as something individuals should fix with better self-care, mindfulness, or grit, which quietly relocates a structural problem onto the person experiencing it. If the story is 'you need to build resilience,' then still feeling burnt out can feel like a second failure on top of the first.",
+    "There is also genuine overlap with low mood that blurs the picture. Burnout's exhaustion and detachment can resemble depression, and the two can co-occur, which makes it hard to tell from the inside whether what you are feeling is mainly about the job or something broader — one reason persistent symptoms are worth taking to a clinician rather than self-diagnosing."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the drivers are largely structural, the responses with the most support tend to target the conditions of work, not just the worker. Maslach and Leiter's framework points toward addressing the specific mismatch — reducing chronic overload, restoring some control and autonomy, repairing fairness or recognition, rebuilding community, or closing a values gap — as more durable than treating burnout as an individual stamina problem.",
+    "At the individual level, recovery still matters: genuine rest, protected time off, and clear boundaries around work load and hours have support, particularly because exhaustion is a core dimension that does not resolve without actual recovery. These help most when paired with changes to the conditions that produced the exhaustion, rather than used to make an unsustainable load survivable.",
+    "Where the symptoms are persistent, overlap with low mood, or interfere with daily functioning, the appropriate step is a qualified clinician. Burnout sits at the boundary of occupational and mental health, and distinguishing it from depression — and treating either appropriately — is a clinical question, not something to settle from an article."
+  ],
+  "whatDoesNotHelp": [
+    "Resilience and wellness training delivered on its own often falls short, because it treats a problem rooted in workload, control, and fairness as if it were a deficit in the individual. Research on workplace interventions generally finds that programmes targeting only the person, while the conditions that caused the burnout remain unchanged, produce limited and short-lived effects.",
+    "Pushing through with more discipline tends to deepen exhaustion rather than resolve it. Because chronic, unmanaged workplace stress is the defining cause in the WHO framing, working harder to cope with an unsustainable load usually feeds the very mechanism driving the burnout.",
+    "Treating burnout as a personal weakness to be hidden is also counterproductive. It delays the structural conversations and, where relevant, the clinical help that actually change the trajectory — and it reinforces the inaccurate story that the problem is you rather than a mismatch between you and the conditions of the job."
+  ],
+  "realNumbersInContext": [
+    "The clearest reference point is definitional rather than numerical: the WHO's ICD-11 (2019) frames burnout as an occupational phenomenon caused by chronic, unsuccessfully managed workplace stress, with three dimensions — exhaustion, cynicism or mental distance, and reduced professional efficacy. That framing alone relocates burnout from 'something wrong with me' to 'a response to conditions.'",
+    "Prevalence figures circulate widely but vary a great deal depending on the measure and the workforce studied, so they are best treated as approximate. The more robust finding is structural: Maslach and Leiter's six areas of worklife — workload, control, reward, community, fairness, and values — describe where the risk concentrates, which is why improving those conditions tends to matter more than individual resilience efforts alone."
+  ],
+  "realNumbers": [
+    { "value": "3 dimensions", "label": "Exhaustion, cynicism/mental distance, reduced efficacy", "source": "WHO ICD-11 (2019); Maslach Burnout Inventory" },
+    { "value": "Occupational", "label": "How WHO classifies burnout — a phenomenon, not a medical condition", "source": "World Health Organization, ICD-11 (2019)" },
+    { "value": "6 areas of worklife", "label": "Workload, control, reward, community, fairness, values", "source": "Maslach & Leiter, Areas of Worklife model" }
+  ],
+  "faqs": [
+    {
+      "question": "Is burnout a medical condition?",
+      "answer": "No. The WHO's ICD-11 (2019) classifies burnout as an occupational phenomenon resulting from chronic, unsuccessfully managed workplace stress — not as a medical condition. It is defined specifically in the context of work."
+    },
+    {
+      "question": "What are the signs of burnout?",
+      "answer": "The established framework, from Christina Maslach's work, describes three dimensions: exhaustion, increased mental distance from or cynicism about the job, and a reduced sense of professional effectiveness. Persistent symptoms, or symptoms that overlap with low mood, are worth discussing with a clinician."
+    },
+    {
+      "question": "Is burnout my fault for not being resilient enough?",
+      "answer": "The research points the other way. Maslach and Leiter locate the main drivers in workplace conditions — the six 'areas of worklife': workload, control, reward, community, fairness, and values — rather than in individual weakness, which is why resilience training alone often falls short."
+    },
+    {
+      "question": "What's the difference between burnout and depression?",
+      "answer": "They can look similar and can co-occur, which makes them hard to tell apart from the inside. Burnout is defined in relation to work, while depression is broader. This is one reason persistent or worsening symptoms warrant a qualified clinician rather than self-diagnosis."
+    },
+    {
+      "question": "Does self-care fix burnout?",
+      "answer": "Rest and recovery genuinely matter, especially for the exhaustion dimension, but on their own they tend to fall short when the workload, control, and fairness conditions that caused the burnout remain unchanged. The more durable responses address those conditions, not just the worker."
+    }
+  ],
+  "dataSources": [
+    "World Health Organization, ICD-11 (2019) — burnout defined as an occupational phenomenon.",
+    "Maslach, C., & Jackson, S. E. — the Maslach Burnout Inventory and the three-dimensional model of burnout.",
+    "Maslach, C., & Leiter, M. P. — the 'Areas of Worklife' model (workload, control, reward, community, fairness, values).",
+    "Gallup — workplace burnout reporting."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-not-be-passionate-about-your-job",
+    "is-it-normal-to-feel-tired-all-the-time",
+    "is-it-normal-to-feel-busy-all-the-time"
+  ],
+  "lastReviewed": "2026-06"
+}

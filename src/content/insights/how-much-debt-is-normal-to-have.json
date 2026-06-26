@@ -1,0 +1,76 @@
+{
+  "title": "How Much Debt Is Normal to Have at Your Age?",
+  "slug": "how-much-debt-is-normal-to-have",
+  "category": "money-and-financial-reality",
+  "metaTitle": "How Much Debt Is Normal at Your Age? The Real Numbers",
+  "metaDescription": "Most U.S. households carry debt, and its mix shifts with age. Here is what the data shows about what's normal — and why the type matters more than the total.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Carrying debt is statistically normal for most U.S. households, and what matters for financial stress is less the total than the type of debt and whether the payments are manageable.",
+  "honestAnswer": [
+    "Having debt is normal, not a sign that something has gone wrong. Most U.S. households carry some — and the composition shifts predictably with age, with mortgages making up the large majority of total household debt, followed by auto loans, student loans, and credit cards.",
+    "There is no single 'normal' figure, because the honest answer depends heavily on what kind of debt it is. A low-rate mortgage and a high-interest credit card balance of the same size are not remotely the same thing for your finances or your stress levels. The more useful question than 'how much' is 'what kind, at what rate, and are the payments manageable?'"
+  ],
+  "whatDataShows": [
+    "The most reliable picture of U.S. household debt comes from the Federal Reserve Bank of New York's Quarterly Report on Household Debt and Credit, which tracks total balances by type. Mortgages are the large majority of all household debt, with auto loans, student loans, and credit card balances making up most of the rest. In other words, the bulk of what Americans owe is secured, lower-rate borrowing against a home, not revolving consumer debt.",
+    "On individual balances, Experian's data on average consumer accounts gives a rough sense of scale: credit card balances commonly run in the low-to-mid thousands of dollars per person, average student loan debt sits somewhere around $35,000–$40,000 per borrower, and auto loans tend to be larger still. These are averages, which are pulled upward by a minority with very large balances, so the typical person often owes less than the average implies.",
+    "Debt levels also follow a life-cycle pattern. Borrowing typically rises through early and middle adulthood — when people take on mortgages, car loans, and the costs of raising families — and then tends to decline later in life as mortgages are paid down. So a 40-year-old carrying more total debt than a 70-year-old is following the normal arc, not falling behind it."
+  ],
+  "whyItFeelsDifferent": [
+    "Debt feels more abnormal than it is partly because of a strong cultural moralising around it — owing money is framed as a personal failure rather than as the ordinary mechanics of buying a home or a car you cannot pay for in cash. That framing makes a near-universal experience feel like a private shame.",
+    "It also feels worse because the visible signals are misleading. You can see other people's houses, cars, and renovations, but not the loans behind them. The households that look the most financially settled are frequently the ones carrying the largest mortgages and auto loans — so the comparison that makes you feel uniquely indebted is often comparing your full picture to other people's borrowed one.",
+    "And because money is taboo to discuss honestly, the balances people do mention tend to be the reassuring ones. Almost no one volunteers their actual credit card balance, so the few data points you hear skew optimistic, and your own perfectly ordinary debt can feel like an outlier."
+  ],
+  "whatResearchSaysToDo": [
+    "The clearest signal in the data is to distinguish high-interest revolving debt from low-rate secured debt and prioritise accordingly. Credit card debt, with its high interest rates, is the kind most strongly tied to financial strain, and reducing it generally does more for both your finances and your stress than paying ahead on a low-rate mortgage or student loan.",
+    "Focusing on whether payments are manageable relative to your income — rather than on the headline total — is the more useful frame. A large mortgage with comfortable payments is a very different situation from a smaller balance you are struggling to service, and the data on financial distress tracks affordability and missed payments far more closely than it tracks the raw amount owed.",
+    "Where balances are unmanageable, the research-supported moves are unglamorous and concrete: contacting lenders early, consolidating or refinancing high-interest balances where it lowers the rate, and avoiding new high-cost borrowing. None of these are quick fixes, but they address the part of debt — the interest rate and the payment burden — that actually drives stress."
+  ],
+  "whatDoesNotHelp": [
+    "Comparing your total debt to someone else's headline number rarely helps, because it ignores the only things that matter: the interest rate and whether the payments fit your income. Two people who 'owe the same amount' can be in completely different situations.",
+    "Treating all debt as equally urgent is a common and costly mistake. Rushing to overpay a low-rate mortgage or subsidised student loan while carrying a high-interest credit card balance generally leaves you worse off, because it directs money away from the debt that is actually compounding against you fastest.",
+    "Shame and avoidance are the responses the evidence is least kind to. Not opening statements, not contacting a lender when payments slip, or borrowing further to hide a problem all tend to make the situation worse, because the costs of high-interest debt and missed payments accumulate quietly while it is ignored."
+  ],
+  "realNumbersInContext": [
+    "Most U.S. household debt is a mortgage, not a credit card. In the New York Fed's tracking, mortgages make up the large majority of total household debt, with auto loans, student loans, and credit cards making up most of the remainder. So the typical 'indebted' household is mainly someone paying down a home, which is closer to the rule than the exception.",
+    "Average individual balances give a rough sense of scale (Experian): credit card balances commonly in the low-to-mid thousands of dollars, average student loan debt roughly $35,000–$40,000 per borrower, and larger auto loans. These are averages skewed upward by a minority of very large balances, so treat them as ballpark figures rather than a target. And remember debt typically peaks in middle age and declines later — carrying more in your working years than your retirement years is the normal pattern, not a warning sign."
+  ],
+  "realNumbers": [
+    { "value": "Most", "label": "Share of total U.S. household debt that is mortgage debt", "source": "Federal Reserve Bank of New York, Household Debt and Credit Report" },
+    { "value": "~$35k–$40k", "label": "Average student loan debt per borrower (approx.)", "source": "Experian, average consumer balances" },
+    { "value": "Low-mid thousands", "label": "Typical credit card balance per person (approx.)", "source": "Experian, average consumer balances" },
+    { "value": "Middle age", "label": "Life stage at which total debt typically peaks, then declines", "source": "Federal Reserve, Survey of Consumer Finances (2022)" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it normal to have debt at my age?",
+      "answer": "For most U.S. adults, yes. Most households carry some debt, and the type shifts with age — mortgages dominate, followed by auto loans, student loans, and credit cards. Debt typically peaks in middle age and declines later in life, so carrying it during your working years follows the normal pattern rather than breaking it."
+    },
+    {
+      "question": "How much debt is too much?",
+      "answer": "There is no universal number. The more honest test is the type and the payment burden: high-interest revolving debt (like credit cards) that you struggle to service is the warning sign, whereas a large but affordable low-rate mortgage is a very different situation. Affordability and missed payments track financial distress far better than the headline total does."
+    },
+    {
+      "question": "What's the average amount of debt people carry?",
+      "answer": "Average balances vary by type. As a rough guide from Experian's data, credit card balances commonly run in the low-to-mid thousands of dollars, average student loan debt is roughly $35,000–$40,000 per borrower, and auto loans tend to be larger. These are averages pulled up by a minority of very large balances, so the typical person often owes less."
+    },
+    {
+      "question": "Should I pay off all my debt as fast as possible?",
+      "answer": "Not all debt is equal. The research-aligned approach is to prioritise high-interest debt, especially credit cards, because that is the kind compounding against you fastest and most tied to stress. Rushing to overpay a low-rate mortgage or subsidised student loan while carrying high-interest balances usually leaves you worse off."
+    },
+    {
+      "question": "Does carrying a mortgage count as being 'in debt'?",
+      "answer": "Technically yes, and it makes up the large majority of total U.S. household debt. But a low-rate mortgage with manageable payments is very different from high-interest consumer debt, both financially and in terms of stress. Lumping the two together is part of why ordinary borrowing can feel more alarming than the data suggests it should."
+    }
+  ],
+  "dataSources": [
+    "Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit — total household debt and composition by type.",
+    "Experian — average consumer balances (credit cards, student loans, auto loans).",
+    "Federal Reserve, Survey of Consumer Finances (2022) — debt by age and life cycle."
+  ],
+  "relatedInsights": [
+    "what-most-people-your-age-actually-have-saved",
+    "what-does-financial-security-actually-look-like",
+    "where-does-the-average-paycheck-actually-go"
+  ],
+  "lastReviewed": "2026-06"
+}
