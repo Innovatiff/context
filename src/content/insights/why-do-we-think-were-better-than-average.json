@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Think We're Better Than Average?",
+  "slug": "why-do-we-think-were-better-than-average",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why Do We Think We're Better Than Average?",
+  "metaDescription": "Most people rate themselves above average on positive traits — a statistical impossibility. Here is what the research on illusory superiority actually shows.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "Most people rate themselves above average on common positive traits — a mathematical impossibility known as the better-than-average effect — but the bias is not universal: it reverses on genuinely difficult skills and coexists with the opposite, self-doubting biases in other domains.",
+  "honestAnswer": [
+    "Because, on a wide range of common positive traits, most people genuinely believe they are above average — and they cannot all be right. This well-documented bias is known as illusory superiority, the better-than-average effect, or the 'Lake Wobegon effect,' after the fictional town where everyone is above average. It is one of the most reliably replicated findings in the study of self-perception.",
+    "The honest qualification is that it is not the whole story. The bias is strongest for easy, vaguely defined, and socially desirable traits, and it reverses for genuinely hard skills, where people tend to underrate themselves. It also coexists with the opposite tendencies — impostor feelings, underestimating how much others like you — in different parts of life. We are not uniformly self-flattering; we are biased in patterned ways."
+  ],
+  "whatDataShows": [
+    "The classic illustration comes from Svenson (1981), who asked drivers to rate their own skill and safety against others. A large majority placed themselves in the top half — and a substantial share in the top tier — for both skill and safety, which is statistically impossible if people are estimating accurately. Most people, it turns out, believe they are better-than-average drivers.",
+    "The pattern generalises far beyond driving. Work by Alicke and colleagues on the better-than-average effect found that people rate themselves above average on intelligence, fairness, ethics, and a wide range of abilities, especially when the trait is desirable and its meaning is ambiguous enough that everyone can define it in their own favour. The vaguer and more flattering the trait, the stronger the effect.",
+    "But it is not universal. Kruger and Dunning (1999) documented a striking reversal: on objectively hard tasks, people tend to underestimate themselves, and the least skilled often lack the very expertise needed to recognise their own limitations — while strong performers tend to underrate their relative standing. So self-assessment is not simply inflated; it is distorted in a direction that depends on the difficulty and clarity of the task."
+  ],
+  "whyItFeelsDifferent": [
+    "The effect is partly self-protective. Maintaining a moderately positive view of yourself is associated with resilience and motivation, so the mind has a gentle, built-in bias toward favourable self-assessment — and because you cannot directly observe everyone else's inner experience, there is little corrective feedback to puncture it.",
+    "It is also a product of how we define vague traits. Ask people whether they are a 'good driver' or a 'good person,' and most quietly define the trait around their own strengths — a careful driver emphasises caution, a fast one emphasises skill — so almost everyone can rate themselves above average on a yardstick they have privately bent in their favour.",
+    "And the bias is easy to miss in yourself precisely because it feels like accuracy, not flattery. From the inside, your above-average self-rating doesn't feel like a bias; it feels like a fair reading of the evidence you have — which is exactly why a statistical impossibility can be so widely and sincerely held."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful correction is to seek concrete, external feedback rather than relying on your own self-rating, particularly for skills that matter. Because the bias thrives on vague traits and absent feedback, objective benchmarks and honest input from others tend to bring self-assessment closer to reality.",
+    "It also helps to hold your self-estimate loosely on hard or unfamiliar tasks specifically. The Kruger–Dunning reversal means that exactly where you feel most confident in a domain you have not mastered, you are most likely to be overrating yourself — so treating early confidence as provisional, and competence on difficult skills as something to verify, is the safer default.",
+    "Finally, knowing the bias exists is itself modestly useful as context, not as a cudgel. The point is not to swing to harsh self-criticism — which the evidence does not support as helpful — but to recognise that a confident self-rating is normal, widely shared, and not by itself reliable evidence of where you actually stand."
+  ],
+  "whatDoesNotHelp": [
+    "Taking your own confidence as proof of competence does not help, because confidence and skill come apart most where it matters — on difficult tasks, the people most sure of themselves are often the least accurate about their own ability. Confidence is a feeling, not a measurement.",
+    "Swinging to the opposite extreme and assuming you are below average is also unsupported and often inaccurate. The bias is patterned, not uniform: people tend to underrate themselves on hard skills and on how much others like them, so blanket self-deprecation simply trades one distortion for another.",
+    "Trying to correct the bias by comparing yourself to highly visible top performers tends to backfire, replacing an inflated self-view with a sense of falling short against an unrepresentative sample. The fix is accurate, concrete benchmarks — not a different distorted comparison set."
+  ],
+  "realNumbersInContext": [
+    "The signature finding is a clean statistical contradiction. In Svenson's (1981) study, a large majority of drivers rated themselves more skilful and safer than the median driver — far more than the 50% that is logically possible — which is why the better-than-average effect is such a durable demonstration that self-perception is systematically biased rather than merely noisy.",
+    "The effect is strong but bounded. It is largest for desirable, ambiguous, easy traits and reverses on genuinely difficult ones (Kruger & Dunning, 1999), where people tend to underestimate themselves. So the honest takeaway is not 'everyone is arrogant' but that self-assessment is distorted in predictable directions — inflated on easy and vague qualities, deflated on hard and well-defined ones."
+  ],
+  "realNumbers": [
+    { "value": "Large majority", "label": "Drivers who rated themselves above the median for skill and safety", "source": "Svenson, 1981" },
+    { "value": "Above average", "label": "How most people rate themselves on desirable, vague traits", "source": "Alicke et al., better-than-average effect" },
+    { "value": "Reverses", "label": "Self-rating on genuinely hard tasks — people tend to underrate themselves", "source": "Kruger & Dunning, 1999" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the better-than-average effect?",
+      "answer": "It is the well-documented tendency for most people to rate themselves above average on common positive traits — driving, intelligence, ethics, fairness — which is statistically impossible, since not everyone can be above the median. It is also called illusory superiority or the Lake Wobegon effect."
+    },
+    {
+      "question": "Does everyone think they're better than average?",
+      "answer": "Most people do, but not on everything. The effect is strongest for desirable, vaguely defined, easy traits. On genuinely difficult skills it reverses — people tend to underrate themselves (Kruger & Dunning, 1999) — and it coexists with opposite biases like impostor feelings in other parts of life."
+    },
+    {
+      "question": "Why do we do this?",
+      "answer": "Partly because a moderately positive self-view is self-protective and motivating, and partly because we define vague traits around our own strengths. A cautious driver defines 'good driving' as caution; a fast one defines it as skill — so almost everyone can rate themselves highly on a yardstick they've quietly bent in their favour."
+    },
+    {
+      "question": "Is it bad to think you're above average?",
+      "answer": "Not inherently — a mildly positive self-view is linked to resilience and motivation. The risk is treating confidence as proof of competence, especially on hard tasks where the two come apart. The useful correction is concrete external feedback, not harsh self-criticism, which the research does not support as helpful."
+    },
+    {
+      "question": "How can I get a more accurate read on my own abilities?",
+      "answer": "Seek objective benchmarks and honest outside feedback rather than relying on self-rating, and treat early confidence on difficult or unfamiliar skills as provisional. Because the bias thrives on vague traits and absent feedback, concrete information is what brings self-assessment closest to reality."
+    }
+  ],
+  "dataSources": [
+    "Svenson, O. (1981). Are we all less risky and more skillful than our fellow drivers? Acta Psychologica, 47(2), 143–148.",
+    "Alicke, M. D., and colleagues — research on the better-than-average effect and illusory superiority.",
+    "Kruger, J., & Dunning, D. (1999). Unskilled and Unaware of It. Journal of Personality and Social Psychology, 77(6), 1121–1134."
+  ],
+  "relatedInsights": [
+    "why-everyone-else-seems-more-put-together-than-you",
+    "are-confident-people-actually-more-competent",
+    "are-you-more-normal-than-you-think"
+  ],
+  "lastReviewed": "2026-06"
+}

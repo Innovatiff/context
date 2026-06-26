@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Think the Past Was Better Than It Was?",
+  "slug": "why-do-we-think-the-past-was-better-than-it-was",
+  "category": "age-and-life-stages",
+  "metaTitle": "Why We Think the Past Was Better — The Research",
+  "metaDescription": "The 'good old days' feeling is largely a trick of memory and attention. Here is what the research on rosy retrospection and declinism actually shows.",
+  "lifeArea": "Age & Life Stages",
+  "keyFinding": "The sense that the past was better is driven mainly by two well-documented biases — rosy retrospection and declinism — rather than by reliable evidence that earlier times actually were better.",
+  "honestAnswer": [
+    "The feeling that the past was better is, more often than not, a predictable distortion rather than an accurate measurement. Two separate but reinforcing biases produce it: memory tends to edit our own pasts to be fonder than they felt at the time, and we are broadly inclined to believe that society and people are getting worse. Both have been documented across decades and across countries, frequently in periods when the objective measures researchers can check were flat or improving.",
+    "That does not mean nothing ever gets worse, or that any specific decline you have noticed is imaginary. It means the general, sweeping feeling that things used to be better is not, by itself, trustworthy evidence — because the same feeling shows up reliably regardless of what was actually happening. The 'good old days' sensation is closer to a feature of how attention and memory work than to a verdict on history."
+  ],
+  "whatDataShows": [
+    "On the personal side, researchers describe a pattern often called rosy retrospection: people tend to remember past events more positively than they rated those same events while living through them. In studies that asked people about a trip or experience before, during, and afterward — work associated with Mitchell and Thompson in the 1990s — the remembered version tended to drift upward over time, smoothing out the boredom, friction, and minor miseries that were obvious in the moment.",
+    "On the societal side, researchers describe declinism: a widespread belief that the world is deteriorating and that some earlier era was a golden age. Recent work by Mastroianni and Gilbert (2023, Nature) gathered large numbers of surveys and found that people in many countries and across many decades have reported that morality and people's behaviour are declining — yet the same respondents' assessments of the people around them in the present did not track that supposed fall. The belief in moral decline appeared remarkably stable and largely independent of measurable change.",
+    "Both patterns are usually traced to ordinary cognitive tendencies: a negativity bias that makes present problems feel vivid and unpleasant memories fade faster than pleasant ones, plus the way nostalgia selectively highlights warmth and belonging. The data does not show that earlier eras were uniformly worse or better; it shows that the feeling of decline is common, persistent, and only loosely connected to the underlying facts."
+  ],
+  "whyItFeelsDifferent": [
+    "The past feels better partly because of how memory stores it. Unpleasant and mundane details tend to fade faster than emotionally warm ones, so the version you can recall years later is already pre-edited toward the good. You are not comparing the present to the past as it was — you are comparing it to a curated highlight of the past, with the dull and difficult parts quietly removed.",
+    "The present, by contrast, arrives unedited. You experience today with all its frictions, uncertainties, and unfinished business in full view, and negativity bias makes those problems louder than the comparable problems of a decade ago, which have softened or been forgotten. So the comparison is structurally unfair: a smoothed memory on one side, the raw and anxious now on the other.",
+    "Nostalgia adds a further pull. The eras people most often idealise tend to coincide with their own youth — a time of fewer responsibilities and stronger novelty — which makes 'the world was better then' hard to separate from 'I was younger and had less to worry about then.' The feeling is real; its interpretation as a fact about history is the part that usually does not hold up."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful move is simply to know the pattern exists, because rosy retrospection and declinism are easier to discount once you can name them. When you catch yourself concluding that everything used to be better, it is worth treating that as a prompt to check rather than a conclusion to trust — the feeling is common enough that it tells you very little on its own.",
+    "Where you can, replace the remembered version with a recorded one. Diaries, photos, messages, and contemporaneous notes routinely surprise people, because they preserve the boredom and frustration that memory edits out. Checking a specific claim ('was that job actually better?') against concrete records tends to deflate the sweeping version of the past.",
+    "Research on nostalgia also suggests it is not something to suppress — used deliberately, recalling fond memories can support mood, connection, and a sense of meaning. The distinction that matters is between enjoying nostalgia as a feeling and treating it as evidence. The first is generally fine; the second is where the distortion does its work."
+  ],
+  "whatDoesNotHelp": [
+    "Taking the feeling at face value — concluding that because the past feels better, it was better — is the core mistake, and it is the one the research most directly cautions against. The feeling appears reliably in good times and bad, which is precisely why it is a poor measuring instrument for whether things have genuinely declined.",
+    "Trying to argue yourself out of all nostalgia tends not to help either, and may not be desirable; the warm memories serve a real psychological function. The goal is not to stop feeling that the past was sweet, but to stop mistaking that sweetness for a balanced historical comparison.",
+    "Comparing a hazy, idealised past to a fully detailed present — the default comparison your mind offers — is structurally rigged and consistently misleads. Without recorded detail or actual data on both sides, the contest is between an edited memory and an unedited now, and the past will almost always seem to win."
+  ],
+  "realNumbersInContext": [
+    "The clearest large-scale evidence comes from work on perceived moral decline. Mastroianni and Gilbert (2023) drew on hundreds of surveys spanning many countries and, in places, decades, and found that the belief that morality is declining was nearly ubiquitous and strikingly stable over time — while people's ratings of the morality of those currently around them did not show the matching fall. The decline people were sure they had witnessed was not visible in their own present-day assessments.",
+    "On the personal side, the rosy-retrospection studies are smaller and the effect is a tendency rather than a universal law — not everyone idealises the past, and some experiences are remembered more harshly than they felt. The honest summary is that both biases are well-supported as common patterns, but they describe a direction memory and judgment tend to lean, not a guarantee about any single person or any specific historical claim."
+  ],
+  "realNumbers": [
+    { "value": "~60+ years", "label": "Span over which belief in moral decline showed up and stayed stable in surveys", "source": "Mastroianni & Gilbert, Nature 2023" },
+    { "value": "Many countries", "label": "Where declinism (belief the past was better) has been documented", "source": "Mastroianni & Gilbert, Nature 2023" },
+    { "value": "Upward drift", "label": "Direction memories of events tend to move versus in-the-moment ratings", "source": "Mitchell & Thompson, rosy retrospection research" }
+  ],
+  "faqs": [
+    {
+      "question": "Does this mean the past was never actually better in any way?",
+      "answer": "No. Specific things genuinely do get worse, and a particular decline you have noticed may be real. The research is about the broad, sweeping feeling that everything used to be better — that feeling shows up reliably regardless of the facts, so on its own it is weak evidence. The point is to check specific claims rather than trust the general sensation."
+    },
+    {
+      "question": "What is rosy retrospection?",
+      "answer": "It is the documented tendency to remember past events more fondly than you rated them while they were happening. In studies that measured people's feelings before, during, and after an experience, the remembered version tended to drift more positive over time as the boredom and friction faded faster than the warmth."
+    },
+    {
+      "question": "What is declinism?",
+      "answer": "Declinism is the widespread belief that society and people are getting worse and that some earlier era was a golden age. Large survey work (Mastroianni and Gilbert, 2023) found this belief is nearly universal and stable across countries and decades, even though people's ratings of those around them in the present did not show the matching decline."
+    },
+    {
+      "question": "Why do we idealise our own youth in particular?",
+      "answer": "The eras people romanticise often line up with their own younger years — a time of fewer responsibilities, more novelty, and stronger social bonds. That makes 'the world was better back then' difficult to separate from 'I was younger and freer back then,' which is a statement about your life stage rather than about history."
+    },
+    {
+      "question": "Is nostalgia bad for me, then?",
+      "answer": "Not at all. Research suggests that recalling fond memories can support mood, connection, and a sense of meaning. The trouble is only in treating nostalgia as evidence about how the world has changed. Enjoying the feeling is fine; mistaking it for a fair historical comparison is where it misleads."
+    }
+  ],
+  "dataSources": [
+    "Mitchell, T. R., Thompson, L., et al. — research on rosy retrospection (remembered versus in-the-moment evaluations of experiences), 1990s.",
+    "Mastroianni, A. M., & Gilbert, D. T. (2023). The illusion of moral decline. Nature, 618, 782–789.",
+    "Research on negativity bias, nostalgia, and autobiographical memory (e.g., work by Sedikides and colleagues on nostalgia)."
+  ],
+  "relatedInsights": [
+    "is-nostalgia-actually-good-or-bad-for-you",
+    "do-generational-differences-actually-exist",
+    "why-you-feel-behind-even-when-youre-not"
+  ],
+  "lastReviewed": "2026-06"
+}

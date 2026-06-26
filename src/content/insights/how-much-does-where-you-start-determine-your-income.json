@@ -1,0 +1,75 @@
+{
+  "title": "How Much Does Where You Start Determine Your Income?",
+  "slug": "how-much-does-where-you-start-determine-your-income",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Does Where You Start Determine Your Income? The Data",
+  "metaDescription": "Your starting point shapes your income more than the 'anyone can make it' story implies. What the research on economic mobility actually shows.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "A child's eventual income is strongly predicted by their parents' income and the specific place they grew up, and the odds of a poor child reaching the top have fallen over generations — so where you start matters a great deal, even though it is not the whole story.",
+  "honestAnswer": [
+    "A great deal more than the 'anyone can make it' story implies. Economic mobility is real but considerably more limited than the cultural script suggests, and the research is fairly consistent: a child's eventual income is strongly predicted by their parents' income and by the specific neighbourhood they grew up in. Where you start is one of the biggest single predictors of where you end up.",
+    "That is not the same as saying outcomes are fixed. Effort, choices, and luck still matter, and people do move up and down. The honest framing is that you are running a race in which starting position carries real weight — acknowledging the head start someone had, or didn't, is accurate context rather than fatalism or excuse-making."
+  ],
+  "whatDataShows": [
+    "The most influential evidence comes from Raj Chetty and the Opportunity Insights team, who linked anonymised tax records across generations to measure how strongly parents' income predicts their children's. The general finding is a strong intergenerational link: children from higher-income families tend to end up with higher incomes themselves, and the relationship is far tighter than a pure meritocracy would produce.",
+    "Geography turns out to matter at a remarkably fine grain. The same research finds large differences in upward mobility across regions, cities, and even neighbourhoods only a few miles apart — and that children who move to higher-opportunity areas earlier in childhood tend to do better as adults. Place is not just a backdrop; it appears to shape outcomes through schooling, networks, and local conditions.",
+    "The trend over time is sobering. Research on absolute mobility finds that the share of children who grow up to earn more than their parents did has fallen substantially across the twentieth century, and that the chance of a child born into the bottom reaching the top is lower than the national mythology assumes. Mobility exists, but it has become harder, not easier."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like effort is the main driver because the visible stories are survivorship stories. The people we hear about are disproportionately the ones who moved up, and their narratives emphasise hard work because that is the part they experienced from the inside. The much larger number of equally hard-working people who did not move far rarely get told.",
+    "Starting advantages are also mostly invisible. A stable home, a good local school, useful family connections, and not having to support relatives are easy to overlook precisely because, if you had them, they felt like the normal background of life rather than a leg up. We tend to notice headwinds and take tailwinds for granted.",
+    "And the cultural story is strongly meritocratic, which means acknowledging the role of starting point can feel like denying agency. But the data does not erase effort; it sits alongside it. Two people can work equally hard and end up far apart largely because of where they began — and naming that is not the same as saying choices don't count."
+  ],
+  "whatResearchSaysToDo": [
+    "At the level of evidence rather than personal advice, the research points to place. Because mobility varies so sharply by neighbourhood, studies find that moving to a higher-opportunity area earlier in a child's life is associated with better adult outcomes — which is why much of the policy work focuses on access to better neighbourhoods and schools rather than on individual grit.",
+    "The same body of work suggests the levers that matter are largely structural: school quality, stable communities, social networks that connect across income lines, and reduced segregation. These are conditions more than choices, which is part of why the honest takeaway is about understanding the landscape rather than a self-improvement checklist.",
+    "For an individual, the most useful thing the data offers is calibration. Seeing how much starting point predicts outcomes can replace a harsh self-verdict with accurate context — both for understanding your own position and for reading other people's success or struggle with less moralising and more realism."
+  ],
+  "whatDoesNotHelp": [
+    "Treating income purely as a measure of effort or character does not help, because it ignores one of the strongest predictors in the data. It tends to produce both unearned credit for those who started ahead and unfair blame for those who started behind, neither of which matches the evidence.",
+    "Flipping to pure fatalism — concluding that where you start fixes everything — is equally unsupported. Mobility is constrained, not absent; people do move, effort and circumstance both matter, and the data describes probabilities across populations, not a sentence for any one person.",
+    "Generic 'just work harder' or 'hustle' messaging does little to change the structural picture the research describes, because the biggest differences in mobility track neighbourhoods, schools, and family resources rather than individual willpower. It can also misdirect blame onto people facing headwinds that effort alone rarely overcomes."
+  ],
+  "realNumbersInContext": [
+    "The exact figures depend on the cohort, the dataset, and the definition of mobility, so they are best read as a direction rather than precise constants. The robust pattern from Opportunity Insights is that parents' income strongly predicts children's, that upward mobility differs dramatically across neighbourhoods, and that the gains from moving to a higher-opportunity area are larger the earlier in childhood the move happens.",
+    "On the trend, research on absolute mobility finds the share of children out-earning their parents has fallen markedly over generations — from a large majority for children born in the mid-twentieth century to closer to a coin flip for those born decades later. The precise percentages are debated and vary by method, but the decline is the consistent, well-supported finding."
+  ],
+  "realNumbers": [
+    { "value": "Strong", "label": "Link between parents' income and children's eventual income", "source": "Chetty / Opportunity Insights" },
+    { "value": "Neighbourhood-level", "label": "Scale at which upward mobility varies — areas miles apart differ sharply", "source": "Opportunity Insights" },
+    { "value": "Falling", "label": "Share of children who grow up to out-earn their parents, across generations", "source": "Research on declining absolute mobility (Chetty et al.)" }
+  ],
+  "faqs": [
+    {
+      "question": "Does where I grew up really affect how much I earn?",
+      "answer": "The research suggests yes, and at a surprisingly local level. Opportunity Insights finds upward mobility varies sharply between neighbourhoods only miles apart, and that children who move to higher-opportunity areas earlier tend to earn more as adults. Place appears to shape income through schools, networks, and local conditions."
+    },
+    {
+      "question": "So does effort not matter?",
+      "answer": "Effort still matters; it just isn't the whole story. The honest reading of the data is that starting point and effort both contribute. Two people can work equally hard and end up far apart largely because of where they began. Acknowledging the head start someone had is context, not a denial of their effort."
+    },
+    {
+      "question": "Is it true that mobility has gotten worse?",
+      "answer": "Research on absolute mobility finds the share of children who grow up to earn more than their parents has fallen substantially across generations. The exact percentages are debated and depend on method, but the downward trend is the consistent finding. Moving up has become harder, not easier."
+    },
+    {
+      "question": "Isn't this just an excuse for not succeeding?",
+      "answer": "No. The data describes probabilities across whole populations, not a verdict on any individual. People do move up and down. Understanding that starting point carries real weight is meant to replace harsh self-blame and unfair moralising with accurate context, for yourself and for others."
+    },
+    {
+      "question": "What actually improves someone's odds?",
+      "answer": "The research points mostly to structural conditions: school quality, stable communities, social networks that cross income lines, and access to higher-opportunity neighbourhoods, especially earlier in childhood. These are conditions more than individual choices, which is why the policy focus is on access rather than willpower."
+    }
+  ],
+  "dataSources": [
+    "Raj Chetty and the Opportunity Insights team — research on intergenerational income mobility and the strong link between parents' and children's incomes.",
+    "Opportunity Insights — neighbourhood effects on upward mobility and the gains from moving to higher-opportunity areas in childhood.",
+    "Research on declining absolute mobility (Chetty et al.) — the falling share of children who grow up to earn more than their parents."
+  ],
+  "relatedInsights": [
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "where-do-you-actually-stand-understanding-your-life-in-global-context",
+    "are-you-actually-middle-class"
+  ],
+  "lastReviewed": "2026-06"
+}

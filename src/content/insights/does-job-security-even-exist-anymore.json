@@ -1,0 +1,77 @@
+{
+  "title": "Does Job Security Even Exist Anymore?",
+  "slug": "does-job-security-even-exist-anymore",
+  "category": "work-and-career",
+  "metaTitle": "Does Job Security Still Exist? What the Data Shows",
+  "metaDescription": "Job security has eroded since the mid-20th century, but the 'death of stable jobs' is overstated. Here is what the tenure and layoff data actually shows.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Job security is lower than the mid-20th-century ideal and the felt sense of it has eroded, but average job tenure has stayed roughly flat for decades — the 'job for life' was always more myth than universal reality.",
+  "honestAnswer": [
+    "Job security exists, but less of it than the postwar ideal promised — and that ideal was never as universal as nostalgia suggests. The clearest single fact is that median U.S. job tenure has stayed roughly flat at around four years for decades, which is hard to square with the popular story that stable jobs have simply collapsed.",
+    "What has genuinely changed is not so much how long the typical job lasts as how it ends and how it feels. Layoffs have become a routine business lever rather than a last resort, long-tenure manufacturing careers have declined, and contract and gig arrangements have grown. So the felt sense of security has eroded even in places where the average numbers have held remarkably steady. The honest summary is that stability varies enormously by field, was always uneven, and is better met by building adaptable skills and a financial buffer than by expecting any single employer to keep you for life."
+  ],
+  "whatDataShows": [
+    "Median employee tenure in the United States has been surprisingly stable. The Bureau of Labor Statistics, which tracks how long workers have been with their current employer, has reported median tenure hovering at roughly four years across recent decades — not the steep collapse the 'no one stays anywhere' narrative implies. Tenure rises sharply with age: older workers typically report around a decade with their employer, while younger workers cycle through jobs quickly, as they generally always have.",
+    "The 'lifetime job' was real for some and rare for others. The mid-20th-century model of a single long career was concentrated among certain groups — disproportionately men in unionised manufacturing and large stable firms — and was far less common for women, lower-wage workers, and many others. Averaging over the whole workforce, the era of guaranteed lifelong employment is partly a selective memory of a particular slice of the labour market.",
+    "What has measurably shifted is the structure around the job. Long-tenure manufacturing employment has declined as a share of work; mass layoffs have become a normalised management tool used even by profitable companies; and contingent, contract, and platform-based ('gig') work has grown. Labour economists describe high ongoing 'churn' — large numbers of hires and separations every month even in a healthy economy — which means movement in and out of jobs is constant, but constant turnover is not the same as a vanished middle."
+  ],
+  "whyItFeelsDifferent": [
+    "Security feels scarcer than the tenure data suggests partly because the headline events are more visible than ever. A single round of layoffs at a large employer is announced publicly, covered widely, and discussed across social feeds for weeks, so the cumulative impression is of constant instability — even though the underlying rate of job loss is not dramatically higher than in past decades for most workers.",
+    "The psychology of loss also weighs heavier than the statistics. Knowing that a layoff can arrive regardless of performance removes the sense of control that used to come with 'just doing your job well,' and that loss of perceived control reads as insecurity even when your actual odds of being let go in a given year are modest. The unpredictability, more than the frequency, is what unsettles people.",
+    "Finally, the reference point has shifted. The cultural script many people inherited — join a company, climb, retire with a pension — described a narrow and partly bygone arrangement. Measuring today's normal churn against that script makes ordinary job mobility feel like decline, when for much of the workforce frequent moves were always part of working life."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent message from labour-market research is that adaptability matters more than attachment to any one employer. Because demand for specific roles shifts and layoffs are now a standard tool, the durable form of security is the ability to move — transferable skills, a current network, and a sense of what your work is worth in the wider market — rather than loyalty to a single firm that may not reciprocate.",
+    "A financial buffer is the other half of practical security. Surveys of financial wellbeing repeatedly find that even a modest emergency cushion is strongly associated with lower financial stress and more room to absorb a shock like a layoff. Since job loss is a question of when-not-if for many careers, the buffer is what converts an unpredictable event from a crisis into an inconvenience.",
+    "Treating job changes as expected rather than as failures also helps. Given roughly flat median tenure of about four years, periodic moves are the statistical norm, not a sign of instability. Keeping skills current and relationships warm between transitions tends to make the next move smoother whether it is chosen or forced."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming that strong performance alone guarantees your job does not match how layoffs actually work. Because mass layoffs are frequently driven by budgets, restructuring, or market conditions rather than individual performance, being excellent is genuine protection on the margin but not a guarantee — and over-relying on it can leave people blindsided and personally wounded by a decision that was never about them.",
+    "Equally unhelpful is the opposite belief that all jobs are now precarious and stability is dead. The flat tenure data and the persistence of long-tenure careers in many fields show this is an overcorrection. Treating every job as disposable can discourage the deeper investment and relationship-building that still pay off in stabler corners of the labour market.",
+    "Staying in a role purely out of fear, when you are unhappy and your skills are stagnating, often increases vulnerability rather than reducing it. If security comes more from adaptability than from tenure, then clinging to a deteriorating position can quietly erode the very mobility that protects you."
+  ],
+  "realNumbersInContext": [
+    "Median U.S. employee tenure has sat at roughly four years for decades, according to the Bureau of Labor Statistics — a figure that includes both job-hoppers and people with thirty years at one firm, which is why the average lands in the middle. Tenure climbs steeply with age, so a young worker changing jobs every couple of years and an older worker with a decade at one employer are both entirely normal points in the same distribution.",
+    "The 'churn' figures are the part most people underestimate: a healthy U.S. economy still generates millions of hires and millions of separations every month. High turnover is a permanent feature of the labour market, not a symptom of crisis. The honest picture is less 'stable jobs are gone' and more 'stability was always concentrated, movement was always constant, and the safety net you build yourself matters more than the one any employer provides.'"
+  ],
+  "realNumbers": [
+    { "value": "~4 years", "label": "Median U.S. employee tenure, roughly flat for decades", "source": "U.S. Bureau of Labor Statistics, Employee Tenure" },
+    { "value": "~10 years", "label": "Typical tenure for older workers (55+), far above the median", "source": "U.S. Bureau of Labor Statistics" },
+    { "value": "Millions/month", "label": "U.S. hires and separations even in a healthy economy", "source": "U.S. Bureau of Labor Statistics, JOLTS" },
+    { "value": "Growing", "label": "Share of contract, contingent and gig work", "source": "Research on contingent / alternative work arrangements" }
+  ],
+  "faqs": [
+    {
+      "question": "Has job security actually disappeared?",
+      "answer": "No, but it has narrowed and changed shape. Median U.S. job tenure has stayed at roughly four years for decades, so the typical job has not collapsed in length. What changed is that layoffs are now a routine business tool, long-tenure manufacturing work has declined, and contract and gig work have grown — so security feels scarcer even where the averages held."
+    },
+    {
+      "question": "Was the 'job for life' ever real?",
+      "answer": "For some people, yes — but it was always uneven. The lifelong-career model was concentrated among certain groups, disproportionately men in unionised manufacturing and large stable firms, and was far less common for women, lower-wage workers, and many others. The universal 'job for life' is partly a selective memory of one slice of the past labour market."
+    },
+    {
+      "question": "Why does work feel so insecure if tenure is flat?",
+      "answer": "Partly because layoffs are now highly visible and widely discussed, and partly because they can happen regardless of performance, which removes the sense of control. The unpredictability — not necessarily a higher overall rate of job loss — is what tends to make work feel insecure."
+    },
+    {
+      "question": "What actually protects against job loss?",
+      "answer": "Research points to adaptability and a financial buffer more than loyalty to one employer. Transferable skills, a current network, and even a modest emergency cushion are consistently linked to lower financial stress and more room to absorb a layoff. Since job changes are statistically normal, these tend to matter more than betting on a single job lasting forever."
+    },
+    {
+      "question": "Is changing jobs every few years a bad sign?",
+      "answer": "Not by the numbers. With median tenure around four years, periodic job changes are the statistical norm rather than a red flag. Frequent moves are common across much of the workforce and always have been, especially for younger workers."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics — Employee Tenure Summary (median years with current employer, trends over time).",
+    "U.S. Bureau of Labor Statistics — Job Openings and Labor Turnover Survey (JOLTS), on hires, separations and labour-market churn.",
+    "Research on layoffs as a routine management practice and on labour-market churn and worker displacement.",
+    "Research and government data on contingent and alternative ('gig') work arrangements."
+  ],
+  "relatedInsights": [
+    "does-changing-jobs-actually-pay-more-than-staying",
+    "how-many-jobs-will-you-have-in-your-lifetime",
+    "what-does-financial-security-actually-look-like"
+  ],
+  "lastReviewed": "2026-06"
+}
