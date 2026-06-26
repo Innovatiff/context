@@ -1,0 +1,119 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import InsightCard from '../components/InsightCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { CATEGORIES } from '../data/categories';
+
+const insights = await getCollection('insights');
+const sorted = [...insights].sort((a, b) =>
+  a.data.title.localeCompare(b.data.title)
+);
+
+// Group by category, preserving the CATEGORIES order, only non-empty groups.
+const groups = CATEGORIES.map((cat) => ({
+  cat,
+  items: sorted.filter((e) => e.data.category === cat.slug),
+})).filter((g) => g.items.length > 0);
+---
+
+<BaseLayout
+  title="Research Library — Honest, Data-Backed Answers"
+  description="A growing library of plain-language, research-backed answers about money, time, work, relationships, health, and meaning — every page grounded in cited population data."
+  path="/research-library"
+>
+  <div class="container rl-page">
+    <Breadcrumbs items={[{ label: 'Research Library' }]} />
+    <header class="rl-head">
+      <p class="eyebrow">Research Library</p>
+      <h1>Honest answers to the questions people quietly carry.</h1>
+      <p class="lede">
+        {insights.length} in-depth pages so far, each grounded in real population
+        data and published research. No self-help filler, no unverifiable claims —
+        every figure is cited.
+      </p>
+      <nav class="rl-jump" aria-label="Jump to category">
+        {groups.map((g) => <a href={`#${g.cat.slug}`}>{g.cat.shortLabel}</a>)}
+      </nav>
+    </header>
+
+    {
+      groups.map((g, gi) => (
+        <section id={g.cat.slug} class="rl-group">
+          <div class="rl-group__head">
+            <h2>{g.cat.title}</h2>
+            <a href={`/${g.cat.slug}`} class="rl-group__link">View area →</a>
+          </div>
+          <div class="grid grid--3">
+            {g.items.map((e) => (
+              <InsightCard
+                title={e.data.title}
+                slug={e.data.slug}
+                category={e.data.category}
+                teaser={e.data.keyFinding}
+              />
+            ))}
+          </div>
+          {gi === 1 && <AdSlot slot="" format="horizontal" />}
+        </section>
+      ))
+    }
+  </div>
+</BaseLayout>
+
+<style>
+  .rl-page {
+    padding-top: var(--space-l);
+  }
+  .rl-head {
+    max-width: 700px;
+    margin: var(--space-m) 0 var(--space-2xl);
+  }
+  .rl-head h1 {
+    margin: var(--space-s) 0 var(--space-m);
+  }
+  .rl-jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: var(--space-l);
+  }
+  .rl-jump a {
+    font-size: 0.82rem;
+    font-weight: 500;
+    padding: 0.35rem 0.8rem;
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    color: var(--slate-blue);
+    background: #fff;
+  }
+  .rl-jump a:hover {
+    border-color: var(--teal);
+    color: var(--teal-dark);
+    text-decoration: none;
+  }
+  .rl-group {
+    margin-bottom: var(--space-2xl);
+    scroll-margin-top: 90px;
+  }
+  .rl-group__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-s);
+    margin-bottom: var(--space-m);
+    padding-bottom: var(--space-2xs);
+    border-bottom: 1px solid var(--border-color);
+  }
+  .rl-group__head h2 {
+    font-size: var(--step-2);
+    margin: 0;
+  }
+  .rl-group__link {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--teal-dark);
+    white-space: nowrap;
+  }
+</style>

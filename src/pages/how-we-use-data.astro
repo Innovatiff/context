@@ -1,0 +1,74 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../consts';
+---
+
+<PageLayout
+  title="How We Use Data"
+  description="Exactly what ContextLife does and does not do with your data — including the assessment, analytics, and any future advertising."
+  path="/how-we-use-data"
+  eyebrow="Trust & Legal"
+  heading="How we use data."
+  lede="A plain-language companion to our privacy policy: what happens to your information, in specifics."
+  updated="June 2026"
+>
+  <h2>Your assessment answers</h2>
+  <p>
+    The Context Assessment is computed entirely in your browser using JavaScript.
+    When you answer a question, the value is held in memory on your device and used
+    to generate the context shown on the results screen. That is the whole journey.
+  </p>
+  <ul>
+    <li><strong>No server submission.</strong> Answers are never sent to us.</li>
+    <li><strong>No storage.</strong> We do not save them to a database, cookies, or local storage.</li>
+    <li><strong>No identity.</strong> We never ask who you are, so answers cannot be tied to you.</li>
+    <li><strong>No persistence.</strong> Closing or refreshing the page erases them.</li>
+  </ul>
+
+  <h2>If we ever add submissions</h2>
+  <p>
+    We may, in the future, let people optionally contribute anonymised, aggregated
+    answers to improve the population context we show — for example, to display how
+    other visitors answered a question. If we ever do this, it will be
+    <strong>strictly opt-in</strong>, clearly explained at the point of collection,
+    fully anonymised, and never required to use the tool. We will update this page
+    before any such feature launches.
+  </p>
+
+  <h2>Analytics</h2>
+  <p>
+    To understand which pages are useful, we may use privacy-respecting analytics.
+    When enabled, analytics measure <strong>aggregate, anonymised</strong> usage —
+    page views, rough visitor counts, general device and region information. They do
+    not capture your assessment answers, and we do not attempt to identify
+    individuals. Analytics are off unless explicitly enabled, and we honour browser
+    "Do Not Track" and consent signals where applicable.
+  </p>
+
+  <h2>Advertising</h2>
+  <p>
+    The site currently shows no ads. If we introduce Google AdSense after approval,
+    advertising partners may use cookies to show relevant ads, governed by their own
+    policies. We will:
+  </p>
+  <ul>
+    <li>Keep ads clearly labelled and never disguise them as content, navigation, or research findings.</li>
+    <li>Never place ads inside the assessment or its results.</li>
+    <li>Request consent for non-essential cookies where the law requires it.</li>
+    <li>Update our <a href="/privacy-policy">privacy policy</a> to describe exactly what changes.</li>
+  </ul>
+
+  <h2>What we will never do</h2>
+  <ul>
+    <li>Sell your personal information.</li>
+    <li>Store or share your assessment answers.</li>
+    <li>Require an account to use the core tool.</li>
+    <li>Collect sensitive personal data we do not need.</li>
+  </ul>
+
+  <h2>Questions</h2>
+  <p>
+    If anything here is unclear, email <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+    See also our <a href="/privacy-policy">privacy policy</a>.
+  </p>
+</PageLayout>

@@ -1,0 +1,142 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import RealNumbersBlock from '../components/RealNumbersBlock.astro';
+import DataSources from '../components/DataSources.astro';
+import DisclaimerBox from '../components/DisclaimerBox.astro';
+import { SOURCE_LIST } from '../data/populationData';
+
+const groups = [
+  {
+    id: 'money',
+    title: 'Money & net worth',
+    intro:
+      'Public conversation is anchored to the top of the distribution. Here is closer to the middle of it.',
+    stats: [
+      { value: '~$39,000', label: 'Median net worth, U.S. households under 35', source: 'Federal Reserve SCF, 2022' },
+      { value: '~$135,600', label: 'Median net worth, U.S. households 35–44', source: 'Federal Reserve SCF, 2022' },
+      { value: '~$247,200', label: 'Median net worth, U.S. households 45–54', source: 'Federal Reserve SCF, 2022' },
+      { value: '~$80,610', label: 'Median U.S. household income', source: 'U.S. Census Bureau, 2023' },
+      { value: '~37%', label: 'U.S. adults who could not cover a $400 emergency from savings alone', source: 'Federal Reserve SHED, 2023' },
+      { value: '~4–5%', label: 'Recent U.S. personal saving rate (share of disposable income)', source: 'U.S. Bureau of Economic Analysis' },
+    ],
+  },
+  {
+    id: 'time',
+    title: 'Time & screens',
+    intro: 'How the average day actually divides — and where the hours quietly go.',
+    stats: [
+      { value: '~5 hrs', label: 'Average daily leisure time for U.S. adults', source: 'American Time Use Survey, 2023' },
+      { value: '~3–4 hrs', label: 'Average daily leisure screen time, U.S. adults', source: 'ATUS / Nielsen' },
+      { value: '~27 min', label: 'Average one-way commute in the U.S.', source: 'U.S. Census Bureau' },
+      { value: '~1,750', label: 'Average hours worked per year, across the OECD', source: 'OECD, 2023' },
+    ],
+  },
+  {
+    id: 'relationships',
+    title: 'Relationships & loneliness',
+    intro: 'One of the strongest predictors of wellbeing — and thinner than most people assume.',
+    stats: [
+      { value: '~3–4', label: 'Median number of close friends reported by U.S. adults', source: 'Survey Center on American Life, 2021' },
+      { value: '~12%', label: 'U.S. adults reporting no close friends — up sharply since 1990', source: 'Survey Center on American Life, 2021' },
+      { value: '⅓–½', label: 'Share of adults reporting meaningful loneliness, depending on survey', source: 'Cigna; Meta-Gallup, 2023' },
+    ],
+  },
+  {
+    id: 'wellbeing',
+    title: 'Work, health & meaning',
+    intro: 'What people actually report about engagement, health, and direction.',
+    stats: [
+      { value: '~21%', label: 'Workers worldwide who feel actively engaged at work', source: 'Gallup, State of the Global Workplace 2023' },
+      { value: 'Middle', label: 'Where most adults rate their own health — "good/very good", not "excellent"', source: 'U.S. CDC / BRFSS' },
+      { value: 'U-shaped', label: 'Typical path of average life satisfaction across adulthood — a midlife dip, then recovery', source: 'Multiple longitudinal studies' },
+    ],
+  },
+  {
+    id: 'global',
+    title: 'Global context',
+    intro: 'The comparison almost no one makes — and the one that changes the picture most.',
+    stats: [
+      { value: 'Top ~10–15%', label: 'Where a U.S.-median household income sits in the global income distribution', source: 'World Bank; Our World in Data' },
+      { value: '~$2,150', label: 'World Bank extreme-poverty line, per person per day (2017 PPP), at $2.15', source: 'World Bank, 2022' },
+      { value: '8.1 billion', label: 'People alive to be part of the actual distribution you belong to', source: 'UN, 2024 estimate' },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title="The Data — Real Population Numbers, Plainly Cited"
+  description="The headline population statistics behind ContextLife: net worth by age, time use, friendship and loneliness data, engagement, and global income context — every figure cited to a real source."
+  path="/the-data"
+>
+  <div class="container td-page">
+    <Breadcrumbs items={[{ label: 'The Data' }]} />
+    <header class="td-head">
+      <p class="eyebrow">The Data</p>
+      <h1>The real numbers, in one place.</h1>
+      <p class="lede">
+        Everything on this site rests on publicly available research and government
+        statistics. These are some of the headline figures we lean on most — each
+        cited, each linkable, each open to your own scrutiny. Where the evidence is
+        mixed, we say so.
+      </p>
+      <p class="td-note muted">
+        Figures are approximate and rounded for readability; most are U.S. or OECD
+        data, which is where the population research is strongest. Treat them as the
+        shape of the distribution, not a precise measurement of your life.
+      </p>
+    </header>
+
+    {
+      groups.map((g) => (
+        <section id={g.id} class="td-group">
+          <h2>{g.title}</h2>
+          <p class="muted td-group__intro">{g.intro}</p>
+          <RealNumbersBlock stats={g.stats} />
+        </section>
+      ))
+    }
+
+    <div class="td-foot">
+      <DataSources sources={SOURCE_LIST} heading="Full source list" />
+      <DisclaimerBox variant="short" />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .td-page {
+    padding-top: var(--space-l);
+  }
+  .td-head {
+    max-width: 720px;
+    margin: var(--space-m) 0 var(--space-2xl);
+  }
+  .td-head h1 {
+    margin: var(--space-s) 0 var(--space-m);
+  }
+  .td-note {
+    margin-top: var(--space-m);
+    font-size: 0.9rem;
+    max-width: 62ch;
+  }
+  .td-group {
+    margin-bottom: var(--space-2xl);
+    scroll-margin-top: 90px;
+  }
+  .td-group h2 {
+    font-size: var(--step-2);
+    margin-bottom: 0.3rem;
+  }
+  .td-group__intro {
+    max-width: 60ch;
+    margin-bottom: var(--space-s);
+  }
+  .td-foot {
+    margin-top: var(--space-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-l);
+  }
+</style>

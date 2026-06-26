@@ -1,0 +1,52 @@
+---
+/**
+ * Research callout — pulls a single honest, sourced statement out of the body
+ * for emphasis. Used to surface "what the research says" without overclaiming.
+ */
+export interface Props {
+  /** Short kicker, e.g. "What the data shows". */
+  kicker?: string;
+  source?: string;
+}
+const { kicker = 'What the research shows', source } = Astro.props;
+---
+
+<aside class="callout">
+  <p class="callout__kicker">{kicker}</p>
+  <div class="callout__body">
+    <slot />
+  </div>
+  {source && <p class="callout__source">{source}</p>}
+</aside>
+
+<style>
+  .callout {
+    border-left: 3px solid var(--slate-blue);
+    background: var(--surface);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    padding: var(--space-m) var(--space-l);
+    margin-block: var(--space-l);
+  }
+  .callout__kicker {
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--slate-blue);
+    margin: 0 0 0.5rem;
+  }
+  .callout__body {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.45;
+    color: var(--text);
+  }
+  .callout__body :global(p) {
+    margin: 0;
+  }
+  .callout__source {
+    margin: 0.75rem 0 0;
+    font-size: 0.78rem;
+    color: var(--footnote);
+  }
+</style>

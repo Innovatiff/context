@@ -1,0 +1,121 @@
+---
+import { SITE, ADSENSE, ANALYTICS } from '../consts';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+export interface Props {
+  title: string;
+  description: string;
+  /** Path only, e.g. "/assessment". Canonical is built from SITE.url. */
+  path?: string;
+  ogType?: 'website' | 'article';
+  ogImage?: string;
+  noindex?: boolean;
+  /** Optional JSON-LD object(s) injected into <head>. */
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  /** Constrain main width for long-form pages. */
+  wide?: boolean;
+}
+
+const {
+  title,
+  description,
+  path = '/',
+  ogType = 'website',
+  ogImage = SITE.ogImage,
+  noindex = false,
+  jsonLd,
+} = Astro.props;
+
+const canonical = new URL(path, SITE.url).href;
+const ogImageUrl = new URL(ogImage, SITE.url).href;
+const fullTitle = title.includes(SITE.name) ? title : `${title} — ${SITE.name}`;
+const adsenseReady = ADSENSE.enabled && ADSENSE.client;
+const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+---
+
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#1c1917" />
+
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:locale" content={SITE.locale} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- Icons -->
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <!-- Fonts: a characterful display serif + clean body sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,560;9..144,600;9..144,680&family=Inter:wght@400;500;600;650&display=swap"
+    />
+
+    {
+      jsonLdBlocks.map((block) => (
+        <script
+          type="application/ld+json"
+          set:html={JSON.stringify(block)}
+          is:inline
+        />
+      ))
+    }
+
+    {/* AdSense: loads ONLY after approval (ADSENSE.enabled + client set). */}
+    {
+      adsenseReady && (
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE.client}`}
+          crossorigin="anonymous"
+          is:inline
+        />
+      )
+    }
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Skip to content</a>
+    <Header />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+
+    {
+      ANALYTICS.enabled && (
+        <script type="module" define:vars={{ cfg: ANALYTICS.firebase }} is:inline>
+          {`
+          import { initializeApp } from 'https://www.gstatic.com/firebasejs/12.15.0/firebase-app.js';
+          import { getAnalytics } from 'https://www.gstatic.com/firebasejs/12.15.0/firebase-analytics.js';
+          try { getAnalytics(initializeApp(cfg)); } catch (e) {}
+          `}
+        </script>
+      )
+    }
+  </body>
+</html>

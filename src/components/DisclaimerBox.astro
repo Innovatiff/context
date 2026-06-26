@@ -1,0 +1,46 @@
+---
+import { DISCLAIMER, DISCLAIMER_SHORT } from '../consts';
+
+export interface Props {
+  variant?: 'full' | 'short';
+  /** Override text entirely. */
+  text?: string;
+}
+
+const { variant = 'full', text } = Astro.props;
+const body = text ?? (variant === 'short' ? DISCLAIMER_SHORT : DISCLAIMER);
+---
+
+<aside class="disclaimer" role="note">
+  <span class="disclaimer-icon" aria-hidden="true">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="9"></circle>
+      <path d="M12 8h.01M11 12h1v4h1"></path>
+    </svg>
+  </span>
+  <p>{body}</p>
+</aside>
+
+<style>
+  .disclaimer {
+    display: flex;
+    gap: 0.7rem;
+    align-items: flex-start;
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-left: 3px solid var(--footnote);
+    border-radius: var(--radius-sm);
+    padding: var(--space-s) var(--space-m);
+    color: var(--text-muted);
+    font-size: 0.88rem;
+    line-height: 1.6;
+  }
+  .disclaimer-icon {
+    color: var(--footnote);
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+  }
+  .disclaimer p {
+    margin: 0;
+  }
+</style>

@@ -1,0 +1,90 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../consts';
+---
+
+<PageLayout
+  title="Privacy Policy"
+  description="ContextLife's privacy policy: we do not store or transmit your assessment answers, we do not require accounts, and we are transparent about the limited data we collect."
+  path="/privacy-policy"
+  eyebrow="Trust & Legal"
+  heading="Privacy Policy"
+  lede="The short version: your assessment answers never leave your browser, we do not require an account, and we collect as little as possible."
+  updated="June 2026"
+>
+  <h2>The principle</h2>
+  <p>
+    {SITE.name} is built so that the most sensitive thing you do here — answering
+    honest questions about your life — happens entirely on your own device. We
+    designed it this way on purpose. A site about seeing your life clearly should
+    not quietly harvest it.
+  </p>
+
+  <h2>Your assessment answers</h2>
+  <ul>
+    <li>Your answers are processed <strong>only in your browser</strong> to generate your context picture.</li>
+    <li>They are <strong>not stored</strong> on our servers, in a database, or in your browser’s local storage.</li>
+    <li>They are <strong>not transmitted</strong> to us or to any third party.</li>
+    <li>They are <strong>not linked</strong> to your identity, because we never ask for it.</li>
+    <li>When you close or refresh the page, your answers are gone.</li>
+  </ul>
+
+  <h2>What we do collect</h2>
+  <p>
+    Like most websites, we may collect limited, standard technical information to
+    keep the site working and understand aggregate usage:
+  </p>
+  <ul>
+    <li>
+      <strong>Basic analytics.</strong> If analytics are enabled, we use them to
+      understand aggregate, anonymised traffic — which pages are read, roughly how
+      many people visit. This never includes your assessment answers. See
+      <a href="/how-we-use-data">how we use data</a> for specifics.
+    </li>
+    <li>
+      <strong>Server logs.</strong> Our hosting provider may keep standard logs
+      (e.g. IP address, browser type) for security and reliability, as is normal
+      for any website.
+    </li>
+  </ul>
+
+  <h2>Cookies and advertising</h2>
+  <p>
+    The site currently runs without advertising. If we introduce advertising
+    through Google AdSense in the future, third-party vendors including Google may
+    use cookies to serve ads based on prior visits, in line with Google’s
+    policies. At that point this section will be updated to describe those cookies
+    and how to opt out, and where required we will request consent before
+    non-essential cookies are set. You will always be able to manage ad
+    personalisation through
+    <a href="https://www.google.com/settings/ads" rel="nofollow noopener" target="_blank">Google’s Ads Settings</a>.
+  </p>
+
+  <h2>Children</h2>
+  <p>
+    This site is intended for adults and is not directed at children under 13 (or
+    the applicable age in your jurisdiction). We do not knowingly collect personal
+    information from children.
+  </p>
+
+  <h2>Your rights</h2>
+  <p>
+    Because we do not build profiles or store your answers, there is generally no
+    personal dataset about you for us to export or delete. If you have emailed us
+    and want that correspondence removed, contact us and we will handle it. Depending
+    on where you live, you may have rights under laws such as the GDPR or CCPA; we
+    aim to honour those rights.
+  </p>
+
+  <h2>Changes</h2>
+  <p>
+    We may update this policy as the site evolves. Material changes will be
+    reflected in the "last updated" date above.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions about privacy? Email <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+    or see our <a href="/contact">contact page</a>.
+  </p>
+</PageLayout>

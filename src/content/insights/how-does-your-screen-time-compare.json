@@ -1,0 +1,78 @@
+{
+  "title": "How Does Your Screen Time Compare to What People Actually Report?",
+  "slug": "how-does-your-screen-time-compare",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "How Does Your Screen Time Compare? The Honest Numbers",
+  "metaDescription": "Several hours a day of screen time is now typical, and most people underestimate their own. What the data shows — and why the raw number matters less than you think.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Several hours a day of screen time is now typical for adults, most people underestimate their own, and the evidence that screen time itself causes harm is mixed — what matters more than the raw number is whether it displaces things you would rather be doing.",
+  "honestAnswer": [
+    "If you feel your screen time is high, you are probably close to typical rather than unusual. Smartphone use commonly lands somewhere around 3 to 4.5 hours a day for adults, and total daily media exposure across television, streaming, and phones — as measured by Nielsen — is higher still. Several hours a day of leisure screen time is now the norm, not the exception.",
+    "Two things complicate the comparison. First, people systematically underestimate their own screen time, so your honest guess is likely lower than your logged total. Second, and more important, the research linking screen time itself to harm is mixed and the average effects are small — so the raw number tells you less than whether the time is displacing things you would rather be doing."
+  ],
+  "whatDataShows": [
+    "Industry measurement consistently puts adult screen use in the range of several hours a day. DataReportal's analysis drawing on GWI survey data has put daily smartphone or connected-device use among adults in roughly the 3-to-4.5-hour range, and Nielsen's Total Audience Report — which captures television, streaming, and digital together — measures total daily media exposure that is higher still once all screens are combined. The American Time Use Survey similarly shows leisure screen activities, especially watching TV, taking up a large share of free time.",
+    "Self-report is unreliable here, and that is well documented. A 2021 meta-analysis by Parry and colleagues in Nature Human Behaviour found that self-reported screen time correlates only weakly with objectively logged usage and usually understates it. In other words, the number people give for their own use is systematically too low, which distorts any comparison built on self-report.",
+    "The link between screen time and harm is weaker and more contested than headlines imply. Orben and Przybylski's 2019 analysis in Nature Human Behaviour, examining large datasets, found that associations between digital screen use and adolescent wellbeing were real but very small — small enough that the raw quantity of screen time explains little on its own. The picture for adults is similarly mixed, and the average associations are modest."
+  ],
+  "whyItFeelsDifferent": [
+    "Screen time feels like a personal failing partly because the number is now genuinely large for almost everyone, and partly because we judge our own use from the inside — aware of every aimless scroll — while assuming others are more disciplined. As with most comparisons, the private experience of one's own behaviour is set against an imagined, tidier version of everyone else's.",
+    "The underestimation effect deepens the discomfort. Because people reliably guess low, the moment a phone's own usage dashboard reveals the real figure, it tends to feel shocking and abnormal — even though the logged number is close to typical. The shock is the gap between self-report and reality, not evidence that you are an outlier.",
+    "Public conversation also tends to treat the raw number as inherently damning, which the evidence does not support. The small average effects found in careful studies sit uneasily against alarming headlines, so people end up feeling that any amount of screen time is a problem to be solved, when the research points instead to what the time replaces and how it is used."
+  ],
+  "whatResearchSaysToDo": [
+    "The most evidence-aligned step is to measure rather than guess. Because self-report systematically understates use, checking a device's built-in usage data replaces an unreliable estimate with an accurate one — and accurate input is the precondition for any honest comparison or change.",
+    "Where change is warranted, the research points away from the raw total and toward displacement: the useful question is whether screen time is crowding out sleep, exercise, in-person contact, or activities you would rather be doing. Adjusting use so it stops displacing those things is better supported than chasing an arbitrary lower number for its own sake.",
+    "The character of the use also matters more than the quantity. Active, intentional, and social uses of screens tend to fare better in the wellbeing literature than passive, prolonged, comparison-heavy scrolling. Shifting the mix, rather than simply cutting the hours, is the move the evidence more consistently supports."
+  ],
+  "whatDoesNotHelp": [
+    "Comparing your self-reported screen time to other people's self-reported screen time does not help, because both figures are systematically too low and unreliable. A comparison built on guesses tells you little, and can leave you falsely reassured or falsely alarmed.",
+    "Treating the raw number as the problem — and setting an arbitrary target like 'under two hours' with no regard to what the time is doing — is poorly supported. Given the small average effects, an hour of absorbing video calls with distant friends and an hour of anxious doom-scrolling are not equivalent, and the total alone cannot tell them apart.",
+    "Guilt and willpower-based crackdowns tend not to last. The research on behaviour change favours adjusting the environment — what is easy and default — over relying on resolve, and favours targeting the specific uses that displace things you value over blunt, total-time austerity that is rarely sustained."
+  ],
+  "realNumbersInContext": [
+    "The typical figures: adult smartphone or connected-device use commonly lands around 3 to 4.5 hours a day (DataReportal / GWI), and total daily media exposure across all screens is higher still (Nielsen Total Audience Report). Whatever your number, it is likely within or near this range rather than far outside it — and likely higher than you would guess, since self-report reliably understates actual use (Parry et al., 2021, Nature Human Behaviour).",
+    "On harm, the honest framing is restraint. Careful large-scale analysis found the association between digital screen use and wellbeing to be real but very small (Orben & Przybylski, 2019, Nature Human Behaviour). The number itself explains little; what the time displaces — sleep, movement, in-person contact, things you would rather do — is the part the evidence suggests is worth examining."
+  ],
+  "realNumbers": [
+    { "value": "~3–4.5 hrs", "label": "Typical daily smartphone / device use among adults", "source": "DataReportal / GWI" },
+    { "value": "Higher still", "label": "Total daily media exposure across all screens", "source": "Nielsen Total Audience Report" },
+    { "value": "Understated", "label": "How self-reported screen time compares to logged use", "source": "Parry et al., 2021, Nature Human Behaviour" },
+    { "value": "Very small", "label": "Average association between screen use and wellbeing", "source": "Orben & Przybylski, 2019, Nature Human Behaviour" }
+  ],
+  "faqs": [
+    {
+      "question": "How much screen time is normal for an adult?",
+      "answer": "Several hours a day is now typical. Smartphone or connected-device use commonly lands around 3 to 4.5 hours a day, and total daily media exposure across all screens, as Nielsen measures it, is higher still. If your number feels high, it is probably close to the norm rather than unusual."
+    },
+    {
+      "question": "Why is my actual screen time higher than I thought?",
+      "answer": "Because people systematically underestimate their own use. A 2021 meta-analysis in Nature Human Behaviour found self-reported screen time correlates only weakly with logged usage and usually understates it. Your phone's own usage data is far more reliable than your guess."
+    },
+    {
+      "question": "Is screen time actually bad for me?",
+      "answer": "The evidence is mixed and the average effects are small. Large-scale analysis (Orben & Przybylski, 2019) found the association between screen use and wellbeing to be real but very small. The raw number explains little on its own — what matters more is whether it displaces things you would rather be doing."
+    },
+    {
+      "question": "Should I try to cut my screen time?",
+      "answer": "Only if it is crowding out things you value — sleep, exercise, in-person contact, activities you would rather do. The research supports targeting displacement and the type of use (passive scrolling versus active, social use) over chasing an arbitrary lower total for its own sake."
+    },
+    {
+      "question": "Does the type of screen use matter more than the amount?",
+      "answer": "The wellbeing literature suggests it does. Active, intentional, and social uses of screens tend to fare better than passive, prolonged, comparison-heavy scrolling. Two hours can mean very different things depending on what those hours are spent doing, which is why total time alone is a weak measure."
+    }
+  ],
+  "dataSources": [
+    "Nielsen — Total Audience Report (total daily media exposure across screens).",
+    "DataReportal / GWI — Digital and daily device-use statistics.",
+    "Parry, D. A., et al. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5, 1535–1547.",
+    "Orben, A., & Przybylski, A. K. (2019). The association between adolescent well-being and digital technology use. Nature Human Behaviour, 3, 173–182.",
+    "American Time Use Survey (U.S. Bureau of Labor Statistics) — leisure and screen activities."
+  ],
+  "relatedInsights": [
+    "how-much-of-your-life-do-you-have-left-in-waking-hours",
+    "what-your-lifetime-work-hours-actually-add-up-to",
+    "why-you-feel-behind-even-when-youre-not"
+  ],
+  "lastReviewed": "2026-06"
+}

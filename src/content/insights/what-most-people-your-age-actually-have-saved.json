@@ -1,0 +1,72 @@
+{
+  "title": "What Most People Your Age Actually Have Saved — The Real Numbers",
+  "slug": "what-most-people-your-age-actually-have-saved",
+  "category": "money-and-financial-reality",
+  "metaTitle": "What Most People Your Age Have Saved — Real Median Numbers by Age",
+  "metaDescription": "The real median savings and net worth by age, from Federal Reserve data. What most people actually have is far less than the 'should have' numbers suggest.",
+  "lifeArea": "Money & Financial Reality",
+  "featured": true,
+  "order": 1,
+  "keyFinding": "Median savings and net worth by age are dramatically lower than the 'how much you should have' figures imply, because those targets describe an aspirational top slice rather than where most people actually are.",
+  "honestAnswer": "Whatever you have saved, it is almost certainly closer to normal than the 'you should have X by 30' headlines suggest. The benchmark figures pushed by financial firms describe a comfortable, above-average trajectory — not the median. The real median net worth is far lower at every age, and by definition half of all households fall below it.",
+  "whatDataShows": [
+    "The most reliable U.S. figures come from the Federal Reserve's Survey of Consumer Finances, conducted every three years. In the 2022 survey, median household net worth was about $39,000 for households under 35, about $135,600 for ages 35–44, about $247,200 for 45–54, about $364,500 for 55–64, and about $409,900 for 65–74.",
+    "Net worth — everything you own minus everything you owe — is not the same as cash savings, which are far lower. Liquid savings for younger households often sit in the low thousands, and a large share of net worth at older ages is home equity and retirement accounts rather than accessible cash.",
+    "Crucially, medians sit well below averages because wealth is heavily concentrated at the top. The mean (average) net worth figures are several times larger than the medians, dragged up by a small number of very wealthy households. When a target sounds achievable for 'the average person,' it is often quoting a number most people never reach."
+  ],
+  "whyItFeelsDifferent": [
+    "The 'you should have this much saved by now' figures circulate widely because they are marketed by financial institutions, and they are usually built backward from a comfortable retirement for a high, steady earner. They describe a goal for an above-median trajectory, not a description of the middle.",
+    "Wealth is also invisible in a way income is not. You cannot see anyone's bank balance, so the cues you pick up — homes, cars, holidays, renovations — reflect spending, which is frequently debt-financed and a poor proxy for net worth. The people who look the most financially secure are not reliably the ones with the most saved.",
+    "And because money is taboo to discuss honestly, the few data points you do hear tend to be the impressive ones. Almost no one volunteers that they have $2,000 in savings at 34, even though that is squarely within the normal range."
+  ],
+  "whatResearchSaysToDo": [
+    "The research on financial wellbeing consistently points to one thing that matters more than the size of the number: stability and a buffer against shocks. The Federal Reserve's own surveys find that having even a modest emergency cushion — enough to cover a few weeks of essentials — is strongly associated with lower financial stress, independent of total wealth.",
+    "Automating even small, regular contributions is one of the few interventions with robust behavioural support, because it removes the monthly decision and harnesses default bias in your favour. The amount matters less at first than the existence of the habit.",
+    "Anchoring to the real median for your age, rather than to a marketed target, is itself useful: people who see accurate population benchmarks tend to make calmer, more consistent financial decisions than those measuring against an unreachable ideal."
+  ],
+  "whatDoesNotHelp": [
+    "Comparing your savings to influencer 'net worth by age' content or to the comfortable-retirement targets does not help — those numbers describe a top slice and reliably produce a feeling of failure at perfectly normal balances.",
+    "Aggressive frugality that produces stress and burnout often backfires, because it is rarely sustained and crowds out the steady, automated habit that actually compounds. The research favours consistency over intensity.",
+    "Waiting until you can save a 'meaningful' amount before starting is one of the costliest mistakes, because it forfeits the compounding that makes early, small contributions disproportionately valuable over decades."
+  ],
+  "realNumbersInContext": [
+    "Median U.S. household net worth by age (Federal Reserve, 2022): under 35 ≈ $39,000; 35–44 ≈ $135,600; 45–54 ≈ $247,200; 55–64 ≈ $364,500; 65–74 ≈ $409,900. Remember these are net worth, not cash — liquid savings are typically far smaller.",
+    "Financial fragility is widespread: in the Fed's 2023 survey, roughly 37% of U.S. adults said they could not cover a $400 emergency expense entirely from cash or its equivalent. And the personal saving rate has hovered around 4–5% of disposable income recently. Holding little is not the exception; it is close to the rule."
+  ],
+  "realNumbers": [
+    { "value": "~$39,000", "label": "Median net worth, households under 35", "source": "Federal Reserve SCF, 2022" },
+    { "value": "~$135,600", "label": "Median net worth, ages 35–44", "source": "Federal Reserve SCF, 2022" },
+    { "value": "~$247,200", "label": "Median net worth, ages 45–54", "source": "Federal Reserve SCF, 2022" },
+    { "value": "~37%", "label": "Adults who couldn't cover a $400 emergency from cash", "source": "Federal Reserve SHED, 2023" }
+  ],
+  "faqs": [
+    {
+      "question": "How much should I have saved by 30 / 40 / 50?",
+      "answer": "There is no universal 'should.' The honest reference is the real median: roughly $39,000 net worth under 35, about $135,600 at 35–44, and about $247,200 at 45–54 (Federal Reserve, 2022). The popular 'should have' multiples of salary describe an above-median goal, not where most people are."
+    },
+    {
+      "question": "Is net worth the same as savings?",
+      "answer": "No. Net worth is everything you own minus everything you owe, including home equity and retirement accounts. Accessible cash savings are usually much lower than net worth, especially for younger households."
+    },
+    {
+      "question": "Why is the median so much lower than the average?",
+      "answer": "Because wealth is heavily concentrated at the top, the average (mean) is pulled far above the middle. The median — the literal middle household — is the more honest benchmark for 'most people.'"
+    },
+    {
+      "question": "I have almost nothing saved. Is that abnormal?",
+      "answer": "No. A large minority of adults could not cover a $400 emergency from savings, and median liquid savings for younger households are in the low thousands. Having little is common and is more a feature of the cost of living than a personal failing — though building even a small buffer is one of the most protective steps available."
+    }
+  ],
+  "dataSources": [
+    "Federal Reserve, Survey of Consumer Finances (2022) — median net worth by age.",
+    "Federal Reserve, Report on the Economic Well-Being of U.S. Households (SHED, 2023) — emergency expense coverage.",
+    "U.S. Bureau of Economic Analysis — personal saving rate.",
+    "U.S. Census Bureau, Income in the United States (2023)."
+  ],
+  "relatedInsights": [
+    "what-does-financial-security-actually-look-like",
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "why-you-feel-behind-even-when-youre-not"
+  ],
+  "lastReviewed": "2026-06"
+}

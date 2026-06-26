@@ -1,0 +1,44 @@
+---
+/**
+ * Key finding box (replaces the "verdict box" — deliberately not a verdict).
+ * States the single most important, plainly-worded finding. Used at the top of
+ * insight and category pages.
+ */
+export interface Props {
+  label?: string;
+  text: string;
+}
+const { label = 'The honest answer', text } = Astro.props;
+---
+
+<div class="keyfinding">
+  <p class="keyfinding__label">{label}</p>
+  <p class="keyfinding__text">{text}</p>
+</div>
+
+<style>
+  .keyfinding {
+    background: linear-gradient(180deg, #f0fdfa 0%, #ecfdf5 100%);
+    border: 1px solid #99f6e4;
+    border-left: 4px solid var(--teal);
+    border-radius: var(--radius);
+    padding: var(--space-m) var(--space-l);
+  }
+  .keyfinding__label {
+    font-family: var(--font-body);
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--teal-dark);
+    margin: 0 0 0.5rem;
+  }
+  .keyfinding__text {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.45;
+    color: #134e4a;
+    margin: 0;
+    text-wrap: pretty;
+  }
+</style>

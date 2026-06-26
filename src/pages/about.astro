@@ -1,0 +1,73 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../consts';
+---
+
+<PageLayout
+  title="About ContextLife"
+  description="ContextLife (Honest Picture) is a research-backed tool and library that helps people understand where they actually stand in life — using real data, not advice or judgment."
+  path="/about"
+  eyebrow="About"
+  heading="A mirror made of data."
+  lede="ContextLife exists to answer one quiet, near-universal question — am I okay? — not with reassurance or alarm, but with honest context."
+>
+  <h2>Why this exists</h2>
+  <p>
+    Almost everyone, at some point, measures their life against a standard and
+    comes up short. The standard is usually invisible and almost always wrong: a
+    blend of curated social feeds, the most successful people in your particular
+    circle, and a timeline you absorbed without ever checking it against reality.
+  </p>
+  <p>
+    You see your own life from the inside — every doubt, every gap, every
+    unfinished thing. You see everyone else from the outside, at their most
+    composed. The result is a feeling of being behind a pace that, in the actual
+    population data, frequently does not exist.
+  </p>
+  <p>
+    {SITE.name} takes the specific facts of your life — your age, income, savings,
+    time, relationships, health, and sense of direction — and places them inside
+    real research and real population data. Not to tell you that you are doing well
+    or badly. To show you what your situation actually looks like from the outside.
+  </p>
+
+  <h2>What we are — and what we are not</h2>
+  <p>
+    We are a publication and a tool, built on publicly available research,
+    government statistics, and peer-reviewed studies. We are not a personality
+    quiz, a productivity app, a self-help brand, or a substitute for therapy or
+    professional advice. We do not sell a transformation. We do not promise that
+    seeing your situation clearly will fix it.
+  </p>
+  <p>
+    We try to use careful, honest language throughout — "the data suggests," "most
+    people in your situation report," "research on this is mixed." When evidence is
+    contested or weak, we say so rather than rounding it up into a clean headline.
+  </p>
+
+  <h2>How we handle the hard parts</h2>
+  <p>
+    Some of what this site discusses — money stress, loneliness, a sense of wasted
+    time — is genuinely painful. Our commitment is to be accurate and humane at the
+    same time: to never minimise a real difficulty, and never inflate a common
+    experience into a personal failing. Where someone may need real help, we say
+    so plainly and point toward qualified professionals.
+  </p>
+
+  <h2>Our principles</h2>
+  <ul>
+    <li><strong>Trust first.</strong> If a claim is not backed by a real, citable source, it does not go on the page.</li>
+    <li><strong>Context, not verdicts.</strong> We show you the distribution. We do not grade your place in it.</li>
+    <li><strong>Privacy by design.</strong> The assessment runs in your browser. Your answers are never stored or transmitted.</li>
+    <li><strong>Honest about uncertainty.</strong> We distinguish strong findings from weak ones, and say when research is mixed.</li>
+  </ul>
+
+  <h2>Get in touch</h2>
+  <p>
+    Questions, corrections, or a source you think we should use? We take accuracy
+    seriously and genuinely want to hear about errors. Visit our
+    <a href="/contact">contact page</a>, read our
+    <a href="/research-methodology">research methodology</a>, or see
+    <a href="/data-sources">every source we use</a>.
+  </p>
+</PageLayout>

@@ -1,0 +1,199 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import KeyFindingBox from '../components/KeyFindingBox.astro';
+import InsightCard from '../components/InsightCard.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import DisclaimerBox from '../components/DisclaimerBox.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { CATEGORIES, getCategory, CATEGORY_MAP } from '../data/categories';
+import { SITE } from '../consts';
+
+export async function getStaticPaths() {
+  return CATEGORIES.map((c) => ({ params: { category: c.slug } }));
+}
+
+const { category } = Astro.params;
+const cat = getCategory(category!);
+if (!cat) {
+  return Astro.redirect('/404');
+}
+
+const insights = await getCollection('insights');
+const inCategory = insights
+  .filter((e) => e.data.category === cat.slug)
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+
+const related = cat.related
+  .map((slug) => CATEGORY_MAP[slug])
+  .filter(Boolean);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: cat.title,
+  description: cat.description,
+  url: new URL(`/${cat.slug}`, SITE.url).href,
+  about: cat.lifeArea,
+};
+---
+
+<BaseLayout
+  title={`${cat.title} — Research & Honest Context`}
+  description={`${cat.description.slice(0, 155)}`}
+  path={`/${cat.slug}`}
+  jsonLd={jsonLd}
+>
+  <div class="container cat__head">
+    <Breadcrumbs items={[{ label: 'Life Areas', href: '/life-areas' }, { label: cat.shortLabel }]} />
+    <p class={`eyebrow accent-${cat.accent}`}>Life area · {insights.length > 0 ? `${inCategory.length} insight${inCategory.length === 1 ? '' : 's'}` : ''} · scaling to {cat.targetPages}</p>
+    <h1>{cat.title}</h1>
+    <p class="lede">{cat.description}</p>
+  </div>
+
+  <div class="container cat__body">
+    <KeyFindingBox label="The most important finding in this area" text={cat.keyFinding} />
+
+    {
+      inCategory.length > 0 ? (
+        <section class="cat__insights">
+          <h2 class="cat__h2">Insights in this area</h2>
+          <div class="grid grid--3">
+            {inCategory.map((e) => (
+              <InsightCard
+                title={e.data.title}
+                slug={e.data.slug}
+                category={e.data.category}
+                teaser={e.data.keyFinding}
+              />
+            ))}
+          </div>
+        </section>
+      ) : (
+        <section class="cat__insights">
+          <p class="muted">In-depth pages for this area are being added. In the meantime, see the <a href="/research-library">research library</a> or <a href="/assessment">take the assessment</a>.</p>
+        </section>
+      )
+    }
+
+    <AdSlot slot="" format="horizontal" />
+
+    <FaqAccordion faqs={cat.faqs} />
+
+    {
+      related.length > 0 && (
+        <section class="cat__related">
+          <h2 class="cat__h2">Related life areas</h2>
+          <div class="cat__related-grid">
+            {related.map((r) => (
+              <a href={`/${r.slug}`} class="cat__related-card">
+                <span class="cat__related-label">{r.title}</span>
+                <span class="cat__related-arrow" aria-hidden="true">→</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <section class="cat__cta">
+      <div class="cat__cta-inner">
+        <h2>See where you stand in {cat.shortLabel.toLowerCase()} — and five other areas.</h2>
+        <p>The assessment places your own numbers next to the real distribution. No score, no account, nothing stored.</p>
+        <a href="/assessment" class="btn btn--accent btn--lg">Take the assessment</a>
+      </div>
+    </section>
+
+    <div class="cat__foot">
+      <DisclaimerBox variant="short" />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .cat__head {
+    padding-top: var(--space-l);
+    max-width: 760px;
+  }
+  .cat__head h1 {
+    margin: var(--space-s) 0 var(--space-m);
+  }
+  .accent-amber { color: var(--amber); }
+  .accent-green { color: var(--green); }
+  .accent-slate { color: var(--slate-blue); }
+  .accent-teal { color: var(--teal-dark); }
+
+  .cat__body {
+    margin-top: var(--space-xl);
+  }
+  .cat__h2 {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-m);
+  }
+  .cat__insights {
+    margin-top: var(--space-xl);
+  }
+
+  .cat__related {
+    margin-top: var(--space-2xl);
+  }
+  .cat__related-grid {
+    display: grid;
+    gap: var(--space-s);
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 640px) {
+    .cat__related-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  .cat__related-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-s);
+    padding: var(--space-s) var(--space-m);
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-weight: 500;
+    transition: border-color 0.15s var(--ease), box-shadow 0.15s var(--ease);
+  }
+  .cat__related-card:hover {
+    border-color: var(--border-strong);
+    box-shadow: var(--shadow-sm);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .cat__related-arrow {
+    color: var(--teal);
+  }
+
+  .cat__cta {
+    margin-top: var(--space-2xl);
+  }
+  .cat__cta-inner {
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: clamp(1.75rem, 5vw, 3rem);
+    text-align: center;
+    max-width: 720px;
+    margin-inline: auto;
+  }
+  .cat__cta-inner h2 {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-s);
+  }
+  .cat__cta-inner p {
+    color: var(--text-muted);
+    max-width: 50ch;
+    margin: 0 auto var(--space-m);
+  }
+
+  .cat__foot {
+    margin-top: var(--space-xl);
+  }
+</style>

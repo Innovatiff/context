@@ -1,0 +1,359 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LifeAreaCard from '../components/LifeAreaCard.astro';
+import InsightCard from '../components/InsightCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { SITE } from '../consts';
+import { LIFE_AREAS } from '../data/lifeAreas';
+
+const NOT_LIST = [
+  'Not a personality quiz',
+  'Not therapy',
+  'Not advice',
+  'Not judgment',
+];
+
+const HOW_IT_WORKS = [
+  {
+    n: '01',
+    title: 'Answer honestly',
+    body: 'Real questions about your money, time, work, relationships, health, and direction. The more honest, the clearer the picture.',
+  },
+  {
+    n: '02',
+    title: 'We place it in real data',
+    body: 'Your answers are set inside actual population data and published research — not opinion, not vibes.',
+  },
+  {
+    n: '03',
+    title: 'You see where you actually stand',
+    body: 'An honest picture across all six areas. No score, no grade, no verdict — just context you can trust.',
+  },
+  {
+    n: '04',
+    title: 'Nothing is stored',
+    body: 'No account. No tracking of answers. Everything is computed in your browser and gone when you leave.',
+  },
+];
+
+// Featured insights from the brief.
+const FEATURED = [
+  'why-you-feel-behind-even-when-youre-not',
+  'what-the-research-actually-shows-about-money-and-happiness',
+  'what-most-people-your-age-actually-have-saved',
+  'what-do-people-regret-most',
+  'is-it-normal-to-not-know-what-you-want-at-30-40-50',
+  'why-everyone-else-seems-more-put-together-than-you',
+];
+
+import { getCollection } from 'astro:content';
+const insights = await getCollection('insights');
+const bySlug = new Map(insights.map((e) => [e.data.slug, e]));
+const featured = FEATURED.map((s) => bySlug.get(s)).filter(
+  (e): e is NonNullable<typeof e> => Boolean(e)
+);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  alternateName: 'Honest Picture',
+  url: SITE.url,
+  description: SITE.description,
+};
+---
+
+<BaseLayout
+  title={`${SITE.name} — See Where You Actually Stand in Life, in Honest Context`}
+  description={SITE.description}
+  path="/"
+  jsonLd={jsonLd}
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero__inner">
+      <p class="eyebrow">A mirror made of data</p>
+      <h1 class="hero__title">
+        You see your life from the inside. We'll show you what it looks like from
+        the outside.
+      </h1>
+      <p class="hero__sub">
+        Answer honest questions about your life. See where you actually stand —
+        using real data, real research, and honest global context.
+      </p>
+      <div class="hero__cta">
+        <a href="/assessment" class="btn btn--primary btn--lg">Show Me Where I Actually Stand</a>
+      </div>
+      <p class="hero__note faint">Free. No account. Nothing stored. Takes about 5 minutes.</p>
+    </div>
+  </section>
+
+  <!-- What this is not -->
+  <section class="notstrip">
+    <div class="container notstrip__inner">
+      {NOT_LIST.map((n) => <span class="notstrip__item">{n}</span>)}
+      <span class="notstrip__item notstrip__item--yes">
+        Just: honest data, real context, a clear picture
+      </span>
+    </div>
+  </section>
+
+  <AdSlot slot="" format="horizontal" />
+
+  <!-- Six life areas -->
+  <section class="section container">
+    <div class="section-head">
+      <p class="eyebrow">What we look at</p>
+      <h2>Six areas. The whole, honest picture.</h2>
+      <p class="lede">
+        Most tools measure one slice of a life and call it the score. We place six
+        of the areas that actually shape how a life feels next to the real
+        distribution of how other people live.
+      </p>
+    </div>
+    <div class="grid grid--3">
+      {LIFE_AREAS.map((area) => <LifeAreaCard area={area} />)}
+    </div>
+  </section>
+
+  <!-- How it works -->
+  <section class="section howitworks">
+    <div class="container">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2>Honesty in, context out.</h2>
+      </div>
+      <ol class="how-grid">
+        {
+          HOW_IT_WORKS.map((step) => (
+            <li class="how-step">
+              <span class="how-step__n num">{step.n}</span>
+              <h3 class="how-step__title">{step.title}</h3>
+              <p class="how-step__body">{step.body}</p>
+            </li>
+          ))
+        }
+      </ol>
+      <div class="how-cta">
+        <a href="/assessment" class="btn btn--accent btn--lg">Take the Assessment</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured insights -->
+  <section class="section container">
+    <div class="section-head">
+      <p class="eyebrow">From the research library</p>
+      <h2>Start with the questions almost everyone is quietly asking.</h2>
+      <p class="lede">
+        Plain-language, research-backed answers to the questions people are too
+        embarrassed to ask out loud — each one grounded in cited data.
+      </p>
+    </div>
+    <div class="grid grid--3">
+      {
+        featured.map((e) => (
+          <InsightCard
+            title={e.data.title}
+            slug={e.data.slug}
+            category={e.data.category}
+            teaser={e.data.keyFinding}
+          />
+        ))
+      }
+    </div>
+    <p class="centered-link">
+      <a href="/research-library">Browse the full research library →</a>
+    </p>
+  </section>
+
+  <!-- Honesty disclaimer -->
+  <section class="section--tight">
+    <div class="container">
+      <div class="honesty">
+        <h2 class="honesty__title">Why you can trust this</h2>
+        <p class="honesty__body">
+          {SITE.name} presents publicly available research and population data to
+          help people understand their situation in broader context. It is not
+          medical, financial, psychological, or legal advice. If you are
+          struggling, please speak with a qualified professional.
+        </p>
+        <p class="honesty__links">
+          <a href="/research-methodology">Our methodology</a>
+          <span aria-hidden="true">·</span>
+          <a href="/data-sources">Every source we use</a>
+          <span aria-hidden="true">·</span>
+          <a href="/how-we-use-data">How we handle your data</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: clamp(3.5rem, 8vw, 6.5rem) clamp(2.5rem, 6vw, 4.5rem);
+    background:
+      radial-gradient(80% 120% at 100% 0%, #f0fdfa 0%, transparent 55%),
+      radial-gradient(70% 110% at 0% 0%, #fefce8 0%, transparent 50%);
+  }
+  .hero__inner {
+    max-width: 900px;
+  }
+  .hero__title {
+    font-size: var(--step-5);
+    max-width: 18ch;
+    margin-bottom: var(--space-m);
+  }
+  .hero__sub {
+    font-size: var(--step-1);
+    color: var(--text-muted);
+    max-width: 52ch;
+    line-height: 1.5;
+  }
+  .hero__cta {
+    margin-top: var(--space-l);
+  }
+  .hero__note {
+    margin-top: var(--space-s);
+  }
+
+  .notstrip {
+    border-block: 1px solid var(--border-color);
+    background: var(--surface);
+  }
+  .notstrip__inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem 1.4rem;
+    padding-block: var(--space-s);
+    font-size: 0.9rem;
+  }
+  .notstrip__item {
+    position: relative;
+    color: var(--text-muted);
+    padding-left: 1.4rem;
+  }
+  .notstrip__item::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 2px;
+    background: var(--footnote);
+    border-radius: 2px;
+  }
+  .notstrip__item--yes {
+    color: var(--teal-dark);
+    font-weight: 600;
+  }
+  .notstrip__item--yes::before {
+    width: 8px;
+    height: 8px;
+    background: var(--teal);
+    border-radius: 50%;
+    left: 2px;
+  }
+
+  .section-head {
+    max-width: 60ch;
+    margin-bottom: var(--space-l);
+  }
+  .section-head h2 {
+    margin-bottom: var(--space-s);
+  }
+
+  .howitworks {
+    background: var(--surface);
+    border-block: 1px solid var(--border-color);
+  }
+  .how-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-l);
+    grid-template-columns: 1fr;
+    counter-reset: step;
+  }
+  @media (min-width: 640px) {
+    .how-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (min-width: 1000px) {
+    .how-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  .how-step__n {
+    font-family: var(--font-mono);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--teal);
+    display: block;
+    margin-bottom: 0.6rem;
+  }
+  .how-step {
+    border-top: 2px solid var(--border-strong);
+    padding-top: var(--space-s);
+  }
+  .how-step__title {
+    font-size: var(--step-1);
+    margin-bottom: 0.4rem;
+  }
+  .how-step__body {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.55;
+    margin: 0;
+  }
+  .how-cta {
+    margin-top: var(--space-xl);
+  }
+
+  .centered-link {
+    margin-top: var(--space-l);
+    text-align: center;
+  }
+  .centered-link a {
+    font-weight: 600;
+  }
+
+  .honesty {
+    background: var(--charcoal);
+    color: #e7e5e4;
+    border-radius: var(--radius-lg);
+    padding: clamp(1.75rem, 5vw, 3rem);
+    max-width: 860px;
+    margin-inline: auto;
+  }
+  .honesty__title {
+    color: #fff;
+    font-size: var(--step-2);
+    margin-bottom: var(--space-s);
+  }
+  .honesty__body {
+    color: #d6d3d1;
+    line-height: 1.7;
+    max-width: 65ch;
+  }
+  .honesty__links {
+    margin-top: var(--space-m);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    align-items: center;
+    color: #78716c;
+  }
+  .honesty__links a {
+    color: #5eead4;
+    text-decoration: underline;
+  }
+  .honesty__links a:hover {
+    color: #99f6e4;
+  }
+</style>

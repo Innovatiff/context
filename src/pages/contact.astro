@@ -1,0 +1,58 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../consts';
+---
+
+<PageLayout
+  title="Contact ContextLife"
+  description="Get in touch with ContextLife — corrections, source suggestions, partnership questions, or feedback on the assessment."
+  path="/contact"
+  eyebrow="Contact"
+  heading="Get in touch."
+  lede="We read everything, and we especially want to hear about errors. Accuracy is the whole point of this site."
+>
+  <h2>Email us</h2>
+  <p>
+    The best way to reach us is by email at
+    <a href={`mailto:${SITE.email}`}>{SITE.email}</a>. We aim to respond within a
+    few business days.
+  </p>
+
+  <h2>What to write about</h2>
+  <ul>
+    <li>
+      <strong>Corrections.</strong> If a figure looks wrong or out of date, tell us
+      — include the page and, if you can, a source. We will review and fix or
+      annotate it.
+    </li>
+    <li>
+      <strong>Source suggestions.</strong> If there is a study or dataset we should
+      be citing, send it along.
+    </li>
+    <li>
+      <strong>Feedback.</strong> Did the assessment or an insight page help you see
+      something more clearly — or get something wrong about your situation? That
+      feedback shapes what we build.
+    </li>
+    <li>
+      <strong>Press &amp; partnerships.</strong> For media or collaboration
+      enquiries, use the same address with "Press" in the subject line.
+    </li>
+  </ul>
+
+  <h2>What we cannot do</h2>
+  <p>
+    We cannot offer personal financial, medical, legal, or psychological advice,
+    and we cannot respond to crises. If you are struggling or in danger, please
+    contact a qualified professional or your local emergency or crisis service. In
+    the U.S., you can call or text <strong>988</strong> to reach the Suicide and
+    Crisis Lifeline. Outside the U.S., search for your local crisis line.
+  </p>
+
+  <h2>Privacy</h2>
+  <p>
+    Anything you email us is used only to respond to you. We do not add you to
+    marketing lists. See our <a href="/privacy-policy">privacy policy</a> and
+    <a href="/how-we-use-data">how we use data</a> for the full picture.
+  </p>
+</PageLayout>

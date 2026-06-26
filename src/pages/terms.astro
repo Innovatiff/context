@@ -1,0 +1,89 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { SITE } from '../consts';
+---
+
+<PageLayout
+  title="Terms of Use"
+  description="The terms governing your use of ContextLife — an educational, informational research tool that does not provide professional advice."
+  path="/terms"
+  eyebrow="Trust & Legal"
+  heading="Terms of Use"
+  lede="Plain terms for using an educational website. By using ContextLife, you agree to these."
+  updated="June 2026"
+>
+  <h2>What ContextLife is</h2>
+  <p>
+    {SITE.name} ("we," "us") is an educational and informational website. It
+    presents publicly available research and population data, and offers an
+    interactive assessment that places your answers in that context. It is not a
+    professional service.
+  </p>
+
+  <h2>No professional advice</h2>
+  <p>
+    Nothing on this site is medical, psychological, financial, legal, or other
+    professional advice, and nothing here creates a professional relationship. The
+    assessment does not diagnose, treat, or evaluate any condition. Always seek the
+    advice of a qualified professional for decisions that matter, and never
+    disregard or delay professional advice because of something you read here. See
+    our full <a href="/disclaimer">disclaimer</a>.
+  </p>
+
+  <h2>Use of the site</h2>
+  <ul>
+    <li>You may read, share, and link to our pages freely.</li>
+    <li>
+      You may not scrape the site at scale, republish substantial portions of our
+      content as your own, or use it in a way that misrepresents the source or the
+      research.
+    </li>
+    <li>
+      You may not use the site for any unlawful purpose or in any way that could
+      damage, disable, or impair it.
+    </li>
+  </ul>
+
+  <h2>Intellectual property</h2>
+  <p>
+    The writing, design, and original presentation on this site are ours. The
+    underlying research and statistics belong to their respective authors and
+    institutions, whom we cite. Brief quotation with attribution is welcome; please
+    link back to the source page.
+  </p>
+
+  <h2>Accuracy and "as is"</h2>
+  <p>
+    We work hard to be accurate and to cite real sources, but research evolves,
+    figures are rounded, and errors are possible. The site is provided "as is,"
+    without warranties of any kind. We make no guarantee that any information is
+    complete, current, or applicable to your specific situation.
+  </p>
+
+  <h2>Limitation of liability</h2>
+  <p>
+    To the fullest extent permitted by law, we are not liable for any decision you
+    make, or any loss or harm you experience, in connection with your use of this
+    site or reliance on its content. Your use of the site is at your own
+    discretion and risk.
+  </p>
+
+  <h2>Third-party links and advertising</h2>
+  <p>
+    We may link to third-party sources and, in the future, display advertising. We
+    are not responsible for the content, accuracy, or practices of third-party
+    sites or advertisers.
+  </p>
+
+  <h2>Changes</h2>
+  <p>
+    We may update these terms over time. Continued use of the site after changes
+    means you accept the updated terms.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions about these terms? Email
+    <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+  </p>
+</PageLayout>

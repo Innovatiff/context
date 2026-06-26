@@ -1,0 +1,78 @@
+{
+  "title": "Is Your Salary Low — Or Does It Just Feel That Way?",
+  "slug": "is-your-salary-low-or-does-it-just-feel-that-way",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Is Your Salary Actually Low — Or Does It Just Feel Low?",
+  "metaDescription": "Most salaries feel low because of comparison and lifestyle inflation, not the raw number. Here is where US incomes actually sit, locally and globally.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Salaries usually feel low because satisfaction depends heavily on comparison to nearby peers and on expectations that scale with income, not on the absolute figure itself.",
+  "honestAnswer": [
+    "Your salary can be objectively middle-of-the-pack and still feel low — and the research suggests that feeling is driven far more by what you compare it to than by the number itself. Income satisfaction is strongly relative: people judge their pay against their neighbours, peers, and former selves, so two people earning the same amount can feel very differently about it depending on who surrounds them.",
+    "In absolute terms, a US-median household income is high by national and especially global standards. But because spending and expectations rise with income, and because the comparison set tends to run upward, the felt gap rarely closes when pay goes up. So the honest answer is usually: your salary is probably more normal than it feels, and the feeling is doing most of the work."
+  ],
+  "whatDataShows": [
+    "The U.S. medians are higher than many people assume. Median household income was roughly $80,610 in 2023 (U.S. Census Bureau), and median earnings for full-time, year-round individual workers sit around $60,000 (Bureau of Labor Statistics and Census figures). Half of households fall below the household figure and half above — that is what 'median' means — so being near it is, by definition, ordinary rather than behind.",
+    "Satisfaction with that income depends heavily on comparison. Luttmer's 2005 study, often summarised as 'Neighbors as Negatives,' found that higher earnings among the people around you are associated with lower satisfaction with your own income, holding your actual income constant. The Easterlin paradox points the same way at the country level: as nations grow richer over time, average reported happiness does not rise nearly as much as the raw income gains would predict.",
+    "Globally, the absolute picture is striking. By World Bank and Our World in Data estimates, a household at the U.S. median income sits in roughly the richest 10–15% of people on earth. These cross-country comparisons involve real measurement caveats, but the broad direction is not seriously disputed: by global standards, a typical U.S. salary is a high one."
+  ],
+  "whyItFeelsDifferent": [
+    "You compare locally, not globally. The brain anchors on the people physically and socially nearby — colleagues, neighbours, the feeds you scroll — and almost never on the global distribution. So a salary that places you among the richest people in the world can feel inadequate simply because the person two desks over earns more.",
+    "Expectations and spending scale with income, which is why raises often fade fast. Lifestyle inflation means the new salary quickly comes with a new baseline of fixed costs and a new comparison set, so the relief of earning more tends to be temporary. The gap you feel is partly manufactured by the upward drift of your own expectations.",
+    "And income is far more visible than wealth or security, so it becomes the metric everyone fixates on — yet it is a weak proxy for how comfortable a life actually is. Someone earning less with low debt and a buffer may be far more secure than a higher earner with neither, even though the salary number alone suggests the opposite."
+  ],
+  "whatResearchSaysToDo": [
+    "The most reliable correction is to widen and accurate-ise the comparison set. When people see where their income actually falls — locally against the real median, and globally against the world distribution — the felt gap between 'what I earn' and 'what I should earn' tends to shrink, because the imagined standard was an unrepresentative upward slice to begin with.",
+    "Where pay genuinely is below market, the evidence-backed move is concrete benchmarking rather than vague worry: comparing your role against real salary data for your title, industry, and region, and using it to negotiate or change roles. Relative-income effects are powerful, but they are not a reason to ignore a real, measurable underpayment.",
+    "Reducing exposure to the most curated, upward-comparison-heavy inputs helps too. The same way social comparison distorts how 'behind' people feel in general, a feed full of high earners and luxury spending shifts your sense of normal upward. A less distorted input produces a less distorted self-assessment of your pay."
+  ],
+  "whatDoesNotHelp": [
+    "Chasing a higher salary to fix the feeling rarely works on its own, because the comparison set and expectations move with you. People who reach the number they thought would feel like 'enough' frequently report the same sense of falling short, now measured against a new, higher peer group.",
+    "Comparing your pay to the most visible high earners — influencers, the loudest people in your field, curated 'salary by age' content — reliably manufactures a feeling of being underpaid at perfectly normal incomes, because that content is a top slice, not the middle.",
+    "Treating salary as the master metric of how well you are doing also misleads, because it ignores debt, buffer, cost of living, and security. A higher number with no cushion can leave you more financially stressed than a lower number with one."
+  ],
+  "realNumbersInContext": [
+    "Median U.S. household income was roughly $80,610 in 2023 (U.S. Census Bureau), and median full-time individual earnings sit around $60,000 (BLS / Census). Being near these figures is the literal middle of the distribution, not a sign of falling behind.",
+    "Globally, a U.S.-median household income falls in roughly the richest 10–15% of people on earth (World Bank / Our World in Data), though cross-country income comparisons carry real measurement caveats. The broad picture — that a typical U.S. salary is high by world standards — is not seriously contested.",
+    "The reason this rarely feels true is comparison. Luttmer's 2005 work found that higher local incomes lower your satisfaction with your own pay at a fixed income, and the Easterlin paradox shows national income gains translating into far smaller happiness gains than expected. Satisfaction tracks the gap to your reference group more than the absolute figure."
+  ],
+  "realNumbers": [
+    { "value": "~$80,610", "label": "Median U.S. household income", "source": "U.S. Census Bureau, 2023" },
+    { "value": "~$60,000", "label": "Median full-time individual earnings", "source": "U.S. Census / BLS" },
+    { "value": "Top ~10–15%", "label": "Where U.S.-median household income sits globally", "source": "World Bank / Our World in Data" }
+  ],
+  "faqs": [
+    {
+      "question": "What counts as a low salary in the US?",
+      "answer": "There is no single line, but the honest reference is the real median: roughly $80,610 for households and about $60,000 for full-time individual earners (Census / BLS, 2023). Being near those figures is the middle of the distribution. Whether a salary is genuinely low depends on your role, region, and cost of living — which is why benchmarking against real salary data for your title beats a gut feeling."
+    },
+    {
+      "question": "Why does my salary feel low even though the numbers say it's normal?",
+      "answer": "Because income satisfaction is strongly relative. Luttmer's 2005 study found that higher earnings among the people around you lower satisfaction with your own pay, holding your income constant. You compare locally and upward, and your expectations scale with income, so the felt gap persists even at a normal or high salary."
+    },
+    {
+      "question": "Will earning more make the feeling go away?",
+      "answer": "Often only briefly. Spending and expectations tend to rise with income, and the comparison set moves up with you, so raises frequently fade. The research on relative income suggests the feeling tracks the gap to your reference group, which is why a higher number alone rarely resolves it."
+    },
+    {
+      "question": "Is a US salary high by global standards?",
+      "answer": "Yes, by a wide margin. World Bank and Our World in Data estimates place a U.S.-median household income in roughly the richest 10–15% of people worldwide. These comparisons carry measurement caveats, but the broad direction is clear and not seriously disputed."
+    },
+    {
+      "question": "How do I tell if I'm actually underpaid?",
+      "answer": "Replace the feeling with concrete benchmarking. Compare your role against real salary data for your specific title, industry, and region rather than against the most visible high earners. Relative-income effects can make a fair salary feel low — but they are not a reason to ignore a real, measurable underpayment."
+    }
+  ],
+  "dataSources": [
+    "U.S. Census Bureau, Income in the United States (2023) — median household income.",
+    "U.S. Bureau of Labor Statistics — median earnings for full-time workers.",
+    "Luttmer, E. F. P. (2005). Neighbors as Negatives: Relative Earnings and Well-Being. Quarterly Journal of Economics, 120(3), 963–1002.",
+    "Easterlin, R. A. — research on income and happiness (the Easterlin paradox).",
+    "World Bank / Our World in Data — global income distribution estimates."
+  ],
+  "relatedInsights": [
+    "what-most-people-your-age-actually-have-saved",
+    "what-does-financial-security-actually-look-like",
+    "why-you-feel-behind-even-when-youre-not"
+  ],
+  "lastReviewed": "2026-06"
+}

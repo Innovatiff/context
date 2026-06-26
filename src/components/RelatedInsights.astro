@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import InsightCard from './InsightCard.astro';
+
+export interface Props {
+  /** Slugs to show. */
+  slugs: string[];
+  heading?: string;
+  /** Slug to exclude (usually the current page). */
+  exclude?: string;
+  limit?: number;
+}
+
+const { slugs, heading = 'Related insights', exclude, limit = 4 } = Astro.props;
+
+const all = await getCollection('insights');
+const bySlug = new Map(all.map((e) => [e.data.slug, e]));
+
+const items = slugs
+  .filter((s) => s !== exclude)
+  .map((s) => bySlug.get(s))
+  .filter((e): e is NonNullable<typeof e> => Boolean(e))
+  .slice(0, limit);
+---
+
+{
+  items.length > 0 && (
+    <section class="related" aria-label={heading}>
+      <h2 class="related__heading">{heading}</h2>
+      <div class="related__grid">
+        {items.map((e) => (
+          <InsightCard
+            title={e.data.title}
+            slug={e.data.slug}
+            category={e.data.category}
+            teaser={e.data.keyFinding}
+          />
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .related {
+    margin-top: var(--space-xl);
+  }
+  .related__heading {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-m);
+  }
+  .related__grid {
+    display: grid;
+    gap: var(--space-m);
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 640px) {
+    .related__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

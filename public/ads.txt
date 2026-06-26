@@ -1,0 +1,8 @@
+# ads.txt for honestpicture.com
+# Authorized Digital Sellers (IAB). This file is required by Google AdSense.
+#
+# BEFORE GOING LIVE WITH ADSENSE:
+#   Replace pub-0000000000000000 below with your real AdSense publisher ID
+#   (the digits after "ca-" in your ca-pub-XXXXXXXXXXXXXXXX client ID).
+#
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

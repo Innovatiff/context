@@ -1,0 +1,85 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+type Stat = NonNullable<CollectionEntry<'insights'>['data']['realNumbers']>[number];
+
+export interface Props {
+  stats: Stat[];
+  heading?: string;
+}
+
+const { stats, heading } = Astro.props;
+---
+
+<div class="realnumbers">
+  {heading && <h3 class="realnumbers__heading">{heading}</h3>}
+  <div class="realnumbers__grid">
+    {
+      stats.map((s) => (
+        <figure class="stat">
+          <div class="stat__value num">{s.value}</div>
+          <figcaption class="stat__label">{s.label}</figcaption>
+          {s.source && <cite class="stat__source">{s.source}</cite>}
+        </figure>
+      ))
+    }
+  </div>
+</div>
+
+<style>
+  .realnumbers {
+    margin-block: var(--space-l);
+  }
+  .realnumbers__heading {
+    font-size: var(--step-0);
+    font-family: var(--font-body);
+    font-weight: 600;
+    color: var(--text-muted);
+    margin-bottom: var(--space-s);
+  }
+  .realnumbers__grid {
+    display: grid;
+    gap: 1px;
+    grid-template-columns: 1fr;
+    background: var(--border-color);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  @media (min-width: 560px) {
+    .realnumbers__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (min-width: 880px) {
+    .realnumbers__grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  .stat {
+    background: #fff;
+    margin: 0;
+    padding: var(--space-m);
+  }
+  .stat__value {
+    font-family: var(--font-mono);
+    font-size: clamp(1.6rem, 1.2rem + 1.5vw, 2.1rem);
+    font-weight: 600;
+    line-height: 1;
+    color: var(--amber);
+    letter-spacing: -0.02em;
+  }
+  .stat__label {
+    margin-top: 0.55rem;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    color: var(--text);
+  }
+  .stat__source {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.72rem;
+    font-style: normal;
+    color: var(--footnote);
+  }
+</style>

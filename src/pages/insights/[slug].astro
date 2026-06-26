@@ -1,0 +1,270 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import KeyFindingBox from '../../components/KeyFindingBox.astro';
+import RealNumbersBlock from '../../components/RealNumbersBlock.astro';
+import ResearchCallout from '../../components/ResearchCallout.astro';
+import DataSources from '../../components/DataSources.astro';
+import FaqAccordion from '../../components/FaqAccordion.astro';
+import RelatedInsights from '../../components/RelatedInsights.astro';
+import DisclaimerBox from '../../components/DisclaimerBox.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getCategory } from '../../data/categories';
+import { toParagraphs } from '../../utils/prose';
+import { SITE } from '../../consts';
+
+export async function getStaticPaths() {
+  const insights = await getCollection('insights');
+  return insights.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const d = entry.data;
+const cat = getCategory(d.category);
+
+const sections = [
+  { id: 'data', heading: 'What the data actually shows', body: toParagraphs(d.whatDataShows) },
+  {
+    id: 'why',
+    heading: 'Why this feels different from how it actually is',
+    body: toParagraphs(d.whyItFeelsDifferent),
+  },
+  {
+    id: 'do',
+    heading: 'What the research says to do about it',
+    body: toParagraphs(d.whatResearchSaysToDo),
+  },
+  {
+    id: 'doesnt',
+    heading: 'What the research says does not help',
+    body: toParagraphs(d.whatDoesNotHelp),
+  },
+];
+
+const reviewedLabel = (() => {
+  const [y, m] = d.lastReviewed.split('-');
+  const months = [
+    'January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December',
+  ];
+  return m ? `${months[Number(m) - 1]} ${y}` : y;
+})();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.metaDescription,
+  about: d.lifeArea,
+  articleSection: cat?.title ?? d.lifeArea,
+  inLanguage: 'en',
+  isAccessibleForFree: true,
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+  mainEntityOfPage: new URL(`/insights/${d.slug}`, SITE.url).href,
+  dateModified: `${d.lastReviewed}-01`,
+  citation: d.dataSources,
+};
+---
+
+<BaseLayout
+  title={d.metaTitle}
+  description={d.metaDescription}
+  path={`/insights/${d.slug}`}
+  ogType="article"
+  jsonLd={jsonLd}
+>
+  <article class="insight">
+    <div class="container insight__head">
+      <Breadcrumbs
+        items={[
+          { label: 'Research Library', href: '/research-library' },
+          ...(cat ? [{ label: cat.shortLabel, href: `/${cat.slug}` }] : []),
+          { label: d.title },
+        ]}
+      />
+      {cat && <a href={`/${cat.slug}`} class={`insight__tag accent-${cat.accent}`}>{cat.lifeArea}</a>}
+      <h1 class="insight__title">{d.title}</h1>
+    </div>
+
+    <div class="container insight__layout">
+      <div class="insight__main">
+        <!-- The honest answer first. No preamble. -->
+        <KeyFindingBox text={toParagraphs(d.honestAnswer).join(' ')} />
+
+        <div class="article-body">
+          {
+            sections.map((s, i) => (
+              <Fragment>
+                <section id={s.id}>
+                  <h2>{s.heading}</h2>
+                  {s.body.map((p) => (
+                    <p>{p}</p>
+                  ))}
+                </section>
+                {i === 0 && (
+                  <ResearchCallout kicker="The key finding">
+                    <p>{d.keyFinding}</p>
+                  </ResearchCallout>
+                )}
+                {i === 1 && <AdSlot slot="" format="horizontal" />}
+              </Fragment>
+            ))
+          }
+
+          <!-- Real numbers in context -->
+          <section id="numbers">
+            <h2>Real numbers in context</h2>
+            {toParagraphs(d.realNumbersInContext).map((p) => <p>{p}</p>)}
+          </section>
+          {d.realNumbers && d.realNumbers.length > 0 && <RealNumbersBlock stats={d.realNumbers} />}
+        </div>
+
+        <AdSlot slot="" format="horizontal" />
+
+        <FaqAccordion faqs={d.faqs} />
+
+        <AdSlot slot="" format="rectangle" />
+
+        <RelatedInsights slugs={d.relatedInsights} exclude={d.slug} />
+
+        <DataSources sources={d.dataSources} />
+
+        <div class="insight__foot">
+          <p class="faint">Last reviewed: {reviewedLabel}</p>
+          <DisclaimerBox variant="short" />
+        </div>
+      </div>
+
+      <aside class="insight__aside" aria-label="On this page">
+        <div class="aside-sticky">
+          <p class="aside-label">On this page</p>
+          <nav class="aside-nav">
+            <a href="#data">What the data shows</a>
+            <a href="#why">Why it feels different</a>
+            <a href="#do">What helps</a>
+            <a href="#doesnt">What doesn't help</a>
+            <a href="#numbers">Real numbers</a>
+          </nav>
+          <AdSlot slot="" format="sidebar" desktopOnly={true} />
+          <div class="aside-cta">
+            <p>See where you stand across all six areas.</p>
+            <a href="/assessment" class="btn btn--accent">Take the assessment</a>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .insight__head {
+    padding-top: var(--space-l);
+  }
+  .insight__tag {
+    display: inline-block;
+    margin: var(--space-m) 0 var(--space-s);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--teal-dark);
+  }
+  .insight__tag.accent-amber { color: var(--amber); }
+  .insight__tag.accent-green { color: var(--green); }
+  .insight__tag.accent-slate { color: var(--slate-blue); }
+  .insight__tag:hover { text-decoration: underline; }
+
+  .insight__title {
+    max-width: 20ch;
+    margin-bottom: var(--space-m);
+  }
+
+  .insight__layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-xl);
+    align-items: start;
+    padding-bottom: var(--space-2xl);
+  }
+  @media (min-width: 1040px) {
+    .insight__layout {
+      grid-template-columns: minmax(0, 1fr) 280px;
+    }
+  }
+
+  .insight__main {
+    min-width: 0;
+  }
+  .insight__main > :global(.keyfinding) {
+    margin-bottom: var(--space-l);
+  }
+
+  .insight__foot {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-m);
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+  }
+
+  .insight__aside {
+    display: none;
+  }
+  @media (min-width: 1040px) {
+    .insight__aside {
+      display: block;
+    }
+  }
+  .aside-sticky {
+    position: sticky;
+    top: 88px;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+  .aside-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--footnote);
+    margin: 0;
+  }
+  .aside-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    border-left: 2px solid var(--border-color);
+    padding-left: var(--space-s);
+  }
+  .aside-nav a {
+    color: var(--text-muted);
+    font-size: 0.88rem;
+  }
+  .aside-nav a:hover {
+    color: var(--teal-dark);
+  }
+  .aside-cta {
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: var(--space-m);
+  }
+  .aside-cta p {
+    margin: 0 0 var(--space-s);
+    font-size: 0.92rem;
+    color: var(--text);
+  }
+  .aside-cta .btn {
+    width: 100%;
+  }
+</style>

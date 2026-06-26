@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+import { SOURCE_LIST } from '../data/populationData';
+
+// Aggregate every unique source cited across all insight pages.
+const insights = await getCollection('insights');
+const fromPages = new Set<string>();
+insights.forEach((e) => e.data.dataSources.forEach((s) => fromPages.add(s)));
+const allSources = Array.from(new Set([...SOURCE_LIST, ...fromPages])).sort((a, b) =>
+  a.localeCompare(b)
+);
+---
+
+<PageLayout
+  title="Data Sources"
+  description="Every research source, dataset, and study cited across ContextLife — government statistics, peer-reviewed studies, and established surveys."
+  path="/data-sources"
+  eyebrow="Sources"
+  heading="Every source we use."
+  lede="Trust is built on transparency. Here is the full list of research and data we draw on across the site, gathered in one place."
+  showDisclaimer={true}
+>
+  <h2>How to read this list</h2>
+  <p>
+    Each insight page cites its own sources at the bottom; this is the combined
+    list across the whole site. We rely on government and intergovernmental
+    datasets, peer-reviewed academic research, and well-documented surveys from
+    established organisations. We do not cite blogs, marketing content, or
+    unsourced claims. For how we choose and weigh these, see our
+    <a href="/research-methodology">research methodology</a>.
+  </p>
+
+  <h2>Population data used in the assessment</h2>
+  <ol class="src-list">
+    {SOURCE_LIST.map((s) => <li>{s}</li>)}
+  </ol>
+
+  <h2>All sources cited across the site</h2>
+  <p class="muted">{allSources.length} distinct sources and counting, as the library grows.</p>
+  <ol class="src-list">
+    {allSources.map((s) => <li>{s}</li>)}
+  </ol>
+
+  <h2>Spotted an error?</h2>
+  <p>
+    If a figure looks wrong, out of date, or poorly sourced, please
+    <a href="/contact">let us know</a>. We treat corrections as a priority — the
+    value of this site depends on it.
+  </p>
+</PageLayout>
+
+<style>
+  .src-list {
+    padding-left: 1.3em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+  }
+</style>

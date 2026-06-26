@@ -1,0 +1,76 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import DisclaimerBox from '../components/DisclaimerBox.astro';
+
+export interface Props {
+  title: string;
+  description: string;
+  path: string;
+  heading?: string;
+  eyebrow?: string;
+  lede?: string;
+  updated?: string;
+  showDisclaimer?: boolean;
+}
+
+const {
+  title,
+  description,
+  path,
+  heading,
+  eyebrow,
+  lede,
+  updated,
+  showDisclaimer = false,
+} = Astro.props;
+
+const crumbLabel = heading ?? title;
+---
+
+<BaseLayout title={title} description={description} path={path}>
+  <div class="container page">
+    <Breadcrumbs items={[{ label: crumbLabel }]} />
+    <header class="page__head">
+      {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+      <h1>{heading ?? title}</h1>
+      {lede && <p class="lede">{lede}</p>}
+      {updated && <p class="page__updated faint">Last updated: {updated}</p>}
+    </header>
+
+    <div class="article-body page__body">
+      <slot />
+    </div>
+
+    {
+      showDisclaimer && (
+        <div class="page__disclaimer">
+          <DisclaimerBox />
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-top: var(--space-l);
+  }
+  .page__head {
+    max-width: var(--prose-width);
+    margin: var(--space-m) 0 var(--space-l);
+  }
+  .page__head h1 {
+    margin-bottom: var(--space-s);
+  }
+  .page__updated {
+    margin-top: var(--space-s);
+  }
+  .page__body :global(h2) {
+    font-size: var(--step-2);
+  }
+  .page__disclaimer {
+    max-width: var(--prose-width);
+    margin-top: var(--space-xl);
+  }
+</style>

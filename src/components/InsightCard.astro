@@ -1,0 +1,99 @@
+---
+import { getCategory } from '../data/categories';
+
+export interface Props {
+  title: string;
+  slug: string;
+  category: string;
+  /** Short teaser — usually the keyFinding. */
+  teaser?: string;
+  compact?: boolean;
+}
+
+const { title, slug, category, teaser, compact = false } = Astro.props;
+const cat = getCategory(category);
+const accent = cat?.accent ?? 'teal';
+---
+
+<a href={`/insights/${slug}`} class:list={['insight-card', `accent-${accent}`, { compact }]}>
+  {cat && <span class="insight-card__cat">{cat.shortLabel}</span>}
+  <h3 class="insight-card__title">{title}</h3>
+  {teaser && !compact && <p class="insight-card__teaser">{teaser}</p>}
+  <span class="insight-card__more" aria-hidden="true">Read the data
+    <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+  </span>
+</a>
+
+<style>
+  .insight-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: var(--space-m);
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow 0.18s var(--ease), border-color 0.18s var(--ease), transform 0.18s var(--ease);
+    height: 100%;
+    color: var(--text);
+  }
+  .insight-card:hover {
+    box-shadow: var(--shadow-md);
+    border-color: var(--border-strong);
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .insight-card__cat {
+    align-self: flex-start;
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.55rem;
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--slate-blue);
+    border: 1px solid var(--border-color);
+  }
+  .accent-teal .insight-card__cat { color: var(--teal-dark); }
+  .accent-amber .insight-card__cat { color: var(--amber); }
+  .accent-green .insight-card__cat { color: var(--green); }
+  .accent-slate .insight-card__cat { color: var(--slate-blue); }
+
+  .insight-card__title {
+    font-size: var(--step-1);
+    line-height: 1.2;
+    font-weight: 560;
+    margin: 0;
+  }
+  .compact .insight-card__title {
+    font-size: var(--step-0);
+    font-family: var(--font-body);
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+  .insight-card__teaser {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    line-height: 1.55;
+  }
+  .insight-card__more {
+    margin-top: auto;
+    padding-top: 0.4rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.84rem;
+    font-weight: 600;
+    color: var(--teal-dark);
+  }
+  .insight-card:hover .insight-card__more svg {
+    transform: translateX(3px);
+  }
+  .insight-card__more svg {
+    transition: transform 0.18s var(--ease);
+  }
+</style>

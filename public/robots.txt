@@ -1,0 +1,8 @@
+# ContextLife / honestpicture.com
+User-agent: *
+Allow: /
+
+# The assessment tool is interactive and has no indexable result state.
+Disallow: /assessment/result
+
+Sitemap: https://honestpicture.com/sitemap-index.xml

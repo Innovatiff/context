@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c1917"/>
+      <stop offset="1" stop-color="#292524"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#fafaf9" stroke-width="1">
+    <line x1="0" y1="157" x2="1200" y2="157"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="472" x2="1200" y2="472"/>
+  </g>
+  <g transform="translate(80,90)">
+    <circle cx="26" cy="26" r="24" fill="none" stroke="#0d9488" stroke-width="4"/>
+    <circle cx="26" cy="26" r="7" fill="#d97706"/>
+    <text x="70" y="36" font-family="Georgia, serif" font-size="34" fill="#fafaf9" font-weight="600">ContextLife</text>
+  </g>
+  <text x="80" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#fafaf9" font-weight="600">
+    <tspan x="80" dy="0">You see your life from the inside.</tspan>
+    <tspan x="80" dy="78">We&#8217;ll show you the outside.</tspan>
+  </text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#a8a29e">
+    Real data. Real research. Honest context. No score, no verdict.
+  </text>
+  <rect x="80" y="540" width="220" height="6" rx="3" fill="#0d9488"/>
+</svg>

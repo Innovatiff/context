@@ -1,0 +1,162 @@
+---
+import { SITE, DISCLAIMER } from '../consts';
+import { FOOTER_COLUMNS } from '../data/navigation';
+
+const year = 2026;
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="brand" aria-label={`${SITE.name} home`}>
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none">
+              <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"></circle>
+              <circle cx="12" cy="12" r="2.4" fill="currentColor"></circle>
+            </svg>
+          </span>
+          <span class="brand-name">{SITE.name}</span>
+        </a>
+        <p class="footer-tagline">{SITE.promise}</p>
+        <p class="footer-meta faint">A research-backed mirror made of data — not advice, not therapy.</p>
+      </div>
+
+      <nav class="footer-cols" aria-label="Footer">
+        {
+          FOOTER_COLUMNS.map((col) => (
+            <div class="footer-col">
+              <h2 class="footer-heading">{col.heading}</h2>
+              <ul>
+                {col.links.map((link) => (
+                  <li>
+                    <a href={link.href}>{link.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))
+        }
+      </nav>
+    </div>
+
+    <p class="footer-disclaimer">{DISCLAIMER}</p>
+
+    <div class="footer-bottom">
+      <p class="faint">© {year} {SITE.name}. All rights reserved.</p>
+      <p class="faint">
+        Figures cite publicly available research and government data. See
+        <a href="/data-sources">Data Sources</a> and
+        <a href="/research-methodology">Research Methodology</a>.
+      </p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background: var(--charcoal);
+    color: #d6d3d1;
+    padding-block: var(--space-2xl) var(--space-l);
+    margin-top: var(--space-3xl);
+  }
+  .footer-top {
+    display: grid;
+    gap: var(--space-xl);
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 800px) {
+    .footer-top {
+      grid-template-columns: 1.3fr 2fr;
+    }
+  }
+
+  .brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--warm-white);
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 1.25rem;
+    letter-spacing: -0.02em;
+  }
+  .brand:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+  .brand-mark {
+    color: var(--teal);
+    display: inline-flex;
+  }
+  .footer-tagline {
+    margin-top: var(--space-s);
+    max-width: 32ch;
+    color: #e7e5e4;
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    line-height: 1.4;
+  }
+  .footer-meta {
+    margin-top: var(--space-2xs);
+    color: #a8a29e;
+  }
+
+  .footer-cols {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: var(--space-l);
+  }
+  .footer-heading {
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #a8a29e;
+    margin-bottom: var(--space-xs);
+  }
+  .footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+  }
+  .footer-col a {
+    color: #d6d3d1;
+    font-size: 0.95rem;
+  }
+  .footer-col a:hover {
+    color: #fff;
+  }
+
+  .footer-disclaimer {
+    margin-top: var(--space-xl);
+    padding-top: var(--space-m);
+    border-top: 1px solid #44403c;
+    color: #a8a29e;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    max-width: 95ch;
+  }
+
+  .footer-bottom {
+    margin-top: var(--space-m);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: var(--space-xs);
+  }
+  .footer-bottom .faint {
+    color: #78716c;
+  }
+  .footer-bottom a {
+    color: #a8a29e;
+    text-decoration: underline;
+  }
+  .footer-bottom a:hover {
+    color: #fff;
+  }
+</style>

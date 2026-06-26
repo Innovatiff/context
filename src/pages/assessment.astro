@@ -1,0 +1,599 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '../consts';
+
+const insights = await getCollection('insights');
+const insightTitles = Object.fromEntries(
+  insights.map((e) => [e.data.slug, e.data.title])
+);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'ContextLife Assessment',
+  applicationCategory: 'LifestyleApplication',
+  operatingSystem: 'Any',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  description:
+    'A free, private tool that places your answers about money, time, work, relationships, health, and purpose inside real population data and research.',
+  url: new URL('/assessment', SITE.url).href,
+};
+---
+
+<BaseLayout
+  title="The Context Assessment — See Where You Actually Stand"
+  description="Answer honest questions about your money, time, work, relationships, health, and direction. See where you actually stand against real population data. No score, no account, nothing stored."
+  path="/assessment"
+  jsonLd={jsonLd}
+>
+  <div class="container asmt-page">
+    <Breadcrumbs items={[{ label: 'The Assessment' }]} />
+    <header class="asmt-page__head">
+      <p class="eyebrow">The Context Assessment</p>
+      <h1>See where you actually stand — across the six areas that shape a life.</h1>
+      <p class="lede">
+        This places your own numbers and answers next to the real distribution of
+        how people live. It does not score you, grade you, or tell you whether you
+        are doing well or badly. It shows you context.
+      </p>
+    </header>
+
+    <div id="assessment-root" class="asmt-mount"></div>
+
+    <noscript>
+      <div class="asmt-noscript">
+        <p>
+          This assessment runs entirely in your browser, which means it needs
+          JavaScript enabled. Nothing about that changes our privacy promise —
+          with JavaScript on, your answers still never leave your device.
+        </p>
+        <p>
+          In the meantime, you can read the
+          <a href="/research-library">research library</a> or browse the
+          <a href="/life-areas">six life areas</a> directly.
+        </p>
+      </div>
+    </noscript>
+  </div>
+
+  <script
+    type="application/json"
+    id="insight-titles"
+    set:html={JSON.stringify(insightTitles)}
+    is:inline
+  />
+  <script>
+    import '../scripts/assessmentApp';
+  </script>
+</BaseLayout>
+
+<style is:global>
+  /* Assessment UI — global so the client-rendered DOM is styled. */
+  .asmt-page {
+    padding-top: var(--space-l);
+    padding-bottom: var(--space-3xl);
+  }
+  .asmt-page__head {
+    max-width: 720px;
+    margin: var(--space-m) 0 var(--space-xl);
+  }
+  .asmt-page__head h1 {
+    margin: var(--space-s) 0 var(--space-m);
+  }
+
+  .asmt-mount {
+    max-width: 760px;
+  }
+
+  .asmt-noscript {
+    max-width: 640px;
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: var(--space-m) var(--space-l);
+    color: var(--text-muted);
+  }
+  .asmt-noscript p + p {
+    margin-top: var(--space-s);
+  }
+
+  /* Intro / privacy */
+  .asmt-privacy {
+    display: flex;
+    gap: var(--space-s);
+    align-items: flex-start;
+    background: #f0fdfa;
+    border: 1px solid #99f6e4;
+    border-radius: var(--radius);
+    padding: var(--space-m) var(--space-l);
+  }
+  .asmt-privacy__icon {
+    color: var(--teal-dark);
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+  }
+  .asmt-privacy__title {
+    font-weight: 650;
+    margin: 0 0 0.25rem;
+    color: #134e4a;
+  }
+  .asmt-privacy p:last-child {
+    margin: 0;
+    color: #115e59;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+  .asmt-intro__meta {
+    margin-top: var(--space-m);
+    font-size: 0.95rem;
+  }
+  .asmt-actions--start {
+    margin-top: var(--space-l);
+  }
+
+  /* Progress */
+  .asmt-progress {
+    margin-bottom: var(--space-l);
+  }
+  .asmt-progress__track {
+    height: 6px;
+    background: var(--border-color);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+  .asmt-progress__bar {
+    height: 100%;
+    background: var(--teal);
+    border-radius: 999px;
+    transition: width 0.35s var(--ease);
+  }
+  .asmt-progress__dots {
+    display: flex;
+    gap: 6px;
+    margin-top: 0.6rem;
+  }
+  .asmt-progress__dot {
+    width: 100%;
+    height: 3px;
+    border-radius: 2px;
+    background: transparent;
+  }
+
+  /* Step */
+  .asmt-step__head {
+    margin-bottom: var(--space-l);
+  }
+  .asmt-step__eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    color: var(--teal-dark);
+    margin: 0 0 0.4rem;
+  }
+  .asmt-step__head h2 {
+    font-size: var(--step-3);
+    margin: 0 0 var(--space-2xs);
+  }
+  .asmt-step__head h2:focus {
+    outline: none;
+  }
+  .asmt-step__intro {
+    margin: 0;
+    max-width: 56ch;
+  }
+
+  .asmt-questions {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-l);
+  }
+  .asmt-q {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    min-width: 0;
+  }
+  .asmt-q__text {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 500;
+    color: var(--text);
+    padding: 0;
+    line-height: 1.3;
+  }
+  .asmt-q__help {
+    margin: 0.4rem 0 0.85rem;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  /* Number input */
+  .asmt-number {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #fff;
+    border: 1.5px solid var(--border-strong);
+    border-radius: var(--radius);
+    padding: 0.5rem 0.85rem;
+    max-width: 100%;
+    transition: border-color 0.15s var(--ease), box-shadow 0.15s var(--ease);
+  }
+  .asmt-number:focus-within {
+    border-color: var(--teal);
+    box-shadow: 0 0 0 3px #ccfbf1;
+  }
+  .asmt-number__prefix,
+  .asmt-number__unit {
+    color: var(--footnote);
+    font-size: 0.95rem;
+    white-space: nowrap;
+  }
+  .asmt-number__input {
+    border: 0;
+    outline: 0;
+    font-size: 1.15rem;
+    font-weight: 600;
+    width: 9ch;
+    background: transparent;
+    color: var(--text);
+  }
+
+  /* Scale 1–10 */
+  .asmt-scale__row {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 4px;
+  }
+  .asmt-scale__btn {
+    aspect-ratio: 1;
+    min-height: 40px;
+    border: 1.5px solid var(--border-color);
+    background: #fff;
+    border-radius: var(--radius-sm);
+    font-family: var(--font-mono);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--slate-blue);
+    cursor: pointer;
+    transition: all 0.12s var(--ease);
+  }
+  .asmt-scale__btn:hover {
+    border-color: var(--teal);
+    color: var(--teal-dark);
+  }
+  .asmt-scale__btn.is-selected {
+    background: var(--teal);
+    border-color: var(--teal);
+    color: #fff;
+  }
+  .asmt-scale__labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--footnote);
+  }
+  @media (max-width: 460px) {
+    .asmt-scale__btn {
+      min-height: 34px;
+      font-size: 0.82rem;
+    }
+  }
+
+  /* Choice */
+  .asmt-choice {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+  .asmt-choice__btn {
+    border: 1.5px solid var(--border-strong);
+    background: #fff;
+    border-radius: 999px;
+    padding: 0.6rem 1.1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text);
+    cursor: pointer;
+    transition: all 0.12s var(--ease);
+  }
+  .asmt-choice__btn:hover {
+    border-color: var(--teal);
+  }
+  .asmt-choice__btn.is-selected {
+    background: var(--charcoal);
+    border-color: var(--charcoal);
+    color: #fff;
+  }
+
+  /* Actions */
+  .asmt-actions {
+    display: flex;
+    gap: var(--space-s);
+    margin-top: var(--space-xl);
+    flex-wrap: wrap;
+  }
+  .asmt-actions .btn {
+    min-width: 120px;
+  }
+  .asmt-skip {
+    margin-top: var(--space-m);
+  }
+  .asmt-linkbtn {
+    background: none;
+    border: 0;
+    color: var(--footnote);
+    cursor: pointer;
+    font-size: 0.88rem;
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+    padding: 0;
+  }
+  .asmt-linkbtn:hover {
+    color: var(--text);
+  }
+
+  /* Results */
+  .asmt-results__head {
+    margin-bottom: var(--space-xl);
+  }
+  .asmt-results__head h2 {
+    font-size: var(--step-3);
+    margin: var(--space-2xs) 0 var(--space-s);
+  }
+  .asmt-results__head h2:focus {
+    outline: none;
+  }
+
+  .asmt-areas {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+  .asmt-area {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: clamp(1.1rem, 4vw, 1.85rem);
+    background: #fff;
+    box-shadow: var(--shadow-sm);
+  }
+  .asmt-area__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-s);
+    margin-bottom: var(--space-m);
+    flex-wrap: wrap;
+  }
+  .asmt-area__head h3 {
+    font-size: var(--step-2);
+    margin: 0;
+  }
+  .asmt-area__link {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--teal-dark);
+    white-space: nowrap;
+  }
+
+  .asmt-area__items {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-m);
+  }
+  .asmt-item {
+    border-top: 1px solid var(--border-color);
+    padding-top: var(--space-m);
+  }
+  .asmt-item__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-m);
+    flex-wrap: wrap;
+  }
+  .asmt-item__q {
+    margin: 0;
+    font-weight: 600;
+    color: var(--text);
+    flex: 1 1 60%;
+    min-width: 0;
+  }
+  .asmt-item__a {
+    margin: 0;
+    font-family: var(--font-mono);
+    font-weight: 600;
+    color: var(--amber);
+    white-space: nowrap;
+    font-size: 1.05rem;
+  }
+  .asmt-item__ctx {
+    margin-top: 0.6rem;
+    padding-left: 0.9rem;
+    border-left: 3px solid var(--border-strong);
+  }
+  .asmt-item__ctx.pos-around { border-color: var(--slate-blue); }
+  .asmt-item__ctx.pos-higher { border-color: var(--teal); }
+  .asmt-item__ctx.pos-lower { border-color: var(--amber); }
+  .asmt-item__ctx.pos-neutral { border-color: var(--footnote); }
+  .asmt-item__tag {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--slate-blue);
+    margin-bottom: 0.25rem;
+  }
+  .asmt-item__stmt {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.92rem;
+    line-height: 1.6;
+  }
+
+  .asmt-note {
+    margin-top: var(--space-m);
+    border-radius: var(--radius);
+    padding: var(--space-s) var(--space-m);
+    font-size: 0.92rem;
+    line-height: 1.6;
+  }
+  .asmt-note p {
+    margin: 0.3rem 0 0;
+    color: var(--text-muted);
+  }
+  .asmt-note__label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .asmt-note--research {
+    background: var(--surface);
+  }
+  .asmt-note--research .asmt-note__label {
+    color: var(--slate-blue);
+  }
+  .asmt-note--common {
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+  }
+  .asmt-note--common .asmt-note__label {
+    color: var(--amber);
+  }
+
+  .asmt-area__reading {
+    margin-top: var(--space-m);
+  }
+  .asmt-area__reading-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--footnote);
+  }
+  .asmt-area__reading ul {
+    margin: 0.5rem 0 0;
+    padding-left: 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  .asmt-area__reading a {
+    font-size: 0.92rem;
+    font-weight: 500;
+  }
+
+  /* Matters block */
+  .asmt-matters {
+    margin-top: var(--space-2xl);
+    background: var(--charcoal);
+    color: #e7e5e4;
+    border-radius: var(--radius-lg);
+    padding: clamp(1.5rem, 5vw, 2.5rem);
+  }
+  .asmt-matters h3 {
+    color: #fff;
+    font-size: var(--step-2);
+    margin: 0 0 var(--space-s);
+  }
+  .asmt-matters > p {
+    color: #d6d3d1;
+    max-width: 60ch;
+  }
+  .asmt-matters__cols {
+    display: grid;
+    gap: var(--space-l);
+    margin-top: var(--space-l);
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 640px) {
+    .asmt-matters__cols {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  .asmt-matters__col h4 {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin: 0 0 var(--space-s);
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #44403c;
+  }
+  .asmt-matters__col--matters h4 { color: #5eead4; }
+  .asmt-matters__col--matters-less h4 { color: #fcd34d; }
+  .asmt-matters__col ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  .asmt-matters__col li {
+    position: relative;
+    padding-left: 1.4rem;
+    color: #d6d3d1;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  .asmt-matters__col li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+  }
+  .asmt-matters__col--matters li::before { background: #5eead4; }
+  .asmt-matters__col--matters-less li::before { background: #fcd34d; }
+  .asmt-matters__src {
+    margin-top: var(--space-l);
+    color: #a8a29e !important;
+  }
+  .asmt-matters__src a {
+    color: #5eead4;
+    text-decoration: underline;
+  }
+
+  .asmt-sources {
+    margin-top: var(--space-xl);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: var(--space-s) var(--space-m);
+    background: var(--surface);
+  }
+  .asmt-sources summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: var(--slate-blue);
+  }
+  .asmt-sources ul {
+    margin: var(--space-s) 0 0;
+    padding-left: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    line-height: 1.5;
+  }
+
+  .asmt-results__actions {
+    margin-top: var(--space-xl);
+    display: flex;
+    gap: var(--space-s);
+    flex-wrap: wrap;
+  }
+  .asmt-results__disclaimer {
+    margin-top: var(--space-l);
+  }
+</style>

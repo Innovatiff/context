@@ -1,0 +1,110 @@
+---
+import { ADSENSE } from '../consts';
+
+/**
+ * Ad placement component — DISABLED BY DEFAULT.
+ *
+ * Policy stance (Google AdSense / Publisher policies):
+ *  - Renders nothing at all until AdSense is approved and enabled, unless
+ *    PUBLIC_ADSENSE_PLACEHOLDERS=true (review aid only — never on production
+ *    pre-approval).
+ *  - Never shows fake ads, never mimics content, navigation, or research
+ *    findings, and is always clearly labelled "Advertisement".
+ *  - Must only be placed in ad-safe zones (see docs in /research-methodology
+ *    is NOT one). Never inside the assessment, results, or adjacent to a data
+ *    finding.
+ */
+
+export interface Props {
+  /** AdSense ad slot ID (from your AdSense account). */
+  slot?: string;
+  /** Layout hint for sizing the reserved area. */
+  format?: 'horizontal' | 'rectangle' | 'sidebar';
+  /** Desktop-only (e.g. sidebar units). */
+  desktopOnly?: boolean;
+  label?: string;
+}
+
+const {
+  slot = '',
+  format = 'horizontal',
+  desktopOnly = false,
+  label = 'Advertisement',
+} = Astro.props;
+
+const live = ADSENSE.enabled && ADSENSE.client && slot;
+const render = live || ADSENSE.showPlaceholders;
+---
+
+{
+  render && (
+    <aside
+      class:list={['ad-slot', `ad-slot--${format}`, { 'ad-slot--desktop': desktopOnly }]}
+      aria-label={label}
+    >
+      <span class="ad-slot__label">{label}</span>
+      {live ? (
+        <>
+          <ins
+            class="adsbygoogle"
+            style="display:block"
+            data-ad-client={ADSENSE.client}
+            data-ad-slot={slot}
+            data-ad-format="auto"
+            data-full-width-responsive="true"
+          />
+          <script is:inline>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </>
+      ) : (
+        <div class="ad-slot__placeholder" aria-hidden="true">
+          Reserved ad space — inactive until approval
+        </div>
+      )}
+    </aside>
+  )
+}
+
+<style>
+  .ad-slot {
+    display: block;
+    margin-block: var(--space-l);
+    text-align: center;
+  }
+  .ad-slot__label {
+    display: block;
+    font-size: 0.66rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--footnote);
+    margin-bottom: 0.35rem;
+  }
+  .ad-slot__placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed var(--border-strong);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    color: var(--footnote);
+    font-size: 0.8rem;
+    min-height: 90px;
+  }
+  .ad-slot--rectangle .ad-slot__placeholder {
+    min-height: 250px;
+    max-width: 336px;
+    margin-inline: auto;
+  }
+  .ad-slot--sidebar .ad-slot__placeholder {
+    min-height: 600px;
+  }
+  .ad-slot--desktop {
+    display: none;
+  }
+  @media (min-width: 1024px) {
+    .ad-slot--desktop {
+      display: block;
+    }
+  }
+</style>
