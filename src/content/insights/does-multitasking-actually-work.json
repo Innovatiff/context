@@ -1,0 +1,76 @@
+{
+  "title": "Does Multitasking Actually Work?",
+  "slug": "does-multitasking-actually-work",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Does Multitasking Actually Work? What the Research Shows",
+  "metaDescription": "For demanding tasks, mostly no. What feels like multitasking is usually fast task-switching, and the research shows it adds time and errors. Here is the data.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "For two attention-demanding tasks, true multitasking mostly does not work — the brain rapidly switches between them rather than doing both at once, and that switching adds measurable time and errors.",
+  "honestAnswer": [
+    "For demanding cognitive work, mostly no. What people experience as multitasking is usually fast switching between tasks, and the research consistently finds that switching carries a cost — it adds time and increases errors compared with doing the same tasks one at a time. The brain is not running two attention-heavy processes in parallel; it is toggling between them quickly enough to feel simultaneous.",
+    "There is an important exception: pairing one automatic, well-practised task with one attention-demanding task can work — most people can walk while talking, or fold laundry while listening to a podcast. The trouble arrives when both tasks compete for the same limited attention, which is when performance on both tends to degrade. So the honest answer is that multitasking 'works' only in a narrow sense the word usually does not mean."
+  ],
+  "whatDataShows": [
+    "The core finding is the switch cost. Decades of cognitive research, summarised by the American Psychological Association, find that moving back and forth between tasks is slower and more error-prone than completing them sequentially. Work by David Meyer, David Kieras and colleagues on the mechanics of task-switching showed that each switch requires the mind to reconfigure — to drop one set of rules and load another — and that this reconfiguration takes real time, fractions of a second that accumulate quickly across many switches.",
+    "A frequently cited study complicated the popular intuition that some people are simply good at it. Ophir, Nass and Wagner (2009, PNAS) compared self-identified 'heavy media multitaskers' with lighter ones, expecting the heavy group to be better at juggling streams of information. They found the opposite: heavy media multitaskers performed worse at filtering out irrelevant distractions and, notably, worse at switching between tasks. The people who multitasked the most were not the most skilled at it.",
+    "Not all combinations cost the same. When one task is automatic — highly practised and requiring little conscious attention — it can be paired with an attention-demanding task with little interference. The cost rises sharply when both tasks draw on the same limited pool of attention or the same channel, such as two tasks that both require language, or both require the eyes. This is the pattern behind why talking and driving is more dangerous than the conversation feels."
+  ],
+  "whyItFeelsDifferent": [
+    "Multitasking feels effective partly because the switching itself is fast and largely invisible to us. We do not perceive the small reconfiguration costs as they happen, so the toggling feels like simultaneity. The subjective sense of getting more done is real; it is the actual throughput that tends not to keep up.",
+    "It also feels productive because it feels busy, and busyness reads as accomplishment. Handling several things at once provides a steady stream of small starts and stops that can be more stimulating than the slower, quieter work of finishing one thing. The activity is engaging even when the output is lower.",
+    "And the Ophir, Nass and Wagner finding points to a quieter trap: the people who do it most may be the least able to judge how well it is working, because heavier multitasking was associated with more difficulty filtering distraction, not less. Confidence in one's multitasking ability and actual performance do not reliably move together."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent implication is to do attention-demanding tasks one at a time, or 'batch' similar work together so the mind is not constantly reconfiguring. Grouping like with like reduces the number of switches, which is where much of the cost lives. This is a modest, well-supported lever rather than a dramatic one.",
+    "Reducing interruptions matters because each one is itself a forced switch, and returning to the original task after an interruption takes time to fully re-engage. Limiting notifications and protecting blocks of single-task time tend to lower the hidden tax that fragmented attention imposes — the research supports the direction even if exact figures vary by study and setting.",
+    "Where you do combine activities, pair an automatic task with a demanding one rather than two demanding ones. Listening to instrumental music or walking while thinking is a genuinely different proposition from trying to write an email while following a meeting. The first leans on spare capacity; the second forces two claimants to share what one task needs."
+  ],
+  "whatDoesNotHelp": [
+    "Believing you are personally an exception rarely holds up. The research finds switch costs across people, and the group that multitasks most was, if anything, worse at the underlying skills — so the intuition 'this slows other people down but not me' is the one the data most directly undercuts.",
+    "Adding more parallel tasks to feel more productive tends to lower actual output on demanding work, not raise it. The feeling of doing more and the measured result of doing more diverge here; busyness is not the same as throughput.",
+    "Frequent 'quick checks' of messages or feeds while working do not keep you efficiently on top of things; each check is a switch with a re-entry cost, and the cumulative drag is larger than any single interruption feels. The cost is real precisely because it is small enough each time to ignore."
+  ],
+  "realNumbersInContext": [
+    "The headline numbers here are about cost, not capacity. Across task-switching studies summarised by the American Psychological Association, switching between tasks reliably adds time and errors relative to doing them in sequence — the effect is robust in direction even though the exact size depends heavily on the tasks involved, so it is better understood as 'a consistent measurable penalty' than as a single percentage.",
+    "The Ophir, Nass and Wagner (2009) result is the counterintuitive one worth holding onto: heavy media multitaskers were not better jugglers but worse at filtering distraction and switching. Combined with the basic switch-cost research, the overall picture is that for demanding work, doing one thing at a time is usually faster and more accurate than it feels like it should be — and that genuine parallel processing is mostly limited to cases where one of the tasks is automatic."
+  ],
+  "realNumbers": [
+    { "value": "Switch cost", "label": "Time and errors reliably added by switching vs. doing tasks in sequence", "source": "American Psychological Association, task-switching research" },
+    { "value": "Worse, not better", "label": "How 'heavy media multitaskers' performed at filtering distraction and switching", "source": "Ophir, Nass & Wagner, PNAS 2009" },
+    { "value": "Reconfiguration", "label": "What each task switch requires the mind to do, taking real time", "source": "Meyer & Kieras, task-switching research" },
+    { "value": "Automatic + demanding", "label": "The one pairing that genuinely works (e.g., walking while talking)", "source": "Cognitive psychology of dual tasks" }
+  ],
+  "faqs": [
+    {
+      "question": "So is multitasking ever actually possible?",
+      "answer": "Yes, in a limited way. You can combine an automatic, well-practised task with an attention-demanding one — walking while talking, folding laundry while listening. What mostly does not work is doing two attention-demanding tasks at once; in that case the brain switches rapidly between them rather than doing both in parallel, and that switching adds time and errors."
+    },
+    {
+      "question": "Aren't some people just good at multitasking?",
+      "answer": "Less than people assume. Ophir, Nass and Wagner (2009) found that self-identified heavy media multitaskers were actually worse at filtering distractions and switching tasks, not better. Switch costs show up across people, so the belief that it slows others down but not you is the one the evidence most directly challenges."
+    },
+    {
+      "question": "What's the difference between multitasking and task-switching?",
+      "answer": "True multitasking would mean running two attention-demanding tasks at the same time. What usually happens instead is task-switching: the mind toggles between them quickly enough to feel simultaneous. Because each switch requires reconfiguring, switching is slower and more error-prone than doing the tasks one after another."
+    },
+    {
+      "question": "Why does multitasking feel so productive if it isn't?",
+      "answer": "Because the switching is fast and largely invisible, so toggling feels like simultaneity, and because busyness reads as accomplishment. The subjective sense of getting more done is real; it is the actual output that tends not to keep up with the feeling on demanding work."
+    },
+    {
+      "question": "What actually helps if I have a lot to do?",
+      "answer": "Doing attention-demanding tasks one at a time, batching similar work to reduce the number of switches, and limiting interruptions — since each interruption is itself a forced switch with a re-entry cost. Where you do combine activities, pair an automatic task with a demanding one rather than two demanding ones."
+    }
+  ],
+  "dataSources": [
+    "Ophir, E., Nass, C., & Wagner, A. D. (2009). Cognitive control in media multitaskers. PNAS, 106(37), 15583–15587.",
+    "American Psychological Association — research summaries on task-switching and the costs of multitasking.",
+    "Meyer, D. E., & Kieras, D. E. — research on executive control and the time costs of task-switching."
+  ],
+  "relatedInsights": [
+    "how-many-hours-can-you-actually-focus-in-a-day",
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-much-time-do-we-spend-on-our-phones"
+  ],
+  "lastReviewed": "2026-06"
+}

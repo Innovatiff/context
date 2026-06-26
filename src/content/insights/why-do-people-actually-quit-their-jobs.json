@@ -1,0 +1,75 @@
+{
+  "title": "Why Do People Actually Quit Their Jobs?",
+  "slug": "why-do-people-actually-quit-their-jobs",
+  "category": "work-and-career",
+  "metaTitle": "Why Do People Actually Quit Their Jobs? The Real Reasons",
+  "metaDescription": "Survey data shows people quit mostly over low pay, no advancement and feeling disrespected — not just bad managers. What the research actually shows.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "When people are surveyed about why they quit, the most common reasons are low pay, a lack of advancement, and feeling disrespected at work — concrete factors that matter more than the popular 'people leave managers, not jobs' line suggests.",
+  "honestAnswer": [
+    "People quit mostly over pay, advancement and respect — more concrete and less mysterious than the common explanations make it sound. When the Pew Research Center surveyed U.S. workers who left a job in 2021, the reasons that rose to the top were low pay, no opportunities for advancement, and feeling disrespected at work, with childcare and a lack of flexibility also significant for many.",
+    "The familiar saying that 'people don't leave jobs, they leave managers' captures something real — a worker's relationship with their direct manager strongly shapes how engaged they feel — but it oversimplifies. The survey data is clear that bread-and-butter factors like pay and the chance to grow weigh heavily, often more visibly than the boss alone. The honest picture is that quitting is usually driven by several practical things at once, not a single villain."
+  ],
+  "whatDataShows": [
+    "The most direct evidence comes from a Pew Research Center survey (2022) of U.S. adults who quit a job in 2021. Among the most-cited reasons were low pay, a lack of opportunities for advancement, and feeling disrespected at work — each named by a large share of those who left. Childcare problems and a lack of flexibility over hours also featured prominently, especially for parents and caregivers. These are concrete, addressable conditions, not vague dissatisfaction.",
+    "Alongside the reasons people give, Gallup's long-running engagement research finds that a worker's direct manager has a large influence on how engaged and committed they feel — the source of the popular 'people leave managers' framing. The relationship with one's immediate boss genuinely matters for whether someone stays. But Gallup measures engagement and the manager's role within it; it does not show that the manager is the sole or even primary trigger for every departure.",
+    "Read together, the two bodies of evidence converge on a layered picture. Pay, advancement and respect dominate the reasons people actually cite, while management quality strongly shapes the day-to-day experience that makes those factors feel tolerable or intolerable. Quitting is typically the result of several of these forces stacking up rather than any one of them in isolation."
+  ],
+  "whyItFeelsDifferent": [
+    "The 'people leave managers, not jobs' line is sticky because it offers a single, memorable cause — and because a bad manager is a vivid, emotionally charged story in a way that 'the pay stopped keeping up' is not. Neat one-line explanations spread more easily than the messier truth that several practical factors usually combine.",
+    "It also feels different because the reasons people give out loud are not always the full set. 'I left for a better opportunity' is a more comfortable thing to say than 'I felt disrespected' or 'the pay was too low,' so the publicly stated reason can understate how much pay and respect actually drove the decision — which is exactly why anonymous surveys are useful here.",
+    "And quitting is rarely a single moment, even though it looks like one from the outside. By the time someone leaves, pay, stalled growth, a difficult manager and inflexibility may have been accumulating for a long time. The final trigger gets remembered as 'the reason,' which makes departures look more sudden and more single-cause than they were."
+  ],
+  "whatResearchSaysToDo": [
+    "For anyone trying to understand or reduce turnover, the survey data points first at the concrete fundamentals: pay that keeps pace, visible paths to advancement, and basic respect. These are the reasons workers most often cite for leaving, so they are the levers with the clearest link to whether people stay. Treating retention as mainly a perks-and-culture problem misses where the data puts the weight.",
+    "Flexibility and caregiving support matter more than they are often credited for, particularly for parents. Because lack of flexibility and childcare difficulties featured prominently among reasons for quitting, accommodations on hours and location address a real and common driver rather than a marginal one.",
+    "The manager relationship is worth taking seriously alongside the fundamentals, not instead of them. Gallup's evidence that direct managers strongly shape engagement means improving that relationship genuinely helps — but the honest reading is that good management makes the structural factors more bearable, while it cannot fully substitute for fair pay or real opportunity."
+  ],
+  "whatDoesNotHelp": [
+    "Reducing every departure to 'they left their manager' does not help, and the data does not support it as the whole story. It is an oversimplification of research that actually shows pay, advancement and respect among the leading stated reasons; blaming managers alone can leave the real drivers untouched.",
+    "Assuming people quit mainly for trivial or disloyal reasons is also unsupported. The most-cited reasons are substantive — money, growth and dignity — not restlessness or a lack of commitment, so framing turnover as a character problem misreads the evidence.",
+    "Relying on perks, events and culture initiatives while leaving pay and advancement unaddressed tends to miss the point. The survey reasons cluster around fundamentals, so surface-level fixes that don't touch compensation, progression or respect are poorly matched to what people say actually drove them out."
+  ],
+  "realNumbersInContext": [
+    "The clearest numbers come from the Pew Research Center's 2022 survey of U.S. workers who quit in 2021: low pay, no opportunities for advancement, and feeling disrespected at work were among the most frequently cited reasons, each named by a substantial share of those who left, with childcare and flexibility also significant. Exact percentages depend on the survey wording and the specific period, so treat them as a snapshot of one moment rather than a fixed law — but the ranking of reasons is the durable takeaway.",
+    "On the manager side, Gallup's engagement research is best read as evidence about a contributing factor rather than a precise share of quits. It consistently finds that direct managers account for a large part of the variation in employee engagement, which is why the 'leave the manager' idea took hold — but engagement is not the same as the reason for any given resignation, so the popular slogan stretches the finding further than it goes."
+  ],
+  "realNumbers": [
+    { "value": "Low pay", "label": "Among the top reasons U.S. workers gave for quitting in 2021", "source": "Pew Research Center, 2022" },
+    { "value": "No advancement", "label": "Another leading cited reason for quitting", "source": "Pew Research Center, 2022" },
+    { "value": "Feeling disrespected", "label": "A third leading cited reason for quitting", "source": "Pew Research Center, 2022" },
+    { "value": "Large", "label": "The manager's share of variation in employee engagement", "source": "Gallup engagement research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the number one reason people quit their jobs?",
+      "answer": "In Pew's 2022 survey of U.S. workers who left in 2021, low pay was among the most-cited reasons, alongside a lack of advancement and feeling disrespected at work. There isn't a single universal cause — quitting usually reflects several of these factors stacking up — but pay, growth and respect consistently lead the list."
+    },
+    {
+      "question": "Is it true that people leave managers, not jobs?",
+      "answer": "Partly. Gallup's research finds that direct managers strongly influence how engaged people feel, which is where the saying comes from. But it's an oversimplification: when workers are surveyed about why they actually quit, concrete factors like pay, advancement and respect feature heavily. The manager matters, but they're rarely the whole story."
+    },
+    {
+      "question": "Do people mostly quit for more money?",
+      "answer": "Money is a leading reason, but not the only one. Lack of advancement and feeling disrespected rank alongside pay in the survey data, and for many workers — especially parents — childcare and flexibility matter too. Departures are usually driven by a combination of these rather than pay alone."
+    },
+    {
+      "question": "Why don't people just say the real reason they quit?",
+      "answer": "Stated reasons are often softened — 'a better opportunity' is more comfortable to say than 'I felt disrespected' or 'the pay was too low.' That's why anonymous surveys are useful: they tend to surface pay and respect as bigger drivers than people volunteer in person."
+    },
+    {
+      "question": "Can good management stop people from leaving?",
+      "answer": "It helps, but only so far. A strong manager relationship makes the day-to-day more bearable and clearly affects engagement, yet the evidence suggests it can't fully substitute for fair pay or real opportunity. Good management works best alongside the fundamentals, not as a replacement for them."
+    }
+  ],
+  "dataSources": [
+    "Pew Research Center (2022). Majority of workers who quit a job in 2021 cite low pay, no opportunities for advancement, feeling disrespected.",
+    "Gallup. State of the Global Workplace and engagement research on the manager's effect on employee engagement."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-dread-going-to-work",
+    "is-it-normal-to-not-be-passionate-about-your-job",
+    "does-money-or-meaning-matter-more-at-work"
+  ],
+  "lastReviewed": "2026-06"
+}

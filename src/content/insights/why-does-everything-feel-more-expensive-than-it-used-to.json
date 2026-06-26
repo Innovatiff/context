@@ -1,0 +1,75 @@
+{
+  "title": "Why Does Everything Feel More Expensive Than It Used To?",
+  "slug": "why-does-everything-feel-more-expensive-than-it-used-to",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Why Does Everything Feel More Expensive Now?",
+  "metaDescription": "Partly it really is, partly it's perception. Here is what the data shows about inflation, wages, and the categories that have actually outpaced your income.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Some of the squeeze is real — a handful of large categories like housing, healthcare, childcare, and college have risen far faster than overall inflation and wages — and some of it is a predictable quirk of how we notice price changes.",
+  "honestAnswer": [
+    "It feels more expensive partly because it genuinely is, and partly because of how human attention works. General prices rise over time with inflation, but the more important story is that a few large, hard-to-avoid categories — housing, healthcare, childcare, and college — have climbed much faster than overall inflation and faster than the typical paycheck over recent decades. So for many people the cost of the essentials has outrun their income even when the headline inflation number looked modest.",
+    "At the same time, perception does real work here. We notice price increases on the things we buy often far more than we notice slow, quiet gains in income, and some goods have actually gotten cheaper, which makes the whole picture feel uneven and confusing rather than uniformly worse. Both things are true at once: the squeeze in the categories that matter most is real, and our sense of it is amplified by how we register prices."
+  ],
+  "whatDataShows": [
+    "Over the long run, the general price level rises. The U.S. Bureau of Labor Statistics tracks this through the Consumer Price Index, and the broad pattern is steady upward drift — a dollar buys less over time. That alone means \"everything costs more than it used to\" is, at the headline level, simply how a slowly inflating economy works, and not by itself evidence that something has gone wrong.",
+    "The sharper issue is that costs have risen very unevenly. Research and price data consistently show that housing, healthcare, childcare, and higher education have grown substantially faster than overall inflation over recent decades, while many manufactured goods — electronics, clothing, appliances — have stayed flat or fallen in price. The result is that the necessities you can't opt out of have gotten relatively more expensive, while the discretionary goods you notice on a shelf have gotten cheaper.",
+    "Meanwhile, the income side has lagged. Analysis from the Economic Policy Institute finds that over recent decades, typical wage growth has trailed productivity growth — the economy produced more per hour of work, but the gains did not flow proportionally into median paychecks. Combine faster growth in essential costs with slower growth in typical wages and you get a real, measurable tightening for many households, separate from any feeling about it."
+  ],
+  "whyItFeelsDifferent": [
+    "We register frequent purchases far more vividly than slow income gains. You buy groceries, gas, and coffee constantly, so every uptick registers as a small shock, again and again. A raise, by contrast, arrives once and then quietly becomes the new normal. The asymmetry means the cost side of your life feels loud and the income side feels silent, even when both are moving.",
+    "The unevenness also distorts the sense of it. Because some things got cheaper while the big essentials got much more expensive, the squeeze doesn't feel like a clean, across-the-board rise you could brace for. A cheaper television sitting next to a rent increase or a medical bill produces a disorienting mix — the affordable things make the unaffordable ones feel more arbitrary and frustrating.",
+    "And memory plays its part. People tend to anchor on past prices — what a house, a year of college, or a doctor's visit \"used to\" cost — without fully adjusting for how much income and the overall price level have changed in the meantime. That makes the gap feel larger and more personal than a careful inflation-adjusted comparison sometimes shows, even though, in the big essential categories, a real gap is genuinely there."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful first step is separating the real squeeze from the perceived one by looking at your own essential categories specifically. If the pressure is concentrated in housing, healthcare, childcare, or education, that tracks the documented data and is not a sign of personal mismanagement — it is the part of the economy that has genuinely outpaced wages, and naming it accurately tends to reduce the diffuse sense that everything is wrong.",
+    "Where the costs are structural, the levers that actually move the needle are also structural: the housing you commit to, transportation, and recurring fixed bills typically dominate a budget far more than the small, frequent purchases that feel most painful. Research on spending consistently shows the large, infrequent decisions matter more to your finances than cutting the visible daily extras, even though the daily extras are the ones that nag at you.",
+    "It also helps to compare your situation against real data rather than against memory or other people's curated lives. Knowing how the typical paycheck actually gets allocated, and where most people in your situation stand, replaces a vague sense of falling behind with an accurate picture — which is usually more reassuring and more actionable than the feeling alone."
+  ],
+  "whatDoesNotHelp": [
+    "Aggressively cutting small, frequent purchases — the daily coffee, the streaming subscription — rarely resolves the underlying squeeze, because those are not where the real cost growth lives. The pressure overwhelmingly comes from the large essential categories, so trimming the visible extras can feel virtuous while leaving the actual problem untouched.",
+    "Blaming yourself is both inaccurate and unhelpful. The data shows that essential costs have risen faster than typical wages for reasons that have nothing to do with individual discipline. Treating a structural, economy-wide pattern as a personal failing adds stress without changing anything, and it misdirects energy away from the decisions that actually matter.",
+    "Assuming it's all in your head is equally wrong. Dismissing the feeling as pure perception ignores the genuine, documented gap between essential-cost growth and wage growth. The honest position is that both are real — your perception is amplified, and the underlying squeeze in the categories that count is also real."
+  ],
+  "realNumbersInContext": [
+    "The headline story is steady inflation, tracked by the Bureau of Labor Statistics through the Consumer Price Index — over the long run prices broadly drift upward, so some rise is simply expected. But the headline number hides the more important pattern: a handful of essential categories have grown much faster than that average, while many goods have grown slower or fallen.",
+    "Roughly speaking, housing, healthcare, childcare, and college have outpaced overall inflation over recent decades, while electronics and clothing have become relatively cheaper. On the income side, the Economic Policy Institute documents that median wage growth has lagged productivity growth across recent decades. The exact figures vary by year and source, so treat any single number with caution — but the direction is consistent: essential costs up faster than typical pay, with the squeeze concentrated where you can least avoid it."
+  ],
+  "realNumbers": [
+    { "value": "Faster than CPI", "label": "Growth in housing, healthcare, childcare, and college over recent decades", "source": "BLS Consumer Price Index (category detail)" },
+    { "value": "Flat or falling", "label": "Long-run price trend for many goods like electronics and clothing", "source": "BLS Consumer Price Index" },
+    { "value": "Wages lagged", "label": "Median wage growth relative to productivity growth over recent decades", "source": "Economic Policy Institute" }
+  ],
+  "faqs": [
+    {
+      "question": "Is everything actually more expensive, or does it just feel that way?",
+      "answer": "Both. General prices rise over time with inflation, and a few large essential categories — housing, healthcare, childcare, and college — have risen much faster than overall inflation and faster than typical wages. At the same time, perception amplifies it, because we notice frequent purchases far more than slow income gains, and some goods have actually gotten cheaper, which makes the squeeze feel uneven."
+    },
+    {
+      "question": "Why do some things feel cheaper while others feel much more expensive?",
+      "answer": "Because price growth has been very uneven. Many manufactured goods like electronics and clothing have stayed flat or fallen in price, while the big unavoidable essentials have climbed sharply. A cheaper TV sitting next to a higher rent or medical bill is the lived version of that split."
+    },
+    {
+      "question": "Are wages keeping up with rising costs?",
+      "answer": "On average, less than people expect. The Economic Policy Institute finds that over recent decades median wage growth has lagged productivity growth, and the fastest-rising costs are concentrated in essentials. Exact figures vary by year and source, but the general pattern is essential costs rising faster than typical pay."
+    },
+    {
+      "question": "Does cutting small daily expenses fix the problem?",
+      "answer": "Usually not much. The real cost growth lives in large categories like housing, healthcare, and childcare, so trimming the daily coffee or a subscription rarely resolves the underlying squeeze. The large, infrequent decisions — what you commit to for housing and transportation — tend to matter far more to a budget."
+    },
+    {
+      "question": "Is this happening because I manage money badly?",
+      "answer": "The data points to structural reasons, not personal ones. Essential costs have outpaced typical wages across the economy for decades, which is not something individual discipline created or can fully offset. Naming it accurately tends to be more useful than treating an economy-wide pattern as a personal failing."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics, Consumer Price Index (overall and category-level price trends).",
+    "Economic Policy Institute, analysis of wage growth versus productivity growth over recent decades.",
+    "Research and price data on long-run cost growth in housing, healthcare, childcare, and higher education relative to overall inflation."
+  ],
+  "relatedInsights": [
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "where-does-the-average-paycheck-actually-go",
+    "what-is-lifestyle-inflation-and-why-it-happens"
+  ],
+  "lastReviewed": "2026-06"
+}

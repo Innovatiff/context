@@ -1,0 +1,71 @@
+{
+  "title": "Can an Ordinary Life Be a Meaningful One?",
+  "slug": "can-an-ordinary-life-be-a-meaningful-one",
+  "category": "purpose-and-direction",
+  "metaTitle": "Can an Ordinary Life Be a Meaningful One? The Research",
+  "metaDescription": "The data says yes — most people draw meaning from ordinary, everyday sources, not extraordinary achievement. What actually makes a life feel meaningful.",
+  "lifeArea": "Purpose & Direction",
+  "keyFinding": "Research on meaning in life consistently finds it comes from ordinary sources — close relationships, daily acts of care, small moments of connection and competence — far more than from remarkable achievement or recognition.",
+  "honestAnswer": [
+    "Yes — and the evidence for it is unusually consistent. When researchers measure where a sense of meaning actually comes from, the answer is rarely fame, scale, or extraordinary accomplishment. It is the ordinary fabric of a life: people you love, work or care that feels useful, routines that reflect what matters to you, and small moments of belonging and competence.",
+    "The belief that a life must be remarkable to be meaningful is a cultural story, not a finding. By the measures psychologists actually use, an ordinary life is not a lesser version of a meaningful one — for most people it is the form a meaningful life takes."
+  ],
+  "whatDataShows": [
+    "Psychologists generally break meaning in life into a few components: a sense of coherence (life makes sense), purpose (having direction), and mattering or significance (your existence counts). Research by Laura King, Joshua Hicks, and colleagues finds that these are reliably supplied by everyday experience — positive moods, close relationships, routine engagement — rather than requiring grand projects.",
+    "Roy Baumeister's work on the sources of meaning, and Michael Steger's research using the Meaning in Life Questionnaire, point in the same direction: people who report high meaning tend to cite relationships, contribution, and a sense of belonging, not status or achievement. Meaning is also distinct from constant happiness — it can include effort and difficulty in service of something you value.",
+    "Surveys that ask people directly what makes their lives meaningful (such as Pew Research Center's multi-country work) repeatedly put family, relationships, and everyday activities at the top, ahead of career success or wealth, across many countries."
+  ],
+  "whyItFeelsDifferent": [
+    "The stories that get told and shared are selected for being extraordinary. Biographies, profiles, and social feeds feature outliers — the founder, the artist, the adventurer — so the visible examples of a 'meaningful life' skew heavily toward the remarkable, even though the data on actual meaning does not.",
+    "There is also a measurement confusion baked into the culture: we tend to equate meaning with achievement because achievement is legible and rankable, while meaning is quiet and internal. An ordinary Tuesday spent well leaves no trophy, so it is easy to discount even when it is exactly what the research associates with a life that feels worth living."
+  ],
+  "whatResearchSaysToDo": [
+    "The findings point toward investing in the ordinary deliberately rather than waiting for the extraordinary. Protecting close relationships, doing work or care that feels useful even at small scale, and noticing everyday moments of connection and competence are the inputs the research most consistently links to meaning.",
+    "Research on meaning also suggests it is more often built than found — it accrues through repeated engagement and contribution rather than arriving as a revelation. That reframes 'finding your meaning' as a practice available in an ordinary life, not a prize reserved for a remarkable one.",
+    "Reflecting on coherence and mattering — why your routines make sense and who you matter to — tends to raise the felt sense of meaning, even when nothing about the circumstances changes."
+  ],
+  "whatDoesNotHelp": [
+    "Waiting to feel meaningful until you have achieved something impressive does not work, because the research does not tie meaning to achievement in the first place. The milestone tends to arrive and leave the sense of meaning roughly where it was.",
+    "Comparing your ordinary life to curated highlights of extraordinary ones reliably lowers your sense of meaning without telling you anything true about it. The comparison set is selected for being unrepresentative.",
+    "Chasing a single grand 'purpose' as the only valid source of meaning can crowd out the everyday sources that actually supply most of it — and can leave people feeling empty despite an objectively full life."
+  ],
+  "realNumbersInContext": [
+    "When Pew Research Center asked people across 17 advanced economies what makes life meaningful (2021), family and children were the most commonly mentioned source in most countries, followed by things like occupation, friends, and material wellbeing — everyday domains, not exceptional ones.",
+    "In wellbeing research more broadly, the quality of close relationships is among the strongest and most replicated predictors of a life people rate as meaningful and satisfying — stronger than income or status. The ordinary, in other words, is where the measurable signal is."
+  ],
+  "realNumbers": [
+    { "value": "Family", "label": "Most commonly cited source of meaning across 17 countries", "source": "Pew Research Center, 2021" },
+    { "value": "Everyday", "label": "Where meaning research locates most of its signal — relationships, care, routine", "source": "King & Hicks; Steger" },
+    { "value": "Built", "label": "Meaning tends to be built through engagement, not found in a revelation", "source": "Meaning-in-life research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it a problem if my life feels small?",
+      "answer": "Not according to the research on meaning. A 'small' life rich in close relationships, useful daily activity, and a sense of mattering scores high on the things psychologists actually measure as meaning. Small and meaningful are not opposites."
+    },
+    {
+      "question": "Do I need a single big purpose to have a meaningful life?",
+      "answer": "No. People sustain meaning through multiple, changing, often modest sources at once — relationships, work, care, craft. The idea that you need one defining mission is not supported by the meaning literature."
+    },
+    {
+      "question": "Why does my ordinary life sometimes feel meaningless anyway?",
+      "answer": "Feelings of meaning fluctuate with mood, stress, sleep, and connection, and dip when we compare ourselves to curated extraordinary lives. The dip is usually about the comparison or the mood, not about the actual meaning available in your life."
+    },
+    {
+      "question": "Isn't this just settling?",
+      "answer": "Valuing the ordinary is not the same as giving up on goals. It's recognising that the research locates meaning in everyday sources, so honouring those is a clear-eyed choice rather than a consolation prize."
+    }
+  ],
+  "dataSources": [
+    "King, L. A., & Hicks, J. A. — research on meaning in everyday life and the experience of meaning.",
+    "Steger, M. F. — Meaning in Life Questionnaire and sources of meaning research.",
+    "Baumeister, R. F. — research on the sources and components of meaning.",
+    "Pew Research Center (2021). What Makes Life Meaningful — 17-country survey."
+  ],
+  "relatedInsights": [
+    "what-actually-gives-life-meaning-according-to-research",
+    "is-it-okay-to-not-be-ambitious",
+    "what-small-things-actually-make-people-happier"
+  ],
+  "lastReviewed": "2026-06"
+}

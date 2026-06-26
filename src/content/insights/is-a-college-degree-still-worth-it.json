@@ -1,0 +1,75 @@
+{
+  "title": "Is a College Degree Still Worth It?",
+  "slug": "is-a-college-degree-still-worth-it",
+  "category": "work-and-career",
+  "metaTitle": "Is a College Degree Still Worth It? What the Data Shows",
+  "metaDescription": "On average, college still pays — but the return varies enormously by major, cost and whether you finish. What the earnings data actually shows.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "On average a college degree still pays off in lifetime earnings and lower unemployment, but the return varies enormously by field of study, cost and whether you actually finish, so the honest answer is 'usually yes, but it depends heavily.'",
+  "honestAnswer": [
+    "On average, yes — but with so much variation that the average alone is misleading. College graduates still tend to earn substantially more over a lifetime than people without a degree, and they face lower unemployment, a pattern that has held for decades in U.S. earnings data. That is the part the headline 'is it worth it' debate often skips.",
+    "The honest complication is that the average hides enormous spread. What you study, what it costs, where you go, and crucially whether you finish all change the answer dramatically — so much that the same degree can be a clear win for one person and a poor financial trade for another. The most reliable summary is: positive on average, but it depends heavily on major, cost and completion, and the worst outcome is taking on debt without graduating."
+  ],
+  "whatDataShows": [
+    "The core finding is the 'college wage premium.' U.S. Bureau of Labor Statistics data consistently show median weekly earnings rising with each level of education and unemployment falling — workers with a bachelor's degree typically out-earn those with only a high school diploma by a wide margin, and the gap compounds over a working life. Analyses from the Georgetown University Center on Education and the Workforce similarly find large lifetime earnings differences associated with higher education.",
+    "But the same Georgetown research stresses how much the return depends on field of study. Median earnings by major vary enormously — some fields lead to earnings well above the average graduate, others to earnings that overlap heavily with non-graduates. Institution and total cost matter too: a degree that costs little and is finished quickly is a very different financial proposition from an expensive one funded largely by debt.",
+    "Completion is decisive. The data on people who start college, take on debt, and then leave without a credential points to one of the worst financial outcomes — they carry the cost without the earnings premium. Rising tuition and accumulated student debt over recent decades have also narrowed the net margin for some graduates, even as the gross earnings premium has persisted."
+  ],
+  "whyItFeelsDifferent": [
+    "The question feels more polarised than the data because both sides quote real but partial facts. People pointing to successful graduates and the earnings premium are right on average; people pointing to debt-burdened graduates in low-paying fields, or dropouts with loans and no degree, are describing real and common outcomes too. Both are true at once because the spread around the average is so wide.",
+    "Vivid stories also distort the picture. A few highly visible examples — the wealthy college dropout, the unemployed graduate with large loans — get far more attention than the unremarkable median outcome, which is a graduate quietly earning more than they otherwise would have. The exceptions feel like the rule because they are memorable, not because they are typical.",
+    "And the cost side has genuinely changed within living memory. Tuition and debt levels are higher than they were for earlier generations, so older relatives' confident 'of course it's worth it' reflects a cheaper deal than the one a student faces now. The math is real; it has simply shifted, which is part of why the debate feels unsettled."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the variation is driven so heavily by field, cost and completion, the data suggests weighing those three concretely rather than asking 'degree or no degree' in the abstract. Looking up median earnings for a specific major and the total cost of a specific programme gives a far better signal than the overall average, which blends very different outcomes together.",
+    "Finishing matters more than almost anything else in the financial calculation. Since the worst-documented outcome is debt without a credential, anything that raises the odds of completing — choosing an affordable, well-supported programme you are likely to finish over a costlier one you might not — tends to protect the return more than chasing prestige.",
+    "Treating cost as part of the value, not separate from it, is what the research supports. The same degree at a lower price, or funded with less debt, simply has a higher return. Minimising borrowing relative to the realistic earnings of the chosen field is the lever the data most consistently rewards."
+  ],
+  "whatDoesNotHelp": [
+    "Treating 'college' as a single yes-or-no bet does not help, because the average conceals outcomes ranging from clearly worth it to clearly not. A blanket 'always worth it' or 'never worth it' both ignore that the answer hinges on major, cost and completion.",
+    "Choosing a programme on prestige or atmosphere while ignoring cost and likely earnings is poorly supported by the data. The research links return to field and net cost far more tightly than to the general reputation of attending college, so optimising for the experience alone risks the worst financial cases.",
+    "Assuming any degree guarantees a strong income is not what the evidence shows — earnings by major overlap heavily with non-graduate earnings in some fields. And the opposite cynical view, that the premium has vanished entirely, is also wrong: on average the earnings and employment advantage of a degree has persisted, even as costs have risen."
+  ],
+  "realNumbersInContext": [
+    "The directional figures are well established even though exact numbers shift year to year: BLS data routinely show bachelor's-degree holders earning substantially more in median weekly earnings than high-school-only workers, with unemployment rates lower at each higher education level. Treat the specific dollar gaps as approximate and time-varying — the robust finding is the consistent direction and rough size of the premium, not a fixed figure.",
+    "The part most worth internalising is the spread, documented by the Georgetown Center on Education and the Workforce: lifetime earnings differ enormously by major, and the return is reshaped by cost and completion. Because of that variation, 'the average graduate earns more' is true but only loosely predictive for any individual — your field, your price tag, and whether you finish move the real answer far more than the headline average does."
+  ],
+  "realNumbers": [
+    { "value": "Higher", "label": "Median earnings of bachelor's holders vs. high-school-only workers", "source": "U.S. Bureau of Labor Statistics" },
+    { "value": "Lower", "label": "Unemployment rate at each higher level of education", "source": "U.S. Bureau of Labor Statistics" },
+    { "value": "Varies widely", "label": "Lifetime earnings return, by field of study", "source": "Georgetown Center on Education and the Workforce" },
+    { "value": "Worst case", "label": "Taking on debt and leaving without a degree", "source": "Completion research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is college still worth the money?",
+      "answer": "On average, yes — graduates tend to earn substantially more over a lifetime and face lower unemployment than non-graduates, a pattern that has held for decades. But the average hides huge variation: the return depends heavily on what you study, what it costs, and whether you finish. For some combinations it is a clear win; for others, especially expensive programmes left unfinished, it can be a poor trade."
+    },
+    {
+      "question": "What's the single biggest factor in whether a degree pays off?",
+      "answer": "Completion, closely followed by field of study and cost. The worst-documented financial outcome is taking on debt and leaving without a credential — you carry the cost without the earnings premium. Finishing an affordable programme in a field with solid earnings is what most reliably makes the math work."
+    },
+    {
+      "question": "Does it matter which major I choose?",
+      "answer": "A great deal. Georgetown's research shows median earnings differ enormously by major — some fields lead to earnings well above the average graduate, others overlap heavily with non-graduate earnings. The overall 'graduates earn more' figure blends all of these together, so your specific field changes your likely return far more than the average suggests."
+    },
+    {
+      "question": "Has the value of a degree gone down?",
+      "answer": "The gross earnings premium has largely persisted, but rising tuition and student debt have narrowed the net margin for some graduates. So the degree still pays on average, but it can cost more to get than it did for earlier generations — which is part of why the question feels less settled than it once did."
+    },
+    {
+      "question": "Is it a mistake to go to college if I'm not sure I'll finish?",
+      "answer": "It raises the financial risk meaningfully, because debt without a credential is the worst outcome in the data. That doesn't mean don't go — it means weighting affordability, support and likelihood of completing heavily, and being cautious about borrowing for a programme you may not finish."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics. Education pays: earnings and unemployment rates by educational attainment.",
+    "Georgetown University Center on Education and the Workforce. The College Payoff and analyses of earnings by major and credential."
+  ],
+  "relatedInsights": [
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "do-people-regret-their-education-or-degree",
+    "what-research-shows-about-changing-careers-after-40"
+  ],
+  "lastReviewed": "2026-06"
+}

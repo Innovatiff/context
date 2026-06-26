@@ -1,0 +1,74 @@
+{
+  "title": "Does Networking Actually Matter for Your Career?",
+  "slug": "does-networking-actually-matter-for-your-career",
+  "category": "work-and-career",
+  "metaTitle": "Does Networking Actually Matter for Your Career?",
+  "metaDescription": "Yes, but mostly through loose acquaintances, not your inner circle. What the research on weak ties and job mobility actually shows about networking.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Networking does affect careers, but the connections that most reliably lead to new jobs are loose acquaintances — weak ties — rather than your closest friends, because distant contacts bridge to information you would not otherwise reach.",
+  "honestAnswer": [
+    "Yes, networking matters — but probably not in the way the word makes it sound. The most durable finding in this area is that people frequently find jobs through acquaintances rather than close friends, because distant connections reach into parts of the world your inner circle already shares with you. That makes networking less about working a room and more about staying loosely connected to a lot of people over time.",
+    "The honest version is that who you loosely know shapes which opportunities you hear about, and the research is fairly consistent on that point. It does not mean schmoozing is the secret to a good career, or that the best-connected person always wins. It means information about jobs travels along social ties, and the useful ties are often the weaker ones."
+  ],
+  "whatDataShows": [
+    "The foundational work here is sociologist Mark Granovetter's 1973 paper 'The Strength of Weak Ties,' which found that people often landed jobs through acquaintances they saw only occasionally rather than through close friends. His explanation was structural: your close friends tend to know the same people and hear the same news you do, while weaker, more distant ties act as bridges to different social circles and therefore to information you would not otherwise encounter.",
+    "That counterintuitive idea held up under a far larger test decades later. Rajkumar and colleagues (2022, Science) analysed job mobility across many millions of LinkedIn users in large-scale experiments and found that moderately weak ties were the most useful for landing new jobs — more useful, on average, than the strongest ties. The relationship was not perfectly linear, but the broad pattern supported Granovetter: loose connections do real work in moving people into new roles.",
+    "Put together, the data points to networking operating mostly as an information channel. Jobs are not only filled through formal applications; a meaningful share are found because someone mentioned an opening, made an introduction, or passed along a name. The structure of who you know — and how varied those connections are — shapes which of those signals reach you."
+  ],
+  "whyItFeelsDifferent": [
+    "Networking feels distasteful to a lot of people because the cultural image of it is transactional — collecting contacts, working a room, asking for favours from people you barely know. The research describes something much quieter: opportunities surfacing through ordinary, low-effort connections, often without anyone treating it as 'networking' at all.",
+    "It also feels less fair than applying on merit, and partly it isn't fair — relying on who you know advantages people with larger, more varied existing networks. That is a real limitation worth naming, not a motivational point. The weak-ties finding describes how information tends to flow, not a claim that this is the way things should be.",
+    "And because the most memorable career stories are about a single dramatic connection — the mentor, the lucky introduction — the slow, statistical reality gets lost. The evidence is less about one pivotal contact and more about being loosely linked to many people, most of whom will never matter, a few of whom occasionally will."
+  ],
+  "whatResearchSaysToDo": [
+    "If the goal is hearing about more opportunities, the research points toward breadth and looseness rather than intensity. Maintaining a wide set of weak ties — former colleagues, classmates, people from past roles and adjacent fields — gives you more bridges to information than deepening an already-close circle does. Staying minimally in touch with people you've drifted from is closer to what the data rewards than aggressive new outreach.",
+    "Because weak ties work by bridging to different worlds, variety matters more than volume. A contact who knows the same people you do adds little; a contact in a different industry, company, or city adds a genuine new channel. Keeping connections across a range of contexts is what makes a network informative rather than redundant.",
+    "Low-effort, consistent contact tends to do more than occasional high-stakes networking. The mechanism in the research is exposure to information, which favours simply remaining reachable and visible over time — so that when something relevant comes up, you are someone an acquaintance might think to mention it to."
+  ],
+  "whatDoesNotHelp": [
+    "Treating networking as collecting as many contacts as possible misreads the finding. The value comes from ties that bridge to new information, not from raw headcount — a thousand connections who all share your existing circle add little. Volume for its own sake is not what the weak-ties research supports.",
+    "Leaning only on your closest friends and family for job leads tends to underperform, precisely because they usually know what you already know. Granovetter's point was that the strong, comfortable ties are often the least informative ones for finding genuinely new opportunities.",
+    "The aggressive, transactional version of networking — relentless self-promotion, favour-trading with strangers — is not what the evidence describes as effective, and there is no strong support for the idea that being the most relentless connector wins. The useful pattern is quieter and more passive than the stereotype suggests."
+  ],
+  "realNumbersInContext": [
+    "The headline figure people remember from this field is qualitative, not a precise percentage: Granovetter (1973) documented that a large share of people in his sample found jobs through contacts they saw only occasionally — acquaintances rather than close friends. The exact proportions vary by study, labour market, and era, so treat any single percentage with caution; the robust part is the direction, not a fixed number.",
+    "The strongest modern evidence comes from Rajkumar and colleagues (2022, Science), who used large-scale experiments across millions of LinkedIn users to show that moderately weak ties were, on average, the most useful for job mobility. It is one of the largest tests of the idea ever run, but it is based on one platform's professional users, so it speaks best to white-collar, online-networked job markets rather than every kind of work."
+  ],
+  "realNumbers": [
+    { "value": "Weak ties", "label": "The connections most associated with finding new jobs, vs. close friends", "source": "Granovetter, 1973" },
+    { "value": "Millions", "label": "LinkedIn users in the experiments linking moderately weak ties to job mobility", "source": "Rajkumar et al., Science 2022" },
+    { "value": "Bridges", "label": "Why weak ties help — they reach information your close circle already shares", "source": "Granovetter, 1973" }
+  ],
+  "faqs": [
+    {
+      "question": "Does networking really matter, or is that just career advice?",
+      "answer": "The research suggests it genuinely matters as an information channel: people often hear about jobs through social ties rather than only through formal applications. But the effect runs largely through loose acquaintances, not your inner circle, so it looks less like aggressive schmoozing and more like staying loosely connected to many people."
+    },
+    {
+      "question": "What is a 'weak tie' and why does it matter more?",
+      "answer": "A weak tie is an acquaintance you see occasionally rather than a close friend. They matter because they bridge to social circles different from your own, so they carry information you would not otherwise hear. Your closest contacts tend to know the same people and the same news you already do, which makes them less useful for finding genuinely new opportunities."
+    },
+    {
+      "question": "Do I need to network constantly to benefit?",
+      "answer": "The evidence points more toward breadth and low-effort consistency than intensity. Staying minimally reachable across a varied set of past colleagues, classmates and contacts gives you more bridges to information than a burst of high-pressure outreach. The useful pattern is quieter than the stereotype of working a room."
+    },
+    {
+      "question": "Isn't relying on who you know unfair?",
+      "answer": "Partly, yes — and it's worth naming honestly. Networks that channel opportunities advantage people who already have large, varied connections, which can reinforce existing inequalities. The research describes how job information tends to flow, not a claim that this is fair or how things should be."
+    },
+    {
+      "question": "Does this apply to every kind of job?",
+      "answer": "The classic finding is broad, but the strongest modern evidence comes from LinkedIn's professional users, so it speaks best to white-collar, online-networked markets. How much weak ties matter likely varies by industry, region and the kind of work, so treat the pattern as general rather than universal."
+    }
+  ],
+  "dataSources": [
+    "Granovetter, M. S. (1973). The Strength of Weak Ties. American Journal of Sociology, 78(6), 1360–1380.",
+    "Rajkumar, K., Saint-Jacques, G., Bojinov, I., Brynjolfsson, E., & Aral, S. (2022). A causal test of the strength of weak ties. Science, 377(6612), 1304–1310."
+  ],
+  "relatedInsights": [
+    "does-changing-jobs-actually-pay-more-than-staying",
+    "why-do-people-actually-quit-their-jobs",
+    "how-many-close-friends-do-adults-actually-have"
+  ],
+  "lastReviewed": "2026-06"
+}
