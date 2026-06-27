@@ -1,0 +1,78 @@
+{
+  "title": "Do You Really Become the Average of the People Around You?",
+  "slug": "do-you-become-the-average-of-the-people-around-you",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Do You Become the Average of the People Around You?",
+  "metaDescription": "The 'average of the five people' line is folk wisdom, not research. But peer influence is real — and messier. What network science actually shows.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "The popular 'you are the average of the five people you spend the most time with' is unsourced folk wisdom, but real peer-influence effects exist — behaviours and moods cluster through social ties, though how much is true contagion versus shared environment versus choosing similar friends remains debated.",
+  "honestAnswer": [
+    "The exact claim — that you are the average of the five people you spend the most time with — is folk wisdom, not a research finding. There is no study behind the specific number, and no measured law that your traits equal the mean of your closest five. It circulates because it's memorable, not because it's been demonstrated.",
+    "But the kernel underneath it is real and better supported: who you spend time with genuinely shapes your behaviour, your sense of what's normal, and the opportunities you encounter. Network research finds that things like weight, smoking, and happiness cluster within social networks and appear to spread along social ties. The honest version is that your social circle exerts a real pull on you — the size of that pull is uncertain, and how much of it is true influence versus other explanations is genuinely debated."
+  ],
+  "whatDataShows": [
+    "The most influential evidence comes from Nicholas Christakis and James Fowler, who studied a large, long-running social network and reported that several states and behaviours cluster among connected people. In their analyses, obesity (2007), smoking (2008), and happiness (2008) appeared to spread through social ties — your odds of a given outcome were measurably higher when the people you were connected to shared it, and the association extended out to friends of friends, not just direct contacts.",
+    "Crucially, the interpretation of these clustering patterns is contested. Three explanations compete and are hard to fully separate in observational data. The first is genuine social contagion — people actually influencing one another. The second is shared environment or external shocks — connected people are exposed to the same neighbourhood, prices, stresses, or events. The third is homophily: we tend to choose friends who are already similar to us, so similarity can reflect selection rather than influence. Several methodologists have argued that the original studies could not cleanly distinguish true contagion from homophily and shared context, and the size of any pure peer effect remains uncertain.",
+    "What is on firmer ground is that peers shape norms and reference points. The people around you quietly define what counts as normal — how much to spend, drink, work, or worry — and they shape which opportunities and information reach you. Even where the precise causal share is unresolved, the broad finding that social environment influences behaviour and outlook is well established across many lines of research."
+  ],
+  "whyItFeelsDifferent": [
+    "The 'average of five' line feels authoritative because it's specific. A precise number sounds like it must come from a study, and the tidy arithmetic of an average gives it a scientific veneer it hasn't earned. Specificity is persuasive even when it's invented, which is part of why the maxim spread so widely as if it were a finding.",
+    "It also feels true because we can all recall times our circle clearly rubbed off on us — adopting a group's slang, habits, or ambitions. Those vivid examples make the strong version feel proven. But memory selects for the cases that confirm it and skips the times we diverged from our friends, or the times we sought out a particular group precisely because we were already changing, which is homophily, not influence.",
+    "And the direction of causation is genuinely hard to feel from the inside. When you and your friends are similar, it's almost impossible to sense whether they shaped you, you shaped them, you both responded to the same surroundings, or you gravitated together because you were alike to begin with. The clean story of 'they made me who I am' is more satisfying than the tangled reality."
+  ],
+  "whatResearchSaysToDo": [
+    "Take the defensible version seriously without overclaiming: since norms, opportunities, and what feels normal really are shaped by the people around you, being intentional about your regular environment is reasonable. Spending more time in settings where the behaviours and outlooks you want are common makes them feel ordinary and within reach — that's the norm-setting channel the research supports, even if the exact magnitude is uncertain.",
+    "Pay attention to weak ties and wider networks, not just your closest few. Much of what social networks actually deliver — new information, opportunities, and exposure to different norms — flows through acquaintances and friends-of-friends rather than your inner circle. Widening the network, rather than fixating on a top-five, is closer to how influence and opportunity actually travel.",
+    "Hold the influence story humbly in both directions. Because selection (choosing similar people) and shared circumstances explain part of the clustering, it's worth remembering that you also shape your environment and aren't simply a passive average of it. The research supports being thoughtful about your social context, not treating yourself as fully determined by it."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the 'average of five' as a literal law does not help, because it isn't one. There's no evidence your traits equal the mean of your closest five people, and acting as though a precise formula governs your life can lead to cold, transactional thinking about relationships — auditing friends as inputs to optimise — that the actual research doesn't justify.",
+    "Cutting people off purely on the theory that they're 'dragging down your average' rests on the strong-contagion reading that the evidence doesn't firmly support. Because clustering partly reflects homophily and shared circumstances rather than one-way influence, the simple model of friends as upward or downward forces on a number is too crude a basis for that kind of decision.",
+    "Assuming you'll automatically absorb a group's good habits just by being near successful or healthy people overstates passive contagion. Norms and opportunities exert a real pull, but proximity alone is not a reliable mechanism — the cleaner causal effects are smaller and more uncertain than the maxim implies, and your own choices still do real work."
+  ],
+  "realNumbersInContext": [
+    "The number in the famous phrase — five — has no research behind it. It's a memorable figure attached to a real but messier idea, and treating it as measured is the central error. What the evidence actually offers is the clustering finding: in Christakis and Fowler's network analyses, outcomes like obesity, smoking, and happiness were more likely among connected people, with associations detectable out to friends of friends. The precise effect sizes, and how much is true contagion, are exactly the parts that are debated.",
+    "The honest framing is a direction without a clean magnitude. Peer influence on norms, behaviour, and outlook is real and well supported in broad terms; the specific size of any pure causal effect is uncertain because selection (we pick similar friends) and shared environment are tangled up with influence in the data. So: who you're around matters, the 'five people average' is folk wisdom, and anyone quoting an exact percentage for how much your friends determine you is going beyond what the research can show."
+  ],
+  "realNumbers": [
+    { "value": "No study", "label": "Evidence behind the specific 'average of five people' claim", "source": "Unsourced folk wisdom" },
+    { "value": "Up to ~3 degrees", "label": "How far outcomes appeared to cluster through social ties (friends of friends of friends)", "source": "Christakis & Fowler" },
+    { "value": "Obesity, smoking, happiness", "label": "States reported to cluster and spread along social networks", "source": "Christakis & Fowler (2007–2008)" },
+    { "value": "Contested", "label": "How much clustering is true contagion vs shared environment vs homophily", "source": "Network methodology debate" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it true that you're the average of the five people you spend time with?",
+      "answer": "Not as a literal claim. The 'five people' line is folk wisdom with no study behind the specific number. What's real is the broader pattern: the people around you influence your norms, behaviour, and outlook. So who you're around matters, but the tidy formula is invented, not measured."
+    },
+    {
+      "question": "Do habits and moods actually spread through social networks?",
+      "answer": "Christakis and Fowler reported that obesity, smoking, and happiness cluster within social networks and appear to spread along ties, sometimes out to friends of friends. The clustering is real; how much of it is true contagion versus shared environment versus choosing similar friends is genuinely debated."
+    },
+    {
+      "question": "What is homophily and why does it complicate this?",
+      "answer": "Homophily is the tendency to befriend people already similar to us. It matters because it offers an alternative explanation for why connected people resemble each other: maybe they didn't influence one another but gravitated together because they were alike to begin with. That makes it hard to prove pure peer influence from observational data."
+    },
+    {
+      "question": "Should I change my friends to change myself?",
+      "answer": "Being intentional about the environments you spend time in is reasonable, because norms and opportunities really are shaped by the people around you. But coldly auditing friends as inputs to optimise overreaches what the evidence supports — clustering is partly about selection and shared circumstances, not one-way influence, and you shape your environment too."
+    },
+    {
+      "question": "Where did the 'five people' quote come from?",
+      "answer": "It's commonly attributed to motivational speaker Jim Rohn, not to a research study. It endures because the specific number sounds authoritative and matches our experience of friends rubbing off on us — but specificity isn't the same as evidence, and no study established the figure."
+    }
+  ],
+  "dataSources": [
+    "Christakis, N. A., & Fowler, J. H. (2007). The Spread of Obesity in a Large Social Network over 32 Years. New England Journal of Medicine, 357(4), 370–379.",
+    "Christakis, N. A., & Fowler, J. H. (2008). The Collective Dynamics of Smoking in a Large Social Network. New England Journal of Medicine, 358(21), 2249–2258.",
+    "Fowler, J. H., & Christakis, N. A. (2008). Dynamic spread of happiness in a large social network. BMJ, 337, a2338.",
+    "Methodological debate on distinguishing social contagion from homophily and shared environment in network studies.",
+    "Research on homophily (the tendency to form ties with similar others). The 'average of five people' maxim is unsourced folk wisdom, commonly attributed to Jim Rohn."
+  ],
+  "relatedInsights": [
+    "why-do-we-compare-ourselves-to-others",
+    "is-happiness-actually-contagious",
+    "how-many-close-friends-do-adults-actually-have"
+  ],
+  "lastReviewed": "2026-06"
+}

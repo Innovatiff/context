@@ -1,0 +1,77 @@
+{
+  "title": "Do We Really Not Have Time — or Is It Priorities?",
+  "slug": "do-we-really-not-have-time-for-things",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Do We Really Not Have Time — or Is It Priorities?",
+  "metaDescription": "Time-use data shows most people have more discretionary time than they feel they do. When 'no time' is really priorities — and when scarcity is real.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Most people have more discretionary time than they feel they do, so 'I don't have time' is often more accurately 'it isn't a priority right now' — though for some, time scarcity is genuinely real.",
+  "honestAnswer": [
+    "Often it is priorities dressed up as scarcity — but not always, and the distinction matters. Time-use research consistently finds that most people have more discretionary time than they believe they do; it is just fragmented and frequently spent on defaults rather than on the things they say they care about.",
+    "Reframing 'I don't have time for that' as 'that isn't a priority for me right now' is uncomfortable, because it moves the situation from something happening to you to something you are choosing. But for the majority of people most of the time, it is the more accurate description — and it tends to restore a sense of agency rather than remove it.",
+    "The important caveat: this is not universal. For carers, people working multiple jobs, single parents, and others with heavy fixed obligations, time scarcity is genuinely real, not a framing problem. The point is honesty about which situation you are actually in, not a blanket claim that everyone secretly has free time."
+  ],
+  "whatDataShows": [
+    "The most detailed picture in the U.S. comes from the American Time Use Survey, which has people record diaries of how they actually spend a day. On average it finds something most people find surprising: adults report on the order of five hours a day of leisure and related free time. The figure varies by gender, employment, and caregiving load, and averages can hide people who have far less — but the typical day contains more uncommitted time than the felt experience of busyness suggests.",
+    "Time-diary research, including the long-running work popularised by Laura Vanderkam, repeatedly finds a gap between estimated and actual time use. People tend to overestimate how much they work and underestimate how much discretionary time they have, partly because busy, stressed stretches are more memorable than the scattered pockets of free time around them. The diaries routinely turn up more available time than the person expected.",
+    "What the data also shows is that this free time is fragmented and often spent on defaults. A large share of discretionary time goes to screens and passive media — by most measures, several hours a day on average across various devices. So the issue is frequently not the absence of time but how the available time gets allocated, often automatically rather than deliberately."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like a genuine shortage because busyness is a feeling, not just a quantity. Time pressure — the sense of being rushed and behind — can be high even when measured free time is substantial, and that felt pressure is what we report when we say 'I have no time.' We are describing the stress, not the diary.",
+    "Fragmentation makes time feel like it isn't there. Free time arrives in scattered ten- and twenty-minute pieces between obligations, and small fragments rarely feel like 'real' time for a project or a person, so they get spent on whatever is easiest to pick up and put down — typically a phone. The hours exist; they just don't feel like usable blocks.",
+    "There is also a social pull. Being busy reads as being important and conscientious, so 'I don't have time' is a more comfortable thing to say — to others and to ourselves — than 'I'd rather do something else,' even when the second is closer to the truth. The language of scarcity protects us from naming a choice."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful first step the research supports is measurement over estimation. Because people consistently misjudge their own time use, keeping a rough time diary for a few days tends to reveal where the hours actually go — and where the unclaimed pockets are. You cannot reallocate time you cannot see.",
+    "Naming priorities honestly is the second. Swapping 'I don't have time' for 'this isn't a priority right now' is not a productivity trick but an accuracy correction; in time-use writing it consistently shows up as the move that restores agency, because it puts the allocation back in your hands. Sometimes the honest answer is that something genuinely is not a priority — and that is fine to admit.",
+    "Where the goal is to do more of something you value, the evidence favours making it concrete and protected rather than hoping for spare time to appear. Deciding in advance when and where something will happen, and treating fragmented free time as usable rather than waiting for an ideal block, tends to convert latent time into actual time."
+  ],
+  "whatDoesNotHelp": [
+    "Generic 'just manage your time better' advice often misses the point, because the problem is frequently allocation and priorities rather than a lack of technique. Optimising a schedule that is already mostly defaults — and assuming more efficiency will create space — tends not to touch the felt shortage.",
+    "Treating busyness as proof of a real time shortage keeps the situation invisible. Feeling rushed is genuine, but it is not the same as having no discretionary time, and conflating the two prevents the honest look at the diary that would actually clarify things.",
+    "Applying the priorities reframe to everyone equally is its own mistake. For people with heavy, non-negotiable obligations — caregiving, multiple jobs, illness — the scarcity is real, and telling them it is 'just priorities' is both inaccurate and unfair. The reframe is a tool for distinguishing the two cases, not for dismissing genuine constraint."
+  ],
+  "realNumbersInContext": [
+    "On average, U.S. adults report roughly five hours a day of leisure and free time in the American Time Use Survey, though this varies widely by employment, gender, and caregiving, and averages conceal people with far less. The headline is not that everyone is awash in time, but that the typical day contains more uncommitted time than the feeling of busyness implies.",
+    "A large share of that time goes to screens and media — by various measures several hours a day on average across devices — which is why fragmented free time so often defaults to a phone rather than to stated priorities. Read together, the numbers point less to an absolute shortage of time for most people and more to how the available time gets spent, frequently on autopilot."
+  ],
+  "realNumbers": [
+    { "value": "~5 hours/day", "label": "Average leisure and free time reported by U.S. adults", "source": "American Time Use Survey (BLS)" },
+    { "value": "Several hours/day", "label": "Average time spent on screens and media", "source": "Time-use and media-use surveys" },
+    { "value": "Estimate ≠ actual", "label": "People misjudge their own time use in time diaries", "source": "Time-diary research (incl. Laura Vanderkam)" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it true that most people have more free time than they think?",
+      "answer": "For most people, the time-use data suggests yes. The American Time Use Survey finds U.S. adults average roughly five hours a day of leisure, and time diaries repeatedly show people underestimate their discretionary time. The free time tends to be fragmented and easy to miss, but it is usually there."
+    },
+    {
+      "question": "So is 'I don't have time' just an excuse?",
+      "answer": "Not an excuse so much as imprecise language. For many people it is more accurately 'this isn't a priority right now,' which is an honest and acceptable thing to admit. But for people with heavy fixed obligations, genuine time scarcity is real — the reframe is a way to tell the two situations apart, not to dismiss the second."
+    },
+    {
+      "question": "Why does swapping 'no time' for 'not a priority' help?",
+      "answer": "Because it moves the situation from something happening to you to something you are choosing, which tends to restore a sense of agency. It also forces an honest look at where time actually goes — sometimes confirming a thing genuinely matters, sometimes revealing it doesn't, and either way clarifying the choice."
+    },
+    {
+      "question": "Where does all the 'missing' time actually go?",
+      "answer": "Often to fragmented defaults rather than to a single big sink. Free time tends to arrive in small pieces between obligations, and those pieces are commonly spent on screens and passive media — several hours a day on average by many measures — because they're the easiest things to pick up and put down."
+    },
+    {
+      "question": "What if I genuinely have no spare time?",
+      "answer": "For some people that is the literal truth, not a framing issue. Caregiving, multiple jobs, illness, and other non-negotiable demands can leave very little discretionary time, and the priorities reframe doesn't apply. A few days of a rough time diary is the honest way to find out which case you're actually in."
+    }
+  ],
+  "dataSources": [
+    "American Time Use Survey (U.S. Bureau of Labor Statistics) — average leisure and free time per day.",
+    "Vanderkam, L. — time-diary research and writing on the gap between estimated and actual time use.",
+    "Research on perceived time pressure versus measured time use (busyness as a feeling distinct from available hours).",
+    "Time-use and media-use surveys — average daily time spent on screens and media."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-much-free-time-do-you-actually-need",
+    "does-planning-your-day-actually-help"
+  ],
+  "lastReviewed": "2026-06"
+}

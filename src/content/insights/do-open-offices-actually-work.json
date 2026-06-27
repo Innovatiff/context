@@ -1,0 +1,70 @@
+{
+  "title": "Do Open-Plan Offices Actually Work?",
+  "slug": "do-open-offices-actually-work",
+  "category": "work-and-career",
+  "metaTitle": "Do Open-Plan Offices Actually Work? What the Research Shows",
+  "metaDescription": "The evidence on open-plan offices is largely unkind. A key study found face-to-face interaction dropped after the switch, not rose. What research shows.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "The collaboration case for fully open offices is weak: a notable field study found face-to-face interaction fell after the switch while digital messaging rose, alongside more distraction and noise, though open plans do cut real-estate costs.",
+  "honestAnswer": [
+    "The main promise of open-plan offices — that knocking down walls makes people collaborate more — is not well supported by the evidence, and in at least one careful study the opposite happened. When firms moved to open layouts, face-to-face interaction tended to fall rather than rise, while email and instant messaging went up. Open plans also tend to bring more noise and distraction.",
+    "This is not a blanket verdict that they never work. Some people and some tasks do fine in them, and open layouts genuinely cut real-estate costs, which is a real reason organisations choose them. The honest point is narrower: the collaboration rationale that is usually used to justify them is weak, and the research leans against fully open plans."
+  ],
+  "whatDataShows": [
+    "The most-cited evidence comes from a 2018 field study by Ethan Bernstein and Stephen Turban, published in the Philosophical Transactions of the Royal Society B. Using sensors and electronic communication data at firms that switched to open offices, they found that face-to-face interaction actually dropped — by roughly 70% in their data — while email and instant messaging rose substantially. Rather than collaborating more in person, people appeared to retreat: putting on headphones and shifting to digital channels.",
+    "A plausible mechanism is that when everyone is visible and audible, people protect their attention and privacy by withdrawing, which undercuts the spontaneous conversation open plans are meant to create. The intuitive idea that removing walls produces more in-person collaboration was not borne out, and was in some respects reversed.",
+    "Beyond that study, the broader literature on open-plan offices associates them with more distraction and noise, and some studies report effects such as more reported sick days, though findings vary across workplaces and methods. The clearest and most consistent benefit is on the cost side: open layouts fit more people into less space, lowering real-estate expense."
+  ],
+  "whyItFeelsDifferent": [
+    "Open offices look collaborative, which is part of why the rationale persists. Seeing everyone in one room creates a strong impression of a connected, communicative team, and that visible buzz is easy to mistake for productive interaction even when much of the real communication has quietly moved to chat.",
+    "The cost incentive also tends to be reframed as a culture story. 'We're breaking down silos' is a more appealing justification than 'we're reducing square footage per employee,' so the collaboration narrative gets emphasised even when the underlying driver is real estate. That can leave employees feeling that their experience of distraction contradicts an official story of togetherness.",
+    "Individual variation muddies it further. Because some people and some tasks genuinely do fine in open layouts, anyone can point to a colleague who thrives, which makes the average effect easy to dismiss. The research is about the general pattern, not a claim that the layout fails for everyone."
+  ],
+  "whatResearchSaysToDo": [
+    "The evidence points toward giving people control over their environment rather than committing to a single fully open floor. Layouts that mix open areas with quiet rooms, focus spaces, and the ability to opt out of noise tend to fit the finding that different people and tasks need different conditions — deep focus work in particular suffers in high-distraction settings.",
+    "Because the Bernstein and Turban study suggests interaction moved to digital channels, it is also worth being deliberate about how collaboration is actually supposed to happen, rather than assuming proximity alone produces it. Structured opportunities to talk can do more for real collaboration than simply seating people closer together.",
+    "If a workplace is open and that is not changing, the practical research-backed coping tools are the ordinary ones: managing noise (including headphones and quiet zones), protecting blocks of focused time, and using booked rooms for work that needs concentration. These do not fix the layout, but they address its most documented downside — distraction."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming that removing walls automatically increases collaboration does not help, because the best field evidence found the opposite — face-to-face interaction fell and digital messaging rose. Proximity alone does not reliably produce more in-person communication.",
+    "Justifying a fully open plan purely on collaboration grounds is not well supported. The honest justification is usually cost. Dressing a real-estate decision up as a culture or innovation strategy tends to clash with employees' lived experience of noise and distraction.",
+    "Going to the opposite extreme and declaring open offices a total failure also overstates the evidence. Some people and tasks do fine in them, findings on outcomes like sick days vary, and the cost savings are real. The supported conclusion is specifically that the collaboration promise is weak — not that open plans never work for anyone."
+  ],
+  "realNumbersInContext": [
+    "The headline figure people remember is from Bernstein and Turban (2018): face-to-face interaction fell by roughly 70% after firms moved to open offices, while email and instant messaging rose. That figure comes from specific firms in one study, so it is best read as a striking, well-measured example rather than a universal constant — but it points in the opposite direction from the usual collaboration claim.",
+    "Other effects are real but less precise. The broader open-plan literature links these layouts to more noise and distraction, and some studies report more sick days, with results that differ by workplace. The most dependable advantage remains cost: more people in less space. Taken together, the numbers support a hedged conclusion — open plans save money and reliably add distraction, while their collaboration benefits are weak and sometimes negative."
+  ],
+  "realNumbers": [
+    { "value": "~70%", "label": "Drop in face-to-face interaction after firms moved to open offices, in one field study", "source": "Bernstein & Turban (2018), Phil. Trans. R. Soc. B" },
+    { "value": "Rose", "label": "Email and instant-messaging volume after the switch to open plan", "source": "Bernstein & Turban (2018)" },
+    { "value": "More", "label": "Distraction and noise associated with open-plan layouts across studies", "source": "Research on open-plan offices" }
+  ],
+  "faqs": [
+    {
+      "question": "Do open offices actually increase collaboration?",
+      "answer": "The best field evidence says no — and sometimes the reverse. Bernstein and Turban's 2018 study found that after firms moved to open offices, face-to-face interaction dropped by roughly 70% while email and instant messaging rose. People tended to put on headphones and retreat rather than talk more in person."
+    },
+    {
+      "question": "Are there any benefits to open-plan offices?",
+      "answer": "Yes. The clearest, most consistent benefit is cost: open layouts fit more people into less space, lowering real-estate expense. Some people and some tasks also do fine in them. The weak part is specifically the collaboration rationale used to justify them, not every possible benefit."
+    },
+    {
+      "question": "Do open offices make people sick more often?",
+      "answer": "Some studies report more sick days in open-plan settings, but findings vary across workplaces and methods, so this is less firmly established than the collaboration and distraction results. Treat it as a plausible association rather than a settled fact."
+    },
+    {
+      "question": "If my office is open and won't change, what helps?",
+      "answer": "The research-backed coping tools are practical ones: managing noise with headphones and quiet zones, protecting blocks of focused time, and booking rooms for work needing concentration. These address the most documented downside — distraction — even though they don't change the layout itself."
+    }
+  ],
+  "dataSources": [
+    "Bernstein, E. S., & Turban, S. (2018). The impact of the 'open' workspace on human collaboration. Philosophical Transactions of the Royal Society B, 373(1753).",
+    "Research on open-plan offices, noise, and distraction (workplace environment and concentration studies)."
+  ],
+  "relatedInsights": [
+    "why-do-meetings-feel-like-such-a-waste-of-time",
+    "does-working-from-home-actually-work",
+    "how-many-hours-can-you-actually-focus-in-a-day"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Why Do We Feel Worse in the Winter?",
+  "slug": "why-do-we-feel-worse-in-the-winter",
+  "category": "health-and-energy",
+  "metaTitle": "Why Do We Feel Worse in the Winter?",
+  "metaDescription": "Less daylight shifts mood and energy for many people. What the research shows about winter blues, Seasonal Affective Disorder, and what actually helps.",
+  "lifeArea": "Health & Energy",
+  "keyFinding": "Reduced winter daylight lowers mood and energy for many people through disrupted circadian rhythms and less light exposure, ranging from common, mild 'winter blues' to a smaller number who experience clinical Seasonal Affective Disorder.",
+  "honestAnswer": [
+    "Feeling lower in winter is common, and it is largely about light. As daylight shortens, many people notice dips in mood, energy, and motivation, often with more sleep and stronger cravings for carbohydrates. The leading explanation is that less daylight disrupts the body's circadian rhythms — its internal clock — and reduces the light exposure that helps regulate mood and alertness.",
+    "It helps to separate two things. A minority of people experience Seasonal Affective Disorder (SAD), a recurrent form of depression that follows the seasons and is a clinical condition. Many more experience milder \"winter blues\" — real but less severe dips that fall short of clinical depression. Both are normal in the sense that they are widely reported; they differ in severity, not in being legitimate.",
+    "This page is educational context only and not medical advice. If your low mood is persistent, severe, or interferes with daily life, please see a qualified clinician. If you are in crisis or thinking about harming yourself, contact emergency help right away — in the US you can call or text 988 (the Suicide and Crisis Lifeline)."
+  ],
+  "whatDataShows": [
+    "The clinical picture of seasonal depression was described in the 1980s by Rosenthal and colleagues, who named Seasonal Affective Disorder and identified its recurrent, seasonal pattern. It is now generally classified not as a separate illness but as a seasonal pattern of depression — most often with winter onset — characterised by low mood alongside features like increased sleep, low energy, and increased appetite, particularly for carbohydrates.",
+    "Clinical SAD affects a relatively small share of people, while milder seasonal mood changes are far more widespread. Surveys consistently find that a much larger group reports noticeable but non-clinical winter dips — the \"winter blues\" — than the smaller group who meet the threshold for a seasonal depression diagnosis. Exact prevalence figures vary by location and method, so they are best treated as approximate.",
+    "Geography matters. Research on latitude finds that seasonal mood problems tend to be reported more often farther from the equator, where the swing in daylight between summer and winter is larger — consistent with light exposure being a central mechanism, though other factors like climate and culture also play a role and the latitude link is not perfectly tidy across all studies."
+  ],
+  "whyItFeelsDifferent": [
+    "Winter lows can feel like a personal failing — less discipline, less drive — when they are more plausibly a physiological response to a changed light environment. Because the change is gradual and invisible, it is easy to attribute the dip to yourself rather than to shorter days and less morning light.",
+    "It can also feel confusing because the dips are real but often mild, and the language is loaded. Hearing \"it's just winter blues\" can feel dismissive, while \"maybe it's SAD\" can feel alarming. The honest framing is a spectrum: many people sit in the mild-but-real middle, and a smaller number experience something clinical that deserves treatment.",
+    "And modern life can mask the cause. Spending most daylight hours indoors, under artificial light, means many people get far less bright light in winter than their biology evolved with — so the slump can appear even in people who do not think of themselves as sensitive to weather."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistently supported responses center on light and rhythm. Getting more daylight — especially in the morning, by going outside or sitting near a bright window — and keeping a regular sleep and activity schedule both help stabilise the circadian system that winter disrupts. Daytime physical activity is also linked to better mood and energy.",
+    "For people with clinical SAD, bright light therapy using a specialised light box is one of the better-studied treatments, and is typically used under guidance about timing and intensity. Talk therapy (including cognitive behavioural approaches adapted for seasonal patterns) and, where appropriate, other treatments are also options a clinician can discuss. Light therapy is a medical intervention for some people, not a casual gadget, so professional advice on whether and how to use it is sensible.",
+    "Most importantly, severity should guide the response. Mild winter dips often ease with more light, movement, and routine. But persistent, severe, or worsening low mood is a reason to see a qualified clinician rather than to wait it out — this page is educational only and cannot assess your situation."
+  ],
+  "whatDoesNotHelp": [
+    "Pushing through with sheer willpower while staying indoors all day does little, because it leaves the likely driver — low light exposure and a disrupted body clock — untouched. The slump is not mainly a motivation problem to be muscled past.",
+    "Self-medicating with extra alcohol or large amounts of comfort food tends to backfire; alcohol in particular can worsen sleep and mood, and the temporary lift does not address the underlying pattern. Oversleeping well beyond your usual need can also leave many people feeling more sluggish rather than restored.",
+    "Buying an unguided light device and using it haphazardly — wrong timing, wrong intensity — may do little and is not a substitute for assessment when symptoms are significant. And assuming a serious, persistent low mood is 'just winter' can delay care that would help; when in doubt, that is a question for a clinician, not an article."
+  ],
+  "realNumbersInContext": [
+    "Seasonal Affective Disorder, the clinical winter-pattern depression first described by Rosenthal and colleagues in the 1980s, affects a relatively small share of the population, while a substantially larger group reports milder, non-clinical 'winter blues.' Precise prevalence varies by study and location and is best read as approximate rather than fixed.",
+    "Reports of seasonal mood problems tend to rise with distance from the equator, where winter daylight is scarcest — consistent with light being a central mechanism, though the latitude relationship is not perfectly consistent across all research. These are population patterns, not a diagnosis. This page is educational only and not medical advice; for persistent or severe symptoms see a qualified clinician, and in a crisis in the US call or text 988."
+  ],
+  "realNumbers": [
+    { "value": "1980s", "label": "When Rosenthal and colleagues first described and named Seasonal Affective Disorder", "source": "Rosenthal et al., research on SAD" },
+    { "value": "Minority", "label": "Share of people experiencing clinical SAD, versus a larger group with milder 'winter blues'", "source": "Research on Seasonal Affective Disorder" },
+    { "value": "Rises with latitude", "label": "Reported seasonal mood problems tend to increase with distance from the equator", "source": "Latitude and seasonal mood studies" }
+  ],
+  "faqs": [
+    {
+      "question": "Why do I feel so low and tired in winter?",
+      "answer": "For many people it is largely about light. Shorter days reduce light exposure and disrupt the body's circadian rhythms, which can lower mood, energy, and motivation and increase sleep and carbohydrate cravings. This is a common, physiological response, not a sign of weak willpower."
+    },
+    {
+      "question": "What's the difference between 'winter blues' and SAD?",
+      "answer": "They differ mainly in severity. 'Winter blues' are real but milder dips in mood and energy that fall short of clinical depression. Seasonal Affective Disorder is a recurrent, seasonal form of depression that meets clinical criteria. Many people experience the milder version; a smaller number experience clinical SAD, which warrants professional treatment."
+    },
+    {
+      "question": "Does where I live affect this?",
+      "answer": "It appears to. Research finds seasonal mood problems are generally reported more often farther from the equator, where winter daylight is scarcest — consistent with light being a key driver. The relationship is not perfectly uniform across studies, and climate and culture also play a role."
+    },
+    {
+      "question": "What actually helps with winter low mood?",
+      "answer": "The best-supported steps involve light and routine: more daylight (especially in the morning), regular sleep and activity schedules, and daytime physical activity. For clinical SAD, light therapy and talk therapy are well-studied options. Light therapy is a medical intervention for some people, so it is worth getting clinical guidance on timing and intensity."
+    },
+    {
+      "question": "When should I see a professional?",
+      "answer": "If your low mood is persistent, severe, or interfering with daily life, see a qualified clinician rather than waiting it out — this page is educational only and cannot assess you. If you are in crisis or thinking about harming yourself, get help immediately; in the US you can call or text 988, the Suicide and Crisis Lifeline."
+    }
+  ],
+  "dataSources": [
+    "Rosenthal, N. E., and colleagues — original description and naming of Seasonal Affective Disorder (1980s).",
+    "Circadian-rhythm and light-exposure research on seasonal changes in mood and energy.",
+    "Latitude and seasonal mood studies examining how reported seasonal mood problems vary with distance from the equator."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-tired-all-the-time",
+    "how-much-sleep-do-people-actually-get",
+    "what-is-a-normal-amount-of-anxiety-to-live-with"
+  ],
+  "lastReviewed": "2026-06"
+}
