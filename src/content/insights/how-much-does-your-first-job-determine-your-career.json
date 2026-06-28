@@ -1,0 +1,74 @@
+{
+  "title": "How Much Does Your First Job Determine Your Career?",
+  "slug": "how-much-does-your-first-job-determine-your-career",
+  "category": "work-and-career",
+  "metaTitle": "Does Your First Job Determine Your Career? What Research Shows",
+  "metaDescription": "Your first job tilts your path more than feels fair through salary anchoring and early networks, but the effect fades and mid-career change is common.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "The first job tilts a career through compounding pay anchors, early skills, and networks — an effect that is real and larger than most people expect, but that erodes over time and is far from destiny.",
+  "honestAnswer": [
+    "More than feels fair, but it is not destiny. The job you start in genuinely tilts your trajectory — mainly because early pay anchors later pay, early skills shape what you do next, and early networks open or close doors. Research on this consistently finds that where you begin leaves a measurable mark for years.",
+    "But 'a measurable mark for years' is not 'a sentence for life.' The same research shows the effect fading over time, and a large share of people change direction, sometimes dramatically. The honest picture is that your first job loads the dice without deciding the roll."
+  ],
+  "whatDataShows": [
+    "The cleanest evidence comes from people who graduate into a recession through no fault of their own. A widely cited 2012 study by Oreopoulos, von Wachter and Heisz found that workers who entered the labour market in a downturn earned noticeably less than otherwise-similar peers who started in better years — and the earnings gap persisted for roughly a decade before largely closing. Because the only difference was the timing of their first job, this is strong evidence that early conditions, not just ability, shape the path.",
+    "The mechanisms are fairly well understood. Raises and later offers are often calculated as a percentage of your current salary, so a low or high starting figure compounds forward — a form of salary anchoring. Early roles also determine which skills you build first and which professional networks you join, both of which steer the next move more than the one after that.",
+    "Crucially, the same recession studies show the effect is not permanent. The earnings penalty shrinks year by year as people switch employers, gain experience, and re-sort into better-matched roles. Path dependence is real, but it decays — the starting point matters most early and matters less the further out you look."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like your first job is everything because the early effects are the most visible ones. The salary gap, the title, the company name on your CV — these are concrete and immediate, while the slow erosion of that gap over a decade is invisible in the moment. You feel the anchor far more than you feel it loosening.",
+    "Hindsight also makes paths look more inevitable than they were. Looking back, a career reads like a straight line of consequences from the first job, but that narrative hides all the switches, lucky breaks, and lateral moves that actually shaped it. The story feels deterministic mainly because we only see the route that happened.",
+    "And the pressure is amplified by a cultural script that treats the first job as a permanent identity. For most of history and for most people, careers are far more winding than that script suggests — but the script makes a single early choice feel like it carries the weight of the whole future."
+  ],
+  "whatResearchSaysToDo": [
+    "Because so much compounds off the starting salary, the evidence suggests early pay is worth attending to — negotiating the first offer, and not staying too long somewhere underpaid, both push against the anchoring effect. Since later raises are often percentages of the current figure, an adjustment early is worth more than the same adjustment later.",
+    "The recession research also points to switching as the main repair mechanism: the people whose early penalty closed fastest tended to be those who changed employers and re-sorted into better-matched roles rather than waiting in place. Movement, not patience, is what generally narrows an early gap.",
+    "Investing in transferable skills and a wider network early is the other lever, because both are what carry you across a change of direction. The data treats the first job less as a destination and more as a launch angle — useful to set well, but adjustable in flight."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the first job as a verdict on your potential does not help and is not what the data supports. A weak start, including one caused by bad timing like a recession, is something the research shows people commonly recover from — reading it as proof of a ceiling is both inaccurate and self-fulfilling.",
+    "Staying in an underpaid or poorly-matched first role out of loyalty or fear, hoping internal raises will fix it, tends to work against you, because those raises compound off the low anchor and the recession studies suggest in-place patience closes early gaps slowly.",
+    "Chasing only the most prestigious first employer, at the expense of skill-building or pay, is a weaker strategy than it feels. Name recognition helps at the margin, but the durable drivers in the research are the salary anchor, the skills you build, and the network you can actually use later."
+  ],
+  "realNumbersInContext": [
+    "In the recession-graduate research (Oreopoulos, von Wachter & Heisz, 2012), the earnings penalty for starting in a downturn was substantial in the first year and then faded over roughly the following decade — a clear, time-limited tilt rather than a permanent one. The exact size varied by graduate and study, so it is best held as 'meaningful but eroding,' not a single fixed figure.",
+    "The wider context is that careers are mobile. Most people hold many jobs over a working life and a significant share change fields entirely, including well after 40. So while the first job sets a measurable starting angle, the population pattern is one of repeated change, not a single locked-in path."
+  ],
+  "realNumbers": [
+    { "value": "~10 years", "label": "Roughly how long the early-career earnings penalty persisted before largely fading", "source": "Oreopoulos, von Wachter & Heisz, 2012" },
+    { "value": "Fades", "label": "Direction of the first-job effect over time as people switch and re-sort", "source": "Recession-graduate research" },
+    { "value": "% of current", "label": "How later raises are often calculated — why the starting salary anchors forward", "source": "Salary anchoring / path-dependence research" }
+  ],
+  "faqs": [
+    {
+      "question": "Does your first job really affect your salary for years?",
+      "answer": "The evidence suggests it does. Because later raises and offers are frequently set as a percentage of your current pay, a low or high starting salary compounds forward. The recession-graduate research found early earnings differences persisting for roughly a decade before largely closing."
+    },
+    {
+      "question": "If I started in a bad job, am I stuck?",
+      "answer": "No. The same research that shows an early disadvantage also shows it eroding over time, mostly for people who change employers and move into better-matched roles. A weak or badly-timed start is something people commonly recover from rather than a permanent ceiling."
+    },
+    {
+      "question": "Why does my first job feel so much more important than it is?",
+      "answer": "Because its effects are the most visible early on — the salary, title and company name are concrete and immediate — while the slow narrowing of that gap over years is invisible in the moment. Hindsight then makes the path look more inevitable than it was."
+    },
+    {
+      "question": "What matters more: a prestigious first employer or a good salary and skills?",
+      "answer": "The durable drivers in the research are the starting salary anchor, the skills you build early, and the network you can actually use later. Prestige helps at the margin, but it is a weaker lever than pay and transferable skills."
+    },
+    {
+      "question": "Is it worth negotiating my first offer?",
+      "answer": "Generally yes, because so much compounds off that first number. Since later raises are often percentages of current pay, an adjustment to the starting salary tends to be worth more than the same adjustment made years later."
+    }
+  ],
+  "dataSources": [
+    "Oreopoulos, P., von Wachter, T., & Heisz, A. (2012). The Short- and Long-Term Career Effects of Graduating in a Recession. American Economic Journal: Applied Economics, 4(1), 1–29.",
+    "Research on salary anchoring and path dependence in early careers — the role of starting pay, early skills, and networks in shaping later trajectories."
+  ],
+  "relatedInsights": [
+    "how-much-of-success-is-luck-vs-skill",
+    "how-many-people-actually-achieve-the-life-they-planned-at-22",
+    "what-research-shows-about-changing-careers-after-40"
+  ],
+  "lastReviewed": "2026-06"
+}

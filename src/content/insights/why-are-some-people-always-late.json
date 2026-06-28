@@ -1,0 +1,76 @@
+{
+  "title": "Why Are Some People Always Late?",
+  "slug": "why-are-some-people-always-late",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Why Are Some People Always Late? What the Research Shows",
+  "metaDescription": "Chronic lateness is usually a problem of time estimation, not disrespect. Here is what research on the planning fallacy and time optimism actually shows.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Chronic lateness is more often a problem of systematically underestimating how long things take — the planning fallacy and time optimism — than a sign of disrespect or a fixed character flaw, and it tends to improve with buffers and time-tracking.",
+  "honestAnswer": [
+    "For most people who are chronically late, the cause is far more mundane than disrespect: they genuinely misjudge how long things take. The dominant pattern in the research is that we systematically underestimate the time required for our own tasks — a bias robust enough that psychologists named it the planning fallacy. Lateness is, in large part, a perception and estimation problem rather than a moral one.",
+    "That reframing matters, because the way we talk about lateness — as rudeness, selfishness, or a lack of caring — usually points at the wrong target. It also means the problem is more changeable than it feels. If lateness were simply who you are, there would be little to do about it. If it is mostly an estimation error, it responds to estimation fixes like buffers and tracking."
+  ],
+  "whatDataShows": [
+    "The foundational finding is the planning fallacy, described by Daniel Kahneman and Amos Tversky and developed in later work by Roger Buehler and colleagues. The core result is consistent: people predict that their own tasks will take less time than they actually do, even when they can recall that similar past tasks ran long. The bias is specific to our own plans — we are often realistic about how long things take other people.",
+    "Related research describes a tendency sometimes called time optimism: a habit of assuming the next stretch of time will go more smoothly than usual, that traffic will be light, that nothing will run over, that the small things in between will take no time at all. Difficulty with time estimation in general — judging how much has passed and how much a task will need — appears to track with chronic lateness more closely than attitude or intention does.",
+    "Personality may play a modest role too. The classic Type A and Type B distinction frames Type A individuals as carrying high time-urgency and Type B as more relaxed about time, and a relaxed relationship with deadlines can show up as lateness. Some research has also linked lateness to multitasking tendencies — trying to squeeze one more task into the window before leaving. These links are real but modest; none of them make lateness fixed or inevitable."
+  ],
+  "whyItFeelsDifferent": [
+    "To the person waiting, lateness reads as a choice — a signal about how much they are valued. To the person running late, it almost never feels like a choice. It feels like a series of small, reasonable miscalculations that compounded: the email that took longer than expected, the assumption that the drive would be quick, the belief that there was just enough time for one more thing.",
+    "Part of the gap is that the late person is optimising against an imagined version of the trip where everything goes right, while the cost of being wrong lands on someone else. The planning fallacy makes the optimistic version feel like the realistic one, so the buffer that would absorb the inevitable friction never gets added.",
+    "There is also an over-optimism about catching up: a belief that lost minutes early on can be made back later. In practice the small overruns rarely reverse — they accumulate. By the time it is obvious the plan has slipped, the slack to recover it is already gone."
+  ],
+  "whatResearchSaysToDo": [
+    "The most reliable countermeasure to the planning fallacy is to base estimates on what actually happened last time rather than on how the task feels from the inside. Buehler's work points to 'reference class' thinking — recalling how long the same errand or commute genuinely took before, including the bad days, and planning to that figure rather than the best-case one.",
+    "Time-tracking is the practical version of this. People who measure how long their routine tasks really take — getting ready, the commute, the handover between activities — tend to estimate better afterward, because they replace an optimistic guess with a record. The transitions between tasks are where most of the hidden time hides.",
+    "Building in deliberate buffers absorbs the friction the optimistic plan ignores. Planning to arrive early, rather than exactly on time, treats the inevitable small overruns as expected rather than as failures. Setting the target a fixed margin ahead of the real deadline is a simple, well-supported way to convert chronic lateness into reliable, slightly-early arrival."
+  ],
+  "whatDoesNotHelp": [
+    "Treating lateness purely as a character or respect problem — and resolving to 'care more' or 'try harder' — tends not to work, because the issue is usually estimation rather than effort. People who are mortified by their lateness and sincerely want to change still run late, which is a strong clue that willpower is not the missing ingredient.",
+    "Setting the clock ahead to trick yourself usually fades fast, because you quickly learn the real time and mentally adjust for it. The trick stops working once your brain discounts it, which it does within days.",
+    "Trying to make up lost time by rushing or multitasking at the end rarely closes the gap and often adds errors and stress. The over-optimism about catching up is itself part of the problem; the more durable fix is adding the margin up front rather than racing to recover it later."
+  ],
+  "realNumbersInContext": [
+    "There is no clean population statistic for what share of people are 'chronically late,' and any single percentage you see should be treated with caution. What the research supports is the direction, not a tidy number: the planning fallacy is one of the most replicated findings in judgment research, and the underestimation of one's own task times shows up across many study types.",
+    "The honest takeaway is qualitative. Lateness is common, it is concentrated in people who estimate time optimistically rather than in people who don't care, and it improves measurably when estimates are anchored to past reality and padded with buffers. Framing it as a fixable estimation habit rather than a fixed trait is the part the evidence most strongly supports."
+  ],
+  "realNumbers": [
+    { "value": "Underestimate", "label": "Direction of the bias in predicting how long your own tasks take", "source": "Kahneman & Tversky; Buehler et al. (planning fallacy)" },
+    { "value": "Own tasks", "label": "Where the planning fallacy is strongest — we judge others' timelines better", "source": "Buehler et al." },
+    { "value": "Transitions", "label": "Where hidden time most often accumulates into lateness", "source": "Research on time estimation" }
+  ],
+  "faqs": [
+    {
+      "question": "Does being late mean someone doesn't respect you?",
+      "answer": "Usually not. The research points to time estimation and the planning fallacy — systematically underestimating how long things take — far more than to attitude or disrespect. Many chronically late people are distressed by their lateness and still struggle with it, which suggests the cause is estimation rather than caring."
+    },
+    {
+      "question": "What is the planning fallacy?",
+      "answer": "It is the well-documented tendency, described by Kahneman and Tversky and developed by Buehler and colleagues, to predict that your own tasks will take less time than they actually do — even when you remember similar tasks running long. It is strongest for your own plans; people are often realistic about how long things take others."
+    },
+    {
+      "question": "Can chronic lateness actually be fixed?",
+      "answer": "It tends to improve, though no fix is guaranteed. The most supported approaches are anchoring estimates to how long the task genuinely took before (including bad days), tracking your real times, and building deliberate buffers so you plan to arrive early rather than exactly on time."
+    },
+    {
+      "question": "Is lateness a personality trait?",
+      "answer": "Personality plays a modest role — a more relaxed, Type B relationship with time and a tendency to multitask can contribute — but the evidence does not make lateness fixed. It behaves much more like a changeable estimation habit than an unchangeable trait."
+    },
+    {
+      "question": "Why doesn't setting my clock ahead work?",
+      "answer": "Because you quickly learn the real time and mentally subtract the difference, so the trick loses its effect within days. Anchoring to your actual past times and adding a real buffer to the plan tends to last longer than fooling the clock."
+    }
+  ],
+  "dataSources": [
+    "Kahneman, D., & Tversky, A. — the planning fallacy (intuitive prediction and the tendency to underestimate task completion times).",
+    "Buehler, R., Griffin, D., & Ross, M. — research on the planning fallacy and reference-class forecasting of task times.",
+    "Research on time estimation, time optimism, and chronic lateness.",
+    "Friedman, M., & Rosenman, R. — Type A/Type B behaviour patterns and time urgency."
+  ],
+  "relatedInsights": [
+    "does-planning-your-day-actually-help",
+    "why-do-we-procrastinate-even-when-it-hurts-us",
+    "does-time-management-actually-work"
+  ],
+  "lastReviewed": "2026-06"
+}

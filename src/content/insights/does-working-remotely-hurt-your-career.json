@@ -1,0 +1,75 @@
+{
+  "title": "Does Working Remotely Hurt Your Career?",
+  "slug": "does-working-remotely-hurt-your-career",
+  "category": "work-and-career",
+  "metaTitle": "Does Working Remotely Hurt Your Career? What Research Shows",
+  "metaDescription": "Remote work can carry a real visibility cost for promotions, but the research is nuanced. Here is what the data suggests and how face time changes it.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Fully remote work can carry a modest visibility cost for promotions and raises through proximity bias, but the effect is manageable and largely softened by some in-person time, as in hybrid arrangements.",
+  "honestAnswer": [
+    "It can, modestly, but it is not a sentence — and the size of the effect depends heavily on how remote you are and how deliberately you stay visible. The honest version is that being out of sight can mean being out of mind for promotions and high-profile work, a pattern researchers call proximity bias. Some company data and studies suggest fully remote workers can see slower promotion or smaller raises than otherwise similar in-office peers.",
+    "But the same body of research is far from one-sided. Nicholas Bloom's work on hybrid and remote arrangements found them excellent for retention and roughly neutral for productivity, while flagging genuine concerns about mentorship and visibility rather than a clear career penalty across the board. The most consistent reading is that remote work carries a visibility cost that is real but manageable — and that some in-person time appears to blunt it considerably."
+  ],
+  "whatDataShows": [
+    "Proximity bias is the central mechanism. Research on promotion decisions finds that physical presence and visible face time can sway who gets advanced and who gets the high-visibility assignments, somewhat independently of actual output. When a manager sees you in the room, you are more available to mind when opportunities are handed out — which is exactly the situation a fully remote worker is structurally less likely to be in.",
+    "Nicholas Bloom's hybrid research is the most cited careful evidence here. Across his studies, hybrid and remote arrangements showed strong benefits for retention and were roughly neutral for productivity — employees were not measurably less productive — but he repeatedly flagged that mentorship, informal learning, and visibility are harder to deliver remotely. Some company analyses he and others have pointed to suggest fully remote workers can be promoted more slowly or receive smaller raises than comparable in-office colleagues.",
+    "Crucially, hybrid appears to mitigate much of the visibility penalty. The pattern across this research is that a moderate amount of in-person time — being present for the relationships, mentorship, and face time that drive advancement — captures most of the upside of being in the office while keeping the flexibility of remote work. The sharpest concerns attach to fully remote arrangements with little or no face time, not to remote work as a category."
+  ],
+  "whyItFeelsDifferent": [
+    "From a remote worker's seat, the cost is largely invisible. You can see your own output clearly and feel that you are performing well, so the idea that you might be quietly overlooked for a stretch assignment or a promotion feels unfair or even paranoid. Proximity bias rarely announces itself; it shows up as the opportunity that went to the person down the hall, framed as a coincidence rather than a pattern.",
+    "It also feels different because the trade-off is genuinely mixed rather than all bad. Remote work tends to improve day-to-day wellbeing, cut commuting time, and raise retention, so the experience of working remotely often feels like a clear win — which makes a slower advancement curve harder to notice or attribute. The benefits are immediate and felt; the visibility cost is gradual and easy to miss.",
+    "And the cultural conversation is polarised, swinging between 'remote ends careers' and 'office presence is pointless theatre.' Neither extreme matches the evidence, which describes a modest, conditional cost that depends on visibility and face time. The polarisation makes it hard to hold the calmer, more accurate picture in mind."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent lever is deliberate visibility rather than presence for its own sake. Since the underlying issue is being out of mind, the research points toward making your work and contributions legible to decision-makers — sharing progress, taking on visible cross-team work, and ensuring the people who shape promotions actually know what you are doing. This addresses the mechanism directly rather than requiring you to abandon remote work.",
+    "Some face time appears to do a disproportionate amount of the work. The hybrid evidence suggests that a moderate, regular amount of in-person contact — anchored around mentorship, relationship-building, and the moments when assignments get handed out — captures much of the office's career upside without forgoing flexibility. If your context allows it, a deliberate hybrid rhythm is the arrangement the data treats most favourably.",
+    "Securing access to mentorship and sponsorship matters, because these are the things Bloom's research flags as hardest to get remotely. Actively seeking out a mentor, and ideally a sponsor who will advocate for you in rooms you are not in, can offset the informal-learning and advocacy gap that remote arrangements create by default."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming output alone will speak for itself is the most common misread. The research on proximity bias is precisely that visible presence can sway decisions somewhat independently of measured performance, so doing excellent but invisible work is exactly the trap. Quietly excelling without ensuring decision-makers see it does not reliably protect your trajectory.",
+    "Performative busyness — long visible hours, constant online-status signalling, replying to messages at all times to seem present — is a poor substitute for genuine visibility into your contributions, and it tends to drive burnout without changing how your actual work is perceived. Looking busy is not the same as being known for meaningful work.",
+    "Treating the choice as all-or-nothing rarely helps either. The evidence does not say you must return to the office full-time to protect your career; the sharpest concerns are about fully remote arrangements with no face time, and the hybrid middle captures most of the benefit. Overcorrecting into full-time presence forfeits real, well-documented gains in wellbeing and retention for a smaller marginal career return."
+  ],
+  "realNumbersInContext": [
+    "The clearest things the research supports are directional rather than precise. Nicholas Bloom's hybrid studies found remote and hybrid work strongly improved retention — in some experiments cutting attrition by roughly a third — and were about neutral for productivity, while explicitly flagging mentorship and visibility as the weak points rather than output. Treat the promotion-gap figures floating around as approximate and context-dependent; the direction of the effect is better established than any single number.",
+    "Where company analyses do report a gap, fully remote workers are sometimes described as promoted somewhat more slowly or receiving modestly smaller raises than comparable in-office peers — but these are firm-specific and not a universal law, and hybrid workers tend to look much closer to in-office peers. The honest summary is a real, modest, conditional visibility cost concentrated in fully remote arrangements, not a uniform penalty on remote work."
+  ],
+  "realNumbers": [
+    { "value": "~Neutral", "label": "Effect of hybrid/remote work on productivity in Bloom's research", "source": "Nicholas Bloom, hybrid/remote studies" },
+    { "value": "Higher", "label": "Retention under hybrid/remote (attrition fell substantially in trials)", "source": "Nicholas Bloom, hybrid/remote studies" },
+    { "value": "Modest cost", "label": "Visibility/promotion effect, concentrated in fully remote roles", "source": "Research on proximity bias in promotions" },
+    { "value": "Mitigated", "label": "Visibility penalty when some in-person time is present (hybrid)", "source": "Nicholas Bloom, hybrid/remote studies" }
+  ],
+  "faqs": [
+    {
+      "question": "Will working remotely stop me from getting promoted?",
+      "answer": "Not by itself. The research describes a modest visibility cost from proximity bias — being out of sight can mean being out of mind — concentrated in fully remote roles with little face time. It is a tendency, not a rule, and deliberate visibility plus some in-person time appear to offset much of it."
+    },
+    {
+      "question": "Is hybrid work better for my career than fully remote?",
+      "answer": "On the available evidence, hybrid tends to look most favourable. It captures much of remote work's flexibility and wellbeing benefits while restoring the face time, mentorship, and visibility that drive advancement. The sharpest career concerns in the research attach to fully remote arrangements with no in-person contact."
+    },
+    {
+      "question": "Does remote work make people less productive?",
+      "answer": "Nicholas Bloom's research found hybrid and remote work roughly neutral for productivity — employees were not measurably less productive — and clearly better for retention. The career concern is about visibility and mentorship, not output."
+    },
+    {
+      "question": "What is proximity bias?",
+      "answer": "It is the tendency for managers to favour the people they physically see — for high-visibility work, raises, and promotions — somewhat independently of actual performance. It is the main mechanism by which fully remote workers can be quietly overlooked, and the reason deliberate visibility matters."
+    },
+    {
+      "question": "How can I protect my career while working remotely?",
+      "answer": "Make your contributions visible to decision-makers, seek out mentorship and ideally a sponsor who advocates for you, and arrange some regular face time if you can. The research suggests these address the actual mechanism — being out of mind — better than simply working harder in private."
+    }
+  ],
+  "dataSources": [
+    "Bloom, N. — research on hybrid and remote work (productivity, retention, and concerns about mentorship and visibility/promotion).",
+    "Research on proximity bias in promotion and advancement decisions (the effect of visibility and face time on who is promoted)."
+  ],
+  "relatedInsights": [
+    "does-working-from-home-actually-work",
+    "why-do-some-people-get-promoted-and-others-dont",
+    "does-getting-promoted-actually-make-you-happier"
+  ],
+  "lastReviewed": "2026-06"
+}

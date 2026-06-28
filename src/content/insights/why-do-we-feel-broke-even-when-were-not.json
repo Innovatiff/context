@@ -1,0 +1,77 @@
+{
+  "title": "Why Do We Feel Broke Even When We're Not?",
+  "slug": "why-do-we-feel-broke-even-when-were-not",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Why Do We Feel Broke Even When We're Not?",
+  "metaDescription": "Feeling broke is shaped by perception, comparison, and habit as much as by your balance. Here is what research on scarcity and rising expectations suggests.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Feeling broke is shaped by perception, comparison, and spending habits at least as much as by your actual balances, so the feeling can persist even when the numbers say you are fine.",
+  "honestAnswer": [
+    "Feeling broke and being broke are not the same thing, and the research suggests they come apart far more often than people assume. The sense of financial strain is shaped by where your attention goes, what you compare yourself to, and how your expectations have crept up over time — not only by what is in your account. That is why a higher income so often fails to deliver the relief people expected from it.",
+    "None of this means the feeling is imaginary or that anyone is doing something wrong. It means the feeling is being driven by perception, comparison, and habit in addition to your real numbers — and those inputs can stay distorted even after the underlying shortage is gone."
+  ],
+  "whatDataShows": [
+    "One influential line of work, summarised by Sendhil Mullainathan and Eldar Shafir in their book \"Scarcity\" (2013), describes how the experience of not having enough captures attention. Feeling short on money, they argue, creates a kind of mental tunneling — it pulls focus toward the immediate shortfall and taxes the bandwidth available for everything else. The relevant point here is that this captured, anxious state is a response to the feeling of scarcity, and the research suggests it can outlast the actual shortage rather than switching off the moment the balance recovers.",
+    "A second factor is that expectations rise with income. The economist Richard Easterlin's work on aspirations describes a recurring pattern: as people earn and spend more, their reference point for a 'normal' life climbs to match, so the new income quickly feels ordinary rather than abundant. This is closely related to what is popularly called lifestyle inflation — spending expands to fill the available income, leaving the felt margin roughly where it was before.",
+    "A third factor is comparison. Leon Festinger's foundational 1954 theory of social comparison holds that, lacking objective standards, people evaluate themselves against others. Applied to money, this keeps the goalposts moving: whatever you have is measured against what visible others appear to have, so the bar rises as fast as you do. The popular term 'money dysmorphia' has emerged to describe exactly this — feeling broke or financially behind despite being, by the numbers, financially fine."
+  ],
+  "whyItFeelsDifferent": [
+    "The first reason it feels different is attention. When money is on your mind, the scarcity research suggests your focus narrows toward the shortfall, which makes the strain feel more total and more permanent than the balance sheet would imply. The feeling is loud precisely because it is consuming bandwidth, not because the gap is large.",
+    "The second reason is that the reference point quietly moves. A salary that would have felt generous a few years ago becomes the new baseline, and spending expands to meet it, so the subjective sense of margin barely changes. You are not comparing your finances to last year's standard of living — you are comparing them to a constantly updated picture of what 'enough' looks like.",
+    "The third reason is that the comparison set is curated and upward. You cannot see anyone's bank balance, only their visible spending, which is often debt-financed and a poor proxy for actual wealth. So the people who appear comfortable set a standard that may not be real, and measuring yourself against it manufactures a feeling of shortage that the underlying numbers do not support."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the feeling is driven partly by where attention lands, anything that converts a vague sense of scarcity into concrete numbers tends to help. Looking honestly at what you actually have, spend, and owe — rather than carrying an anxious impression of it — narrows the gap between the felt picture and the real one. The research on scarcity suggests that uncertainty itself is part of what taxes mental bandwidth.",
+    "Addressing the reference point directly also helps. Because expectations climb to meet income, deliberately holding some spending steady when income rises — rather than letting lifestyle inflate automatically — keeps the felt margin intact. The point is not austerity; it is noticing the upward drift of 'normal' and choosing where it goes rather than letting it default upward.",
+    "Correcting the comparison set is the third lever. Since visible spending is a weak proxy for wealth and the comparison runs upward, widening the frame toward real population data — where most people actually stand on savings and security — tends to bring the felt 'normal' back toward reality. The feeling responds to a less distorted input."
+  ],
+  "whatDoesNotHelp": [
+    "Simply earning more does not reliably fix the feeling, and the research on rising aspirations explains why: expectations and spending tend to rise to meet the new income, so the felt shortage often migrates upward rather than disappearing. People frequently report feeling just as stretched after a raise as before it.",
+    "Consuming aspirational money content — net-worth-by-age videos, lifestyle feeds, 'how much you should have' targets — generally makes the feeling worse, not better, because it raises the reference point you measure yourself against and sharpens the upward comparison that drives the sense of being broke.",
+    "Reassuring yourself that you are 'doing fine' without looking at the actual numbers tends to be weak and short-lived, because the feeling is partly fed by uncertainty. Vague positive self-talk leaves the ambiguity in place; concrete context engages the actual source of the distortion."
+  ],
+  "realNumbersInContext": [
+    "Financial fragility is genuinely widespread, which is part of why the feeling is so common even among people who are objectively secure. In the Federal Reserve's 2023 survey, roughly 37% of U.S. adults said they could not cover a $400 emergency expense entirely from cash. So feeling financially exposed is closer to the norm than the exception — but that feeling is not a reliable readout of your actual position relative to others.",
+    "It is also worth holding the bigger frame: median U.S. household income, around $80,610 in 2023, sits in roughly the richest 10–15% of people worldwide. Feeling broke and being broke are different things, and the gap between them is exactly where perception, comparison, and rising expectations do their work. The feeling is real; it is just not a measurement of your balance."
+  ],
+  "realNumbers": [
+    { "value": "~37%", "label": "U.S. adults who couldn't cover a $400 emergency from cash", "source": "Federal Reserve SHED, 2023" },
+    { "value": "Top ~10–15%", "label": "Where U.S.-median household income sits globally", "source": "World Bank / Our World in Data" },
+    { "value": "Logarithmic", "label": "Way wellbeing tends to track income — each raise relieves less than the last", "source": "Income-and-happiness research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is 'money dysmorphia'?",
+      "answer": "It is a popular, non-clinical term for feeling broke or financially behind despite being, by the numbers, financially fine. It captures the gap this page is about: the felt sense of shortage shaped by perception, comparison, and rising expectations rather than by your actual balances."
+    },
+    {
+      "question": "Why do I still feel broke after getting a raise?",
+      "answer": "Research on rising aspirations suggests expectations and spending tend to climb to meet new income, so the felt margin barely changes. A salary that would have thrilled you a few years ago becomes the new baseline, and the sense of shortage often migrates upward rather than disappearing."
+    },
+    {
+      "question": "Is the feeling of being broke just in my head?",
+      "answer": "Not exactly — financial fragility is real and widespread, with a large share of adults unable to cover a small emergency from cash. But the feeling is also shaped by attention, comparison, and habit, which means it can persist or distort even when your real position is secure. Both things are true at once."
+    },
+    {
+      "question": "Does looking at my actual numbers help?",
+      "answer": "Often, yes. The scarcity research suggests uncertainty itself taxes mental bandwidth, so converting a vague sense of strain into concrete figures — what you have, spend, and owe — tends to narrow the gap between the felt picture and the real one. Honest context generally outperforms vague reassurance."
+    },
+    {
+      "question": "How does social comparison make me feel broke?",
+      "answer": "You can see other people's visible spending but not their balances or debts, so visible consumption — a poor proxy for actual wealth — sets a standard that may not be real. Measuring yourself against it keeps the goalposts moving and can manufacture a feeling of shortage the underlying numbers do not support."
+    }
+  ],
+  "dataSources": [
+    "Mullainathan, S., & Shafir, E. (2013). Scarcity: Why Having Too Little Means So Much.",
+    "Easterlin, R. A. — work on rising aspirations and the Easterlin paradox (income, expectations, and reported wellbeing).",
+    "Festinger, L. (1954). A Theory of Social Comparison Processes. Human Relations, 7(2), 117–140.",
+    "Federal Reserve, Report on the Economic Well-Being of U.S. Households (SHED, 2023) — emergency expense coverage.",
+    "U.S. Census Bureau, Income in the United States (2023)."
+  ],
+  "relatedInsights": [
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "why-you-feel-behind-even-when-youre-not",
+    "what-does-financial-security-actually-look-like"
+  ],
+  "lastReviewed": "2026-06"
+}

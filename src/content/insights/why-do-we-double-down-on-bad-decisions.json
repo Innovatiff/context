@@ -1,0 +1,76 @@
+{
+  "title": "Why Do We Double Down on Bad Decisions?",
+  "slug": "why-do-we-double-down-on-bad-decisions",
+  "category": "regret-and-life-decisions",
+  "metaTitle": "Why Do We Double Down on Bad Decisions?",
+  "metaDescription": "Why we invest more in failing choices: escalation of commitment, the sunk-cost fallacy, and loss aversion. What the research suggests helps you stop.",
+  "lifeArea": "Regret & Life Decisions",
+  "keyFinding": "Doubling down on a failing course of action is a predictable, well-documented trap driven by sunk costs, loss aversion, and the wish not to admit error — not a sign of unusual stubbornness.",
+  "honestAnswer": [
+    "We double down on bad decisions because quitting feels like admitting the money, time, or effort already spent was wasted — and that admission is psychologically costly enough that we'll often throw more in to avoid it. Researchers call this escalation of commitment, and it is one of the more reliably reproduced patterns in decision-making. The thing keeping you in is rarely a clear-eyed bet that things will improve; it's the pull of what you've already put in, plus the discomfort of being wrong.",
+    "The honest framing is that this is a structural trap, not a character flaw. The same forces — counting unrecoverable past investment, feeling losses more sharply than gains, and protecting an identity of someone who finishes what they start — act on nearly everyone. Knowing the pattern by name is the first thing that loosens its grip."
+  ],
+  "whatDataShows": [
+    "The foundational work is Barry Staw's research on escalation of commitment, beginning in the 1970s, which found that people who were personally responsible for a prior decision allocated more resources to it after it started failing — not less. The worse the early results, the more some people invested, specifically to justify the original choice. That is the counterintuitive core of the finding: failure can increase commitment rather than prompt withdrawal.",
+    "A large part of the mechanism is the sunk-cost fallacy. Arkes and Blumer's 1985 work showed that people factor past, unrecoverable costs into present decisions even though, rationally, only future costs and benefits should matter. Their classic demonstrations — finishing a meal you've paid for but no longer want, sitting through a film you're not enjoying because the ticket is bought — generalise directly to jobs, relationships, projects, and investments.",
+    "Underneath sits loss aversion, from Kahneman and Tversky's prospect theory: losses loom roughly twice as large as equivalent gains. Walking away crystallises the spent investment as a definite loss, which feels worse than the uncertain prospect of losing more by staying. So the asymmetry of how we weigh losses quietly tilts us toward continuing."
+  ],
+  "whyItFeelsDifferent": [
+    "From the inside, doubling down rarely feels like a bias — it feels like persistence, loyalty, or not being a quitter. Identity does real work here: many people hold a self-image of someone who follows through, and abandoning a failing course threatens that picture more than the practical loss does. The research suggests this self-justification is a major driver of why the person who made the original choice escalates more than an outsider would.",
+    "It also feels different because the past investment is vivid and the future cost is abstract. You can clearly recall the years, the money, the effort already sunk; the additional cost of continuing is hazier and easy to discount. So the books look more favourable to staying than they really are.",
+    "And admitting error is socially and emotionally expensive. Reversing course can feel like a public verdict on your judgment, so people sometimes keep going partly to avoid the moment of saying 'I was wrong' — to themselves or to others. The decision stops being about the project and becomes about defending the earlier decision."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent suggestion is to set kill criteria in advance — concrete conditions, decided before you're emotionally invested, that will tell you when to stop. Because the bias operates by recruiting the original decision-maker's ego, deciding the exit rule ahead of time, while you can still think clearly, sidesteps much of the in-the-moment self-justification.",
+    "Reframing the decision in forward-only terms also helps: ask what you would choose today if you were starting fresh, with no history and no money already spent. This question deliberately strips out the sunk cost, which research suggests is the input that shouldn't be there in the first place. If you wouldn't start this now, that is information about whether to continue.",
+    "Bringing in an outside view is another supported move. Because responsibility for the original choice is what fuels escalation, someone with no stake in having been right — a trusted friend, a neutral adviser — tends to weigh the future costs and benefits more cleanly than you can. Asking 'what would you do here?' borrows their lack of ego involvement."
+  ],
+  "whatDoesNotHelp": [
+    "Simply trying harder or telling yourself to be more disciplined does little, because the trap isn't a willpower problem — it's a distortion in how the decision is being scored. More effort applied to a course you'd never freely choose today usually just deepens the commitment.",
+    "Waiting for certainty before quitting tends to backfire. People often tell themselves they'll stop once it's clearly hopeless, but escalation thrives precisely in ambiguity, and the spent investment keeps the goalposts moving. Holding out for an unmistakable signal can mean the signal never feels decisive enough.",
+    "Dwelling on how much you've already put in — re-totalling the years or the money to motivate yourself — is among the least helpful things, because it foregrounds exactly the sunk cost the research says should be ignored. It feels like accountability, but it strengthens the very bias driving the bad decision."
+  ],
+  "realNumbersInContext": [
+    "There isn't a clean population statistic for how often people double down — escalation of commitment is studied mainly through controlled experiments and case studies rather than national surveys, so this is a robustly observed mechanism rather than a measured prevalence. What the studies establish is the direction and reliability of the effect, not a percentage of the public it applies to.",
+    "The one number worth holding onto comes from loss aversion: across many studies, losses are felt roughly twice as strongly as equivalent gains. That asymmetry is the engine that makes 'I'll lose what I've spent' outweigh a level-headed look at future costs — and it's why walking away feels disproportionately painful even when it's the better move."
+  ],
+  "realNumbers": [
+    { "value": "≈2×", "label": "How much more heavily losses are weighed than equivalent gains (loss aversion)", "source": "Kahneman & Tversky, prospect theory" },
+    { "value": "More, not less", "label": "Resources people add to a failing course they chose themselves", "source": "Staw, escalation of commitment" },
+    { "value": "Sunk cost", "label": "The past, unrecoverable input we wrongly factor into present choices", "source": "Arkes & Blumer, 1985" }
+  ],
+  "faqs": [
+    {
+      "question": "What is escalation of commitment?",
+      "answer": "It's the documented tendency to invest more resources in a course of action that is already failing, in order to justify the original decision. Barry Staw's research found that people responsible for the first choice escalate more than outsiders would — sometimes investing more precisely because early results were poor."
+    },
+    {
+      "question": "What's the difference between the sunk-cost fallacy and escalation of commitment?",
+      "answer": "They overlap. The sunk-cost fallacy is letting past, unrecoverable costs influence a present decision they shouldn't. Escalation of commitment is the broader behaviour of pouring more in to a failing course — driven partly by sunk costs, but also by loss aversion and the wish to avoid admitting error."
+    },
+    {
+      "question": "How do I know if I'm doubling down or just being persistent?",
+      "answer": "A useful test is the fresh-start question: if you had no history with this and were deciding today, would you choose it? Persistence has a forward-looking reason to continue. Doubling down is mostly justified by what you've already put in — which the research says is the input to ignore."
+    },
+    {
+      "question": "Why is it so hard to just quit something that isn't working?",
+      "answer": "Because quitting turns the spent time or money into a definite loss, and losses are felt roughly twice as strongly as gains. Add a self-image of not being a quitter and the discomfort of admitting a mistake, and continuing can feel less painful than stopping — even when stopping is the better choice."
+    },
+    {
+      "question": "What actually helps you stop?",
+      "answer": "Setting kill criteria in advance, before you're invested; reframing the choice as forward-only ('would I start this today?'); and getting an outside view from someone with no stake in the original decision. Each works by removing the ego and the sunk cost that fuel the trap."
+    }
+  ],
+  "dataSources": [
+    "Staw, B. M. (1976). Knee-deep in the Big Muddy: A study of escalating commitment to a chosen course of action. Organizational Behavior and Human Performance, 16(1), 27–44.",
+    "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124–140.",
+    "Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263–291.",
+    "Tversky, A., & Kahneman, D. (1991). Loss Aversion in Riskless Choice. Quarterly Journal of Economics, 106(4), 1039–1061."
+  ],
+  "relatedInsights": [
+    "why-do-people-stay-in-jobs-they-hate",
+    "why-do-we-keep-making-the-same-mistakes",
+    "why-do-we-blame-ourselves-for-things-we-cant-control"
+  ],
+  "lastReviewed": "2026-06"
+}

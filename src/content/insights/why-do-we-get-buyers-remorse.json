@@ -1,0 +1,76 @@
+{
+  "title": "Why Do We Get Buyer's Remorse?",
+  "slug": "why-do-we-get-buyers-remorse",
+  "category": "regret-and-life-decisions",
+  "metaTitle": "Why Do We Get Buyer's Remorse?",
+  "metaDescription": "Buyer's remorse is normal: post-decision dissonance, nagging alternatives, and fading thrill. What the research shows and what reduces it.",
+  "lifeArea": "Regret & Life Decisions",
+  "keyFinding": "Buyer's remorse is a normal post-decision process — driven by cognitive dissonance, forgone alternatives, and fading novelty — that tends to be stronger for big or over-researched purchases and milder for satisficers.",
+  "honestAnswer": [
+    "Buyer's remorse is a normal part of how we process decisions, not a sign you chose badly. After committing — especially to something large or hard to reverse — the mind starts noticing the downsides of what you picked and the appeal of what you gave up, producing an uncomfortable tension psychologists call post-purchase dissonance. The thrill of the purchase also fades faster than the cost does, so what's left salient is the money gone and the alternatives not taken.",
+    "Some people feel it more than others. Those who chase the best possible option, or who researched a purchase exhaustively, tend to feel sharper remorse, because they're more aware of every option they didn't choose. Knowing the pattern helps: the discomfort is usually the decision settling, not proof of a mistake."
+  ],
+  "whatDataShows": [
+    "The root mechanism is cognitive dissonance, Leon Festinger's theory that holding conflicting thoughts creates discomfort we're motivated to reduce. A purchase is a natural source of it: you committed to one option, but the rejected alternatives had attractive features too, so 'I chose this' sits uneasily against 'but that one had advantages.' Post-decision (or post-purchase) dissonance is a well-established application of the theory — the unease that follows almost any meaningful commitment.",
+    "Maximizing intensifies it. Barry Schwartz's research links a maximizing tendency — seeking the best rather than a good-enough option — to more post-purchase regret and lower satisfaction, in part because maximizers remain vividly aware of the alternatives they passed over. Over-researching a purchase can have the same effect: the more options you've examined, the more forgone possibilities there are to nag at you afterward.",
+    "Hedonic adaptation is the third piece. We get used to new things surprisingly fast, so the pleasure of a purchase tends to fade toward baseline while the cost remains concrete. As the novelty wears off, the downsides and the price become relatively more prominent — which is part of why remorse can arrive after the initial excitement, rather than at the moment of buying."
+  ],
+  "whyItFeelsDifferent": [
+    "Remorse feels like evidence you made the wrong call, but the timing tells a different story: it often shows up regardless of how good the choice was, because dissonance follows commitment itself. The discomfort is the mind reconciling a decision among genuinely competitive options, not a verdict that you picked the loser.",
+    "It also feels different because the forgone alternatives become more attractive in hindsight than they were in the moment. Once you can no longer have them, the rejected options shed their drawbacks in memory and keep only their appeal — so the comparison after buying is rigged against the thing you actually chose.",
+    "And the fading thrill catches people off guard. We expect a purchase to keep delivering the feeling it gave us at first, so when adaptation quietly returns us to baseline, the flatness can read as regret. The pleasure was always likely to fade; the cost just stayed put."
+  ],
+  "whatResearchSaysToDo": [
+    "Satisficing is the most supported antidote: set a 'good enough' standard and stop searching once a purchase clears it, rather than hunting for the best. Since maximizing is linked to more post-purchase regret, deliberately lowering the bar from 'optimal' to 'sufficient' reduces the pile of forgone alternatives that fuel the dissonance.",
+    "Buying in line with your actual values and needs, rather than to impress or to win a comparison, tends to produce more durable satisfaction. Because much of remorse comes from the gap between expectation and the adapted reality, choosing things that serve a real purpose for you leaves less room for that gap to open.",
+    "Limiting how much you compare after the fact also helps. Once a decision is made, continuing to research alternatives or check whether you could have done better mostly feeds the dissonance. Letting the choice settle — and, for reversible purchases, using return windows deliberately rather than ruminating — keeps the focus on the thing you have rather than the ones you didn't buy."
+  ],
+  "whatDoesNotHelp": [
+    "Researching even harder before buying, in the hope of eliminating doubt, often increases remorse rather than preventing it, because it expands your awareness of every option you ultimately didn't choose. Past a reasonable check, more comparison tends to deepen the post-purchase tension.",
+    "Buying to impress others or to keep up reliably underdelivers, because the pleasure of status fades quickly with adaptation while the cost lingers. Purchases aimed at how a choice looks rather than what it does for you are especially prone to the remorse that follows the fading thrill.",
+    "Continuing to second-guess and re-shop a decision you've already made mostly prolongs the discomfort. Re-examining the alternatives keeps the conflicting thoughts active, which is exactly the state dissonance theory says we feel as unease — so the 'due diligence' becomes the thing sustaining the regret."
+  ],
+  "realNumbersInContext": [
+    "There isn't a single reliable population figure for how often people feel buyer's remorse — it's studied mainly through the psychology of dissonance and consumer research rather than through one definitive prevalence survey, so this is better understood as a near-universal process than as a measured percentage. The robust findings are about the mechanism and who feels it more, not an exact share of buyers.",
+    "What the research does establish is the direction: remorse tends to be stronger for large, hard-to-reverse purchases, for maximizers versus satisficers, and once the initial novelty has worn off and hedonic adaptation has returned the pleasure toward baseline. Those are descriptions of when and for whom remorse intensifies, not precise statistics about how common it is."
+  ],
+  "realNumbers": [
+    { "value": "Post-decision dissonance", "label": "The unease that follows committing to one option over others", "source": "Festinger, cognitive dissonance theory" },
+    { "value": "Maximizers", "label": "Who tends to feel buyer's remorse more sharply", "source": "Schwartz, paradox of choice" },
+    { "value": "Fades to baseline", "label": "What hedonic adaptation does to a purchase's pleasure", "source": "Hedonic adaptation research" }
+  ],
+  "faqs": [
+    {
+      "question": "What causes buyer's remorse?",
+      "answer": "Mainly post-purchase cognitive dissonance — the discomfort of having committed to one option while the alternatives you rejected still had appealing features. Hedonic adaptation adds to it: the thrill of a purchase fades faster than the cost, so the downsides and the price become more salient over time."
+    },
+    {
+      "question": "Why do I feel it more on expensive purchases?",
+      "answer": "Bigger and harder-to-reverse purchases create more dissonance, because more is at stake and the alternatives you passed over loom larger. The cost is also more concrete and lasting, so as the initial excitement fades, the price stays prominent while the pleasure returns toward baseline."
+    },
+    {
+      "question": "Does researching a purchase a lot prevent remorse?",
+      "answer": "Often the opposite. Exhaustive research expands your awareness of every option you didn't choose, which gives the post-purchase dissonance more to work with. Maximizers — who seek the best possible option — tend to feel sharper remorse for this reason. A 'good enough' standard usually leaves you more satisfied."
+    },
+    {
+      "question": "How do I reduce buyer's remorse?",
+      "answer": "Satisfice rather than maximize — stop searching once a purchase is good enough; buy in line with your actual needs and values rather than to impress; and resist re-shopping the decision afterward. Each reduces either the number of forgone alternatives or the comparison that keeps the dissonance active."
+    },
+    {
+      "question": "Is buyer's remorse a sign I made a mistake?",
+      "answer": "Not usually. Dissonance follows commitment itself, so remorse can appear regardless of how good the choice was — it's often the decision settling rather than a verdict on it. The rejected options also tend to look better in hindsight once you can't have them, which tilts the after-the-fact comparison unfairly."
+    }
+  ],
+  "dataSources": [
+    "Festinger, L. (1957). A Theory of Cognitive Dissonance. Stanford University Press.",
+    "Schwartz, B. (2004). The Paradox of Choice: Why More Is Less. Harper Perennial.",
+    "Schwartz, B., et al. (2002). Maximizing versus satisficing: Happiness is a matter of choice. Journal of Personality and Social Psychology, 83(5), 1178–1197.",
+    "Brickman, P., & Campbell, D. T. — hedonic adaptation (the tendency to return toward a baseline level of satisfaction)."
+  ],
+  "relatedInsights": [
+    "do-people-regret-spending-or-saving-more",
+    "why-do-we-buy-things-we-dont-need",
+    "why-do-we-second-guess-our-decisions"
+  ],
+  "lastReviewed": "2026-06"
+}

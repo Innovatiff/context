@@ -1,0 +1,75 @@
+{
+  "title": "Is It Normal to Feel Like Your Job Is Pointless?",
+  "slug": "is-it-normal-to-feel-like-your-job-is-pointless",
+  "category": "work-and-career",
+  "metaTitle": "Is It Normal to Feel Like Your Job Is Pointless?",
+  "metaDescription": "Feeling your job is pointless is common and tied to a lack of autonomy, visible impact and contribution — a signal about job design and fit, not your worth.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Feeling your job is pointless is unfortunately common and is tied to a lack of autonomy, visible impact and real contribution — it points to job design and fit rather than being a personal defect.",
+  "honestAnswer": [
+    "Yes, it is common — far more common than people admit out loud. A meaningful share of workers privately suspect their job makes no real difference, and widespread disengagement in the data tells a similar story. If you feel this way, you are not unusual and you are not broken.",
+    "Just as important: this feeling usually points outward, not inward. It tracks closely with a lack of autonomy, of visible impact, and of a clear sense that your work contributes something. That makes it a signal about how a job is designed and how well it fits you — not a verdict on your worth or capability."
+  ],
+  "whatDataShows": [
+    "The most-discussed claim comes from anthropologist David Graeber's 'Bullshit Jobs,' which argued that a meaningful share of workers privately believe their own jobs make no real contribution. To support it he pointed to a YouGov poll in which a large minority of UK workers — roughly a third, with some readings nearer 40% — said their job did not make a meaningful contribution to the world. This is a self-report opinion poll, not a measure of which jobs are 'really' useless, and is best held loosely as evidence that the feeling is widespread, not that the jobs objectively lack value.",
+    "A separate strand of evidence is engagement data. Gallup has reported that only around a fifth of workers worldwide feel actively engaged, with large shares disengaged. Disengagement is not the same as feeling pointless, but the two overlap, and together they suggest that finding your work meaningful is the exception rather than the default for many people.",
+    "Research on meaningful work points to fairly consistent ingredients: autonomy over how you work, visible impact, and a sense of genuine contribution. When those are present, work tends to feel meaningful; when they are absent, the feeling of pointlessness becomes much more likely — which is why the experience tracks job design more than personality."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like a personal failing because we are taught that meaningful work is found, not designed — so if your work feels empty, the implied fault is yours for choosing wrong or lacking passion. The research flips that: meaning depends heavily on conditions like autonomy and visible impact that are mostly set by the role, not the person.",
+    "The feeling is also isolating because it is rarely spoken. People perform enthusiasm at work and keep doubts private, so each person assumes their pointlessness is unusual. The poll and engagement data suggest the opposite — a large share of people are quietly wondering the same thing.",
+    "And modern work often hides its impact. In large organisations, tasks are abstracted, outcomes are distant, and you may never see who your work helps. That missing line of sight from effort to consequence is one of the strongest drivers of the 'why does this matter?' feeling — and it is a structural feature, not a flaw in you."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the feeling tracks autonomy, impact and contribution, the research suggests looking first at whether any of those can be increased in your current role — taking more ownership of how work gets done, or tracing your tasks to who actually benefits, can restore a sense of impact that the job's design had obscured.",
+    "Where the role genuinely lacks those ingredients, the evidence on meaningful work favours seeking better fit over trying to force passion onto an empty role — through job crafting, a change of team, or a different role that offers more visible contribution. The aim is to change the conditions the feeling responds to, not to talk yourself out of it.",
+    "It also helps to treat the feeling as information rather than a flaw. Naming it as a mismatch between what makes work meaningful and what your current job provides reframes a private shame into a solvable problem about design and fit — which is what the research suggests it usually is."
+  ],
+  "whatDoesNotHelp": [
+    "Blaming yourself — assuming you simply lack passion or drive — does not help and misreads the evidence. The feeling of pointlessness tracks conditions like autonomy and visible impact far more than personality, so self-blame fixes nothing and adds shame to an already discouraging experience.",
+    "Waiting for motivation or 'the right mindset' to arrive tends to do little when the role itself offers no autonomy, no visible impact and no clear contribution. Positive self-talk cannot manufacture meaning the job's design has removed; the research points to changing conditions, not attitudes.",
+    "Pushing harder — more hours, more output — usually deepens the feeling rather than relieving it, because the problem was never effort. Doing more of work that feels meaningless mostly confirms the meaninglessness, and is a common route into burnout rather than out of the feeling."
+  ],
+  "realNumbersInContext": [
+    "In the YouGov poll Graeber cited, a large minority of UK workers — roughly a third, with some readings closer to 40% — said their job did not make a meaningful contribution to the world. This is a self-report opinion poll about a feeling, not an objective measure of which jobs are useless, so it is best read as evidence that the doubt is widespread rather than that the jobs truly lack value.",
+    "Alongside that, Gallup has put the share of actively engaged workers worldwide at only around a fifth in recent years. Neither figure means your feeling is a personal defect; together they describe a working world in which finding your job meaningful is, for many people, the exception — which makes the feeling normal, not a sign something is uniquely wrong with you."
+  ],
+  "realNumbers": [
+    { "value": "~33–40%", "label": "UK workers who said their job didn't make a meaningful contribution (self-report poll)", "source": "YouGov poll cited in Graeber, 'Bullshit Jobs'" },
+    { "value": "~21%", "label": "Workers worldwide who feel actively engaged", "source": "Gallup, State of the Global Workplace" },
+    { "value": "Autonomy, impact, contribution", "label": "Ingredients research links to whether work feels meaningful", "source": "Research on meaningful work" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it actually common to feel like your job is pointless?",
+      "answer": "Yes. In a YouGov poll cited by David Graeber, roughly a third of UK workers — some readings nearer 40% — felt their job didn't make a meaningful contribution. That's a self-report poll about a feeling, but combined with widespread disengagement it shows the experience is common, not unusual."
+    },
+    {
+      "question": "Does feeling this way mean I'm in the wrong job?",
+      "answer": "Not necessarily, but it's a signal worth reading. The feeling tracks autonomy, visible impact and a sense of contribution. If your role offers none of those, it may be a fit or design problem — which is solvable — rather than a flaw in you."
+    },
+    {
+      "question": "Is it my fault for not being passionate enough?",
+      "answer": "The research suggests not. Whether work feels meaningful depends heavily on conditions like autonomy and visible impact that the role mostly sets, not on personality. Self-blame tends to add shame without changing anything."
+    },
+    {
+      "question": "What actually makes work feel meaningful?",
+      "answer": "Research on meaningful work points to fairly consistent ingredients: autonomy over how you work, seeing the impact of what you do, and a genuine sense of contribution. When those are present, work tends to feel meaningful; when they're missing, pointlessness becomes much more likely."
+    },
+    {
+      "question": "Will working harder make the feeling go away?",
+      "answer": "Usually not. The problem was rarely effort, so doing more of work that feels meaningless tends to confirm the feeling and is a common path into burnout. The research points to changing the conditions — autonomy, impact, fit — rather than increasing output."
+    }
+  ],
+  "dataSources": [
+    "Graeber, D. (2018). Bullshit Jobs: A Theory — including the cited YouGov poll on whether workers feel their job makes a meaningful contribution (treated as self-report).",
+    "Gallup, State of the Global Workplace — share of actively engaged workers worldwide.",
+    "Research on meaningful work — the roles of autonomy, visible impact, and contribution in whether work feels meaningful."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-not-be-passionate-about-your-job",
+    "does-money-or-meaning-matter-more-at-work",
+    "how-common-is-it-to-feel-like-you-are-wasting-your-potential"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Does Having Friends at Work Actually Matter?",
+  "slug": "does-having-friends-at-work-actually-matter",
+  "category": "work-and-career",
+  "metaTitle": "Does Having Friends at Work Actually Matter? The Research",
+  "metaDescription": "Workplace friendships strongly predict engagement, wellbeing and retention in Gallup's research, with real trade-offs around boundaries and remote work.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Having a close friend at work is consistently associated with higher engagement, wellbeing and retention, so connection at work meaningfully improves the experience — though it carries trade-offs around boundaries and is harder to build remotely.",
+  "honestAnswer": [
+    "Yes — and the link is stronger than many people assume. Across decades of workplace research, having a genuine friend at work is one of the most reliable correlates of being engaged, more productive, and less likely to quit. Connection at work is not a soft extra; it is closely tied to how good the work actually feels and how long people stay.",
+    "The caveats are real but modest. Friendships can blur professional boundaries, and remote and hybrid arrangements make them harder to form in the first place. The honest summary: meaningful connection at work clearly improves the experience and engagement, with some trade-offs worth managing rather than avoiding."
+  ],
+  "whatDataShows": [
+    "The most-cited evidence comes from Gallup, whose long-running engagement research includes the deliberately worded item 'I have a best friend at work.' It is one of their twelve key engagement questions, and Gallup reports that agreeing with it is consistently associated with higher engagement, better performance, and stronger retention. The item is famous partly because it surprises people — yet it keeps predicting outcomes across large samples.",
+    "Beyond Gallup, a broader body of research on workplace social support points the same way: people with supportive relationships at work tend to report lower stress, more enjoyment, and greater willingness to stay. Social connection appears to buffer the strain of demanding work rather than simply making it pleasanter.",
+    "It is worth being precise about what the data is. Most of it is correlational — engaged, well-supported people may both seek and sustain work friendships — so the arrow is not purely one-directional. But the association is robust, consistent across years, and aligns with what we know about social connection and wellbeing generally."
+  ],
+  "whyItFeelsDifferent": [
+    "Work friendships feel like a distraction from 'real' work because the dominant cultural model treats a job as a transaction — effort for pay — with relationships as a pleasant side-effect at best. That framing makes the engagement link feel almost counterintuitive, even though the research keeps confirming it.",
+    "There is also a quiet assumption that professionalism means keeping colleagues at arm's length. So the value of closeness gets underweighted, while its risks — gossip, favouritism, awkwardness when things go wrong — feel vivid and memorable. The downside is easier to picture than the steady, invisible benefit.",
+    "Remote and hybrid work sharpen the gap between how much connection matters and how easily it forms. When the casual, unplanned moments that build friendship disappear, the absence is easy to rationalise as fine — but the engagement research suggests something genuinely useful is being lost, not just something nice."
+  ],
+  "whatResearchSaysToDo": [
+    "The practical implication of the engagement research is to treat connection as worth a little deliberate effort rather than leaving it entirely to chance — particularly in remote and hybrid settings where the unplanned moments that spark friendships rarely happen on their own. Small, repeated, low-stakes contact is what the social-support literature suggests builds real relationships.",
+    "For organisations, the evidence favours conditions that let friendships form — stable teams, time for non-transactional interaction, and in-person or synchronous moments — rather than forced 'fun.' The finding is about genuine connection, which cannot be mandated, only enabled.",
+    "It also helps to manage the trade-offs openly rather than avoid closeness to dodge them. Being clear about boundaries, keeping work decisions fair, and not letting a friendship distort professional judgement lets you keep the documented upside while limiting the realistic downsides."
+  ],
+  "whatDoesNotHelp": [
+    "Treating work friendship as unprofessional or a distraction does not help, and runs against the evidence. The research consistently links genuine connection to engagement and retention; keeping everyone at a deliberate distance forfeits a benefit rather than protecting performance.",
+    "Forced or performative team bonding — mandatory socials, scripted 'fun' — tends not to produce the real connection the data is about, and can backfire by feeling hollow or obligatory. The finding concerns authentic relationships, which can be enabled but not manufactured on command.",
+    "Assuming remote work makes connection unnecessary is a common but unsupported leap. Remote work makes friendships harder to form, not less valuable; the engagement link still holds, which is precisely why the loss of casual contact is worth actively compensating for rather than shrugging off."
+  ],
+  "realNumbersInContext": [
+    "Gallup's 'I have a best friend at work' item is one of twelve in its core engagement index, and the firm reports it as consistently associated with higher engagement, productivity and retention across very large, long-running samples. It is best read as a strong, repeated association rather than a single precise effect size, since results vary by workplace and study.",
+    "The wider context is that engagement is scarce — Gallup has put the share of actively engaged workers worldwide at only around a fifth in recent years — which makes the factors that reliably raise it, connection among them, more notable, not less. Against a backdrop of widespread disengagement, a genuine friend at work is one of the more dependable bright spots in the data."
+  ],
+  "realNumbers": [
+    { "value": "1 of 12", "label": "The 'best friend at work' item among Gallup's core engagement questions", "source": "Gallup Q12 engagement research" },
+    { "value": "Higher", "label": "Engagement, productivity and retention associated with having a close friend at work", "source": "Gallup" },
+    { "value": "~21%", "label": "Workers worldwide who feel actively engaged, the backdrop this matters against", "source": "Gallup, State of the Global Workplace" }
+  ],
+  "faqs": [
+    {
+      "question": "Does having a best friend at work really affect performance?",
+      "answer": "Gallup's long-running research consistently associates agreeing with 'I have a best friend at work' with higher engagement, productivity and retention. Most of the evidence is correlational, but the link is robust and repeated across large samples over many years."
+    },
+    {
+      "question": "Isn't keeping colleagues at arm's length more professional?",
+      "answer": "The data doesn't support that as a performance strategy. Genuine connection at work is tied to engagement and lower turnover. The professional skill is managing boundaries and fairness while keeping the connection — not avoiding closeness altogether."
+    },
+    {
+      "question": "Does this still matter if I work remotely?",
+      "answer": "Yes. Remote work makes friendships harder to form, but the value of connection still holds. That's why the loss of casual, unplanned contact is worth actively compensating for with deliberate, low-stakes interaction rather than treating it as unnecessary."
+    },
+    {
+      "question": "What are the downsides of being friends with coworkers?",
+      "answer": "Friendships can complicate boundaries — gossip, perceived favouritism, or awkwardness if roles or relationships change. These are manageable with clear boundaries and fair, separate work decisions, and on balance the engagement research favours connection over distance."
+    },
+    {
+      "question": "Can a company just make people be friends?",
+      "answer": "No. The finding is about authentic connection, which can be enabled but not mandated. Stable teams, time for non-transactional interaction, and shared in-person or synchronous moments help; forced or scripted 'fun' tends to fall flat."
+    }
+  ],
+  "dataSources": [
+    "Gallup — Q12 employee engagement research, including the 'I have a best friend at work' item and its association with engagement, productivity and retention.",
+    "Gallup, State of the Global Workplace — share of actively engaged workers.",
+    "Research on workplace social support and wellbeing — the stress-buffering and enjoyment effects of supportive relationships at work."
+  ],
+  "relatedInsights": [
+    "does-money-or-meaning-matter-more-at-work",
+    "how-much-does-your-job-affect-your-mental-health",
+    "how-many-close-friends-do-adults-actually-have"
+  ],
+  "lastReviewed": "2026-06"
+}

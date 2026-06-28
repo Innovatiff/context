@@ -1,0 +1,76 @@
+{
+  "title": "Does Doing Less Actually Get More Done?",
+  "slug": "does-doing-less-actually-get-more-done",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Does Doing Less Actually Get More Done? The Research",
+  "metaDescription": "Often, yes. Focus and prioritization tend to beat volume. Here is what the research on the 80/20 idea, deep work, and task-switching actually shows.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Concentrating effort on a few high-value tasks and cutting low-value busywork tends to produce more meaningful output than spreading thin — within limits, and not as a justification for doing nothing.",
+  "honestAnswer": [
+    "Often, yes — but with important caveats. The weight of the evidence and argument is that focus and prioritization beat sheer volume: protecting time for a small number of high-value tasks, and declining the rest, tends to produce more real output than trying to do everything. 'Doing less' here means cutting low-value busywork, not lowering ambition or doing nothing.",
+    "This is not a law of nature, and some of the most popular framings of it are heuristics rather than proven rules. But the general direction is well supported. Spreading effort across many things at once carries measurable costs, while concentrating it on what matters most tends to compound. The honest version is: doing fewer things, more deliberately, usually gets more of the things that matter done."
+  ],
+  "whatDataShows": [
+    "The most-cited idea here is the Pareto principle — the rough '80/20' notion that a minority of inputs drive a majority of results. It is best understood as a useful heuristic, not a precise law: the split is rarely exactly 80/20, and it does not hold everywhere. But the underlying observation, that outputs are often unevenly distributed and a small share of activities produces a large share of value, is a reasonable lens for deciding what to protect and what to cut.",
+    "Arguments from essentialism (Greg McKeown) and deep work (Cal Newport) converge on a similar claim: that disciplined prioritization — choosing a few high-leverage activities and saying no to the rest — produces more meaningful output than broad, shallow busyness. These are persuasive frameworks built on case studies and reasoning more than on large controlled trials, so they are best treated as well-argued principles rather than settled empirical findings.",
+    "What does have firmer experimental support is the cost of doing the opposite. Research on task-switching consistently finds that moving between tasks carries a 'switch cost' — a measurable drop in speed and accuracy each time attention is reallocated. Cognitive overload and constant interruption degrade effective output, which is the mechanism by which trying to do more can produce less."
+  ],
+  "whyItFeelsDifferent": [
+    "Doing less feels risky because busyness is visible and prioritization is not. A full calendar and a long task list look like productivity and signal effort to others, while the harder work of deciding what not to do leaves no obvious trace. So the path of adding more feels safer even when it produces less.",
+    "There is also a real pull from the small wins. Clearing easy, low-value tasks delivers quick hits of completion, which feel good and feel like progress, while the few high-value tasks are usually larger, slower, and more uncomfortable. The result is a drift toward filling time with the trivial because it is more immediately rewarding.",
+    "And saying no is socially costly in the moment. Declining requests, meetings, and commitments can feel like letting people down, so the default is to accept — which is exactly how a schedule fills with low-value obligations that crowd out the work that matters."
+  ],
+  "whatResearchSaysToDo": [
+    "Identify and protect the small share of activities that produce most of the value, and treat the rest as candidates for cutting, delegating, or deferring. The Pareto lens is useful here precisely as a prompt: which few things, if done well, would matter most — and what would happen if the low-value remainder simply didn't get done?",
+    "Protect uninterrupted blocks for the highest-value work. Because task-switching carries real costs, batching similar tasks and shielding focused time from interruption tends to raise the quality and quantity of output more than squeezing extra small tasks into the gaps.",
+    "Practice declining. Since the default is to accept and accumulate, the active skill is saying no to the merely good in order to make room for the genuinely important. McKeown's essentialism frames this as a discipline rather than a one-off decision — a habit of regularly editing commitments back down."
+  ],
+  "whatDoesNotHelp": [
+    "Treating '80/20' as a precise law rather than a rough heuristic does not help — the exact ratio is rarely real, and forcing every situation into it can mislead. It is a prompt for thinking about uneven returns, not a formula to apply mechanically.",
+    "Using 'do less' as cover for doing nothing misses the point entirely. The evidence favours concentrating effort, not withdrawing it; the gains come from cutting low-value activity to fund high-value activity, not from cutting activity overall.",
+    "Adding more tools, apps, and tracking systems to manage an overloaded workload rarely fixes overload — it often adds another layer of busywork. The harder, more effective move is reducing the number of commitments rather than optimising the management of too many."
+  ],
+  "realNumbersInContext": [
+    "Be skeptical of precise figures here. The famous '80/20 split' is a heuristic, not a measured constant; the real distribution varies widely by situation, and quoting it as an exact law overstates what the idea supports. What holds is the qualitative point that returns are often uneven and a minority of activities tends to drive a majority of value.",
+    "The firmer numbers are about the cost of the opposite. Task-switching reliably imposes switch costs — small but repeated losses in speed and accuracy each time you change tasks — and these accumulate across a fragmented day. The honest summary is that the case for doing less rests more on the well-documented costs of overload and switching than on any clean statistic about how much less to do."
+  ],
+  "realNumbers": [
+    { "value": "~80/20", "label": "Pareto split — a rough heuristic for uneven returns, not a precise law", "source": "Pareto principle (treat as heuristic)" },
+    { "value": "Switch cost", "label": "Measurable loss in speed and accuracy each time you change tasks", "source": "Research on task-switching" },
+    { "value": "Fewer, deeper", "label": "Direction favoured by essentialism and deep-work arguments", "source": "McKeown; Newport" }
+  ],
+  "faqs": [
+    {
+      "question": "Is the 80/20 rule actually true?",
+      "answer": "It is a useful heuristic, not a law. The exact 80/20 split is rarely precise and does not hold everywhere, but the underlying observation — that returns are often uneven and a minority of activities drives a majority of value — is a reasonable lens for deciding what to prioritize and what to cut."
+    },
+    {
+      "question": "Doesn't doing less just mean being lazy?",
+      "answer": "No. The idea is to cut low-value busywork in order to fund focused effort on high-value tasks, not to reduce effort overall. Used as an excuse to do nothing, it fails; used to concentrate attention, the direction is well supported."
+    },
+    {
+      "question": "Why is multitasking a problem if I can handle it?",
+      "answer": "Research on task-switching finds a measurable 'switch cost' — a drop in speed and accuracy each time attention moves between tasks — even when it doesn't feel like one. Those costs accumulate across a fragmented day, which is the main mechanism by which doing more can produce less."
+    },
+    {
+      "question": "How do I decide what to cut?",
+      "answer": "Ask which few activities produce most of the value, protect those, and treat the rest as candidates to cut, delegate, or defer. Protecting uninterrupted blocks for the high-value work and practicing saying no to the merely good are the practical steps the frameworks emphasize."
+    },
+    {
+      "question": "Will doing less always get more done?",
+      "answer": "Not always — it has limits and is not a guarantee. The honest claim is that for most people, cutting low-value tasks and concentrating effort tends to increase meaningful output, while overload and constant switching tend to reduce it."
+    }
+  ],
+  "dataSources": [
+    "Pareto principle / the '80-20' idea (treated here as a heuristic, not a law).",
+    "McKeown, G. — Essentialism (the disciplined pursuit of less).",
+    "Newport, C. — Deep Work (focused, distraction-free effort).",
+    "Research on task-switching costs and cognitive overload."
+  ],
+  "relatedInsights": [
+    "does-time-management-actually-work",
+    "how-many-hours-can-you-actually-focus-in-a-day",
+    "is-it-normal-to-feel-busy-all-the-time"
+  ],
+  "lastReviewed": "2026-06"
+}
