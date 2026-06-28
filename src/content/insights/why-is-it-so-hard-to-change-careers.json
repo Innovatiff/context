@@ -1,0 +1,75 @@
+{
+  "title": "Why Is It So Hard to Change Careers?",
+  "slug": "why-is-it-so-hard-to-change-careers",
+  "category": "work-and-career",
+  "metaTitle": "Why Is It So Hard to Change Careers?",
+  "metaDescription": "Career change is so hard because it's an identity transition, not just a job swap. Here is what the research shows about why — and what helps.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Career change is hard mainly because it is a slow, nonlinear identity transition layered on top of real financial barriers — not because of a lack of willpower — and identity tends to change through experimenting and doing rather than planning.",
+  "honestAnswer": [
+    "Because changing careers is an identity transition, not just a job swap. Herminia Ibarra's research on career reinvention finds that the hard part is not picking a new role but becoming a different working self — and that process is slow, uncertain and nonlinear by nature. You are not just changing what you do; you are changing who you are at work, and that takes time the usual advice doesn't account for.",
+    "On top of the identity shift sit very real practical barriers: lost income and seniority, financial obligations, the 'golden handcuffs' of benefits and pay, the fear of starting over, and skills that don't obviously transfer to a new field. So when it feels hard, that is largely structural and psychological — not a sign you lack discipline or commitment."
+  ],
+  "whatDataShows": [
+    "The central insight from Herminia Ibarra's work, set out in 'Working Identity', is that career change is a process of transforming who you are, not just executing a plan. People hold a 'possible selves' — several tentative versions of who they might become — and reinvention means testing those out in reality rather than reasoning your way to a single right answer in advance.",
+    "Ibarra's research directly challenges the conventional 'plan then act' model — the idea that you first figure out what you really want and then go do it. She found this sequence tends to fail, because we don't actually know our future working selves until we've tried things. Identity changes through doing: small experiments, side projects, new relationships and exposure gradually shift self-understanding, often in ways no amount of upfront introspection would have predicted.",
+    "Layered onto the identity challenge are well-documented economic and psychological barriers. Sunk-cost thinking makes years already invested feel like a reason to stay; status-quo bias makes the familiar feel safer than it is; and concrete obligations — income, seniority, benefits, dependents — raise the real cost of switching. These are genuine constraints, not excuses, and they help explain why so many people stall."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like a personal failing because the dominant cultural story says you should be able to identify your passion, make a plan and follow it. When that doesn't work — when you feel stuck, ambivalent, or unable to name exactly what you want — it reads as indecision or lack of nerve, rather than as the normal, messy shape an identity transition actually takes.",
+    "It also feels harder than expected because the costs are concrete and immediate while the rewards are abstract and distant. The pay cut, the lost seniority, the awkwardness of being a beginner again are all vivid and near; the satisfaction of the new path is uncertain and far off. Sunk-cost and status-quo biases tilt the felt math even further toward staying put.",
+    "And the nonlinearity is disorienting. Because identity changes through doing rather than planning, the early phase of a real career change often looks like wandering — experiments that go nowhere, dead ends, periods of not knowing. People expect a straight line and, not finding one, conclude they're doing it wrong, when in the research that meandering is what the process normally looks like."
+  ],
+  "whatResearchSaysToDo": [
+    "Ibarra's core practical takeaway is to act your way into a new identity rather than think your way into it. Instead of waiting for clarity before moving, run small, low-risk experiments — side projects, volunteering, courses, conversations — that let you try possible selves in practice. Clarity, in this research, tends to be an output of doing, not a prerequisite for it.",
+    "Building new relationships and exposure matters as much as new skills. Reinvention is partly social: spending time around people in the field you're drawn to, and forming new professional ties, shifts how you see yourself and what feels possible. The old network anchors you to the old identity; new connections help the new one take hold.",
+    "Naming the specific barriers separately also helps, because identity, finances and bias are different problems with different solutions. A financial runway addresses the income barrier; deliberately discounting sunk costs ('the years are gone either way') addresses the cognitive one; and accepting that the process is slow and nonlinear addresses the identity one. Treating them as one undifferentiated 'it's too hard' tends to keep people stuck."
+  ],
+  "whatDoesNotHelp": [
+    "Endless introspection and planning before acting tends not to help — and is the specific failure Ibarra's research identifies. Trying to fully figure out your true calling in your head, then execute a clean plan, usually stalls, because you can't know your future working self until you've tested it in reality. More thinking is often a way of avoiding the experiments that would actually generate clarity.",
+    "Waiting to feel certain or 'ready' rarely works either. Because identity changes through doing, certainty typically arrives partway through the transition, not before it. Holding out for confidence before making any move can keep someone in place indefinitely, mistaking the normal discomfort of a transition for a signal that the change is wrong.",
+    "Framing the difficulty as a willpower problem is both inaccurate and counterproductive. The barriers are largely structural — lost income, seniority, obligations, golden handcuffs — and psychological — sunk cost, status-quo bias, identity. Treating it as a matter of just wanting it enough ignores the real constraints and tends to produce guilt rather than progress."
+  ],
+  "realNumbersInContext": [
+    "There isn't a single clean statistic for how hard career change is, and it would be misleading to invent one — the difficulty is better captured qualitatively. The key research finding is that reinvention is an identity transition that unfolds over a long, nonlinear period, typically measured in years rather than weeks, and proceeds through experimentation rather than a single decisive leap.",
+    "What the evidence does establish clearly is the direction of travel: 'plan then act' tends to fail, while 'act, learn, adjust' tends to work, and the felt difficulty is amplified by real economic barriers (lost income, seniority, golden handcuffs) and predictable biases (sunk cost, status quo). So the honest number to hold onto is not a percentage but a shape — slow, looping, and driven by doing."
+  ],
+  "realNumbers": [
+    { "value": "Identity, not job", "label": "What career change actually changes, in the research", "source": "Ibarra, 'Working Identity'" },
+    { "value": "Act, then know", "label": "Why 'plan then act' fails — identity changes through doing", "source": "Ibarra, career transition research" },
+    { "value": "Sunk cost + status quo", "label": "Biases that make staying feel safer than it is", "source": "Behavioral decision research" }
+  ],
+  "faqs": [
+    {
+      "question": "Why is changing careers so much harder than changing jobs?",
+      "answer": "Because it's an identity transition, not just a role swap. Herminia Ibarra's research shows reinvention means becoming a different working self, which is slow and nonlinear. On top of that sit real barriers — lost income, seniority, golden handcuffs and skills that don't obviously transfer — so the difficulty is structural and psychological, not a lack of willpower."
+    },
+    {
+      "question": "Should I figure out exactly what I want before I make a move?",
+      "answer": "The research suggests not. Ibarra found the 'plan then act' approach tends to fail, because you can't know your future working self until you've tried things. Identity changes through doing, so clarity usually comes from small experiments — side projects, courses, conversations — rather than from introspection before you move."
+    },
+    {
+      "question": "Is it normal to feel lost partway through a career change?",
+      "answer": "Yes. Because identity changes through doing rather than planning, the early phase often looks like wandering — experiments that lead nowhere, dead ends, periods of not knowing. People expect a straight line and, not finding one, assume they're failing. In the research, that meandering is what the process normally looks like."
+    },
+    {
+      "question": "What practical things actually make career change easier?",
+      "answer": "Running small, low-risk experiments instead of waiting for certainty; building new relationships and exposure in the field you're drawn to; and tackling the financial, cognitive and identity barriers separately. A financial runway, deliberately discounting sunk costs, and accepting that the process is slow all address different parts of the problem."
+    },
+    {
+      "question": "Does the difficulty mean I'm making the wrong choice?",
+      "answer": "Not necessarily. The discomfort of a career change is largely the normal friction of an identity transition plus real economic costs, not a reliable signal that the change is wrong. The research frames the difficulty as expected and structural, which is different from it being a verdict on the decision itself."
+    }
+  ],
+  "dataSources": [
+    "Ibarra, H. — 'Working Identity: Unconventional Strategies for Reinventing Your Career' and related research on career transitions (career change as identity transformation; experimenting with possible selves; the failure of 'plan then act').",
+    "Behavioral decision research on sunk-cost effect and status-quo bias (constraints that make staying feel safer than changing).",
+    "Research on identity and work (the link between what people do and who they understand themselves to be)."
+  ],
+  "relatedInsights": [
+    "what-research-shows-about-changing-careers-after-40",
+    "why-do-people-stay-in-jobs-they-hate",
+    "is-it-ever-too-late-to-start-over"
+  ],
+  "lastReviewed": "2026-06"
+}

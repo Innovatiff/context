@@ -1,0 +1,74 @@
+{
+  "title": "How Much Time Do We Actually Spend With Friends?",
+  "slug": "how-much-time-do-we-actually-spend-with-friends",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "How Much Time Do We Spend With Friends? The Data",
+  "metaDescription": "Less than most people think, and it falls sharply with age. Here is what time-use data and recent advisories show about time spent with friends.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Time spent directly with friends appears to peak in the late teens and then decline steeply through adulthood, reaching its lowest point in midlife as work and family take over the day.",
+  "honestAnswer": [
+    "Probably less than you imagine, and the amount almost certainly falls as you get older. Large time-use surveys suggest that direct, face-to-face time with friends tends to peak in the late teens — on the order of an hour or more a day — and then declines steeply through the twenties, thirties and forties before leveling off later in life. By midlife, the typical figure is a small fraction of what it was at eighteen.",
+    "This is not a sign that something has gone wrong. It is the ordinary arithmetic of adult life: as work, partners, children and chores expand to fill the day, the unstructured hours that friendships used to occupy shrink. The pattern is so consistent across people that it looks less like individual failure and more like a predictable stage of the life course."
+  ],
+  "whatDataShows": [
+    "The American Time Use Survey, which asks people to account for their day in detail, shows a clear age gradient in time spent socializing with friends. The amount is highest among the youngest adults — roughly an hour-plus a day in the late teens by some readings — and falls markedly across the working years, reaching its lowest levels in midlife. It tends to recover modestly in later life as work obligations fall away, though it does not return to teenage levels.",
+    "The U.S. Surgeon General's 2023 advisory on loneliness and isolation drew on time-use evidence to make a broader point: time spent with friends fell substantially over the prior two decades, with the steepest declines among young adults, and the COVID-19 pandemic deepened that drop. The advisory framed reduced social time as a population-level trend rather than a handful of isolated cases.",
+    "It is worth being careful with the exact figures. Time-use surveys capture how people report and categorize their day, and 'time with friends' can be measured in different ways — as a primary activity, as time in others' company, or as any contact. The hour-or-so-a-day teenage peak and the midlife low are best read as the general shape of the data, not precise universal numbers."
+  ],
+  "whyItFeelsDifferent": [
+    "The decline often feels sudden and personal even though the data shows it as gradual and near-universal. Friendships in adolescence and early adulthood are supported by shared structure — school, college, first jobs, living nearby — that quietly does the scheduling for you. When that structure dissolves, the time does not transfer automatically to friendships; it gets absorbed by everything else.",
+    "It can also feel different because the memory of how much time you used to spend together sets the baseline. Measured against the daily, effortless contact of your late teens, the occasional catch-up of midlife can feel like a loss, even when it is simply the typical adult pattern. Most people are quietly experiencing the same shift at the same time.",
+    "Social media adds a layer of distortion. Seeing others' gatherings can make your own social calendar feel thin, but feeds surface the most sociable moments of the most sociable people, which is not a representative picture of how much time the average adult actually spends with friends."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the loss of shared structure is the main driver, the most reliable response is to rebuild some of it deliberately. Recurring, low-effort arrangements — a standing weekly call, a regular walk, a fixed monthly dinner — tend to survive busy adult life better than open-ended intentions to 'catch up soon,' which rarely convert into time on the calendar.",
+    "Pairing friendship with something you already do helps reclaim time without adding a new slot to a full day. Combining social contact with exercise, commuting, errands or meals lets friendship ride along with existing routines rather than competing with them for scarce free hours.",
+    "Treating consistency as more important than intensity is supported by the broader pattern in the research: small amounts of regular contact tend to sustain closeness better than rare, elaborate occasions. The Surgeon General's advisory similarly emphasizes that even modest, routine social connection carries meaningful benefits."
+  ],
+  "whatDoesNotHelp": [
+    "Waiting until life is less busy rarely works, because for most people the busy years of work and family are exactly the years when friendship time is lowest — the window does not reliably open on its own. Friendships that depend on found time tend to fade; those that get scheduled tend to last.",
+    "Substituting passive online contact for shared time appears to help less than people hope. Scrolling through what friends are doing, or trading occasional likes, is not the same as time together, and may even heighten the sense of distance by making the gap visible without closing it.",
+    "Blaming yourself for the decline is both inaccurate and unhelpful. The data shows time with friends falling for nearly everyone across adulthood; reading a near-universal life-course pattern as a personal failing adds guilt without changing the underlying squeeze on your hours."
+  ],
+  "realNumbersInContext": [
+    "Read the figures as a shape rather than a fixed schedule. Time-use data suggests time spent with friends is highest in the late teens — around an hour or more a day by some estimates — and declines steeply through the working years to a midlife low, recovering somewhat in later life. The exact numbers depend on how 'time with friends' is defined.",
+    "The trend over time matters as much as the age pattern. The U.S. Surgeon General's 2023 advisory reported that time spent with friends fell substantially over roughly two decades, with the largest declines among young adults and a further drop during the pandemic. The honest takeaway is that spending less time with friends as you age is ordinary — and that small, regular contact appears to do more good than its modest cost in time."
+  ],
+  "realNumbers": [
+    { "value": "~1 hr+/day", "label": "Approximate peak time with friends, late teens (varies by measure)", "source": "American Time Use Survey" },
+    { "value": "Midlife low", "label": "When direct time with friends tends to bottom out across adulthood", "source": "American Time Use Survey" },
+    { "value": "~2 decades", "label": "Period over which time with friends fell substantially, esp. for young adults", "source": "U.S. Surgeon General Advisory, 2023" }
+  ],
+  "faqs": [
+    {
+      "question": "When do people spend the most time with friends?",
+      "answer": "Time-use data suggests it peaks in the late teens — on the order of an hour or more a day by some estimates — and then declines steeply through adulthood. It reaches its lowest point around midlife, when work and family take up most of the day, and tends to recover modestly in later life."
+    },
+    {
+      "question": "Is it normal to spend much less time with friends as I get older?",
+      "answer": "Yes. The steep decline in friend time across the working years shows up for nearly everyone in time-use surveys. It is driven by the ordinary expansion of work, partners, children and chores, not by a personal failing, and most adults are experiencing the same shift at the same time."
+    },
+    {
+      "question": "Did time with friends really fall over the past couple of decades?",
+      "answer": "The U.S. Surgeon General's 2023 advisory reported that time spent with friends fell substantially over the prior two decades, with the steepest declines among young adults, and that the pandemic deepened the drop. Read it as a broad population trend rather than a precise figure for any one person."
+    },
+    {
+      "question": "How much time with friends is enough?",
+      "answer": "There is no validated universal number, and the research focuses more on consistency than quantity. Small amounts of regular contact appear to sustain closeness better than rare, elaborate occasions, so a modest standing routine tends to matter more than the total hours."
+    },
+    {
+      "question": "Does online contact count the same as time together?",
+      "answer": "The evidence suggests it helps less than people hope. Passive scrolling or occasional likes are not equivalent to shared time, and can sometimes heighten a sense of distance. Active, two-way contact is closer to in-person time, but direct time together still appears to carry distinct value."
+    }
+  ],
+  "dataSources": [
+    "American Time Use Survey (ATUS), U.S. Bureau of Labor Statistics — time spent socializing with friends by age.",
+    "U.S. Surgeon General (2023). Our Epidemic of Loneliness and Isolation: The U.S. Surgeon General's Advisory on the Healing Effects of Social Connection and Community — declining time spent with friends."
+  ],
+  "relatedInsights": [
+    "how-many-close-friends-do-adults-actually-have",
+    "why-do-we-lose-friends-as-we-get-older",
+    "how-the-average-person-actually-spends-their-day"
+  ],
+  "lastReviewed": "2026-06"
+}

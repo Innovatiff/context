@@ -1,0 +1,74 @@
+{
+  "title": "Does Where You Went to College Actually Matter?",
+  "slug": "does-where-you-went-to-college-actually-matter",
+  "category": "work-and-career",
+  "metaTitle": "Does Where You Went to College Actually Matter?",
+  "metaDescription": "Does college prestige affect earnings? For most students, less than expected — ability and effort matter more. But access matters for some groups.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "For most students, the selectivity of the college they attended has little measurable effect on later earnings once ability is accounted for — but for disadvantaged and first-generation students, attending a more selective school does appear to boost outcomes.",
+  "honestAnswer": [
+    "Less than the prestige obsession implies, for most people. The most influential research on this question found that, once you compare students of similar ability, attending a more selective college did not translate into meaningfully higher earnings. What predicted later income was the kind of student you were — your ambition, ability, and the caliber of schools you applied to — more than the name on the diploma.",
+    "There is an important exception: for students from disadvantaged or first-generation backgrounds, attending an elite college did appear to raise earnings. And at the very top, in specific fields, networks and brand can matter. So the honest answer is layered: for most students the school's name matters less than they fear, while for some groups access to elite institutions matters more than the average suggests."
+  ],
+  "whatDataShows": [
+    "The landmark work here is by economists Stacy Dale and Alan Krueger. Their clever design compared students who were admitted to similarly selective colleges but made different choices — some attending the more elite option, some choosing a less selective one. By matching on the schools students applied to and got into, they could isolate the effect of attendance from the effect of the underlying student. Their 2002 study found that, for most students, attending a more selective college did not produce a meaningful earnings premium once this matching was done.",
+    "A follow-up analysis (Dale and Krueger, 2014) with a larger, longer-run dataset reached broadly the same conclusion: the apparent payoff to selectivity largely reflected which students attended those schools, not the schools themselves. The raw correlation between elite colleges and high earnings is real, but much of it appears to be selection — talented, driven people both get into and graduate from selective schools — rather than a causal boost from the institution.",
+    "The notable exception in the same research: for Black and Hispanic students, and for students from less-educated families, attending a more selective college was associated with higher earnings. For these groups, the elite school appeared to provide access — to networks, information, and opportunities — that they were less likely to have otherwise. So the average finding masks a real difference between who benefits and who does not."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like the school must matter enormously because the visible examples are skewed. The most prominent people in finance, tech, law, and politics disproportionately attended a handful of elite institutions, so the brand looks decisive. But this is survivorship bias: we see the elite-school graduates who succeeded, not the equally capable people who succeeded from ordinary schools, nor the elite-school graduates who did not.",
+    "Admissions culture also amplifies the stakes. The intensity around getting into a 'good' school sends a message that the decision is permanent and life-defining, which makes the institution feel far more determinative of your future than the long-run data supports.",
+    "And because prestige is a clear, visible signal and ability is not, people lean on the signal. A famous college name is easy to point to; the harder-to-observe traits that actually drove the outcome — drive, talent, the ambition to apply high in the first place — quietly do most of the work."
+  ],
+  "whatResearchSaysToDo": [
+    "Treat fit, cost, and completion as the variables that the evidence supports caring about. Graduating with manageable debt, finishing the degree, and being in an environment where you can do well tend to matter more for most students than incremental gains in prestige. Avoiding heavy debt for a marginal bump in selectivity is, for the average student, a reasonable read of the research.",
+    "If you come from a disadvantaged or first-generation background and have access to a more selective school, the research suggests that access can be genuinely valuable — partly through the networks and information it opens up. The benefit the average finding washes out is concentrated in exactly these cases, so it is worth weighing seriously.",
+    "For everyone, the durable predictors of career outcomes — skills, effort, the field you choose, and the relationships you build — are largely within reach regardless of where you study. The data points toward investing in what you do during and after college, rather than treating the admissions decision as the thing that settles your trajectory."
+  ],
+  "whatDoesNotHelp": [
+    "Taking on large debt for a marginally more prestigious school does not, for most students, pay for itself in the way the brand premium implies. Because the earnings gap between similarly capable students at more and less selective schools is small on average, the borrowing can outweigh the benefit.",
+    "Treating the college name as a verdict on your potential does not help and is not supported by the evidence. The research consistently finds that the student matters more than the school, which cuts both ways: an elite school does not guarantee the outcome, and an ordinary one does not foreclose it.",
+    "Assuming the school never matters is the opposite error. For some groups the access an elite institution provides is real and measurable, and in a few specific high-prestige fields, brand and network effects do exist. Flatly dismissing the school's role overcorrects past what the data shows."
+  ],
+  "realNumbersInContext": [
+    "The headline figure from this body of work is essentially a non-finding for the average student: once researchers matched students by the selectivity of schools they applied to and were admitted to, the earnings difference attributable to attending the more selective college was roughly negligible (Dale and Krueger, 2002; 2014). The strong raw correlation between elite schools and high pay appears to be mostly selection — who attends — rather than a causal effect of the institution.",
+    "The exception is specific and worth stating plainly: for students from disadvantaged backgrounds, including Black and Hispanic students and those whose parents did not attend college, attending a more selective school was associated with higher earnings. The benefit of an elite college, in this research, is concentrated among the students least likely to have other routes to the same networks and opportunities — not spread evenly across everyone."
+  ],
+  "realNumbers": [
+    { "value": "≈ negligible", "label": "Earnings effect of college selectivity for most students, once ability is matched", "source": "Dale & Krueger, 2002 / 2014" },
+    { "value": "Positive", "label": "Earnings effect of elite colleges for disadvantaged and first-generation students", "source": "Dale & Krueger, 2002 / 2014" },
+    { "value": "Mostly selection", "label": "What the raw elite-school / high-pay correlation reflects", "source": "Dale & Krueger, 2002 / 2014" }
+  ],
+  "faqs": [
+    {
+      "question": "Does going to a more prestigious college mean I'll earn more?",
+      "answer": "For most students, the research suggests not by much. When economists Dale and Krueger compared students of similar ability, attending a more selective college produced little to no earnings premium on its own. The strong link between elite schools and high pay appears to be mostly about which students attend, not the schools themselves."
+    },
+    {
+      "question": "Are there students for whom the school does matter?",
+      "answer": "Yes. The same research found that for students from disadvantaged or first-generation backgrounds, attending a more selective college was associated with higher earnings — likely because it opened access to networks and information they were less likely to have otherwise. The benefit is concentrated in these groups rather than spread across everyone."
+    },
+    {
+      "question": "So does the college name not matter at all?",
+      "answer": "It matters less than the prestige obsession implies, but it is not nothing. For some groups access is genuinely valuable, and in a few high-prestige fields networks and brand can play a role at the very top. The honest summary is that ability and effort matter more for most people, while access to elite schools matters more for some."
+    },
+    {
+      "question": "Is it worth going into debt for a more selective school?",
+      "answer": "For the average student, the small earnings difference between similarly capable graduates of more and less selective schools means large debt for a marginal prestige gain often does not pay off. Cost, completion, and fit are the variables the evidence most supports weighing — though access can change that calculation for disadvantaged students."
+    },
+    {
+      "question": "Why does it feel like everyone successful went to an elite school?",
+      "answer": "Largely survivorship bias. The most visible people in certain fields disproportionately attended a handful of schools, so the brand looks decisive — but we don't see the equally capable people who succeeded from ordinary schools, or the elite-school graduates who didn't. The visible examples are a skewed sample."
+    }
+  ],
+  "dataSources": [
+    "Dale, S. B., & Krueger, A. B. (2002). Estimating the Payoff to Attending a More Selective College. Quarterly Journal of Economics, 117(4), 1491–1527.",
+    "Dale, S. B., & Krueger, A. B. (2014). Estimating the Effects of College Characteristics over the Career Using Administrative Earnings Data. Journal of Human Resources, 49(2), 323–358."
+  ],
+  "relatedInsights": [
+    "is-a-college-degree-still-worth-it",
+    "does-experience-or-education-matter-more",
+    "how-much-of-success-is-luck-vs-skill"
+  ],
+  "lastReviewed": "2026-06"
+}

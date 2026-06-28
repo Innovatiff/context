@@ -1,0 +1,77 @@
+{
+  "title": "Are We Actually Worse Off Than Our Parents?",
+  "slug": "are-we-actually-worse-off-than-our-parents",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Are We Worse Off Than Our Parents? What the Data Shows",
+  "metaDescription": "Are younger generations worse off than their parents? The honest answer: harder to get ahead in key areas, but not uniformly worse. What the data shows.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "On several important measures — out-earning your parents, affording housing and college, and building wealth early — younger generations face real headwinds, but the picture is mixed rather than uniformly worse, with some things genuinely better.",
+  "honestAnswer": [
+    "On some of the measures people care most about, the data suggests younger generations do face real headwinds — but the honest answer is mixed, not a simple yes. Getting ahead in the specific ways our parents could is genuinely harder: fewer children out-earn their parents than in the past, and housing, college, and healthcare have risen much faster than wages, so wealth-building tends to start later.",
+    "At the same time, some things improved. Technology, longer lifespans, and the falling cost of many consumer goods mean the comparison is not one-directional. The careful framing is that it has become harder to get ahead in several key areas — not that life is uniformly worse than it was a generation ago."
+  ],
+  "whatDataShows": [
+    "The clearest finding on mobility comes from work led by economist Raj Chetty and colleagues on 'absolute income mobility' — the share of children who grow up to earn more than their parents did at the same age. Their analysis found this share fell from roughly 90% for children born around 1940 to about 50% for those born around 1980. In other words, out-earning your parents went from near-certain to roughly a coin flip.",
+    "Costs are the other half of the story. Drawing on Bureau of Labor Statistics and Economic Policy Institute analyses, the prices of housing, a college education, and healthcare have risen substantially faster than typical wages over recent decades. When the big building-block costs of adult life climb faster than pay, homeownership and wealth accumulation tend to begin later, which compounds over time.",
+    "Wealth data from the Federal Reserve points the same way: younger households have generally held a smaller share of national wealth at a given age than earlier cohorts did. But the data also shows real gains elsewhere — life expectancy is longer than it was for previous generations, and many goods, especially technology and communications, are far cheaper or did not exist before. So 'worse off' depends heavily on which measure you pick."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels worse partly because the headwinds cluster around the most visible, status-laden milestones — buying a first home, paying off a degree, feeling financially settled by a certain age. These are exactly the markers people use to judge whether they are 'doing better' than the generation before, so headwinds there register loudly even when other parts of life have improved quietly.",
+    "The improvements, by contrast, are easy to take for granted. A smartphone, instant global communication, or a longer healthier life rarely enters the ledger when people compare themselves to their parents, because those gains became the invisible baseline. We tend to notice what got harder far more than what got easier.",
+    "There is also a real timing shift: when wealth-building starts later, the early adult years can feel like falling behind a schedule that previous generations seemed to keep. The script — house, savings, security by 30 — was written when those costs sat at a different level relative to wages, so measuring against it produces a sense of lag that is partly about the script being out of date."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful move the data supports is to separate the measures rather than judge 'better or worse' as one verdict. The headwinds are concentrated and specific — mobility, housing, the cost of a degree, the start date of wealth-building — so it helps to look at where you actually stand on each, against real population numbers, instead of a single overall feeling.",
+    "Because so much of the disadvantage is about timing — costs front-loaded, wealth-building delayed — the research on financial wellbeing points to the same modest, durable steps: a small buffer against shocks and consistent, automated saving, which matter more for stress than the absolute number. None of this erases structural headwinds, but it addresses the part within an individual's control.",
+    "It also helps to weigh the full ledger honestly, including the gains. The same evidence that shows mobility falling also shows lifespans rising and many costs falling. Holding both at once is more accurate — and tends to be less demoralising — than treating the comparison as a one-way decline."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the whole question as a single verdict — 'we're just worse off, full stop' — does not match the data and tends to feed a fatalism that is not warranted. The evidence shows specific, concentrated headwinds alongside real improvements, not a uniform decline, and flattening it into one number loses the part that is actually true and the part that is actually better.",
+    "Equally, the dismissive version — 'every generation thinks it had it harder' — does not hold up against the mobility and cost figures. The drop in absolute mobility and the rise of housing and college costs relative to wages are measured, not imagined, so waving them away is as inaccurate as catastrophising.",
+    "Comparing yourself to your parents at your age using only the visible milestones (a house, a paid-off degree) is misleading, because those specific costs shifted the most relative to income. The headline comparison most people reach for is the one the data says has changed the most, which makes it an unusually poor gauge of how you are personally doing."
+  ],
+  "realNumbersInContext": [
+    "The single most cited figure is the fall in absolute mobility: roughly 90% of children born around 1940 went on to out-earn their parents, versus about 50% of those born around 1980 (Chetty et al.). That is a large, measured shift in one specific outcome — out-earning your parents — and it is the strongest evidence that getting ahead became harder.",
+    "On costs, BLS and EPI analyses show housing, college tuition, and healthcare rising considerably faster than typical wages over recent decades, while Federal Reserve data shows younger households holding less wealth at comparable ages than earlier cohorts. Set against that, life expectancy is longer than for prior generations and many consumer goods, especially technology, are cheaper or new — so the honest summary is 'harder to get ahead in key areas,' not 'worse across the board.'"
+  ],
+  "realNumbers": [
+    { "value": "~90% → ~50%", "label": "Share of children out-earning their parents, born 1940 vs 1980", "source": "Chetty et al., absolute income mobility" },
+    { "value": "Faster than wages", "label": "Rise in housing, college, and healthcare costs over recent decades", "source": "BLS / EPI analyses" },
+    { "value": "Starts later", "label": "When wealth-building tends to begin for younger households", "source": "Federal Reserve wealth data" },
+    { "value": "Longer", "label": "Life expectancy versus previous generations", "source": "Public health / mortality data" }
+  ],
+  "faqs": [
+    {
+      "question": "Are younger generations really worse off than their parents?",
+      "answer": "On several key measures, the data suggests yes — fewer children out-earn their parents, and housing, college, and healthcare have risen faster than wages, so wealth-building starts later. But it is not uniformly worse: lifespans are longer and many goods are cheaper. The honest answer is that it is harder to get ahead in specific areas, not that everything is worse."
+    },
+    {
+      "question": "What does the falling 'absolute mobility' number actually mean?",
+      "answer": "It is the share of children who grow up to earn more than their parents did at the same age. Work led by Raj Chetty found it dropped from roughly 90% for those born around 1940 to about 50% for those born around 1980. So out-earning your parents went from near-certain to roughly a coin flip."
+    },
+    {
+      "question": "Is it harder to buy a home now than it was for our parents?",
+      "answer": "Generally, yes — housing costs have risen faster than typical wages over recent decades (BLS/EPI), which tends to push homeownership and wealth-building to later in life. This is one of the clearest and most measured of the headwinds, which is part of why it feels so prominent."
+    },
+    {
+      "question": "Is anything actually better than it was for previous generations?",
+      "answer": "Yes. Life expectancy is longer, communication and technology are vastly cheaper or entirely new, and the prices of many consumer goods have fallen. These gains are easy to overlook because they became the baseline, but they are real and belong in any honest comparison."
+    },
+    {
+      "question": "So is the 'every generation had it harder' idea just a myth?",
+      "answer": "Not quite either way. The dismissive version underplays measured changes — falling mobility and rising housing, college, and healthcare costs are real. But the catastrophic version overstates it, since some things genuinely improved. The accurate picture is mixed and measure-specific rather than a single verdict."
+    }
+  ],
+  "dataSources": [
+    "Chetty, R., Grusky, D., Hell, M., Hendren, N., Manduca, R., & Narang, J. (2017). The fading American dream: Trends in absolute income mobility since 1940. Science, 356(6336), 398–406.",
+    "U.S. Bureau of Labor Statistics — Consumer Price Index and wage data (housing, college tuition, healthcare vs wages).",
+    "Economic Policy Institute — analyses of wages relative to the cost of living.",
+    "Federal Reserve — Survey of Consumer Finances and Distributional Financial Accounts (generational wealth)."
+  ],
+  "relatedInsights": [
+    "are-you-actually-middle-class",
+    "does-everyone-own-a-home-by-your-age",
+    "how-much-does-where-you-start-determine-your-income"
+  ],
+  "lastReviewed": "2026-06"
+}

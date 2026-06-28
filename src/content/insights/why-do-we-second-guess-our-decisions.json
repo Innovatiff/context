@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Second-Guess Our Decisions?",
+  "slug": "why-do-we-second-guess-our-decisions",
+  "category": "regret-and-life-decisions",
+  "metaTitle": "Why Do We Second-Guess Our Decisions? The Research",
+  "metaDescription": "Second-guessing comes from post-decision doubt, counterfactual thinking, and a maximizing style. Here is what the research suggests and what helps.",
+  "lifeArea": "Regret & Life Decisions",
+  "keyFinding": "Second-guessing is a normal feature of how the mind evaluates choices — driven by counterfactual thinking and, for some people, a maximizing style — and it eases more from limiting reconsideration than from re-examining the decision.",
+  "honestAnswer": [
+    "We second-guess our decisions because of three overlapping habits of mind: post-decision doubt, counterfactual thinking, and — for some people more than others — a maximizing style. After we choose, the mind keeps evaluating: it imagines the roads not taken, notices the downsides of what we picked and the upsides of what we passed up, and produces the familiar pang of doubt sometimes called buyer's remorse.",
+    "This is not a sign that you decided badly or that something is wrong with you. It is largely a normal feature of how human judgement works. The research suggests it becomes a problem mainly when it is chronic — and that it is more manageable than it feels, primarily by limiting how much you reconsider rather than by trying to re-examine the decision until the doubt disappears."
+  ],
+  "whatDataShows": [
+    "A large part of second-guessing is counterfactual thinking — the mind's tendency to generate 'what if' alternatives to what happened. Research on counterfactuals (associated with Neal Roese and others) finds that we readily imagine how things could have gone differently, and that 'upward' counterfactuals, which picture a better outcome we missed, tend to sting and fuel regret even when our actual choice was reasonable.",
+    "How much people second-guess also depends on decision style. Barry Schwartz's work distinguishes maximizers, who feel compelled to find the very best option, from satisficers, who stop at 'good enough.' Studies in this line find that maximizers second-guess far more, dwell longer on alternatives, and report less satisfaction with their choices — often even when, by objective measures, they chose well.",
+    "The reversibility of a decision matters too. Gilbert and Ebert's (2002) experiments found that when a choice could still be undone, people kept their attention on the alternatives and stayed less satisfied, whereas a final choice tended to be embraced. In other words, leaving a decision open invites more second-guessing, while closing it tends to quiet it."
+  ],
+  "whyItFeelsDifferent": [
+    "Second-guessing feels like useful diligence — as if running the decision again might catch a mistake — but much of the time it isn't gathering new information, it's replaying the same choice with the same facts. The mind treats the discomfort as a signal that something is unresolved, when often the only thing unresolved is the discomfort itself.",
+    "It also feels asymmetric. After a choice, the downsides of what we picked are vivid and ours to live with, while the alternatives stay frozen at their most appealing, never tested against reality. So the comparison is rigged: our real, flawed choice against an imagined, flawless one. That tilt makes the path not taken look better than it would have actually been.",
+    "And for maximizers especially, the standard isn't 'a good outcome' but 'the best possible outcome' — a standard almost any real choice will fail. Against an ideal, even a strong decision can feel like a near-miss, which keeps the second-guessing running long after the decision is made."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent suggestion is to limit reconsideration rather than indulge it. Because reopening a settled decision tends to refresh the doubt rather than resolve it, setting a point at which a sound choice is treated as final — and declining to relitigate it without genuinely new information — tends to quiet second-guessing more effectively than another round of analysis.",
+    "Adopting a satisficing approach, where appropriate, also helps. Deciding in advance what 'good enough' looks like, and stopping once a choice clears that bar, spares you the maximizer's endless comparison. The research suggests satisficers are not settling for worse outcomes so much as avoiding the dissatisfaction that comes from measuring every choice against an unreachable best.",
+    "It can also help to remember that a good decision is judged by what you knew at the time, not by how it happened to turn out, and that the imagined alternative was never the polished version your mind keeps showing you. Reframing the comparison more fairly — real choice against realistic alternative — tends to take some of the sting out of the counterfactuals."
+  ],
+  "whatDoesNotHelp": [
+    "Re-examining the decision over and over rarely helps, because without new information each pass tends to reproduce the same doubt rather than dissolve it. The feeling that more analysis will finally settle things is, for most settled decisions, the thing keeping them unsettled.",
+    "Trying to find the objectively best option before you can feel at peace tends to backfire — this is the maximizer's bind. The research suggests that holding out for the best, rather than the good-enough, predicts more second-guessing and less satisfaction, not more.",
+    "Keeping a decision reversible 'just in case' tends to feed second-guessing rather than relieve it, because an open door keeps the alternatives psychologically alive. Provisional decisions are second-guessed more than ones you have actually committed to."
+  ],
+  "realNumbersInContext": [
+    "The evidence here is mostly about patterns and directions rather than population percentages, so it is best read that way. Schwartz's research consistently finds that people who score high on maximizing report lower satisfaction with their choices and more regret than satisficers — a difference in tendency that holds across many kinds of decisions, even when the maximizers' actual outcomes are as good or better.",
+    "Likewise, counterfactual-thinking research shows that 'what if it had gone better' thoughts are common and reliably amplify regret, while Gilbert and Ebert (2002) found reversible choices left people measurably less satisfied than final ones. None of this fixes a precise number on how much any individual will second-guess — it describes a normal mental process whose intensity varies with decision style and reversibility."
+  ],
+  "realNumbers": [
+    { "value": "Maximizers", "label": "Decision style linked to more second-guessing and less satisfaction", "source": "Schwartz, maximizers vs satisficers" },
+    { "value": "Counterfactuals", "label": "'What if' thinking that reliably amplifies post-decision regret", "source": "Roese, counterfactual-thinking research" },
+    { "value": "Reversible = more doubt", "label": "Open choices were second-guessed more than final ones", "source": "Gilbert & Ebert, 2002" }
+  ],
+  "faqs": [
+    {
+      "question": "Why do I keep second-guessing decisions I've already made?",
+      "answer": "Because the mind keeps evaluating choices after the fact — imagining the roads not taken (counterfactual thinking) and noticing the downsides of what you picked. This is a normal feature of human judgement, not a sign you decided badly, though it gets stronger if you keep the decision open or hold yourself to finding the 'best' option."
+    },
+    {
+      "question": "Is second-guessing a sign I made the wrong choice?",
+      "answer": "Usually not. The discomfort often reflects how the mind compares your real, lived choice against an idealised, untested alternative, rather than evidence that you erred. A sound decision is judged by what you knew at the time, not by how vivid the doubt feels afterwards."
+    },
+    {
+      "question": "What's the difference between a maximizer and a satisficer?",
+      "answer": "A maximizer feels compelled to find the very best option; a satisficer stops at 'good enough.' Barry Schwartz's research finds maximizers second-guess more and report less satisfaction — even when their outcomes are just as good — because they measure every choice against an unreachable best."
+    },
+    {
+      "question": "How do I stop second-guessing myself so much?",
+      "answer": "The research points to limiting reconsideration rather than indulging it: treat a sound decision as settled and decline to relitigate it without genuinely new information. Deciding in advance what 'good enough' looks like, and committing rather than keeping options open, also tends to quiet the doubt."
+    },
+    {
+      "question": "Does keeping my options open reduce second-guessing?",
+      "answer": "It tends to do the opposite. Gilbert and Ebert (2002) found reversible choices left people less satisfied and more focused on the alternatives, while final choices were embraced. An open door keeps the alternatives psychologically alive, which feeds second-guessing rather than relieving it."
+    }
+  ],
+  "dataSources": [
+    "Schwartz, B., et al. — research on maximizing versus satisficing decision styles and their links to satisfaction and regret.",
+    "Roese, N. J. — research on counterfactual thinking and how 'what if' alternatives shape regret.",
+    "Gilbert, D. T., & Ebert, J. E. J. (2002). Decisions and revisions: The affective forecasting of changeable outcomes. Journal of Personality and Social Psychology, 82(4), 503–514."
+  ],
+  "relatedInsights": [
+    "why-do-we-avoid-making-decisions",
+    "is-it-normal-to-regret-big-life-decisions",
+    "how-to-make-decisions-you-wont-regret"
+  ],
+  "lastReviewed": "2026-06"
+}

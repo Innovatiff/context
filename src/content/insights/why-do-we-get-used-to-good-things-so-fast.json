@@ -1,0 +1,77 @@
+{
+  "title": "Why Do We Get Used to Good Things So Fast?",
+  "slug": "why-do-we-get-used-to-good-things-so-fast",
+  "category": "happiness-research",
+  "metaTitle": "Why Do We Get Used to Good Things So Fast?",
+  "metaDescription": "It's called hedonic adaptation — the tendency to drift back to baseline after good things. Why it happens, why it's useful, and how to slow it.",
+  "lifeArea": "Happiness Research",
+  "keyFinding": "Getting used to good things is hedonic adaptation — a normal, partly useful tendency to return toward a happiness baseline after positive changes — and it can be partly, though not fully, counteracted.",
+  "honestAnswer": [
+    "Because of hedonic adaptation — often called the hedonic treadmill. The well-supported pattern is that after a positive change, our happiness tends to rise and then drift back toward a personal baseline as the new thing becomes our normal. The same happens, helpfully, after negative changes. It is not a flaw in you; it is a basic feature of how human emotion is calibrated.",
+    "The honest version is that adaptation is normal, partly adaptive, and only partly within your control. It keeps you motivated and sensitive to new changes, but it also explains why the raise, the purchase, or the milestone fades faster than expected. There are measures with some evidence behind them to slow it — variety, savouring, gratitude, spacing pleasures out — but none of them switch it off."
+  ],
+  "whatDataShows": [
+    "The idea has a long pedigree. Brickman and Campbell introduced the 'hedonic treadmill' notion in the early 1970s — the argument that as circumstances improve, expectations and desires rise with them, so people end up roughly where they started in terms of felt wellbeing. Frederick and Loewenstein's later review of hedonic adaptation gathered the evidence that people adapt, often substantially, to a wide range of life changes.",
+    "The most famous illustration is also the most overstated, so it's worth stating carefully. The small 1978 study often summarised as 'lottery winners and accident survivors end up equally happy' (Brickman and colleagues) did suggest surprising adaptation in both directions, but it was a small study and the popular version exaggerates how complete that adaptation was. Treat it as a vivid early signpost, not a precise measurement.",
+    "Adaptation appears to be functional rather than a bug. Dimming our response to whatever becomes constant keeps us sensitive to new information and changes — the things most worth reacting to — and keeps us motivated to keep pursuing goals. The same mechanism that makes good things fade also helps us recover from bad ones, which is one of the more reassuring findings in this area."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like the good thing got worse, not like you got used to it. The new car, home, or relationship that once stood out slowly blends into the background of normal life, and from the inside that registers as disappointment with the thing rather than as a predictable recalibration of your baseline.",
+    "It also feels different because we're poor at predicting it in advance. When we imagine a future gain, we picture the peak excitement and forget that our expectations will climb to meet it. So each new milestone arrives carrying the promise that this one will finally stick — a promise adaptation quietly breaks.",
+    "And the comparison never holds still. As your circumstances improve, your reference point moves up with them, so the new normal becomes the floor you measure from. What thrilled you a year ago is simply the baseline now, which is why the felt boost is so much shorter than the change that caused it."
+  ],
+  "whatResearchSaysToDo": [
+    "Add variety. The most direct counter to adaptation in the research is varying the good things you have rather than just having more of them — different activities, settings, and ways of enjoying what's already in your life. Sheldon and Lyubomirsky's adaptation-prevention work found that variety helps sustain the wellbeing boost from positive changes longer.",
+    "Savour and practise gratitude. Deliberately slowing down to notice and prolong good experiences (savouring), and regularly noting things you're grateful for, both have some supportive evidence for keeping positive experiences from fading into the background. The effects are modest and not universal, but they're low-cost and point in a consistent direction.",
+    "Space out and re-frame pleasures. Interrupting and spacing out enjoyable experiences, rather than consuming them continuously, can keep them from blurring into the new normal — a small break can restore some of the original enjoyment. Combining appreciation of what's stable with periodic novelty is the broad strategy the evidence supports."
+  ],
+  "whatDoesNotHelp": [
+    "Buying more or bigger usually doesn't outrun the treadmill. Because adaptation scales with whatever becomes your baseline, escalating to the next, larger purchase or milestone tends to produce the same short-lived boost followed by the same fade. The pattern repeats rather than resolves.",
+    "Trying to permanently 'lock in' a peak feeling doesn't work, because that's precisely what adaptation prevents. Expecting a good change to keep feeling as intense as it did at first sets you up for disappointment; the realistic goal is to slow the fade, not abolish it.",
+    "And fighting adaptation entirely would be a mistake even if it were possible. The same mechanism that dims good things also helps you recover from bad ones and stay motivated and responsive to new changes. Treating adaptation purely as an enemy misses that it's largely doing a useful job."
+  ],
+  "realNumbersInContext": [
+    "The vivid case study people cite — the 1978 lottery-winner and accident-survivor study — is genuinely surprising but small and often overstated. It suggested meaningful adaptation in both directions, not that fortunes and tragedies leave people exactly equally happy. Read it as an early, memorable signpost for the treadmill idea rather than as a precise figure to quote.",
+    "On the broader picture, research consistently finds a substantial — though not total — return toward a personal happiness baseline after many positive and negative changes, with the size and speed of adaptation varying by event and person. The counter-measures (variety, savouring, gratitude, spacing) tend to show modest effects in studies. The fair summary: adaptation is strong and normal, partly counter-able, and never fully switched off."
+  ],
+  "realNumbers": [
+    { "value": "Baseline", "label": "Where happiness tends to drift back toward after positive or negative changes", "source": "Brickman & Campbell, hedonic treadmill" },
+    { "value": "1978", "label": "Year of the small, often-overstated lottery-winner / accident-survivor study", "source": "Brickman et al., 1978" },
+    { "value": "Both ways", "label": "Direction adaptation works — we also adapt to bad events", "source": "Frederick & Loewenstein review" },
+    { "value": "Modest", "label": "Typical effect of variety, gratitude, and savouring in slowing adaptation", "source": "Adaptation-prevention research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is hedonic adaptation?",
+      "answer": "It's the tendency to return toward a personal happiness baseline after positive or negative changes — often called the hedonic treadmill. A new job, purchase, or milestone gives a boost that fades as it becomes your normal. The same recalibration also helps you recover after bad events."
+    },
+    {
+      "question": "Is getting used to good things a bad thing?",
+      "answer": "Not really — it's thought to be largely useful. Dimming our response to whatever becomes constant keeps us sensitive and motivated, and the same mechanism helps us bounce back from hardship. It explains why good things fade faster than expected, but it isn't a personal failing."
+    },
+    {
+      "question": "Did lottery winners really end up no happier?",
+      "answer": "That's a common overstatement of a small 1978 study. It suggested surprising adaptation in both directions, not that winners and accident survivors end up exactly equally happy. Treat it as a vivid early signpost for the treadmill idea rather than a precise result."
+    },
+    {
+      "question": "Can you slow down adaptation?",
+      "answer": "Partly. Variety, savouring good experiences, practising gratitude, and spacing out pleasures all have some supporting evidence for keeping positive things from fading into the background. The effects are modest and don't switch adaptation off, but they can slow the fade."
+    },
+    {
+      "question": "Why doesn't buying more fix the fade?",
+      "answer": "Because adaptation scales with your baseline. Each bigger purchase or milestone tends to produce the same short boost followed by the same return to normal, so escalating repeats the pattern rather than resolving it. Varying and savouring what you have tends to do more than buying more."
+    }
+  ],
+  "dataSources": [
+    "Brickman, P., & Campbell, D. T. (1971). Hedonic Relativism and Planning the Good Society — the 'hedonic treadmill' concept.",
+    "Brickman, P., Coates, D., & Janoff-Bulman, R. (1978). Lottery Winners and Accident Victims: Is Happiness Relative? Journal of Personality and Social Psychology, 36(8), 917–927.",
+    "Frederick, S., & Loewenstein, G. (1999). Hedonic Adaptation. In Well-Being: The Foundations of Hedonic Psychology.",
+    "Sheldon, K. M., & Lyubomirsky, S. — research on adaptation prevention (variety, appreciation, gratitude, savouring)."
+  ],
+  "relatedInsights": [
+    "why-achieving-the-thing-you-wanted-didnt-feel-the-way-you-expected",
+    "what-happens-to-happiness-after-major-life-events",
+    "does-practicing-gratitude-actually-work"
+  ],
+  "lastReviewed": "2026-06"
+}

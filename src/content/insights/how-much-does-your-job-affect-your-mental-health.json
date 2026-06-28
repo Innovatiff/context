@@ -1,0 +1,75 @@
+{
+  "title": "How Much Does Your Job Affect Your Mental Health?",
+  "slug": "how-much-does-your-job-affect-your-mental-health",
+  "category": "work-and-career",
+  "metaTitle": "How Much Does Your Job Affect Your Mental Health?",
+  "metaDescription": "Work is a major determinant of mental health. Here is what the research shows about the job conditions — not personal weakness — that shape how you feel.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Work is a major determinant of mental health, and the strongest evidence points to specific job conditions — high demands with low control, effort-reward imbalance, unfairness, insecurity and long hours — rather than to personal weakness.",
+  "honestAnswer": [
+    "A lot. Work is one of the major determinants of mental health, and the research is fairly consistent that the conditions of a job — not just the person doing it — strongly shape how someone feels day to day and over years. Where someone has little control over demanding work, where effort is not matched by reward, where treatment is unfair or the job feels insecure, the data links these to measurably worse mental health.",
+    "The honest framing matters here: when work is grinding you down, it is very often the conditions doing it, not a flaw in you. Good work — with autonomy, fairness, support and some sense of meaning — appears to protect mental health, while toxic or insecure work appears to harm it. This is educational context only, not medical advice; for anything persistent or distressing, a qualified clinician is the right person to talk to."
+  ],
+  "whatDataShows": [
+    "The most influential framework is Robert Karasek's job demand-control model, which finds that the worst psychological strain tends to come not from hard work alone but from high demands combined with low control or autonomy over how the work gets done. A demanding job you have some say in is far less damaging, in this research, than an equally demanding job you cannot influence.",
+    "A second well-established model is Johannes Siegrist's effort-reward imbalance, which links worse mental and physical health to situations where high effort is not matched by adequate reward — pay, recognition, security or career prospects. Alongside these, research consistently associates unfairness, job insecurity and long working hours with poorer mental health outcomes.",
+    "Pulled together, the picture is that mental health at work is shaped heavily by structural features of the job. The World Health Organization has issued guidance on mental health at work that treats these conditions — workload, control, support, security and fairness — as legitimate occupational risk factors, not as private failings of individual workers."
+  ],
+  "whyItFeelsDifferent": [
+    "It often feels like a personal problem because the strain shows up inside you — as exhaustion, dread, low mood or anxiety — while the conditions causing it are diffuse and normalized. When everyone around you is stretched thin too, a structural problem can read as your own inability to cope.",
+    "Workplace culture frequently reinforces this. The language of resilience, grit and 'managing your stress' quietly relocates responsibility onto the individual, even when the research points to demand-control imbalance, unfair treatment or insecurity as the drivers. That makes people more likely to ask what is wrong with them than what is wrong with the job.",
+    "There is also a visibility gap. The good conditions that protect mental health — autonomy, fairness, support, meaning — tend to be invisible when present and only felt when absent. So a job slowly eroding wellbeing through low control or chronic insecurity can do real damage without any single dramatic event to point to."
+  ],
+  "whatResearchSaysToDo": [
+    "Where it is possible, the evidence favors changing the conditions over trying to simply endure them. Even small increases in control or autonomy — over scheduling, methods or pace — map onto better outcomes in the demand-control research, so negotiating for more say in demanding work is one of the better-supported levers an individual has.",
+    "Naming the specific condition helps, because the models give you a vocabulary: is this mainly high demand with low control, effort that is not being rewarded, unfairness, or insecurity? Identifying which factor is at play tends to point to clearer action — different from generic advice to 'reduce stress' — and the WHO's workplace guidance frames these as things organizations, not only workers, are responsible for addressing.",
+    "Protective factors are worth actively seeking and preserving: support from colleagues and managers, fair treatment, and some connection to meaning in the work all appear in the research as buffers. And because this is health, the standing caveat applies — if symptoms are persistent, worsening, or affecting your daily functioning, a qualified clinician should be involved rather than relying on self-management alone."
+  ],
+  "whatDoesNotHelp": [
+    "Treating it purely as a personal resilience problem tends not to help, and can make things worse. Wellness perks, mindfulness apps and 'stress management' offerings have a place, but the research suggests they do little when the underlying conditions — low control, effort-reward imbalance, unfairness, insecurity — go unaddressed. Bolting coping strategies onto a structurally harmful job rarely fixes it.",
+    "Pushing harder to prove yourself is also a poor strategy when the core problem is low control or unrewarded effort, because it raises demand and effort without changing the imbalance the research identifies as harmful. More output into an unfair or uncontrollable system usually deepens the strain rather than resolving it.",
+    "Assuming the harm will simply pass on its own is risky. Chronic exposure to poor job conditions — not a single bad week — is what the research links to worse mental health, so prolonged insecurity or sustained high-demand, low-control work is exactly the situation least likely to quietly resolve itself."
+  ],
+  "realNumbersInContext": [
+    "The job demand-control and effort-reward models are among the most studied frameworks in occupational health, and their core finding is qualitative rather than a single number: psychological strain rises sharply when high demands meet low control, and when effort is not matched by reward. Treat this as a robust pattern, not a precise statistic — effect sizes vary by study, occupation and country.",
+    "The World Health Organization has formally recognized mental health at work as a major issue, issuing dedicated guidelines on the subject and noting that working conditions can both protect and harm mental health. The practical takeaway is that a meaningful share of how you feel is attributable to the design of the job itself — which is exactly why it is so often misread as a private, personal failing. Again, this is general context, not medical advice; persistent difficulties warrant a qualified clinician."
+  ],
+  "realNumbers": [
+    { "value": "Demand + low control", "label": "Combination linked to the worst psychological strain", "source": "Karasek, job demand-control model" },
+    { "value": "Effort > reward", "label": "Imbalance linked to worse mental and physical health", "source": "Siegrist, effort-reward imbalance model" },
+    { "value": "Recognized risk", "label": "Mental health at work treated as an occupational issue", "source": "WHO guidelines on mental health at work" }
+  ],
+  "faqs": [
+    {
+      "question": "Can a job really cause mental health problems?",
+      "answer": "Work is recognized as a major determinant of mental health. Research consistently links conditions like high demands with low control, effort that isn't matched by reward, unfair treatment, job insecurity and long hours to worse mental health. This is educational context, not a diagnosis — for anything persistent or distressing, see a qualified clinician."
+    },
+    {
+      "question": "Is it me or is it the job?",
+      "answer": "It is very often the conditions rather than the person. The demand-control and effort-reward models show that strain rises with specific features of a job — low control, unrewarded effort, unfairness, insecurity — that would affect most people similarly. Feeling worn down by a demanding, low-control job is a common, well-documented response, not evidence of weakness."
+    },
+    {
+      "question": "What kinds of jobs are hardest on mental health?",
+      "answer": "In this research, the hardest tend to be jobs combining high demands with low control over the work, where effort is poorly rewarded, treatment is unfair, or the role feels insecure. Long hours add further risk. A demanding job you have some say in is generally far less damaging than an equally demanding one you cannot influence."
+    },
+    {
+      "question": "What actually helps if my job is affecting my mental health?",
+      "answer": "The better-supported levers involve changing conditions where possible — gaining more control or autonomy, seeking support, and addressing unfairness or insecurity — rather than relying on coping strategies alone. The WHO frames these as organizational responsibilities too. If symptoms are persistent or worsening, involve a qualified clinician rather than self-managing."
+    },
+    {
+      "question": "Can a good job actually protect mental health?",
+      "answer": "Yes. The research suggests that good work — with autonomy, fairness, support and some sense of meaning — can protect mental health, while toxic or insecure work harms it. Work is not inherently bad for you; the conditions are what matter, in either direction."
+    }
+  ],
+  "dataSources": [
+    "Karasek, R. — Job Demand-Control Model (job strain arising from high demands combined with low control/autonomy).",
+    "Siegrist, J. — Effort-Reward Imbalance Model (worse health where high effort is not matched by adequate reward).",
+    "World Health Organization — Guidelines on mental health at work / WHO guidance on mental health and the workplace."
+  ],
+  "relatedInsights": [
+    "what-the-research-actually-says-about-burnout",
+    "how-much-does-stress-actually-affect-your-health",
+    "is-it-normal-to-dread-going-to-work"
+  ],
+  "lastReviewed": "2026-06"
+}

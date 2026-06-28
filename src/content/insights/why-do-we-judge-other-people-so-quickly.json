@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Judge Other People So Quickly?",
+  "slug": "why-do-we-judge-other-people-so-quickly",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why Do We Judge Other People So Quickly?",
+  "metaDescription": "Snap judgments are a normal mental shortcut: the brain forms impressions in a fraction of a second and leans on stereotypes to save effort.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "Quick judgment is a normal mental shortcut — the brain forms impressions in a fraction of a second and leans on stereotypes and biases to save effort — which is worth catching, not a sign you're a bad person.",
+  "honestAnswer": [
+    "We judge other people quickly because fast judgment was useful and the brain is, in the psychologists' phrase, a cognitive miser — it prefers shortcuts that save effort. People form impressions of others in a fraction of a second and lean on stereotypes and rules of thumb to fill in the rest, because evaluating everyone carefully from scratch would be impossibly slow.",
+    "These snap judgments are often wrong and tend to stick once formed, partly because we then notice evidence that confirms them. So the honest answer is that quick judging is a normal feature of how minds work, with predictable biases attached. It's worth catching and questioning — but having the impulse doesn't make you a bad person; it makes you a person with an ordinary brain."
+  ],
+  "whatDataShows": [
+    "Research by Willis and Todorov found that people form impressions of others — including judgments like trustworthiness and competence — from faces in roughly a tenth of a second, and that giving people more time did little to change the impression, only to increase their confidence in it. First impressions are formed almost instantly and largely automatically.",
+    "To manage the flood of social information, the mind leans on stereotypes and heuristics as efficiency tools. The 'cognitive miser' idea holds that we default to mental shortcuts that conserve effort, and stereotyping is one of them: it lets us categorise people fast at the cost of accuracy. The trade is speed for precision.",
+    "A central bias here is the fundamental attribution error, described in Lee Ross's work: we tend to attribute other people's behaviour to their character while explaining our own behaviour by the situation. So the driver who cuts us off is 'a jerk,' but when we do the same we were 'having a bad day.' Combined with confirmation bias — noticing what fits the impression we've already formed — this makes snap judgments both quick to form and slow to revise."
+  ],
+  "whyItFeelsDifferent": [
+    "Snap judgments feel like accurate perception rather than guesswork because they arrive instantly and with confidence. Willis and Todorov's work suggests extra time mainly boosts how sure we feel, not how right we are — so a fast impression registers as 'reading someone clearly' even when it's mostly a shortcut.",
+    "The fundamental attribution error makes our judgments of others feel fair because we don't see their situation, only their behaviour. We have full access to our own context and almost none to theirs, so it's natural to read their actions as character and our own as circumstance — and the asymmetry is invisible from the inside.",
+    "And confirmation bias makes a judgment feel increasingly justified over time. Once an impression forms, we tend to notice the evidence that fits it and overlook the rest, so the initial snap judgment seems to keep being confirmed. That's why first impressions feel so reliable even when they're wrong — the mind quietly curates the evidence in their favour."
+  ],
+  "whatResearchSaysToDo": [
+    "The most realistic approach the research supports is catching the judgment rather than trying to prevent it. Because impressions form automatically and fast, you usually can't stop the first read — but you can treat it as a hypothesis to check rather than a conclusion, especially when it matters or when you notice yourself attributing someone's behaviour straight to their character.",
+    "Deliberately considering the situation is a direct counter to the fundamental attribution error. Asking what circumstances might explain someone's behaviour — the same way you'd explain your own — tends to soften the snap judgment and produces a more accurate read, because it restores the context you don't automatically see.",
+    "Staying open to disconfirming evidence helps counter the stickiness. Since confirmation bias makes us notice what fits, intentionally looking for what doesn't fit a first impression, and giving people room to surprise you, helps revise judgments that were never built on much to begin with. None of this makes you bias-free; it just keeps the shortcuts honest."
+  ],
+  "whatDoesNotHelp": [
+    "Believing you can simply stop making snap judgments doesn't help, because they form automatically and almost instantly. Treating yourself as above the process tends to make biases harder to catch, not easier, since you stop watching for them. The realistic goal is catching and checking impressions, not eliminating them.",
+    "Trusting a quick read because it feels confident is a particular trap. Extra time mainly increases confidence rather than accuracy, so the strength of a first impression is a poor guide to whether it's correct. Confidence and correctness aren't the same thing here.",
+    "And treating every snap judgment as a moral failing doesn't help either. Quick judging is a normal mental shortcut shared by essentially everyone, attached to predictable biases. Self-condemnation adds guilt without improving accuracy, whereas noticing the bias and questioning the judgment actually addresses it."
+  ],
+  "realNumbersInContext": [
+    "The clearest number here comes from Willis and Todorov: impressions of others can form in roughly a tenth of a second, and additional viewing time mainly increases confidence rather than changing the judgment. That speed is the core of why quick judging is so hard to prevent — it happens well before deliberate thought gets involved.",
+    "Beyond that, this is a topic of well-established cognitive biases rather than precise statistics. The fundamental attribution error (Ross) and the use of stereotypes as cognitive efficiency are robust, repeatedly observed patterns, though their strength varies by situation and culture. The honest summary is that the speed of impression formation is well documented, and the biases attached to it are well established as tendencies rather than fixed quantities."
+  ],
+  "realNumbers": [
+    { "value": "~0.1 sec", "label": "Time to form an impression of a face; more time mainly raises confidence", "source": "Willis & Todorov, 2006" },
+    { "value": "Character vs. situation", "label": "We judge others' acts as character, our own as circumstance", "source": "Ross — fundamental attribution error" },
+    { "value": "Cognitive miser", "label": "The mind defaults to effort-saving shortcuts like stereotyping", "source": "Cognitive efficiency research" }
+  ],
+  "faqs": [
+    {
+      "question": "How fast do we actually judge people?",
+      "answer": "Very fast. Research by Willis and Todorov found that impressions of others — including judgments like trustworthiness and competence — can form from a face in roughly a tenth of a second. Giving people more time mainly increased their confidence in the impression rather than changing it."
+    },
+    {
+      "question": "Why do I assume the worst about strangers but excuse myself?",
+      "answer": "That's the fundamental attribution error. We tend to attribute other people's behaviour to their character while explaining our own by the situation — the rude driver is 'a jerk,' but we were 'having a bad day.' We see others' actions but not their context, so the asymmetry feels fair from the inside."
+    },
+    {
+      "question": "Why do we rely on stereotypes?",
+      "answer": "Because the brain is a cognitive miser that defaults to effort-saving shortcuts. Stereotypes let us categorise people quickly at the cost of accuracy. It's an efficiency tool, which is why it's so common — and why the judgments it produces are often wrong and worth questioning."
+    },
+    {
+      "question": "Does judging people quickly make me a bad person?",
+      "answer": "No. Snap judgment is a normal mental shortcut shared by essentially everyone, with predictable biases attached. Having the impulse isn't a moral failing; it's how ordinary minds work. What matters is catching and checking the judgment rather than treating the first read as the truth."
+    },
+    {
+      "question": "Can I stop judging people so quickly?",
+      "answer": "You probably can't stop the first impression from forming — it's automatic. But you can treat it as a hypothesis to check, deliberately consider the situation behind someone's behaviour, and stay open to evidence that doesn't fit. That keeps the shortcuts honest even if it can't switch them off."
+    }
+  ],
+  "dataSources": [
+    "Willis, J., & Todorov, A. (2006). First Impressions: Making Up Your Mind After a 100-Ms Exposure to a Face. Psychological Science, 17(7), 592–598.",
+    "Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process (fundamental attribution error).",
+    "Research on stereotyping as cognitive efficiency and the 'cognitive miser' model of social judgment."
+  ],
+  "relatedInsights": [
+    "do-first-impressions-actually-matter",
+    "why-do-we-care-so-much-what-others-think",
+    "why-do-we-think-were-better-than-average"
+  ],
+  "lastReviewed": "2026-06"
+}
