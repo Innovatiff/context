@@ -1,0 +1,77 @@
+{
+  "title": "Does Financial Education Actually Work?",
+  "slug": "does-financial-education-actually-work",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Does Financial Education Actually Work? What Research Shows",
+  "metaDescription": "Classroom financial literacy has weak, fading effects. Here is what the research shows about when education works — timing, defaults, and automation.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Standalone financial-literacy education has a weak, short-lived effect on actual financial behaviour; timing the lesson to the decision and changing defaults tend to work better than general courses.",
+  "honestAnswer": [
+    "Less than most people hope. The largest review of the evidence found that financial-education interventions explained only a tiny share of the variation in people's later financial behaviour, and even that small effect faded within months as the knowledge was forgotten. Learning the concepts in a classroom turns out not to reliably change what people actually do with money.",
+    "That does not mean education is useless — it means the format matters more than the content. Lessons delivered right at the moment of a decision, and changes to the choices themselves, such as automatic enrolment and automatic saving, tend to move behaviour far more than a general course taken in advance and remembered later."
+  ],
+  "whatDataShows": [
+    "The most influential evidence is a 2014 meta-analysis by Fernandes, Lynch and Netemeyer, which pooled results across many studies of financial education. It found that interventions explained only a very small fraction of the variance in financial behaviours — on the order of a tiny percentage — and that the effect decayed over time, becoming negligible roughly twenty months out. The headline is sobering: teaching financial literacy produced much weaker behavioural change than the field had assumed.",
+    "A key reason is the gap between knowing and doing. People can pass a quiz on compound interest and still not save; the bottleneck is rarely a missing fact, it is acting on it under real-world pressure, habit, and competing demands. Knowledge also fades, so a course taken years before a decision has often worn off by the time it would matter.",
+    "Where education does better is when it is delivered 'just in time' — close to the moment of the relevant choice — so the knowledge is fresh and immediately actionable. And the strongest behavioural results come not from teaching at all but from redesigning the decision: work on defaults and automation, associated with Thaler and Benartzi, shows that making the desired action the automatic one dramatically raises participation and saving."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like financial education should work because the problem looks like an information problem. If people make poor money decisions, the intuitive fix is to teach them more — and 'more education' is a satisfying, blameless answer that fits how we think learning works in other domains.",
+    "But money decisions are made under conditions that classrooms don't replicate: emotion, time pressure, social signals, and present bias all push against the abstract lesson learned months earlier. The fact that you understand a concept in calm reflection says surprisingly little about what you'll do in the moment.",
+    "There is also a measurement illusion. Courses reliably raise scores on knowledge tests, which feels like success, so programmes get judged on what they can easily move — what people know — rather than on the harder, slower thing that actually matters: what people do."
+  ],
+  "whatResearchSaysToDo": [
+    "Favour timing over volume. The evidence points toward 'just-in-time' education — a short, targeted nudge delivered right when you are making the decision (taking on a loan, enrolling in a plan, choosing a deductible) — over general courses learned in advance and forgotten. Information is most useful when it is fresh and immediately actionable.",
+    "Where you can, change the default rather than rely on willpower or recall. Thaler and Benartzi's work on automatic enrolment and escalating automatic contributions shows that making saving the automatic option, which you have to opt out of rather than into, lifts participation and saving far more than persuasion does. Automating transfers so the decision happens once, not every payday, applies the same principle to your own finances.",
+    "If you do want to learn, attach the learning to an immediate, concrete action — set up the account, change the contribution, automate the transfer the same day — so the knowledge is encoded in a behaviour rather than left as a fact that will fade."
+  ],
+  "whatDoesNotHelp": [
+    "Generic, one-off financial-literacy courses taken well before any decision are the format the meta-analysis found weakest: they raise knowledge briefly and change behaviour little, with the small effect fading within months. Treating 'more financial education' as the main solution is, on the evidence, overrated.",
+    "Relying on remembered knowledge and willpower at the moment of a decision is exactly the weak point the research identifies. The plan to 'just be more disciplined next time' rarely survives contact with present bias, stress, and forgetting.",
+    "Blaming poor money outcomes purely on personal ignorance misreads the data. The research suggests design and timing — defaults, automation, and just-in-time prompts — do more of the work than the level of someone's financial knowledge, which means the fix is often structural rather than educational."
+  ],
+  "realNumbersInContext": [
+    "The headline figure is how little classroom education moved behaviour. Fernandes, Lynch and Netemeyer (2014) found that financial-education interventions explained only about 0.1% of the variance in the financial behaviours studied — a very small effect — and that it decayed toward zero within roughly two years. The exact percentage is from one meta-analysis and the field continues to debate it, but the direction is consistent: weak and fading.",
+    "By contrast, the clearest wins in this literature come from changing the choice rather than the person. Automatic-enrolment programmes have raised retirement-plan participation from roughly half of new employees to the high 80s or 90s percent in many workplaces, and automatic contribution escalation (the 'Save More Tomorrow' design of Thaler and Benartzi) raised saving rates substantially with no extra teaching. Treat these as illustrative of the pattern rather than precise universal figures."
+  ],
+  "realNumbers": [
+    { "value": "~0.1%", "label": "Share of variance in financial behaviour explained by financial education in a large meta-analysis", "source": "Fernandes, Lynch & Netemeyer, 2014" },
+    { "value": "~20 months", "label": "Roughly how long until the small effect of education faded toward zero", "source": "Fernandes, Lynch & Netemeyer, 2014" },
+    { "value": "Just-in-time", "label": "Timing of education that tends to outperform general courses", "source": "Research on just-in-time financial education" },
+    { "value": "Defaults", "label": "Automatic enrolment / automation tends to beat teaching for changing behaviour", "source": "Thaler & Benartzi" }
+  ],
+  "faqs": [
+    {
+      "question": "So is financial education a waste of time?",
+      "answer": "Not exactly — it reliably raises what people know. The problem the research highlights is that knowledge doesn't translate well into behaviour and fades within months. Education is far more useful when delivered close to a decision and paired with an immediate action than as a general course taken in advance."
+    },
+    {
+      "question": "Why doesn't knowing more about money change what people do?",
+      "answer": "Because the bottleneck is usually acting under real-world pressure, not a missing fact. Money decisions happen amid emotion, time pressure, habit, and present bias, which abstract lessons learned earlier don't override. Knowledge also decays, so a course taken years before a decision has often worn off."
+    },
+    {
+      "question": "What works better than a financial-literacy course?",
+      "answer": "Two things stand out in the research: 'just-in-time' guidance delivered right at the moment of a decision, and changing the default — for example automatic enrolment and automatic saving. Thaler and Benartzi's work shows making the desired action automatic moves behaviour far more than persuasion."
+    },
+    {
+      "question": "What is 'just-in-time' financial education?",
+      "answer": "It's information delivered right when you're about to make the relevant decision — choosing a loan, enrolling in a plan, picking coverage — rather than in a general class beforehand. Because the knowledge is fresh and immediately actionable, it tends to influence behaviour more reliably than education learned in advance."
+    },
+    {
+      "question": "How can I use this for my own finances?",
+      "answer": "Lean on design rather than willpower: automate transfers and contributions so the decision happens once, and when you do learn something, attach it to an immediate action the same day. The aim is to make the good choice the automatic one rather than something you have to remember and decide each time."
+    }
+  ],
+  "dataSources": [
+    "Fernandes, D., Lynch, J. G., & Netemeyer, R. G. (2014). Financial Literacy, Financial Education, and Downstream Financial Behaviors. Management Science, 60(8), 1861–1883.",
+    "Research on 'just-in-time' financial education delivered at the moment of a financial decision.",
+    "Thaler, R. H., & Benartzi, S. (2004). Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving. Journal of Political Economy, 112(S1).",
+    "Thaler, R. H., & Benartzi, S. — research on automatic enrolment and defaults in retirement saving."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-be-bad-with-money",
+    "why-do-we-make-bad-money-decisions",
+    "does-budgeting-actually-work"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Why Do We Think We'll Be Happy 'When…'?",
+  "slug": "why-do-we-think-well-be-happy-when",
+  "category": "happiness-research",
+  "metaTitle": "Why Do We Think We'll Be Happy 'When…'?",
+  "metaDescription": "The 'I'll be happy when' trap comes from the focusing illusion and forecasting errors. Here is what the research on predicting happiness shows.",
+  "lifeArea": "Happiness Research",
+  "keyFinding": "We overpredict how much a single future change will improve our happiness because we overfocus on that one thing and underweight everything else — and we adapt faster than we expect.",
+  "honestAnswer": [
+    "Because we are reliably bad at predicting what will make us happy, and the specific way we are bad produces the 'I'll be happy when…' trap. When you imagine a future milestone — the raise, the house, the move, the relationship — you focus on that one change and mentally underweight everything else that fills your days, so you overestimate how much it will shift your overall happiness.",
+    "Add to that the fact that we adapt to good things faster than we expect, and the pattern becomes predictable. The thing arrives, it feels good for a while, life reabsorbs it as the new normal, and the broad background level of happiness drifts back toward where it was. Happiness turns out to be more diffuse, more adaptive, and less hostage to any single change than the 'when' framing assumes."
+  ],
+  "whatDataShows": [
+    "A core driver is what Kahneman called the focusing illusion, summarised in his line that 'nothing in life is as important as you think it is while you are thinking about it.' When you direct attention at one factor — income, a city, a purchase — it looms large precisely because you are looking straight at it, so you overweight its effect on your future happiness and underweight the hundreds of other things that actually fill an ordinary day.",
+    "This sits inside a broader body of work on affective forecasting — our predictions about future feelings. Research by Wilson and Gilbert finds that people systematically mispredict the intensity and especially the duration of their future emotions, a tendency often called impact bias. We tend to think good events will make us happier for longer, and bad events will hurt us for longer, than they actually do.",
+    "Part of why durations are overpredicted is hedonic adaptation: people tend to adjust to new circumstances, good or bad, and drift back toward a relatively stable baseline. The related 'arrival fallacy' describes reaching a long-sought goal and finding the expected lasting happiness does not materialise. Together these mean the 'I'll be happy when X' prediction is built on a forecast our own track record rarely supports."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels different because the imagined version is vivid and the lived version is not yet real. When you picture the milestone, you experience a concentrated burst of the good feeling with none of the ordinary friction, commutes, chores, and worries that will still be there afterward. The forecast is a highlight; the reality is a full day.",
+    "The focusing illusion also makes the prediction feel obviously true. While you are thinking about the raise or the house, it genuinely is the most important thing — because attention is what makes things feel important. The moment you stop thinking about it and go live your life, its share of your actual experience shrinks to something much smaller, but you only learn that after the fact.",
+    "And we rarely audit our own forecasts. We move from one 'I'll be happy when' to the next without noticing that the previous one did not deliver the lasting change we expected. Because adaptation is quiet and gradual, the let-down gets attributed to the goal being the wrong goal, rather than to the predictable way our predictions work."
+  ],
+  "whatResearchSaysToDo": [
+    "The most practical correction is to deliberately widen the frame when forecasting. Because the focusing illusion comes from overweighting one factor, consciously asking 'and what else will my days actually contain after this changes?' tends to deflate the over-prediction. The milestone usually still matters — just less, and less permanently, than it appears head-on.",
+    "Lowering the stakes of any single 'when' also helps. Since happiness is diffuse and adaptive, spreading attention across many small, repeated sources of wellbeing — relationships, daily activities, ordinary pleasures — tends to be more reliable than betting your happiness on one big arrival. The research on adaptation suggests novelty and variety can slow how quickly good things fade.",
+    "Expecting adaptation, rather than being blindsided by it, is itself useful. Knowing that the glow of a goal will likely settle does not make the goal pointless — it just reframes it as worthwhile in its own right rather than as the thing that will finally fix your baseline. Pursuing goals for their own sake holds up better than pursuing them as a happiness cure."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the next milestone as the fix does not help, because the prediction itself is the problem. 'I'll be happy when I hit X' reliably disappoints not because people pick the wrong X, but because the forecast overweights X and underweights adaptation. Swapping in a bigger or different goal tends to reproduce the same let-down.",
+    "Simply pursuing more intense or more frequent peaks does not durably raise baseline happiness, because hedonic adaptation pulls the baseline back. Chasing one high after another can leave the background level roughly unchanged while the bar for what counts as good keeps rising.",
+    "Blaming yourself when the arrival does not deliver does not help and is usually misplaced. The arrival fallacy and impact bias are documented, near-universal features of how human forecasting works. Feeling flat after reaching a long-sought goal is the expected result of a normal prediction error, not evidence that something is wrong with you or that the goal was meaningless."
+  ],
+  "realNumbersInContext": [
+    "This is a body of work about prediction errors rather than a single statistic, so the honest framing is directional: across studies of affective forecasting, people tend to overestimate how long both good and bad events will affect them — the impact bias. The focusing illusion, captured in Kahneman's line that 'nothing in life is as important as you think it is while you are thinking about it,' explains a large part of why the 'when' forecast is inflated.",
+    "Hedonic adaptation supplies the rest: people generally drift back toward a relatively stable baseline after changes settle. Note that adaptation is partial and not universal — some life circumstances do shift wellbeing more durably — so the takeaway is not that nothing matters, but that any single change tends to matter less, and for less time, than we predict."
+  ],
+  "realNumbers": [
+    { "value": "Focusing illusion", "label": "We overweight whatever we are currently thinking about when predicting happiness", "source": "Kahneman" },
+    { "value": "Impact bias", "label": "We overestimate how long future events will affect our feelings", "source": "Wilson & Gilbert (affective forecasting)" },
+    { "value": "Adaptation", "label": "We tend to drift back toward a stable baseline after changes settle", "source": "Hedonic adaptation research" },
+    { "value": "Arrival fallacy", "label": "Reaching a long-sought goal often brings less lasting happiness than expected", "source": "Affective forecasting / adaptation" }
+  ],
+  "faqs": [
+    {
+      "question": "Why do I keep thinking I'll be happy once I reach the next goal?",
+      "answer": "Mostly because of the focusing illusion: when you imagine a future goal you focus on that one change and underweight everything else, so you overpredict how much it will lift your overall happiness. Combined with hedonic adaptation, the goal arrives, feels good briefly, then becomes the new normal."
+    },
+    {
+      "question": "What is the focusing illusion?",
+      "answer": "It is Kahneman's observation that 'nothing in life is as important as you think it is while you are thinking about it.' Attention inflates importance, so whatever future factor you concentrate on — income, a house, a move — seems like it will matter more for your happiness than it actually will once you stop focusing on it and go live your life."
+    },
+    {
+      "question": "What is the arrival fallacy?",
+      "answer": "It is the common experience of reaching a long-pursued goal and finding the expected lasting happiness doesn't show up. It fits the wider research on affective forecasting, where people overestimate how long good events will make them feel better. The flat feeling after a big achievement is a normal prediction error, not a personal failing."
+    },
+    {
+      "question": "Does this mean goals are pointless?",
+      "answer": "No. Goals can be worthwhile in their own right, and some life changes do shift wellbeing durably. The research argues against treating any single goal as the thing that will finally fix your baseline happiness, not against having goals. Pursuing them for their own sake holds up better than pursuing them as a happiness cure."
+    },
+    {
+      "question": "How do I avoid the 'I'll be happy when' trap?",
+      "answer": "Widen the frame when you forecast: ask what your ordinary days will actually contain after the change, which deflates the focusing illusion. Spread your wellbeing across many small, repeated sources rather than betting it on one arrival, and expect some adaptation so you aren't blindsided when the glow settles."
+    }
+  ],
+  "dataSources": [
+    "Kahneman, D. — the focusing illusion ('nothing in life is as important as you think it is while you are thinking about it').",
+    "Wilson, T. D., & Gilbert, D. T. — affective forecasting and the impact bias (mispredicting the intensity and duration of future emotions).",
+    "Hedonic adaptation and the arrival fallacy — the tendency to adjust back toward a baseline after good or bad changes."
+  ],
+  "relatedInsights": [
+    "why-achieving-the-thing-you-wanted-didnt-feel-the-way-you-expected",
+    "is-chasing-happiness-the-wrong-goal",
+    "why-do-we-get-used-to-good-things-so-fast"
+  ],
+  "lastReviewed": "2026-06"
+}

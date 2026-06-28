@@ -1,0 +1,76 @@
+{
+  "title": "Why Does Your Mood Change Throughout the Day?",
+  "slug": "why-does-your-mood-change-throughout-the-day",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Why Your Mood Changes Throughout the Day — The Research",
+  "metaDescription": "Daily mood swings are largely biological rhythms, not random. Here is what research on circadian patterns and the afternoon dip actually shows.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Mood follows fairly predictable daily patterns driven largely by circadian and ultradian rhythms, so day-to-day mood swings are mostly normal biology rather than random emotional noise.",
+  "honestAnswer": [
+    "Your mood changes through the day mostly because of biology, not because something is wrong. Internal body clocks — your circadian rhythm over the 24-hour cycle and shorter ultradian rhythms within it — drive predictable shifts in alertness, energy, and emotional tone. On top of that, sleep, food, light exposure, and contact with other people all push your mood up or down at fairly regular times.",
+    "The practical version: a lot of what feels like an unpredictable emotional weather system is actually a fairly reliable daily pattern. For many people mood tends to run higher in the morning and dip later, with a common slump in the early-to-mid afternoon. Knowing the pattern is largely normal — and partly schedulable around — takes some of the worry out of it.",
+    "This is educational context, not a diagnosis. Persistent low mood, mood swings that disrupt your life, or changes that worry you are worth raising with a qualified clinician rather than explaining away as 'just the afternoon dip.'"
+  ],
+  "whatDataShows": [
+    "Large-scale data point to a daily rhythm in mood. A widely cited 2011 analysis by Golder and Macy, published in Science, examined hundreds of millions of public social-media posts across many countries and found that markers of positive mood tended to be higher in the morning, dip across the day, and recover somewhat in the evening — a pattern broadly consistent across cultures. Like all such data it has limits (it measures expressed mood, not felt mood), but the diurnal shape was strikingly regular.",
+    "The afternoon slump has its own support. Research on the 'post-lunch dip' finds a fairly common decline in alertness and energy in the early-to-mid afternoon, tied to circadian and ultradian rhythms rather than purely to eating — the dip tends to appear even without a large lunch, though food can deepen it. It is one of the more reliable low points in the daily cycle for many people.",
+    "Several other factors modulate the daily curve. Sleep debt lowers and flattens mood; bright light, especially in the morning, tends to lift it; food and blood-sugar swings nudge it; and social contact generally raises it. Your chronotype — whether you lean morning or evening — shifts the whole pattern earlier or later, which is why a 'morning peak' is real for some people and clearly wrong for others."
+  ],
+  "whyItFeelsDifferent": [
+    "Daily mood shifts feel personal and meaningful because we are wired to explain our feelings with reasons. When your mood drops at 3 p.m., your mind reaches for a cause — a comment someone made, a worry about work — when much of the dip is simply where you are in your daily rhythm. The story feels more true than 'this is roughly when my alertness bottoms out.'",
+    "It also feels random because the rhythm is invisible. You don't see your circadian clock the way you'd see a falling thermometer, so the regularity is easy to miss until you track it. Once people note their mood across several days, the pattern that felt chaotic often turns out to be fairly consistent.",
+    "And the late-day dip lands at a vulnerable time — often when the day's demands are still unfinished — so it can get interpreted as evidence that something is wrong, rather than as a predictable trough. The same low energy at 3 p.m. that feels like a crisis would barely register at 9 p.m. when the day is winding down."
+  ],
+  "whatResearchSaysToDo": [
+    "Schedule demanding work around your rhythm where you can. If your alertness tends to peak in the morning, that's often the better window for focused, effortful tasks, with lighter or more routine work parked in the afternoon trough. The point isn't rigid optimisation — it's not fighting your lowest-energy hours with your hardest tasks.",
+    "Protect the inputs that steady mood: consistent sleep, morning light exposure, regular meals, and some social contact. These are among the better-supported levers because they act directly on the rhythms driving the daily curve. Morning light in particular has reasonable support for helping anchor the circadian clock.",
+    "Account for your chronotype rather than someone else's. If you're an evening type, forcing yourself onto an early-bird schedule fights your biology and tends to leave you out of sync. Aligning your hardest tasks with your own peak — whenever it falls — is more realistic than adopting a generic 'mornings are best' rule."
+  ],
+  "whatDoesNotHelp": [
+    "Treating every daily mood dip as a sign that something is wrong tends to make it worse, because the added worry compounds the trough. Most day-to-day swings are normal rhythm, not evidence of a problem — though, again, persistent or disruptive changes deserve a clinician's attention rather than reassurance.",
+    "Pushing through the afternoon dip with more caffeine and sheer willpower is a weak strategy. Caffeine can mask low alertness for a while but doesn't change the underlying rhythm, and late-day caffeine can disrupt the night's sleep, deepening tomorrow's dip. The cycle tends to reinforce itself.",
+    "Erratic sleep and meal timing undercut everything else, because they desynchronise the very rhythms that make mood predictable. 'Catching up' on sleep on weekends and eating at wildly different times each day tend to flatten and destabilise the daily mood curve rather than smooth it."
+  ],
+  "realNumbersInContext": [
+    "The honest numbers here are about pattern, not precise magnitude. Golder and Macy's 2011 analysis covered hundreds of millions of posts from millions of users across dozens of countries, and found a consistent daily mood shape — higher positive affect in the morning, a dip across the day, some evening recovery. It measures expressed mood, so treat it as evidence of a pattern rather than an exact emotional thermometer.",
+    "The post-lunch dip is similarly a documented tendency rather than a fixed percentage: a fairly common decline in alertness in the early-to-mid afternoon, present even without a heavy meal. And chronotype matters enough that any 'morning is best' figure is misleading for the substantial share of people who genuinely peak later. The reliable takeaway is that there is a daily curve — its exact timing is yours."
+  ],
+  "realNumbers": [
+    { "value": "Morning higher", "label": "General daily mood pattern across cultures", "source": "Golder & Macy, Science 2011" },
+    { "value": "Early–mid afternoon", "label": "When the common 'post-lunch dip' tends to hit", "source": "Post-lunch dip research" },
+    { "value": "Shifts the curve", "label": "Effect of your chronotype (morning vs. evening type)", "source": "Circadian rhythm research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it normal for my mood to change a lot during the day?",
+      "answer": "Yes, for most people daily mood shifts are largely normal biology, driven by circadian and ultradian rhythms plus sleep, food, light, and social contact. A common pattern is higher mood in the morning with a dip later. That said, persistent low mood or swings that disrupt your life are worth discussing with a qualified clinician."
+    },
+    {
+      "question": "Why do I crash in the afternoon?",
+      "answer": "Research on the 'post-lunch dip' finds a fairly common decline in alertness and energy in the early-to-mid afternoon, tied mainly to your circadian and ultradian rhythms rather than just to lunch — it tends to appear even without a heavy meal, though food can deepen it."
+    },
+    {
+      "question": "Is my mood best in the morning?",
+      "answer": "It depends on your chronotype. Large data sets show an average pattern of higher mood in the morning, but evening types genuinely peak later. The general curve is real; its exact timing is individual, so it's worth noticing your own rather than assuming mornings are best."
+    },
+    {
+      "question": "What actually steadies daily mood?",
+      "answer": "The better-supported levers act on the underlying rhythms: consistent sleep, morning light exposure, regular meals, and some social contact. These tend to stabilise the daily curve more than willpower or caffeine, which can mask a dip without changing it."
+    },
+    {
+      "question": "Does this mean my feelings aren't 'real'?",
+      "answer": "No. The feelings are real; the point is that their timing is partly driven by biology rather than always by events. Knowing a 3 p.m. dip is partly rhythm can stop you from over-attributing it to something being wrong — while still taking persistent changes seriously."
+    }
+  ],
+  "dataSources": [
+    "Golder, S. A., & Macy, M. W. (2011). Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures. Science, 333(6051), 1878–1881.",
+    "Research on circadian and ultradian rhythms and their effect on alertness and mood.",
+    "Research on the post-lunch dip in alertness and energy."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-tired-all-the-time",
+    "why-do-we-crash-in-the-afternoon",
+    "how-the-average-person-actually-spends-their-day"
+  ],
+  "lastReviewed": "2026-06"
+}

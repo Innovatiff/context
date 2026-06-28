@@ -1,0 +1,76 @@
+{
+  "title": "Does When You Do Things Actually Matter?",
+  "slug": "does-when-you-do-things-actually-matter",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Does When You Do Things Actually Matter? The Research",
+  "metaDescription": "Timing matters more than most people think. What research shows about doing the right task at the right time of day — and taking real breaks.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "Performance and mood follow fairly predictable daily patterns, so matching the type of task to your energy rhythm — and taking genuine breaks — tends to help, though chronotype and individual variation shift the best windows.",
+  "honestAnswer": [
+    "Yes — when you do things matters more than most people assume, even if it's less of a precise science than the headlines suggest. A large body of research synthesised in Daniel Pink's book When points to consistent daily patterns: performance and mood rise, dip, and recover across the day, and the type of task that suits each phase differs. Analytical, focused work often goes better during the morning peak, while some insight and creative work can actually improve during the later 'trough and recovery' phase.",
+    "The other reliable finding is about breaks: genuine pauses meaningfully restore performance, and 'powering through' tends to degrade it. The important caveat is that your chronotype shifts the timing of all of this, and individual variation is large — so the win isn't a universal schedule, it's aligning your task type to your own daily energy rhythm and actually stepping away to recover."
+  ],
+  "whatDataShows": [
+    "Daily performance follows a curve. In When, Daniel Pink synthesises time-of-day research showing a common pattern of a peak, a trough, and a recovery across the day. For most morning-leaning people, analytical and vigilance-demanding tasks tend to be sharpest in the morning peak; the early-to-mid afternoon trough is a low point for focus and accuracy; and a recovery follows later in the day.",
+    "Task type interacts with timing. The research Pink draws on suggests that tasks needing tight focus and logical accuracy often go best at the peak, while some insight or creative tasks — where a slightly looser, less-inhibited mind can help — sometimes do better during the trough or recovery rather than at peak alertness. So 'best time' depends on what kind of thinking the task needs.",
+    "Breaks genuinely restore performance. Research on vigilance and attention finds that brief, real breaks counter the decline that builds up during sustained tasks — the so-called 'vigilance break.' Time-of-day effects also show up in higher-stakes settings, from decision quality to mood, underscoring that when something happens can shape the outcome, not just how hard you try."
+  ],
+  "whyItFeelsDifferent": [
+    "Timing feels like it shouldn't matter much because we like to believe effort and ability are what count — that a focused person can do good work at any hour if they try hard enough. Admitting that 3 p.m. is simply a worse time for analytical work than 10 a.m. can feel like making excuses, so we tend to under-weight it.",
+    "It also feels different because the daily curve is invisible from the inside. You experience the afternoon trough as 'I can't focus today,' not as 'I'm in the predictable low phase of my rhythm.' Without tracking it, the pattern looks like random good and bad days rather than a fairly regular cycle.",
+    "And our culture treats breaks as the opposite of productivity, so stepping away feels like slacking even when the evidence says it restores performance. The result is that many people schedule their hardest work into their worst hours and then push through without breaks — roughly the opposite of what the research supports."
+  ],
+  "whatResearchSaysToDo": [
+    "Match the task to the phase. Where you can, put analytical, focus-heavy work in your peak window and lower-stakes or routine tasks in your trough. If you're tackling something that benefits from looser, more associative thinking, the trough or recovery phase may actually suit it better than peak alertness.",
+    "Take real breaks, and take them before you're depleted. The vigilance-break research suggests that brief, genuine pauses — moving, stepping outside, getting away from the screen — restore attention better than pushing through. Short and frequent tends to beat one long collapse at the end of the day.",
+    "Calibrate to your own chronotype. Pink's synthesis stresses that morning types and evening types have different peak and trough timing, so the right schedule is yours, not a generic one. Track your energy across a week or two, then arrange your most important work around your actual peak — whenever that falls."
+  ],
+  "whatDoesNotHelp": [
+    "Scheduling your hardest analytical work into your trough and trying to brute-force it tends to waste your best effort on your worst hours. Effort doesn't fully compensate for being in the low phase of your daily rhythm; the same task is simply harder then.",
+    "Skipping breaks to 'save time' is usually a false economy. The vigilance research suggests that performance degrades over sustained effort and that brief pauses restore it, so working straight through often produces slower, lower-quality output than working with breaks.",
+    "Copying someone else's ideal schedule rarely transfers, because chronotype and individual variation are large. A morning person's 6 a.m. routine can be actively counterproductive for an evening type. The research argues for finding your own peak and trough, not adopting a famous one."
+  ],
+  "realNumbersInContext": [
+    "This is an area to describe as a pattern, not a precise figure — the studies behind When are about direction and shape more than exact percentages, and it would be misleading to attach a hard number to 'how much timing helps.' The reliable findings are the peak-trough-recovery curve, the interaction between task type and time of day, and the restorative effect of breaks.",
+    "Individual variation is the part most worth holding onto. Chronotype shifts the whole curve earlier or later, so any single 'best hour' is wrong for a large share of people. The honest claim isn't that mornings are objectively best — it's that there's a daily rhythm, that matching task type to it tends to help, and that real breaks reliably restore performance."
+  ],
+  "realNumbers": [
+    { "value": "Peak–trough–recovery", "label": "Common daily shape of performance and mood", "source": "Pink, 'When'" },
+    { "value": "Often morning", "label": "When analytical, focus-heavy tasks tend to go best", "source": "Time-of-day performance research" },
+    { "value": "Restores focus", "label": "Effect of brief, genuine 'vigilance breaks'", "source": "Research on restorative breaks" }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a best time of day to work?",
+      "answer": "There's a best time for a given type of work, and it depends on your chronotype. The research synthesised in Daniel Pink's When suggests analytical, focus-heavy tasks often go best at your daily peak (morning for many people), while some creative or insight work can do better during the later trough or recovery phase."
+    },
+    {
+      "question": "Do breaks actually improve performance?",
+      "answer": "Yes. Research on attention and vigilance finds that brief, genuine breaks counter the performance decline that builds up during sustained tasks. Short, frequent pauses — where you actually step away — tend to restore focus better than pushing straight through."
+    },
+    {
+      "question": "When should I do creative work?",
+      "answer": "Possibly not at your sharpest hour. The research Pink draws on suggests some insight and creative tasks benefit from a slightly looser, less-inhibited mind, which can mean the trough or recovery phase rather than peak alertness. Analytical work is the opposite — it tends to want the peak."
+    },
+    {
+      "question": "Does this work the same for everyone?",
+      "answer": "No — individual variation is large and chronotype shifts the whole curve. Morning types and evening types peak at different times, so the right schedule is the one built around your own energy rather than a generic 'mornings are best' rule."
+    },
+    {
+      "question": "How do I find my own peak and trough?",
+      "answer": "Track your energy and focus across a week or two and look for the pattern. Most people find a fairly consistent high period and a fairly consistent slump. Then arrange your most demanding work around your actual peak and put lighter tasks in the trough."
+    }
+  ],
+  "dataSources": [
+    "Pink, D. H. (2018). When: The Scientific Secrets of Perfect Timing — synthesis of time-of-day research on performance and mood.",
+    "Research on time-of-day effects on cognitive performance, decisions, and mood.",
+    "Research on restorative and 'vigilance' breaks and sustained attention.",
+    "Research on chronotype (morning versus evening types) and optimal performance windows."
+  ],
+  "relatedInsights": [
+    "are-morning-people-actually-more-productive",
+    "how-many-hours-can-you-actually-focus-in-a-day",
+    "does-having-a-daily-routine-actually-help"
+  ],
+  "lastReviewed": "2026-06"
+}

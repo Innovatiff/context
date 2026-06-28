@@ -1,0 +1,71 @@
+{
+  "title": "Why Do We Think We're More in Control Than We Are?",
+  "slug": "why-do-we-think-were-more-in-control-than-we-are",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Think We're More in Control Than We Are",
+  "metaDescription": "The illusion of control makes us feel we can sway random outcomes. It's a common, partly protective bias — and recognizing it reduces needless self-blame.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "People routinely overestimate how much they can influence outcomes that are partly or wholly down to chance, a bias that is common and partly psychologically protective but can also fuel superstition and self-blame for things outside their control.",
+  "honestAnswer": [
+    "Because feeling in control is psychologically useful, and our minds reach for it even when the control is not really there. Psychologist Ellen Langer called this the illusion of control: a tendency to act as though we can influence outcomes that are actually governed by chance. It is not a sign of arrogance or poor reasoning; it is a common bias that shows up in almost everyone, partly because believing we have a hand on the wheel quietly reduces anxiety.",
+    "The honest picture is that this bias cuts both ways. Feeling capable of influencing events can motivate effort and persistence, which is genuinely valuable. But the same instinct can lead us to take credit and blame for things we never controlled — turning bad luck into a story about personal failure. Recognising where your actual influence ends is less about giving up and more about putting your self-blame where it belongs."
+  ],
+  "whatDataShows": [
+    "Ellen Langer's research in the 1970s showed people behaving as if chance outcomes were under their control. In classic studies, people placed higher value on lottery tickets they had chosen themselves than on identical tickets assigned to them — even though the draw is random. Related observations include people throwing dice harder or more deliberately when aiming for high numbers, as if effort could sway a random roll.",
+    "The effect strengthens when situations contain cues normally associated with skill — choice, familiarity, competition, or practice. When a game of pure chance is dressed up to feel like a game of skill, people's sense of control rises accordingly, even though the odds have not moved at all. The mind reads the surface features and infers influence that is not there.",
+    "Research on locus of control and wellbeing offers the other half of the picture: a sense of agency is generally associated with lower anxiety and better coping, which is part of why the illusion persists. Believing you can affect outcomes is often protective, even when the belief outruns reality. The bias is not pure error — it carries a psychological benefit, which is precisely why it is so durable."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels different because control and luck are genuinely hard to tell apart from the inside. When you act and then a good outcome follows, the sequence feels causal — you did something, the thing happened — even if the link was coincidence. Our pattern-detecting minds are far more tuned to spot connection than to notice its absence.",
+    "It also feels different because admitting how much is out of our hands is uncomfortable. A world where effort reliably produces results feels safer and fairer than one where chance plays a large role, so we are motivated to overstate our influence. The illusion is partly a defence against the anxiety of genuine uncertainty.",
+    "And success stories reinforce it constantly. We hear from people who took action and won, rarely from those who took identical action and lost, because the losers are quieter and harder to find. This survivorship-shaped feedback makes control look more reliable than it is, and makes uncontrollable outcomes feel like they must have been someone's fault."
+  ],
+  "whatResearchSaysToDo": [
+    "The practical move the research points to is to separate the parts of a situation you can influence from the parts you cannot, and to direct your effort and your self-judgment accordingly. You can usually control your inputs — preparation, choices, persistence — but not the outcome, which often depends on chance and other people. Judging yourself on inputs rather than results is both more accurate and less punishing.",
+    "Noticing the cues that inflate the illusion — choosing, familiarity, the feeling of skill in a game of chance — helps you catch it in the act. When a situation feels controllable, it is worth asking how much of the outcome actually depends on you versus on factors you cannot move. This is not pessimism; it is calibration.",
+    "Crucially, the goal is not to abandon a sense of agency, which the research links to better coping. A measured belief in your own influence, applied to the things you really can affect, keeps the motivational benefit while shedding the self-blame for the things you never could. Calibrated agency tends to beat both helplessness and the illusion."
+  ],
+  "whatDoesNotHelp": [
+    "Trying harder to control genuinely random outcomes does not help and can quietly raise stress — squeezing the dice tighter changes nothing about the roll. Effort aimed at things outside your influence burns energy and, when it fails, feeds the false conclusion that you should have done more.",
+    "Blaming yourself for outcomes that were largely chance or down to others is one of the costliest versions of this bias. The illusion of control tempts us to treat every bad result as a personal failure, when in reality the input may have been sound and the outcome simply unlucky. Good decisions can have bad outcomes, and the reverse, far more often than it feels.",
+    "Swinging to the opposite extreme — concluding nothing is in your hands — is no better. The evidence ties a sense of agency to lower anxiety and better coping, so total fatalism forfeits a real psychological benefit. The aim is accurate calibration, not learned helplessness."
+  ],
+  "realNumbersInContext": [
+    "There is no single headline figure here; the illusion of control is a robust, repeatedly demonstrated pattern rather than one statistic. Langer's lottery-ticket studies are the best-known illustration: people consistently demanded more to give up a ticket they had chosen than one they were handed, despite the draw being identical chance either way. The effect is small to moderate but reliable, and stronger when skill-like cues are present.",
+    "The honest framing is that this is a near-universal bias with a built-in upside. A sense of control is linked to lower anxiety and better coping, which is part of why the illusion is so persistent — it is doing a job. The cost is misplaced credit and, more painfully, misplaced blame. Knowing the bias exists lets you keep the motivational benefit while easing the self-judgment that does not belong to you."
+  ],
+  "realNumbers": [
+    { "value": "Higher value", "label": "Worth people place on lottery tickets they chose vs. ones assigned to them", "source": "Langer, illusion of control studies" },
+    { "value": "Skill cues", "label": "What inflates the sense of control in games of pure chance", "source": "Langer and related research" },
+    { "value": "Protective", "label": "Association between a sense of agency and lower anxiety / better coping", "source": "Research on locus of control and wellbeing" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the illusion of control?",
+      "answer": "It is a bias, identified by psychologist Ellen Langer, in which people overestimate how much they can influence outcomes that are actually governed by chance. Classic examples include valuing a self-chosen lottery ticket more than an assigned one, or throwing dice harder when aiming for high numbers — behaviours that treat random events as if effort could sway them."
+    },
+    {
+      "question": "Is it bad to feel in control?",
+      "answer": "Not at all. A sense of agency is associated with lower anxiety and better coping, which is part of why the bias persists. The problem is only when the feeling outruns reality — leading you to take blame for outcomes that were really down to chance or to other people. The aim is calibrated agency, not none."
+    },
+    {
+      "question": "How do I tell what I actually control?",
+      "answer": "A useful rule is to separate inputs from outcomes. You can usually influence your preparation, choices, and persistence; you often cannot control the result, which depends on luck and others. Judging yourself on the inputs you controlled, rather than the outcome you did not, tends to be both more accurate and less punishing."
+    },
+    {
+      "question": "Why do I blame myself for things that weren't my fault?",
+      "answer": "The illusion of control tempts us to treat every bad outcome as a personal failing, because feeling responsible can paradoxically feel safer than admitting how much was random. But good decisions sometimes have bad outcomes through no fault of yours. Recognising the role of chance is one of the most reliable ways to reduce needless self-blame."
+    }
+  ],
+  "dataSources": [
+    "Langer, E. J. (1975). The Illusion of Control. Journal of Personality and Social Psychology, 32(2), 311–328.",
+    "Research on locus of control and wellbeing (sense of agency, anxiety, and coping).",
+    "Research on self-blame for uncontrollable outcomes and the misattribution of chance events."
+  ],
+  "relatedInsights": [
+    "why-do-we-blame-ourselves-for-things-we-cant-control",
+    "why-do-we-think-were-better-than-average",
+    "why-do-good-decisions-sometimes-have-bad-outcomes"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Why Do We Assume Everyone Thinks Like Us?",
+  "slug": "why-do-we-assume-everyone-thinks-like-us",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Assume Everyone Thinks Like Us",
+  "metaDescription": "The false consensus effect makes us overestimate how widely our views are shared. It's a normal bias from a limited vantage point — and a source of conflict.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "People systematically overestimate how widely their own beliefs, preferences, and choices are shared — a well-documented bias called the false consensus effect that stems from our own perspective being most available and from surrounding ourselves with similar others.",
+  "honestAnswer": [
+    "Because of a well-documented bias called the false consensus effect: we overestimate how many other people share our beliefs, preferences, and choices, and we treat our own views as ordinary common sense. Ross, Greene and House demonstrated this in 1977 — across different choices, people consistently assumed their option was the more popular one and judged those who chose differently as more unusual. Assuming others think like us is not arrogance; it is a predictable consequence of seeing the world from a single vantage point.",
+    "The honest picture is that this bias comes from a few mundane sources at once: our own perspective is the one most available to us, we tend to be surrounded by similar others, and it is quietly validating to feel that our views are normal. The flip side, called false uniqueness, shows up for our abilities — we tend to think our talents are rarer than they are. Knowing the pattern helps explain a lot of everyday surprise and conflict, where 'how could they possibly think that?' is really our own consensus estimate being off."
+  ],
+  "whatDataShows": [
+    "The classic demonstration is Ross, Greene and House (1977), who found a robust false consensus effect: people who made one choice estimated that more others would make the same choice than people who chose the alternative did. Each group projected its own preference onto the population and saw the opposite choice as the less common, more revealing one. The effect held across a range of opinions and behaviours.",
+    "Two mechanisms recur in the research. The first is availability: our own beliefs and reasons are the most accessible information we have, so when we estimate what others think, our own view comes to mind first and anchors the guess. The second is social projection — we project our internal states onto others partly because, lacking direct access to their minds, our own is the nearest model.",
+    "Our social environment amplifies it. We tend to cluster with people who are similar to us in background, values, and outlook, so the sample we actually observe really does mostly agree with us — making our overestimate feel confirmed. And motivated reasoning adds a pull: it is reassuring to believe our views are widely held, which nudges the estimate further toward 'most people agree with me.'"
+  ],
+  "whyItFeelsDifferent": [
+    "It feels different because our own perspective does not feel like a perspective — it feels like simply seeing what is reasonable. When you hold a view, the reasons for it are vivid and obvious to you, so it is natural to assume any sensible person would reach the same place. The bias is invisible precisely because our own viewpoint is the water we swim in.",
+    "It also feels different because our day-to-day sample is genuinely skewed. The people we spend time with disproportionately share our outlook, so the evidence right in front of us really does suggest broad agreement. We are not making up the consensus from nothing; we are over-generalising from a self-selected slice of the population to everyone.",
+    "And it is emotionally easier to feel normal than unusual. Believing our preferences are widely shared is validating and low-friction, while discovering that many people see things very differently can feel unsettling. That gentle motivational pull keeps the consensus estimate inflated without our ever deciding to inflate it."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful step is to treat your own view as one data point rather than as the default for everyone. When you catch yourself assuming most people agree, it helps to ask how you actually know that, and to notice that the strongest evidence — your immediate circle — is exactly the sample most likely to mislead you. Holding your consensus estimate loosely is the calibrated move.",
+    "Deliberately exposing yourself to people and sources outside your usual cluster corrects the skewed sample at its source. The more your observed range of views resembles the real range, the less your projections will overshoot. This is less about changing your mind and more about getting an accurate read on how common your mind actually is.",
+    "When disagreement surprises you, the research suggests reading it as information about the diversity of views rather than as a sign the other person is odd or wrong. 'How could they think that?' is often your own false consensus showing — a cue to update your estimate of what people believe, not to conclude the other person is the outlier."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the agreement of your immediate circle as proof of broad consensus is the central mistake, because that circle is a self-selected, like-minded sample — the very thing that inflates the bias. The people around you agreeing with you tells you little about the wider population, however convincing it feels.",
+    "Assuming that people who disagree are unusual, uninformed, or arguing in bad faith follows directly from the bias and tends to fuel conflict. Ross, Greene and House found people judged those who chose differently as more deviant; treating disagreement as a defect in the other person, rather than as evidence your consensus estimate was off, gets the inference backwards.",
+    "Simply resolving to be 'more open-minded' in the abstract does little if your information diet stays narrow. The bias is driven partly by a skewed sample and by availability, so without actually widening the range of views you encounter, good intentions leave the underlying mechanism untouched. Changing the inputs does more than exhorting yourself to be fair."
+  ],
+  "realNumbersInContext": [
+    "There is no single headline statistic here; the false consensus effect is a robust, repeatedly replicated finding rather than one number. The signature result from Ross, Greene and House (1977) is comparative: whichever option people chose, they estimated it to be the more common choice — so the two groups' estimates of the same population diverged sharply, each tilted toward its own preference. The effect is reliable across many beliefs and behaviours, though its size varies by topic.",
+    "The honest framing is that this is a normal, predictable bias of a limited vantage point, not a personal failing. It is fed by our own perspective being most available, by clustering with similar others, and by the comfort of feeling normal — and it has a counterpart, false uniqueness, for our abilities. Recognising it does not eliminate it, but it reframes everyday surprise and conflict as a miscalibrated consensus estimate rather than evidence that other people are strange."
+  ],
+  "realNumbers": [
+    { "value": "Overestimate", "label": "How widely we judge our own views and choices to be shared", "source": "Ross, Greene & House (1977)" },
+    { "value": "Availability", "label": "Our own perspective is most accessible, so it anchors our guesses about others", "source": "Research on availability and social projection" },
+    { "value": "False uniqueness", "label": "The flip side — we think our abilities are rarer than they are", "source": "Social comparison research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the false consensus effect?",
+      "answer": "It is a bias, demonstrated by Ross, Greene and House in 1977, in which people overestimate how widely their own beliefs, preferences, and choices are shared, treating their views as common sense. In their studies, whichever option people chose, they assumed it was the more popular one — and saw those who chose differently as more unusual."
+    },
+    {
+      "question": "Why do I assume people agree with me?",
+      "answer": "A few ordinary reasons combine: your own perspective is the most available information when you guess what others think, you tend to be surrounded by similar people whose agreement seems to confirm it, and it's quietly validating to feel normal. None of these require arrogance — they're the predictable result of viewing the world from a single, self-selected vantage point."
+    },
+    {
+      "question": "What is false uniqueness, then?",
+      "answer": "It's the flip side of the same coin. While we tend to overestimate how widely our opinions and choices are shared, we tend to underestimate how common our abilities and successes are — thinking our talents are rarer than they really are. So we over-share our views in our minds but under-share our skills."
+    },
+    {
+      "question": "How do I stop overestimating agreement?",
+      "answer": "Treat your own view as one data point, not the default, and remember that your immediate circle is exactly the sample most likely to mislead you. Deliberately encountering people and sources outside your usual cluster corrects the skewed input. And when disagreement surprises you, read it as information about how varied views really are, not as a sign the other person is odd."
+    }
+  ],
+  "dataSources": [
+    "Ross, L., Greene, D., & House, P. (1977). The 'false consensus effect': An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279–301.",
+    "Research on availability and social projection (why our own perspective anchors our estimates of others).",
+    "Social comparison research on false uniqueness (the underestimation of how common our abilities are)."
+  ],
+  "relatedInsights": [
+    "are-you-more-normal-than-you-think",
+    "do-we-see-the-world-as-it-really-is",
+    "why-do-we-judge-other-people-so-quickly"
+  ],
+  "lastReviewed": "2026-06"
+}

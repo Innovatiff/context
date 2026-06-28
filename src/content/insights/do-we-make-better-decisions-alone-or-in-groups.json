@@ -1,0 +1,77 @@
+{
+  "title": "Do We Make Better Decisions Alone or in Groups?",
+  "slug": "do-we-make-better-decisions-alone-or-in-groups",
+  "category": "regret-and-life-decisions",
+  "metaTitle": "Do We Decide Better Alone or in Groups? What Research Shows",
+  "metaDescription": "It depends on the conditions. Diverse, independent input aggregated well beats individuals; a conformist group can be worse than one good thinker.",
+  "lifeArea": "Regret & Life Decisions",
+  "keyFinding": "Groups outperform individuals when judgments are independent, diverse, and aggregated well, but underperform when consensus pressure suppresses dissent — so the conditions matter far more than the head count.",
+  "honestAnswer": [
+    "It depends almost entirely on the conditions, not on the number of people. A group of independent, diverse thinkers whose judgments are pooled well can reliably beat even its smartest member — the so-called wisdom of crowds. But a group that talks itself into consensus, where people defer to each other and dissent feels costly, can easily do worse than a single careful thinker working alone.",
+    "So the honest answer is that 'alone versus in groups' is the wrong frame. The real variable is whether a group preserves independence and diversity of input or collapses into conformity. Get the structure right and crowds are remarkable; get it wrong and adding people adds noise, pressure, and overconfidence rather than accuracy."
+  ],
+  "whatDataShows": [
+    "The classic illustration of crowd accuracy is Francis Galton's observation at a 1906 county fair, where the average of hundreds of independent guesses of an ox's weight came out almost exactly right — closer than any individual expert. James Surowiecki's book The Wisdom of Crowds popularised the pattern and named its preconditions: the crowd does well when individual judgments are diverse, largely independent, and then aggregated. Remove any of those — especially independence — and the effect breaks down.",
+    "The failure mode has a name too. Irving Janis's work on groupthink described how cohesive groups under pressure to agree can suppress dissent, ignore warning signs, and converge on poor decisions while feeling highly confident. The mechanism is social, not intellectual: when agreement is rewarded and disagreement feels disloyal, the group stops surfacing the information that would have corrected it.",
+    "A related finding is group polarization: rather than landing in a sensible middle, discussion often pushes a group toward a more extreme version of its starting lean. People who began cautious tend to get more cautious together, and people who began bold get bolder — partly through exposure to one-sided arguments and partly through the desire to fit the group's perceived position."
+  ],
+  "whyItFeelsDifferent": [
+    "Groups often feel more reliable than they are because confidence rises with consensus. When everyone in the room agrees, it feels like confirmation — but agreement can come from people influencing each other rather than from independent signals converging. A unanimous group can be unanimously wrong, and it usually feels more certain than a lone thinker who is actually right.",
+    "It also feels different because the social experience of deciding together is pleasant and cohesive, while the experience of being the lone dissenter is uncomfortable. That asymmetry quietly biases groups toward whoever speaks first, loudest, or with most status — which is not the same as toward the best judgment. The smoothness of consensus is easy to mistake for the quality of the decision.",
+    "And we tend to remember the crowd's hits — the eerily accurate average, the team that nailed it — more than the times a committee diluted a good idea or talked itself into a bad one. The wisdom-of-crowds story is genuinely real, but it is conditional, and the conditions are exactly the parts that get lost when a group simply gathers and chats its way to agreement."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent practical lesson is to protect independence before pooling judgments. Having people form their own view privately first — writing down an estimate, a vote, or a position before discussion — preserves the diversity that makes aggregation powerful, and limits the early-anchoring and conformity that discussion introduces. Gather independent inputs, then combine them, rather than letting the group converge in real time.",
+    "Building in real diversity and structured dissent also helps. Janis's own remedies for groupthink centred on legitimising disagreement: assigning someone to argue the other side, inviting outside views, and having leaders withhold their preference so people don't simply align to it. The goal is to keep genuinely different perspectives in the room long enough to count.",
+    "For judgments that can be expressed as estimates, simple aggregation is often the highest-value move. Averaging several independent guesses tends to cancel out individual errors, which is the engine behind the crowd's accuracy. A group's advantage comes far more from combining diverse independent inputs than from discussing its way to one shared answer."
+  ],
+  "whatDoesNotHelp": [
+    "Simply adding more people does not reliably improve decisions, and can make them worse. Without independence and diversity, a bigger group mainly amplifies whatever bias or social pressure is already present. Size is not the lever; structure is.",
+    "Open, unstructured discussion until everyone agrees is one of the weaker approaches the research identifies. It maximises mutual influence, anchors people to whoever spoke first, and produces the consensus that feels like accuracy but often reflects conformity. Talking until the group is comfortable optimises for comfort, not correctness.",
+    "Deferring to the most confident or highest-status voice is also a poor heuristic. Confidence and status correlate weakly with accuracy, and groups that let them dominate effectively discard the independent information everyone else brought — collapsing back to a single, unchecked judgment that happens to feel collective."
+  ],
+  "realNumbersInContext": [
+    "The vivid origin story is Galton's roughly 800 fairground guesses of an ox's weight in 1906: the average came within about one percent of the true weight, beating the individual entries. It is a single striking demonstration rather than a precise law, but the underlying pattern — that pooling many independent, diverse estimates cancels individual error — has held up broadly across later research.",
+    "The contrast is just as important and harder to quantify cleanly: groupthink and group polarization are documented tendencies, not fixed effects with a tidy percentage. The research is best read as a set of conditions rather than a verdict — independent and diverse plus good aggregation tends to beat individuals, while cohesive and consensus-pressured can underperform a single careful thinker. Treat any blanket claim that 'groups are smarter' or 'committees ruin everything' as overstated."
+  ],
+  "realNumbers": [
+    { "value": "~1% off", "label": "How close the average of ~800 independent ox-weight guesses was to the true weight", "source": "Galton, 1907 (Vox Populi)" },
+    { "value": "Independence", "label": "The condition that most determines whether a crowd is accurate", "source": "Surowiecki, The Wisdom of Crowds" },
+    { "value": "Consensus pressure", "label": "The core driver of groupthink's poor decisions", "source": "Janis, groupthink research" },
+    { "value": "More extreme", "label": "Direction groups often drift after discussion", "source": "Group polarization research" }
+  ],
+  "faqs": [
+    {
+      "question": "So are groups smarter than individuals or not?",
+      "answer": "Only under the right conditions. When members judge independently, bring diverse perspectives, and their inputs are aggregated, a group can beat even its best member. When members influence each other into consensus, the same group can do worse than one careful thinker. The structure matters far more than the number of people."
+    },
+    {
+      "question": "What is the wisdom of crowds?",
+      "answer": "It is the finding, illustrated by Galton's ox-weight example and popularised by Surowiecki, that the pooled judgment of many people can be remarkably accurate — but only when those judgments are diverse, largely independent of each other, and combined well. Remove independence and the effect breaks down."
+    },
+    {
+      "question": "What is groupthink?",
+      "answer": "A term from Irving Janis for how cohesive groups under pressure to agree suppress dissent, dismiss warning signs, and converge on poor decisions while feeling very confident. It is a social failure, not an intellectual one — agreement gets rewarded and disagreement feels disloyal, so the correcting information never surfaces."
+    },
+    {
+      "question": "How can a group actually decide better together?",
+      "answer": "Have people form and record their own views privately before discussion, deliberately include diverse perspectives, legitimise dissent (for example by assigning someone to argue the other side), and aggregate independent inputs rather than talking until everyone agrees. The aim is to preserve independence long enough to use it."
+    },
+    {
+      "question": "Why do confident, agreeing groups still get things wrong?",
+      "answer": "Because confidence rises with consensus, and consensus can come from people influencing one another rather than from independent signals lining up. A unanimous group can be unanimously wrong, and it usually feels more certain than a lone thinker who happens to be right."
+    }
+  ],
+  "dataSources": [
+    "Galton, F. (1907). Vox Populi. Nature, 75, 450–451 (the ox-weight estimation example).",
+    "Surowiecki, J. (2004). The Wisdom of Crowds (on independence, diversity, and aggregation as preconditions for crowd accuracy).",
+    "Janis, I. L. (1972). Victims of Groupthink (and later work on groupthink and consensus pressure).",
+    "Group polarization research — the tendency of group discussion to shift positions toward a more extreme version of their initial lean."
+  ],
+  "relatedInsights": [
+    "how-to-make-decisions-you-wont-regret",
+    "should-you-trust-your-gut-or-think-it-through",
+    "why-do-we-double-down-on-bad-decisions"
+  ],
+  "lastReviewed": "2026-06"
+}

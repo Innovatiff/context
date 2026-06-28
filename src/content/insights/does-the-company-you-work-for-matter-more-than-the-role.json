@@ -1,0 +1,77 @@
+{
+  "title": "Does the Company You Work For Matter More Than the Role?",
+  "slug": "does-the-company-you-work-for-matter-more-than-the-role",
+  "category": "work-and-career",
+  "metaTitle": "Does the Company Matter More Than the Role?",
+  "metaDescription": "Where you work can matter as much as what you do. What economics research on firm effects, industry pay, and culture suggests about company vs. role.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Economics research suggests the company and industry you work in explain a meaningful share of pay and day-to-day experience, often rivaling the role itself — though role fit, growth, and manager still matter.",
+  "honestAnswer": [
+    "Where you work appears to matter more than most people assume — often as much as what you actually do. A growing body of economics research on \"firm effects\" finds that the same worker tends to earn more at a high-paying company than at a low-paying one, and that industries differ substantially in both pay and stability. Company culture and management quality, meanwhile, shape the daily experience of work at least as strongly as the job title does.",
+    "That does not mean the role is irrelevant — role fit, room to grow, and a good manager clearly matter for both satisfaction and earnings. The honest summary is that the company and industry are an underrated half of the equation. The question \"what should I do?\" is genuinely incomplete without \"and where?\""
+  ],
+  "whatDataShows": [
+    "A large strand of labour economics finds that the employer itself explains a meaningful portion of pay differences between workers. The influential analysis by Card, Heining and Kline (2013) of German data found that firm-specific pay premiums account for a substantial share of the rise in wage inequality — meaning two equally skilled people can earn noticeably different amounts simply because one works at a higher-paying firm. Similar firm-effects patterns have since been documented in several other countries, though the exact size varies by setting.",
+    "Industry matters too. Research on inter-industry wage differentials going back to Krueger and Summers (1988) consistently finds that seemingly similar workers are paid differently across industries, and these gaps persist even after accounting for measurable skill. Industries also differ markedly in stability and the risk of layoffs, so the sector you enter shapes not just pay level but how secure that pay tends to be.",
+    "On the experience side, large workplace surveys repeatedly find that management quality and culture track strongly with engagement, wellbeing, and turnover. Gallup's long-running workplace research, for example, attributes a large share of variation in team engagement to the immediate manager. So both halves of \"where you work\" — the firm's pay structure and its culture — carry real weight."
+  ],
+  "whyItFeelsDifferent": [
+    "Career advice is overwhelmingly framed around the role: pick the right profession, build the right skills, find your passion. The company is treated as a backdrop you slot into. That framing makes intuitive sense — your role is what you do all day — but it quietly underweights a factor the pay data says is large.",
+    "It also feels different because firm effects are largely invisible from the inside. You can see your own effort and skill; you cannot easily see that the company two streets over pays a structural premium for the identical work. Without that comparison, it is natural to attribute your pay entirely to yourself rather than partly to where you happen to sit.",
+    "And culture is hard to evaluate before you join. Job titles and salaries are advertised; management quality and day-to-day culture are not. So people optimise heavily on the visible, role-shaped information and underweight the company-shaped information that research suggests matters just as much for how the job will actually feel."
+  ],
+  "whatResearchSaysToDo": [
+    "Because firm and industry pay premiums are real and persistent, it is worth treating \"which company and sector\" as a first-class question rather than an afterthought. When two roles are similar, the employer's pay structure and the industry's typical wages and stability can be the larger lever — and that information is partly knowable in advance through pay surveys and public salary data.",
+    "Since manager and culture track so strongly with day-to-day experience, the research points toward investigating them deliberately before accepting a role: ask current and former employees about management, turnover, and how decisions get made. The interview is a two-way assessment, and the cultural signals you gather are among the better predictors of whether you will actually like the work.",
+    "It is also reasonable to weigh fit and growth alongside the firm, not instead of it. The strongest evidence supports a both/and reading: a good role at a strong company beats optimising either one alone. Where they conflict, the firm and industry effects are large enough that they deserve serious weight, not a reflexive \"the work is what matters.\""
+  ],
+  "whatDoesNotHelp": [
+    "Assuming pay is purely a reflection of your own skill does not hold up. The firm-effects literature shows that the same person can earn meaningfully different amounts at different employers, so attributing your entire salary to personal merit — or blaming yourself entirely for a low one — ignores a structural factor you partly inherit from where you work.",
+    "Choosing a company solely on prestige or brand name can mislead, because reputation does not reliably track either pay premium or culture. A well-known employer is not automatically a high-paying or well-managed one, and the data on what actually drives engagement points at the immediate manager far more than at the logo on the building.",
+    "Treating the role as the only thing that matters — \"find the right job and the company sorts itself out\" — leaves a large lever unused. The evidence does not support ignoring fit, but it does suggest that obsessing over the role while treating the employer as interchangeable means optimising the smaller half of the problem."
+  ],
+  "realNumbersInContext": [
+    "The clearest numbers come from firm-effects research. Card, Heining and Kline (2013) found that firm-specific pay components explained a substantial and rising share of wage inequality among German workers — concrete evidence that the employer, not just the worker, sets pay. The exact share differs across countries and studies, so treat the size as setting-specific rather than a fixed figure, but the direction is consistent: where you work moves your pay.",
+    "On industry, work on inter-industry wage differentials (Krueger and Summers, 1988, and later studies) finds that comparable workers are paid differently across sectors, with gaps that persist after adjusting for measurable skill. On experience, Gallup's workplace research attributes a large fraction of the variation in team engagement to the manager. None of these numbers say the role is unimportant — they say the company and industry are a bigger part of the picture than the usual advice implies."
+  ],
+  "realNumbers": [
+    { "value": "Substantial", "label": "Share of wage inequality attributed to firm-specific pay effects", "source": "Card, Heining & Kline, 2013" },
+    { "value": "Persistent", "label": "Inter-industry wage gaps for similar workers, after adjusting for skill", "source": "Krueger & Summers, 1988" },
+    { "value": "Large", "label": "Share of team engagement variation linked to the immediate manager", "source": "Gallup workplace research" },
+    { "value": "Both matter", "label": "What the evidence supports: firm and role, not one alone", "source": "Firm-effects & person-environment fit research" }
+  ],
+  "faqs": [
+    {
+      "question": "Does the company really pay more than the role?",
+      "answer": "Economics research on firm effects finds that the same worker tends to earn more at a high-paying company than a low-paying one, so the employer accounts for a meaningful share of pay differences. The role still matters, but the company and industry are a larger factor than most career advice suggests."
+    },
+    {
+      "question": "Why do some companies pay more for the same job?",
+      "answer": "Studies of firm and inter-industry wage differentials find that some employers and sectors pay structural premiums for comparable work, even after accounting for measurable skill. The exact reasons are debated — productivity, profit-sharing, and competition for talent among them — but the gaps are real and persistent."
+    },
+    {
+      "question": "Should I prioritize a good company or a good role?",
+      "answer": "The evidence supports both rather than one alone: a strong role at a strong company beats optimising either in isolation. Where they conflict, firm and industry pay effects are large enough to deserve serious weight, while manager and culture strongly shape whether you will enjoy the day-to-day."
+    },
+    {
+      "question": "How can I tell if a company has a good culture before joining?",
+      "answer": "Culture is hard to see from the outside, but you can investigate it: ask current and former employees about management, turnover, and how decisions are made. Since research links engagement strongly to the immediate manager, the cultural signals you gather are among the better predictors of how the job will feel."
+    },
+    {
+      "question": "Does this mean my own skills don't matter for pay?",
+      "answer": "No. Your skills clearly matter. The firm-effects research adds a second factor on top: the same skilled person can earn different amounts at different employers. So pay reflects both who you are and where you work, which means neither self-credit nor self-blame for a salary tells the whole story."
+    }
+  ],
+  "dataSources": [
+    "Card, D., Heining, J., & Kline, P. (2013). Workplace Heterogeneity and the Rise of West German Wage Inequality. Quarterly Journal of Economics, 128(3), 967–1015.",
+    "Krueger, A. B., & Summers, L. H. (1988). Efficiency Wages and the Inter-Industry Wage Structure. Econometrica, 56(2), 259–293.",
+    "Gallup, State of the Global Workplace (workplace engagement and management research).",
+    "Research on industry wage differentials and job stability across sectors."
+  ],
+  "relatedInsights": [
+    "how-much-does-your-first-job-determine-your-career",
+    "is-your-salary-low-or-does-it-just-feel-that-way",
+    "does-where-you-went-to-college-actually-matter"
+  ],
+  "lastReviewed": "2026-06"
+}
