@@ -1,0 +1,75 @@
+{
+  "title": "How Much Time Do We Spend on Chores and Errands?",
+  "slug": "how-much-time-do-we-spend-on-chores-and-errands",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "How Much Time Do We Spend on Chores and Errands?",
+  "metaDescription": "Adults spend roughly 1.5–2+ hours a day on household chores, per the American Time Use Survey — and the split is still uneven. Here's the data.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "American Time Use Survey data shows adults spend on the order of 1.5 to 2-plus hours a day on household activities, with a persistent gender gap, adding up to years over a lifetime.",
+  "honestAnswer": [
+    "More than most people realise, and it is split unevenly. The American Time Use Survey, the main U.S. dataset on how people spend their days, shows adults spend on the order of 1.5 to 2-plus hours a day on household activities — cleaning, cooking, laundry, and home maintenance — plus additional time on shopping and errands. Across a lifetime, that adds up to years.",
+    "The split is also persistently gendered: on average, women still do more unpaid household work than men, though the gap has narrowed over the decades. These are averages across a large population, so any individual day or household varies widely. The honest framing is that domestic upkeep quietly consumes a large, often invisible share of adult time, and that share is not distributed equally."
+  ],
+  "whatDataShows": [
+    "The American Time Use Survey (ATUS), run by the U.S. Bureau of Labor Statistics, asks a large sample of people to account for a full day. Its 'household activities' category — housework, food preparation and cleanup, laundry, lawn and garden care, household management — comes to roughly 1.5 to 2-plus hours per day for adults on average. Shopping and errands (including grocery shopping and obtaining services) add further time on top of that.",
+    "A persistent gender gap runs through the data. On an average day, women report spending more time on household activities than men, and a higher share of women than men do housework or food preparation on a given day. The gap has shrunk over the long run but has not closed, and it is one of the most consistently documented patterns in time-use research.",
+    "Stacked over a lifetime, these daily figures become substantial. Even at roughly an hour and a half to two hours a day, household work alone accumulates into the equivalent of several years of waking time across adulthood — before adding shopping, errands, and the mental load of managing a household, which time diaries capture only partially."
+  ],
+  "whyItFeelsDifferent": [
+    "Chores feel like they take less time than they do because they are scattered across the day in small pieces rather than done in one visible block. Ten minutes here and twenty there does not register as 'two hours,' so the total is easy to underestimate even though the survey data adds it up plainly.",
+    "Much of this work is also invisible by design — it is the labour that keeps a household running smoothly, and it is most noticeable when it is not done. That invisibility is part of why the gendered split persists and why the person carrying more of it can feel the weight without it being fully seen or counted.",
+    "And the 'mental load' — remembering, planning, and coordinating who does what — sits largely outside what a time diary can measure. People who carry that planning often feel busier than their logged hours suggest, because the management of chores is itself work that the headline numbers understate."
+  ],
+  "whatResearchSaysToDo": [
+    "Where it is affordable, paying to offload disliked tasks is one of the better-evidenced levers for time-related wellbeing. Research on 'buying time' suggests that using money to reduce time spent on chores you dislike is associated with higher satisfaction — a small but reasonably consistent effect, and one many people underuse even when they could afford it.",
+    "Within a household, making the split explicit tends to help. Time-use research consistently shows the division of domestic labour is uneven and often unspoken; naming who does what, and rebalancing it deliberately, addresses the gendered gap more directly than assuming it will even out on its own.",
+    "Batching and automating routine tasks can recover scattered time. Consolidating errands, automating recurring purchases, and reducing the decision overhead of household management target the fragmented, hard-to-see nature of this work — though the gains are practical rather than dramatic, and vary by household."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming the division of household labour will balance itself out tends not to work; the data shows the gap is durable and often invisible, so it persists unless it is made explicit and actively rebalanced.",
+    "Chasing maximal household efficiency for its own sake can backfire, turning the home into another performance arena and adding stress rather than removing it. The aim is to reduce the burden, not to optimise it into a second job.",
+    "Buying time-saving gadgets or services that you do not actually use rarely helps. The evidence for 'buying back time' applies to genuinely offloading disliked tasks; equipment that sits idle or services that go unused recover no time and can add clutter and cost."
+  ],
+  "realNumbersInContext": [
+    "On an average day, ATUS data places adult household activities at roughly 1.5 to 2-plus hours, with shopping and errands adding more on top. These are population averages — any given day or household differs substantially — so treat them as a typical picture, not a target.",
+    "The gender gap is one of the most stable findings in the data: on average women spend more time than men on household activities, a difference that has narrowed over decades without closing. And because these are daily figures, the lifetime total runs to the equivalent of several years of waking time, much of it in small, easily overlooked pieces."
+  ],
+  "realNumbers": [
+    { "value": "~1.5–2+ hrs", "label": "Average adult time per day on household activities", "source": "American Time Use Survey (ATUS), BLS" },
+    { "value": "Women > men", "label": "Persistent gender gap in average daily household work", "source": "American Time Use Survey (ATUS), BLS" },
+    { "value": "Years", "label": "Approximate lifetime total of household work and errands", "source": "Derived from ATUS daily averages" }
+  ],
+  "faqs": [
+    {
+      "question": "How many hours a day do people spend on chores?",
+      "answer": "On average, the American Time Use Survey puts adult household activities — cleaning, cooking, laundry, maintenance — at roughly 1.5 to 2-plus hours a day, with shopping and errands adding more. These are population averages, so individual days vary a lot."
+    },
+    {
+      "question": "Is the housework split really still unequal between men and women?",
+      "answer": "Yes, on average. Time-use data consistently shows women spend more time than men on household activities, and a higher share do housework on a given day. The gap has narrowed over decades but has not closed — it's one of the most durable patterns in the research."
+    },
+    {
+      "question": "How much of my life will I spend on chores?",
+      "answer": "Stacked over adulthood, daily averages of 1.5 to 2-plus hours add up to the equivalent of several years of waking time, before counting shopping, errands, and the mental load of managing a household. The small daily pieces are easy to underestimate."
+    },
+    {
+      "question": "What's the 'mental load' and why isn't it in the numbers?",
+      "answer": "The mental load is the planning, remembering, and coordinating of household tasks — deciding what needs doing and when. Time diaries capture the doing better than the managing, so people who carry the planning often feel busier than their logged hours suggest."
+    },
+    {
+      "question": "Does paying someone to do chores actually help?",
+      "answer": "Where affordable, research on 'buying time' suggests using money to offload genuinely disliked tasks is associated with higher satisfaction — a small but fairly consistent effect that many people underuse. The benefit comes from offloading tasks you dislike, not from buying gadgets you won't use."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics, American Time Use Survey (ATUS) — household activities, shopping, and errands.",
+    "Research on the gender gap in unpaid domestic labour and household time use.",
+    "Research on 'buying time' and time-saving services in relation to wellbeing."
+  ],
+  "relatedInsights": [
+    "how-the-average-person-actually-spends-their-day",
+    "is-it-worth-paying-to-save-time",
+    "how-much-of-your-life-do-you-have-left-in-waking-hours"
+  ],
+  "lastReviewed": "2026-06"
+}

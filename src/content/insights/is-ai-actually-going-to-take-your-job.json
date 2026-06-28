@@ -1,0 +1,76 @@
+{
+  "title": "Is AI Actually Going to Take Your Job?",
+  "slug": "is-ai-actually-going-to-take-your-job",
+  "category": "work-and-career",
+  "metaTitle": "Is AI Going to Take Your Job? What the Research Shows",
+  "metaDescription": "AI is likely to reshape the tasks in many jobs, but wholesale job elimination is uncertain and historically overpredicted. Here is the honest picture.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "AI is likely to automate specific tasks within many jobs and disrupt some roles, but predictions of wholesale job elimination are highly uncertain and have a long track record of being overstated.",
+  "honestAnswer": [
+    "The honest answer is that nobody knows, and anyone claiming certainty in either direction is overselling. The most defensible reading of the evidence is that AI is likely to change the tasks inside many jobs faster than it eliminates whole jobs — automating parts of roles, shifting what people are paid to do, and displacing some specific occupations while leaving most transformed rather than erased.",
+    "What history and the research both suggest is that technology tends to reshape work more than it abolishes it: it removes some tasks, augments others, and creates new kinds of work that are hard to see in advance. The headline-grabbing forecasts of mass unemployment have repeatedly been higher than what actually happened. None of that guarantees your specific role is safe — but it argues against the assumption that 'AI takes your job' is a single, certain event."
+  ],
+  "whatDataShows": [
+    "The most famous alarming figure comes from Frey and Osborne (2013), who estimated that roughly 47% of U.S. employment was at high risk of automation. It became a cornerstone of the 'half of jobs are doomed' narrative — but it is important to understand what it actually measured. It estimated the probability that the tasks in an occupation could be automated, not a prediction that those jobs would disappear by any date, and later work argued the method overstated exposure by treating whole occupations as automatable units.",
+    "Task-based analyses pushed back hard. Economist David Autor's work (including 'Why Are There Still So Many Jobs?', 2015) argues that automation rarely eliminates an entire job, because most jobs bundle together many tasks, only some of which are automatable — and automating one task often raises the value of the human tasks that remain. OECD analyses that re-estimated automation at the task level rather than the whole-job level produced far lower figures for jobs at high risk than the headline 47%.",
+    "Generative AI has shifted which tasks are exposed rather than settling the question. Where earlier automation pressure fell on routine manual and clerical work, large language models touch more white-collar, cognitive, and 'knowledge' tasks — writing, summarising, coding, analysis. That changes who feels exposed, but it does not by itself tell us whether exposure means elimination, augmentation, or simply a reshaping of the job. The research here is early and genuinely unsettled."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels more certain and more imminent than the evidence supports partly because the demonstrations are vivid. Watching a model write an essay or generate code in seconds makes whole-job replacement feel obvious, even though doing one task well is not the same as doing an entire job — with its judgement, accountability, coordination, and messy edge cases — reliably and safely.",
+    "It also feels different because the coverage is relentlessly one-directional. Forecasts of jobs lost are concrete, dramatic, and easy to headline; the jobs and tasks that new technology creates are diffuse, slow to appear, and almost impossible to name in advance. So the visible story is overwhelmingly about disappearance, which makes the net picture look worse than the historical pattern suggests.",
+    "And there is a real, rational fear underneath it. Even when technology transforms rather than eliminates work in aggregate, the disruption is not evenly shared: specific people in specific roles can be displaced, and economists note automation has at times suppressed wages or hollowed out particular kinds of jobs even as overall employment held up. So the anxiety is not irrational — it is that the average outcome and the individual outcome can diverge sharply."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent through-line in the research is that adaptability matters more than trying to predict the exact future. Because AI tends to automate tasks rather than whole jobs, the practical question is less 'will my job exist?' and more 'which parts of my work are most exposed, and which human parts become more valuable?' Reorienting toward the judgement, coordination, and interpersonal tasks that are hardest to automate is a defensible response to genuine uncertainty.",
+    "Learning to work alongside the tools, rather than ignoring or fearing them, is the response best supported by the augmentation literature. Across past technological shifts, the people who fared best were often those who used the new technology to do more, not those who competed directly against it. Treating AI as something that changes your tasks — and getting fluent in directing it — fits the historical pattern better than betting on either total safety or total doom.",
+    "At the policy and societal level, the research emphasises that the pain of transitions is real and uneven, which is why supports like retraining, transition assistance, and a wide skill base matter. For an individual, the honest takeaway is to build transferable skills and stay flexible, precisely because the specific shape of the disruption is hard to forecast."
+  ],
+  "whatDoesNotHelp": [
+    "Treating any single forecast — including the famous 47% — as a settled prediction does not help, because it isn't one. That figure measured task automatability, not actual job losses, and the field has since produced much lower task-level estimates. Building your decisions around a dramatic headline number tends to produce either paralysis or false certainty, neither of which the evidence supports.",
+    "Assuming your job is either perfectly safe or already doomed both miss the most likely reality, which is partial and gradual change. Complacency ignores that tasks within roles are genuinely shifting; fatalism ignores that history shows technology transforming and augmenting far more jobs than it erases. The unhelpful moves are at the two extremes.",
+    "Trying to out-predict the technology — guessing exactly which roles vanish and when — has a poor track record even among experts, and chasing a specific forecast is a weak basis for big life decisions. The research suggests that broad adaptability outperforms precise prediction, because the historical record of forecasting which jobs disappear is genuinely bad."
+  ],
+  "realNumbersInContext": [
+    "The most-cited figure, Frey and Osborne's roughly 47% of U.S. jobs at 'high risk' (2013), is best understood as an estimate of task automatability, not a count of jobs that would be lost — and it sits at the high end. OECD task-based re-estimates produced substantially lower shares of jobs at high risk, because most occupations bundle automatable and non-automatable tasks together. The spread between these figures is itself the point: the honest summary is wide uncertainty, not a known number.",
+    "The historical base rate is the other piece of context worth holding. Past waves of automation displaced specific roles and at times suppressed some wages, yet overall employment did not collapse, because the same technologies augmented other work and created new categories of jobs. Generative AI shifts the exposure toward white-collar tasks, which is new — but whether that breaks the historical pattern or repeats it is, honestly, not yet known."
+  ],
+  "realNumbers": [
+    { "value": "~47%", "label": "U.S. jobs estimated at 'high risk' of task automation (high-end, contested)", "source": "Frey & Osborne, 2013" },
+    { "value": "Much lower", "label": "Share of jobs at high risk when estimated task-by-task instead of whole-job", "source": "OECD task-based analyses" },
+    { "value": "Tasks > jobs", "label": "Most automation hits tasks within jobs, not entire occupations", "source": "Autor, 'Why Are There Still So Many Jobs?' 2015" },
+    { "value": "Uncertain", "label": "Whether generative AI's white-collar exposure means loss or augmentation", "source": "Emerging research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is AI really going to take half of all jobs?",
+      "answer": "That number comes from Frey and Osborne's 2013 estimate that about 47% of U.S. jobs were at high risk of task automation — but it measured how automatable a job's tasks were, not how many jobs would actually disappear, and it sits at the high end. Later task-based analyses (OECD, David Autor) produced much lower figures. The honest answer is wide uncertainty rather than a confirmed mass-elimination."
+    },
+    {
+      "question": "Does automation usually destroy jobs or change them?",
+      "answer": "Historically it has done more changing than destroying. Most jobs bundle many tasks, and automation tends to remove some tasks while making the remaining human tasks more valuable — and past technologies created new kinds of work even as they displaced specific roles. That said, the disruption is uneven: particular jobs can be lost and some wages suppressed even when overall employment holds up."
+    },
+    {
+      "question": "Why does generative AI feel different from past automation?",
+      "answer": "Because it shifts the exposure toward white-collar and cognitive tasks — writing, coding, analysis — rather than the routine manual and clerical work earlier automation pressured. That changes who feels at risk. Whether this exposure leads to job loss, augmentation, or simply reshaped roles is still genuinely unsettled in the research."
+    },
+    {
+      "question": "What can I actually do about it?",
+      "answer": "The evidence points to adaptability over prediction. Because AI tends to automate tasks rather than whole jobs, it helps to identify which parts of your work are most exposed, lean into the harder-to-automate human parts, and get fluent in working alongside the tools. Broad, transferable skills tend to outperform betting on a specific forecast."
+    },
+    {
+      "question": "Should I be worried about my own job?",
+      "answer": "Concern is reasonable, certainty is not. The average historical outcome is transformation more than elimination, but average and individual outcomes can diverge — specific roles do get displaced. The defensible stance is to take the disruption seriously without assuming either total safety or inevitable doom, because the specific shape of the change is hard to predict."
+    }
+  ],
+  "dataSources": [
+    "Frey, C. B., & Osborne, M. A. (2013/2017). The Future of Employment: How Susceptible Are Jobs to Computerisation? Technological Forecasting and Social Change, 114, 254–280.",
+    "Autor, D. H. (2015). Why Are There Still So Many Jobs? The History and Future of Workplace Automation. Journal of Economic Perspectives, 29(3), 3–30.",
+    "OECD — task-based estimates of the automatability of jobs (Arntz, Gregory & Zierahn and related OECD work)."
+  ],
+  "relatedInsights": [
+    "does-job-security-even-exist-anymore",
+    "what-research-shows-about-changing-careers-after-40",
+    "is-it-better-to-be-a-generalist-or-a-specialist"
+  ],
+  "lastReviewed": "2026-06"
+}

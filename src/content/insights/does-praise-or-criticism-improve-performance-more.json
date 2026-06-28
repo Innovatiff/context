@@ -1,0 +1,76 @@
+{
+  "title": "Does Praise or Criticism Improve Performance More?",
+  "slug": "does-praise-or-criticism-improve-performance-more",
+  "category": "work-and-career",
+  "metaTitle": "Does Praise or Criticism Improve Performance More?",
+  "metaDescription": "Neither reliably works. A landmark meta-analysis found feedback hurt performance over a third of the time. The real divide is task-focused vs. ego-focused.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Neither praise nor criticism reliably improves performance — what matters more is whether feedback is specific and task-focused rather than aimed at the self or ego, and even well-intentioned feedback hurts performance a surprising share of the time.",
+  "honestAnswer": [
+    "Neither praise nor criticism reliably improves performance — the effects of feedback are far more inconsistent than most people assume, and the praise-versus-criticism framing turns out to be the wrong question. A landmark meta-analysis found that while feedback improves performance on average, in over a third of cases it actually made performance worse.",
+    "What separates feedback that helps from feedback that backfires is not whether it is positive or negative, but whether it is specific and task-focused rather than aimed at the person's self or ego. Concrete, actionable feedback about the work tends to help; vague praise and harsh personal criticism often do not, and can make things worse."
+  ],
+  "whatDataShows": [
+    "The central finding comes from a major meta-analysis by Avraham Kluger and Angelo DeNisi (1996), which pulled together a large body of feedback studies. On average, feedback improved performance — but the average hid enormous variation, and in more than a third of the cases analysed, feedback actually reduced performance. That is the result most people find surprising: feedback is not reliably helpful, and a substantial share of the time it hurts.",
+    "Their explanation centres on where attention goes. When feedback directs attention to the task — what specifically to do differently — it tends to improve performance. When it directs attention to the self or ego, whether through personal praise or personal criticism, it often degrades performance, because the person spends their effort defending or managing their self-image rather than working on the task. The damaging cases clustered around ego-focused feedback.",
+    "Carol Dweck's research on praise points the same direction. Across her studies, praising effort and process ('you worked hard at this,' 'that strategy worked') tends to support persistence and learning, while praising fixed ability ('you're so smart') can make people more fragile in the face of difficulty and more likely to avoid challenges that risk the label. So even within praise, the form matters more than the warmth."
+  ],
+  "whyItFeelsDifferent": [
+    "We expect a clean answer — praise motivates, or tough criticism sharpens — because both stories are intuitive and culturally familiar. The 'everyone needs encouragement' camp and the 'people need hard truths' camp each feel obviously right, which is part of why the actual finding (that it depends on the form, not the valence) is easy to miss.",
+    "Feedback also feels more powerful than it is because we judge it by intention rather than effect. A manager delivering praise or criticism feels like they are clearly helping; the research shows the recipient's response depends on whether their attention lands on the task or on their ego, which is largely outside the giver's awareness. The same well-meant comment can help one person and derail another.",
+    "And the failures are quiet. When feedback backfires, it rarely announces itself — performance just quietly drops, or the person disengages — so the giver keeps believing their approach works. The over-a-third-of-the-time failure rate is invisible from the inside, which is exactly why it persists."
+  ],
+  "whatResearchSaysToDo": [
+    "Make feedback specific and task-focused. The Kluger and DeNisi work suggests the reliable lever is directing attention to the work itself — what was done, what to change, how — rather than to the person's standing or character. 'This section buries the main point; lead with it' tends to help in a way that 'great job' or 'this is sloppy' does not, because it gives the attention somewhere useful to go.",
+    "Favour effort and process over fixed traits when you do praise. Dweck's research suggests praising the strategy, the work, or the persistence supports learning and resilience, while praising innate ability can quietly make people more risk-averse and more rattled by setbacks. The same applies to self-talk: crediting what you did beats crediting what you supposedly are.",
+    "Separate the work from the worth. Because ego-focused feedback is where the damage clusters, the most protective move is to keep the conversation about the task and away from the person's identity — even when the feedback is critical. Criticism aimed at the work, delivered as something to fix, is far safer than criticism that reads as a verdict on the person."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming more feedback is automatically better does not help — the evidence shows feedback hurts performance a substantial share of the time, so volume is not the goal. Indiscriminate feedback, especially the ego-focused kind, can do real harm even when well-intentioned.",
+    "Vague praise ('great work,' 'you're a star') gives the recipient nothing actionable and, when it targets fixed ability, can make people more fragile under pressure. It feels good to give and receive, but the research does not credit it with improving performance, and the ability-focused version can quietly backfire.",
+    "Harsh personal criticism — feedback aimed at the person rather than the work — is among the patterns most likely to reduce performance, because it pushes attention onto defending the self instead of improving the task. The 'people need to hear hard truths' instinct is not wrong that honesty matters, but it is wrong that bluntness aimed at the person is what helps."
+  ],
+  "realNumbersInContext": [
+    "The number worth internalising is from Kluger and DeNisi (1996): across the studies they analysed, feedback improved performance on average, but in over a third of cases it actually reduced it. That single finding reframes the whole question — feedback is not reliably beneficial, so the goal is not more feedback but the right kind.",
+    "Beyond that headline figure, the evidence is about pattern rather than precise percentages, and it is worth saying so. The reliable distinctions are task-focused versus ego-focused (Kluger and DeNisi) and process versus person in praise (Dweck). Treat any exact 'praise works X% of the time' claim with suspicion; what the research supports is that the form of feedback matters far more than whether it is positive or negative."
+  ],
+  "realNumbers": [
+    { "value": "1 in 3+", "label": "Share of cases where feedback actually reduced performance", "source": "Kluger & DeNisi meta-analysis, 1996" },
+    { "value": "On average +", "label": "Feedback improves performance on average — but with huge variation", "source": "Kluger & DeNisi, 1996" },
+    { "value": "Task > ego", "label": "Task-focused feedback helps; ego/self-focused feedback often backfires", "source": "Kluger & DeNisi, 1996" },
+    { "value": "Process > person", "label": "Praising effort/process beats praising fixed ability", "source": "Carol Dweck, mindset research" }
+  ],
+  "faqs": [
+    {
+      "question": "So is praise or criticism better for performance?",
+      "answer": "Neither reliably. The praise-versus-criticism framing is the wrong question. What matters is whether feedback is specific and task-focused or aimed at the self and ego. A landmark meta-analysis found feedback improved performance on average but hurt it in over a third of cases — and the damage clustered around ego-focused feedback, whether it was praise or criticism."
+    },
+    {
+      "question": "What did the Kluger and DeNisi study find?",
+      "answer": "Their 1996 meta-analysis combined many feedback studies and found that feedback improved performance on average, but in more than a third of cases it actually reduced performance. The harmful cases tended to involve feedback directed at the self or ego rather than at the task — which is what made the result so surprising."
+    },
+    {
+      "question": "What kind of feedback actually works?",
+      "answer": "Specific, task-focused, actionable feedback — comments about the work and what to change ('lead with this point,' 'this estimate is off here'), rather than verdicts on the person. Directing attention to the task gives effort somewhere useful to go; directing it to the ego tends to backfire."
+    },
+    {
+      "question": "Is praising someone for being smart a good idea?",
+      "answer": "Often not. Carol Dweck's research suggests praising fixed ability ('you're so smart') can make people more fragile under difficulty and more likely to avoid challenges that risk the label. Praising effort, strategy, and process tends to support persistence and learning instead."
+    },
+    {
+      "question": "Should I just give less feedback then?",
+      "answer": "Not necessarily less, but more carefully. The finding is that feedback isn't automatically helpful — so the goal is the right kind, not more volume. Keep it specific, about the task rather than the person, and favour process over fixed traits when praising. That's far safer than either constant praise or blunt personal criticism."
+    }
+  ],
+  "dataSources": [
+    "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. Psychological Bulletin, 119(2), 254–284.",
+    "Dweck, C. S. — research on process versus person praise and mindset.",
+    "Research on effective feedback and its inconsistent effects on performance."
+  ],
+  "relatedInsights": [
+    "why-do-we-remember-criticism-more-than-praise",
+    "what-actually-makes-people-good-at-their-jobs",
+    "does-higher-pay-actually-make-people-work-harder"
+  ],
+  "lastReviewed": "2026-06"
+}

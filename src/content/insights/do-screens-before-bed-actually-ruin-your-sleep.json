@@ -1,0 +1,79 @@
+{
+  "title": "Do Screens Before Bed Actually Ruin Your Sleep?",
+  "slug": "do-screens-before-bed-actually-ruin-your-sleep",
+  "category": "health-and-energy",
+  "metaTitle": "Do Screens Before Bed Ruin Your Sleep? What Research Says",
+  "metaDescription": "Screens can hurt sleep, but mostly through timing and arousal, not blue light alone. Here is the honest picture. Educational only, not medical advice.",
+  "lifeArea": "Health & Energy",
+  "keyFinding": "Screens before bed can harm sleep, but the bigger driver for most people is engaging content delaying bedtime and raising arousal, not blue light by itself.",
+  "honestAnswer": [
+    "Yes, screens before bed can hurt your sleep — but probably not for the reason you have been told. The popular story blames blue light, and light does play a role: evening light, including from devices, can suppress melatonin and nudge your body clock later. But for many people the bigger problem is behavioural — engaging content keeps you up, raises mental arousal, and turns 'one more episode' into a much later bedtime.",
+    "So the honest framing is that screens hurt sleep mainly through timing, content, and arousal, with light as a contributing factor rather than the whole story. That distinction matters, because it means a blue-light filter is unlikely to fix a problem that is really about what the screen is doing to your attention and your bedtime.",
+    "This page is educational only and is not medical advice. If you have persistent sleep problems, please see a qualified clinician rather than treating it purely as a screen-habit issue."
+  ],
+  "whatDataShows": [
+    "Light does affect sleep biology. Evening exposure to light, including the light from phones and tablets, can suppress melatonin — the hormone that signals night to your body — and shift your internal clock later. A study by Chang and colleagues (2015) found that people who read on a light-emitting device before bed took longer to fall asleep, had suppressed and delayed melatonin, and were less alert the next morning than when they read a printed book.",
+    "But the same kind of research points beyond light alone. The content on a screen is engaging by design: social media, games, messaging, and shows are built to hold attention, which raises mental arousal and makes winding down harder. And the simple act of staying on a screen tends to push bedtime later — a pattern researchers describe as bedtime procrastination, where people delay sleep despite intending to stop.",
+    "Putting it together, the device's effect on sleep is several things at once: a modest physiological hit from light, plus a larger behavioural hit from stimulating content and delayed bedtime. For many people the timing and arousal channels matter more than the wavelength of the light, which is why blue-light-only explanations tend to oversell one part of the picture."
+  ],
+  "whyItFeelsDifferent": [
+    "Blue light gets the blame because it is a tidy, technical villain. It is easier to picture a specific wavelength damaging your sleep — and easier to sell a product against — than to confront the messier truth that the content is gripping and you keep choosing to stay on it. A physical cause feels less like a personal habit to change.",
+    "It also feels different because the harm is gradual and easy to rationalise. 'Just one more' feels harmless in the moment, and the cost shows up later as a delayed bedtime and a groggier morning that you may not trace back to the phone. The arousal and procrastination effects are exactly the kind that are hard to notice while they are happening.",
+    "And there is a whole market reinforcing the light story. Blue-light glasses, night-mode features, and filter apps frame the problem as something a gadget can solve, which is appealing because it asks nothing of your habits. The evidence for those fixes is weak, but the message that you can keep scrolling and neutralise the harm is comforting."
+  ],
+  "whatResearchSaysToDo": [
+    "Target the behaviour, not just the light. Since timing and arousal do much of the damage, the better-supported moves are protecting a consistent bedtime and reducing how stimulating your pre-sleep screen use is — swapping high-arousal, open-ended content (social feeds, games, intense shows) for calmer activity as you wind down.",
+    "Create a buffer before sleep. Putting devices away some time before bed, or moving the phone out of reach so 'one more' is harder, addresses the procrastination and arousal channels directly. Dimming devices and lowering light in the evening can help on the melatonin side, but as a supporting move rather than the main fix.",
+    "Treat the basics as the foundation. A regular sleep schedule, a dark and cool room, and limiting caffeine and alcohol late in the day have stronger support than any single screen tweak. And persistent sleep problems are a clear reason to see a qualified clinician rather than chasing gadget fixes."
+  ],
+  "whatDoesNotHelp": [
+    "Blue-light-blocking glasses have weak evidence and are unlikely to rescue your sleep on their own. They target only the light channel — the part the research suggests is often the smaller one — and do nothing about the engaging content and delayed bedtime that drive much of the harm.",
+    "Relying on night mode or screen filters while continuing to scroll late tends not to work, for the same reason: it addresses light while leaving the arousal and timing problems untouched. A warmer screen does not make a gripping feed less gripping or your bedtime earlier.",
+    "Telling yourself the light is the only issue can quietly excuse the behaviour that matters most. If the real driver is stimulating content keeping you up past your intended bedtime, focusing on wavelengths misses the lever — and it can delay getting help for sleep problems that deserve clinical assessment."
+  ],
+  "realNumbersInContext": [
+    "The clearest experimental result here is Chang and colleagues (2015), who found that reading on a light-emitting eReader before bed, compared with a printed book, suppressed and delayed melatonin, lengthened the time to fall asleep, and left people less alert the next morning. That establishes a real physiological effect of evening device light — but it is one channel, not the whole story.",
+    "Beyond that, exact figures are best treated cautiously, because the size of screens' impact varies a lot with what you are doing, when, and for how long. The honest synthesis is that light has a modest, measurable effect, while content-driven arousal and bedtime procrastination often matter more for everyday sleep. Be skeptical of confident, precise claims that blue light alone is wrecking your sleep, and of products promising to fix it.",
+    "Educational only — not medical advice. For persistent sleep problems, see a qualified clinician."
+  ],
+  "realNumbers": [
+    { "value": "Delayed melatonin", "label": "Effect of reading on a light-emitting device vs a print book before bed", "source": "Chang et al., 2015, PNAS" },
+    { "value": "Less alert", "label": "Next-morning alertness after evening device reading in the same study", "source": "Chang et al., 2015, PNAS" },
+    { "value": "Timing & arousal", "label": "The often-larger driver of screen-related sleep loss for many people", "source": "Bedtime procrastination and arousal research" },
+    { "value": "Weak", "label": "Strength of evidence that blue-light glasses improve sleep", "source": "Blue-light-blocking research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is blue light the main reason screens hurt my sleep?",
+      "answer": "Probably not the main reason for most people. Evening light, including from devices, can suppress melatonin and delay your body clock, but engaging content raising arousal and pushing your bedtime later often matters more. Blue-light-only explanations tend to oversell one part of the picture. This is educational information, not medical advice."
+    },
+    {
+      "question": "Do blue-light-blocking glasses actually help me sleep?",
+      "answer": "The evidence for them is weak. They target only the light channel, which research suggests is often the smaller factor, and they do nothing about the stimulating content and delayed bedtime that drive much of the harm. They are unlikely to fix sleep on their own."
+    },
+    {
+      "question": "Does using a screen before bed always ruin sleep?",
+      "answer": "Not necessarily. The effect depends heavily on what you do, when, and for how long. Calm, brief use close to your normal bedtime is very different from open-ended scrolling that keeps you up well past it. Timing and content are the key variables."
+    },
+    {
+      "question": "What's the best way to protect my sleep if I use screens at night?",
+      "answer": "Protect a consistent bedtime, swap high-arousal content for calmer activity as you wind down, and create a buffer by putting the phone out of reach. Dimming devices can help on the margin. For persistent sleep problems, see a qualified clinician."
+    },
+    {
+      "question": "Why do I keep staying up 'just one more' on my phone?",
+      "answer": "Screen content is engineered to hold attention, which raises arousal and makes stopping hard, and people commonly delay sleep despite intending to stop — a pattern called bedtime procrastination. This behavioural effect is often a bigger driver of lost sleep than the light itself."
+    }
+  ],
+  "dataSources": [
+    "Chang, A.-M., et al. (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS, 112(4), 1232–1237.",
+    "Research on evening light exposure, melatonin suppression, and circadian phase delay.",
+    "Research on bedtime procrastination and pre-sleep arousal from engaging content.",
+    "Reviews on blue-light-blocking glasses and screen filters (weak/limited evidence)."
+  ],
+  "relatedInsights": [
+    "how-much-sleep-do-people-actually-get",
+    "is-it-normal-to-feel-tired-all-the-time",
+    "how-much-time-do-we-spend-on-our-phones"
+  ],
+  "lastReviewed": "2026-06"
+}

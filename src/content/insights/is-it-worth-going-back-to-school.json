@@ -1,0 +1,77 @@
+{
+  "title": "Is It Worth Going Back to School?",
+  "slug": "is-it-worth-going-back-to-school",
+  "category": "work-and-career",
+  "metaTitle": "Is It Worth Going Back to School? What the Data Shows",
+  "metaDescription": "Going back to school pays off in some fields and not others. Here is what the data shows about degree returns, cost, and the real opportunity cost.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Whether going back to school is worth it depends heavily on the specific program, its cost, and your goal — the returns vary enormously by field, and the worst outcome is taking on debt without finishing.",
+  "honestAnswer": [
+    "It depends on the program, the cost, and the goal — it is not a blanket yes, and anyone who answers it as one is skipping the part that actually determines the outcome. On average, more education is associated with higher earnings, but averages hide enormous variation: some degrees pay back many times over, while others leave people worse off after debt and the income they gave up to study.",
+    "The honest way to answer the question is to run your own specific numbers — the real cost of the program, the realistic earnings bump it leads to in your field, and how long it would take to recoup both the tuition and the income you forgo while studying. It is a case-by-case calculation, not a default. The single most reliable way to make it not worth it is to borrow heavily and not finish."
+  ],
+  "whatDataShows": [
+    "At the population level, the link between education and earnings is well established. The U.S. Bureau of Labor Statistics consistently finds that median weekly earnings rise with each level of education and unemployment falls — workers with a bachelor's degree out-earn those with only a high-school diploma by a wide margin, and those with master's and professional degrees out-earn bachelor's holders on average. So as a broad average, more schooling tracks with more money.",
+    "But the average conceals the part that matters. Analyses from the Georgetown University Center on Education and the Workforce find that the return on a credential depends overwhelmingly on the field of study, not just the level — the highest-earning bachelor's majors can out-earn the lowest-earning ones by amounts comparable to the gap between high school and college. For graduate degrees the spread is just as wide: some professional and STEM-oriented master's degrees show strong lifetime returns, while others show weak or even negative returns once you account for tuition and forgone income.",
+    "Mid-career retraining can genuinely pay off, but it carries a real and often underestimated opportunity cost — not just tuition, but the salary you are not earning while you study, and the years before the new path catches up to where you already were. The research on degree ROI is clear that the calculation has to net out these costs, not just compare the higher salary to the old one."
+  ],
+  "whyItFeelsDifferent": [
+    "The decision feels like it should have a clean yes-or-no answer because the cultural story about education is one-directional: more credentials are framed as always better, always an investment in yourself. That message is reinforced by the institutions that benefit from enrolment, so the marketed version rarely foregrounds the cases where the numbers do not work.",
+    "It also feels different because the cost is split in a way that is easy to misjudge. Tuition is visible and gets all the attention, but for someone already working, the larger cost is often the income forgone during study — money you simply never see, so it does not register as a loss the way a tuition bill does. People routinely compare the new salary to the old one and forget to subtract what they gave up to get there.",
+    "And the upside is vivid while the downside is quiet. You can easily picture the better job the degree might unlock; it is much harder to picture the version where the program costs more than it returns, or where life intervenes and you leave with debt and no credential. Both outcomes are real, but only one of them is advertised."
+  ],
+  "whatResearchSaysToDo": [
+    "Run the specific numbers before deciding. Estimate the all-in cost (tuition plus the income you would forgo while studying), the realistic earnings increase in your actual field and region — not the program's best-case marketing figure — and the number of years it would take to recoup both. A credential that pays back in a few years is a very different proposition from one that takes decades or never does.",
+    "Weight field and completion heavily. The Georgetown CEW data suggests the field of study and whether you finish matter more for the financial result than the prestige of the institution or the level of the degree in the abstract. Programs with clear, documented links to specific better-paid roles are a safer bet than open-ended credentials pursued in the hope they will pay off somehow.",
+    "Separate the financial case from the non-financial one, and be honest about which you are making. Some people go back to school for reasons that are not about earnings — a field they want to work in, a license they need, intrinsic interest. That can be a perfectly good reason, but it is a different decision from an investment expected to pay for itself, and conflating the two is how people end up surprised by the bill."
+  ],
+  "whatDoesNotHelp": [
+    "Treating any degree as automatically a good investment does not help — the data shows the return depends on the specific program and field, and some credentials do not pay back their cost. 'Education always pays off' is true as a population average and false often enough at the individual level to be a poor basis for a large financial decision.",
+    "Borrowing heavily to enroll without a realistic plan to finish is the most damaging pattern the research points to. The worst outcome is not a low return; it is debt with no credential at all, which combines the full cost with none of the earnings benefit. Programs with low completion rates deserve real scrutiny for exactly this reason.",
+    "Comparing only the new salary to your old one, while ignoring tuition and the income you gave up while studying, reliably overstates the benefit. So does anchoring to the headline figure for the highest-paid graduates of a program rather than the median, which is where most people actually land."
+  ],
+  "realNumbersInContext": [
+    "As a broad average, U.S. workers with more education earn more and are unemployed less — BLS data shows median weekly earnings rising at each level from high school to bachelor's to advanced degrees. But the Georgetown Center on Education and the Workforce finds the field of study can matter as much as the level: the gap between the highest- and lowest-earning college majors is roughly as large as the gap between college and high school overall.",
+    "For graduate degrees specifically, the return varies from strongly positive to weak or negative once tuition and forgone income are netted out — there is no single 'graduate degrees pay off' number, because it depends entirely on the field. And the single biggest risk factor is non-completion: borrowing for a program and leaving without the credential combines the full cost with none of the earnings benefit. Treat any one figure as approximate and field-specific, not a universal rule."
+  ],
+  "realNumbers": [
+    { "value": "Higher", "label": "Median earnings rise at each education level on average (degree vs. high school)", "source": "U.S. Bureau of Labor Statistics" },
+    { "value": "Field > level", "label": "Field of study can affect lifetime earnings as much as the degree level itself", "source": "Georgetown CEW" },
+    { "value": "Weak to strong", "label": "Range of graduate-degree returns after netting out cost, by field", "source": "Research on graduate-degree ROI" },
+    { "value": "Worst case", "label": "Borrowing without finishing — full cost, no credential", "source": "Research on degree completion and debt" }
+  ],
+  "faqs": [
+    {
+      "question": "Will going back to school definitely increase my income?",
+      "answer": "Not definitely. On average more education tracks with higher earnings, but the return depends heavily on the field of study and whether you finish. Some programs pay back many times over; others show weak or negative returns once you account for tuition and the income you give up while studying."
+    },
+    {
+      "question": "What's the biggest cost people overlook?",
+      "answer": "The income you forgo while studying. Tuition is visible and gets all the attention, but for someone already working, the salary you don't earn during the program is often the larger cost — and it's easy to miss because you never see the money leave your account."
+    },
+    {
+      "question": "How do I figure out if a specific program is worth it?",
+      "answer": "Run the numbers for your case: the all-in cost (tuition plus forgone income), the realistic earnings increase in your actual field and region — using median outcomes, not best-case marketing figures — and how many years it would take to recoup both. A few-year payback is very different from one that takes decades."
+    },
+    {
+      "question": "What's the worst-case outcome?",
+      "answer": "Taking on debt and not finishing. That combines the full cost with none of the earnings benefit, which is why programs with low completion rates deserve extra scrutiny before you enroll."
+    },
+    {
+      "question": "Is it ever worth it for non-financial reasons?",
+      "answer": "Yes — a field you want to work in, a license you need, or genuine interest can be a perfectly good reason. Just be honest that it's a different decision from an investment expected to pay for itself, and don't justify a non-financial choice with financial expectations the program may not meet."
+    }
+  ],
+  "dataSources": [
+    "Georgetown University Center on Education and the Workforce — research on the economic value of college majors and returns by degree and field.",
+    "U.S. Bureau of Labor Statistics — median weekly earnings and unemployment rates by educational attainment.",
+    "Research on graduate-degree return on investment and the variance of returns across fields of study.",
+    "Research on degree completion, student debt, and the costs of non-completion."
+  ],
+  "relatedInsights": [
+    "is-a-college-degree-still-worth-it",
+    "does-experience-or-education-matter-more",
+    "what-research-shows-about-changing-careers-after-40"
+  ],
+  "lastReviewed": "2026-06"
+}
