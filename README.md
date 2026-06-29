@@ -6,8 +6,8 @@ A serious, data-driven, emotionally intelligent website that helps people unders
 where they actually stand in life — using real research, real population data, and
 honest global context. Not advice. Not therapy. **A mirror made of data.**
 
-Built to scale into a library of up to **500 evergreen research pages** around the
-most universal human question: *Am I okay?*
+A library of **500 evergreen research pages** around the most universal human
+question: *Am I okay?*
 
 - **Live domain:** honestpicture.com
 - **Brand shown in UI:** Honest Picture

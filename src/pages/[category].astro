@@ -47,7 +47,7 @@ const jsonLd = {
 >
   <div class="container cat__head">
     <Breadcrumbs items={[{ label: 'Life Areas', href: '/life-areas' }, { label: cat.shortLabel }]} />
-    <p class={`eyebrow accent-${cat.accent}`}>Life area · {insights.length > 0 ? `${inCategory.length} insight${inCategory.length === 1 ? '' : 's'}` : ''} · scaling to {cat.targetPages}</p>
+    <p class={`eyebrow accent-${cat.accent}`}>Life area · {inCategory.length} insight{inCategory.length === 1 ? '' : 's'}{inCategory.length < cat.targetPages ? ` · scaling to ${cat.targetPages}` : ''}</p>
     <h1>{cat.title}</h1>
     <p class="lede">{cat.description}</p>
   </div>

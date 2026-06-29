@@ -12,6 +12,15 @@ const countByCat = insights.reduce<Record<string, number>>((acc, e) => {
 
 const core = CATEGORIES.filter((c) => c.coreArea);
 const others = CATEGORIES.filter((c) => !c.coreArea);
+
+const liveTotal = Object.values(countByCat).reduce((a, b) => a + b, 0);
+
+// Show a plain count once a category has reached its planned size; otherwise
+// keep the "scaling to" framing so the label stays accurate either way.
+const cardMeta = (slug: string, target: number) => {
+  const n = countByCat[slug] ?? 0;
+  return n >= target ? `${n} insight${n === 1 ? '' : 's'}` : `${n} live · scaling to ${target}`;
+};
 ---
 
 <BaseLayout
@@ -27,7 +36,7 @@ const others = CATEGORIES.filter((c) => !c.coreArea);
       <p class="lede">
         Six of these areas form the core assessment; the others give the
         comparison, regret, life-stage, and happiness research that puts the rest
-        in context. Together they are built to scale to {TARGET_TOTAL} research-backed pages.
+        in context. Together they make up a library of {liveTotal >= TARGET_TOTAL ? TARGET_TOTAL : liveTotal} research-backed pages.
       </p>
     </header>
 
@@ -44,7 +53,7 @@ const others = CATEGORIES.filter((c) => !c.coreArea);
               </div>
               <p class="la-card__desc">{c.description.slice(0, 150)}…</p>
               <span class="la-card__meta faint">
-                {countByCat[c.slug] ?? 0} live · scaling to {c.targetPages}
+                {cardMeta(c.slug, c.targetPages)}
               </span>
             </a>
           ))
@@ -67,7 +76,7 @@ const others = CATEGORIES.filter((c) => !c.coreArea);
               </div>
               <p class="la-card__desc">{c.description.slice(0, 150)}…</p>
               <span class="la-card__meta faint">
-                {countByCat[c.slug] ?? 0} live · scaling to {c.targetPages}
+                {cardMeta(c.slug, c.targetPages)}
               </span>
             </a>
           ))
