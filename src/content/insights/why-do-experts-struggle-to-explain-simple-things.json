@@ -1,0 +1,75 @@
+{
+  "title": "Why Do Experts Struggle to Explain Simple Things?",
+  "slug": "why-do-experts-struggle-to-explain-simple-things",
+  "category": "work-and-career",
+  "metaTitle": "Why Do Experts Struggle to Explain Simple Things?",
+  "metaDescription": "Because of the 'curse of knowledge': once you know something, it's hard to imagine not knowing it, so experts skip steps and overestimate what novices grasp.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Once you know something well it becomes hard to imagine not knowing it, so experts skip steps, lean on jargon, and overestimate what beginners understand — a normal cognitive bias called the curse of knowledge, not arrogance.",
+  "honestAnswer": [
+    "Because of a well-documented bias called the 'curse of knowledge': once you know something, it becomes genuinely hard to imagine what it was like not to know it. Experts unconsciously skip the steps that now feel obvious, reach for jargon that has become second nature, and overestimate how much a beginner already understands. The gap is not a sign of arrogance or poor effort — it is a normal feature of how knowledge reshapes the mind that holds it.",
+    "This is why brilliant people can be frustrating teachers. Their expertise, which makes them good at the work, is the very thing that makes it hard to remember what a newcomer does not yet see. The more deeply someone knows a subject, the more invisible the beginner's starting point becomes to them — so the explanation lands at the wrong altitude."
+  ],
+  "whatDataShows": [
+    "The curse of knowledge was named and studied by Camerer, Loewenstein and Weber, who showed in economic experiments that better-informed people could not fully set aside what they knew when predicting the judgments of the less-informed. Knowing the answer contaminated their estimate of what someone without that knowledge would think. The bias was systematic, not occasional, and it persisted even when people were motivated to correct for it.",
+    "A vivid demonstration is Elizabeth Newton's 'tappers and listeners' study. People asked to tap out the rhythm of a well-known song estimated that listeners would recognize it around half the time; in reality, listeners identified it only a small fraction of the time. The tappers could hear the full tune in their heads, so they could not imagine how sparse and ambiguous the bare taps sounded to someone who could not. Their own knowledge made the message feel far clearer than it was.",
+    "Chip and Dan Heath popularized this work in 'Made to Stick,' arguing the curse of knowledge is a central reason expert communication fails — experts forget what it is like to be a novice and pitch their explanations to people who already share their context. The pattern shows up across teaching, technical writing, medicine, and management: the more expert the communicator, the easier it is to overshoot the audience without realizing it."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like the listener is being slow rather than that the explanation is mispitched, because to the expert the missing steps are not visibly missing — they have been automated into intuition. What was once effortful reasoning has become a single obvious leap, so the expert genuinely does not see the gap they are skipping over.",
+    "It also feels like jargon is plain language. Specialist terms that took years to absorb stop registering as specialist; they feel like the natural words for the thing. The expert is not showing off — they have simply lost easy access to the everyday phrasing a beginner would need, the same way the tappers could no longer hear how bare their taps sounded.",
+    "And both sides tend to misread the failure as being about ability rather than perspective. The novice may feel stupid; the expert may feel they are surrounded by people who do not pay attention. In fact neither is the issue — the difficulty is structural, a predictable consequence of how thoroughly knowledge rewires the way a topic appears to the person who holds it."
+  ],
+  "whatResearchSaysToDo": [
+    "The most reliable countermeasure is to get concrete and to externalize the beginner's perspective rather than imagine it. The 'Made to Stick' work emphasizes concrete examples, plain language, and stories over abstraction, precisely because abstraction is where the curse of knowledge does its damage. Replacing 'the principle' with a specific worked example forces the hidden steps back into view.",
+    "Testing the explanation on an actual novice beats trying to simulate one in your head, since the bias is exactly the inability to simulate the uninformed mind accurately. Watching where a real beginner gets lost, or asking them to explain it back, surfaces the skipped steps that you can no longer see on your own.",
+    "It also helps to deliberately name and unpack jargon, and to ask 'what would someone need to already know for this to make sense?' before explaining. Slowing down to make the implicit explicit runs against the grain of expertise — which is built on making things implicit — which is exactly why it has to be done on purpose rather than left to intuition."
+  ],
+  "whatDoesNotHelp": [
+    "Simply telling experts to 'explain it more simply' has limited effect, because the bias operates below awareness — they already believe they are being clear, just as the tappers were sure their song was recognizable. Without concrete feedback from a real novice, good intentions do not reveal the steps being skipped.",
+    "Repeating or restating the same explanation more slowly or more loudly rarely closes the gap, since the problem is not pace or volume but a missing rung in the ladder. If the explanation starts above where the listener is standing, saying it again from the same height does not help them reach it.",
+    "Reading the difficulty as a sign of low intelligence — in either direction — does not help and is not accurate. The novice is not failing to grasp something easy, and the expert is not arrogant for skipping steps. Treating it as a character or ability problem misses that it is a predictable, well-studied bias that affects everyone who knows a subject well."
+  ],
+  "realNumbersInContext": [
+    "The tappers-and-listeners study is the memorable number here, and it deserves to be quoted with care: tappers estimated listeners would recognize the tune around 50% of the time, while actual recognition was only a small fraction of that — a gap that captures how vividly your own knowledge fills in what the listener never receives. Treat the exact figures as illustrative of the pattern rather than as precise constants.",
+    "More broadly, the curse of knowledge is robust as a direction of bias rather than a single statistic: across studies, better-informed people systematically overestimate what the less-informed know or can infer. The transferable lesson is that the difficulty experts have explaining simple things is normal and predictable — a feature of expertise itself, not a flaw in the expert or the learner."
+  ],
+  "realNumbers": [
+    { "value": "~50% vs a fraction", "label": "Tappers' predicted vs actual listener recognition of a tune", "source": "Newton, tappers and listeners study" },
+    { "value": "Systematic", "label": "Direction of the curse-of-knowledge bias across experiments", "source": "Camerer, Loewenstein & Weber" },
+    { "value": "Concrete > abstract", "label": "What helps explanations land, per 'Made to Stick'", "source": "Heath & Heath" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the curse of knowledge?",
+      "answer": "It's a cognitive bias in which, once you know something, you can no longer easily imagine not knowing it. As a result you skip steps that now feel obvious, use jargon that feels plain to you, and overestimate what a beginner understands. It was studied by Camerer, Loewenstein and Weber and popularized by the Heath brothers in 'Made to Stick.'"
+    },
+    {
+      "question": "Does being an expert make you a worse teacher?",
+      "answer": "It can make explaining harder, which is different from being a worse person at the subject. The deeper your knowledge, the more invisible a beginner's starting point becomes, so you pitch explanations too high without realizing it. It's a predictable side effect of expertise, not a lack of effort or care — and it can be countered deliberately."
+    },
+    {
+      "question": "What is the tappers and listeners study?",
+      "answer": "A demonstration by Elizabeth Newton in which people tapped out a well-known song's rhythm and predicted listeners would recognize it about half the time, while actual recognition was only a small fraction of that. The tappers could hear the full tune in their heads, so they couldn't imagine how ambiguous the bare taps sounded — a clear illustration of the curse of knowledge."
+    },
+    {
+      "question": "How can experts explain things more clearly?",
+      "answer": "The research favors getting concrete — specific worked examples, plain language, and stories instead of abstraction — and, crucially, testing the explanation on an actual beginner rather than imagining one. Asking a novice to explain it back surfaces the skipped steps you can no longer see, and deliberately unpacking jargon helps too."
+    },
+    {
+      "question": "Why doesn't just 'explaining it simpler' fix it?",
+      "answer": "Because the bias operates below awareness — experts already believe they're being clear, the way the tappers were sure their song was obvious. Restating the same explanation more slowly doesn't add the missing rung in the ladder. Real feedback from a beginner is what reveals where the explanation started above where the listener was standing."
+    }
+  ],
+  "dataSources": [
+    "Camerer, C., Loewenstein, G., & Weber, M. (1989). The Curse of Knowledge in Economic Settings: An Experimental Analysis. Journal of Political Economy, 97(5), 1232–1254.",
+    "Newton, E. (1990). The tappers and listeners study (Stanford doctoral research on the curse of knowledge).",
+    "Heath, C., & Heath, D. (2007). Made to Stick: Why Some Ideas Survive and Others Die."
+  ],
+  "relatedInsights": [
+    "why-do-personality-tests-feel-so-accurate",
+    "do-we-actually-know-ourselves-as-well-as-we-think",
+    "what-actually-makes-people-good-at-their-jobs"
+  ],
+  "lastReviewed": "2026-06"
+}

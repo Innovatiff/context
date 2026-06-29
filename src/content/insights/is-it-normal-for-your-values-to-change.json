@@ -1,0 +1,76 @@
+{
+  "title": "Is It Normal for Your Values to Change?",
+  "slug": "is-it-normal-for-your-values-to-change",
+  "category": "purpose-and-direction",
+  "metaTitle": "Is It Normal for Your Values to Change?",
+  "metaDescription": "Yes. Research suggests values shift gradually with age, experience, and life events. Here is what the data shows about how priorities change over a life.",
+  "lifeArea": "Purpose & Direction",
+  "keyFinding": "Value priorities tend to shift gradually across the lifespan with age, experience, and major life events, and people consistently underestimate how much their values will change in the future.",
+  "honestAnswer": [
+    "Yes — it is normal, and the research suggests it is closer to the rule than the exception. Studies of basic human values find that what people prioritise tends to shift gradually across the lifespan, and that major life events and changing roles reshape those priorities along the way. Changing values is better understood as ordinary development than as inconsistency or a betrayal of who you used to be.",
+    "It rarely happens overnight. The pattern that emerges from this work is slow drift rather than sudden conversion: the things you weighted heavily at twenty-five quietly carry different weight at forty-five, often without a single dramatic moment you can point to. That gradualness is part of why the change can feel surprising when you finally notice it."
+  ],
+  "whatDataShows": [
+    "Shalom Schwartz's framework of basic human values — a widely used model that maps values like openness to change, self-direction, security, conservation, and benevolence — has been used to track how value priorities relate to age. The general pattern researchers report is that openness-to-change values (novelty, independence, stimulation) tend to ebb across adulthood, while conservation and security values, along with benevolence and concern for close others, tend to rise. These are population-level tendencies and averages, not a script every individual follows.",
+    "Life events and roles appear to move values too, not just the passage of time. Becoming a parent, losing someone, changing or losing a career, illness, migration — research on value change associates these kinds of transitions with shifts in what people prioritise. The direction is not uniform across everyone, but the broad finding is that experience reshapes priorities rather than leaving them fixed.",
+    "Crucially, people seem to be poor forecasters of their own change. The 'End of History Illusion,' described by Quoidbach, Gilbert and Wilson, found that across a wide age range people acknowledged having changed a great deal in the past but expected to change relatively little in the future — as though they had finally arrived at the person they would always be. That illusion held for values and preferences as well as personality, suggesting we routinely underestimate how much our priorities will keep moving."
+  ],
+  "whyItFeelsDifferent": [
+    "Part of what makes shifting values feel unsettling is the End of History Illusion itself: at every age, the current version of you tends to feel like the finished version. So when your priorities later move again, it can register as something going wrong rather than as the same gradual process that produced 'you' in the first place.",
+    "There is also a cultural premium on consistency. We praise people for 'knowing who they are' and 'staying true to themselves,' which can make a genuine change of priorities feel like a failure of character or a kind of self-betrayal. The research frame is gentler: a values shift is usually evidence that you have lived through things and integrated them, not evidence that the earlier you was a fraud.",
+    "Finally, the change is mostly invisible while it happens. Because it is gradual and rarely tied to one decisive event, you tend to notice it only in retrospect — comparing who you are now to a remembered earlier self — which can make a slow, normal drift feel like an abrupt, disorienting break."
+  ],
+  "whatResearchSaysToDo": [
+    "The most grounded takeaway is to expect change rather than be ambushed by it. Given the End of History Illusion, simply assuming your priorities will keep evolving — and leaving room for that in big commitments and plans — is a reasonable hedge against the predictable error of treating today's values as permanent.",
+    "Treating a shift as information can help more than resisting it. When something that used to matter stops mattering, or vice versa, the research framing would read that as data about your changing life stage and experience, not as a problem to correct back to your old self. Periodically revisiting what you actually prioritise — rather than what you once decided you should — keeps your direction tied to the current you.",
+    "It is also worth distinguishing core continuity from surface change. Many people find that certain through-lines persist (caring for close others, say) even as their expression changes a lot over the years. Looking for what has carried through can make the parts that changed feel less like loss and more like the same self adapting."
+  ],
+  "whatDoesNotHelp": [
+    "Forcing consistency with a past version of yourself out of a sense of loyalty tends to backfire. Holding to values you have genuinely outgrown — because changing them would feel like admitting the old you was wrong — keeps you anchored to a self that no longer exists, which the developmental picture suggests is the less natural state, not the more virtuous one.",
+    "Treating a values shift as a crisis to be solved is usually unwarranted. Gradual change in priorities is, on the evidence, ordinary lifespan development; pathologising it as instability or a 'phase' to get over misreads a normal process.",
+    "At the other extreme, assuming you are now done changing is exactly the error the End of History Illusion describes. Locking in long-term decisions on the belief that your current values are final overlooks the consistent finding that people of every age go on to change more than they expect."
+  ],
+  "realNumbersInContext": [
+    "Be cautious with precise figures here: the dependable findings are about directions and patterns, not exact percentages. The Schwartz-values research describes broad age-related tendencies — openness-to-change values generally ebbing, conservation, security and benevolence values generally rising across adulthood — that are averages across populations, with wide individual variation around them. Plenty of people run against the trend.",
+    "The End of History Illusion is the cleanest single takeaway: across a large age range, people reported substantial change over the previous decade yet predicted markedly less change over the coming one, for personality, preferences and values alike. The practical reading is roughly this — whatever you currently believe about how settled your values are, the base rate says they will keep moving more than you think."
+  ],
+  "realNumbers": [
+    { "value": "Gradual", "label": "Typical pace of value change across the lifespan, not sudden", "source": "Schwartz, basic human values research" },
+    { "value": "Conservation ↑", "label": "Security and conservation values tend to rise with age", "source": "Schwartz-values age research" },
+    { "value": "Openness ↓", "label": "Openness-to-change values tend to ebb with age", "source": "Schwartz-values age research" },
+    { "value": "Underestimated", "label": "How much people expect their future values to change", "source": "Quoidbach, Gilbert & Wilson (End of History Illusion)" }
+  ],
+  "faqs": [
+    {
+      "question": "Does changing my values mean I was being fake before?",
+      "answer": "No. The developmental research treats shifting values as a normal product of age and experience, not as evidence the earlier you was inauthentic. You were sincere then and you are sincere now; the priorities simply moved as you lived through more."
+    },
+    {
+      "question": "Do most people's values actually change with age?",
+      "answer": "The broad pattern in basic-values research is yes, gradually. On average, openness-to-change values tend to ebb across adulthood while security, conservation, and benevolence values tend to rise. These are population tendencies with wide individual variation, so not everyone follows the same path."
+    },
+    {
+      "question": "Why do I keep assuming I won't change anymore?",
+      "answer": "That is a well-documented bias called the End of History Illusion. At every age people recognise how much they have changed but expect to change little going forward, as if they have finally become their final self. The evidence says future change keeps coming anyway."
+    },
+    {
+      "question": "What actually makes values shift?",
+      "answer": "Two main forces show up in the research: the gradual influence of age and accumulated experience, and major life events or role changes such as parenthood, loss, illness, or a career change. The exact direction varies by person, but transitions and time both tend to reshape priorities."
+    },
+    {
+      "question": "Should I worry if my values are shifting right now?",
+      "answer": "Generally no. Gradual change in what you prioritise is ordinary lifespan development. It is worth reflecting on, and revisiting big commitments in light of it, but the change itself is closer to normal than to a sign something is wrong."
+    }
+  ],
+  "dataSources": [
+    "Schwartz, S. H. — Theory of Basic Human Values, and research on age-related change in value priorities (openness-to-change, conservation, security, benevolence).",
+    "Quoidbach, J., Gilbert, D. T., & Wilson, T. D. (2013). The End of History Illusion. Science, 339(6115), 96–98.",
+    "Research on life events, role transitions (e.g., parenthood, loss, career change), and value change."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-outgrow-your-old-dreams",
+    "how-much-will-you-actually-change-in-ten-years",
+    "can-you-actually-change-who-you-are"
+  ],
+  "lastReviewed": "2026-06"
+}

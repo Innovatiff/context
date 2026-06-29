@@ -1,0 +1,71 @@
+{
+  "title": "Why Do We Overcommit and Regret It Later?",
+  "slug": "why-do-we-overcommit-and-regret-it-later",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Why Do We Overcommit and Regret It Later?",
+  "metaDescription": "We say yes to future plans because the future feels roomier than the present. The research on future time slack, planning fallacy, and why the bill comes due.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "We overcommit mainly because future time feels more abundant than present time, so we accept commitments that feel painful once they arrive in the present.",
+  "honestAnswer": [
+    "The core reason is a predictable misjudgement: the future feels roomier than the present. When something is months away, your future schedule looks open and forgiving, so saying yes feels cheap. The trouble is that the future eventually becomes the present, where time is just as scarce as it always is — and the commitment that felt easy to accept now feels heavy to honour.",
+    "On top of that sit a few familiar pressures: a tendency to underestimate how long things take, the social difficulty of saying no, and optimism about the version of you who will handle it later. The pattern is not a character flaw so much as a well-documented quirk of how people forecast their own time."
+  ],
+  "whatDataShows": [
+    "The central finding is 'future time slack.' Research by Zauberman and Lynch showed that people consistently expect to have more free time — and more spare money — in the future than they have now, even though the future, when it arrives, is rarely less crowded. Because future time feels abundant, people willingly take on commitments scheduled far ahead that they would refuse if asked to do them today.",
+    "The planning fallacy compounds it. A long line of research finds that people systematically underestimate how long their own tasks and obligations will take, even when they have been burned by the same task before. So we both overestimate the time we will have and underestimate the time each commitment will consume — a double error that quietly stacks the calendar.",
+    "Saying no is genuinely hard, and the difficulty is partly social. Research on requests and compliance finds people routinely underestimate how uncomfortable it is to decline and overestimate the relational cost of saying no, so they accept to avoid an awkward moment now — accepting a larger cost later to dodge a smaller one in the present."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels different in the moment because the future is abstract and the present is concrete. A request for next month lands as a vague idea you can imagine accommodating; the same request for tomorrow lands as a real intrusion into a real day. The yes and the cost arrive at different times, so they are weighed against very different backdrops.",
+    "There is also an optimism gap about your future self. We tend to picture a future version of us who is calmer, freer, and more on top of things — the person who will gladly take this on. When the date arrives, it is the same overstretched present self who has to deliver, and the gap between the imagined and actual self is where the regret lives.",
+    "And the social pressure is real-time while the consequence is delayed. The discomfort of declining is felt now, in front of the person asking; the exhaustion of having said yes is felt later, alone. Most people are wired to relieve the immediate discomfort, which is exactly what tips the decision toward overcommitting."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful reframe from the future-time-slack research is to treat future time as if it were present time. Before accepting something months out, ask whether you would say yes if it were happening this week. Since the future will be roughly as busy as now, that question corrects the slack illusion at the point of decision.",
+    "Building in a buffer addresses the planning fallacy directly. Because people reliably underestimate how long things take, assuming a commitment will cost more time and energy than it appears to — and leaving slack around it — tends to produce more realistic calendars than trusting the optimistic estimate.",
+    "On the saying-no side, research suggests the relational cost of a polite, prompt decline is smaller than people fear, and that having a default response ready ('let me check before I commit') reduces the in-the-moment pressure that drives reflexive yeses. Protecting future time is easier when you do not have to invent the refusal under social pressure."
+  ],
+  "whatDoesNotHelp": [
+    "Better intentions alone do not fix it, because the error is in forecasting, not motivation. Resolving to 'stop overcommitting' while still judging future requests against an imagined open calendar leaves the underlying illusion untouched.",
+    "More elaborate scheduling and productivity systems often make it worse, not better, by creating a sense of control that encourages saying yes to even more. The problem is rarely that the calendar is badly organised; it is that too much was accepted in the first place.",
+    "Saying yes to spare someone's feelings frequently backfires. Research on declining requests suggests people overestimate the offence a polite no causes, and the resentment or under-delivery that follows an over-extended yes usually costs the relationship more than a timely refusal would have."
+  ],
+  "realNumbersInContext": [
+    "The core effect is qualitative rather than a single headline statistic, and it is worth holding loosely: the future-time-slack research shows people predict more free time ahead than they actually get, but the size of the gap varies by person and study. The reliable part is the direction — future time is consistently overestimated relative to present time.",
+    "The planning fallacy is one of the more robust findings in this area: across many studies, people's time estimates for their own tasks skew optimistic, often substantially, even with prior experience of the same task. Treat your own 'this won't take long' and 'I'll have time then' as predictably rosy, and the tendency to overcommit becomes easier to anticipate."
+  ],
+  "faqs": [
+    {
+      "question": "Why do I keep saying yes to things I later dread?",
+      "answer": "Largely because of future time slack: when a commitment is far off, your future schedule looks open, so saying yes feels cheap. When the date arrives, the present is as busy as ever and the same yes now feels heavy. The cost and the agreement land at different times."
+    },
+    {
+      "question": "What is the planning fallacy?",
+      "answer": "It is the well-documented tendency to underestimate how long your own tasks will take, even after being burned by the same task before. Combined with overestimating how much free time you will have, it quietly overloads the calendar."
+    },
+    {
+      "question": "How can I stop overcommitting?",
+      "answer": "A simple test from the research: before accepting something in the future, ask whether you'd say yes if it were this week. Since the future will be about as busy as now, that corrects the illusion. Adding a time buffer and a ready default reply ('let me check first') also helps."
+    },
+    {
+      "question": "Isn't saying no rude or damaging to relationships?",
+      "answer": "Research suggests people overestimate how much offence a polite, prompt no causes. An over-extended yes that leads to resentment or under-delivery usually costs a relationship more than a timely, honest decline."
+    },
+    {
+      "question": "Will a better planner or app fix this?",
+      "answer": "Usually not, and sometimes it makes it worse by creating a feeling of control that encourages even more yeses. The issue is overestimating future time and accepting too much, not how the calendar is organised."
+    }
+  ],
+  "dataSources": [
+    "Zauberman, G., & Lynch, J. G. (2005). Resource Slack and Propensity to Discount Delayed Investments of Time Versus Money. Journal of Experimental Psychology: General, 134(1), 23–37.",
+    "Buehler, R., Griffin, D., & Ross, M. — research on the planning fallacy and time prediction.",
+    "Research on declining requests and the overestimated social cost of saying no (compliance and request literature).",
+    "Research on optimism about the future self and forecasting of personal time."
+  ],
+  "relatedInsights": [
+    "why-is-it-so-hard-to-say-no",
+    "why-do-we-procrastinate-even-when-it-hurts-us",
+    "is-it-normal-to-feel-busy-all-the-time"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Is It Okay to Not Want to Be a Manager?",
+  "slug": "is-it-okay-to-not-want-to-be-a-manager",
+  "category": "work-and-career",
+  "metaTitle": "Is It Okay to Not Want to Be a Manager? What Research Says",
+  "metaDescription": "Not wanting to manage is legitimate and often wise. Research shows management is a different job, and the best individual performer isn't the best manager.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Not wanting to become a manager is a legitimate and often sensible choice, because management is a different job requiring different skills — and promoting the best individual performer into it frequently fails.",
+  "honestAnswer": [
+    "Yes — and the research suggests it is often the wiser choice, not a lack of ambition. Management is a different job, not a higher rank of the job you already do well. The skills that make someone an excellent engineer, salesperson, nurse, or designer overlap only partly with the skills that make a good manager, and the assumption that everyone should climb the same ladder produces a lot of unhappy, ineffective managers and lost individual contributors.",
+    "Preferring to stay an individual contributor is a real and respected path. Many organizations build 'dual-career-ladder' structures precisely so that deep specialists can keep advancing in pay and seniority without managing people. Wanting to do the work rather than manage the people who do it is a preference about what kind of work you find meaningful, not a verdict on how driven you are."
+  ],
+  "whatDataShows": [
+    "The cleanest evidence comes from the 'Peter Principle' study by Benson, Li and Shue (2019), which examined sales workers across hundreds of firms. They found that the best salespeople were the most likely to be promoted into management — and that their post-promotion performance as managers was, on average, worse. Sales ability predicted being promoted but not managerial success; if anything, the very top individual performers made somewhat weaker managers. Promoting people for being good at their current job, rather than for management ability, predictably misfires.",
+    "This is the empirical version of the old Peter Principle idea: in a hierarchy that promotes for current performance, people tend to rise to a level where they are no longer good at the job. The deeper point is that 'good at the work' and 'good at managing people who do the work' are distinct skill sets — coaching, delegation, conflict handling, hiring, and prioritization are not the same muscles as the craft itself.",
+    "Partly in response, dual-career ladders — parallel tracks where senior individual contributors reach pay and status comparable to managers without taking on people-management — have become common, especially in technical and research-heavy fields. Their existence is an organizational admission that the single up-or-out ladder loses good people and creates reluctant managers, and that keeping strong specialists doing what they do best has real value."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like you 'should' want management because most organizations have historically tied money, title, and respect to the management track. When advancement and the manager path are the same thing, declining to manage can read as declining to advance — even though they are not actually the same decision.",
+    "There is also a cultural script that equates ambition with climbing. Saying you want to keep doing the work rather than supervise it can sound, in that script, like settling. But the data on mismatched promotions suggests the opposite: choosing the role that fits your strengths is often the more effective and ambitious choice, both for you and for the people who would have reported to you.",
+    "And the pressure is frequently structural rather than personal. Many people accept management not because they want it but because it was the only visible way to earn more or be taken seriously. The discomfort you feel is often a real conflict between what the ladder rewards and what the work you actually like requires — not evidence that something is wrong with you."
+  ],
+  "whatResearchSaysToDo": [
+    "Separate the question 'do I want more responsibility, pay, and growth?' from 'do I want to manage people?' These are routinely bundled together, but they are different. If the answer to the first is yes and the second is no, the senior-individual-contributor or specialist track exists precisely for that combination, and it is worth asking explicitly whether your organization offers one.",
+    "Look honestly at what management actually involves day to day — meetings, people problems, hiring, performance conversations, shielding your team, less hands-on craft — and weigh whether that is work you would find energizing. Job-fit research consistently finds that satisfaction and performance are higher when the work matches your strengths and interests, not when the title is higher.",
+    "If you do want to grow without managing, make the ask concrete: deeper technical ownership, mentoring without formal authority, leading projects rather than people, or moving onto a defined IC ladder. The evidence that top performers often make weaker managers is, in effect, an argument an organization can act on for keeping you in the role where you are strongest."
+  ],
+  "whatDoesNotHelp": [
+    "Taking a management role purely for the pay or status, against your own preferences, often helps no one. The Peter Principle evidence suggests this is a common way good individual contributors become unhappy, average managers — losing what they were good at and not gaining a role they wanted.",
+    "Assuming that declining management caps your career is frequently outdated. Where dual-career ladders exist, senior specialists can reach compensation and seniority comparable to managers. Treating the management track as the only path can push you off a route that fits you better.",
+    "Framing the preference as a personal failing does not help and is not supported by the evidence. Not wanting to manage is a legitimate preference about the content of your work. The research treats it as a fit question, not a character question — and finds that forcing the fit tends to produce worse outcomes on both sides."
+  ],
+  "realNumbersInContext": [
+    "The central result to remember is directional rather than a precise percentage: in the Benson, Li and Shue (2019) study of sales workers, stronger individual sales performance predicted promotion into management but was, if anything, associated with weaker performance as a manager once promoted. The skill that got someone promoted was not the skill the new job required.",
+    "It is worth holding the specifics loosely — these figures come largely from sales settings and the effect sizes vary, and plenty of strong performers do become strong managers. The robust, transferable takeaway is that management is a distinct job, not a reward tier of your current one, and that organizations increasingly build separate tracks because keeping good specialists in place has real value."
+  ],
+  "realNumbers": [
+    { "value": "Top performers", "label": "Most likely to be promoted into management in the sales study", "source": "Benson, Li & Shue, 2019" },
+    { "value": "Often weaker", "label": "Post-promotion managerial performance of the best individual performers", "source": "Benson, Li & Shue, 2019" },
+    { "value": "Dual ladder", "label": "Parallel track letting senior ICs advance without managing", "source": "Career-structure research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is not wanting to be a manager a sign I lack ambition?",
+      "answer": "No. Management is a different job, not a higher rank of the same one, and preferring to do the work rather than supervise it is a preference about the content of your work. Research on mismatched promotions suggests choosing the role that fits your strengths is often the more effective choice, for you and for any team you would have led."
+    },
+    {
+      "question": "What is the Peter Principle?",
+      "answer": "The idea that, in a hierarchy that promotes people for being good at their current job, they tend to rise to a level where they are no longer good. The Benson, Li and Shue (2019) study gave it empirical support: the best salespeople were most likely to be promoted into management, and on average performed worse as managers, because sales skill did not translate into management skill."
+    },
+    {
+      "question": "What is a dual-career ladder?",
+      "answer": "A parallel advancement track that lets senior individual contributors and specialists keep growing in pay and seniority without managing people. It exists because the single up-or-out ladder tends to lose good specialists and create reluctant managers, so many organizations — especially technical ones — build a separate path for deep expertise."
+    },
+    {
+      "question": "Won't refusing management limit my pay and growth?",
+      "answer": "Not necessarily, especially where a dual-career ladder exists, since senior specialists can reach compensation comparable to managers. The useful move is to separate 'do I want more responsibility and pay?' from 'do I want to manage people?' and to ask your organization concretely about IC or specialist tracks if the answer to the second is no."
+    },
+    {
+      "question": "How do I know if management is right for me?",
+      "answer": "Look at what management actually involves day to day — meetings, hiring, performance conversations, less hands-on craft — and ask whether that work would energize you. Job-fit research finds satisfaction and performance are higher when the work matches your strengths and interests, not simply when the title is higher."
+    }
+  ],
+  "dataSources": [
+    "Benson, A., Li, D., & Shue, K. (2019). Promotions and the Peter Principle. Quarterly Journal of Economics, 134(4), 2085–2134.",
+    "Research on dual-career-ladder and individual-contributor career structures.",
+    "Research on the distinction between individual performance and managerial skill / job fit."
+  ],
+  "relatedInsights": [
+    "does-getting-promoted-actually-make-you-happier",
+    "is-it-normal-to-not-be-passionate-about-your-job",
+    "what-actually-makes-people-good-at-their-jobs"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Do Performance Reviews Actually Work?",
+  "slug": "do-performance-reviews-actually-work",
+  "category": "work-and-career",
+  "metaTitle": "Do Performance Reviews Actually Work? What Research Shows",
+  "metaDescription": "Traditional annual performance reviews are unreliable and weakly effective. Here is what research shows about rating bias and what works better.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "Traditional annual performance ratings are heavily distorted by who is doing the rating rather than who is being rated, and they often fail to improve performance — while ongoing, specific feedback tends to work better.",
+  "honestAnswer": [
+    "Often, no — at least not the once-a-year ranking ritual most people picture. The research on formal performance appraisal is sobering: a large share of the variation in someone's ratings reflects the idiosyncrasies of the manager doing the rating rather than the actual performance of the person being rated. On top of that, annual reviews are skewed by recency and leniency, and they frequently fail to improve performance — sometimes they demotivate.",
+    "The more accurate way to put it: traditional performance reviews are a weak and noisy measurement tool, while ongoing, specific, forward-looking feedback is the part that actually helps. The problem is less that feedback is useless and more that the annual rating ceremony is a poor vehicle for it."
+  ],
+  "whatDataShows": [
+    "The most striking finding is the 'idiosyncratic rater effect.' When researchers decompose performance ratings, a large portion of the variance turns out to be specific to the individual rater — their personal tendencies and standards — rather than to the performance being measured. The classic analysis by Scullen, Mount and Goff (2000) found rater idiosyncrasy was the single largest source of variation in ratings, larger than actual performance. In plain terms, your rating tells you a great deal about who your manager is and comparatively little about how you did.",
+    "Ratings are also distorted in predictable directions. Recency bias means recent events count far more than the months that preceded them. Leniency and central-tendency biases compress scores toward 'meets expectations.' Halo effects let one strong or weak trait color everything else. None of these are signs of bad managers in particular — they are well-documented features of human judgment under vague criteria.",
+    "On effectiveness, the picture is mixed but unflattering for the traditional model. Reviews of the appraisal literature find that formal annual reviews frequently fail to raise subsequent performance, and that feedback delivered alongside a numerical rating or ranking can backfire, because the score triggers defensiveness that crowds out the learning. This is part of why many organizations have shifted toward more frequent check-ins and forward-looking feedback instead of a single retrospective scoring event."
+  ],
+  "whyItFeelsDifferent": [
+    "Performance reviews feel objective because they come with numbers, forms, and a calendar slot. A 3.5-out-of-5 looks like a measurement. But a number is not the same as accurate measurement, and the research shows much of that number is rater noise. The format lends an air of precision the underlying judgment does not have.",
+    "They also feel high-stakes because pay, promotion, and standing are often attached to them, so a single annual conversation carries the weight of a year. That weight makes the recency and defensiveness problems worse: people brace for a verdict rather than absorb feedback, and managers, knowing the stakes, often soften or compress their scores.",
+    "And because almost every organization runs some version of this ritual, it feels like the natural, even inevitable, way to evaluate work. Its ubiquity is easy to mistake for evidence that it works. The critique is old — quality thinkers like W. Edwards Deming argued decades ago that annual ratings mostly measure variation in the system and the rater, not the individual — but the ritual has proven remarkably durable regardless."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent signal is that feedback should be frequent, specific, and forward-looking rather than annual and retrospective. Many organizations that dropped or de-emphasized formal annual ratings replaced them with regular lightweight check-ins focused on what to do next, and report that the conversations became more useful even where the paperwork shrank.",
+    "Separating the developmental conversation from the pay-and-ranking decision tends to help, because the score is what triggers defensiveness. When feedback is not fused to a number that determines your raise, people are measurably more able to actually hear and act on it.",
+    "On the measurement side, the research favors structure: clear, behavior-based criteria defined in advance, input from multiple sources rather than a single rater, and asking raters to describe specific behaviors rather than assign a global impression. None of this makes appraisal perfectly accurate, but it reduces the share that is pure rater idiosyncrasy."
+  ],
+  "whatDoesNotHelp": [
+    "Adding more precision to the rating scale does not fix the core problem. Moving from a 5-point to a 10-point scale, or adding decimal scores, gives the rater idiosyncrasy more room to express itself rather than less. The noise is in the judgment, not the granularity of the form.",
+    "Forced ranking — sorting people into a fixed distribution and culling the bottom — has largely fallen out of favor for good reason: the evidence suggests it damages collaboration and morale without reliably improving performance, and it amplifies the very rater biases that make ratings unreliable in the first place.",
+    "Saving up feedback for the annual review is one of the least effective approaches. Feedback decays in value the longer it waits, and an end-of-year surprise is both harder to act on and more likely to feel like a verdict than a course correction. Frequency is doing more of the work than the formal event ever does."
+  ],
+  "realNumbersInContext": [
+    "The headline figure from the appraisal literature is about variance, not a single statistic: in decompositions of multi-rater performance data, rater-specific idiosyncrasy is repeatedly found to be the largest single component of a person's ratings — in the Scullen, Mount and Goff (2000) analysis, larger than the contribution of actual performance. Treat any single review score as one noisy reading from one instrument, not a verdict.",
+    "It is worth holding these numbers loosely. Exact percentages vary by study, job type, and how performance is measured, and good feedback genuinely does help people improve. The honest summary is that the annual rating is a weak and biased measurement, the ongoing feedback is the part with value, and the two have been bundled together in a way that serves neither well."
+  ],
+  "realNumbers": [
+    { "value": "Largest source", "label": "Rater idiosyncrasy as a share of variation in performance ratings", "source": "Scullen, Mount & Goff, 2000" },
+    { "value": "Mixed / weak", "label": "Effect of formal annual reviews on subsequent performance", "source": "Performance appraisal research reviews" },
+    { "value": "Recency + leniency", "label": "Common biases that distort annual ratings", "source": "Appraisal bias literature" }
+  ],
+  "faqs": [
+    {
+      "question": "Why are performance reviews considered unreliable?",
+      "answer": "Because a large share of the variation in someone's rating reflects the personal standards and tendencies of the manager doing the rating rather than the actual work — the 'idiosyncratic rater effect.' In the Scullen, Mount and Goff (2000) analysis, rater idiosyncrasy was the single biggest source of variation in ratings, larger than real performance, and reviews are further skewed by recency and leniency biases."
+    },
+    {
+      "question": "Does feedback at work actually help, or not?",
+      "answer": "Quality feedback does help — the problem is the annual ranking ritual, not feedback itself. Research generally favors frequent, specific, forward-looking feedback over a single retrospective scoring event, and finds that attaching a number or ranking can trigger defensiveness that crowds out the learning."
+    },
+    {
+      "question": "Why do so many companies still do annual reviews if they don't work well?",
+      "answer": "Largely because the ritual is entrenched and tied to pay and promotion decisions, and because a score looks like an objective measurement even when much of it is rater noise. The critique is decades old — W. Edwards Deming argued annual ratings mostly capture system and rater variation — but the format has proven durable. Many organizations have shifted toward frequent check-ins instead."
+    },
+    {
+      "question": "What's better than a traditional performance review?",
+      "answer": "The evidence points toward frequent, specific, forward-looking feedback; separating the developmental conversation from the pay-and-ranking decision so people can actually hear it; and, for measurement, clear behavior-based criteria defined in advance with input from more than one rater. None of this is perfect, but it reduces the share of a rating that is pure rater idiosyncrasy."
+    },
+    {
+      "question": "Does a bad review mean I'm doing badly?",
+      "answer": "Not reliably. Because so much of a rating reflects the rater rather than the work, a single score is one noisy reading from one instrument, not a verdict. It is better treated as one data point — most useful when paired with specific examples of behavior you can actually act on."
+    }
+  ],
+  "dataSources": [
+    "Scullen, S. E., Mount, M. K., & Goff, M. (2000). Understanding the latent structure of job performance ratings. Journal of Applied Psychology, 85(6), 956–970.",
+    "Research on performance appraisal bias (recency, leniency, central tendency, halo effects).",
+    "Research reviews on the effectiveness of annual performance appraisal and feedback.",
+    "Deming, W. E. — critique of annual performance ratings and ranking systems."
+  ],
+  "relatedInsights": [
+    "does-praise-or-criticism-improve-performance-more",
+    "why-do-some-people-get-promoted-and-others-dont",
+    "does-being-likable-matter-more-than-being-good-at-your-job"
+  ],
+  "lastReviewed": "2026-06"
+}

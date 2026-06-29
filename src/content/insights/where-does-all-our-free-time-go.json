@@ -1,0 +1,71 @@
+{
+  "title": "Where Does All Our Free Time Go?",
+  "slug": "where-does-all-our-free-time-go",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Where Does All Our Free Time Go?",
+  "metaDescription": "Time-use data shows adults average hours of daily leisure, yet it rarely feels enough. The reason: it's shattered into scattered, unrestorative 'time confetti'.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "We have more measured free time than we feel, but much of it arrives in scattered, interrupted fragments that are far less restorative than continuous leisure.",
+  "honestAnswer": [
+    "The free time is mostly there in the data — it is just shattered into pieces. Time-use surveys show that adults average several hours of leisure a day, yet it rarely feels like enough, because it tends to arrive as small, scattered, interrupted bits rather than as continuous stretches. A few minutes here, then a notification, then a few minutes there is far less restorative than the same total in one unbroken block.",
+    "So the honest answer is less 'you have no free time' and more 'your free time is fragmented and partly absorbed by screens.' The leverage is in protecting unbroken blocks, not in hunting for extra hours that the data suggests you may already have."
+  ],
+  "whatDataShows": [
+    "Large time-use surveys — in the U.S., the American Time Use Survey — consistently find that adults average several hours of leisure per day. By the raw measure, free time is not as scarce as the felt experience suggests; the gap is between how much there is and how much it feels like.",
+    "The writer and researcher Brigid Schulte, in her book Overwhelmed, named the reason: 'time confetti' — leisure broken into tiny, scattered, interrupted scraps. A few minutes between tasks, an evening repeatedly punctuated by notifications, a weekend sliced by errands. Fragmented like this, leisure stops feeling like leisure even when the minutes add up.",
+    "The fragmentation matters because continuous and broken free time are not equivalent. Research on leisure quality suggests that interrupted, fragmented free time is markedly less restorative than the same amount of time in an unbroken stretch — and a large share of measured leisure now goes to screens, which can fragment attention further rather than restore it."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like there is no free time because confetti does not register as leisure. A scattered ten minutes here and there does not produce the sense of rest that a continuous evening does, so the brain logs the day as having had little real downtime even when the totals say otherwise.",
+    "Interruption also taxes attention. Each notification or task-switch pulls focus and leaves a trace before you settle back, so fragmented leisure carries a quiet cognitive cost that continuous leisure does not. The time is technically free, but it is not fully yours.",
+    "And much of the measured leisure is spent on screens that are themselves designed to fragment attention. Scrolling can fill the gap without filling the need, so the hours pass and the sense of restoration does not arrive — which feels, from the inside, like the free time simply vanished."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful shift the research points to is protecting continuous blocks rather than chasing more total time. Because unbroken leisure is more restorative than the same minutes fragmented, deliberately defending a single uninterrupted stretch tends to do more for how rested you feel than reclaiming scattered minutes.",
+    "Reducing interruption during free time is the practical core of that. Limiting notifications and task-switching during leisure helps the time function as leisure, since the fragmentation — not the quantity — is what drains its restorative value.",
+    "It also helps to notice that the issue is often quality, not scarcity. Auditing where leisure actually goes — particularly to fragmented screen time that fills the gap without restoring it — tends to reveal that the goal is consolidating and protecting existing free time, not finding more of it."
+  ],
+  "whatDoesNotHelp": [
+    "Trying to optimise every spare minute is counterproductive. Cramming activity into the small gaps is exactly what produces time confetti; the fragments stay fragments, and the sense of rest never arrives no matter how 'efficiently' the minutes are used.",
+    "Treating the problem as a pure shortage of hours misreads the data. Since adults already average several hours of daily leisure, hunting for more total time often misses the real issue, which is that the existing time is broken up and unrestorative.",
+    "Filling free time with fragmented screen scrolling tends not to restore. It reliably consumes the hours, but because it fragments attention rather than allowing a continuous, absorbing stretch, it often leaves people feeling that their free time disappeared without doing them much good."
+  ],
+  "realNumbersInContext": [
+    "By the measured numbers, free time is not as scarce as it feels: the American Time Use Survey finds adults average roughly several hours of leisure per day, with men typically logging a little more than women. Treat the exact figure as an approximate average that varies by age, work, and caregiving — but the headline is that measured leisure is substantial.",
+    "The felt scarcity comes from fragmentation rather than quantity. 'Time confetti' — leisure broken into scattered, interrupted scraps — is the gap between the hours the surveys record and the rest people actually experience. The evidence points to protecting continuous, low-interruption blocks as mattering more than the raw total."
+  ],
+  "faqs": [
+    {
+      "question": "Do I actually have free time, or does it just feel like I don't?",
+      "answer": "By the data, you probably have more than it feels like — time-use surveys find adults average several hours of leisure a day. The gap is that much of it arrives as scattered, interrupted fragments that don't feel like real downtime."
+    },
+    {
+      "question": "What is 'time confetti'?",
+      "answer": "It's Brigid Schulte's term, from her book Overwhelmed, for leisure broken into tiny, scattered, interrupted bits — a few minutes here, a notification there. Fragmented like this, free time is far less restorative than the same amount in one unbroken stretch."
+    },
+    {
+      "question": "Why doesn't my free time feel restful?",
+      "answer": "Largely because it's fragmented and interrupted. Each task-switch or notification taxes attention, so scattered minutes don't restore the way a continuous block does. Much measured leisure also goes to screens that fragment attention further rather than restoring it."
+    },
+    {
+      "question": "How do I get more out of the free time I have?",
+      "answer": "Protect continuous, low-interruption blocks rather than chasing more total hours. Because unbroken leisure is more restorative than the same minutes scattered, defending a single uninterrupted stretch usually does more for how rested you feel than reclaiming spare minutes."
+    },
+    {
+      "question": "Should I just try to find more free time?",
+      "answer": "Often the real issue is quality, not quantity — the hours are already there but fragmented. Consolidating and protecting existing leisure, and reducing interruption, tends to matter more than finding additional time."
+    }
+  ],
+  "dataSources": [
+    "U.S. Bureau of Labor Statistics, American Time Use Survey — average daily leisure hours.",
+    "Schulte, B. (2014). Overwhelmed: Work, Love, and Play When No One Has the Time — 'time confetti' and leisure fragmentation.",
+    "Research on fragmented versus continuous leisure and its restorative value.",
+    "Research on time use and the share of leisure spent on screens."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-much-free-time-do-you-actually-need",
+    "why-do-we-waste-time-on-things-we-dont-even-enjoy"
+  ],
+  "lastReviewed": "2026-06"
+}

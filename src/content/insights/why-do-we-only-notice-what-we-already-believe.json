@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Only Notice What We Already Believe?",
+  "slug": "why-do-we-only-notice-what-we-already-believe",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Only Notice What We Already Believe",
+  "metaDescription": "Confirmation bias makes us seek, notice, and remember what fits our beliefs. Here is what the research shows and how to counter it deliberately.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "People tend to seek, notice, and remember information that confirms what they already believe and to overlook or discount what contradicts it — a near-universal bias called confirmation bias.",
+  "honestAnswer": [
+    "Because of confirmation bias — the well-documented tendency to look for, pay attention to, and remember information that fits what we already believe, while overlooking or explaining away what doesn't. It is not a sign of stubbornness or low intelligence; researchers describe it as one of the most pervasive and consistent biases in human reasoning, present to some degree in almost everyone.",
+    "The honest version is that you are not seeing the world neutrally and then forming a view. You are usually carrying a view and then noticing the world through it. That happens quietly, without any sense of being closed-minded, which is exactly what makes it hard to catch in yourself."
+  ],
+  "whatDataShows": [
+    "The classic demonstration comes from Peter Wason, whose selection-task and rule-discovery experiments in the 1960s found that people overwhelmingly test their hunches by looking for evidence that would confirm them rather than evidence that could prove them wrong. Given a chance to falsify a belief, most participants simply didn't try — they kept seeking cases that fit.",
+    "Raymond Nickerson's widely cited review of the literature pulled these threads together, describing confirmation bias as appearing across perception, memory, and reasoning, and as a strong candidate for the single most consequential cognitive bias. The pattern he documents is not one mechanism but several stacked together: we search selectively, interpret ambiguous evidence in our favour, and recall confirming instances more readily than disconfirming ones.",
+    "A related strand, often called motivated reasoning, helps explain why. Being right is comfortable and being wrong is not, so we tend to apply a tougher standard to evidence we dislike than to evidence we like. The research suggests this is less a deliberate dishonesty than an automatic asymmetry in how carefully we scrutinise things depending on whether they please us."
+  ],
+  "whyItFeelsDifferent": [
+    "It rarely feels like bias from the inside. When you notice yet another example that supports your view, it feels like the world simply confirming what is true — not like you filtering for it. The selection happens before the sense of having an open mind ever arrives, so introspection doesn't catch it.",
+    "Modern information environments amplify the effect rather than create it. Algorithmic feeds are built to show you more of what you already engage with, so the stream of evidence arriving in front of you is pre-sorted toward your existing leanings. You can spend hours 'researching' and end up only more certain, because almost everything you saw was selected to agree with you.",
+    "The bias also tends to make us overconfident and more polarised over time. Each confirming instance feels like fresh proof, the disconfirming ones quietly drop out of memory, and the accumulated result is a sense of certainty that is built largely from a filtered sample rather than a balanced one."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistently recommended counter is to deliberately seek disconfirming evidence — to ask not 'what supports my view?' but 'what would have to be true for me to be wrong, and is any of it true?' This runs directly against the natural search pattern Wason documented, which is why it has to be done on purpose rather than left to feel its way.",
+    "Considering the opposite is a specific, studied technique: before settling on a conclusion, explicitly generate reasons it might be mistaken or imagine how someone reasonable could see it differently. Studies of this prompt suggest it reduces overconfidence, though the effect is modest and tends to fade unless practised.",
+    "Diversifying your inputs helps mechanically. Deliberately reading sources that don't already agree with you, and treating an algorithmic feed as a filtered slice rather than the full picture, widens the evidence base before your own filtering narrows it again. The point is not to abandon your views but to test them against something other than their own echo."
+  ],
+  "whatDoesNotHelp": [
+    "Simply being intelligent or well-educated does not protect you, and may not even help. The research is clear that confirmation bias appears across ability levels; in some studies, more capable reasoners are better at constructing arguments for what they already believe, which can entrench a view rather than correct it.",
+    "Consuming a large volume of information on a topic does not, by itself, reduce the bias — if the information is selected by you or an algorithm to fit your priors, more of it mostly raises confidence. Feeling well-researched is not the same as having looked at the disconfirming side.",
+    "Trying to be 'unbiased' by force of will tends to fail, because the bias operates beneath awareness. Telling yourself to be objective does little; structured habits like actively listing counter-evidence outperform good intentions, because they intervene at the point where the filtering actually happens."
+  ],
+  "realNumbersInContext": [
+    "There is no single clean statistic for confirmation bias — it is a robust qualitative pattern across decades of experiments rather than a number. What the research consistently shows is direction, not magnitude: in Wason-style tasks the great majority of participants test their beliefs by seeking confirmation rather than attempting falsification, and across studies people interpret ambiguous or mixed evidence in line with their prior view far more often than against it.",
+    "Treat any precise figure you see quoted about 'how biased people are' with caution. The honest summary is that the tendency is widespread, applies in some degree to nearly everyone, and is strong and consistent enough that Nickerson's review treats it as a default feature of human reasoning rather than an occasional glitch."
+  ],
+  "realNumbers": [
+    { "value": "Most people", "label": "Test beliefs by seeking confirmation, not falsification, in Wason-style tasks", "source": "Wason selection-task research" },
+    { "value": "Pervasive", "label": "How widely confirmation bias appears across perception, memory, and reasoning", "source": "Nickerson, confirmation bias review" },
+    { "value": "Asymmetric", "label": "We scrutinise disliked evidence harder than liked evidence", "source": "Motivated reasoning research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is confirmation bias, exactly?",
+      "answer": "It is the tendency to seek out, pay more attention to, and better remember information that supports what you already believe, while overlooking, downplaying, or explaining away information that contradicts it. It happens automatically and usually without any feeling of being closed-minded."
+    },
+    {
+      "question": "Does being smart protect me from it?",
+      "answer": "Not reliably. The research finds confirmation bias across ability and education levels. In some cases capable reasoners are simply better at building a case for what they already think, which can deepen the bias rather than correct it."
+    },
+    {
+      "question": "Do social media feeds make it worse?",
+      "answer": "They tend to amplify it. Feeds are designed to show you more of what you already engage with, so the evidence arriving in front of you is pre-sorted toward your existing views. Hours of scrolling can leave you more certain mainly because almost everything you saw agreed with you."
+    },
+    {
+      "question": "How can I actually counter it?",
+      "answer": "Deliberately look for evidence that you might be wrong rather than evidence you're right. Practise 'considering the opposite,' read sources that don't already agree with you, and treat your feed as a filtered slice. These structured habits work better than simply intending to be objective."
+    },
+    {
+      "question": "Is confirmation bias always a bad thing?",
+      "answer": "Not entirely. Holding stable beliefs and not relitigating everything constantly is useful, and some filtering is necessary just to function. The cost comes when it quietly makes us overconfident and polarised, and when it stops us noticing that a view has stopped fitting the facts."
+    }
+  ],
+  "dataSources": [
+    "Wason, P. C. — selection-task and rule-discovery experiments on hypothesis testing and confirmation bias.",
+    "Nickerson, R. S. (1998). Confirmation Bias: A Ubiquitous Phenomenon in Many Guises. Review of General Psychology, 2(2), 175–220.",
+    "Research on motivated reasoning (asymmetric scrutiny of liked versus disliked evidence)."
+  ],
+  "relatedInsights": [
+    "why-do-we-hate-being-wrong",
+    "do-we-see-the-world-as-it-really-is",
+    "why-do-we-assume-everyone-thinks-like-us"
+  ],
+  "lastReviewed": "2026-06"
+}

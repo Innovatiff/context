@@ -1,0 +1,74 @@
+{
+  "title": "Why Do We Feel We Have to Be Consistent?",
+  "slug": "why-do-we-feel-we-have-to-be-consistent",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Feel We Have to Be Consistent",
+  "metaDescription": "Once we take a stance we feel pressure to keep it. Here is what research on commitment, consistency, and dissonance shows about changing your mind.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "The drive to stay consistent with our past stances is a normal, socially valued tendency that can lock us into outdated positions and make changing our minds feel like weakness.",
+  "honestAnswer": [
+    "Because consistency is both socially rewarded and psychologically comfortable. Once we take a stance — especially out loud or in public — we feel pressure to keep acting in line with it. Robert Cialdini identifies commitment and consistency as one of the core principles of influence: a small initial commitment tends to pull our later behaviour into alignment with it, often without our noticing.",
+    "The honest version is that this drive is normal and frequently useful — it makes us reliable, and reliability is valuable. But it can also trap us in positions we've outgrown and make changing our minds feel like a failure of character. Updating your beliefs when the evidence changes is a strength, not a flaw."
+  ],
+  "whatDataShows": [
+    "Cialdini's work describes how commitment, once made, exerts pressure toward consistency — and how this can be deliberately exploited. The classic example is the foot-in-the-door technique: people who agree to a small request become substantially more likely to agree to a larger related one later, because the first 'yes' established a stance they then feel pulled to honour.",
+    "Leon Festinger's theory of cognitive dissonance explains much of the underlying discomfort. Holding two conflicting ideas — or acting against a stated belief — produces an unpleasant tension, and people are motivated to reduce it. Often the easiest way to reduce it is not to change the behaviour but to rationalise, adjusting our beliefs after the fact so we appear consistent to ourselves.",
+    "Together these point to a built-in machinery for self-justification. We don't simply choose a position and move on; we then defend it, reinterpret new information to fit it, and feel the tug to keep behaving in line with it. The system delivers stability, but it can quietly keep us committed to a choice long after the reasons for it have gone."
+  ],
+  "whyItFeelsDifferent": [
+    "Changing your mind feels like weakness because consistency reads, socially, as integrity. We admire people who 'stick to their guns' and distrust those who seem to shift with the wind, so reversing a stated position can feel like admitting you were wrong about who you are — not just about one issue.",
+    "Cognitive dissonance makes the reversal physically uncomfortable, so we tend to reach for the rationalisation instead. It is genuinely easier to convince yourself the old position is still right than to sit with the tension of having been mistaken, which is why doubling down often feels more natural than backing down.",
+    "And public commitments raise the stakes. Once others have heard you take a stance, abandoning it carries a social cost as well as an internal one, so the more visibly you've staked out a position, the harder it becomes to update it — even when you privately suspect you should."
+  ],
+  "whatResearchSaysToDo": [
+    "The most useful reframe is to treat updating your beliefs as a sign of good reasoning rather than of weakness. Changing your mind in response to new evidence is what careful thinking looks like; the discomfort you feel is dissonance, not a signal that you're being unprincipled. Naming it as dissonance can take some of its sting away.",
+    "Because public commitments are stickier, it helps to hold tentative views lightly and to avoid staking out hard positions before you need to. Framing a stance as 'what I currently think, given what I know' rather than a fixed identity leaves room to revise it without it feeling like a personal reversal.",
+    "Being aware of the foot-in-the-door dynamic is a practical defence against having your consistency used against you. When a small agreement is being leveraged toward a larger one, recognising the pattern lets you evaluate the bigger request on its own merits rather than out of a felt need to stay consistent with the first 'yes'."
+  ],
+  "whatDoesNotHelp": [
+    "Refusing to ever change your position in the name of conviction does not make you principled; it mainly makes you slow to correct. The research suggests much of what feels like steadfastness is actually self-justification — defending the old stance to avoid dissonance rather than because it still holds up.",
+    "Trying to argue yourself back into a belief you've started to doubt tends to deepen the trap. Generating more reasons for an outdated position is exactly how dissonance gets resolved in the wrong direction — by rationalising rather than updating — so it entrenches the very inconsistency-avoidance that's causing the problem.",
+    "Simply resolving to 'be more open-minded' rarely overcomes the pull on its own, because the pressure is automatic and partly social. Concrete habits — holding views tentatively, not over-committing in public, judging new requests on their merits — do more than the intention, because they reduce how much consistency you have to defend in the first place."
+  ],
+  "realNumbersInContext": [
+    "These are qualitative principles rather than a single statistic — consistent findings across studies, not a fixed number. The reliable results are that an initial small commitment tends to increase compliance with a larger later request (the foot-in-the-door effect), and that acting against a stated belief produces dissonance that people commonly resolve by rationalising to preserve consistency.",
+    "Treat any precise figure about 'how much consistency pressure changes behaviour' with caution, since it depends heavily on the situation, how public the commitment was, and how the requests are framed. What holds up is the shape: the drive for consistency is normal and useful, it can lock us into past choices, and updating beliefs in light of new evidence is better understood as a strength than as a flaw."
+  ],
+  "realNumbers": [
+    { "value": "Core principle", "label": "Commitment and consistency as a driver of influence", "source": "Cialdini, Influence" },
+    { "value": "Foot-in-the-door", "label": "A small 'yes' raises the odds of a larger later 'yes'", "source": "Cialdini, commitment & consistency research" },
+    { "value": "Dissonance", "label": "Acting against a belief creates tension we reduce by rationalising", "source": "Festinger, cognitive dissonance" }
+  ],
+  "faqs": [
+    {
+      "question": "Why do I feel pressure to stick to what I've already said?",
+      "answer": "Because commitment and consistency are both socially valued and psychologically comfortable. Robert Cialdini identifies this as a core influence principle: once you take a stance, especially publicly, you feel pulled to act in line with it — often without noticing the pull."
+    },
+    {
+      "question": "What is the foot-in-the-door technique?",
+      "answer": "It is a persuasion tactic where agreeing to a small request makes you substantially more likely to agree to a larger related one later. The first small 'yes' establishes a stance you then feel pressure to honour, which is why it works — and why it's worth recognising when it's used on you."
+    },
+    {
+      "question": "Why is it so uncomfortable to change my mind?",
+      "answer": "Largely because of cognitive dissonance, identified by Leon Festinger: acting against a stated belief, or holding conflicting ideas, creates an unpleasant tension. We often reduce that tension by rationalising rather than revising, because preserving the appearance of consistency feels easier than admitting we were wrong."
+    },
+    {
+      "question": "Is changing my mind actually a weakness?",
+      "answer": "No. Updating your beliefs in response to new evidence is what careful reasoning looks like. Consistency reads socially as integrity, which is why reversal can feel like failure — but the discomfort is dissonance, not a sign that you're being unprincipled."
+    },
+    {
+      "question": "How can I avoid getting trapped by my own past positions?",
+      "answer": "Hold views tentatively and avoid staking out hard public positions before you need to. Frame a stance as 'what I currently think, given what I know' rather than a fixed identity. That leaves room to revise without it feeling like a personal reversal, and it gives consistency less to defend."
+    }
+  ],
+  "dataSources": [
+    "Cialdini, R. B. — Influence: the principle of commitment and consistency, and the foot-in-the-door technique.",
+    "Festinger, L. — A Theory of Cognitive Dissonance (tension from inconsistency and its resolution through rationalisation)."
+  ],
+  "relatedInsights": [
+    "why-do-we-hate-being-wrong",
+    "why-do-we-double-down-on-bad-decisions",
+    "why-do-we-define-ourselves-by-labels"
+  ],
+  "lastReviewed": "2026-06"
+}

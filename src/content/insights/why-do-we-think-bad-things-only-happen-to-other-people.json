@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Think Bad Things Only Happen to Other People?",
+  "slug": "why-do-we-think-bad-things-only-happen-to-other-people",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Think Bad Things Only Happen to Others",
+  "metaDescription": "The optimism bias makes most people feel less at risk than average. Here is what the research shows about why, and where it can leave us under-prepared.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "Most people believe they are less likely than average to experience negative events and more likely to experience positive ones — a near-universal, partly hardwired pattern called the optimism bias.",
+  "honestAnswer": [
+    "Because of what researchers call the optimism bias, or unrealistic optimism — the well-documented tendency for most people to believe they are less likely than the average person to experience bad events like illness, accidents, or divorce, and more likely to experience good ones. Since not everyone can be below average, these beliefs cannot all be accurate, which is why researchers call them unrealistic.",
+    "The honest version is that 'it won't happen to me' is not a personal quirk or a failure of imagination — it is a default setting of human cognition, found across cultures and age groups. It can be genuinely useful, and it can also quietly leave us under-prepared for the things it filters out."
+  ],
+  "whatDataShows": [
+    "Neil Weinstein's foundational work on unrealistic optimism in the 1980s found that when people rated their own chances of various misfortunes against the average person's, they consistently judged themselves less at risk — for everything from disease to being a crime victim. The pattern held across a wide range of events and was remarkably consistent.",
+    "Tali Sharot's research suggests this optimism is pervasive and partly hardwired. A central finding is asymmetric belief updating: when people receive good news (their risk is lower than they thought) they update their beliefs readily, but when they receive bad news (their risk is higher) they update much less. The brain, in effect, learns more eagerly from information that supports a rosy outlook.",
+    "Crucially, the research frames this as largely adaptive rather than a flaw. A mild optimism bias is associated with lower anxiety, more forward planning, and the motivation to act — believing things will probably work out is part of what makes people try. The same studies note it has a clear downside when it tips into ignoring real and addressable risks."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels reasonable rather than biased because you have rich, vivid access to your own intentions and habits — you know you drive carefully, eat reasonably, choose well — and only a thin, statistical sense of everyone else. So your own risk feels controllable and others' feels abstract, which tilts the comparison in your favour.",
+    "The asymmetric updating Sharot describes means the belief is self-reinforcing. Reassuring information slides in easily and sticks; alarming information meets more resistance and fades. Over time this quietly tunes your sense of risk downward without any deliberate wishful thinking.",
+    "There is also a comfort dimension. Living with a clear-eyed sense of every statistical danger you face would be anxiety-inducing, so a degree of 'it won't be me' is psychologically protective. The feeling of relative safety is doing a real job — it just isn't a measurement."
+  ],
+  "whatResearchSaysToDo": [
+    "The research does not suggest replacing optimism with pessimism — both extremes have costs. What it points to is targeted realism for the small number of high-stakes, addressable risks: the handful of areas where being under-prepared is genuinely expensive, such as basic insurance, emergency savings, health screening, and obvious safety steps. The aim is to keep optimism's benefits while closing its most costly blind spots.",
+    "Because we update poorly from bad news, it helps to make protective steps automatic and decided in advance rather than left to in-the-moment judgement, which the bias will quietly skew. Setting up an emergency fund, default insurance, or scheduled check-ups removes the need to feel at risk in order to act.",
+    "Distinguishing controllable from uncontrollable risks is also useful. The bias is strongest for events that feel within our control, where our sense of personal competence does real work. For those, modest, concrete precautions tend to be worth more than the reassurance that we are careful people."
+  ],
+  "whatDoesNotHelp": [
+    "Trying to scare yourself into preparedness with vivid worst-case stories tends not to work well and can backfire — because of asymmetric updating, alarming information is exactly what the mind resists absorbing, and heavy fear appeals often produce avoidance rather than action.",
+    "Swinging to chronic pessimism is not the fix either. The same body of research associates a mild optimism bias with lower anxiety and more initiative, so abandoning it wholesale tends to cost wellbeing without reliably improving decisions. The goal is calibrated preparation, not gloom.",
+    "Simply knowing about the optimism bias does little on its own. Awareness rarely shifts the underlying tilt, which is why pre-committed, automatic safeguards outperform resolutions to 'be more realistic about risk' — they protect you without requiring you to feel personally endangered first."
+  ],
+  "realNumbersInContext": [
+    "There isn't a single headline number for the optimism bias; it is a direction that shows up reliably across studies rather than a fixed percentage. The consistent finding is comparative: when large samples rate their own risk of negative events against the average person's, the majority place themselves below average — a statistical impossibility if everyone is right, which is the whole point.",
+    "Treat any precise 'people underestimate risk by X%' figure with caution, since the size varies by event and population. What is robust is the shape: optimism about one's own future is widespread, appears across cultures, is reinforced by asymmetric updating from good versus bad news, and is strong enough that researchers describe it as a default rather than an exception."
+  ],
+  "realNumbers": [
+    { "value": "Below average", "label": "Where most people rate their own risk of bad events versus others", "source": "Weinstein, unrealistic optimism research" },
+    { "value": "Asymmetric", "label": "We update beliefs more from good news than bad news", "source": "Sharot, optimism bias research" },
+    { "value": "Mostly adaptive", "label": "A mild optimism bias is linked to lower anxiety and more planning", "source": "Optimism bias research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the optimism bias?",
+      "answer": "It is the well-documented tendency for most people to believe they are less likely than average to experience negative events — illness, accidents, divorce — and more likely to experience positive ones. Because not everyone can be below average, these beliefs are, on the whole, unrealistically rosy."
+    },
+    {
+      "question": "Is being optimistic about my future actually bad?",
+      "answer": "Not usually. Research links a mild optimism bias to lower anxiety, more forward planning, and the motivation to act. The downside appears only when it tips into ignoring real, addressable risks — skipping insurance or screening because it feels like it won't happen to you."
+    },
+    {
+      "question": "Why is it so hard to take certain risks seriously?",
+      "answer": "Partly because of asymmetric belief updating, identified in Tali Sharot's work: the mind absorbs reassuring information readily but resists alarming information. So bad-news risks are exactly the ones we tend to underweight, even when we technically know the odds."
+    },
+    {
+      "question": "How do I stay optimistic but still prepared?",
+      "answer": "Target the few high-stakes, addressable risks and make protection automatic — emergency savings, basic insurance, scheduled check-ups — so you don't have to feel personally at risk in order to act. That keeps optimism's benefits while closing its most expensive blind spots."
+    },
+    {
+      "question": "Does everyone have this bias?",
+      "answer": "It is very widespread, appearing across cultures and age groups, and Sharot's research suggests it is partly hardwired. It is not universal in every individual or every situation, but it is common enough that researchers treat it as a default feature of how people think about their own future."
+    }
+  ],
+  "dataSources": [
+    "Weinstein, N. D. (1980). Unrealistic Optimism About Future Life Events. Journal of Personality and Social Psychology, 39(5), 806–820.",
+    "Sharot, T. — research on the optimism bias and asymmetric belief updating (greater updating from good news than bad).",
+    "Research on optimism bias as a partly adaptive, partly hardwired tendency."
+  ],
+  "relatedInsights": [
+    "why-do-we-think-were-more-in-control-than-we-are",
+    "why-do-we-think-were-better-than-average",
+    "are-optimists-actually-happier-and-healthier"
+  ],
+  "lastReviewed": "2026-06"
+}

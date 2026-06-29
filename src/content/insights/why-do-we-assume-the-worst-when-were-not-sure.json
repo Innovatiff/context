@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Assume the Worst When We're Not Sure?",
+  "slug": "why-do-we-assume-the-worst-when-were-not-sure",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Assume the Worst When We're Not Sure",
+  "metaDescription": "An unanswered text, a vague tone — we fill the gap with the worst case. Here is what negativity bias and threat-detection research show, and what helps.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "When information is missing or ambiguous, we tend to fill the gap with the worst plausible interpretation, because over-detecting threat was historically safer than under-detecting it.",
+  "honestAnswer": [
+    "Because ambiguity activates an over-cautious threat-detection system. When information is missing — an unanswered text, a vague tone, a look you can't read — your mind fills the gap, and it tends to fill it with the worst plausible story rather than the most likely one. Over millions of years, mistaking a stick for a snake cost almost nothing, while mistaking a snake for a stick could be fatal, so the system is tuned to err toward threat.",
+    "The honest version is that catastrophising an unclear situation is a protective reflex, not a personal flaw or a sign that you're broken. It is usually wrong — the story you invent is generally worse than reality — but it is doing an ancient job. Naming it for what it is, and going to look for the actual data, is what tends to help."
+  ],
+  "whatDataShows": [
+    "A large body of research describes the negativity bias — the finding that negative information tends to carry more weight than equivalent positive information. The review often summarised as 'Bad Is Stronger Than Good' (Baumeister and colleagues) documents this across many domains: bad events, bad feedback, and bad impressions tend to register more strongly and last longer than good ones of the same size.",
+    "When social cues are ambiguous specifically, researchers describe the hostile attribution bias — the tendency to read hostile intent into behaviour that is actually neutral or unclear. A short reply, a missed greeting, a flat tone gets interpreted as anger or rejection rather than as the far more common explanation: distraction, tiredness, or simple coincidence.",
+    "Research on anxiety adds that this interpretive tilt is amplified when we are anxious. Anxious individuals tend to resolve ambiguous situations in a more threatening direction than non-anxious individuals — the same vague text reads as 'they're upset with me' rather than 'they're busy.' The bias is normal in everyone and stronger when the threat system is already running hot."
+  ],
+  "whyItFeelsDifferent": [
+    "The worst-case story doesn't feel like a guess; it feels like insight. A threatening interpretation arrives with urgency and certainty, while the benign explanation feels like wishful thinking, so the alarming version wins the internal argument even though it's usually less likely. Vividness gets mistaken for accuracy.",
+    "Because negative information looms larger, a single ambiguous cue can outweigh a long history of reassuring ones. One unanswered message can drown out months of warm contact, not because the relationship changed but because bad signals are weighted more heavily than good ones — exactly the asymmetry the negativity-bias research describes.",
+    "And the gap gets filled with a story about you, when the reality is usually that the other person is mostly thinking about themselves. We tend to overestimate how much our behaviour and presence occupy other people's attention, so the silence that feels like a verdict on you is far more often just someone busy with their own life."
+  ],
+  "whatResearchSaysToDo": [
+    "The most practical step is to name the reflex and then seek the actual data rather than acting on the invented story. Treating the worst-case interpretation as one hypothesis among several — not as a fact — and asking 'what else could explain this?' interrupts the automatic slide toward threat before it drives a reaction.",
+    "Generating the most likely benign explanation is a studied counter to the hostile attribution tilt: deliberately producing the ordinary, non-hostile reading ('they're swamped', 'they forgot') gives the mind a competing story to weigh against the alarming one. Often the simplest explanation is both kinder and more accurate.",
+    "Checking reality directly tends to beat ruminating about it. Where it's reasonable, a low-stakes clarifying question resolves the ambiguity that the threat system feeds on — and because anxiety thrives on uncertainty, getting actual information usually deflates the worst-case story faster than any amount of reassurance you try to give yourself."
+  ],
+  "whatDoesNotHelp": [
+    "Repeatedly going over the ambiguous situation in your head rarely helps and often makes it worse. Rumination feeds the threat system more uncertainty to work with, and because negative information is weighted more heavily, replaying the cue tends to deepen the worst-case reading rather than resolve it.",
+    "Seeking constant reassurance from others can backfire too. It may calm things briefly, but it tends to reinforce the underlying habit of treating ambiguity as danger, so the next unclear cue triggers the same loop. Reassurance treats the symptom, not the reflex.",
+    "Telling yourself to 'just stop overthinking' generally fails, because the catastrophising is automatic and fast. Suppressing the thought directly tends not to work; naming it, generating the benign alternative, and going to find the actual data are the moves the research more consistently supports."
+  ],
+  "realNumbersInContext": [
+    "This is a qualitative pattern rather than a single number — a robust direction that appears across many studies, not a fixed statistic. The reliable findings are that negative information tends to outweigh comparable positive information, that ambiguous social cues are often read as more hostile than they are, and that anxiety pushes interpretation further toward threat.",
+    "Be cautious with any precise figure claiming 'people assume the worst X% of the time,' since it varies enormously by person and situation. What holds up is the shape: filling an information gap with the worst plausible story is a near-universal protective reflex, it is usually mistaken because the other person is generally preoccupied with their own life, and naming it plus seeking the real data is the documented way through."
+  ],
+  "realNumbers": [
+    { "value": "Stronger", "label": "How much negative information weighs relative to equivalent positive information", "source": "Baumeister et al., 'Bad Is Stronger Than Good'" },
+    { "value": "Hostile-leaning", "label": "How ambiguous social cues tend to be interpreted", "source": "Hostile attribution bias research" },
+    { "value": "Amplified by anxiety", "label": "Anxious people read ambiguity as more threatening", "source": "Anxiety and interpretation research" }
+  ],
+  "faqs": [
+    {
+      "question": "Why do I always jump to the worst-case scenario?",
+      "answer": "Because ambiguity triggers an over-cautious threat-detection system. Historically, over-detecting danger cost little while under-detecting it could be fatal, so the mind is tuned to fill information gaps with the worst plausible story. It's a protective reflex, not a personal flaw — and it's usually wrong."
+    },
+    {
+      "question": "What is the negativity bias?",
+      "answer": "It is the well-documented tendency for negative information to carry more weight than equivalent positive information — summarised as 'bad is stronger than good.' One ambiguous or negative cue can outweigh a long history of reassuring ones, which is why a single unanswered text can feel so loud."
+    },
+    {
+      "question": "Why do I read neutral messages as cold or angry?",
+      "answer": "This reflects the hostile attribution bias: a tendency to read hostile intent into behaviour that is actually neutral or unclear. A short reply or flat tone gets interpreted as anger or rejection rather than the far more common explanation — distraction, tiredness, or being busy."
+    },
+    {
+      "question": "Does anxiety make this worse?",
+      "answer": "Yes. Research finds that anxious people tend to resolve ambiguous situations in a more threatening direction. The bias exists in everyone, but it runs stronger when the threat system is already activated, so the same vague cue reads as a problem rather than nothing."
+    },
+    {
+      "question": "What actually helps?",
+      "answer": "Name the reflex, generate the most likely ordinary explanation, and go find the actual data — a low-stakes clarifying question often resolves what your mind is catastrophising. Remember too that people are mostly thinking about themselves, so silence is rarely the verdict on you it feels like."
+    }
+  ],
+  "dataSources": [
+    "Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad Is Stronger Than Good. Review of General Psychology, 5(4), 323–370.",
+    "Research on the hostile attribution bias (interpreting ambiguous social cues as hostile).",
+    "Research on anxiety and the interpretation of ambiguous information (interpretation bias)."
+  ],
+  "relatedInsights": [
+    "why-do-we-replay-awkward-conversations-in-our-head",
+    "do-people-like-you-more-than-you-think",
+    "why-do-breakups-hurt-so-much"
+  ],
+  "lastReviewed": "2026-06"
+}

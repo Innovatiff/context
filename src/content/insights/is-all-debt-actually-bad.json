@@ -1,0 +1,76 @@
+{
+  "title": "Is All Debt Actually Bad?",
+  "slug": "is-all-debt-actually-bad",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Is All Debt Actually Bad? What the Numbers Show",
+  "metaDescription": "No — the type and terms matter far more than the existence of debt. Low-rate debt can be a tool; high-interest consumer debt is the dangerous kind.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Debt is a tool that can help or harm depending on its interest rate and what it buys; the genuinely dangerous kind is high-interest consumer debt, not debt in general.",
+  "honestAnswer": [
+    "No. The honest frame is not 'debt is bad' but 'what is the interest rate, and what is the debt buying?' Low-interest debt tied to an appreciating or income-producing asset — a mortgage, sometimes student loans, a business loan — can be a reasonable financial tool, a way of using leverage to acquire something worth more than the cost of borrowing. The same is not true of high-interest consumer debt.",
+    "High-interest consumer debt — credit card balances, payday loans at rates of 20%, 30%, or far higher — reliably erodes wealth, because the cost of carrying it compounds against you faster than almost anything you can earn. The distinction that matters is the rate and the purpose, not the mere fact of owing money. Most households carry some debt as a normal part of financial life; the question is which kind."
+  ],
+  "whatDataShows": [
+    "The decisive variable is the interest rate, and it is just arithmetic. A mortgage at a low single-digit rate against a home that may hold or grow in value is a very different financial object from a credit card balance compounding at 20% or more. The first can leave you ahead; the second compounds against you faster than typical investment returns, which is why it so reliably destroys wealth.",
+    "The purpose of the debt matters alongside the rate. Borrowing to acquire something that appreciates or produces income — a home, education that raises earnings, a business — is leverage, and on reasonable terms it can be sound. Borrowing at high rates to fund consumption that loses value the moment it's bought is the pattern most associated with financial harm. Research on debt types and financial outcomes tracks this divide more than the existence of debt itself.",
+    "And carrying some debt is statistically normal. Data on household debt composition, such as the New York Federal Reserve's reporting, shows that mortgages make up the large majority of total household debt, with student loans, auto loans, and credit cards making up smaller shares. The presence of debt is close to universal; what varies, and what matters, is the mix and the terms."
+  ],
+  "whyItFeelsDifferent": [
+    "Debt feels uniformly bad because the emotional experience of owing money does not distinguish by interest rate. The weight of a balance, the discomfort of a monthly payment, the sense of being beholden — these feel similar whether the debt is a 3% mortgage or a 25% card balance, even though their financial consequences are worlds apart. The feeling flattens a distinction the math makes sharp.",
+    "It also feels different because the advice we absorb is often a moral one rather than a financial one. 'Debt is bad, pay it all off' is simple and virtuous-sounding, and for high-interest consumer debt it is roughly right. But applied universally it can lead people to, for instance, rush to clear a low-rate loan while neglecting saving or investing — optimising the feeling rather than the arithmetic.",
+    "And the genuinely dangerous debt is often the most normalised. High-interest credit is marketed as ordinary, frictionless, and even responsible-sounding ('build your credit'), so it does not feel like the hazard it is, while a mortgage — far cheaper and tied to an asset — can feel like a more frightening commitment. The emotional ranking is frequently the inverse of the financial one."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent financial logic is to prioritise by interest rate: high-interest debt, especially consumer debt above roughly the high teens or twenties in percentage terms, is generally the first thing to clear, because nothing you can reliably earn outpaces it. Eliminating it is one of the highest-return uses of money available precisely because it stops a fast-compounding loss.",
+    "For low-interest debt against a productive asset, the honest question is comparative, not moral: does paying it down faster beat what the same money could do elsewhere — saving, investing, an emergency buffer? Often it does not, which is why blanket 'pay off all debt' rules can be financially suboptimal even when they feel responsible. The rate and the alternatives decide it.",
+    "Underneath both, the protective factor is keeping a buffer so that ordinary shocks don't push you onto high-interest credit in the first place. Much consumer debt accumulates not from recklessness but from an unexpected expense met with a credit card. A modest emergency cushion is one of the best documented defenses against ending up with the dangerous kind of debt."
+  ],
+  "whatDoesNotHelp": [
+    "Treating all debt as equally bad does not help, and can actively harm, because it can lead people to throw money at low-rate loans while carrying high-rate balances, or while having no emergency buffer. Sorting debt by feeling rather than by interest rate optimises the wrong thing and can leave the genuinely expensive debt in place.",
+    "Equally, assuming 'good debt' is always fine ignores terms and circumstances. Leverage cuts both ways: a low rate against an asset that falls in value, or a loan whose payments you can't reliably meet, can still cause real harm. The label 'good debt' describes a favorable case, not a guarantee, and over-borrowing even at low rates carries risk.",
+    "Carrying a credit card balance to 'build credit' is a common and costly myth. Paying interest on a revolving balance is not what builds a credit profile; using credit and paying it off does. Believing you must carry high-interest debt to be financially responsible has the relationship exactly backwards and feeds the most dangerous kind of debt there is."
+  ],
+  "realNumbersInContext": [
+    "The composition of household debt shows why the 'all debt is bad' frame misfires. In New York Federal Reserve data, mortgages — typically the lowest-rate, asset-backed kind — make up the large majority of total U.S. household debt, with student loans, auto loans, and credit cards comprising smaller shares. Most borrowed money is the kind tied to an asset, not the high-rate consumer kind. Exact shares shift over time, so read these as the broad structure rather than fixed figures.",
+    "The contrast in rates is where the real story sits. Mortgage rates have generally run in the low-to-mid single digits to high single digits depending on the era, while credit cards commonly carry rates around 20% or higher and payday loans can run to triple-digit annualised rates. That gap — not the existence of a balance — is what separates debt that can build wealth from debt that reliably erodes it."
+  ],
+  "realNumbers": [
+    { "value": "~20%+", "label": "Typical credit card interest rate — the kind that reliably erodes wealth", "source": "Cost-of-credit data" },
+    { "value": "Majority", "label": "Share of U.S. household debt that is mortgages (lower-rate, asset-backed)", "source": "NY Fed household debt data" },
+    { "value": "Rate + purpose", "label": "What actually determines whether debt helps or harms", "source": "Research on debt types and outcomes" },
+    { "value": "Triple-digit", "label": "Annualized rates payday loans can reach — the most dangerous tier", "source": "Cost-of-credit data" }
+  ],
+  "faqs": [
+    {
+      "question": "Is there really such a thing as 'good' debt?",
+      "answer": "There can be. Low-interest debt tied to an appreciating or income-producing asset — a mortgage, sometimes student loans, a business loan — can be a reasonable tool, using leverage to acquire something worth more than the cost of borrowing. The label describes a favorable case, not a guarantee, since terms and circumstances still matter."
+    },
+    {
+      "question": "Which debt should I pay off first?",
+      "answer": "Generally the highest-interest debt, especially consumer debt above the high teens or twenties in percentage terms. Nothing you can reliably earn outpaces a balance compounding at 20% or more, so clearing it is one of the highest-return uses of money there is."
+    },
+    {
+      "question": "Should I rush to pay off a low-rate mortgage or student loan?",
+      "answer": "Not necessarily. For low-interest debt, the honest question is comparative: does paying it down faster beat what the same money could do saving, investing, or building a buffer? Often it doesn't, which is why blanket 'pay off everything' rules can be financially suboptimal even when they feel responsible."
+    },
+    {
+      "question": "Do I need to carry a credit card balance to build credit?",
+      "answer": "No — this is a costly myth. Paying interest on a revolving balance doesn't build your credit; using credit and paying it off does. Believing you must carry high-interest debt to be responsible has the relationship backwards and feeds the most dangerous kind of debt."
+    },
+    {
+      "question": "Is it abnormal to have debt at all?",
+      "answer": "No. Carrying some debt is close to universal — most household debt is mortgages and other asset-backed borrowing. The presence of debt isn't the issue; the mix and the terms are. High-interest consumer debt is the genuinely dangerous category to watch."
+    }
+  ],
+  "dataSources": [
+    "Federal Reserve Bank of New York — Household Debt and Credit Report (composition of household debt).",
+    "Cost-of-credit data on interest rates for mortgages, credit cards, and payday loans.",
+    "Research on debt types (secured vs. high-interest consumer debt) and financial outcomes."
+  ],
+  "relatedInsights": [
+    "how-much-debt-is-normal-to-have",
+    "should-you-pay-off-debt-or-save-first",
+    "how-does-debt-affect-your-mental-health"
+  ],
+  "lastReviewed": "2026-06"
+}

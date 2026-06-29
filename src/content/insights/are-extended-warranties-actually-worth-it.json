@@ -1,0 +1,75 @@
+{
+  "title": "Are Extended Warranties Actually Worth It?",
+  "slug": "are-extended-warranties-actually-worth-it",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Are Extended Warranties Worth It? What the Numbers Show",
+  "metaDescription": "For most products, extended warranties are negative expected value — priced to profit the seller and sold via fear. Here is when they can make sense.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Most extended warranties are negative expected value — priced to be profitable for the seller and sold through fear — so self-insuring usually wins, with rare exceptions for high-failure-rate or genuinely unaffordable-to-replace items.",
+  "honestAnswer": [
+    "For most products, the honest answer is no. Extended warranties are generally priced so the seller comes out ahead on average — that is, the typical buyer pays more in premiums over time than they get back in repairs. On an expected-value basis, that makes them a poor deal for the average purchase, which is why they tend to be sold hard at the register rather than quietly offered.",
+    "There are real exceptions. For items with high failure rates, or for something expensive enough that an unexpected repair or replacement would genuinely hurt your finances, paying to transfer that risk can be reasonable. But for most everyday electronics and appliances, the math and the behavioural science both point the same way: self-insuring — keeping your own money and absorbing the occasional repair — usually wins."
+  ],
+  "whatDataShows": [
+    "The basic logic is expected value: for a warranty to be profitable for the seller, the price has to exceed the average cost of expected claims plus their overhead. Consumer and economics research on warranty pricing consistently finds these products carry high margins, which is only possible if the average buyer pays more than they receive back. The retail incentive reflects this — warranties are often among the most profitable things a store sells.",
+    "Several things push the typical payoff down further. Many products either fail very early (covered by the manufacturer's warranty) or last well past the extended-coverage window, so the warranty often covers exactly the period a product is least likely to break. Coverage also frequently overlaps with protections you already have — the manufacturer's warranty, and in some cases credit-card purchase or extended-warranty benefits — meaning you can be paying twice for the same thing.",
+    "Why they still sell so well is well explained by behavioural research: loss aversion, the finding from Kahneman and Tversky that losses loom psychologically larger than equivalent gains. Right after committing to a purchase, the imagined pain of the item breaking is vivid, so paying a small, certain amount to avoid a larger, uncertain loss feels protective — even when the expected value runs against you. The exceptions, where warranties can make sense, are items with genuinely high failure rates or replacement costs you could not comfortably absorb."
+  ],
+  "whyItFeelsDifferent": [
+    "The pitch lands at the moment you are most vulnerable to it. You have just decided to buy something, the new purchase feels valuable, and the salesperson sketches a vivid picture of it failing. Loss aversion does the rest: the dread of a future repair bill feels heavier than the modest premium in front of you, even though, on average, the premium is the larger cost.",
+    "The premium also feels small relative to the item, which makes it easy to wave through — 'it's only a little more on top.' But 'a little more' is precisely how the product is priced to be profitable; the small, certain payment is the seller's edge, not a sign that the coverage is cheap relative to the risk.",
+    "And the rare horror story is far more memorable than the common non-event. You remember the friend whose laptop died just out of warranty; you do not tally the many devices that simply worked. That availability of the bad outcome makes the protection feel more necessary than the base rates of failure justify for most products."
+  ],
+  "whatResearchSaysToDo": [
+    "For most purchases, the expected-value-aligned move is to self-insure: decline the warranty and keep that money, accepting that you will occasionally pay for a repair out of pocket. Across many purchases, the average buyer who self-insures comes out ahead, because they keep the margin the warranty would have charged.",
+    "Before buying any coverage, check what you already have. The manufacturer's warranty covers early failures, and some credit cards add purchase protection or extend manufacturer warranties automatically — so paying for an extended plan can mean buying duplicate coverage. Reading the actual terms (what is covered, deductibles, claim hassle) often deflates the apparent value further.",
+    "Reserve warranties for the cases where the logic flips: items with genuinely high failure rates, or something expensive enough that an unplanned repair or replacement would be a real financial blow you could not easily absorb. In those situations you are buying insurance against a loss you cannot self-fund, which is the legitimate use of a warranty even at a negative expected value."
+  ],
+  "whatDoesNotHelp": [
+    "Buying a warranty mainly to quiet the anxiety of the moment does not help your finances. That post-purchase unease is the exact lever the product is sold on; paying to soothe it usually means paying a margin for protection you will probably never claim.",
+    "Assuming the coverage is comprehensive without reading it tends to disappoint. Extended plans often carry exclusions, deductibles, and claim processes that reduce what you actually recover — so the felt protection can exceed the real protection.",
+    "Treating one memorable failure story as the base rate misleads you. A single device dying just out of warranty is vivid but not representative; most comparable products do not fail in the covered window, which is why the average buyer loses on the trade. Decisions tracking base rates beat decisions tracking the scariest anecdote."
+  ],
+  "realNumbersInContext": [
+    "The structural fact is that an extended warranty has to be priced above expected claims plus overhead to be profitable — and these plans are consistently found to be high-margin, often among a retailer's most profitable products. That margin is, by definition, money the average buyer pays in but does not get back. Specific figures vary widely by product and seller, so treat any single 'they keep X%' claim with caution; the reliable point is the direction, not a precise number.",
+    "Two timing facts compound the issue: many failures fall either inside the manufacturer's warranty (covered already) or well after the extended window (never covered), and coverage often overlaps with existing manufacturer or credit-card protections. The exceptions worth paying for are narrow — high-failure-rate items or replacement costs you genuinely could not absorb — where transferring the risk is the point, even at a negative expected value."
+  ],
+  "realNumbers": [
+    { "value": "Negative EV", "label": "Typical expected value of an extended warranty for the buyer", "source": "Research on warranty pricing / expected value" },
+    { "value": "High margin", "label": "Why retailers push warranties at the register", "source": "Consumer / economics research on warranties" },
+    { "value": "Loss aversion", "label": "The bias the pitch relies on (losses loom larger than gains)", "source": "Kahneman & Tversky" }
+  ],
+  "faqs": [
+    {
+      "question": "Are extended warranties ever worth buying?",
+      "answer": "Sometimes. For items with genuinely high failure rates, or something expensive enough that an unplanned repair or replacement would be a real financial blow you couldn't easily absorb, paying to transfer that risk can be reasonable. For most everyday electronics and appliances, the expected value runs against the buyer and self-insuring usually wins."
+    },
+    {
+      "question": "Why are they so profitable for stores?",
+      "answer": "Because they're priced above the average cost of expected claims plus overhead — that's the only way they can be profitable. Consumer and economics research consistently finds extended warranties carry high margins, which means the typical buyer pays more in than they get back in repairs."
+    },
+    {
+      "question": "Why do they feel so necessary at the register?",
+      "answer": "Partly loss aversion — the finding that losses feel psychologically larger than equivalent gains. Right after a purchase, the imagined pain of the item breaking is vivid, so a small certain payment to avoid a larger uncertain loss feels protective, even when the math runs against you."
+    },
+    {
+      "question": "What does self-insuring mean here?",
+      "answer": "It means declining the warranty, keeping that money, and accepting you'll occasionally pay for a repair yourself. Across many purchases, the average self-insurer comes out ahead because they keep the margin the warranty would have charged — provided you could actually cover an unexpected repair if one happens."
+    },
+    {
+      "question": "Do I already have coverage without buying it?",
+      "answer": "Often, at least partly. The manufacturer's warranty covers early failures, and some credit cards add purchase protection or extend manufacturer warranties automatically. Checking those before buying an extended plan helps you avoid paying twice for the same protection."
+    }
+  ],
+  "dataSources": [
+    "Consumer and economics research on extended warranty pricing, profitability, and value to buyers.",
+    "Expected value (the average outcome of an uncertain payoff) applied to warranty pricing.",
+    "Kahneman, D., & Tversky, A. — loss aversion and prospect theory (losses loom larger than equivalent gains)."
+  ],
+  "relatedInsights": [
+    "why-do-we-make-bad-money-decisions",
+    "why-do-we-fall-for-discounts-and-sales",
+    "is-it-worth-paying-more-for-better-quality"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Why Do We Judge Ourselves and Others Differently?",
+  "slug": "why-do-we-judge-ourselves-and-others-differently",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why We Judge Ourselves and Others Differently",
+  "metaDescription": "We judge others by their actions but ourselves by our intentions. Here is what attribution research shows about this built-in double standard.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "We tend to explain other people's behaviour by their character but our own by our circumstances — a built-in double standard documented as attribution bias.",
+  "honestAnswer": [
+    "Because of a set of well-documented attribution biases — the patterns in how we explain behaviour. When someone else acts badly we tend to attribute it to who they are ('they're rude', 'they're careless'), but when we act the same way we attribute it to the situation ('I was having a terrible day'). We judge others by their actions and ourselves by our intentions.",
+    "The honest version is that this isn't usually hypocrisy in the deliberate sense. It follows naturally from a basic difference in information: you have full access to your own context, history, and intentions, but you mostly only see other people's actions. The double standard is built into the asymmetry of what you can see."
+  ],
+  "whatDataShows": [
+    "Lee Ross named the fundamental attribution error — the tendency to over-attribute other people's behaviour to their personality or character and to under-weight the situation they were in. Across studies, observers reliably reach for 'that's the kind of person they are' even when the circumstances clearly account for what happened.",
+    "Jones and Nisbett described the related actor-observer asymmetry: as the actor, you tend to explain your own behaviour by the situation; as the observer of someone else, you tend to explain their behaviour by their disposition. Same behaviour, two different default explanations depending on whose it is. A plausible driver is simply attention — when you act, your attention is on the situation in front of you; when you watch someone else, your attention is on them.",
+    "Layered on top is the self-serving bias: we tend to credit our successes to our own ability and effort, while blaming our failures on circumstances, bad luck, or other people. This tilts the double standard further, making our own track record look better to us than an outside observer would judge it."
+  ],
+  "whyItFeelsDifferent": [
+    "It doesn't feel like a double standard because, from the inside, your own excuses are true. You really were stuck in traffic, you really were exhausted, you really didn't mean it the way it came out. The context is vivid and available to you, so leaning on it feels like accuracy, not special pleading.",
+    "The other person's context, by contrast, is invisible to you. You see the snapped reply or the missed deadline, not the bad night's sleep or the family emergency behind it. With nothing else to go on, character is the easiest explanation to reach for — so the gap in information quietly turns into a gap in fairness.",
+    "The self-serving part feels natural too, because it protects how we see ourselves. Taking credit for wins and assigning losses elsewhere keeps a coherent, reasonably positive self-image, which is psychologically comfortable — and comfortable explanations are exactly the ones we tend not to question."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent corrective is simply to remember that other people have context too. When someone acts in a way that invites a character judgement, deliberately asking 'what situation might explain this?' tends to soften the snap attribution — not because everyone deserves the benefit of the doubt every time, but because the situational explanation is the one your viewpoint systematically leaves out.",
+    "Perspective-taking is the studied version of this. Imagining the circumstances behind someone's behaviour, or how you would explain it if you had done the same thing, narrows the actor-observer gap. The aim is to give others the same situational reading you naturally give yourself.",
+    "For the self-serving side, applying a consistent standard to your own outcomes helps: asking what role your choices played in failures, and what role luck or others played in successes. This isn't self-criticism for its own sake — it is removing the thumb from the scale that normally tilts in your favour."
+  ],
+  "whatDoesNotHelp": [
+    "Resolving to 'just be fair' without changing what you actually attend to tends not to work, because the bias comes from where your attention naturally sits — on the situation when you act, on the person when you observe. Good intentions don't redirect that automatically; deliberate perspective-taking does more.",
+    "Swinging to the opposite extreme — excusing everyone's behaviour entirely as 'just their circumstances' — overcorrects and ignores that character sometimes genuinely is the explanation. The research describes a systematic tilt to correct for, not a rule that situations always win.",
+    "Harsh, blanket self-blame doesn't fix the self-serving bias either; it just inverts it. The useful move is calibration — judging your own and others' outcomes by the same standard — rather than treating yourself more cruelly to feel even. Fairness, not punishment, is what the research points toward."
+  ],
+  "realNumbersInContext": [
+    "These attribution patterns are qualitative findings rather than a single statistic — robust directions that appear across many experiments, not a fixed number. The reliable result is that observers default to character-based explanations of others' behaviour and situational explanations of their own, and that people tend to claim more credit for successes than for failures.",
+    "Be wary of any precise figure attached to 'how often people commit the fundamental attribution error,' since the size depends heavily on the situation and how clearly the circumstances are presented. What is solid is the shape: judging others by their actions and ourselves by our intentions is a built-in asymmetry, and remembering that others have context too is the documented way to make judgements fairer."
+  ],
+  "realNumbers": [
+    { "value": "Character", "label": "Default explanation we reach for when judging others' behaviour", "source": "Ross, fundamental attribution error" },
+    { "value": "Situation", "label": "Default explanation we reach for when judging our own behaviour", "source": "Jones & Nisbett, actor-observer asymmetry" },
+    { "value": "Self-favouring", "label": "We credit successes to ourselves, blame failures on circumstances", "source": "Self-serving bias research" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the fundamental attribution error?",
+      "answer": "It is the tendency, named by Lee Ross, to over-explain other people's behaviour by their character or personality while under-weighting the situation they were in. We assume 'that's just who they are' even when the circumstances largely account for what they did."
+    },
+    {
+      "question": "Why do I excuse my own behaviour but not other people's?",
+      "answer": "This is the actor-observer asymmetry described by Jones and Nisbett. You have full access to your own situation and intentions, so you explain your behaviour by circumstances; you mostly see only other people's actions, so you explain theirs by character. The double standard follows from the difference in information."
+    },
+    {
+      "question": "What is the self-serving bias?",
+      "answer": "It is the tendency to credit our successes to our own ability and effort while blaming our failures on luck, circumstances, or other people. It protects a positive self-image, but it tilts our self-assessment more favourably than an outside observer would."
+    },
+    {
+      "question": "How do I judge people more fairly?",
+      "answer": "Deliberately remember that others have context you can't see. When someone's behaviour invites a character judgement, ask what situation might explain it, or how you'd explain it if you'd done the same. That gives others the situational reading you naturally give yourself."
+    },
+    {
+      "question": "Does this mean character never explains behaviour?",
+      "answer": "No. Sometimes a person's disposition genuinely is the explanation. The research describes a systematic tilt toward over-using character for others and over-using circumstances for ourselves — a bias to correct for, not a rule that situations always win."
+    }
+  ],
+  "dataSources": [
+    "Jones, E. E., & Nisbett, R. E. — the actor-observer asymmetry in causal attribution.",
+    "Ross, L. — the fundamental attribution error (over-attributing others' behaviour to disposition).",
+    "Research on the self-serving bias (attributing successes internally and failures externally)."
+  ],
+  "relatedInsights": [
+    "why-are-we-so-much-harder-on-ourselves-than-others",
+    "why-do-we-judge-other-people-so-quickly",
+    "do-we-see-the-world-as-it-really-is"
+  ],
+  "lastReviewed": "2026-06"
+}
