@@ -1,0 +1,72 @@
+{
+  "title": "Why Do We Treat Money Like a Scorecard?",
+  "slug": "why-do-we-treat-money-like-a-scorecard",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Why Do We Treat Money Like a Scorecard?",
+  "metaDescription": "Money works as a status signal, and research shows we care about relative income — not just absolute. Why the scorecard feeling is real but a weak guide.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Money functions partly as a status signal and people care about their income relative to others, not just in absolute terms — which makes it feel like a scorecard, even though absolute wealth is only weakly tied to happiness once needs are met.",
+  "honestAnswer": [
+    "We treat money like a scorecard because, socially and psychologically, it partly is one. A line of economic research finds that people care not just about how much they have but about how much they have relative to others — and money is the most visible, quantifiable, socially legible marker of standing available. So the instinct to read it as a score is responding to something real about how status works.",
+    "The catch is that the scorecard is a poor guide to wellbeing. Once basic needs and a buffer are met, the link between absolute wealth and happiness is weak, and a large part of money's emotional pull comes from comparison rather than from the money itself. So the scorecard feeling is genuine, but the game it implies — more points means a better life — is not well supported by the evidence."
+  ],
+  "whatDataShows": [
+    "Several studies suggest people weigh relative income heavily. In a well-known survey by Solnick and Hemenway, a substantial share of respondents said they would rather earn less in absolute terms if it meant earning more than the people around them — choosing, for example, $50,000 while others earned $25,000 over $100,000 while others earned $200,000. That people would trade away real income for higher relative standing shows how much position, not just amount, matters.",
+    "This connects to the Easterlin paradox: within a country, richer people tend to report being happier than poorer ones, yet decades of rising national income have not reliably lifted average happiness. A leading explanation is that much of money's effect on wellbeing is relative — when everyone gets richer together, the comparison that drives the feeling barely moves, so average happiness stays roughly flat.",
+    "Consistent with this, research by Luttmer found that people report lower wellbeing when their neighbours earn more, holding their own income constant. Money behaves like a positional good: its felt value depends partly on where it places you against others. That positional quality is exactly what makes it work as a scorecard — and exactly why the score keeps feeling unsatisfying."
+  ],
+  "whyItFeelsDifferent": [
+    "Money feels like a scorecard because it is uniquely visible and quantifiable in a domain where most things are not. You cannot easily measure how good a friend, parent or person you are, but income, titles and possessions come with numbers and can be displayed. So money becomes the default proxy for 'how am I doing,' simply because it is the metric that is legible.",
+    "It also feels different because the comparison is endless and upward. There is always a higher tier visible, and reference groups cluster around people at or above your level, so the score never reaches a stable 'winning' state. Each new level reveals the next, which is why financial milestones so often deliver a brief satisfaction that fades as the reference point climbs with you.",
+    "And culture reinforces the framing relentlessly. Wealth is treated as a public marker of success, achievement and even virtue, so reading money as a score is socially rewarded and rarely questioned. The scorecard feeling is not a private quirk; it is a learned, widely shared way of keeping count in the one area that hands you the numbers."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent implication is to separate the things money genuinely buys for wellbeing — security, a buffer against shocks, options — from money as a measure of standing. The strongest part of the income–happiness curve is at the lower end, where money removes strain; framing financial goals around removing strain rather than winning a comparison tends to align spending with wellbeing rather than with the scorecard.",
+    "Because the scorecard runs on comparison, deliberately managing your comparison set is one of the few documented counterweights. Reducing exposure to the most status-saturated inputs, and choosing reference points that reflect the real distribution rather than a curated top slice, lowers the positional pressure that makes money feel like a perpetual contest.",
+    "The wider wellbeing evidence also points away from positional spending and toward comparison-resistant uses of money — experiences, time, and spending on others — which tend to deliver more durable satisfaction than purchases aimed at signalling standing. The effects are modest, but they consistently outperform trying to win the score."
+  ],
+  "whatDoesNotHelp": [
+    "Trying to win the scorecard by earning or accumulating more rarely settles the feeling, because the standing it provides is relative and the reference point rises with you. Each level reveals a higher one, so 'enough to feel like you're winning' keeps receding — which is why hitting a financial milestone so often fails to deliver the closure people expect.",
+    "Buying status symbols to signal a higher score tends to underdeliver most of all. Since wellbeing depends partly on income relative to your reference group, climbing pulls that group up with you, and display spending — frequently debt-financed — buys the briefest satisfaction while weakening the security that money could otherwise provide.",
+    "Reading other people's wealth off their visible consumption is unreliable and feeds the scorecard with bad data. Visible spending is a poor proxy for net worth, so comparing your real finances to others' displays compares your inside knowledge to their outward signal — a mismatch that makes the score feel worse than any honest comparison would."
+  ],
+  "realNumbersInContext": [
+    "The Solnick and Hemenway survey is best remembered for its direction rather than a single statistic: a substantial share of respondents preferred a world where they earned less in absolute terms but more than others, over one where they earned more absolutely but less than others. The exact proportions depend on the good being compared and the sample, so treat them as indicative — the durable finding is that relative position carries real weight, sometimes enough to outweigh absolute income.",
+    "Set this against the money-and-happiness evidence: income helps wellbeing with diminishing returns, the gains concentrate at the lower end where money relieves strain, and the Easterlin paradox shows decades of rising national income have not reliably raised average happiness. Together these suggest the scorecard tracks relative standing far better than it tracks wellbeing — so a rising score and a better life are only loosely connected once needs are met."
+  ],
+  "realNumbers": [
+    { "value": "A substantial share", "label": "People preferring higher relative income even at lower absolute income", "source": "Solnick & Hemenway (approx.)" },
+    { "value": "Lower wellbeing", "label": "Effect of neighbours earning more, holding own income constant", "source": "Luttmer, 2005" },
+    { "value": "Roughly flat", "label": "Average national happiness despite decades of rising income", "source": "Easterlin paradox" }
+  ],
+  "faqs": [
+    {
+      "question": "Why does money feel like a measure of how I'm doing?",
+      "answer": "Because in a domain where most things can't be measured, money is uniquely visible and quantifiable. You can't easily score how good a friend or person you are, but income, titles and possessions come with numbers and can be displayed — so money becomes the default proxy for 'how am I doing,' partly just because it's the metric that's legible."
+    },
+    {
+      "question": "Is it true people care about relative income, not just how much they have?",
+      "answer": "The research suggests yes. In a survey by Solnick and Hemenway, many people said they'd rather earn less in absolute terms if it meant out-earning those around them. And Luttmer found people report lower wellbeing when neighbours earn more, holding their own income constant. Money behaves partly as a positional good."
+    },
+    {
+      "question": "If I keep earning more, will the scorecard feeling go away?",
+      "answer": "Usually not. Because the standing money provides is relative, the reference point rises with you — each level reveals a higher one. That's why financial milestones often deliver a brief satisfaction that fades, and why 'enough to feel like you're winning' tends to keep receding."
+    },
+    {
+      "question": "Does this mean money doesn't matter?",
+      "answer": "No. For people under financial strain, more income genuinely and measurably improves life, and security and a buffer clearly support wellbeing. The point is narrower: money is a weak guide to wellbeing as a scorecard once needs are met, because much of the scorecard feeling tracks relative standing rather than your actual life."
+    }
+  ],
+  "dataSources": [
+    "Solnick, S. J., & Hemenway, D. (1998). Is more always better? A survey on positional concerns. Journal of Economic Behavior & Organization, 37(3), 373–383.",
+    "Easterlin, R. A. — the Easterlin paradox (rising national income and average happiness over time).",
+    "Luttmer, E. F. P. (2005). Neighbors as Negatives: Relative Earnings and Well-Being. Quarterly Journal of Economics, 120(3), 963–1002.",
+    "Kahneman, D., & Deaton, A. (2010). High income improves evaluation of life but not emotional well-being. PNAS, 107(38), 16489–16493."
+  ],
+  "relatedInsights": [
+    "do-we-really-spend-to-keep-up-with-others",
+    "what-the-research-actually-shows-about-money-and-happiness",
+    "why-do-we-buy-for-the-person-we-want-to-be"
+  ],
+  "lastReviewed": "2026-06"
+}

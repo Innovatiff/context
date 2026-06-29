@@ -1,0 +1,75 @@
+{
+  "title": "How Much Time Do Distractions Actually Cost Us?",
+  "slug": "how-much-time-do-distractions-actually-cost-us",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "How Much Time Do Distractions Actually Cost Us?",
+  "metaDescription": "A 'quick check' is rarely quick. Here is what the research shows about interruptions, the time it takes to refocus, and the hidden cost of switching.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "The true cost of a distraction is far larger than the interruption itself, because returning to full focus on the original task takes considerable extra time and the switch leaves attention residue that lingers.",
+  "honestAnswer": [
+    "The honest answer is that a distraction almost always costs much more than the seconds it appears to take, but the exact figure is easy to overstate. The widely repeated claim is that it takes roughly 23 minutes to fully return to a task after an interruption — a number from Gloria Mark's workplace research — and while that figure is often quoted too rigidly, the underlying pattern is well supported: the recovery cost of being pulled away is real and routinely dwarfs the interruption itself.",
+    "So the 'quick check' that feels free is the misleading part. The thirty seconds you spend glancing at a message is rarely the whole bill. The larger, hidden cost is reassembling the mental context you had before — and that reassembly is what the research keeps finding people underestimate."
+  ],
+  "whatDataShows": [
+    "Gloria Mark's studies of people at work, summarised in her book Attention Span, found that workers switch tasks remarkably often and that getting back to an interrupted task can take a long time — the frequently cited figure is around 23 minutes to return to the original task, though that is an average across messy real-world conditions, not a fixed law. The point the data supports is directional: interruptions are frequent, and recovery is slow relative to the interruption.",
+    "Part of the cost comes from what Sophie Leroy called 'attention residue.' Her 2009 research found that when people switch from one task to another, part of their attention stays stuck on the first task, leaving fewer mental resources for the new one. The switch does not cleanly end one thing and begin another; a portion of your focus keeps idling on what you just left.",
+    "There is also a general body of work on task-switching costs in cognitive psychology showing that alternating between tasks is slower and more error-prone than doing them one at a time. The effect sizes vary and the laboratory tasks are artificial, but the consistent finding is that switching is not free — each toggle carries a small tax, and those taxes accumulate over a fragmented day."
+  ],
+  "whyItFeelsDifferent": [
+    "Distractions feel cheap because we measure them by the wrong clock. We notice the duration of the interruption — the glance, the reply — and not the slower, invisible cost of rebuilding our place in the original task. The expensive part happens after the distraction is over, so it never gets attributed to it.",
+    "A single check also feels harmless because the cost is paid in fragments rather than in one obvious block. No individual interruption ruins a day; it is the steady drip of them, each followed by a slow climb back to focus, that quietly consumes hours. Diffuse costs are far harder to feel than concentrated ones.",
+    "And many distractions are pleasant or relieving in the moment — checking a phone offers a small hit of novelty just when a hard task gets uncomfortable. That makes the interruption feel like a reward rather than a cost, which is precisely why the true price is so easy to miss."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent finding is that reducing the number of switches matters more than working faster within them. Batching similar tasks, silencing non-urgent notifications, and protecting blocks of uninterrupted time all attack the problem at its source — fewer interruptions mean fewer slow recoveries and less attention residue.",
+    "Leroy's work also suggests that giving yourself a clear stopping point before switching — a brief plan for where you will pick the task back up — reduces the residue you carry into the next task. A deliberate hand-off appears to help your attention let go more cleanly than an abrupt cut.",
+    "Externalising your place in a task also helps. Jotting down where you were and what comes next before you step away gives you something to reload from, shortening the climb back to full focus. This is a modest, practical intervention, not a transformation, but it targets the exact cost the research identifies."
+  ],
+  "whatDoesNotHelp": [
+    "Believing you can multitask your way through interruptions does not help; the research on switching costs is fairly consistent that doing two cognitively demanding things at once makes both slower and more error-prone than doing them in sequence. The feeling of efficient juggling is mostly an illusion produced by rapid switching.",
+    "Relying on willpower to simply ignore a buzzing phone tends to underperform changing the environment. Studies of notifications suggest that even a notification you do not act on can pull attention; removing the cue works better than resisting it, because you are not spending effort fighting a constant tug.",
+    "Treating the 23-minute figure as a precise law is also unhelpful in the other direction. It is an average from real workplaces, not a guarantee that every interruption costs exactly that much. Anchoring too hard on one number can make the advice feel false when your own recovery is faster — the durable lesson is that the cost is large and underestimated, not that it is always 23 minutes."
+  ],
+  "realNumbersInContext": [
+    "The headline figure most people have heard — roughly 23 minutes to return to a task after an interruption — comes from Gloria Mark's observational research and is best read as an order-of-magnitude reality check rather than a fixed constant. The real takeaway is the ratio: the recovery routinely costs far more than the interruption that triggered it.",
+    "Attention residue (Leroy, 2009) explains why even after you return, you are not immediately at full capacity — part of your focus is still resolving the task you left. Combined with the general task-switching literature, the picture is consistent: a heavily interrupted day is not a slightly less efficient version of a focused one; it is a structurally different and slower way of working, even though no single distraction feels expensive."
+  ],
+  "realNumbers": [
+    { "value": "~23 min", "label": "Often-cited average time to return to a task after an interruption", "source": "Gloria Mark, workplace research" },
+    { "value": "Attention residue", "label": "Part of focus stays on the previous task after a switch", "source": "Leroy, 2009" },
+    { "value": "Switching tax", "label": "Each toggle between tasks is slower and more error-prone", "source": "Task-switching research, cognitive psychology" }
+  ],
+  "faqs": [
+    {
+      "question": "Does it really take 23 minutes to refocus after a distraction?",
+      "answer": "That figure comes from Gloria Mark's research on people at work and is an average across messy real conditions, not a fixed law. Your own recovery may be faster or slower. The reliable point is that returning to full focus takes much longer than the interruption itself — the cost is large and routinely underestimated."
+    },
+    {
+      "question": "Why does a 'quick check' cost so much more than the check itself?",
+      "answer": "Because the expensive part happens after. The glance might take thirty seconds, but rebuilding your mental context in the original task takes much longer, and research on attention residue shows part of your focus stays stuck on what you just left. We measure the interruption and ignore the recovery."
+    },
+    {
+      "question": "What is attention residue?",
+      "answer": "It is the finding, from Sophie Leroy's 2009 work, that when you switch tasks, part of your attention remains on the previous one. That leftover residue means you start the new task with fewer mental resources, which is one reason switching is slower than it feels."
+    },
+    {
+      "question": "Is multitasking just a faster way to handle distractions?",
+      "answer": "The research on task-switching is fairly consistent that doing two demanding things at once makes both slower and more error-prone than doing them one at a time. The sense of efficient juggling is largely an illusion created by rapid switching, with a small cost paid on every toggle."
+    },
+    {
+      "question": "What actually reduces the cost of distractions?",
+      "answer": "Reducing the number of switches tends to help more than working faster within them — batching similar tasks, silencing non-urgent notifications, and protecting blocks of focused time. Noting where you'll pick a task back up before you step away can also shorten the climb back to full focus."
+    }
+  ],
+  "dataSources": [
+    "Mark, G. (2023). Attention Span: A Groundbreaking Way to Restore Balance, Happiness and Productivity — and related workplace interruption research.",
+    "Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. Organizational Behavior and Human Decision Processes, 109(2), 168–181.",
+    "Task-switching cost literature in cognitive psychology (general body of experimental work on switching between tasks)."
+  ],
+  "relatedInsights": [
+    "does-tracking-your-time-actually-change-it",
+    "how-does-your-screen-time-compare",
+    "is-it-normal-to-feel-busy-all-the-time"
+  ],
+  "lastReviewed": "2026-06"
+}

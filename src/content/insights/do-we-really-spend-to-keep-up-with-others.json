@@ -1,0 +1,72 @@
+{
+  "title": "Do We Really Spend to Keep Up With Others?",
+  "slug": "do-we-really-spend-to-keep-up-with-others",
+  "category": "money-and-financial-reality",
+  "metaTitle": "Do We Really Spend to Keep Up With Others?",
+  "metaDescription": "Economic research finds spending really does rise with what visible peers spend — and it tends to lower saving. Here is what the data actually shows.",
+  "lifeArea": "Money & Financial Reality",
+  "keyFinding": "Economic research finds that people's spending rises when the visible spending of those around them rises, which can raise consumption and lower saving — though the effect is a tendency, not a verdict on any individual.",
+  "honestAnswer": [
+    "Yes, at least on average and in the aggregate: a body of economic research finds that people spend more when the people around them — especially those a rung above — spend more. It is rarely a conscious decision to 'keep up.' It works through what looks normal: when bigger houses, newer cars and more expensive holidays become visible in your reference group, they quietly reset your sense of what an ordinary life costs.",
+    "This does not mean everyone is locked in a status race, or that wanting nice things is a flaw. The honest version is that visible consumption around you exerts a measurable upward pull on your own, that this pull tends to lower saving, and that because it operates through perceived norms rather than explicit envy, most people do not notice it happening."
+  ],
+  "whatDataShows": [
+    "The economist Thorstein Veblen described conspicuous consumption over a century ago — spending intended to signal status — and the core idea has held up: some consumption is driven by display and relative standing rather than the use-value of the thing bought. Modern research has put numbers to a related mechanism.",
+    "Bertrand and Morse documented what they called 'trickle-down consumption': in areas where the richest households increased their spending, households further down the distribution also spent more, and saved less, than otherwise similar households elsewhere. The visible consumption of those at the top appeared to pull up the consumption of those below them, plausibly because it shifted what looked like a normal standard of living.",
+    "This fits a wider literature on reference groups and relative spending. People judge their consumption not in absolute terms but against a comparison set — neighbours, colleagues, social circles — so the same income can feel adequate or inadequate depending on whom you are surrounded by. Because reference points move with what others do, rising consumption around you can raise your own spending even with no change in your needs or income."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels different because the spending almost never registers as competition. You experience it as a new normal — this is just what a family car costs now, this is what people do for a birthday — rather than as matching anyone. The reference point shifts beneath you, so the upgraded baseline feels like your own preference rather than a response to others.",
+    "It is also amplified by visibility. You can see what people drive, wear and post, but not what they earn, owe, or have saved. So the cues that reset your sense of normal are skewed toward the most visible, often debt-financed consumption, which makes the apparent standard higher than the financial reality behind it.",
+    "And the comparison is local and upward. Reference groups tend to cluster around people at or above your own level, and modern feeds surface the most impressive fraction of what peers do. The result is that 'what everyone seems to have' is drawn from an unrepresentative top slice, so keeping pace with it requires spending beyond what the true middle actually spends."
+  ],
+  "whatResearchSaysToDo": [
+    "The most direct implication of the reference-group research is that changing what is visible to you changes the pull. Reducing exposure to the most consumption-heavy inputs — feeds and environments where display spending is constant — lowers the perceived norm you are measuring against, and with it the upward pressure on your own spending.",
+    "Anchoring decisions to your own stable numbers rather than to ambient cues is the other documented counterweight. Pre-committing to spending and saving rules — automating savings before discretionary spending, deciding purchases against a plan rather than against what peers just bought — removes the moment-by-moment comparison that the trickle-down effect works through.",
+    "Choosing comparison sets deliberately also helps, because relative standing is partly a matter of whom you stand next to. Spending on less visible, comparison-resistant goods — experiences, time, and uses of money that do not invite display — tends to deliver more durable satisfaction than spending aimed at matching what others have, according to the broader wellbeing literature."
+  ],
+  "whatDoesNotHelp": [
+    "Earning more in order to comfortably keep up rarely settles the feeling, because the reference point rises with you. As your income and surroundings move up, so does the visible spending around you, so the gap between what you have and what looks normal tends to persist at the new level rather than close.",
+    "Willpower alone — resolving to simply ignore what others spend — is a weak tool against an effect that works through perceived norms rather than conscious choice. Because the pull operates by quietly resetting what looks ordinary, it is better countered by changing your inputs and rules than by trying to out-discipline a shifting baseline.",
+    "Reading visible consumption as a reliable signal of wealth is actively misleading. Display spending is frequently debt-financed and is a poor proxy for net worth, so matching the people who look the most successful often means matching their spending, not their security — which is the opposite of what most people intend."
+  ],
+  "realNumbersInContext": [
+    "Bertrand and Morse's work is best understood as a direction rather than a single headline figure: where top-end spending rose, lower- and middle-income households nearby spent more and saved less than comparable households elsewhere. The estimated magnitudes are specific to their data and methods, so the durable takeaway is the existence and sign of the effect, not a precise percentage.",
+    "It is worth pairing this with how spending is distributed. Visible categories — vehicles, housing, recreation — make up a large share of household budgets, and visible consumption is easier to observe than saving, so the cues that reset 'normal' are skewed toward spending. Background context like the relatively low personal saving rate in recent years (often around 4–5% of disposable income in the U.S.) is consistent with a world where consumption norms run ahead of saving, though no single statistic proves the keeping-up mechanism on its own."
+  ],
+  "realNumbers": [
+    { "value": "Spend more", "label": "What households did when top-end local spending rose", "source": "Bertrand & Morse, trickle-down consumption" },
+    { "value": "Saved less", "label": "Effect of higher visible peer spending on household saving", "source": "Bertrand & Morse" },
+    { "value": "~4–5%", "label": "Recent U.S. personal saving rate (context, not proof)", "source": "U.S. Bureau of Economic Analysis (approx.)" }
+  ],
+  "faqs": [
+    {
+      "question": "Do people really spend more just because others around them do?",
+      "answer": "On average, yes. Research on 'trickle-down consumption' (Bertrand and Morse) found that when top-end local spending rose, households below them spent more and saved less than comparable households elsewhere. It rarely feels like keeping up — it works by shifting what looks like a normal standard of living."
+    },
+    {
+      "question": "Is wanting nicer things a sign I'm materialistic?",
+      "answer": "Not really. The research describes a tendency that operates through perceived norms, not a character flaw. Visible consumption around you quietly resets your sense of what's ordinary, so wanting more can be a response to a moving reference point rather than evidence of being unusually materialistic."
+    },
+    {
+      "question": "Why doesn't earning more fix the feeling of needing to keep up?",
+      "answer": "Because the reference point moves with you. As your income and surroundings rise, the visible spending around you rises too, so the gap between what you have and what looks normal tends to persist at the new level rather than close. Relative standing is a moving target."
+    },
+    {
+      "question": "What actually reduces keeping-up spending?",
+      "answer": "Changing what's visible to you and anchoring to your own rules. Reducing exposure to display-heavy environments lowers the norm you measure against, and automating savings before discretionary spending removes the in-the-moment comparison the effect works through. Willpower alone is weak against a shifting baseline."
+    }
+  ],
+  "dataSources": [
+    "Bertrand, M., & Morse, A. (2016). Trickle-Down Consumption. Review of Economics and Statistics, 98(5), 863–879.",
+    "Veblen, T. (1899). The Theory of the Leisure Class — conspicuous consumption.",
+    "Luttmer, E. F. P. (2005). Neighbors as Negatives: Relative Earnings and Well-Being. Quarterly Journal of Economics, 120(3), 963–1002.",
+    "U.S. Bureau of Economic Analysis — personal saving rate."
+  ],
+  "relatedInsights": [
+    "why-do-we-treat-money-like-a-scorecard",
+    "why-do-we-buy-for-the-person-we-want-to-be",
+    "where-does-the-average-paycheck-actually-go"
+  ],
+  "lastReviewed": "2026-06"
+}

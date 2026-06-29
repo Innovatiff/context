@@ -1,0 +1,75 @@
+{
+  "title": "How Much Time Do We Waste Deciding What to Do?",
+  "slug": "how-much-time-do-we-waste-deciding-what-to-do",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "How Much Time Do We Waste Deciding What to Do?",
+  "metaDescription": "Deciding can cost more than doing. Here is what the research suggests about decision fatigue, choice overload, and the hidden price of too many options.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "The time and mental energy spent deciding what to do can rival the time spent doing it, and more options often make this worse rather than better.",
+  "honestAnswer": [
+    "The honest answer is that there is no clean figure for how much time we lose to deciding, but the research strongly suggests it is more than most people assume — and that the cost is paid in mental energy as much as in minutes. The small, recurring decisions of a day add up, and each one carries a little deliberation, a little second-guessing, and a little drain on the limited attention you bring to everything afterward.",
+    "What the evidence does make clear is that more choice rarely solves this. Beyond a point, additional options tend to slow decisions down, make them harder, and leave people less satisfied with what they pick — so the abundance that feels like freedom often quietly becomes a tax on time and on contentment."
+  ],
+  "whatDataShows": [
+    "The most famous demonstration is Iyengar and Lepper's 2000 'jam study,' in which shoppers offered a display of 24 jams were far less likely to actually buy than those offered a display of 6, even though the larger display drew more initial interest. The finding — sometimes called choice overload — is that too many options can paralyse rather than empower. It is worth noting that later attempts to replicate choice overload have been mixed, so the effect is real but context-dependent rather than universal.",
+    "There is also research on what is often called decision fatigue: the idea that making many decisions can degrade the quality of later ones. Some influential studies and the broader 'ego depletion' framework supported this, but parts of that literature have faced serious replication problems, so the strong version of decision fatigue should be treated with caution. The gentler, better-supported point is that sustained deliberation is effortful and that effort accumulates.",
+    "Barry Schwartz's work on 'maximisers' versus 'satisficers' adds another piece: people who try to find the best possible option (maximisers) tend to spend more time deciding and report less satisfaction with their choices than people who settle for 'good enough' (satisficers). The deliberation itself, and the opportunity cost of every rejected alternative, becomes part of what the decision costs."
+  ],
+  "whyItFeelsDifferent": [
+    "Deciding doesn't feel like spending time because it rarely looks like activity. Standing in front of the fridge, scrolling for something to watch, re-reading the menu — these read as pauses rather than tasks, so the minutes and the mental effort they consume slip by unattributed.",
+    "More options also feel like a gift right up until you have to choose among them. The promise of finding the perfect pick is appealing, which is why we seek out abundance; the cost only shows up later, in the slower decision and the nagging sense that something better was on the list.",
+    "And small decisions feel free individually, so their accumulation is invisible. No single 'what should I do now?' is expensive, but dozens of them across a day quietly draw down the same limited pool of attention you need for everything else, which is why the day can feel tiring without feeling productive."
+  ],
+  "whatResearchSaysToDo": [
+    "The most robust practical implication is to satisfice more and maximise less for low-stakes decisions. Schwartz's work suggests that adopting a 'good enough' standard for trivial choices preserves time and tends to leave people more satisfied, because chasing the optimal option mostly buys deliberation and regret rather than meaningfully better outcomes.",
+    "Reducing the number of decisions also helps more than deciding faster. Routines, defaults, and pre-commitments — deciding once how you'll handle a recurring choice — remove the daily re-deliberation, which is why so many people standardise small things to protect attention for larger ones.",
+    "Constraining the option set is supported by the choice-overload work, even with its caveats. Deliberately narrowing the field — fewer items to compare, a shorter shortlist — tends to make choosing faster and more satisfying than facing the full, overwhelming range."
+  ],
+  "whatDoesNotHelp": [
+    "Seeking out more options to make a better decision usually backfires for everyday choices. The choice-overload research suggests that beyond a point, additional alternatives slow you down and reduce satisfaction, so 'just look at a few more' tends to cost time and contentment rather than improving the pick.",
+    "Trying to find the single best option — maximising — is one of the least helpful habits for low-stakes decisions. It reliably increases deliberation time and decreases satisfaction compared with settling for good enough, because the marginal gain rarely justifies the added effort and regret.",
+    "Leaning hard on 'decision fatigue' as an excuse is also shaky, since parts of that literature have not replicated well. Treating willpower as a tank that empties on a fixed schedule oversells the science; the safer, supported point is simply that sustained deliberation is effortful, so reducing the number of decisions beats trying to ration a precisely measured reserve."
+  ],
+  "realNumbersInContext": [
+    "The clearest number comes from the jam study: shoppers facing 24 options bought far less often than those facing 6 (Iyengar and Lepper, 2000) — a striking illustration that more choice can reduce action, though later replications of choice overload have been mixed, so the effect is real but context-dependent rather than guaranteed.",
+    "There is no reliable figure for total time lost to deciding across a day, and you should be wary of anyone who offers a precise one. The supported pattern is qualitative but consistent: small recurring decisions accumulate, maximising costs more time and satisfaction than satisficing (Schwartz), and deliberation is genuinely effortful even if the strong 'decision fatigue' claims remain contested."
+  ],
+  "realNumbers": [
+    { "value": "24 vs 6", "label": "Jam display sizes — the larger drew interest but far fewer purchases", "source": "Iyengar & Lepper, 2000" },
+    { "value": "Maximisers", "label": "Spend more time deciding and report less satisfaction than satisficers", "source": "Schwartz, The Paradox of Choice" },
+    { "value": "Contested", "label": "Strong 'decision fatigue' / ego-depletion claims have faced replication problems", "source": "Replication research" }
+  ],
+  "faqs": [
+    {
+      "question": "Do we really lose much time just deciding what to do?",
+      "answer": "There's no precise figure, and you should distrust anyone who gives one. But the research is consistent that small recurring decisions accumulate and that deliberation is genuinely effortful. The cost is paid in mental energy as much as minutes, which is why a day of small choices can feel tiring without feeling productive."
+    },
+    {
+      "question": "Does having more options make choosing easier?",
+      "answer": "Often the opposite. The choice-overload work — most famously the jam study, where 24 options led to far fewer purchases than 6 — suggests too many alternatives can slow decisions and reduce satisfaction. Later replications have been mixed, so the effect is real but context-dependent, not universal."
+    },
+    {
+      "question": "What's the difference between a maximiser and a satisficer?",
+      "answer": "A maximiser tries to find the best possible option; a satisficer settles for 'good enough.' Schwartz's research found maximisers tend to spend more time deciding and report less satisfaction with their choices, because chasing the optimal option mostly buys deliberation and regret."
+    },
+    {
+      "question": "Is decision fatigue a real thing?",
+      "answer": "The gentle version — that sustained deliberation is effortful and effort accumulates — is reasonable. The strong version, tied to 'ego depletion,' has faced serious replication problems, so treat claims that willpower drains on a fixed schedule with caution. Reducing the number of decisions is a safer bet than rationing a supposed reserve."
+    },
+    {
+      "question": "How can I spend less time deciding?",
+      "answer": "Satisfice for low-stakes choices, reduce the number of decisions with routines and defaults, and deliberately narrow your options before choosing. Deciding once how you'll handle a recurring choice removes the daily re-deliberation and protects attention for the decisions that actually matter."
+    }
+  ],
+  "dataSources": [
+    "Iyengar, S. S., & Lepper, M. R. (2000). When Choice is Demotivating: Can One Desire Too Much of a Good Thing? Journal of Personality and Social Psychology, 79(6), 995–1006.",
+    "Schwartz, B. (2004). The Paradox of Choice: Why More Is Less — maximisers vs satisficers.",
+    "Replication literature on choice overload and on ego depletion / decision fatigue (mixed and contested findings)."
+  ],
+  "relatedInsights": [
+    "does-tracking-your-time-actually-change-it",
+    "how-much-time-do-distractions-actually-cost-us",
+    "do-we-decide-things-or-just-justify-them-after"
+  ],
+  "lastReviewed": "2026-06"
+}

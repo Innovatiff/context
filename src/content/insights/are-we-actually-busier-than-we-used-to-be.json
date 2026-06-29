@@ -1,0 +1,75 @@
+{
+  "title": "Are We Actually Busier Than We Used to Be?",
+  "slug": "are-we-actually-busier-than-we-used-to-be",
+  "category": "time-and-how-you-use-it",
+  "metaTitle": "Are We Actually Busier Than We Used to Be?",
+  "metaDescription": "We feel more rushed than ever, but the measured hours tell a subtler story. Here is what time-use data shows about busyness, leisure, and time pressure.",
+  "lifeArea": "Time & How You Spend It",
+  "keyFinding": "The feeling of being busier than ever is widespread, but careful time-use measurement shows average leisure has not collapsed nearly as much as the feeling implies — the gap is largely about time pressure and how busyness is perceived and signalled.",
+  "honestAnswer": [
+    "The honest answer is that for most people, measured free time has not fallen nearly as much as the feeling of busyness suggests — though the picture varies a lot by job, caregiving load, and life stage. When researchers actually measure how people spend their hours, average leisure has held up better over recent decades than the cultural sense of a worsening 'time famine' implies. The shortfall is real as an experience, but it is more about time pressure than about a dramatic loss of hours.",
+    "So 'are we busier?' has two answers. By the clock, on average, not as much as it feels. By the felt sense of being rushed, fragmented, and never caught up, yes — and that gap between measured time and perceived time is itself the most interesting finding."
+  ],
+  "whatDataShows": [
+    "Detailed time-use research, most notably John Robinson and Geoffrey Godbey's work summarised in Time for Life, found that Americans on average had more free time than they tended to believe, and that perceived time pressure had risen even as measured leisure did not collapse. People consistently estimated they worked more and rested less than their own diaries showed.",
+    "Large ongoing surveys like the American Time Use Survey continue to show that, on average, paid work, household work, and leisure occupy fairly substantial and relatively stable shares of the day, with meaningful variation by employment, parenting, and gender. The averages mask real differences — some groups genuinely are stretched thin — but they do not support the idea that leisure has broadly vanished.",
+    "At the same time, the perception of being rushed is well documented. Researchers describe a sense of 'time famine' — feeling that there is never enough time — that has grown even where measured hours have not. This divergence between felt time pressure and recorded time use is one of the most consistent findings in the field."
+  ],
+  "whyItFeelsDifferent": [
+    "Time feels scarcer partly because it is more fragmented. Even when the total hours of free time are similar, leisure broken into scattered scraps and interrupted by notifications feels far less restful than the same hours in solid blocks — so the quality of free time, not just the quantity, shapes how busy we feel.",
+    "Busyness has also become a status signal. Where leisure once signalled high standing, being visibly busy and in demand now often does, so people both feel and broadcast busyness as a marker of importance. That cultural shift makes 'I'm so busy' a default script regardless of what the clock would show.",
+    "And rising options and information add a background hum of obligation. More things we could be doing, more messages we could be answering, and more ways to be reached create a sense of perpetual incompleteness — the feeling of falling behind on an endless list — that registers as busyness even when measured activity hasn't risen to match."
+  ],
+  "whatResearchSaysToDo": [
+    "Because much of the problem is perceived time pressure rather than raw hours, protecting the quality of free time tends to help more than simply finding more of it. Consolidating leisure into unfragmented, unhurried blocks — and shielding it from interruption — addresses the part of busyness that the felt experience, not the clock, is driving.",
+    "Time-use research also suggests that auditing where time actually goes can recalibrate the sense of scarcity, because people routinely misjudge it. Seeing the real distribution of your hours often reveals more discretionary time than the feeling of busyness implies, which is itself a relief and a starting point.",
+    "There is reasonable evidence that spending money to buy back time on disliked tasks is associated with greater wellbeing for those who can afford it, and that prioritising time over money in trade-offs tends to track with higher satisfaction. Where feasible, treating time as the scarce resource — rather than maximising income or output — aligns with what the research links to feeling less starved for time."
+  ],
+  "whatDoesNotHelp": [
+    "Wearing busyness as a badge does not help, and the status-signalling around it tends to entrench the feeling. Competing over who is busiest reinforces the script and the time pressure without changing how the hours are actually spent, so it amplifies the perception that is most of the problem.",
+    "Squeezing more into the same hours through productivity hacks often makes the felt time famine worse, not better. Packing the day tighter increases fragmentation and the sense of perpetual incompleteness, which is precisely the experience that drives the feeling of being overwhelmed even when total hours are stable.",
+    "Assuming everyone is equally and dramatically more burdened isn't accurate either. The averages have held up better than the cultural story suggests, and busyness varies enormously by job and caregiving load — so treating 'we're all busier than ever' as a flat fact misses both the people who genuinely are stretched and the large role perception plays for many others."
+  ],
+  "realNumbersInContext": [
+    "The headline finding from time-use research is the gap between felt and measured time: Robinson and Godbey's Time for Life found Americans on average had more free time than they believed, even as the sense of time pressure rose. Ongoing data like the American Time Use Survey shows paid work, household work, and leisure occupying fairly stable average shares of the day, with large variation by employment and caregiving.",
+    "So the most honest framing avoids a single dramatic number. On average and by the clock, leisure has not collapsed the way the 'busier than ever' narrative implies; by the felt sense of rush and fragmentation, the time famine is real. Both can be true at once, and recognising which one you're experiencing — a genuine hour shortage, or a perception and quality problem — is the practical key."
+  ],
+  "realNumbers": [
+    { "value": "More than believed", "label": "Average free time found vs how much people estimated they had", "source": "Robinson & Godbey, Time for Life" },
+    { "value": "Relatively stable", "label": "Average shares of the day across work, chores and leisure", "source": "American Time Use Survey" },
+    { "value": "Time famine", "label": "Documented rise in perceived time pressure even where hours held steady", "source": "Time-use research" }
+  ],
+  "faqs": [
+    {
+      "question": "Are people actually busier than they used to be?",
+      "answer": "On average and by the clock, not as much as it feels. Time-use research, including Robinson and Godbey's Time for Life, found people tend to have more free time than they believe, even as the sense of time pressure has risen. The feeling of busyness has grown more than measured hours have."
+    },
+    {
+      "question": "If I have more free time than I think, why do I feel so rushed?",
+      "answer": "Largely because of fragmentation and perception. Leisure broken into scattered, interrupted scraps feels far less restful than the same hours in solid blocks, and a background sense of endless obligations adds time pressure. The felt 'time famine' is real even where total hours haven't fallen."
+    },
+    {
+      "question": "What is the 'time famine'?",
+      "answer": "It's researchers' term for the widespread feeling that there's never enough time. It has been documented to rise even in periods where measured leisure stayed roughly stable — which is why it's better understood as a perception and time-pressure problem than purely a shortage of hours."
+    },
+    {
+      "question": "Why do people brag about being busy?",
+      "answer": "Busyness has become a status signal. Where leisure once marked high standing, being visibly in demand now often does, so 'I'm so busy' functions as a marker of importance. That cultural shift reinforces both the feeling and the broadcasting of busyness, regardless of what the clock shows."
+    },
+    {
+      "question": "So is the busyness feeling just in our heads?",
+      "answer": "Not exactly — it varies a lot by job, caregiving load and life stage, and some people genuinely are stretched thin. The averages have held up better than the cultural story suggests, but that doesn't erase real overload for specific groups. The useful step is telling apart a genuine hour shortage from a perception-and-quality problem, since they call for different responses."
+    }
+  ],
+  "dataSources": [
+    "Robinson, J. P., & Godbey, G. (1997). Time for Life: The Surprising Ways Americans Use Their Time.",
+    "American Time Use Survey (U.S. Bureau of Labor Statistics) — measured time use across work, household work, and leisure.",
+    "Time-use research on perceived time pressure / 'time famine' and the divergence between felt and measured time."
+  ],
+  "relatedInsights": [
+    "is-it-normal-to-feel-busy-all-the-time",
+    "how-much-of-your-life-do-you-have-left-in-waking-hours",
+    "how-much-time-do-distractions-actually-cost-us"
+  ],
+  "lastReviewed": "2026-06"
+}

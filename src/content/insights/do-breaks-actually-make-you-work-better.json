@@ -1,0 +1,76 @@
+{
+  "title": "Do Breaks Actually Make You Work Better?",
+  "slug": "do-breaks-actually-make-you-work-better",
+  "category": "work-and-career",
+  "metaTitle": "Do Breaks Actually Make You Work Better? The Research",
+  "metaDescription": "Breaks won't transform your output, but the research is fairly consistent: short rests reduce fatigue and help sustain attention and performance across a day.",
+  "lifeArea": "Work & Career",
+  "keyFinding": "The research generally supports taking breaks: short rests reduce fatigue and help sustain attention and performance over a working day, though the effects are modest and depend on how and when you rest.",
+  "honestAnswer": [
+    "Mostly yes — the research generally supports taking breaks, but the effect is sustaining rather than supercharging. Short rests during the day tend to reduce fatigue and help maintain attention and performance, because human attention is not built to stay sharp under continuous load. What breaks reliably do is slow the decline in output across a long stretch of work; what they do not do is turn an ordinary day into an extraordinary one.",
+    "The honest version is that breaks are a fatigue-management tool with modest, fairly consistent benefits, not a productivity hack with dramatic returns. The size of the benefit depends on how you rest, how long, and how depleted you already are — and some forms of break help more than others."
+  ],
+  "whatDataShows": [
+    "Sustained attention degrades over time, and that is the core reason breaks help. Decades of vigilance and attention research show that performance on demanding cognitive tasks declines the longer you stay continuously focused — an effect sometimes described as attention or 'vigilance decrement.' Breaks interrupt that decline. The widely cited idea that briefly stepping away from a goal can restore focus (Ariga and Lleras, 2011) fits this pattern, though specific claims about exact timing are weaker than the general principle.",
+    "Meta-analytic work on microbreaks — short pauses of seconds to minutes — finds a small but reasonably consistent benefit. A 2022 meta-analysis by Albulescu and colleagues concluded that microbreaks were associated with reduced fatigue and improved vigour, with clearer effects on wellbeing and energy than on raw task performance, and stronger effects for less cognitively demanding work. The takeaway is that breaks reliably help how you feel and your capacity to keep going, with more modest and conditional effects on output itself.",
+    "Attention restoration research adds a 'what kind of break' dimension. Attention Restoration Theory (Kaplan, 1995) proposes that restful, low-demand environments — particularly natural ones — help replenish depleted attention, and a body of studies links exposure to nature or restful settings during breaks with better subsequent focus. The related idea of ultradian rhythms — that we cycle through roughly 90-minute periods of higher and lower alertness — is plausible and often cited, but the evidence that you should rigidly schedule work to a 90-minute clock is thinner than the popular advice implies."
+  ],
+  "whyItFeelsDifferent": [
+    "Breaks feel like slacking because work culture equates continuous activity with productivity, so stopping registers as falling behind even when it improves the work. The cost of pushing through — slower, more error-prone output later in the day — is invisible in the moment, while the time a break 'costs' is obvious. That asymmetry makes resting feel more expensive than it is.",
+    "It also feels different because fatigue is a poor self-reporter. People are not great at noticing their own attention declining; performance can drop well before you feel tired, so the moment you most need a break is often the moment you least feel entitled to one. By the time exhaustion is obvious, a fair amount of degraded work has usually already happened.",
+    "And the promised payoff has been oversold. Productivity content frames breaks as a trick that multiplies output, so when a five-minute pause does not produce a dramatic burst, people conclude breaks 'don't work.' The real effect — quietly preventing decline across hours — is hard to perceive precisely because it stops something from getting worse rather than making something visibly better."
+  ],
+  "whatResearchSaysToDo": [
+    "Take short breaks before you are depleted rather than after, since the evidence favours interrupting the decline in attention rather than recovering from full exhaustion. Brief, regular pauses across the day are better supported than one long collapse at the end, and the microbreak research suggests even very short rests can reduce fatigue and restore some energy.",
+    "Choose genuinely restorative breaks where you can. Attention-restoration findings point toward low-demand, mentally undemanding rest — stepping outside, a short walk, looking at nature, or simply disengaging — as more replenishing than swapping one demanding screen task for another. A break that keeps your attention under load does less to restore it.",
+    "Match the break to the work and to yourself. The benefit is clearer for monotonous or sustained-attention tasks and for people who are already fatigued, so heavier or longer-focus work warrants more deliberate rest. Treat the popular timing rules — the 90-minute cycle, the 'every 25 minutes' formulas — as starting points to test against your own experience, not as proven laws."
+  ],
+  "whatDoesNotHelp": [
+    "Powering through without rest to look or feel productive does not reliably increase output and tends to raise fatigue and errors as attention declines across the day. The visible time saved by skipping breaks is often paid back in slower, lower-quality work later.",
+    "'Breaks' that keep your attention under demand — scrolling a feed, switching to another taxing task, doomscrolling the news — do less to restore focus than genuinely disengaging, because the depleted resource is not really being rested. Swapping one form of cognitive load for another is closer to continued work than to a break.",
+    "Rigidly engineering your day around a precise rest formula is not well supported by the evidence. The general principle — rest before depletion, rest restfully — is solid, but the specific magic intervals are far less established than productivity advice suggests, and forcing a clock that does not match your task or energy can add stress without adding benefit."
+  ],
+  "realNumbersInContext": [
+    "The honest scale of the effect is 'small but real.' The 2022 microbreak meta-analysis (Albulescu et al.) found short breaks associated with reduced fatigue and higher vigour, with clearer effects on energy and wellbeing than on task performance, and stronger benefits for less cognitively demanding work. So the realistic expectation is sustained capacity and lower fatigue, not a dramatic jump in output.",
+    "The deeper point is about the shape of attention, not a number. Performance on demanding tasks declines the longer you stay continuously focused, which is why interrupting that decline helps at all. Popular figures like the '90-minute cycle' describe a plausible rhythm, but the precise timing is far less established than the basic finding that rest before depletion beats grinding to exhaustion."
+  ],
+  "realNumbers": [
+    { "value": "Small but real", "label": "Typical size of the microbreak benefit (clearer for fatigue and energy than raw output)", "source": "Albulescu et al. microbreak meta-analysis, 2022" },
+    { "value": "Declines with time", "label": "Sustained attention on demanding tasks the longer you stay continuously focused", "source": "Vigilance / attention research" },
+    { "value": "~90 min", "label": "Often-cited ultradian alertness cycle (plausible but loosely evidenced)", "source": "Ultradian rhythm hypothesis" }
+  ],
+  "faqs": [
+    {
+      "question": "Do breaks actually improve productivity?",
+      "answer": "The research generally supports them, but the effect is to sustain performance and reduce fatigue rather than to dramatically boost output. Short breaks help maintain attention across a working day, with clearer benefits for energy and wellbeing than for raw task performance, and stronger effects on monotonous work."
+    },
+    {
+      "question": "How often should I take a break?",
+      "answer": "The well-supported principle is to rest before you are depleted, with brief regular pauses across the day rather than one long collapse at the end. Popular rules like every 25 or every 90 minutes are reasonable starting points, but the precise intervals are not strongly proven — test what fits your task and energy."
+    },
+    {
+      "question": "What's the best kind of break to take?",
+      "answer": "Attention-restoration research favours genuinely restful, low-demand breaks — a short walk, stepping outside, time around nature, or simply disengaging — over swapping one demanding task or screen for another. A break that keeps your attention under load does less to restore it."
+    },
+    {
+      "question": "Is scrolling my phone a real break?",
+      "answer": "Usually not a restorative one. If your attention stays under demand — scrolling, reading the news, switching to another taxing task — the depleted resource is not really being rested, so the restorative benefit is smaller than truly disengaging."
+    },
+    {
+      "question": "Is the 90-minute work cycle real?",
+      "answer": "The idea of ultradian rhythms — roughly 90-minute cycles of higher and lower alertness — is plausible and often cited, but the evidence that you should rigidly schedule work to a 90-minute clock is thinner than the popular advice implies. Treat it as a rhythm to notice, not a law to obey."
+    }
+  ],
+  "dataSources": [
+    "Albulescu, P., Macsinga, I., Rusu, A., Sulea, C., Bodnaru, A., & Tulbure, B. T. (2022). 'Give me a break!' A systematic review and meta-analysis on the efficacy of micro-breaks for increasing well-being and performance. PLOS ONE, 17(8).",
+    "Ariga, A., & Lleras, A. (2011). Brief and rare mental 'breaks' keep you focused: Deactivation and reactivation of task goals preempt vigilance decrements. Cognition, 118(3), 439–443.",
+    "Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework (Attention Restoration Theory). Journal of Environmental Psychology, 15(3), 169–182.",
+    "Vigilance and sustained-attention research on the attention/vigilance decrement."
+  ],
+  "relatedInsights": [
+    "what-the-research-actually-says-about-burnout",
+    "does-work-have-to-feel-hard-to-be-valuable",
+    "is-it-normal-for-your-energy-to-vary-day-to-day"
+  ],
+  "lastReviewed": "2026-06"
+}

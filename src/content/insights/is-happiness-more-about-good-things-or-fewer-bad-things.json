@@ -1,0 +1,75 @@
+{
+  "title": "Is Happiness About More Good or Fewer Bad Things?",
+  "slug": "is-happiness-more-about-good-things-or-fewer-bad-things",
+  "category": "happiness-research",
+  "metaTitle": "Happiness: More Good Things or Fewer Bad Things?",
+  "metaDescription": "Research suggests bad events affect us more strongly than good ones. Here is what the data shows about whether reducing negatives beats adding positives.",
+  "lifeArea": "Happiness Research",
+  "keyFinding": "Because negative experiences tend to carry more psychological weight than positive ones, reducing daily hassles and bad moments often moves wellbeing as much as, or more than, adding new good things.",
+  "honestAnswer": [
+    "It is some of both, but the research suggests the negative side carries more weight, so reducing bad things is often the higher-leverage move. A large body of work points to a general pattern psychologists summarise as 'bad is stronger than good': negative events, emotions, and feedback tend to affect us more powerfully than positive ones of comparable size. That asymmetry means a day with fewer hassles can do more for your mood than a day with one extra treat.",
+    "The honest qualification is that this is a tendency, not a law, and both sides clearly matter. You cannot subtract your way to a good life — removing negatives without any positives leaves something flat. But if you are deciding where to spend limited effort, the evidence tilts toward fixing the recurring small bad things before adding new good ones."
+  ],
+  "whatDataShows": [
+    "The central finding comes from Baumeister and colleagues' widely cited review, 'Bad Is Stronger Than Good' (2001). Across many domains — relationships, emotions, learning, impressions — they found that negative events have a larger and more lasting impact than equivalent positive ones. A criticism stings more than a compliment soothes; a bad interaction does more damage than a good one repairs.",
+    "Closely related is the well-documented negativity bias: people attend to, remember, and react more strongly to negative information. This shows up early in perception and decision-making, which is part of why a single bad moment can colour a whole day while several good moments quietly pass.",
+    "There is also evidence that day-to-day wellbeing tracks the balance of small recurring events more than the occasional big one. Research on daily hassles and uplifts suggests that the frequency of minor stressors can predict wellbeing at least as well as major life events — meaning the small, repeated bad things may matter more than their size implies. As always, these are correlational patterns from self-report, so treat them as reliable tendencies rather than precise laws."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like happiness should be about adding good things because that is the version the culture sells and the version that is easy to picture. Pleasures are concrete and marketable; the absence of an irritation is invisible. You can imagine the reward you would buy far more vividly than you can imagine the low hum of stress you would remove.",
+    "The asymmetry also hides itself. When a recurring bad thing is gone — the commute, the tense relationship, the financial worry — its absence is silent, so you rarely credit it for the improvement. Removing a negative tends not to feel like a win in the moment, even when the data says it did more for you than adding a positive would have.",
+    "And negativity bias works against noticing its own effect. Because bad moments grab attention and good ones fade, it is easy to conclude you just need more good moments, when the more accurate read is that the bad ones are doing outsized damage. The fix you reach for — more positives — is aimed at the smaller lever."
+  ],
+  "whatResearchSaysToDo": [
+    "The most actionable implication is to audit the recurring small negatives before reaching for new positives. Because minor hassles repeat and carry disproportionate weight, removing or reducing a frequent irritation — a draining obligation, a chronic source of friction, a daily stressor — tends to be high-leverage even though it feels unglamorous.",
+    "In relationships specifically, the asymmetry suggests that reducing negative interactions matters more than is usually assumed. The research on 'bad is stronger than good' implies it takes several good interactions to offset one bad one, so cutting the corrosive moments can do more than adding affection on top of them.",
+    "This does not mean ignoring positives, which clearly contribute and help offset the heavier negatives. The balanced reading is to do both, but to give the negative side more attention than intuition suggests — and to remember the effects are real but moderate, not transformative."
+  ],
+  "whatDoesNotHelp": [
+    "Trying to out-add the negatives — stacking on treats and rewards while leaving a chronic stressor in place — tends to underperform, because the asymmetry means the bad thing keeps outweighing the additions. Piling positives on top of an unaddressed negative is working against the grain of the evidence.",
+    "Telling yourself to 'just focus on the good' is weak advice against negativity bias, which operates automatically and early in perception. Willed positivity rarely cancels the disproportionate pull of the bad; it more often layers guilt on top of the original stress.",
+    "Dismissing small recurring annoyances as too minor to matter is the specific mistake the daily-hassles research warns against. The thing that seems too trivial to fix — because any single instance is small — is exactly the kind of repeated negative that adds up to an outsized drag on wellbeing."
+  ],
+  "realNumbersInContext": [
+    "The figures here are about direction and rough magnitude, not precision, and should be read that way. The 'bad is stronger than good' literature suggests it commonly takes several positive events or interactions to offset one comparable negative — the exact ratio varies by domain and study, so treat any specific number with caution. The reliable part is the asymmetry itself, not a fixed multiplier.",
+    "It also helps to hold this in proportion. The negativity asymmetry is a robust, repeatedly observed tendency, but it sits alongside larger structural drivers of wellbeing — relationships, health, and freedom from serious financial strain. The honest takeaway is a tilt in where to spend effort, namely toward removing recurring negatives, rather than a precise formula for happiness."
+  ],
+  "realNumbers": [
+    { "value": "Bad > good", "label": "General finding: negative events outweigh comparable positive ones", "source": "Baumeister et al., 2001" },
+    { "value": "Several:1", "label": "Rough sense of how many positives it takes to offset one negative (varies, contested)", "source": "Bad Is Stronger Than Good literature" },
+    { "value": "Daily hassles", "label": "Minor recurring stressors predict wellbeing at least as well as major events", "source": "Daily hassles and uplifts research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it really better to remove bad things than add good ones?",
+      "answer": "Often, yes — but it's a tilt, not an absolute. Because negative experiences tend to carry more psychological weight than comparable positive ones, reducing recurring hassles is frequently high-leverage. You still need positives, though; you can't subtract your way to a good life. The point is where to spend limited effort first."
+    },
+    {
+      "question": "What is 'bad is stronger than good'?",
+      "answer": "It's the conclusion of a 2001 review by Baumeister and colleagues: across many domains, negative events, emotions, and feedback tend to have a larger and longer-lasting impact than equivalent positive ones. A criticism stings more than a compliment soothes. It's a broad pattern, not a precise law."
+    },
+    {
+      "question": "Why don't I notice when a bad thing is removed?",
+      "answer": "Because the absence of an irritation is silent. When a recurring stressor disappears, there's no event to celebrate, so people rarely credit it for the improvement. That's part of why removing negatives is underrated even when, by the evidence, it did more than adding a positive would have."
+    },
+    {
+      "question": "Does this mean I should stop seeking enjoyable things?",
+      "answer": "No. Positives clearly contribute to wellbeing and help offset the heavier negatives. The research argues for doing both while giving the negative side more attention than intuition suggests — not for abandoning enjoyment. Both levers work; the negative one is just usually larger."
+    },
+    {
+      "question": "Are small daily annoyances really worth fixing?",
+      "answer": "The daily-hassles research suggests yes. Minor stressors that repeat can predict wellbeing at least as well as major life events, because their frequency compounds even though any single instance is small. The thing that feels too trivial to address is often exactly what's worth addressing."
+    }
+  ],
+  "dataSources": [
+    "Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad Is Stronger Than Good. Review of General Psychology, 5(4), 323–370.",
+    "Rozin, P., & Royzman, E. B. (2001). Negativity Bias, Negativity Dominance, and Contagion. Personality and Social Psychology Review, 5(4), 296–320.",
+    "Research on daily hassles and uplifts as predictors of wellbeing (Kanner, Lazarus, and colleagues)."
+  ],
+  "relatedInsights": [
+    "do-small-frequent-joys-beat-big-rare-ones",
+    "why-does-losing-hurt-more-than-winning-feels-good",
+    "what-small-things-actually-make-people-happier"
+  ],
+  "lastReviewed": "2026-06"
+}

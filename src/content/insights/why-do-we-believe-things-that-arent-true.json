@@ -1,0 +1,72 @@
+{
+  "title": "Why Do We Believe Things That Aren't True?",
+  "slug": "why-do-we-believe-things-that-arent-true",
+  "category": "comparison-and-self-perception",
+  "metaTitle": "Why Do We Believe Things That Aren't True?",
+  "metaDescription": "The brain is built for efficiency, not accuracy. What research on confirmation bias, the illusory truth effect, and motivated reasoning shows.",
+  "lifeArea": "Comparison & Self-Perception",
+  "keyFinding": "We believe false things because the brain is built mainly to predict and act efficiently rather than to track truth, so familiarity, fit with existing beliefs, and motivation routinely stand in for evidence.",
+  "honestAnswer": [
+    "We believe things that aren't true because the brain is, in large part, a prediction and efficiency machine rather than a truth machine. Its job is to act quickly and conserve effort, and for that it leans on shortcuts: things that are familiar, things that fit what we already believe, and things we want to be true. Most of the time these shortcuts are good enough — but they also reliably produce confident false beliefs.",
+    "This isn't mainly about intelligence or character. The biases that lead smart, careful people to hold inaccurate beliefs are built into normal cognition, and being clever can even make some of them worse, because a sharper mind is better at constructing reasons for what it already wants to think. The honest starting point is that everyone does this, including you and including the people you trust most."
+  ],
+  "whatDataShows": [
+    "One of the most robust findings is confirmation bias: people seek, notice, and remember information that fits their existing beliefs and tend to overlook or discount what contradicts them. Reviews of this literature (such as Raymond Nickerson's) describe it as pervasive and largely automatic — we don't usually decide to ignore disconfirming evidence; the filtering happens before we're aware of it. The result is that beliefs, once formed, tend to gather supporting evidence and resist correction.",
+    "Repetition alone can manufacture belief. The illusory truth effect — documented in research going back to Hasher, Goldstein and Toppino (1977) and replicated many times since — is the finding that statements feel more true simply because we've encountered them before. Familiarity gets mistaken for accuracy, and strikingly, the effect can occur even when people actually know better, which is part of why repeated false claims are so sticky.",
+    "We also reason in service of conclusions we're motivated to reach. Motivated reasoning research (associated with Ziva Kunda and others) finds that when we want something to be true, we apply easier standards of evidence to it and harder standards to what we'd rather reject — building a one-sided case while feeling like we're being fair. This sits inside a broader picture of the brain as a predictive system that fills gaps with expectations: useful for speed, but a recipe for confident error when the expectations are wrong."
+  ],
+  "whyItFeelsDifferent": [
+    "False beliefs don't feel false from the inside — that's the core of the problem. A belief produced by familiarity or motivated reasoning arrives with the same sense of obviousness and conviction as a well-evidenced one, because the brain doesn't tag where a belief came from. So 'it feels true' is not reliable evidence that it is, even though it's exactly what we tend to trust.",
+    "The shortcuts are also invisible while they operate. You don't experience yourself filtering out inconvenient facts or lowering your evidence bar for a comforting claim; you just experience arriving at a conclusion. Because the bias happens beneath awareness, the conclusion feels like the product of clear thinking rather than of a process tilted before you started.",
+    "And efficiency usually rewards the shortcut. For most of daily life, going with the familiar and the expected works fine and saves enormous effort, so the habit is constantly reinforced. The cases where it produces a serious false belief are a minority of a generally useful process — which is precisely why we don't notice the machinery and tend to over-trust it."
+  ],
+  "whatResearchSaysToDo": [
+    "The research consistently favours actively seeking disconfirming evidence over gathering more support. Because confirmation bias makes us collect what already fits, deliberately asking 'what would change my mind?' and 'what's the strongest case against this?' is one of the few moves that counteracts the default — though it takes effort and rarely feels natural.",
+    "Slowing down on important judgments helps, because many biases run on the fast, automatic system and recede when you engage slower, more deliberate thinking. Treating 'this feels obviously true' as a prompt to check rather than a conclusion — especially for claims you've heard many times or that you want to be true — guards against both the illusory truth effect and motivated reasoning.",
+    "Outsourcing some checking to other people and to good sources is realistic where self-correction is hard. Since it's difficult to catch your own biases from the inside, exposure to people who think differently and to reliable evidence does part of the work for you. Forewarning — simply knowing in advance about a specific bias — also has modest support as a way to reduce it."
+  ],
+  "whatDoesNotHelp": [
+    "Believing that bias is something only other people fall for is itself a documented trap (the 'bias blind spot'): people readily spot distortions in others while feeling clear-eyed about their own reasoning. Assuming you're the exception tends to make you more susceptible, not less.",
+    "Simply being told a claim is false often doesn't undo it, and sometimes backfires. Corrections can fail to dislodge a familiar belief, and merely repeating a myth in order to debunk it can increase its familiarity and therefore its felt truth. Loudly restating the false claim is one of the least effective ways to fight it.",
+    "More intelligence or more information is not a reliable fix on its own. Motivated reasoning research finds that greater cognitive ability can be turned toward defending existing beliefs more effectively, and more data gives confirmation bias more material to cherry-pick. Without the deliberate habit of seeking disconfirmation, raw brainpower and extra facts don't guarantee more accurate beliefs."
+  ],
+  "realNumbersInContext": [
+    "This is a topic where the honest evidence is about robust, repeatedly replicated effects rather than a single headline statistic, so it's worth saying plainly: there's no meaningful percentage for 'how often people believe false things.' What the research strongly supports is that confirmation bias, the illusory truth effect, and motivated reasoning are pervasive, normal, and largely automatic features of human cognition — found across education levels and intelligence.",
+    "The practical, non-numeric takeaway is that the feeling of certainty is not a reliable gauge of accuracy. Because the brain optimises for efficient prediction rather than truth, a belief can feel completely obvious and still be wrong — and that's the expected behaviour of a normal mind, not a sign of a defective one. The fact that this applies to everyone, including the most confident and the most informed, is itself the central finding."
+  ],
+  "faqs": [
+    {
+      "question": "Why does my brain believe things that aren't true?",
+      "answer": "Because it's built mainly to predict and act efficiently, not to track truth. It leans on shortcuts — familiarity, fit with existing beliefs, and motivation — that are usually good enough but reliably produce confident false beliefs. Most of the time the shortcuts serve you well, which is exactly why the machinery stays invisible and over-trusted."
+    },
+    {
+      "question": "What is the illusory truth effect?",
+      "answer": "It's the well-replicated finding that a statement feels more true simply because you've encountered it before. Familiarity gets mistaken for accuracy, and the effect can occur even when you actually know better — which is part of why repeated false claims are so hard to shake, and why repeating a myth to debunk it can backfire."
+    },
+    {
+      "question": "What is confirmation bias?",
+      "answer": "The pervasive, largely automatic tendency to seek, notice, and remember information that fits what you already believe while overlooking what contradicts it. You don't usually decide to do this — the filtering happens before awareness. It's a major reason beliefs gather supporting evidence and resist correction once formed."
+    },
+    {
+      "question": "Does being smart protect me from believing false things?",
+      "answer": "Not reliably, and it can sometimes make things worse. Motivated reasoning research finds that greater cognitive ability can be used to build a stronger case for what you already want to believe. More information similarly gives confirmation bias more to cherry-pick. The protective factor is the habit of seeking disconfirming evidence, not raw intelligence."
+    },
+    {
+      "question": "How can I tell if something I believe is actually true?",
+      "answer": "Treat the feeling of certainty as a prompt to check rather than proof, especially for claims you've heard many times or want to be true. Ask 'what would change my mind?' and seek the strongest case against your view. Slowing down on important judgments and exposing yourself to people who think differently does part of the work your own biases can't."
+    }
+  ],
+  "dataSources": [
+    "Nickerson, R. S. (1998). Confirmation Bias: A Ubiquitous Phenomenon in Many Guises. Review of General Psychology, 2(2), 175–220.",
+    "Hasher, L., Goldstein, D., & Toppino, T. (1977). Frequency and the conference of referential validity (the illusory truth effect). Journal of Verbal Learning and Verbal Behavior, 16(1), 107–112.",
+    "Kunda, Z. (1990). The Case for Motivated Reasoning. Psychological Bulletin, 108(3), 480–498.",
+    "Pronin, E., Lin, D. Y., & Ross, L. (2002). The Bias Blind Spot: Perceptions of Bias in Self Versus Others. Personality and Social Psychology Bulletin, 28(3), 369–381.",
+    "Kahneman, D. (2011). Thinking, Fast and Slow (dual-process reasoning and cognitive biases)."
+  ],
+  "relatedInsights": [
+    "why-does-losing-hurt-more-than-winning-feels-good",
+    "do-we-decide-things-or-just-justify-them-after",
+    "do-we-want-to-be-understood-or-just-agreed-with"
+  ],
+  "lastReviewed": "2026-06"
+}

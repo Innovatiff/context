@@ -1,0 +1,72 @@
+{
+  "title": "Do We Decide Things or Just Justify Them After?",
+  "slug": "do-we-decide-things-or-just-justify-them-after",
+  "category": "regret-and-life-decisions",
+  "metaTitle": "Do We Decide Things or Just Justify Them After?",
+  "metaDescription": "We construct reasons after the fact far more than we think. Here is what research on rationalization, confabulation, and intuition actually shows.",
+  "lifeArea": "Regret & Life Decisions",
+  "keyFinding": "We make many decisions through fast intuition and then build reasons for them afterward, and research on rationalization, choice-supportive memory, and confabulation shows the after-the-fact story is far more active than we realise — though this does not mean reasoning is powerless.",
+  "honestAnswer": [
+    "Often both, in that order. A large body of psychology suggests that for many decisions, a fast, intuitive response comes first and the careful-sounding reasons arrive afterward — less as the cause of the choice than as its explanation. We are reliably better at justifying what we've decided than we are at watching ourselves decide.",
+    "This does not mean reasoning never drives anything or that we are pure rationalisers. Deliberate thought clearly shapes some decisions, especially slow, consequential, well-structured ones. The honest takeaway is narrower and more unsettling: the confident story you tell about why you chose something is partly constructed after the fact, and you usually can't feel the seam where genuine reason ends and tidy justification begins."
+  ],
+  "whatDataShows": [
+    "Jonathan Haidt's influential metaphor frames intuition as an elephant and reasoning as the rider. The elephant — fast, emotional, automatic — moves first, and the rider mostly explains and rationalises where the elephant was already going. In his studies of moral judgment, people frequently reached a firm verdict instantly and then struggled to produce reasons, sometimes ending up \"morally dumbfounded\" — certain of the judgment, unable to justify it, and unwilling to drop it. The reasoning looked more like a press secretary defending a decision already made than the decision-maker itself.",
+    "The most striking evidence comes from confabulation. Michael Gazzaniga's work with split-brain patients — whose brain hemispheres had been surgically separated — showed that when one hemisphere acted on information the verbal hemisphere couldn't see, the verbal side smoothly invented a plausible reason for the behaviour and reported it with full confidence, unaware it was making the reason up. Gazzaniga called this explanatory system \"the interpreter.\" It suggests the mind has a standing tendency to generate after-the-fact narratives for actions whose real causes it cannot access.",
+    "Memory then keeps the story flattering. \"Choice-supportive\" memory bias is the tendency, once we've chosen, to remember the chosen option more favourably and the rejected ones more poorly than we did at the time. So even our recollection of the decision quietly shifts to support the choice, making the post-hoc reasons feel like they were there all along. The size and robustness of this specific effect have been debated, so treat it as a real but contested tendency rather than an iron law."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like we reason first because the reasons are all we can see. The intuitive process runs below awareness; what reaches consciousness is the conclusion plus the justification, arriving together and feeling like cause and effect. You experience the verdict as the output of the argument, even when the argument was assembled to fit the verdict.",
+    "Justification is also genuinely useful, which disguises it. We are social creatures who have to explain ourselves to others, and a coherent reason is what we offer — and come to believe. The story isn't usually a deliberate lie; the interpreter produces it sincerely, which is exactly why it's so convincing from the inside.",
+    "And consistency feels good. Once we've acted, there's pressure to see the choice as sensible and ourselves as the kind of person who chooses well, so the mind tidies the account toward \"of course I did, here's why.\" That pull toward a consistent self-story is part of what makes after-the-fact reasoning feel like it was there before we acted."
+  ],
+  "whatResearchSaysToDo": [
+    "If the worry is that your reasons are partly retrofitted, the most useful move is to commit your reasoning to the record before you act, not after. Writing down what you expect and why ahead of a decision gives you an account the interpreter can't quietly rewrite, and lets you compare your real prior reasoning to the story you'd later tell. This is the logic behind decision journals and pre-mortems.",
+    "Slowing deliberate, structured decisions down also helps, because the press-secretary effect is strongest when a fast verdict has already locked in. For consequential choices, deliberately generating the case for the option you didn't pick — and seeking people who'll argue against you — counteracts the tendency to assemble reasons only for where intuition already pointed.",
+    "At the same time, the research does not say to distrust intuition wholesale. In familiar domains with quick, reliable feedback, fast judgments can be well-calibrated. The practical stance is to notice which kind of decision you're in: trust the elephant more where you have real, tested experience, and lean on slow checks and pre-commitment where you don't."
+  ],
+  "whatDoesNotHelp": [
+    "Simply asking yourself \"why did I really choose this?\" after the fact does not reliably surface the true cause, because the interpreter answers fluently and confidently with a constructed reason. Introspection feels like reading off a record, but for many decisions there is no accessible record to read — so the answer can be a fresh justification rather than a recovered fact.",
+    "Demanding a fully logical reason for every choice doesn't fix the problem either; it often just makes the rationalisation more elaborate. People pressed to justify gut judgments can produce more polished reasons without the underlying decision being any more deliberate, and in some cases over-analysing intuitive choices degrades rather than improves them.",
+    "Assuming the cynical extreme — that reasoning is pure theatre and only instinct matters — is also unsupported. Deliberate thought genuinely changes some decisions, especially slow, high-stakes ones, and people can learn to catch their own rationalisations. The evidence points to \"reasoning is more retrospective than it feels,\" not \"reasoning does nothing.\""
+  ],
+  "realNumbersInContext": [
+    "This is a topic where the honest currency is experiments and case findings, not population statistics, and it's worth saying so rather than inventing a figure. The split-brain confabulation results come from a small number of rare patients, which makes them vivid and theoretically important but limited as a basis for precise quantification. They demonstrate that the explaining-self can fabricate reasons confidently; they don't tell you what share of everyday decisions work that way.",
+    "Likewise, the moral-dumbfounding and choice-supportive-memory findings establish that the patterns exist and recur, not a clean percentage of decisions that are \"really\" post-hoc. Choice-supportive memory in particular has faced methodological challenges and partial replication concerns, so it belongs in the \"real but contested\" column. The defensible summary is qualitative: after-the-fact justification is a substantial, well-documented part of how we account for our choices — larger than it feels — without a trustworthy number attached."
+  ],
+  "faqs": [
+    {
+      "question": "So are all our reasons just made up afterward?",
+      "answer": "No. The research suggests after-the-fact justification is a much bigger part of decision-making than it feels, especially for fast, intuitive, or emotionally charged choices. But deliberate reasoning genuinely shapes some decisions, particularly slow, high-stakes, well-structured ones. The claim is that reasoning is more retrospective than we assume, not that it does nothing."
+    },
+    {
+      "question": "What is confabulation?",
+      "answer": "Confabulation is confidently producing a false explanation for your own behaviour without realising you're inventing it. Gazzaniga's split-brain studies showed the verbal hemisphere smoothly fabricating reasons for actions driven by information it couldn't access — evidence that the mind has a standing tendency to generate plausible after-the-fact stories for its own actions."
+    },
+    {
+      "question": "What is the 'elephant and rider'?",
+      "answer": "It's Jonathan Haidt's metaphor: intuition is a large elephant that moves first, and reasoning is the rider who mostly explains and justifies where the elephant was already heading. In his moral-judgment studies, people often reached instant verdicts and then scrambled for reasons — reasoning acting more like a press secretary than a decision-maker."
+    },
+    {
+      "question": "Can I tell when I'm rationalizing versus actually reasoning?",
+      "answer": "Usually not from the inside, because the justification arrives feeling exactly like genuine reasoning. The more reliable approach is external: write down your reasoning before you decide so it can't be quietly rewritten, deliberately argue the case against your choice, and invite people who'll push back."
+    },
+    {
+      "question": "Does this mean I shouldn't trust my gut?",
+      "answer": "Not exactly. In familiar areas with quick, reliable feedback, intuition can be well-calibrated. The useful habit is to notice which kind of decision you're in — trust the gut more where you have real, tested experience, and lean on slow checks and pre-commitment where the stakes are high or the territory is unfamiliar."
+    }
+  ],
+  "dataSources": [
+    "Haidt, J. (2001). The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment. Psychological Review, 108(4), 814–834.",
+    "Haidt, J. (2012). The Righteous Mind: Why Good People Are Divided by Politics and Religion. Pantheon.",
+    "Gazzaniga, M. S. (2011). Who's in Charge? Free Will and the Science of the Brain. Ecco. (The 'interpreter' and split-brain confabulation.)",
+    "Nisbett, R. E., & Wilson, T. D. (1977). Telling More Than We Can Know: Verbal Reports on Mental Processes. Psychological Review, 84(3), 231–259.",
+    "Mather, M., & Johnson, M. K. (2000). Choice-supportive source monitoring. Psychology and Aging, 15(4), 596–606. (Choice-supportive memory bias; effect later debated.)"
+  ],
+  "relatedInsights": [
+    "why-do-we-believe-things-that-arent-true",
+    "can-you-change-the-story-you-tell-about-your-life",
+    "how-much-time-do-we-waste-deciding-what-to-do"
+  ],
+  "lastReviewed": "2026-06"
+}
