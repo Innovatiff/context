@@ -1,0 +1,72 @@
+{
+  "title": "Does Blue Light Actually Harm You?",
+  "slug": "does-blue-light-actually-harm-you",
+  "category": "technology-and-attention",
+  "metaTitle": "Does Blue Light Actually Harm You?",
+  "metaDescription": "Fears that screen blue light damages your eyes are largely overstated, and blue-light glasses show little benefit in trials. The real sleep issue is timing.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "The widespread fear that screen blue light damages your eyes is not well supported, and blue-light-filtering glasses show little benefit in trials — the genuine sleep concern is driven by light timing and evening arousal, not by 'blue' light specifically.",
+  "honestAnswer": [
+    "Mostly no, at least not in the way the marketing implies. The idea that the blue light from phones and laptops damages your eyes or retinas is not well supported by evidence; the levels emitted by screens are far below what causes harm in laboratory studies. Blue-light-filtering glasses, sold heavily to prevent eye strain and protect sleep, have performed poorly in controlled trials.",
+    "There is a real effect underneath the hype, but it has been mislabelled. Light in the evening — particularly bright light close to bedtime — can suppress melatonin and delay sleep, and screens contribute to this. But the driver is the brightness and timing of the light plus how mentally engaging the device is, not some special property of the 'blue' wavelength on a typical screen. This is educational information, not medical advice; if you have persistent eye discomfort or sleep problems, see a qualified clinician.",
+    "So the honest position is that blue light is a weak villain. The screens-before-bed problem is genuine, but it is better explained by light exposure and what you are doing on the device than by the colour temperature of the pixels."
+  ],
+  "whatDataShows": [
+    "On eye damage, the evidence is reassuring. Reviews by eye-care bodies, including the American Academy of Ophthalmology, have concluded that there is no good evidence that the blue light from digital screens damages the eyes, and that it does not cause the condition many people fear. Digital eye strain — dryness, tired eyes, headaches — is real, but it is attributed mainly to reduced blinking, prolonged focusing, and screen ergonomics, not to blue light.",
+    "On the glasses specifically, controlled research has been unimpressive. A 2023 Cochrane systematic review of blue-light-filtering spectacle lenses found little to no evidence that they reduce eye strain with computer use, and uncertain effects on sleep quality and on protecting the retina. When a product is tested rigorously against a control and the benefit largely disappears, that is a meaningful signal.",
+    "On sleep, the underlying biology is real but the framing is off. Evening light exposure can shift circadian timing and suppress melatonin, and short-wavelength (bluer) light is more potent at this per unit of intensity. But on real devices at normal brightness, total light level, how close the screen is, and how stimulating the content is appear to matter at least as much as colour temperature — and several studies of 'night mode' colour-shifting features have found small or inconsistent effects on actual sleep."
+  ],
+  "whyItFeelsDifferent": [
+    "The blue-light story is compelling because it offers a single, physical, purchasable culprit. 'A specific wavelength is harming you, and this $30 pair of glasses blocks it' is a far more satisfying explanation than 'the brightness, the lateness, and the fact that you're answering email in bed all interact in messy ways.' The simpler story spread faster, helped along by a large market with an incentive to promote it.",
+    "It also feels true because the screens-before-bed effect is genuinely felt — people do sleep worse after a stimulating late-night scroll. The mistake is attributing that real experience to the wrong cause. When the effect is real but the named mechanism is wrong, the belief is hard to dislodge, because every bad night seems to confirm it.",
+    "And eye strain is real and common, which lends the whole package credibility. Because tired, dry eyes after a long screen day are an authentic experience, a product that claims to fix them by filtering blue light feels plausible — even though the strain comes mostly from how we use screens, not from their colour."
+  ],
+  "whatResearchSaysToDo": [
+    "For sleep, the better-supported levers are timing and dimness, not colour. Reducing bright light exposure in the hour or two before bed, lowering screen brightness, and keeping the device farther from your face address the actual mechanism more directly than a blue-light filter. The most consistent advice in the sleep literature is about light intensity and the wind-down, not wavelength.",
+    "For eye strain, ergonomics and breaks have better evidence than glasses. The commonly cited '20-20-20' habit — looking at something far away periodically — plus consciously blinking, adjusting screen distance, and managing glare target the documented causes of digital eye strain. Lubricating eye drops help some people with dryness.",
+    "And it is worth separating the device problem from the light problem. Much of why screens hurt sleep is that they are engaging — messages, feeds, cliffhangers keep the mind aroused past the point of winding down. Addressing what you do on the screen late at night tends to matter more than the optics of the screen itself. For persistent issues, a clinician's assessment beats a consumer gadget."
+  ],
+  "whatDoesNotHelp": [
+    "Buying blue-light glasses to prevent eye damage or fix sleep is not well supported. The best controlled evidence to date — including the 2023 Cochrane review — finds little benefit for eye strain and uncertain benefit for sleep, so the spend mostly buys reassurance rather than a measured effect.",
+    "Relying on 'night mode' colour-shifting as a sleep solution while keeping the screen bright, close, and stimulating misses the point. Studies of these features show small and inconsistent effects, because they change the colour but not the brightness, proximity, or arousal that drive the actual problem.",
+    "Worrying about blue light specifically can also distract from the changes that work. If the goal is better sleep, time spent fretting about wavelengths is time not spent on the better-evidenced moves — dimming, an earlier cut-off, and a less stimulating wind-down."
+  ],
+  "realNumbersInContext": [
+    "The screen-damage fear outruns the evidence: major eye-care organizations, including the American Academy of Ophthalmology, state there is no good evidence that screen blue light damages the eyes, and the light levels from devices are a tiny fraction of what causes retinal harm in lab studies. Digital eye strain is common but is attributed to use patterns — reduced blinking, sustained focus, glare — rather than to blue light.",
+    "On the glasses, the 2023 Cochrane systematic review of blue-light-filtering lenses found little to no short-term effect on eye strain with computer use and could not confirm benefits for sleep or eye health. On sleep more broadly, evening light can suppress melatonin and delay the body clock — that part is genuine — but on real devices the brightness, the timing, and how engaging the content is appear to matter at least as much as the 'blue' component, which is why colour-shifting night modes show only small and inconsistent effects."
+  ],
+  "faqs": [
+    {
+      "question": "Does blue light from screens damage your eyes?",
+      "answer": "There is no good evidence that it does. Eye-care bodies such as the American Academy of Ophthalmology have concluded that screen blue light does not damage the eyes; the levels are far below what causes harm in laboratory studies. Digital eye strain is real but comes from how we use screens — reduced blinking, sustained focus, glare — not from blue light."
+    },
+    {
+      "question": "Do blue-light glasses actually work?",
+      "answer": "The best controlled evidence is underwhelming. A 2023 Cochrane systematic review found little to no benefit for eye strain from computer use and uncertain effects on sleep and eye health. They are unlikely to harm you, but the measured benefit is weak, and the marketing claims run well ahead of the data."
+    },
+    {
+      "question": "If blue light isn't the problem, why do screens hurt my sleep?",
+      "answer": "Evening light can suppress melatonin and delay your body clock, but the main drivers are how bright the light is, how late and close it is, and how mentally engaging the device is — not the specific blue wavelength. That is why night-mode colour shifting, which changes colour but not brightness or arousal, tends to show small and inconsistent effects."
+    },
+    {
+      "question": "Is night mode worth using?",
+      "answer": "It probably won't hurt, but don't rely on it alone. Studies of colour-shifting modes find modest, inconsistent effects on sleep, because they leave brightness, screen proximity, and stimulating content unchanged. Dimming the screen, using it earlier, and winding down with something less engaging have better support."
+    },
+    {
+      "question": "What actually helps with tired, strained eyes from screens?",
+      "answer": "Habits beat gadgets here. Taking regular breaks to look at something far away, blinking deliberately, adjusting screen distance and glare, and using lubricating drops for dryness target the documented causes of digital eye strain. If discomfort is persistent, this is educational only — see an eye-care professional rather than self-treating."
+    }
+  ],
+  "dataSources": [
+    "Singh, S., et al. (2023). Blue-light filtering spectacle lenses for visual performance, sleep, and macular health in adults. Cochrane Database of Systematic Reviews.",
+    "American Academy of Ophthalmology — guidance on blue light, digital devices, and digital eye strain.",
+    "Research on evening light exposure, melatonin suppression, and circadian timing (peer-reviewed sleep literature).",
+    "Studies evaluating device 'night mode' / colour-temperature shifting and sleep outcomes."
+  ],
+  "relatedInsights": [
+    "do-screens-before-bed-actually-ruin-your-sleep",
+    "does-the-internet-make-us-smarter-or-dumber",
+    "why-cant-we-stop-checking-our-phones"
+  ],
+  "lastReviewed": "2026-06"
+}

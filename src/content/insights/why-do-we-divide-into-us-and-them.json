@@ -1,0 +1,77 @@
+{
+  "title": "Why Do We Divide Into Us and Them?",
+  "slug": "why-do-we-divide-into-us-and-them",
+  "category": "society-and-belonging",
+  "metaTitle": "Why Do We Divide Into Us and Them? The Research",
+  "metaDescription": "In-group favoritism forms remarkably easily, but it isn't fixed. Here is what social identity research shows about us-and-them thinking — and what shifts it.",
+  "lifeArea": "Society & Belonging",
+  "keyFinding": "Dividing into in-groups and out-groups is a default tendency that can form on almost any basis, but research suggests these lines are flexible and depend heavily on which identities a situation makes salient.",
+  "honestAnswer": [
+    "We sort ourselves into \"us\" and \"them\" because group membership is one of the main ways people understand who they are, and the mind appears primed to do this quickly and on very little. Experiments show that people will favour their own group even when the groups were created moments earlier on a trivial, meaningless basis. The tendency is a default, not a sign that a particular division is deep or permanent.",
+    "But the same research that shows how easily these lines form also shows how movable they are. Which \"us\" feels relevant changes with the situation: people who are rivals in one frame become teammates in a wider one. So the honest summary is that us-and-them thinking is a built-in starting point, not a fixed destiny — its content depends heavily on which identity a moment makes salient."
+  ],
+  "whatDataShows": [
+    "The foundational work is Henri Tajfel and John Turner's social identity theory, developed through the 1970s and 1980s. It proposes that part of our self-concept comes from the groups we belong to, and that we are motivated to see those groups — and therefore ourselves — favourably. This gives a reason for in-group favouritism that does not require the out-group to have done anything at all.",
+    "The striking evidence is the minimal group paradigm. Tajfel and colleagues assigned people to groups on arbitrary grounds — a coin flip, or a meaningless preference between two painters — with no contact, no shared interest, and no conflict. Even so, participants tended to allocate more rewards to anonymous members of their own group than to the other. The finding suggests that mere categorisation into a group can be enough to trigger in-group favouritism, before any real stakes exist.",
+    "Crucially, the research also documents how malleable the line is. Studies on what psychologists call recategorisation find that when people are encouraged to see a shared, larger group identity, favouritism toward the narrow in-group tends to soften. And the famous Robbers Cave field study (Sherif and colleagues, 1950s) found that hostility between two boys' groups, which formed quickly under competition, eased when the groups had to cooperate on shared goals neither could reach alone. Division forms easily, but it is not the only stable state."
+  ],
+  "whyItFeelsDifferent": [
+    "Us-and-them thinking rarely feels like a general tendency we all share. From the inside, it feels like a specific, justified judgement about a specific other group — as if the division reflects something real and important about them, rather than a process that would have attached to almost any line drawn. The minimal group findings are unsettling precisely because they suggest the machinery runs on very little.",
+    "It also feels different because the groups we belong to feel like facts about the world rather than chosen lenses. In reality, each of us belongs to many overlapping groups at once, and which one feels like \"us\" shifts constantly with context. The same person can be a rival, a neighbour, a colleague, and a compatriot depending on the frame — but only one of those usually feels salient at a time.",
+    "And once a division is in place, ordinary mental habits harden it: we tend to notice information that confirms our view of the out-group, remember its worst examples, and assume its members are more alike each other than our own group is. None of this requires malice; it is the same pattern-finding mind applied to people, which is part of why us-and-them framing can feel so self-evidently correct from within it."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistently supported route to softening out-group bias is contact under the right conditions. Gordon Allport's contact hypothesis, supported by a large later meta-analysis by Pettigrew and Tropp (2006), suggests that contact between groups tends to reduce prejudice — and works best when the groups share goals, cooperate as equals, and have some institutional support, rather than merely being near one another.",
+    "Reframing the boundary helps too. Research on the common in-group identity model finds that encouraging people to see a shared, more inclusive \"us\" — without erasing their original identities — tends to reduce favouritism toward the narrow group. Robbers Cave pointed the same way: superordinate goals that required cooperation did more to ease hostility than appeals or contact alone.",
+    "On an individual level, simply noticing how easily the mind sorts people into groups — and how arbitrary the basis often is — is a reasonable starting point. The research does not promise that awareness erases bias, but treating an us-and-them feeling as a default reaction to be examined, rather than a verdict to be trusted, is consistent with what the studies show about how flexible these lines are."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming that only certain kinds of people fall into us-and-them thinking does not help and is not what the evidence shows. The minimal group studies found the tendency in ordinary participants on meaningless distinctions, which suggests it is a broad human default rather than a trait of a particular group of people.",
+    "Mere proximity without the supporting conditions is unreliable. The contact research is clear that simply putting groups near each other, especially under competition or inequality, can fail to reduce prejudice and can even harden it. Contact that reduces bias tends to involve cooperation toward shared goals on roughly equal footing.",
+    "Trying to dissolve all group identity is neither realistic nor what the research recommends. Group belonging is a normal and valued part of how people find meaning and support. The evidence points toward widening or adding a shared identity rather than demanding people abandon the groups they care about — the latter tends to provoke defensiveness rather than openness."
+  ],
+  "realNumbersInContext": [
+    "There is no clean percentage for how often people divide into us and them, because the tendency shows up as a pattern across many experiments rather than a single rate. What the minimal group studies establish is a direction: assignment to a group on a trivial basis, with no contact or conflict, was enough to produce reliably more favourable treatment of the in-group. The size of the effect varies, and it does not appear in every individual or every study, so it is best read as a strong default rather than a universal law.",
+    "On the malleability side, Pettigrew and Tropp's 2006 meta-analysis pooled hundreds of studies of intergroup contact and found a modest but consistent association between contact and reduced prejudice, stronger where the contact met conditions like cooperation and equal status. As with most social-psychology findings, the effects are real and replicated but moderate in size — useful evidence about direction, not a guarantee about any single situation."
+  ],
+  "realNumbers": [
+    { "value": "Trivial basis", "label": "Mere categorisation into a group can trigger in-group favouritism", "source": "Minimal group paradigm, Tajfel et al." },
+    { "value": "Shared goals", "label": "Cooperation on common goals eased group hostility at Robbers Cave", "source": "Sherif et al., 1950s" },
+    { "value": "100s of studies", "label": "Intergroup contact studies pooled showing reduced prejudice", "source": "Pettigrew & Tropp, 2006" }
+  ],
+  "faqs": [
+    {
+      "question": "Is dividing into us and them natural or learned?",
+      "answer": "The research suggests it is a strong default: in the minimal group paradigm, people favoured their own group even when it was formed seconds earlier on a meaningless basis. But the same studies show the lines are flexible and depend on which identity a situation makes salient, so it is better described as an easily triggered tendency than a fixed instinct toward any particular division."
+    },
+    {
+      "question": "What is the minimal group paradigm?",
+      "answer": "It is a set of experiments by Tajfel and colleagues in which people were sorted into groups on arbitrary grounds — a coin flip or a trivial preference — with no contact or conflict. Even so, participants tended to allocate more to their own group than the other, suggesting that categorisation alone can be enough to start in-group favouritism."
+    },
+    {
+      "question": "Does this explain political or social division?",
+      "answer": "Social identity research describes a general tendency to favour in-groups, which can attach to many kinds of group, including political ones. But the same research stresses how context-dependent and malleable these lines are, so it is a lens for understanding the mechanism rather than a verdict on any specific group or side. We stay neutral on the particular divisions themselves."
+    },
+    {
+      "question": "Can us-and-them thinking be reduced?",
+      "answer": "The evidence points to a few levers. Contact under the right conditions — cooperation, equal status, shared goals — is associated with reduced prejudice in a large meta-analysis (Pettigrew & Tropp, 2006). Encouraging a shared, more inclusive identity without erasing the original one also tends to soften favouritism, as the Robbers Cave study illustrated."
+    },
+    {
+      "question": "Why do out-groups seem more alike to us than our own group?",
+      "answer": "This is a well-documented pattern often called the out-group homogeneity effect: we tend to see members of other groups as more similar to one another than members of our own. It is part of the ordinary pattern-finding mind applied to people, and it is one reason us-and-them framing can feel more accurate from within than it is."
+    }
+  ],
+  "dataSources": [
+    "Tajfel, H., & Turner, J. C. (1979/1986). An integrative theory of intergroup conflict / The social identity theory of intergroup behavior.",
+    "Tajfel, H. (1970). Experiments in intergroup discrimination. Scientific American, 223(5), 96–102.",
+    "Sherif, M., et al. (1961). Intergroup Conflict and Cooperation: The Robbers Cave Experiment.",
+    "Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. Journal of Personality and Social Psychology, 90(5), 751–783.",
+    "Allport, G. W. (1954). The Nature of Prejudice."
+  ],
+  "relatedInsights": [
+    "why-do-we-need-to-feel-part-of-a-group",
+    "are-we-more-divided-than-we-used-to-be",
+    "why-do-we-conform-to-the-group"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Does Having Your Phone Nearby Distract You?",
+  "slug": "does-having-your-phone-nearby-distract-you",
+  "category": "technology-and-attention",
+  "metaTitle": "Does Having Your Phone Nearby Distract You? The Research",
+  "metaDescription": "Research on smartphone 'brain drain' suggests the mere presence of your phone can reduce focus even when it's off. Here is the honest picture.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "Some research suggests the mere presence of your smartphone can reduce available attention even when it is silent and face-down, because a small part of your focus stays reserved for it — though the size of the effect is uncertain and contested.",
+  "honestAnswer": [
+    "There is suggestive evidence that simply having your phone within reach can shave a little off your available attention — even when it is switched off, face-down, and you are not using it. The proposed reason is that resisting the urge to check it, or merely knowing it is there, occupies a sliver of mental capacity that would otherwise be free for the task in front of you.",
+    "The honest caveat is that this is a real but modest and not-fully-settled finding. The headline version — 'your phone makes you dumber just by being on the desk' — overstates a careful result. The more accurate statement is that the phone's presence can be a low-grade drain on focus for some people in some tasks, and that the effect, where it exists, appears small rather than dramatic."
+  ],
+  "whatDataShows": [
+    "The most cited source is Adrian Ward and colleagues' 2017 study, often called 'Brain Drain,' published in the Journal of the Association for Consumer Research. Across experiments, participants who had their phones on the desk performed slightly worse on tasks measuring working memory and fluid intelligence than those whose phones were in another room — even though the phones were powered off or silenced. The authors proposed that the mere presence of the phone consumes 'attentional resources' because part of the mind is engaged in not attending to it.",
+    "The effect in that work was statistically detectable but modest, and it was largest for people who reported being most dependent on their phones. This is the pattern to keep in mind: an average small effect that varies a lot between individuals, rather than a uniform penalty everyone pays equally.",
+    "Replication has been mixed, which matters. Some later studies found similar mere-presence effects; others failed to reproduce them or found them only under particular conditions. The broader literature on attention is clearer that actually using or being interrupted by a phone harms performance; the specific claim that a silent, unused phone meaningfully drains capacity is plausible and supported, but should be held as a tentative finding rather than an established law."
+  ],
+  "whyItFeelsDifferent": [
+    "The effect is easy to dismiss because you do not feel it happening. There is no moment of distraction to notice — the phone is dark and still, you are working, and any small cost to your focus is invisible from the inside. We tend to believe we are concentrating fully right up until something measurable says otherwise.",
+    "We also overestimate our control over attention. Most people are confident they can ignore an unused phone completely, and subjectively that feels true. But the proposed mechanism is automatic and below awareness — a small reservation of attention you cannot introspect on — which is exactly why a lab measure can pick up something that self-report misses.",
+    "And the phone is unlike other objects on the desk. It is a gateway to nearly everything you might want or worry about, so even at rest it carries a pull that a stapler does not. The mind appears to treat it as relevant in a way that quietly competes for capacity, which is why proximity, not just use, may matter."
+  ],
+  "whatResearchSaysToDo": [
+    "If the effect is real for you, the simplest implication is physical distance during work that demands real concentration: putting the phone in another room, a bag, or a drawer rather than on the desk. In the Ward studies, separation by location — not merely silencing — was what tracked with better performance, which fits a mechanism driven by presence rather than alerts.",
+    "Because the effect is concentrated among more phone-dependent people, those who feel a strong, frequent pull to check are the ones most likely to benefit from removing the phone from sight. For tasks that do not need sustained focus, the cost is probably negligible and not worth fussing over.",
+    "More broadly, the well-established part of the research is unambiguous: actually checking or being interrupted by a phone clearly disrupts focused work. So reducing notifications and interruptions during deep tasks has stronger evidence behind it than the subtler mere-presence claim, and is worth doing regardless of how the presence debate resolves."
+  ],
+  "whatDoesNotHelp": [
+    "Leaving the phone face-down on the desk and trusting yourself to ignore it is the move the research most directly questions. Flipping it over removes the screen but not the presence, and the proposed drain comes from the phone being there at all — so face-down may do less than people assume.",
+    "Silencing notifications helps with interruptions but, on the mere-presence account, does not address the underlying pull, since the effect appeared even with phones off or silent. Silencing is useful, but it is not the same as removing the phone from the space.",
+    "Assuming the effect is large and panicking about every nearby phone is also unwarranted. The evidence supports a small, variable cost, not a dramatic one, and replication is mixed. Treating an unused phone on the table as a serious cognitive threat overstates what the data actually shows."
+  ],
+  "realNumbersInContext": [
+    "There is no single reliable number for how much a nearby phone costs your focus, and the honest reading is that any precise figure would overstate the certainty. What the research supports is a small average reduction in measures of working memory and fluid intelligence when the phone is present rather than in another room, with the effect largest for the most phone-dependent people and not consistently replicated.",
+    "Put in context, this sits at the subtle end of the attention literature. The strongly established findings concern active use and interruption, which clearly degrade performance. The mere-presence effect is a more delicate, contested addition to that picture — real enough to act on if focus matters to you, but not a settled, one-size-fits-all penalty. When in doubt, separation by distance is a low-cost hedge."
+  ],
+  "faqs": [
+    {
+      "question": "Does my phone distract me even when it's off?",
+      "answer": "Possibly, according to research on smartphone 'brain drain' (Ward et al., 2017), which found small reductions in attention-related performance when a phone was merely present versus in another room — even powered off. The effect was modest, largest for heavy phone users, and replication has been mixed, so treat it as suggestive rather than settled."
+    },
+    {
+      "question": "Is face-down on the desk good enough?",
+      "answer": "On the mere-presence account, probably not, because the proposed drain comes from the phone being there at all rather than from the screen being visible. The studies found benefits from separation by location — another room, a bag, a drawer — not just from flipping the phone over or silencing it."
+    },
+    {
+      "question": "How big is the effect?",
+      "answer": "Small, and uncertain. The original studies detected a statistically meaningful but modest reduction in working memory and fluid-intelligence measures, concentrated among more phone-dependent participants. Some later studies replicated it and others did not, so the honest answer is that it is a real-but-tentative, small effect, not a dramatic one."
+    },
+    {
+      "question": "Who is most affected?",
+      "answer": "The research suggests people who feel the strongest, most frequent urge to check their phones show the largest mere-presence effect. If an unused phone barely tugs at your attention, the cost is likely negligible; if it pulls at you constantly, removing it from sight is more likely to help."
+    },
+    {
+      "question": "What's the most reliable fix?",
+      "answer": "For the mere-presence concern, physical distance during demanding work — phone in another room or a bag. More broadly, the better-established finding is that active checking and interruptions harm focus, so reducing notifications during deep tasks has stronger evidence and is worth doing regardless."
+    }
+  ],
+  "dataSources": [
+    "Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research, 2(2), 140–154.",
+    "Wilmer, H. H., Sherman, L. E., & Chein, J. M. (2017). Smartphones and Cognition: A Review of Research Exploring the Links Between Mobile Technology Habits and Cognitive Functioning. Frontiers in Psychology, 8, 605."
+  ],
+  "relatedInsights": [
+    "how-much-time-do-distractions-actually-cost-us",
+    "why-cant-we-stop-checking-our-phones",
+    "does-multitasking-actually-work"
+  ],
+  "lastReviewed": "2026-06"
+}

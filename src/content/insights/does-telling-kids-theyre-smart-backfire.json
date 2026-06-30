@@ -1,0 +1,76 @@
+{
+  "title": "Does Telling Kids They're Smart Backfire?",
+  "slug": "does-telling-kids-theyre-smart-backfire",
+  "category": "parenting-and-family",
+  "metaTitle": "Does Telling Kids They're Smart Backfire? The Research",
+  "metaDescription": "Praising ability rather than effort can reduce persistence after failure in studies. The effect is real but modest and contested — here's the honest picture.",
+  "lifeArea": "Parenting & Family",
+  "keyFinding": "Experiments suggest praising a child's ability ('you're so smart') rather than their effort or process can reduce persistence and risk-taking after failure, but the effect is modest, sometimes hard to replicate, and far smaller than the broader 'self-esteem movement' once promised.",
+  "honestAnswer": [
+    "There is real evidence that the type of praise matters more than the amount. In a well-known line of experiments, children praised for ability after success ('you must be smart at this') later showed less persistence, avoided harder challenges, and coped worse with failure than children praised for effort or strategy ('you must have worked hard'). So 'you're so smart' can, in these studies, quietly backfire relative to praising what the child actually did.",
+    "But the honest framing is one of nuance, not alarm. The effect is modest, the 'mindset' research it connects to has been genuinely contested and has not always replicated at the size first reported, and none of this means a stray 'you're so clever' damages a child. The defensible takeaway is narrow and reassuring: praising effort, strategy, and choices tends to support persistence a little better than praising fixed ability, and it costs nothing to lean that way."
+  ],
+  "whatDataShows": [
+    "The foundational work is by Claudia Mueller and Carol Dweck (1998), who ran a series of experiments with schoolchildren. After children succeeded on a task, some were praised for intelligence and some for effort. The intelligence-praised children subsequently preferred easier tasks, showed less enjoyment and persistence after a later failure, and were even more likely to misreport their scores. The interpretation was that praising fixed ability teaches children that performance reflects an unchangeable trait, so failure feels like exposure rather than information.",
+    "This fed into Dweck's broader 'mindset' theory — the idea that believing ability can grow (a 'growth mindset') supports resilience and learning more than believing it is fixed. That theory became enormously popular, but it has also drawn serious scrutiny. Several large studies and meta-analyses have found the real-world effects of mindset interventions to be small, inconsistent, and concentrated in particular groups (such as lower-achieving or at-risk students), rather than the broad, large effect the popular version implied.",
+    "So the accurate summary has two parts. The specific, narrow finding — process praise tends to support persistence better than person praise — has reasonable experimental support and a plausible mechanism. The grander claims built on top of it, including parts of the 1990s self-esteem movement that assumed boosting how good children feel about themselves would lift achievement and behavior, have weak evidence; reviews repeatedly found self-esteem to be more a result of doing well than a cause of it."
+  ],
+  "whyItFeelsDifferent": [
+    "Praising a child's intelligence feels like the loving, encouraging thing to do — it is a compliment, and it lands well in the moment. The counterintuitive part is that the most flattering praise ('you're so smart') can carry a hidden message: that the child has a fixed quantity of ability that each task either confirms or threatens. The warmth is real; it is the framing that subtly raises the stakes of failure.",
+    "It also feels different because the downside is invisible at the time. A child glowing at being called smart shows no sign of the effect; it surfaces later, as a reluctance to attempt hard things or a fragility after setbacks. Cause and consequence are separated in time, so the link is easy to miss in everyday life even when it shows up cleanly in a controlled experiment.",
+    "And the surrounding culture overstates it in both directions. The self-esteem movement oversold the power of making children feel good about themselves; the backlash sometimes oversells the danger of any praise at all. The measured reality — a modest, specific advantage for praising process over fixed traits — is less dramatic than either story and therefore easy to lose."
+  ],
+  "whatResearchSaysToDo": [
+    "Aim praise at things the child controlled: effort, strategy, choices, persistence, and improvement. 'You kept trying different approaches' or 'you stuck with that even when it got hard' points the child toward what they can repeat, whereas 'you're so smart' points at a trait they can only have or lack. This process-praise pattern is the part of the research with the clearest support.",
+    "Frame setbacks as information rather than verdicts. The mechanism behind the backfire is that fixed-ability praise makes failure feel like a statement about the self. Treating a hard task or a mistake as part of learning — 'this one's tricky, that's how it's supposed to feel' — tends to support persistence better than protecting children from ever struggling.",
+    "Keep it honest and specific rather than inflated. Indiscriminate, exaggerated praise ('amazing! genius!') has little support and can ring hollow, especially as children get older and notice the gap between the praise and reality. Accurate, specific feedback about what was actually good is more useful than a constant stream of superlatives."
+  ],
+  "whatDoesNotHelp": [
+    "Praising raw intelligence or talent as a fixed trait is the specific thing the research flags: 'you're so smart' or 'you're a natural' tends, in the studies, to track slightly worse persistence after failure than praising effort. It is not damaging in any single instance, but as a default it is the less helpful pattern.",
+    "Trying to build self-esteem directly — heaping on praise and shielding children from any failure in the hope that feeling good will produce doing well — has weak evidence. Reviews of the self-esteem literature found that high self-esteem is mostly a consequence of competence and good relationships, not a lever that reliably produces them. Manufacturing it does not deliver the downstream benefits it was sold on.",
+    "Treating mindset as a guaranteed, large fix is also unsupported. The research on mindset interventions shows small and inconsistent effects, so framing process praise as a magic technique overstates it. It is a sensible, low-cost lean, not a transformation — and presenting it as more than that sets up disappointment."
+  ],
+  "realNumbersInContext": [
+    "This is a domain of careful, modest effects rather than big numbers, and that itself is the honest context. The original Mueller and Dweck experiments showed clear differences between intelligence-praised and effort-praised children within the studies, but they were controlled lab and classroom tasks, and the size of the real-world advantage from changing your praise is best described as small and supportive rather than dramatic.",
+    "The broader mindset literature reinforces the caution. Large-scale studies and meta-analyses have generally found that mindset interventions produce small average effects, sometimes near zero overall, with the clearer benefits concentrated among specific groups such as struggling or disadvantaged students. And the self-esteem movement, despite decades of enthusiasm, left little reliable evidence that boosting self-esteem improves achievement or behavior. The defensible claim is narrow: process praise beats person praise by a little, reliably enough to be worth doing."
+  ],
+  "realNumbers": [
+    { "value": "Process > person", "label": "Praising effort/strategy tends to support persistence better than praising ability", "source": "Mueller & Dweck, 1998" },
+    { "value": "Small", "label": "Average real-world effect of mindset interventions in large studies", "source": "Mindset intervention meta-analyses" },
+    { "value": "Weak", "label": "Evidence that boosting self-esteem directly improves achievement or behavior", "source": "Self-esteem literature reviews" }
+  ],
+  "faqs": [
+    {
+      "question": "Is it bad to tell my child they're smart?",
+      "answer": "No single 'you're so smart' will harm a child. The research suggests that as a default pattern, praising fixed ability tracks slightly worse persistence after failure than praising effort or strategy. It's a reason to lean toward process praise, not a reason to police every compliment."
+    },
+    {
+      "question": "What should I praise instead?",
+      "answer": "Aim at what the child controlled: effort, strategy, choices, persistence, and improvement. 'You kept trying different ways' points them toward something repeatable, while 'you're a genius' points at a trait that failure then seems to threaten. Keep it specific and honest rather than inflated."
+    },
+    {
+      "question": "Is the 'growth mindset' research solid?",
+      "answer": "The narrow finding — process praise supports persistence better than person praise — has reasonable support. The broader mindset theory is more contested: large studies and meta-analyses find small, inconsistent effects, often concentrated in struggling students, rather than the big, universal effect the popular version implied."
+    },
+    {
+      "question": "Didn't building self-esteem turn out not to work?",
+      "answer": "Largely, yes. The self-esteem movement assumed making children feel good about themselves would lift achievement and behavior, but reviews found self-esteem is mostly a result of doing well, not a cause of it. Manufacturing it with constant praise doesn't deliver the benefits it promised."
+    },
+    {
+      "question": "So how much does any of this actually matter?",
+      "answer": "Modestly. The effects are real but small, and the bigger picture — a warm, supportive relationship and honest feedback — matters more than the exact wording of praise. Leaning toward process praise is a sensible, low-cost habit, not a transformation."
+    }
+  ],
+  "dataSources": [
+    "Mueller, C. M., & Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. Journal of Personality and Social Psychology, 75(1), 33–52.",
+    "Dweck, C. S. — research on fixed vs. growth mindset and its educational applications.",
+    "Meta-analyses and large-scale studies evaluating the effects of mindset interventions (e.g. Sisk et al., 2018).",
+    "Baumeister, R. F., et al. (2003). Does High Self-Esteem Cause Better Performance, Interpersonal Success, Happiness, or Healthier Lifestyles? Psychological Science in the Public Interest, 4(1), 1–44."
+  ],
+  "relatedInsights": [
+    "is-there-a-best-way-to-parent",
+    "does-praise-or-criticism-improve-performance-more",
+    "does-confidence-help-you-learn-faster"
+  ],
+  "lastReviewed": "2026-06"
+}

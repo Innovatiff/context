@@ -1,0 +1,73 @@
+{
+  "title": "Why Do We Fall for Things We See Online?",
+  "slug": "why-do-we-fall-for-things-we-see-online",
+  "category": "technology-and-attention",
+  "metaTitle": "Why Do We Fall for Things We See Online?",
+  "metaDescription": "We fall for online misinformation through repetition, source confusion, and lazy reasoning more than bias — and we share faster than we check.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "We fall for online misinformation largely through ordinary mental shortcuts — repetition makes false claims feel true, we forget where we heard things, and we reason lazily rather than carefully — and on social platforms sharing tends to outrun any checking.",
+  "honestAnswer": [
+    "Mostly because believing is the brain's default and checking is the effortful exception. We don't fall for false things online because we are unusually gullible or because our 'side' has captured us; we fall for them because a few normal features of how memory and attention work are a poor match for an environment built around fast, repeated, decontextualized claims.",
+    "The research points to a handful of specific mechanisms. Repetition alone makes statements feel more true (the illusory truth effect). We remember claims but forget where we heard them, so a flimsy source loses its warning label over time. And a growing body of work suggests that susceptibility is driven more by failing to stop and think than by motivated, biased reasoning — people who pause to reflect are better at telling true from false regardless of their politics. On top of all this, sharing is faster and cheaper than verifying, so falsehoods spread before anyone checks."
+  ],
+  "whatDataShows": [
+    "Repetition is one of the most robust findings in the field. The illusory truth effect — that simply encountering a statement more than once makes it feel more accurate — has been demonstrated repeatedly since the late 1970s and shown to apply even to implausible claims and even when people know better. In a feed that surfaces the same claim again and again, familiarity quietly does the work of credibility.",
+    "Source memory is weaker than content memory. People routinely retain a claim while forgetting where it came from — sometimes misremembering a dubious source as a trustworthy one. The effect of a 'this is unreliable' warning fades faster than the claim it was attached to, so over time a thinly sourced assertion can detach from its origin and float free as something that just feels known.",
+    "Susceptibility looks more like laziness than bias. Work by Pennycook and Rand (for example, 2019 and 2021) argues that people who fall for fake news tend to be those who engage in less reflective, more intuitive thinking — and that analytic thinking predicts better truth discernment across the political spectrum, rather than simply reinforcing one's prior beliefs. They also find a striking gap between believing and sharing: people will share headlines they could have identified as false if asked, because the social context of sharing pulls attention toward engagement and away from accuracy.",
+    "And false content can travel faster than true content. A widely cited 2018 study (Vosoughi, Roy and Aral, in Science) of news cascades on Twitter found that false stories spread further and faster than true ones, plausibly because novelty and emotional charge drive sharing. The structure of the platform rewards what spreads, not what is accurate."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like the problem is other people — the gullible, the biased, the people on the other side — because we experience our own beliefs from the inside as obviously reasonable. But the mechanisms here are general human ones. The illusory truth effect and source forgetting operate on everyone; the question is only which claims happen to repeat in front of you.",
+    "It also feels like falling for misinformation must require strong motivation or ideology, when much of the evidence suggests the opposite. A lot of the time we are simply not thinking hard — scrolling quickly, half-attending, reacting. The 'lazy not biased' framing is uncomfortable precisely because it implicates ordinary inattention rather than a villain.",
+    "And the speed of sharing hides the gap between feeling and judgment. In a calm moment, asked directly, most people can tell a lot of false headlines from true ones. But the feed is not a calm moment; it nudges toward a quick reaction, and the share button is right there. So the same person who 'knows better' shares something they would have flagged if the question had been put to them plainly."
+  ],
+  "whatResearchSaysToDo": [
+    "The single most supported intervention is almost embarrassingly simple: pause and consider accuracy before reacting. Pennycook and Rand's 'accuracy nudge' studies find that briefly prompting people to think about whether a headline is true noticeably improves the quality of what they subsequently share — because the default failure is inattention to accuracy, not an inability to judge it.",
+    "Checking the source and the date, and reading past the headline, target the specific weaknesses in how we process online claims. Because source memory is fragile and repetition breeds false confidence, deliberately asking 'where is this actually from, and when?' reinserts the context the feed strips away. Lateral reading — opening a new tab to see what other sources say about a claim — is a habit professional fact-checkers use and that research supports.",
+    "'Prebunking' shows promise as well. Studies on inoculation — briefly exposing people to the techniques of manipulation before they encounter them in the wild — find it can build durable resistance to misleading content. Knowing the moves (emotional language, fake experts, decontextualized images) makes them easier to spot."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming this is only a problem for the biased or the uneducated does not help, and the evidence runs against it. Susceptibility tracks reflective thinking more than political alignment or intelligence, so 'smart people don't fall for it' is false comfort that mainly lowers your own guard.",
+    "Repeating a myth in order to debunk it can backfire if done carelessly, because the repetition itself feeds the illusory truth effect and the correction may fade faster than the false claim. Effective corrections lead with the truth and attach a clear, memorable explanation, rather than amplifying the falsehood while swatting at it.",
+    "Trying harder to spot bias in others while skipping the simple accuracy check on yourself misses where the leverage is. The research suggests the highest-value move is the boring one — slowing down before you share — not constructing elaborate theories about who is being manipulated."
+  ],
+  "realNumbersInContext": [
+    "The mechanisms are well established even where exact magnitudes vary. The illusory truth effect — repetition raising perceived accuracy — has replicated across decades and even applies to claims people can recognize as questionable. The believe-versus-share gap is large in studies: people frequently share content they could have flagged as false if asked directly, which is why accuracy nudges, by simply redirecting attention, produce measurable improvements.",
+    "On spread, the 2018 Science study of Twitter cascades found false news reaching more people and spreading faster than true news, with novelty and emotional content the likely drivers. Treat any single percentage with caution — this is an active, evolving field — but the qualitative pattern is consistent: repetition builds belief, sources are forgotten, reflection helps, and the platform rewards spread over accuracy."
+  ],
+  "faqs": [
+    {
+      "question": "Why do false things online feel true after a while?",
+      "answer": "This is the illusory truth effect: simply seeing a statement more than once makes it feel more accurate, even when it's implausible and even when you know better. In a feed that surfaces the same claim repeatedly, familiarity quietly stands in for credibility. It is one of the most replicated findings in the field."
+    },
+    {
+      "question": "Do people fall for misinformation because of bias or political loyalty?",
+      "answer": "Less than you'd think. Research by Pennycook and Rand suggests susceptibility is driven more by lazy, intuitive thinking than by motivated reasoning — people who stop to reflect get better at telling true from false across the political spectrum. Bias plays a role, but inattention appears to be the bigger and more general culprit."
+    },
+    {
+      "question": "If I can usually tell what's fake, why do I still share it?",
+      "answer": "Because believing and sharing are different acts. Studies find a wide gap: people share headlines they could have identified as false if asked, because the act of sharing pulls attention toward engagement and reaction rather than accuracy. Briefly prompting yourself to consider whether something is true before sharing measurably closes that gap."
+    },
+    {
+      "question": "Does fact-checking and debunking actually work?",
+      "answer": "It can, but how matters. Corrections work best when they lead with the truth and give a clear, memorable explanation; carelessly repeating a myth to debunk it can reinforce it through the same repetition effect. 'Prebunking' — learning manipulation techniques before you meet them — also shows promise for building resistance."
+    },
+    {
+      "question": "Why does false news spread so fast?",
+      "answer": "A 2018 Science study of Twitter found false stories spread further and faster than true ones, likely because novelty and emotional charge drive sharing. Platforms reward what gets engagement, not what is accurate, so emotionally charged falsehoods often have a structural speed advantage over duller truths."
+    }
+  ],
+  "dataSources": [
+    "Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. Cognition, 188, 39–50.",
+    "Pennycook, G., et al. (2021). Shifting attention to accuracy can reduce misinformation online. Nature, 592, 590–595.",
+    "Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. Science, 359(6380), 1146–1151.",
+    "Research on the illusory truth effect (repetition and perceived accuracy), from Hasher and colleagues onward.",
+    "Research on inoculation / 'prebunking' against misinformation (e.g., van der Linden and colleagues)."
+  ],
+  "relatedInsights": [
+    "why-do-we-believe-things-that-arent-true",
+    "are-we-more-divided-than-we-used-to-be",
+    "does-the-internet-make-us-smarter-or-dumber"
+  ],
+  "lastReviewed": "2026-06"
+}

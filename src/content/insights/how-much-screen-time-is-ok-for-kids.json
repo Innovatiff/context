@@ -1,0 +1,77 @@
+{
+  "title": "How Much Screen Time Is OK for Kids?",
+  "slug": "how-much-screen-time-is-ok-for-kids",
+  "category": "parenting-and-family",
+  "metaTitle": "How Much Screen Time Is OK for Kids? What Research Shows",
+  "metaDescription": "There's no proven magic number. Research suggests content, context, and what screens displace matter more than raw hours, and the harm evidence is mixed.",
+  "lifeArea": "Parenting & Family",
+  "keyFinding": "There is no single proven 'safe' number of screen hours; the better-supported view is that content, context, co-use, and what screens displace — especially sleep and active play — matter more than raw time, and the evidence on harm is mixed and generally modest.",
+  "honestAnswer": [
+    "There is no scientifically established magic number of hours, and guidance has deliberately moved away from one. The American Academy of Pediatrics once published firm hour limits but has shifted toward emphasising content (what is on the screen), context (whether a parent is involved), and displacement (what the screen replaces) rather than a single threshold. Their clearest remaining hard line is for the youngest children — avoiding screens other than video-chat under about 18 months, and very limited, high-quality, co-viewed content for toddlers.",
+    "For older children the honest summary is that the evidence on screen time causing harm is mixed and the effects, where found, are generally modest. What matters most, on the current research, is not the raw hour count but whether screens are crowding out the things that reliably support a child — enough sleep, physical activity, in-person time, and reading. A high hour count that doesn't eat into those is a different situation from a lower count that wrecks sleep."
+  ],
+  "whatDataShows": [
+    "The AAP's own guidance is the clearest signal of where the science landed. Earlier recommendations centred on numeric limits like two hours a day; the more recent framework drops the universal number for school-age children in favour of a family media plan that prioritises quality content, parent co-engagement, screen-free times and zones (like meals and bedrooms), and protecting sleep and activity. For under-2s the cautious stance largely remains, because there is little evidence young children learn well from screens and some evidence it displaces richer interaction.",
+    "The large-scale evidence on harm is genuinely mixed. Some studies report small correlations between heavy screen use and lower wellbeing or attention difficulties; others, re-analysing big datasets, find the associations are tiny once you account for confounders — small enough that researchers have compared them to effects like wearing glasses. Reviews of this literature repeatedly stress that the relationships are weak, often correlational, and heavily dependent on what 'screen time' even means, since a video call, an educational app, and a fast-paced game are lumped together but are not the same thing.",
+    "Where the evidence is firmer is displacement, especially of sleep. Screens close to bedtime, and screens in the bedroom, are fairly consistently associated with shorter and worse sleep, which itself affects mood, attention, and learning. So a good deal of what looks like 'screen harm' in the data may run through sleep and reduced active or social time rather than through screen exposure as such — which is exactly why content and timing matter more than the headline hours."
+  ],
+  "whyItFeelsDifferent": [
+    "Screen time feels uniquely alarming partly because it is new, visible, and easy to count, while the things it might displace are diffuse and hard to measure. A number on a usage dashboard feels like hard evidence of a problem in a way that 'slightly less outdoor play' does not, even though the research suggests the displacement is the more important variable.",
+    "It also feels different because the public conversation is louder and more certain than the science. Strong claims about screens 'rewiring' or 'damaging' children's brains circulate widely, but the underlying studies are usually correlational and find modest effects, and several high-profile alarms have been softened or contested on re-analysis. The gap between the confident headlines and the cautious literature is large.",
+    "And parental guilt amplifies it. Because screens are often used in moments of exhaustion or to get something done, their use is tangled up with feeling like you cut a corner — which makes any negative headline land harder. The evidence does not support treating ordinary, sensible screen use as a moral failing."
+  ],
+  "whatResearchSaysToDo": [
+    "Protect the non-negotiables first: sleep and physical activity. Keeping screens out of the bedroom and away from the hour or so before bed is one of the better-supported moves, because the sleep link is among the firmest findings. If hours are high but sleep, activity, school, and in-person time are intact, the raw number matters less than it feels like it should.",
+    "Prioritise content and co-use. Slower, higher-quality, age-appropriate content — especially when a parent watches or plays alongside and talks about it — has more support than passive solo consumption of fast, low-quality media. For young children in particular, co-viewing turns a screen from a poor substitute for interaction into a shared one.",
+    "Use a flexible family approach rather than a single rule. The AAP's family media plan idea — agreed screen-free times and places, and matching limits to the individual child and content rather than a universal hour cap — fits the evidence better than a fixed threshold, because the right amount genuinely depends on the child, the content, and what else is in the day."
+  ],
+  "whatDoesNotHelp": [
+    "Fixating on a single hour number does not help, because the research does not support a universal threshold and because two children at the same hour count can be in completely different situations depending on content, timing, and what the screens replace. The number is a poor proxy for the thing that matters.",
+    "Catastrophising — treating ordinary screen use as brain damage — is not supported and can be counterproductive, since the strong-harm claims rest on weak, mostly correlational evidence with small effects. Acting as if every hour is dangerous can crowd out attention to the variables that actually move the needle, like sleep and content.",
+    "Blanket bans with no attention to what fills the gap also miss the point. If a screen restriction simply shifts a child to another sedentary, isolating activity rather than to sleep, play, or connection, the displacement benefit — the main mechanism in the data — does not materialise."
+  ],
+  "realNumbersInContext": [
+    "The clearest numbers are at the youngest ages, where caution is greatest: the AAP advises avoiding screen media other than video-chatting for children under roughly 18 months, and limiting use for ages 2–5 to about an hour a day of high-quality programming, ideally co-viewed. For school-age children and teens, the guidance deliberately offers no single hour limit, replacing it with a family-specific plan — a shift that itself reflects how weak the case for a universal threshold turned out to be.",
+    "On harm, it is worth internalising how modest and contested the effects are. Re-analyses of large datasets have found the association between screen time and lower adolescent wellbeing to be very small once confounders are accounted for, with some researchers likening its size to trivial everyday factors. The firmer relationships are with sleep when screens intrude on bedtime — which is why timing and displacement, not a raw tally, are the more defensible things to manage."
+  ],
+  "realNumbers": [
+    { "value": "Under ~18 mo", "label": "Age below which AAP advises avoiding screens other than video-chat", "source": "American Academy of Pediatrics" },
+    { "value": "~1 hour/day", "label": "AAP suggestion for ages 2–5, high-quality and co-viewed", "source": "American Academy of Pediatrics" },
+    { "value": "No fixed cap", "label": "AAP hour limit for school-age kids — replaced by a family media plan", "source": "American Academy of Pediatrics" },
+    { "value": "Very small", "label": "Typical effect size linking screen time to lower wellbeing once confounders are controlled", "source": "Large dataset re-analyses" }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a recommended number of screen-time hours for kids?",
+      "answer": "Only at young ages: avoid screens other than video-chat under about 18 months, and limit ages 2–5 to roughly an hour a day of high-quality, co-viewed content. For older children, current AAP guidance deliberately gives no universal hour cap, favouring a family plan that prioritises content, context, and protecting sleep and activity."
+    },
+    {
+      "question": "Does screen time actually harm kids?",
+      "answer": "The evidence is mixed and the effects, where found, are generally modest. Some studies show small negative correlations; large re-analyses find them very small once confounders are controlled. The firmer harms come through displacement — especially screens cutting into sleep — rather than screen exposure itself."
+    },
+    {
+      "question": "Why did the guidance move away from strict hour limits?",
+      "answer": "Because the research didn't support a single threshold. A video call, an educational app, and a fast-paced solo game are very different but get counted the same, and what screens displace matters more than the hour count. Guidance shifted toward content, co-use, and protecting sleep and play."
+    },
+    {
+      "question": "What's the most important thing to manage?",
+      "answer": "Sleep and what screens replace. Keeping screens out of the bedroom and away from bedtime has some of the firmest support, and making sure screens aren't crowding out sleep, activity, in-person time, and reading matters more on the evidence than the raw number of hours."
+    },
+    {
+      "question": "Is it bad to use screens to get a break as a parent?",
+      "answer": "The research doesn't support treating ordinary, sensible screen use as harmful, and certainly not as a moral failing. The variables that matter — content quality, co-use when possible, and protecting sleep and activity — are compatible with using a screen to get a needed break."
+    }
+  ],
+  "dataSources": [
+    "American Academy of Pediatrics — Media and Young Minds; Media Use in School-Aged Children and Adolescents; Family Media Plan guidance.",
+    "Orben, A., & Przybylski, A. K. (2019). The association between adolescent well-being and digital technology use. Nature Human Behaviour, 3, 173–182.",
+    "World Health Organization — guidelines on physical activity, sedentary behaviour and sleep for children under 5.",
+    "Research on screen use, bedtime, and sleep quality in children and adolescents."
+  ],
+  "relatedInsights": [
+    "is-there-a-best-way-to-parent",
+    "does-reading-to-kids-actually-matter",
+    "how-does-your-screen-time-compare"
+  ],
+  "lastReviewed": "2026-06"
+}

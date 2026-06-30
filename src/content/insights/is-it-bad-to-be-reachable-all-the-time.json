@@ -1,0 +1,70 @@
+{
+  "title": "Is It Bad to Be Reachable All the Time?",
+  "slug": "is-it-bad-to-be-reachable-all-the-time",
+  "category": "technology-and-attention",
+  "metaTitle": "Is It Bad to Be Reachable All the Time? What Research Shows",
+  "metaDescription": "Always-on availability has a cost researchers call telepressure. Here is what the data shows about recovery, detaching from work, and fatigue.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "The problem with constant reachability is less the messages themselves than the difficulty of psychologically detaching from work, which recovery research links to higher fatigue and lower wellbeing.",
+  "honestAnswer": [
+    "Being reachable all the time is not automatically harmful, but the evidence points to a specific cost: when you can never fully switch off from work, you lose the recovery that off-hours are supposed to provide, and that incomplete recovery is what tends to track with fatigue and strain. The issue is rarely a single late-night email. It is the steady inability to mentally clock out.",
+    "Researchers have a name for the urge that drives much of this — workplace telepressure, the felt pressure to respond to messages quickly regardless of when they arrive. The honest summary is that reachability itself is neutral; what matters is whether you can detach from work when you are not working, and constant availability makes detaching much harder."
+  ],
+  "whatDataShows": [
+    "A large body of work on recovery from work, much of it led by Sabine Sonnentag and colleagues, finds that psychological detachment — mentally disengaging from work during off-hours — is one of the more consistent predictors of feeling recovered. People who detach more tend to report less fatigue, better mood, and higher wellbeing; people who stay mentally tethered to work tend to report the opposite. The associations are reasonably robust, though most of this research is correlational and effect sizes vary.",
+    "Telepressure — a term introduced by Larissa Barber and Alecia Santuzzi (2015) — describes the preoccupation with and urge to quickly answer work messages. In their studies, higher telepressure was associated with more burnout symptoms, more cognitive fatigue, and worse sleep, partly because it interferes with the detachment that recovery depends on. The pressure can be self-imposed as much as imposed by an employer.",
+    "The blurring of work and home boundaries is a documented shift, accelerated by smartphones and remote work, but the research is careful: availability harms wellbeing mainly through the mechanism of impaired recovery and boundary conflict, not simply because a device is present. Some people maintain availability with little cost; others find it corrosive. Individual differences and norms matter a great deal."
+  ],
+  "whyItFeelsDifferent": [
+    "Constant reachability feels normal because the cost is invisible and delayed. A single message takes seconds to read, so the running tally never looks alarming in the moment. What accumulates is not the time spent replying but the background vigilance — a low hum of monitoring that never lets the mind fully stand down, and that you only notice as a vague, end-of-week tiredness.",
+    "It also feels obligatory. Fast replies are rewarded socially and professionally, slow ones can feel like a failure, and the norm becomes self-reinforcing: because everyone responds quickly, responding slowly starts to feel conspicuous. Much of telepressure is internalised, which is why it persists even when no one is actually demanding an instant answer.",
+    "And the recovery you lose is exactly the kind that is hard to perceive. Detachment does its work quietly, in the hours you are not thinking about work at all. When that disappears, you do not feel a dramatic loss in the moment — you feel a slow erosion of the buffer that used to make Monday survivable."
+  ],
+  "whatResearchSaysToDo": [
+    "The most supported lever is protecting genuine detachment rather than reducing message volume per se. Recovery research suggests that having clear, predictable off periods — windows where you are reliably not reachable and know it — helps the mind disengage, because uncertainty about whether a message will arrive can be as taxing as the message itself. Predictability appears to matter more than total disconnection.",
+    "Setting boundaries at the team or norm level tends to outperform individual willpower. When a group agrees that off-hours messages do not require off-hours replies, the telepressure that drives the harm drops for everyone. Some organisations achieve this with response-time expectations, delayed-send, or 'no expectation of reply' conventions; the common ingredient is removing the felt urgency, not the technology.",
+    "Recovery activities that promote detachment — exercise, absorbing hobbies, time outdoors, social connection unrelated to work — have modest but reasonably consistent support for restoring energy. The mechanism is psychological distance from work, so what counts is engagement elsewhere, not rest in the passive sense alone."
+  ],
+  "whatDoesNotHelp": [
+    "Simply telling yourself to 'switch off' while leaving notifications on rarely works, because the pull of telepressure is automatic and the uncertainty of an incoming message keeps part of your attention reserved. Intention without a structural change to availability tends to fade.",
+    "Replying immediately to clear your head is a common move that usually backfires. It trains the very expectation of instant response that fuels telepressure, both in others and in yourself, and it converts every off-hours moment into a potential work moment. The short relief of an empty inbox is bought with longer-run vigilance.",
+    "Treating reachability as a personal discipline problem misses that it is largely a norm. People who blame their own willpower for not detaching often keep failing, because the pressure is coming from a shared expectation that no single person can opt out of alone. Changing the norm does more than trying harder within it."
+  ],
+  "realNumbersInContext": [
+    "There is no single clean statistic for how 'bad' constant reachability is, and anyone offering one should be treated with caution — the research is about mechanisms, not a tidy number. What is reasonably well established is the direction: across recovery studies, greater psychological detachment from work during off-hours is associated with lower fatigue and higher wellbeing, while telepressure is associated with more burnout symptoms and worse sleep.",
+    "It is worth holding the nuance that availability is not uniformly harmful. For some roles and some people, being reachable carries little cost or even provides a sense of control. The honest reading is that the danger lies specifically in losing the ability to detach — and that this loss is common enough, in an always-on environment, to be worth taking seriously rather than assuming you are the exception."
+  ],
+  "faqs": [
+    {
+      "question": "What is telepressure?",
+      "answer": "Telepressure is the term researchers use for the preoccupation with, and urge to quickly respond to, work messages — regardless of when they arrive. It was introduced by Barber and Santuzzi (2015), who linked higher telepressure to more burnout symptoms, cognitive fatigue, and worse sleep. It is often self-imposed rather than directly demanded."
+    },
+    {
+      "question": "Is checking work messages after hours actually harmful?",
+      "answer": "Not inherently. The research suggests the harm comes through impaired recovery — the inability to psychologically detach from work during off-hours — rather than from the act of checking itself. Occasional checking with intact detachment looks far less costly than constant background vigilance that never lets you fully disengage."
+    },
+    {
+      "question": "What does 'psychological detachment' mean?",
+      "answer": "It means mentally disengaging from work during your non-work time — not thinking about it, not monitoring for it. Recovery research, much of it led by Sabine Sonnentag, finds detachment is one of the more consistent predictors of feeling recovered, with associations to lower fatigue and better mood. Most of this evidence is correlational."
+    },
+    {
+      "question": "Does turning off notifications fix it?",
+      "answer": "It can help, but the research points more to predictability than total disconnection. Knowing you have clear, reliable off periods lets the mind stand down; uncertainty about whether a message will arrive can be as taxing as the message. Boundaries that everyone shares tend to work better than one person silencing their phone."
+    },
+    {
+      "question": "Why can't I just decide to switch off?",
+      "answer": "Because much of the pressure is a shared norm and an automatic urge, not a simple choice. Telepressure is often internalised, so willpower alone tends to fade. Changing the expectation — at the team or relationship level — usually does more than trying harder to ignore it on your own."
+    }
+  ],
+  "dataSources": [
+    "Barber, L. K., & Santuzzi, A. M. (2015). Please Respond ASAP: Workplace Telepressure and Employee Recovery. Journal of Occupational Health Psychology, 20(2), 172–189.",
+    "Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work. Journal of Occupational Health Psychology, 12(3), 204–221.",
+    "Sonnentag, S. (2012). Psychological Detachment From Work During Leisure Time: The Benefits of Mentally Disengaging From Work. Current Directions in Psychological Science, 21(2), 114–118."
+  ],
+  "relatedInsights": [
+    "are-notifications-actually-making-us-anxious",
+    "why-cant-we-stop-checking-our-phones",
+    "does-technology-actually-make-us-more-productive"
+  ],
+  "lastReviewed": "2026-06"
+}

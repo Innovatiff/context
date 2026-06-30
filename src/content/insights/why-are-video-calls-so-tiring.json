@@ -1,0 +1,69 @@
+{
+  "title": "Why Are Video Calls So Tiring?",
+  "slug": "why-are-video-calls-so-tiring",
+  "category": "technology-and-attention",
+  "metaTitle": "Why Are Video Calls So Tiring? The Zoom Fatigue Research",
+  "metaDescription": "Video calls drain us through nonverbal overload: constant self-view, reduced movement, intense eye contact, and harder face-reading. Here's the research.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "Video calls appear to be uniquely draining because they overload our nonverbal systems — constant self-view, reduced mobility, unnaturally intense eye contact, and the extra effort of reading faces through a screen.",
+  "honestAnswer": [
+    "Video calls feel more tiring than they should because they impose a set of demands that in-person conversation does not. The leading explanation, from Stanford researcher Jeremy Bailenson, is nonverbal overload: video chat saturates and distorts the nonverbal cues we normally process effortlessly, forcing the brain to work harder to do something it usually does automatically. The exhaustion is not laziness or a bad attitude — it is a plausible response to an unnatural communication setup.",
+    "Bailenson identified several specific strains: seeing yourself constantly, like a mirror following you all day; being boxed into a small space with far less movement than natural conversation allows; faces filling the screen at an intensity that mimics close personal distance; and the harder, more effortful work of sending and reading nonverbal signals through a flat, slightly-off video feed. None of these is catastrophic alone, but together they offer a coherent account of why a day of calls leaves people unusually drained. The theory is well-argued, though the formal evidence is still developing."
+  ],
+  "whatDataShows": [
+    "Jeremy Bailenson's 2021 paper laid out the nonverbal-overload theory of 'Zoom fatigue,' proposing four main mechanisms: excessive close-up eye contact and large faces, the cognitive load of constantly seeing yourself, reduced physical mobility because you must stay in frame, and the increased effort of producing and interpreting nonverbal cues that video distorts or strips out. It is a theoretical framework grounded in prior research on nonverbal communication, offered as an explanation to be tested rather than a finished verdict.",
+    "Alongside the theory, Bailenson's group and others developed measures of videoconferencing fatigue and began surveying it. Early findings suggest the fatigue is real and common, and that some factors — notably prolonged self-view and back-to-back calls without breaks — track with feeling more drained. A frequently discussed pattern is that women report higher videoconferencing fatigue on average, with self-view and 'mirror anxiety' proposed as part of the explanation; this is suggestive and still being investigated.",
+    "It is worth being precise about the state of the evidence. The mechanisms are plausible and partly supported, but much of the research is recent, correlational, and based on self-report, and the field has not fully pinned down which factors matter most or how large the effects are. So the honest framing is: a credible, well-motivated theory with growing but not yet conclusive empirical backing."
+  ],
+  "whyItFeelsDifferent": [
+    "Video calls feel deceptively easy in advance — you are sitting down, no commute, talking to faces on a screen — so the depth of the tiredness afterward is surprising and easy to misattribute to yourself rather than the medium. The mismatch between 'this should be effortless' and 'I am wiped out' is part of why the fatigue is so disorienting.",
+    "Much of the strain is also invisible because it runs on systems you cannot feel working. Reading micro-expressions, coordinating eye contact, suppressing the self-consciousness of your own image — these normally happen below awareness in person. On video they are degraded and effortful, so the brain works harder without you noticing the extra load until it shows up as exhaustion.",
+    "And the self-view is genuinely unnatural in a way we rarely name. In ordinary conversation you do not see your own face reacting in real time for hours. Constant self-monitoring is cognitively and emotionally taxing, and because we have no everyday equivalent, we tend not to recognise it as a source of fatigue even while it is draining us."
+  ],
+  "whatResearchSaysToDo": [
+    "The most direct implication of the theory is to reduce self-view: hiding your own video from yourself once you know you are framed, so you are not monitoring your face all call. This targets one of the mechanisms Bailenson flags most strongly, and is among the simplest changes available.",
+    "Reducing the other overload sources follows the same logic: shrinking the video window or sitting further from the screen to cut the intensity of large, close-up faces; allowing yourself to move, look away, and not hold constant eye contact; and using audio-only or a phone call where the visual channel is not adding value. The aim is to lower the unnatural nonverbal demands the theory identifies.",
+    "More broadly, spacing calls with real breaks has the best support, consistent with the wider literature on attention and recovery. Back-to-back video meetings give no time to reset, and the fatigue compounds. Building in gaps, shortening calls, and not defaulting to video for every interaction are reasonable, evidence-aligned steps even while the precise mechanisms are still being studied."
+  ],
+  "whatDoesNotHelp": [
+    "Pushing through and assuming the tiredness is a personal failing tends not to help, because the strain is built into the medium, not into you. Treating video fatigue as a willpower problem misreads a plausible structural cause and usually just leads to more depletion.",
+    "Leaving your self-view on because you want to check how you look runs directly against the theory's strongest mechanism. Constant self-monitoring is one of the proposed drivers of the fatigue, so the habit of watching your own image all call is more likely to add load than reduce it.",
+    "Defaulting to video for everything, including conversations that audio or a quick message would handle, multiplies the exact demands that make video draining. More cameras and more face-time are not automatically better communication; for many interactions they add nonverbal overload without adding much value."
+  ],
+  "realNumbersInContext": [
+    "This is a topic where hard numbers are scarce and should be treated cautiously, because the research is recent and the theory is still being tested. There is no reliable figure for 'how much' more tiring a video call is than an in-person one. What exists is a credible framework — Bailenson's four mechanisms of nonverbal overload — plus early survey work suggesting the fatigue is real, common, and linked to factors like prolonged self-view and back-to-back scheduling.",
+    "One reasonably consistent early pattern worth naming with appropriate hedging: women tend to report higher videoconferencing fatigue on average, with self-view and mirror anxiety proposed as contributors. This is suggestive, not settled. The honest bottom line is that the exhaustion is genuine and has a coherent explanation, but the precise size and ranking of its causes are still being worked out — so the practical moves above are sensible bets rather than proven prescriptions."
+  ],
+  "faqs": [
+    {
+      "question": "What is 'Zoom fatigue'?",
+      "answer": "It is the distinctive exhaustion many people feel after extended video calls. The leading explanation, from Stanford's Jeremy Bailenson (2021), is nonverbal overload: video saturates and distorts the nonverbal cues we normally process automatically, forcing the brain to work harder. The term covers all videoconferencing, not just one platform."
+    },
+    {
+      "question": "Why are video calls more tiring than in-person ones?",
+      "answer": "Bailenson's theory points to four mechanisms: unnaturally intense close-up eye contact and large faces, the load of constantly seeing yourself, reduced mobility because you must stay in frame, and the extra effort of sending and reading nonverbal cues through a degraded video feed. In person, most of this happens effortlessly."
+    },
+    {
+      "question": "Does hiding self-view actually help?",
+      "answer": "It targets one of the mechanisms the theory flags most strongly — the cognitive and emotional load of constantly monitoring your own face. Hiding self-view from yourself once you know you're framed is a simple, low-cost change. The evidence is still developing, but it follows directly from the proposed cause."
+    },
+    {
+      "question": "Is video-call fatigue actually proven?",
+      "answer": "The fatigue itself appears real and common in early survey work. The nonverbal-overload explanation is a credible, well-argued theory with growing but not yet conclusive support — much of the research is recent, correlational, and self-reported. Treat the specific mechanisms as plausible and worth acting on, not as fully settled science."
+    },
+    {
+      "question": "What's the simplest way to reduce it?",
+      "answer": "Space calls with real breaks rather than scheduling them back-to-back, hide your self-view, reduce the size or proximity of faces on screen, let yourself move and look away, and use audio or a phone call when video adds little. These follow the theory and the broader research on attention and recovery."
+    }
+  ],
+  "dataSources": [
+    "Bailenson, J. N. (2021). Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue. Technology, Mind, and Behavior, 2(1).",
+    "Fauville, G., Luo, M., Queiroz, A. C. M., Bailenson, J. N., & Hancock, J. (2021). Nonverbal Mechanisms Predict Zoom Fatigue and Explain Why Women Experience Higher Levels than Men. SSRN / Computers in Human Behavior Reports."
+  ],
+  "relatedInsights": [
+    "is-it-bad-to-be-reachable-all-the-time",
+    "why-can-you-feel-lonely-even-around-people",
+    "does-technology-actually-make-us-more-productive"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Does Teaching Something Help You Learn It?",
+  "slug": "does-teaching-something-help-you-learn-it",
+  "category": "learning-and-growth",
+  "metaTitle": "Does Teaching Something Help You Learn It? The Research",
+  "metaDescription": "Teaching — or just preparing to teach — tends to deepen your own understanding. Here is what the research on the protege effect actually shows.",
+  "lifeArea": "Learning & Growth",
+  "keyFinding": "Teaching something, or even just preparing to teach it, tends to improve your own understanding — partly because it forces you to organise the material and notice gaps you would otherwise gloss over.",
+  "honestAnswer": [
+    "Yes, the available research generally supports the idea that teaching something helps you learn it — an effect sometimes called the \"protégé effect\" or learning-by-teaching. Studies find that people who teach material, or who simply prepare to teach it expecting to explain it to someone else, tend to understand and remember it better than people who study the same material only for themselves.",
+    "The likely reason is not magic but mechanism: teaching forces you to organise the material, decide what matters, and put it into your own words — and the moment you try to explain something, the gaps in your own understanding become obvious in a way they rarely do during passive review. The effect is real and reasonably consistent, though, like most learning effects, it is a meaningful boost rather than a transformation."
+  ],
+  "whatDataShows": [
+    "A frequently cited study by Nestojko and colleagues (2014) found that students who expected to teach material later learned it better than students who expected to be tested on it — even though, in the end, both groups were only tested. Simply holding the expectation that you will have to explain something to someone else appeared to change how people engaged with the material, leading them to organise it more effectively and recall more of it.",
+    "This connects to a larger body of work on self-explanation: research finds that learners who explain material to themselves — asking why each step follows, putting ideas into their own words — tend to understand it more deeply than those who read it without explaining. Teaching is, in effect, an intensified and externalised form of self-explanation, which helps account for why preparing to teach and actually teaching both tend to help.",
+    "Studies of peer tutoring and of \"teachable agent\" systems, where students teach a computer character, have likewise found learning benefits for the person doing the teaching, not only for the one being taught. The effect is generally described as modest-to-moderate and somewhat dependent on how engaged the teaching is — actively explaining and answering questions appears to help more than reading a script aloud."
+  ],
+  "whyItFeelsDifferent": [
+    "It can feel counterintuitive that explaining to someone else would help you, because we tend to picture learning as input — taking knowledge in — and teaching as output, giving it away. From that framing, teaching looks like spending knowledge rather than building it. The research suggests the act of producing and organising an explanation is itself one of the better ways to consolidate understanding.",
+    "Passive review also feels like it is working better than it is, which makes the contrast easy to miss. Re-reading your notes produces a comfortable sense of familiarity, so the material feels understood. It is only when you try to explain it out loud — to a student, a colleague, a friend — that the soft spots surface: the step you cannot actually justify, the concept you can recognise but not reconstruct. That exposure feels uncomfortable, but it is the useful part.",
+    "And the benefits of teaching are easy to attribute to the student rather than the teacher. We assume the value flows one direction, toward the learner, so the teacher's own gains go unnoticed. People who teach often remark that they only truly understood a topic once they had to teach it — an observation the research tends to support."
+  ],
+  "whatResearchSaysToDo": [
+    "Study as if you will have to explain it. The Nestojko finding suggests that simply adopting the expectation of teaching changes how you engage — you organise more, prioritise the main ideas, and process more deeply. You do not necessarily need an actual audience to capture some of this; setting yourself the task of preparing a clear explanation appears to do real work.",
+    "Then actually explain it, out loud and in your own words, ideally to a real person who can ask questions. Active explanation — answering follow-ups, handling confusion, reconstructing the logic — appears to help more than passively reciting. If no audience is available, explaining to an imagined novice, or writing the explanation as if for someone who knows nothing, captures much of the benefit.",
+    "Use the points where your explanation breaks down as your study map. The greatest value of teaching is diagnostic: it shows you precisely what you do not yet understand. When you stumble explaining a step, that is the signal to go back and study that specific gap, then try to explain it again. This loop — explain, find the hole, study the hole, re-explain — is where a lot of the learning happens."
+  ],
+  "whatDoesNotHelp": [
+    "Reading material aloud without genuinely engaging with it does not capture much of the benefit. The research suggests the gains come from organising and reconstructing the ideas — deciding what matters, putting it in your own words, fielding questions — not from the mechanical act of speaking the words. Reciting a script you do not understand is closer to passive review than to teaching.",
+    "Teaching only what you already find easy misses most of the point. The diagnostic value of teaching comes from hitting the parts you cannot yet explain; if you steer around your weak spots, you forgo the gap-finding that makes the method useful. The discomfort of explaining the hard parts is where the learning concentrates.",
+    "Expecting teaching to substitute entirely for studying is a mistake. Preparing to teach and explaining work best layered on top of genuine engagement with the material, not as a replacement for ever learning it in the first place. You cannot reconstruct an explanation of something you never built any understanding of — teaching deepens and consolidates knowledge rather than creating it from nothing."
+  ],
+  "realNumbersInContext": [
+    "There is no clean headline statistic for how much teaching boosts learning, and any precise number should be treated cautiously — the effect varies by study, subject, and how active the teaching is. What the research offers is a consistent direction: across the teaching-expectancy work, self-explanation studies, peer-tutoring research, and teachable-agent experiments, the person doing (or preparing) the teaching tends to come out ahead of those who only study for themselves.",
+    "The Nestojko result is the cleanest single illustration: students merely told they would teach the material later out-remembered students told they would be tested — despite both ultimately only being tested. That points to something useful and low-cost: a shift in how you intend to use the material, adopted before you study, appears to change how well you learn it. Treat the size of the effect as meaningful but modest, not as a guarantee."
+  ],
+  "realNumbers": [
+    { "value": "Expecting to teach", "label": "Mindset that improved retention vs expecting to be tested, in one study", "source": "Nestojko et al., 2014" },
+    { "value": "Self-explanation", "label": "Related technique linked to deeper understanding in research", "source": "Self-explanation research" },
+    { "value": "Teacher benefits too", "label": "Peer-tutoring and teachable-agent studies find gains for the one teaching", "source": "Peer tutoring / teachable agents" }
+  ],
+  "faqs": [
+    {
+      "question": "Does teaching really help you learn, or is that just a saying?",
+      "answer": "The research generally supports it. Studies find that teaching material — or even just preparing to teach it — tends to improve your own understanding and retention compared with studying it only for yourself. The likely mechanism is that teaching forces you to organise the material and exposes the gaps in your own understanding."
+    },
+    {
+      "question": "What is the 'protege effect'?",
+      "answer": "It is the term for the finding that the person doing the teaching often learns as much as, or more than, the one being taught. It shows up in peer-tutoring research and in studies where students teach a computer character — the act of explaining and organising the material benefits the teacher's own understanding."
+    },
+    {
+      "question": "Do I need a real student, or can I just plan to teach?",
+      "answer": "Both help. One study found that simply expecting to teach material later improved how well people learned it, even when they never actually taught it. So preparing a clear explanation does real work on its own — though actually explaining to a real person who asks questions appears to help more, because active engagement matters."
+    },
+    {
+      "question": "Why does explaining something reveal what I don't understand?",
+      "answer": "Passive review creates a feeling of familiarity that masks gaps. When you try to explain a topic out loud, you have to reconstruct the logic step by step, and the points where you stumble are exactly the things you did not actually understand. That exposure is uncomfortable but is one of the most useful parts of the process."
+    },
+    {
+      "question": "Can teaching replace studying?",
+      "answer": "No. Preparing to teach and explaining work best on top of genuine engagement with the material, not instead of it. You cannot reconstruct an explanation of something you never learned. Teaching deepens and consolidates understanding rather than creating it from nothing."
+    }
+  ],
+  "dataSources": [
+    "Nestojko, J. F., Bui, D. C., Kornell, N., & Bjork, E. L. (2014). Expecting to teach enhances learning and organization of knowledge in free recall of text passages. Memory & Cognition, 42(7), 1038–1048.",
+    "Chi, M. T. H., et al. (1994). Eliciting Self-Explanations Improves Understanding. Cognitive Science, 18(3), 439–477.",
+    "Roscoe, R. D., & Chi, M. T. H. (2007). Understanding Tutor Learning: Knowledge-Building and Knowledge-Telling in Peer Tutors' Explanations and Questions. Review of Educational Research, 77(4), 534–574.",
+    "Fiorella, L., & Mayer, R. E. (2013). The relative benefits of learning by teaching and teaching expectancy. Contemporary Educational Psychology, 38(4), 281–288."
+  ],
+  "relatedInsights": [
+    "whats-the-best-way-to-actually-learn-something",
+    "is-it-better-to-learn-by-doing-or-studying",
+    "how-do-experts-actually-get-so-good"
+  ],
+  "lastReviewed": "2026-06"
+}

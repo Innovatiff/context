@@ -1,0 +1,76 @@
+{
+  "title": "Is It Better to Learn by Doing or Studying?",
+  "slug": "is-it-better-to-learn-by-doing-or-studying",
+  "category": "learning-and-growth",
+  "metaTitle": "Learn by Doing or Studying? What the Research Actually Shows",
+  "metaDescription": "Active learning generally beats passive study, but foundational knowledge still matters. The honest answer is that it is not either-or — it is both.",
+  "lifeArea": "Learning & Growth",
+  "keyFinding": "Active, hands-on learning generally outperforms passive study in the research, but foundational knowledge still matters — so the honest answer is that the two work together rather than competing.",
+  "honestAnswer": [
+    "Framed as an either-or, the question has a misleading premise: the research does not support choosing between doing and studying so much as combining them. That said, when studies compare active, hands-on learning against passive forms of study — sitting and listening, re-reading, watching — the active approaches tend to come out ahead on measures of understanding and retention.",
+    "But \"learning by doing\" works best when it sits on a foundation of real knowledge, and trying to do without any underlying understanding often produces shallow, error-prone results. The honest answer is that studying builds the knowledge that doing then deepens and makes usable, and that the most effective learning usually alternates between the two rather than picking a side."
+  ],
+  "whatDataShows": [
+    "The clearest single piece of evidence comes from a large meta-analysis by Freeman and colleagues (2014, PNAS), which pooled hundreds of studies across science, engineering, and mathematics courses. It found that students in active-learning conditions — solving problems, working through exercises, engaging with the material — performed better on examinations and failed substantially less often than students in traditional lecture-only conditions. The pattern was consistent enough that the authors argued passive lecturing should no longer be the default.",
+    "This fits a broader theme in learning research: doing something with material — retrieving it, applying it, generating answers, explaining it — tends to produce stronger and more durable learning than passively taking it in. Effortful engagement appears to be a large part of why. Reading a worked solution feels smooth and produces a sense of understanding that often does not survive a real test; struggling to produce the solution yourself feels harder but tends to stick.",
+    "At the same time, the research does not say knowledge is unnecessary. Studies of problem-solving and expertise repeatedly find that what people already know in a domain strongly shapes how well they can learn and perform new things in it — background knowledge gives you the structure to make sense of new experience. \"Pure discovery\" approaches that ask novices to figure everything out with little guidance have a mixed-to-poor track record compared with approaches that provide instruction and structure alongside the doing."
+  ],
+  "whyItFeelsDifferent": [
+    "Passive study often feels more productive than it is. Re-reading and highlighting produce a comfortable sense of fluency — the material looks familiar, so it feels learned — but that familiarity is a weak predictor of whether you can actually use or recall it later. The smoothness is reassuring and misleading, which is why people often rate passive methods highly even when they perform worse on tests.",
+    "Active learning, by contrast, often feels worse while it works. Wrestling with a problem, getting things wrong, struggling to recall — these feel like signs of not learning, when the research suggests they are frequently signs of learning happening. So our in-the-moment judgments of which approach is working tend to run backwards from the actual outcomes.",
+    "The either-or framing also feels natural because the two are presented as rival camps — the \"theory person\" versus the \"hands-on person,\" the classroom versus the workshop. Real expertise rarely splits this cleanly. People who are genuinely good at something almost always have both a body of knowledge and a great deal of practice applying it, built up in interaction rather than in sequence."
+  ],
+  "whatResearchSaysToDo": [
+    "Default toward doing something with the material rather than just consuming it. Across the research, the methods that hold up are active: testing yourself, solving problems, explaining ideas in your own words, applying concepts to real cases. If your study consists mainly of re-reading and highlighting, shifting even part of that time to retrieval and application is one of the better-supported changes you can make.",
+    "Use studying to build the foundation that makes doing productive. The evidence on guidance suggests novices benefit from instruction and worked examples early on, then increasingly from doing it themselves as their knowledge grows. So the practical sequence is often: learn enough to act, then act, then return to study the gaps the doing exposed — alternating rather than choosing.",
+    "Let the doing reveal what you do not actually understand. One underrated benefit of hands-on application is that it surfaces the holes a sense of fluency hides — the step you cannot actually perform, the concept you cannot actually explain. Treat those failures as the map of what to study next, which is how the two modes reinforce each other."
+  ],
+  "whatDoesNotHelp": [
+    "Relying on re-reading and highlighting as your main method does not help much, despite how common and comfortable it is. The research consistently ranks these among the least effective study techniques for durable learning, largely because they create fluency without the effortful retrieval that makes knowledge stick. They feel like studying more than they function as it.",
+    "Pure 'throw them in and let them figure it out' learning, with no instruction or structure, tends to work poorly for novices. Without enough foundational knowledge to interpret what is happening, learners can practise the wrong things, build misconceptions, or simply flounder. Doing helps most when it is supported, not when it replaces all instruction.",
+    "Treating it as a fixed identity — 'I'm a hands-on learner' or 'I learn by reading' — is not supported and can be limiting. The research on learning styles in particular has not found that matching instruction to a supposed style improves outcomes. What works is matching the method to the task and the stage of learning, which for almost everyone means using both studying and doing."
+  ],
+  "realNumbersInContext": [
+    "The headline figure people cite from this area is from Freeman et al. (2014): in that meta-analysis of STEM courses, students in active-learning conditions failed at notably lower rates than those in traditional lectures, and scored higher on examinations. The exact magnitudes vary across the underlying studies and should be read as a robust general pattern rather than a precise universal effect — but the direction was consistent enough to be widely influential.",
+    "Beyond that single study, the broader literature does not offer a clean ratio for 'doing versus studying,' and any precise split should be treated with skepticism. What it offers is a reliable qualitative pattern: active engagement tends to beat passive consumption, foundational knowledge strongly shapes how well new learning lands, and the most effective learners use both — which is why the honest framing is 'both,' not a percentage."
+  ],
+  "realNumbers": [
+    { "value": "Lower failure", "label": "Failure rates in active-learning conditions vs traditional lectures across STEM courses", "source": "Freeman et al., PNAS 2014" },
+    { "value": "Higher scores", "label": "Exam performance in active-learning vs lecture-only conditions in the same meta-analysis", "source": "Freeman et al., PNAS 2014" },
+    { "value": "Both", "label": "What the research supports rather than choosing doing or studying", "source": "Learning research, general pattern" }
+  ],
+  "faqs": [
+    {
+      "question": "So is doing better than studying?",
+      "answer": "Active learning — doing something with the material — generally outperforms passive study like re-reading or listening, on measures of understanding and retention. But that does not mean studying is useless. Foundational knowledge built through study is what makes the doing productive, so the strongest approach uses both rather than choosing one."
+    },
+    {
+      "question": "Why does passive studying feel like it's working when it isn't?",
+      "answer": "Re-reading and highlighting create a feeling of fluency — the material looks familiar, so it feels learned. That familiarity is a weak predictor of actual recall or use later. Active methods often feel worse in the moment because the struggle is visible, even though they tend to produce more durable learning."
+    },
+    {
+      "question": "Should beginners just dive in and learn by doing?",
+      "answer": "Diving in with no instruction tends to work poorly for novices, who lack the knowledge to interpret what they are doing and can build misconceptions. The research favours providing structure and instruction early, with increasing hands-on doing as knowledge grows — supported doing, not pure discovery."
+    },
+    {
+      "question": "What's the single most effective change I can make?",
+      "answer": "If your studying is mostly re-reading and highlighting, shifting some of that time to retrieval and application — testing yourself, solving problems, explaining ideas in your own words — is one of the better-supported moves. Effortful engagement with the material tends to beat passive consumption."
+    },
+    {
+      "question": "Am I a 'hands-on learner' or a 'reading learner'?",
+      "answer": "The research on learning styles has not found that matching instruction to a supposed personal style improves outcomes. What works is matching the method to the task and your stage of learning, which for almost everyone means using both studying and doing rather than picking a fixed identity."
+    }
+  ],
+  "dataSources": [
+    "Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. PNAS, 111(23), 8410–8415.",
+    "Dunlosky, J., et al. (2013). Improving Students' Learning With Effective Learning Techniques. Psychological Science in the Public Interest, 14(1), 4–58.",
+    "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why Minimal Guidance During Instruction Does Not Work. Educational Psychologist, 41(2), 75–86.",
+    "Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, 9(3), 105–119."
+  ],
+  "relatedInsights": [
+    "whats-the-best-way-to-actually-learn-something",
+    "does-teaching-something-help-you-learn-it",
+    "does-making-mistakes-actually-help-you-learn"
+  ],
+  "lastReviewed": "2026-06"
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Does Practice Have to Be Painful to Work?",
+  "slug": "does-practice-have-to-be-painful-to-work",
+  "category": "learning-and-growth",
+  "metaTitle": "Does Practice Have to Be Painful to Work? What Research Shows",
+  "metaDescription": "Effective practice is effortful, but effort is not the same as misery. Here is what the research on deliberate practice and difficulty actually shows.",
+  "lifeArea": "Learning & Growth",
+  "keyFinding": "The practice that improves performance tends to be genuinely effortful and demanding, but research distinguishes productive difficulty from pointless suffering — effort is the signal that matters, not pain for its own sake.",
+  "honestAnswer": [
+    "Effective practice is usually effortful, but \"effortful\" is not the same as \"painful,\" and the difference matters. The research most often cited here — Anders Ericsson's work on deliberate practice — describes the kind of practice that drives improvement as demanding, focused, and frequently not much fun, because it deliberately targets the edge of what you can already do rather than the comfortable middle. That is a long way from saying it should feel like suffering.",
+    "The honest summary is that productive practice asks something real of you: sustained attention, a willingness to work on things you are not yet good at, and the discomfort of making errors. But misery, exhaustion, and dread are not the active ingredient — and there is reason to think they can get in the way. The goal is the effort, not the pain."
+  ],
+  "whatDataShows": [
+    "Ericsson's research on expert performers introduced the idea of deliberate practice: structured, goal-directed practice aimed just beyond current ability, with feedback and repetition on the specific things you cannot yet do. He repeatedly emphasised that this kind of practice is effortful and not inherently enjoyable, which is part of why most people do not sustain large amounts of it. The effort is the point; the discomfort is a by-product of working at your edge rather than a target in itself.",
+    "A related body of work by Robert Bjork on what he called \"desirable difficulties\" found that certain conditions which make practice feel harder in the moment — spacing it out, mixing topics, testing yourself, struggling to retrieve an answer — tend to produce stronger long-term learning than easier, smoother practice that feels more fluent. The discomfort there is informative: it reflects the brain doing the work that makes memories durable. But Bjork's qualifier is built into the name. The difficulties have to be desirable — appropriately matched to the learner — to help.",
+    "The same line of research is clear that difficulty is not automatically good. A difficulty that is too far beyond your current ability, or that produces confusion rather than productive struggle, tends to undermine learning rather than strengthen it. So the data does not support a simple \"more pain, more gain\" rule. It supports something narrower: the right kind of difficulty, at the right level, tends to help."
+  ],
+  "whyItFeelsDifferent": [
+    "The belief that practice has to hurt is reinforced by a powerful cultural story — the lone prodigy grinding in misery, the \"no pain, no gain\" slogan from athletics, the montage of suffering before triumph. These narratives are memorable and emotionally satisfying, and they quietly equate the discomfort with the cause of the improvement, when the research points to focused effort as the cause and discomfort as a frequent side effect.",
+    "It also feels true because the easy version of practice so visibly does not work. Going through the motions, repeating what you can already do, practising on autopilot — these feel comfortable and produce little progress. So it is natural to conclude that the comfort is the problem and that maximising discomfort must be the solution. The more accurate reading is that the comfortable version fails because it lacks effort and challenge, not because it lacks suffering.",
+    "And there is a confound: people who improve a lot often did tolerate a lot of discomfort, so the two travel together in the stories we hear. What is harder to see is the large number of people who suffered through punishing, poorly designed practice and improved little, or who burned out and quit. Survivorship makes pain look more necessary than the evidence says it is."
+  ],
+  "whatResearchSaysToDo": [
+    "Aim for the edge of your ability, not the edge of your endurance. The most consistent finding is that practice helps most when it targets specific things you cannot yet do reliably, with clear goals and prompt feedback. That is where the productive effort and the useful discomfort live — in working on the hard parts deliberately, rather than in making the whole session as gruelling as possible.",
+    "Build in the research-backed difficulties that feel harder but help: space practice out over time rather than cramming it, test yourself instead of only re-reviewing, and mix related skills rather than drilling one in isolation. These tend to feel less smooth and more effortful, and that very feeling is part of why they work — the struggle to retrieve and apply is doing the consolidation.",
+    "Protect sustainability, because the limiting factor for most learners is not intensity but whether they keep going. Research on deliberate practice notes that experts manage it in focused blocks with real recovery, not in endless punishing marathons. Effort you can repeat tomorrow beats heroic suffering you avoid for a week afterward."
+  ],
+  "whatDoesNotHelp": [
+    "Equating pain with progress does not help, and can actively mislead. Maximising how bad a session feels — longer, harder, more punishing — is not supported by the research as a route to faster improvement, and it raises the risk of burnout, injury in physical domains, and simply quitting. The evidence rewards the right kind of effort, not the maximum amount of suffering.",
+    "Mindless repetition of what you already do well is comfortable but largely wasted, which is the genuine kernel of truth behind the \"it should be hard\" instinct. The problem with easy practice is the absence of challenge and feedback, though — not the absence of misery. Adding difficulty that targets your weak points helps; adding difficulty that just makes you feel worse does not.",
+    "Pushing through difficulty that is far beyond your current level tends to backfire, producing confusion and discouragement rather than learning. The research on desirable difficulties is explicit that the difficulty has to be appropriately matched; struggle that is unproductive is just struggle. White-knuckling through material you are not ready for is not a shortcut."
+  ],
+  "realNumbersInContext": [
+    "There is no clean number for how much practice \"hurts,\" and any precise figure here should be treated with caution. The often-quoted \"10,000 hours\" popularisation of Ericsson's research is a notable example of how these findings get flattened: Ericsson himself pushed back on it, noting that the amount of practice needed varies enormously by domain and individual, that quality matters more than a fixed hour count, and that the figure was never meant as a universal threshold. The honest takeaway is about the nature of the practice, not a magic quantity.",
+    "What the research does support is a consistent qualitative pattern across studies of skill learning and memory: practice that is effortful, focused on weaknesses, spaced over time, and accompanied by feedback tends to outperform practice that is smooth, comfortable, and massed — even though the harder version usually feels less productive while you are doing it. The discomfort is often a sign the practice is working, but it is the effort and structure doing the work, not the pain."
+  ],
+  "realNumbers": [
+    { "value": "Effortful", "label": "How Ericsson described deliberate practice — focused and demanding, not inherently enjoyable", "source": "Ericsson, deliberate practice research" },
+    { "value": "Desirable", "label": "The qualifier on helpful difficulty — it must be appropriately matched to the learner", "source": "Bjork, desirable difficulties" },
+    { "value": "Not a threshold", "label": "Ericsson's own view of the popularised '10,000 hours' figure", "source": "Ericsson on the 10,000-hour rule" }
+  ],
+  "faqs": [
+    {
+      "question": "So is it true that practice has to be hard to work?",
+      "answer": "Effortful, yes; painful, not necessarily. The research on deliberate practice and on desirable difficulties suggests that practice helps most when it challenges you at the edge of your current ability, which is genuinely demanding. But that is about focused effort and productive struggle, not about maximising how miserable a session feels."
+    },
+    {
+      "question": "What are 'desirable difficulties'?",
+      "answer": "It is Robert Bjork's term for conditions that make practice feel harder in the moment but tend to improve long-term learning — things like spacing practice out, testing yourself instead of re-reading, and mixing topics. The key word is 'desirable': the difficulty has to be matched to the learner. Difficulty that is too high just causes confusion."
+    },
+    {
+      "question": "If practice feels easy, am I wasting my time?",
+      "answer": "Often, the comfortable version of practice — repeating what you already do well, on autopilot — does produce little improvement. But the fix is to add appropriate challenge and feedback, not to make the session as unpleasant as possible. The absence of effort is the problem, not the absence of suffering."
+    },
+    {
+      "question": "Doesn't 'no pain, no gain' apply to learning a skill?",
+      "answer": "It is a poor guide here. The slogan equates discomfort with the cause of improvement, but the research points to focused effort and well-matched challenge as the cause, with discomfort as a frequent by-product. Maximising pain is not supported as a strategy, and it raises the risk of burning out and quitting."
+    },
+    {
+      "question": "Is the 10,000-hours rule real?",
+      "answer": "It is a popularisation that Ericsson, whose research it drew on, openly disputed. He noted that the amount of practice needed varies widely by domain and person, that quality matters more than a fixed hour count, and that the number was never meant as a universal threshold."
+    }
+  ],
+  "dataSources": [
+    "Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. Psychological Review, 100(3), 363–406.",
+    "Ericsson, K. A., & Pool, R. (2016). Peak: Secrets from the New Science of Expertise.",
+    "Bjork, R. A., & Bjork, E. L. — research on desirable difficulties and the distinction between learning and performance.",
+    "Soderstrom, N. C., & Bjork, R. A. (2015). Learning Versus Performance: An Integrative Review. Perspectives on Psychological Science, 10(2), 176–199."
+  ],
+  "relatedInsights": [
+    "is-talent-or-hard-work-more-important",
+    "why-does-getting-good-at-something-take-so-long",
+    "does-making-mistakes-actually-help-you-learn"
+  ],
+  "lastReviewed": "2026-06"
+}
