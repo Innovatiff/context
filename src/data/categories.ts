@@ -1,10 +1,10 @@
 /**
  * Category / life-area taxonomy.
  *
- * These ten categories are the top-level URLs (e.g. /money-and-financial-reality)
+ * These categories are the top-level URLs (e.g. /money-and-financial-reality)
  * and the buckets every insight page belongs to. `targetPages` encodes the
- * long-term 500-page plan from the brief so the structure is visibly built to
- * scale even while only the first batch of pages exists.
+ * 1,000-page plan: the original ten categories (the first ~500 pages, now
+ * complete) plus five newer areas opened up as the library expands toward 1,000.
  */
 
 export interface Category {
@@ -22,7 +22,7 @@ export interface Category {
   keyFinding: string;
   /** Whether this is one of the six core assessment life areas. */
   coreArea: boolean;
-  /** Long-term page target (sums to 500 across all categories). */
+  /** Long-term page target (sums to 1,000 across all categories). */
   targetPages: number;
   /** Accent token used for the category's visual tag. */
   accent: 'teal' | 'amber' | 'green' | 'slate';
@@ -43,7 +43,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'Most adults hold far less in savings and net worth than public conversation implies, and financial stress tracks income far more weakly above a moderate threshold than people expect — security is as much about stability and comparison set as about the size of the number.',
     coreArea: true,
-    targetPages: 70,
+    targetPages: 110,
     accent: 'amber',
     faqs: [
       {
@@ -78,7 +78,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'People consistently misestimate their own time use — overstating productive hours and understating both leisure and screen time — and the amount of truly discretionary time most adults have is smaller, and more fragmented, than the cultural story of "if you wanted it badly enough you would find the time" suggests.',
     coreArea: true,
-    targetPages: 50,
+    targetPages: 75,
     accent: 'slate',
     faqs: [
       {
@@ -108,7 +108,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'Most people are not actively engaged by their work, career paths are far less linear than résumés make them look, and the people who report the most meaning at work tend to have it through autonomy, relationships, and a sense of contribution rather than through prestige or pay.',
     coreArea: true,
-    targetPages: 60,
+    targetPages: 105,
     accent: 'teal',
     faqs: [
       {
@@ -138,7 +138,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'The quality of close relationships is one of the most robust predictors of long-term health and life satisfaction in the research, yet the typical adult has only a small number of genuinely close friends, and that number has been falling — meaning a thin social circle is common, not a personal failing.',
     coreArea: true,
-    targetPages: 60,
+    targetPages: 100,
     accent: 'green',
     faqs: [
       {
@@ -168,7 +168,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'Self-rated health is a surprisingly strong predictor of real health outcomes, most adults report energy and health well below an imagined ideal, and the everyday fluctuations in energy people worry about are, in the aggregate, extremely normal.',
     coreArea: true,
-    targetPages: 40,
+    targetPages: 65,
     accent: 'teal',
     faqs: [
       {
@@ -198,7 +198,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'A sense of meaning correlates more strongly with everyday wellbeing than the absence of a grand life plan, uncertainty about direction is normal at every age rather than a sign of being lost, and meaning tends to be built through engagement and contribution more than discovered through introspection.',
     coreArea: true,
-    targetPages: 50,
+    targetPages: 75,
     accent: 'amber',
     faqs: [
       {
@@ -228,7 +228,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'People systematically compare themselves to unrepresentative, upward, and curated samples, which manufactures a near-universal feeling of being behind a pace that does not actually exist in the population data.',
     coreArea: false,
-    targetPages: 50,
+    targetPages: 70,
     accent: 'slate',
     faqs: [
       {
@@ -258,7 +258,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'Across studies, people’s deepest long-term regrets cluster around connection, authenticity, and inaction — not around the risks they took or the conventional milestones they missed — and regrets of inaction tend to outlast regrets of action.',
     coreArea: false,
-    targetPages: 40,
+    targetPages: 60,
     accent: 'amber',
     faqs: [
       {
@@ -288,7 +288,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'Life outcomes at any given age vary enormously and rarely follow the tidy timeline people imagine, and average life satisfaction famously dips in midlife before rising again — meaning the "behind schedule" feeling is often a predictable life-stage pattern, not a personal verdict.',
     coreArea: false,
-    targetPages: 40,
+    targetPages: 60,
     accent: 'green',
     faqs: [
       {
@@ -318,7 +318,7 @@ export const CATEGORIES: Category[] = [
     keyFinding:
       'The wellbeing research points consistently to relationships, health, sense of meaning, and relief from financial hardship as what matters most, while much of what is marketed as the path to happiness — including raw achievement and consumption — shows weak and short-lived effects.',
     coreArea: false,
-    targetPages: 40,
+    targetPages: 70,
     accent: 'teal',
     faqs: [
       {
@@ -338,6 +338,156 @@ export const CATEGORIES: Category[] = [
       'money-and-financial-reality',
     ],
   },
+  {
+    slug: 'parenting-and-family',
+    title: 'Parenting & Family',
+    shortLabel: 'Parenting',
+    lifeArea: 'Parenting & Family',
+    description:
+      'This area covers raising children, family relationships, caregiving, and the patterns that pass between generations. It treats parenting as one of the most anxiously over-advised parts of life and tries to do the opposite — placing the ordinary worries (screen time, milestones, whether you are doing it "right") inside what the developmental research actually shows, which is usually more reassuring and less prescriptive than the surrounding noise.',
+    keyFinding:
+      'Parents today spend more hands-on time with their children than in the 1960s yet report more guilt and time pressure, and the research consistently finds that warmth and stability matter far more for how children turn out than most of the specific parenting choices people agonise over.',
+    coreArea: false,
+    targetPages: 45,
+    accent: 'green',
+    faqs: [
+      {
+        question: 'Am I spending enough time with my kids?',
+        answer:
+          'Probably more than you think. Time-use data shows parents today spend more hands-on time with children than parents did in the 1960s, despite more parents working. Research also finds the sheer quantity of parental time matters less for outcomes than warmth and engagement during the time you do have.',
+      },
+      {
+        question: 'How much do my parenting choices determine how my child turns out?',
+        answer:
+          'Less than the surrounding advice implies. Within a normal, supportive range, developmental and behavioural-genetics research finds that broad warmth and stability matter far more than the specific choices parents agonise over, and that genes, peers, and environment shape outcomes alongside parenting.',
+      },
+    ],
+    related: [
+      'relationships-and-connection',
+      'time-and-how-you-use-it',
+      'purpose-and-direction',
+    ],
+  },
+  {
+    slug: 'learning-and-growth',
+    title: 'Learning & Growth',
+    shortLabel: 'Learning',
+    lifeArea: 'Learning & Growth',
+    description:
+      'This area covers how people actually learn skills, build and break habits, and keep growing across a lifetime. It separates the science of practice, memory, and behaviour change from the motivational folklore around it, and treats the capacity to change as real but slower, more uneven, and less dependent on raw willpower than self-improvement culture implies.',
+    keyFinding:
+      'Skill and habit research finds that consistent, spaced, effortful practice beats talent and intensity over time, that habits form on a wide and individually variable timeline rather than a fixed number of days, and that most people underestimate how much they can still learn at any age.',
+    coreArea: false,
+    targetPages: 45,
+    accent: 'teal',
+    faqs: [
+      {
+        question: 'How long does it really take to build a habit?',
+        answer:
+          'There is no fixed number. The popular "21 days" has no good evidence behind it; one well-known study found habits took anywhere from about 18 to over 250 days to become automatic, varying widely by person and behaviour. The honest answer is "longer and more variable than you have been told."',
+      },
+      {
+        question: 'Am I too old to learn something new?',
+        answer:
+          'Almost certainly not. While some kinds of mental processing slow with age, adults retain a strong capacity to learn skills and knowledge throughout life, and much of the "I cannot learn this" feeling reflects rusty practice and self-doubt rather than a hard biological ceiling.',
+      },
+    ],
+    related: [
+      'work-and-career',
+      'purpose-and-direction',
+      'age-and-life-stages',
+    ],
+  },
+  {
+    slug: 'technology-and-attention',
+    title: 'Technology & Attention',
+    shortLabel: 'Technology',
+    lifeArea: 'Technology & Attention',
+    description:
+      'This area covers screens, social media, notifications, and the competition for your attention — how much of it is normal, what it costs, and what the evidence does and does not support. It avoids both the panic and the dismissal, placing your own digital habits inside population data and asking the more useful question: not how much, but what it displaces and how it leaves you feeling.',
+    keyFinding:
+      'Heavy screen and social-media use is now typical rather than deviant, the average person underestimates their own, and the research links harm less to total time than to what the use displaces and how it makes people feel.',
+    coreArea: false,
+    targetPages: 40,
+    accent: 'slate',
+    faqs: [
+      {
+        question: 'Is my screen time abnormal?',
+        answer:
+          'No. Several hours of daily leisure screen time is now typical for adults, and most people underestimate their own use. Whether it is a problem depends less on the raw number than on what it displaces and how it makes you feel afterward.',
+      },
+      {
+        question: 'Is social media bad for you?',
+        answer:
+          'The research is more mixed than headlines suggest. Effects vary by person, platform, and use — passive scrolling and comparison tend to track worse mood than active connection. It is better understood as a tool with real risks than as uniformly harmful.',
+      },
+    ],
+    related: [
+      'time-and-how-you-use-it',
+      'comparison-and-self-perception',
+      'health-and-energy',
+    ],
+  },
+  {
+    slug: 'society-and-belonging',
+    title: 'Society & Belonging',
+    shortLabel: 'Society',
+    lifeArea: 'Society & Belonging',
+    description:
+      'This area covers community, trust, civic life, and the sense of belonging to something larger than your immediate circle. It looks at the measurable decline in social trust and participation across many countries, what that does to individuals and communities, and why belonging turns out to be one of the more underrated ingredients of a good life in the research.',
+    keyFinding:
+      'Measures of social trust, community participation, and close ties have declined across many countries over recent decades, and the research treats belonging and social capital as strong, often underrated predictors of both individual wellbeing and how well communities function.',
+    coreArea: false,
+    targetPages: 40,
+    accent: 'amber',
+    faqs: [
+      {
+        question: 'Is community really declining?',
+        answer:
+          'By several measures, yes. Research tracking social trust, group membership, and close community ties finds meaningful declines across recent decades in many countries, though the picture varies by place and the causes are debated.',
+      },
+      {
+        question: 'Why does belonging matter so much?',
+        answer:
+          'Because humans are a deeply social species. A sense of belonging is consistently linked to better health and wellbeing, and its absence — chronic loneliness or disconnection — carries health risks comparable to well-known physical risk factors in some studies.',
+      },
+    ],
+    related: [
+      'relationships-and-connection',
+      'comparison-and-self-perception',
+      'happiness-research',
+    ],
+  },
+  {
+    slug: 'emotions-and-inner-life',
+    title: 'Emotions & Inner Life',
+    shortLabel: 'Emotions',
+    lifeArea: 'Emotions & Inner Life',
+    description:
+      'This area covers the everyday emotional weather — fear, anger, sadness, joy, stress, and the running commentary of self-talk. Drawing on affective science, it treats emotions as informative signals rather than malfunctions, and places the feelings people quietly worry are abnormal inside how variable, common, and manageable they actually are. It offers context, not therapy, and points toward a clinician for anything persistent or distressing.',
+    keyFinding:
+      'Emotions are better understood as useful signals than as problems to eliminate, most people’s feelings are more variable and less visible to others than they assume, and naming and accepting emotions tends to regulate them more effectively than suppressing or fighting them.',
+    coreArea: false,
+    targetPages: 40,
+    accent: 'green',
+    faqs: [
+      {
+        question: 'Is it normal for my emotions to swing day to day?',
+        answer:
+          'Yes. Mood naturally varies with sleep, stress, hormones, and events, and most people’s emotional lives are more variable than the composed surfaces others present. Wide everyday swings are common; it is persistent, impairing distress that is worth taking to a clinician.',
+      },
+      {
+        question: 'Should I try to control or suppress negative emotions?',
+        answer:
+          'The research suggests suppression tends to backfire, leaving the emotion intact while adding strain. Naming emotions and accepting them generally regulates them more effectively than fighting them — feelings treated as signals to read rather than enemies to defeat.',
+      },
+    ],
+    related: [
+      'health-and-energy',
+      'happiness-research',
+      'comparison-and-self-perception',
+    ],
+  },
 ];
 
 export const CATEGORY_MAP: Record<string, Category> = Object.fromEntries(
@@ -348,5 +498,5 @@ export function getCategory(slug: string): Category | undefined {
   return CATEGORY_MAP[slug];
 }
 
-/** Total of the long-term page plan — should be 500. */
+/** Total of the long-term page plan — should be 1,000. */
 export const TARGET_TOTAL = CATEGORIES.reduce((n, c) => n + c.targetPages, 0);

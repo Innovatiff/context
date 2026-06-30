@@ -1,0 +1,75 @@
+{
+  "title": "Why Don't Our Good Intentions Become Action?",
+  "slug": "why-do-our-good-intentions-not-become-action",
+  "category": "learning-and-growth",
+  "metaTitle": "Why Don't Good Intentions Become Action? The Research",
+  "metaDescription": "Why intentions so often fail to become action — the intention-action gap — and what the research on if-then plans actually shows helps close it.",
+  "lifeArea": "Learning & Growth",
+  "keyFinding": "Intentions predict behaviour only weakly, and research finds that the gap between meaning to act and actually acting closes more reliably through specific plans and changed surroundings than through extra willpower.",
+  "honestAnswer": [
+    "Because intending to do something is only loosely connected to doing it. This is one of the more robust findings in behavioural science: when researchers measure people's intentions and then watch what they actually do, the two line up far less than common sense expects. A meaningful change in intention produces only a small change in behaviour. The gap is not a personal defect; it is the normal state of affairs.",
+    "The encouraging part is that the gap is partly addressable, but not in the way most people try. The evidence points away from summoning more willpower and toward two things: deciding in advance exactly when, where, and how you will act, and shaping your surroundings so the intended action is the easy one. The plan and the situation do much of the work that motivation is usually asked to do."
+  ],
+  "whatDataShows": [
+    "The clearest statement of the problem comes from work by Paschal Sheeran and Thomas Webb on what they call the intention-behaviour gap. Reviewing the evidence, they conclude that intentions account for only a modest share of the variation in whether people actually act, and that a large proportion of people who form a genuine intention — to exercise, to study, to follow through on a goal — nonetheless fail to carry it out. Intending is a weak predictor of doing.",
+    "One intervention stands out for closing part of the gap: implementation intentions, studied extensively by Peter Gollwitzer. These are specific 'if-then' plans that link a concrete situation to a concrete response — 'if it is 7am and I have finished breakfast, then I will put on my shoes and walk' — rather than a vague goal to be more active. A meta-analysis by Gollwitzer and Sheeran (2006) found that forming such plans had a medium-to-large effect on goal attainment across many studies, well beyond merely holding the intention.",
+    "A broader theme across this literature is that situation tends to beat willpower. People who appear to have strong self-control are often, on closer inspection, people who have arranged their lives so that fewer acts of self-control are required — temptations are out of reach, cues for the wanted behaviour are everywhere. The behaviour that happens is heavily shaped by the immediate environment, not just the strength of the resolve."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like intention should be enough because, from the inside, the decision feels like the hard part. Once you have sincerely resolved to do something, it seems as though the doing should follow automatically — so when it doesn't, it reads as a failure of character rather than a predictable gap that almost everyone experiences.",
+    "We also remember our intentions vividly and our inaction vaguely. The moment of deciding to change is emotionally charged and easy to recall; the hundred small moments where the plan quietly didn't happen are diffuse and forgettable. So the felt strength of the intention stays high in memory while the follow-through erodes unnoticed.",
+    "And the culture frames this almost entirely as willpower. Most advice tells people to want it more, to be more disciplined — which locates the problem in motivation. The research locates much of it in planning and environment, which is why trying harder to want something often changes so little."
+  ],
+  "whatResearchSaysToDo": [
+    "The best-supported single tactic is to convert vague intentions into specific if-then plans. Decide in advance the exact cue — a time, a place, a preceding event — and the exact action that will follow it. This pre-commitment means that when the moment arrives you are executing a decision already made rather than deciding again under pressure, which is where intentions usually collapse.",
+    "Shaping the situation does much of the rest. Making the intended action easier and more obvious — laying out the gear, removing the friction, placing the cue in your path — and making the competing behaviour harder reliably shifts what actually happens. The research consistently favours changing the environment over relying on in-the-moment resolve.",
+    "Anticipating obstacles in advance also helps. A related technique pairs a clear picture of the desired outcome with an honest look at the specific obstacle likely to derail it, then attaches an if-then plan to that obstacle. Naming what usually goes wrong, before it goes wrong, lets you pre-load a response instead of being surprised by the same barrier each time."
+  ],
+  "whatDoesNotHelp": [
+    "Simply intending harder rarely closes the gap. Because intention is a weak predictor of action, strengthening the resolve without changing the plan or the situation tends to produce a stronger feeling and roughly the same behaviour. The repeated experience of 'this time I really mean it' followed by no change is the gap in action.",
+    "Relying on motivation or willpower to carry you through is fragile, because both fluctuate and deplete across a day. Systems that depend on feeling motivated at the right moment fail precisely when motivation is lowest — which is often exactly when the action is needed.",
+    "Vague goals — 'be healthier', 'study more', 'be more present' — are particularly weak, because they specify no cue and no concrete action, leaving every instance to be negotiated in the moment. The evidence strongly favours specificity over good intentions stated in general terms."
+  ],
+  "realNumbersInContext": [
+    "In Sheeran and Webb's reviews, intentions explain only a modest fraction of the variance in actual behaviour — and a substantial share of people who form a genuine intention do not act on it. The exact figures vary by behaviour and study and should be read as a consistent pattern rather than fixed constants: intending is real but is a weak guide to doing.",
+    "On the other side, the meta-analysis of implementation intentions by Gollwitzer and Sheeran (2006) found a medium-to-large average effect on goal attainment across a large number of studies. That is a sizeable improvement for a technique that costs nothing but a moment of specific planning — though, as with all averages, individual results vary and the plans help most when the goal is something you genuinely want to do."
+  ],
+  "realNumbers": [
+    { "value": "Weak", "label": "Strength of intention as a predictor of actual behaviour", "source": "Sheeran & Webb, intention-behaviour gap" },
+    { "value": "Medium–large", "label": "Average effect of if-then implementation intentions on goal attainment", "source": "Gollwitzer & Sheeran, meta-analysis 2006" },
+    { "value": "Situation > willpower", "label": "Behaviour is shaped more by environment than by in-the-moment resolve", "source": "Self-control and habit research" }
+  ],
+  "faqs": [
+    {
+      "question": "Why do I keep failing to do things I genuinely want to do?",
+      "answer": "Because intention is only weakly connected to action — this is the well-documented intention-behaviour gap. Most people who form a sincere intention still don't follow through, not from weak character but because intending and doing are separate steps. Specific plans and a supportive environment close more of the gap than wanting it more does."
+    },
+    {
+      "question": "What is an implementation intention?",
+      "answer": "It's a specific 'if-then' plan that links a concrete situation to a concrete action — for example, 'if it's 7am and I've finished breakfast, then I'll go for a walk.' Research by Gollwitzer finds these plans have a medium-to-large effect on actually reaching goals, well beyond simply holding the intention."
+    },
+    {
+      "question": "Is the problem just that I lack willpower?",
+      "answer": "The research suggests not. People who seem highly self-controlled often just face fewer temptations because they've arranged their surroundings well. Behaviour is shaped heavily by the immediate environment, so relying on willpower in the moment is one of the less reliable approaches."
+    },
+    {
+      "question": "Do if-then plans work for everything?",
+      "answer": "They help across many goals but are not magic. They work best for actions you genuinely intend to take and where a clear cue exists. They do less for goals you're ambivalent about, and like any average effect, results vary from person to person."
+    },
+    {
+      "question": "How do I make my surroundings do the work?",
+      "answer": "Make the intended action easier and more obvious — reduce the friction, put the cue in your path — and make the competing behaviour harder. The consistent finding is that changing the situation outperforms trying to out-muscle it with resolve in the moment."
+    }
+  ],
+  "dataSources": [
+    "Sheeran, P., & Webb, T. L. (2016). The Intention-Behavior Gap. Social and Personality Psychology Compass, 10(9), 503–518.",
+    "Gollwitzer, P. M. (1999). Implementation Intentions: Strong Effects of Simple Plans. American Psychologist, 54(7), 493–503.",
+    "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes. Advances in Experimental Social Psychology, 38, 69–119."
+  ],
+  "relatedInsights": [
+    "how-long-does-it-really-take-to-build-a-habit",
+    "is-it-better-to-focus-on-goals-or-systems",
+    "why-does-getting-good-at-something-take-so-long"
+  ],
+  "lastReviewed": "2026-06"
+}

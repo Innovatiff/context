@@ -1,0 +1,76 @@
+{
+  "title": "Why Do We Doomscroll?",
+  "slug": "why-do-we-doomscroll",
+  "category": "technology-and-attention",
+  "metaTitle": "Why Do We Doomscroll? The Research Behind It",
+  "metaDescription": "Doomscrolling combines the brain's pull toward bad news with infinite-scroll design and uncertainty-driven checking — and the research links it to worse mood.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "Doomscrolling is driven by the brain's built-in pull toward threatening information combined with infinite-scroll design and the urge to reduce uncertainty, and the research links it to worse mood and higher anxiety.",
+  "honestAnswer": [
+    "We doomscroll because several forces line up: the human brain is wired to attend more to negative and threatening information, the platforms are designed so there is always more to scroll, and during uncertain or frightening times we keep checking in an attempt to feel less in the dark. None of these is a personal flaw. They are an old attentional bias, a deliberate interface, and a reasonable-feeling urge to stay informed, combining into a behaviour that is easy to start and hard to stop.",
+    "The catch is that the behaviour tends to make people feel worse rather than calmer. The research that exists on doomscrolling — a relatively new and still-developing area — links it to lower mood, more anxiety, and in some studies poorer wellbeing, even though it is often motivated by a desire to reduce worry. So the honest summary is that doomscrolling is an understandable response to a frightening, infinitely scrollable information stream, but one that usually deepens the distress it is meant to relieve."
+  ],
+  "whatDataShows": [
+    "The first ingredient is negativity bias — the well-established finding that people attend to, react to, and remember negative information more strongly than equivalent positive information. Foundational reviews such as Baumeister and colleagues' 'Bad Is Stronger Than Good' (2001) and Rozin and Royzman's work on negativity bias document how threat-relevant information dominates attention. Bad news is, in this sense, more attention-grabbing by default, which gives alarming content a built-in advantage.",
+    "The second ingredient is design. Infinite scroll and algorithmic feeds remove natural stopping points and continuously serve whatever holds attention — and because negative, outrage-provoking, or alarming content tends to hold attention, it is well represented in what gets surfaced. The interface supplies an endless stream and the bias selects the darkest parts of it, a combination that keeps the scroll going far past the point of usefulness.",
+    "The third strand is uncertainty-driven checking. During crises or uncertain periods, people scroll partly to reduce the discomfort of not knowing, in a checking pattern similar to other anxiety-maintenance behaviours. Early research on doomscrolling — a young field, so findings should be held loosely — associates the habit with worse mood, higher anxiety, and poorer wellbeing, suggesting the relief it promises rarely materialises and the distress often grows instead."
+  ],
+  "whyItFeelsDifferent": [
+    "Doomscrolling feels like staying informed, which is what makes it so easy to justify. Each individual article or post seems like responsible attention to a real situation, so the behaviour presents itself as diligence rather than distress. The line between being informed and being flooded is blurry in the moment, and the scroll rarely announces when you have crossed it.",
+    "It also feels like it should bring relief, because the urge underneath is often a wish to reduce uncertainty — to finally know enough to feel safe. But threat information is effectively endless, so the 'one more' that promises closure just surfaces another worry. The behaviour is self-perpetuating precisely because the feeling it chases, of being on top of the danger, recedes as fast as you approach it.",
+    "And the negativity bias keeps the experience gripping even as it gets unpleasant. Alarming content holds attention by design of our own psychology, so the scroll stays engaging in the moment even while it erodes mood over time. The pull and the harm run on the same mechanism, which is why doomscrolling can feel compelling and depleting at once."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the behaviour leans on an infinite stream with no natural stopping point, adding external limits tends to help more than relying on the feeling of 'enough,' which negativity bias keeps pushing back. Setting time boundaries, removing the most pull-heavy apps or using them only in a browser, and turning off breaking-news notifications insert stopping points the interface deliberately omits.",
+    "Choosing the shape of your information intake also helps. The general literature on news and wellbeing suggests that swapping an endless, real-time, algorithmic feed for a bounded source consumed at set times — a daily read rather than a continuous scroll — tends to keep people informed with less of the anxiety the rolling feed produces. The goal is staying informed without staying flooded.",
+    "For the uncertainty-driven part, the research on anxiety-maintenance behaviours points toward tolerating some not-knowing rather than chasing certainty that the stream cannot provide. Noticing that the urge to check is a bid to feel safe — and that the scroll reliably fails to deliver that safety — can make it easier to stop, and substituting a different response to the same anxious cue tends to outperform trying to scroll your way to calm."
+  ],
+  "whatDoesNotHelp": [
+    "Scrolling further in search of relief is the core trap, because threat information is effectively endless and the negativity bias keeps surfacing more of it. The 'one more update' that promises to finally settle your worry almost never does; it usually adds another worry. Continuing rarely produces the closure it seems to offer.",
+    "Pure willpower against an infinite, frictionless feed tends to lose, just as it does with other cue-driven phone habits. Resolving to stop while the endless stream and the alarming content remain one tap away pits effort against a system built to keep you scrolling. Changing the environment — limits, notifications off, bounded sources — works better than resisting the pull in the moment.",
+    "Telling yourself it is harmless because you are 'just keeping informed' obscures the pattern the research describes. Beyond a point, more scrolling adds little real information and a lot of mood cost; the early evidence links the habit to worse mood and higher anxiety rather than to being usefully better informed. The behaviour can feel like diligence while functioning mostly as distress."
+  ],
+  "realNumbersInContext": [
+    "Doomscrolling is a young research area, so it is more honest to describe directions than precise figures. What the existing studies broadly find is an association between heavier doomscrolling and worse mood, higher anxiety, and in some work poorer wellbeing — though much of this is correlational, so it cannot cleanly separate whether scrolling worsens mood, low mood drives scrolling, or both. The link is real in the data; the exact causal share is not settled.",
+    "The more solid numbers sit underneath, in the older literature the behaviour draws on. Negativity bias is one of the most replicated findings in psychology — bad information reliably outweighs equivalent good information in attention and memory — and infinite-scroll design is a documented feature choice rather than an accident. Doomscrolling is best understood as those two well-established forces meeting an uncertainty-driven urge to check, with the emerging mood findings layered on top and held loosely."
+  ],
+  "realNumbers": [
+    { "value": "Negativity bias", "label": "Bad information reliably outweighs equivalent good information in attention and memory", "source": "Baumeister et al. (2001); Rozin & Royzman" },
+    { "value": "No stop point", "label": "Infinite scroll and algorithmic feeds remove natural stopping cues by design", "source": "Persuasive-design / attention-economy critique" },
+    { "value": "Worse mood", "label": "Direction emerging research links to heavier doomscrolling (correlational, young field)", "source": "Early doomscrolling and wellbeing studies" }
+  ],
+  "faqs": [
+    {
+      "question": "What exactly is doomscrolling?",
+      "answer": "It is the habit of continuously scrolling through negative or distressing news and posts, often well past the point of usefulness and often when you feel anxious or uncertain. It combines the brain's pull toward bad news with infinite-scroll design and a desire to reduce the discomfort of not knowing — and the early research links it to worse mood rather than relief."
+    },
+    {
+      "question": "Why is bad news so much harder to look away from?",
+      "answer": "Because of negativity bias, one of the most replicated findings in psychology: people attend to, react to, and remember negative and threatening information more strongly than equivalent positive information. Alarming content has a built-in attentional advantage, which is part of why a feed full of it is so hard to put down."
+    },
+    {
+      "question": "Does doomscrolling actually make me feel worse?",
+      "answer": "The emerging evidence points that way. Studies link heavier doomscrolling to lower mood, more anxiety, and in some cases poorer wellbeing. The field is young and much of the data is correlational — so it cannot fully separate cause from effect — but the relief the behaviour seems to promise rarely arrives, and distress often grows instead."
+    },
+    {
+      "question": "If it makes me anxious, why do I keep doing it?",
+      "answer": "Partly because the urge underneath is to reduce uncertainty and feel safe, and the scroll always seems to offer one more update that might finally settle things. But threat information is effectively endless, so the closure never comes. The same negativity bias and infinite-scroll design that make it gripping also make it self-perpetuating."
+    },
+    {
+      "question": "How do I stop doomscrolling?",
+      "answer": "Add the stopping points the feed deliberately removes: set time limits, turn off breaking-news notifications, and consider a bounded news source read at set times instead of a continuous algorithmic feed. Because the pull is environmental, changing the environment tends to work better than willpower. Noticing that the urge is a bid to feel safe the scroll can't satisfy can also help you step away."
+    }
+  ],
+  "dataSources": [
+    "Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad Is Stronger Than Good. Review of General Psychology, 5(4), 323–370.",
+    "Rozin, P., & Royzman, E. B. (2001). Negativity Bias, Negativity Dominance, and Contagion. Personality and Social Psychology Review, 5(4), 296–320.",
+    "Emerging research on doomscrolling and wellbeing (a young, largely correlational field; findings treated as provisional).",
+    "Persuasive-design / attention-economy critique of infinite scroll and algorithmic feeds."
+  ],
+  "relatedInsights": [
+    "does-social-media-actually-make-you-unhappy",
+    "are-notifications-actually-making-us-anxious",
+    "why-do-we-dwell-on-negative-thoughts"
+  ],
+  "lastReviewed": "2026-06"
+}

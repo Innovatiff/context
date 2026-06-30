@@ -1,0 +1,76 @@
+{
+  "title": "Are We More Divided Than We Used to Be?",
+  "slug": "are-we-more-divided-than-we-used-to-be",
+  "category": "society-and-belonging",
+  "metaTitle": "Are We More Divided Than We Used to Be?",
+  "metaDescription": "Dislike across political lines has risen, but people also overestimate how divided we actually are. Here is what the research shows, kept non-partisan.",
+  "lifeArea": "Society & Belonging",
+  "keyFinding": "Animosity across political lines (affective polarization) has measurably risen in several democracies, but people also systematically overestimate how different and extreme the other side is — so the felt division runs well ahead of the actual gap.",
+  "honestAnswer": [
+    "On one important measure, yes: how much people on opposite political sides dislike and distrust each other — what researchers call affective polarization — has risen over recent decades, especially in the United States. People increasingly sort their identities, friendships, and even where they live along political lines. That part is well documented.",
+    "But there is a crucial second finding that pulls the other way: people badly overestimate how divided we actually are. Surveys of what each side really believes, set against what each side imagines the other believes, reveal a sizable \"perception gap\" — the imagined opponent is more extreme, more hostile, and more numerous than the real one. So the honest answer is that animosity has grown, while perceived division has grown even faster, leaving the gap between feeling and reality unusually wide. This page stays descriptive and takes no political side."
+  ],
+  "whatDataShows": [
+    "The clearest documented change is affective polarization — feelings toward the other side rather than the substance of policy. Research associated with Shanto Iyengar and colleagues finds that in the US, warmth toward one's own political group has stayed fairly stable while warmth toward the opposing group has fallen substantially, so the gap between how people feel about \"us\" and \"them\" has widened markedly. The same pattern appears, to varying degrees, in a number of other democracies.",
+    "Alongside this is partisan sorting: political identity has become more aligned with other identities — social, geographic, cultural — so that disagreement feels more total and more personal than when party lines cut across those other groupings. Sorting makes the divide feel deeper because more of life now lines up with it, even where positions on specific issues have not moved as much.",
+    "The counterweight comes from research on the \"perception gap,\" notably work by the organization More in Common. Across studies, people on each side substantially overestimate how extreme, how hostile, and how monolithic the other side is — and those most engaged with political news often have the most distorted picture, not the most accurate one. So measured animosity is up, but a large share of the felt division rests on inaccurate impressions of the other side rather than on real differences of that size."
+  ],
+  "whyItFeelsDifferent": [
+    "Division feels overwhelming partly because the information environment selects for the most extreme and combative voices. What reaches you is disproportionately the angriest content from the loudest minority on each side, which is unrepresentative of how most people actually think — so your sense of \"the other side\" is built from an outlier sample, and registers as far more hostile than the median person.",
+    "Sorting compounds the feeling. Because political identity now aligns with so many other identities, a disagreement that is really about one issue can feel like a clash of entire ways of life. The divide feels more total than the underlying positions warrant, because more of life now lines up on the same axis.",
+    "And there is a self-confirming loop: when each side believes the other is more extreme and hostile than it is, both sides respond more defensively, which produces exactly the antagonism each expected. The perception gap doesn't just misread the division — it can quietly widen the real one by changing how people behave toward an opponent they have overestimated."
+  ],
+  "whatResearchSaysToDo": [
+    "The most direct, evidence-aligned step is to calibrate against actual data rather than impressions: studies on the perception gap suggest that simply learning what the other side really believes — as opposed to the caricature — tends to shrink the perceived divide, because the imagined opponent was more extreme than the real one. Checking the caricature against survey reality is itself a corrective.",
+    "Because the loudest, most combative voices are unrepresentative, weighting them less is reasonable. Research on affective polarization suggests the most engaged news consumers often hold the most distorted picture of the other side, so treating the angriest online material as a sample of \"what they think\" reliably misleads. The median person on either side is less extreme than the feed implies.",
+    "And the broader social-trust and contact research points gently toward ordinary, non-political shared activity — being around people across lines in settings that aren't about politics — as associated with lower out-group animosity. The effects here are modest and the evidence is mixed in places, so this is offered as a direction the research leans, not a guaranteed remedy."
+  ],
+  "whatDoesNotHelp": [
+    "Inferring \"how divided we are\" from social media, comment sections, or the most heated coverage reliably misleads, because those environments amplify the most extreme voices on every side. The aggregate of ordinary people is consistently less extreme than the signal those channels produce — so reading them as a representative sample inflates the perceived divide.",
+    "Assuming the other side is uniformly extreme and hostile is precisely the perception-gap error the research documents, and it tends to be self-confirming: expecting hostility produces defensive behavior that generates the very antagonism that was assumed. Treating the caricature as the reality widens the real gap.",
+    "Concluding that disagreement itself proves we are hopelessly broken overstates the case. Robust disagreement has always existed in pluralistic societies; what has measurably changed is the animosity and sorting around it, plus a perception gap that exaggerates the rest. Mistaking normal disagreement for unprecedented division is itself part of the distortion."
+  ],
+  "realNumbersInContext": [
+    "On the measured side, affective polarization research (Iyengar and colleagues) finds that in the US, warmth toward one's own party has stayed roughly stable while warmth toward the opposing party has fallen substantially over recent decades, widening the us-versus-them gap — a real, documented change, mirrored to varying degrees in other democracies. Partisan sorting has reinforced it by aligning political identity with other identities.",
+    "On the perception side, work by More in Common finds a sizable \"perception gap\": people on each side overestimate how extreme and hostile the other side is, often by a wide margin, with the most politically engaged frequently holding the least accurate picture. The honest synthesis is that animosity is genuinely up, but perceived division outruns actual division — the feeling has risen faster than the underlying difference. These figures are directional, drawn from specific surveys, and should be read as patterns rather than precise constants. This summary is descriptive and non-partisan by design."
+  ],
+  "realNumbers": [
+    { "value": "Risen", "label": "Dislike of the opposing political group (affective polarization)", "source": "Iyengar et al. / political science research" },
+    { "value": "Perception gap", "label": "People overestimate how extreme the other side is", "source": "More in Common" },
+    { "value": "Most engaged", "label": "Heaviest political-news consumers often hold the most distorted picture", "source": "Perception-gap research" }
+  ],
+  "faqs": [
+    {
+      "question": "Are we actually more divided than we used to be?",
+      "answer": "On animosity, yes — dislike and distrust across political lines (affective polarization) has measurably risen in the US and several other democracies, and political identity has sorted together with other identities. But people also overestimate how divided we are: research finds a 'perception gap' where each side imagines the other as more extreme and hostile than it really is."
+    },
+    {
+      "question": "What is affective polarization?",
+      "answer": "It's polarization in feelings rather than in policy positions — how much people on opposite sides dislike and distrust each other. Research finds warmth toward one's own side has stayed fairly stable while warmth toward the other side has fallen, widening the us-versus-them gap, even where views on specific issues have moved less."
+    },
+    {
+      "question": "What is the 'perception gap'?",
+      "answer": "It's the difference between what the other side actually believes and what people imagine it believes. Research by More in Common finds people substantially overestimate how extreme, hostile, and uniform the other side is — and the most politically engaged often have the most distorted picture, not the most accurate one."
+    },
+    {
+      "question": "Why does division feel so much worse than the data says?",
+      "answer": "Because the information environment amplifies the loudest, most combative voices, who are unrepresentative of how most people think; because sorting makes single disagreements feel like total ones; and because expecting hostility produces defensive behavior that confirms it. The felt division runs ahead of the measured difference."
+    },
+    {
+      "question": "Does disagreement itself mean society is broken?",
+      "answer": "Not on its own. Robust disagreement is normal in any pluralistic society. What has measurably changed is the animosity and identity-sorting around disagreement, plus a perception gap that exaggerates the rest. Treating ordinary disagreement as unprecedented division is itself part of the distortion the research describes."
+    }
+  ],
+  "dataSources": [
+    "Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The Origins and Consequences of Affective Polarization in the United States. Annual Review of Political Science, 22, 129–146.",
+    "More in Common — research on the 'perception gap' in political attitudes.",
+    "Survey research on partisan sorting and inter-group attitudes (political science literature).",
+    "World Values Survey / general survey research on social and political attitudes over time."
+  ],
+  "relatedInsights": [
+    "is-social-trust-really-declining",
+    "why-do-we-believe-things-that-arent-true",
+    "do-we-want-to-be-understood-or-just-agreed-with"
+  ],
+  "lastReviewed": "2026-06"
+}

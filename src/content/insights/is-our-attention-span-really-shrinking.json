@@ -1,0 +1,75 @@
+{
+  "title": "Is Our Attention Span Really Shrinking?",
+  "slug": "is-our-attention-span-really-shrinking",
+  "category": "technology-and-attention",
+  "metaTitle": "Is Our Attention Span Really Shrinking? The Evidence",
+  "metaDescription": "The viral 'eight-second attention span' claim is not supported. What the evidence shows is faster switching and more fragmented attention, not a shorter span.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "There is no good evidence that human attention spans have shrunk to a fixed number of seconds; the well-documented change is that attention has become more fragmented and people switch focus far more often, especially on screens.",
+  "honestAnswer": [
+    "The popular version — that the human attention span has dropped to eight seconds, shorter than a goldfish — is not supported by evidence and appears to be a misattributed, unsourced claim that spread because it was catchy. There is no credible study establishing a fixed 'attention span in seconds' for people, and the goldfish comparison has no scientific basis. So the specific viral figure is best treated as a myth.",
+    "That does not mean nothing has changed. What the research does document is different from a shrinking span: attention has become more fragmented, and people now switch their focus far more frequently, particularly when working on screens. Attention is also strongly task- and motivation-dependent — the same person who 'can't focus' on one thing will lose hours in absorbed concentration on another. The honest picture is not a shorter clock but a more interrupted, faster-switching pattern of attention."
+  ],
+  "whatDataShows": [
+    "Attention is not one fixed quantity. Cognitive science distinguishes several kinds — sustained, selective, divided — and how long someone stays focused depends heavily on the task, the difficulty, the reward, and the person's motivation and interest. People absorbed in something engaging can concentrate for long stretches, which is hard to reconcile with the idea of a fixed few-second ceiling. There is no single number that captures 'the' attention span.",
+    "The 'eight-second' claim has been traced by fact-checkers and journalists to a statistic that was widely circulated without a verifiable source, and the supposed goldfish comparison has no scientific origin. It is a textbook example of a number that travelled far precisely because it was memorable, not because it was established. Treat any single-figure attention-span statistic with skepticism.",
+    "Where there is solid evidence is on fragmentation. Gloria Mark's long-running observational research on people at work found that the average length of time spent on a single screen before switching has fallen markedly over the years she has studied it — from a couple of minutes in earlier studies to well under a minute in more recent ones — and that interruptions and self-interruptions are frequent. That is a documented change in how attention is deployed: more switching, shorter dwell times, not a shortened capacity to attend."
+  ],
+  "whyItFeelsDifferent": [
+    "It feels like your attention span has collapsed because the experience of constant switching is real even though the 'shrinking span' explanation is wrong. When your day is full of notifications, tabs, and feeds engineered to pull you on, you switch constantly — and that lived sense of never settling gets interpreted as 'I can't focus anymore,' a tidy story the eight-second myth seems to confirm.",
+    "The task dependence also hides from view. You notice the times you could not stay with a dull report and forget the times you were lost for an hour in a game, a conversation, or something you cared about. Because the failures of focus are salient and the successes feel unremarkable, it is easy to conclude your capacity has dropped when what has really changed is the environment competing for it.",
+    "And a catchy comparison is stickier than a careful one. 'Shorter than a goldfish' is vivid, self-deprecating, and shareable, which is exactly why a number with no source outran the more accurate but less quotable finding — that attention has become more fragmented. The myth feels true partly because it has been repeated so often, which is its own kind of illusion."
+  ],
+  "whatResearchSaysToDo": [
+    "Because the documented problem is fragmentation rather than a fixed short span, the useful levers are the ones that reduce switching. Mark's work and the wider literature point to limiting interruptions — silencing non-essential notifications, closing competing tabs and apps, and protecting blocks of single-task time — so attention is not constantly being pulled away. The aim is fewer switches, not a heroic effort to lengthen some innate clock.",
+    "Matching tasks to motivation also helps, given how task-dependent attention is. Work that connects to a clear goal or genuine interest holds attention far better than work that does not, so structuring the day to do demanding or meaningful work when engagement is highest tends to outperform trying to brute-force focus on something the mind is not invested in.",
+    "Managing the environment that drives self-interruption matters as much as resisting external pings. Mark's research highlights that a large share of switches are self-initiated — we interrupt ourselves out of boredom or habit — so adding friction to the easy escape routes (the phone within reach, the open feed) addresses the part of fragmentation that willpower alone tends to lose to."
+  ],
+  "whatDoesNotHelp": [
+    "Believing the eight-second myth does not help and may hurt, because accepting that your attention is biologically broken to a few seconds invites resignation rather than action. The claim is unsupported; treating it as fact mislabels an environmental problem — fragmentation you can reduce — as a fixed personal deficit you cannot.",
+    "Trying to 'train your attention span' back to some imagined longer number is aiming at the wrong target, since there was never a fixed number to restore. Endless focus drills and apps that promise to rebuild your span tend to overpromise; the better-evidenced move is reducing the interruptions and switches that fragment attention in the first place.",
+    "Blaming a single technology as the sole cause oversimplifies. Attention is shaped by task, motivation, sleep, stress, and environment as well as devices, and pinning everything on 'phones shrank my brain' both overstates the evidence and points away from the broader, more actionable picture. The change is in how attention is deployed across a busy environment, not a one-cause collapse of capacity."
+  ],
+  "realNumbersInContext": [
+    "The number you have probably heard — an eight-second attention span, shorter than a goldfish — has no credible source and should be set aside. There is no established 'attention span in seconds' for humans, because attention is not a single fixed quantity; it varies with the task, the difficulty, the reward, and the person. Any viral single-figure statistic here deserves skepticism.",
+    "The figures that are real describe switching, not span. Gloria Mark's observational research found average dwell time on a single screen before switching has fallen over the years she has measured it — roughly from a couple of minutes in earlier work to under a minute more recently, with frequent interruptions and self-interruptions. The documented change is faster, more fragmented switching, which is a different and more accurate claim than 'attention spans are shrinking.'"
+  ],
+  "realNumbers": [
+    { "value": "No basis", "label": "Evidence behind the viral 'eight-second' / goldfish attention-span claim", "source": "Fact-checking of the unsourced statistic" },
+    { "value": "Task-dependent", "label": "Attention varies with task, difficulty, reward and motivation — not a fixed number", "source": "Cognitive science of attention" },
+    { "value": "Under ~1 min", "label": "Average dwell time on a screen before switching in recent observational research (down from a couple of minutes)", "source": "Gloria Mark, attention research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is the eight-second attention span real?",
+      "answer": "No. The claim that human attention has dropped to eight seconds — shorter than a goldfish — has no credible source and appears to be a misattributed statistic that spread because it was catchy. There is no established 'attention span in seconds' for people, and the goldfish comparison has no scientific basis."
+    },
+    {
+      "question": "So has anything actually changed about our attention?",
+      "answer": "Yes, but not what the myth says. The documented change is fragmentation: people switch focus far more often and dwell on a single screen for less time than they used to, especially when working on devices. That is a change in how attention is deployed across a busy environment, not a shrinking of an innate capacity to focus."
+    },
+    {
+      "question": "Why can I binge a show for hours but not read a chapter?",
+      "answer": "Because attention is strongly task- and motivation-dependent. The same person concentrates for long stretches on something engaging and struggles on something dull or effortful. That is normal, and it is evidence against the idea of a fixed short span — your capacity to attend depends heavily on what you are attending to."
+    },
+    {
+      "question": "Are phones destroying our ability to concentrate?",
+      "answer": "The honest answer is more measured than the headline. Devices and notifications clearly contribute to a more fragmented, faster-switching pattern of attention, and a large share of interruptions are self-initiated. But attention is also shaped by task, motivation, sleep and stress, so 'phones broke my brain' overstates the evidence. The change is in deployment, not a one-cause collapse."
+    },
+    {
+      "question": "Can I rebuild my attention span?",
+      "answer": "There is no fixed number to rebuild, so the better target is reducing fragmentation: silence non-essential notifications, close competing tabs and apps, protect blocks of single-task time, and match demanding work to when your motivation is highest. The aim is fewer switches and interruptions rather than restoring some imagined longer clock."
+    }
+  ],
+  "dataSources": [
+    "Mark, G. (2023). Attention Span: A Groundbreaking Way to Restore Balance, Happiness and Productivity — and related observational research on screen dwell time and interruptions.",
+    "Cognitive science of attention — distinctions between sustained, selective and divided attention and the task- and motivation-dependence of focus.",
+    "Fact-checking and journalistic investigation of the unsourced 'eight-second attention span' / goldfish comparison."
+  ],
+  "relatedInsights": [
+    "how-much-time-do-distractions-actually-cost-us",
+    "does-multitasking-actually-work",
+    "why-does-time-disappear-when-youre-online"
+  ],
+  "lastReviewed": "2026-06"
+}

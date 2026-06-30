@@ -1,0 +1,77 @@
+{
+  "title": "Does Technology Actually Make Us More Productive?",
+  "slug": "does-technology-actually-make-us-more-productive",
+  "category": "technology-and-attention",
+  "metaTitle": "Does Technology Make Us More Productive? The Evidence",
+  "metaDescription": "Tools genuinely help, but always-on distraction and constant switching eat into the gains. The evidence is mixed — here is the honest, hedged picture.",
+  "lifeArea": "Technology & Attention",
+  "keyFinding": "Technology genuinely raises productivity in many ways, but always-on distraction and constant task-switching erode part of those gains, and the overall evidence is mixed rather than one-sided.",
+  "honestAnswer": [
+    "The honest answer is both, and the balance is genuinely contested. Technology has made enormous categories of work faster, cheaper, and possible at all — that part is not seriously in doubt. But the same connected devices that supply those tools also supply constant interruption and the temptation to switch, which the research on attention shows carries a real cost. So the gains are real and the leakage is real, and the net effect depends heavily on how the tools are used.",
+    "This tension has a name in economics: the productivity paradox. For long stretches, large investments in information technology did not show up clearly in the productivity statistics, prompting the economist Robert Solow's famous quip that you could see the computer age everywhere except in the productivity figures. Later work, including by Erik Brynjolfsson and colleagues, helped explain the lag and found real benefits — but the episode is a lasting caution that 'more technology' does not automatically mean 'more productivity,' and that measuring the effect is harder than it looks."
+  ],
+  "whatDataShows": [
+    "The clear part is that specific tools genuinely raise output. Whole domains of work — calculation, writing, communication, design, logistics — are faster and more capable than they were, and at the level of individual tasks the productivity benefit of the right tool is often large and obvious. No honest account denies that technology has expanded what a person can do.",
+    "The puzzle is at the aggregate level. The productivity paradox refers to the long period when heavy spending on information technology did not show up as expected in economy-wide productivity growth — captured in Solow's 1987 remark. Brynjolfsson and co-authors argued the gains were real but delayed and mismeasured: organisations had to reinvent how they worked, and complementary changes took years to pay off. The lesson is that the link between adopting technology and realising productivity is slow, indirect, and easy to overstate.",
+    "Meanwhile the attention research documents where gains leak away. Studies of task-switching and interruption — including Gloria Mark's workplace research and the broader switch-cost literature — find that fragmented attention is slower and more error-prone than focused work, and the always-connected device is a steady source of that fragmentation. So the same machine that delivers powerful tools also delivers the distraction that quietly taxes them; the net result is contingent, not guaranteed."
+  ],
+  "whyItFeelsDifferent": [
+    "Technology feels unambiguously productivity-boosting because the tool benefits are visible and immediate while the distraction costs are diffuse and delayed. You notice the document that wrote itself faster; you do not notice the twenty minutes leaking out of a fragmented afternoon. The salient half of the ledger is the helpful half, so the overall impression skews optimistic.",
+    "It also feels productive because being connected feels like working. Responding quickly, staying on top of messages, and having every tool one tab away all read as diligence, even when much of that activity is switching rather than progress. The sense of constant motion is genuine; whether it converts to output is exactly the question the data treats as open.",
+    "And new tools arrive wrapped in promises, so each one feels like it will be the thing that finally makes you efficient. The productivity paradox is a reminder that this expectation routinely outruns the measured reality — the benefits are often real but slower, smaller, and more dependent on changing how you work than the initial promise suggests."
+  ],
+  "whatResearchSaysToDo": [
+    "The most consistent implication is to capture the tool benefits while limiting the distraction that erodes them — which mostly means managing interruptions rather than acquiring more software. Silencing non-essential notifications, batching communication into set times, and protecting blocks of single-task work let the powerful tools do their job without the constant switching that the attention research shows quietly drains the gains.",
+    "Treating new tools as requiring a change in how you work, not just what you use, fits the productivity-paradox evidence. The benefits that eventually showed up came from reorganising processes around the technology, so the practical move is to ask what a tool lets you stop doing or do differently, rather than bolting it onto the same fragmented workflow and expecting magic.",
+    "Being selective also has support, because every additional app and channel is another potential source of switching. The research favours fewer, well-integrated tools used deliberately over a sprawl of notifications-on apps, since the marginal tool often adds more interruption than output. The lever is matching the tool to a real task and then protecting the focus needed to use it."
+  ],
+  "whatDoesNotHelp": [
+    "Assuming that adopting more technology automatically raises productivity is the belief the paradox most directly undercuts. For long periods heavy IT investment did not show up in the productivity figures, and gains arrived only with delay and reorganisation. Buying or installing more, by itself, is not reliably a productivity strategy.",
+    "Equating constant connectivity with effectiveness tends to backfire. Always being reachable means always being interruptible, and the switch-cost research is fairly consistent that fragmented attention is slower and more error-prone than focused work. The responsiveness can feel productive while quietly lowering the output it is meant to support.",
+    "Stacking productivity apps and tools in the hope that the next one fixes your focus rarely works, because each new channel is another source of notifications and switching. More tools is not the same as more done; beyond a point the added interruption can cost more than the added capability, which is the opposite of the intended effect."
+  ],
+  "realNumbersInContext": [
+    "The most useful 'number' here is really a caution: for a long stretch, large information-technology investment did not clearly show up in economy-wide productivity growth — the productivity paradox, crystallised in Robert Solow's 1987 observation that the computer age was visible everywhere except in the productivity statistics. Later analysis (Brynjolfsson and colleagues) found the gains were real but lagged and mismeasured, requiring organisations to change how they worked before the benefits appeared.",
+    "Set that against the attention research, which documents the leak: task-switching and interruption are reliably slower and more error-prone than focused work, and the connected device is a steady source of both. The combined picture is genuinely mixed — powerful, real tool benefits on one side; distraction-driven erosion on the other — so the honest takeaway is that technology can make us more productive, conditional on how it is used, rather than that it simply does."
+  ],
+  "realNumbers": [
+    { "value": "The paradox", "label": "IT investment long didn't show up clearly in productivity statistics", "source": "Solow (1987); productivity-paradox literature" },
+    { "value": "Real but lagged", "label": "Gains found to be genuine but delayed and dependent on reorganising work", "source": "Brynjolfsson and colleagues" },
+    { "value": "Switching tax", "label": "Interruption and task-switching are slower and more error-prone than focused work", "source": "Attention research (Mark; switch-cost literature)" },
+    { "value": "Mixed", "label": "Overall verdict: tools help, distraction erodes, net effect depends on use", "source": "Synthesis of the above" }
+  ],
+  "faqs": [
+    {
+      "question": "So does technology make us more productive or not?",
+      "answer": "Both, depending on use. Specific tools genuinely raise output across many kinds of work — that is not in serious doubt. But the same connected devices supply constant interruption and switching, which the attention research shows carries a real cost. The gains and the leakage are both real, so the net effect depends heavily on how the tools are used rather than being automatic."
+    },
+    {
+      "question": "What is the productivity paradox?",
+      "answer": "It is the observation that for a long period, heavy investment in information technology did not show up clearly in economy-wide productivity growth — captured in Robert Solow's 1987 remark that you could see the computer age everywhere except in the productivity statistics. Later work found the gains were real but delayed, appearing only as organisations changed how they worked."
+    },
+    {
+      "question": "If the tools are so powerful, why don't I feel more productive?",
+      "answer": "Partly because the tool benefits are visible and the distraction costs are diffuse, and partly because being connected feels like working even when much of that activity is switching rather than progress. The always-on device delivers both the capability and the interruption, and fragmented attention is slower than it feels, so the gains can leak away unnoticed."
+    },
+    {
+      "question": "Does buying more productivity apps help?",
+      "answer": "Often less than expected. Every additional app and channel is another source of notifications and switching, and the switch-cost research suggests that beyond a point the added interruption can cost more than the added capability. The better-evidenced move is fewer, well-integrated tools used deliberately, plus protecting blocks of focused time."
+    },
+    {
+      "question": "What actually lets technology pay off?",
+      "answer": "Capturing the tool benefits while limiting the distraction that erodes them: silence non-essential notifications, batch communication, and protect single-task blocks. The productivity-paradox evidence also suggests treating new tools as a reason to change how you work, not just what you use — asking what a tool lets you stop doing or do differently, rather than bolting it onto a fragmented workflow."
+    }
+  ],
+  "dataSources": [
+    "Solow, R. M. (1987) — the 'productivity paradox' observation that the computer age was visible everywhere except in the productivity statistics.",
+    "Brynjolfsson, E., and colleagues — research on the productivity paradox, including the role of delayed gains, mismeasurement, and organisational change.",
+    "Mark, G. — workplace research on interruptions, task-switching, and fragmented attention.",
+    "Task-switching cost literature in cognitive psychology (general body of experimental work on switching between tasks)."
+  ],
+  "relatedInsights": [
+    "does-multitasking-actually-work",
+    "how-much-time-do-distractions-actually-cost-us",
+    "why-does-time-disappear-when-youre-online"
+  ],
+  "lastReviewed": "2026-06"
+}

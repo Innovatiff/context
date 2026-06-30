@@ -1,0 +1,75 @@
+{
+  "title": "Has Religion Been Replaced by Something Else?",
+  "slug": "has-religion-been-replaced-by-something-else",
+  "category": "society-and-belonging",
+  "metaTitle": "Has Religion Been Replaced by Something Else? The Data",
+  "metaDescription": "Religious affiliation is falling in many countries, but no single thing has cleanly replaced its community, meaning, and ritual functions. Here is the data.",
+  "lifeArea": "Society & Belonging",
+  "keyFinding": "Religious affiliation has been declining in many wealthy countries, but the evidence suggests its community, meaning, and ritual functions have been partly scattered across many smaller sources rather than replaced by any single new institution.",
+  "honestAnswer": [
+    "In many wealthy countries, formal religious affiliation and attendance have been falling for decades, and the share of people who say they have no religion — often called the 'nones' — has grown substantially. So in the narrow sense of membership and attendance, organised religion occupies less of public life than it did.",
+    "But 'replaced by something else' is a stronger and shakier claim. Religion has historically bundled together several different things — community and belonging, a sense of meaning and moral framework, ritual and shared milestones, and answers to questions about life and death. The honest reading of the data is that no single new institution has taken over that whole bundle. Instead, those functions appear to have been partly spread across many smaller and more individual sources — and partly left less filled than before. This page describes that pattern without taking a position on whether religion is true or good."
+  ],
+  "whatDataShows": [
+    "The clearest trend is the rise of the religiously unaffiliated. Pew Research Center surveys have tracked a sustained growth in the share of adults in the United States and several other wealthy countries who describe their religion as 'nothing in particular,' atheist, or agnostic, alongside long-running declines in regular attendance. The picture is uneven globally — religion remains central in much of the world and is growing in some regions — so this is a pattern concentrated in certain societies, not a universal one.",
+    "At the same time, being unaffiliated is not the same as having no spiritual or communal life. Surveys consistently find that many 'nones' still report believing in some higher power, praying, or seeking meaning, and that the category mixes committed non-believers with people who are simply disconnected from organised religion. The label marks a move away from institutions more cleanly than a move away from belief.",
+    "On what fills the gap, the evidence is genuinely thin and mixed. Researchers have pointed to a scattering of candidates — secular community groups, fitness and wellness communities, online affiliations, political and identity movements, therapy and self-improvement cultures, and personal 'spiritual but not religious' practice. None of these has the breadth of a traditional congregation, which combined regular face-to-face community, ritual, intergenerational mixing, and shared meaning in one place. The most defensible summary is dispersal, not substitution."
+  ],
+  "whyItFeelsDifferent": [
+    "It can feel as though something has been straightforwardly replaced because the most visible alternatives — wellness movements, online communities, intense political or fan identities — borrow the look of religion: shared language, rituals, in-groups, and a sense of belonging. That surface resemblance makes it tempting to declare a clean swap, even though none of them carries the full set of functions a congregation did.",
+    "It also feels different because the loss is uneven across the bundle. The meaning and belief questions can be answered privately, but the community and ritual functions are harder to reproduce alone, so people may keep a sense of personal spirituality while quietly missing the regular, in-person gathering that organised religion provided. The part that is easiest to lose is often the part that mattered most for connection.",
+    "And the trend is easy to over-read in either direction depending on where you stand. From inside a secular, urban setting the decline can look total; from regions where religion is stable or growing it can look overstated. The data supports a more specific claim — significant decline in affiliation in particular societies — rather than a sweeping story about humanity as a whole."
+  ],
+  "whatResearchSaysToDo": [
+    "If you are weighing what, if anything, religion provided that you might want to keep, the research on wellbeing offers a useful clue: a good share of the measured link between religion and wellbeing appears to operate through community and social connection rather than belief alone. That suggests attending to the community and ritual functions deliberately — building regular, in-person belonging somewhere — is a reasonable response to their decline, whatever your beliefs.",
+    "Because the functions have scattered, the practical move is to be intentional about which ones you want and where you will get them, rather than expecting one institution to supply them all. Some people meet the community need through a congregation, others through secular groups, recurring gatherings, or shared activities; the meaning and ritual needs may be met separately again. The evidence favours conscious assembly over assuming the whole bundle will reappear by default.",
+    "This page is descriptive, not prescriptive about belief. The honest takeaway is that the human needs religion historically served — belonging, meaning, ritual, moral framework — appear to persist even where affiliation falls, so the practical question is less 'should I be religious' and more 'how am I meeting these particular needs,' a question people answer in many different and equally legitimate ways."
+  ],
+  "whatDoesNotHelp": [
+    "Declaring that one new thing has cleanly 'replaced religion' — whether wellness culture, politics, or technology — is not well supported by the data and tends to obscure more than it explains. These movements may echo some religious functions, but none reproduces the full combination of community, ritual, meaning, and intergenerational continuity, so treating any of them as a straight substitute oversells the evidence.",
+    "Assuming that leaving organised religion automatically leaves people adrift is also not supported. Many unaffiliated people report meaning, connection, and purpose through other channels, and surveys do not show that the religiously unaffiliated are uniformly worse off. The relationship between religion and wellbeing is real on average but modest, contested, and heavily mediated by community — not a simple verdict.",
+    "Reading the trend as a universal, one-way march toward secularism overstates it. Religion remains central and in some places growing across much of the world, the 'nones' are an internally mixed group, and affiliation can shift over time. Sweeping claims in either direction tend to outrun what the surveys actually show."
+  ],
+  "realNumbersInContext": [
+    "The headline figure is the growth of the unaffiliated. Pew Research Center surveys have found that the share of U.S. adults who describe their religion as 'nothing in particular,' atheist, or agnostic has risen substantially over the past few decades, into roughly a quarter to a third of adults in recent years, with similar or larger shares in much of Western Europe. The exact numbers depend on country, year, and question wording, so treat them as a clear direction rather than a precise count.",
+    "What that figure does not show is a matching rise in any single replacement. Surveys find many unaffiliated people still pray, believe in a higher power, or seek meaning, and the proposed alternatives are diffuse and hard to measure. So the strongest statement the data supports is that affiliation has fallen markedly in certain societies while the functions religion served have dispersed — not that they have been consolidated somewhere new."
+  ],
+  "realNumbers": [
+    { "value": "~25–33%", "label": "Share of U.S. adults who are religiously unaffiliated in recent years (approximate, rising)", "source": "Pew Research Center" },
+    { "value": "Dispersed", "label": "How religion's community, meaning, and ritual functions appear to have shifted", "source": "Sociology of religion / Pew" },
+    { "value": "Mainly community", "label": "Channel through which much of the religion–wellbeing link appears to operate", "source": "Wellbeing research reviews" }
+  ],
+  "faqs": [
+    {
+      "question": "Are fewer people really religious now?",
+      "answer": "In many wealthy countries, yes — formal affiliation and regular attendance have declined for decades, and the share of people with no religious affiliation has grown, according to Pew Research Center surveys. But the trend is uneven globally; religion remains central in much of the world and is growing in some regions, so this is concentrated in certain societies, not universal."
+    },
+    {
+      "question": "Has anything actually replaced religion?",
+      "answer": "No single institution has cleanly replaced it. Religion bundled together community, meaning, ritual, and moral framework, and the evidence suggests those functions have scattered across many smaller sources — secular groups, wellness and online communities, political and personal identities, therapy and private spirituality — rather than being taken over by one new thing. Dispersal fits the data better than substitution."
+    },
+    {
+      "question": "Does being non-religious mean having no beliefs or community?",
+      "answer": "Not necessarily. Surveys find many religiously unaffiliated people still believe in a higher power, pray, or seek meaning, and find community elsewhere. The 'nones' are an internally mixed group, ranging from committed atheists to people simply disconnected from organised religion, so the label marks a move away from institutions more than away from all belief."
+    },
+    {
+      "question": "Is religion linked to wellbeing, and if so why?",
+      "answer": "On average there is a modest, much-debated positive association between religious involvement and wellbeing. A notable finding is that a good share of it appears to operate through community and social connection rather than belief alone. That points to belonging as a key ingredient — which is part of why its decline raises questions about where that belonging now comes from."
+    },
+    {
+      "question": "Is the move away from religion permanent?",
+      "answer": "The data shows a clear recent direction in certain societies, but not an inevitable or universal one. Affiliation has shifted before, the unaffiliated category is mixed, and religion remains strong or growing in much of the world. Sweeping claims that secularism is destined to win, or that religion is destined to return, both go beyond what the surveys can tell us."
+    }
+  ],
+  "dataSources": [
+    "Pew Research Center — surveys on the religiously unaffiliated ('nones'), affiliation, and attendance in the U.S. and internationally.",
+    "Pew Research Center — Religious Landscape Study and related global religion reports.",
+    "Sociology of religion and wellbeing literature — on the community-mediated component of religion–wellbeing associations."
+  ],
+  "relatedInsights": [
+    "how-much-does-having-a-community-actually-matter",
+    "what-actually-gives-life-meaning-according-to-research",
+    "why-do-we-need-to-feel-part-of-a-group"
+  ],
+  "lastReviewed": "2026-06"
+}

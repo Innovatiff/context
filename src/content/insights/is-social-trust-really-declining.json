@@ -1,0 +1,76 @@
+{
+  "title": "Is Social Trust Really Declining?",
+  "slug": "is-social-trust-really-declining",
+  "category": "society-and-belonging",
+  "metaTitle": "Is Social Trust Really Declining? What the Data Shows",
+  "metaDescription": "Generalized trust has fallen in the US over decades, but the global picture is mixed and the causes are contested. Here is what the long-run data shows.",
+  "lifeArea": "Society & Belonging",
+  "keyFinding": "Generalized social trust has declined substantially in the United States over the past several decades, but the pattern is far from universal — some countries are stable or rising — and the causes remain genuinely contested.",
+  "honestAnswer": [
+    "In some places, yes — measurably. The most-cited long-run measure, the share of Americans who say \"most people can be trusted,\" has fallen markedly across decades of survey data. But the headline \"trust is collapsing everywhere\" overstates it. The decline is clearest in the United States and a few other countries; elsewhere trust has held roughly steady or even risen, which tells you the trend is not an inevitable feature of modern life.",
+    "So the honest answer has two parts. There is a real, well-documented fall in American generalized trust over the long run. And there is genuine disagreement about why it happened and how far it generalizes beyond the US. Treat anyone who is certain about the cause with some caution — the data on the trend is much firmer than the data on the explanation."
+  ],
+  "whatDataShows": [
+    "The long-run American picture comes mainly from the General Social Survey, which has asked since the 1970s whether \"most people can be trusted\" or whether \"you can't be too careful.\" The share choosing \"most people can be trusted\" has fallen over the decades — from somewhere around half of adults in the early surveys to roughly a third in recent years. The exact figures move year to year, but the downward direction over the long run is one of the more robust findings in the literature.",
+    "The cross-national picture is the important corrective. Drawing on the World Values Survey and the OECD's wellbeing data, researchers find that high-trust countries — several in northern Europe, for instance — have stayed high or risen, while the US and some others have slid. Trust is not falling on a single global schedule; it tracks national context, which is itself evidence that the decline is not simply \"what modernity does to people.\"",
+    "It is also worth separating two things the surveys measure. Generalized trust (in strangers, in \"most people\") and institutional trust (in government, media, business) do not move together perfectly. Confidence in major institutions has fallen sharply in the US on many measures, and that institutional erosion is often clearer and faster than the slower drift in person-to-person trust."
+  ],
+  "whyItFeelsDifferent": [
+    "Trust feels like it is in freefall partly because the most visible signals — political conflict, viral outrage, scam warnings, alarming headlines — are exactly the inputs that push the \"you can't be too careful\" answer. The information environment selects for threat, so the felt level of distrust can run well ahead of the slower-moving survey reality.",
+    "There is also a gap between what people say in the abstract and how they behave in practice. Most everyday cooperation — leaving packages, trusting strangers with directions, lending small things — still happens at high rates, even among people who tell a survey that \"most people\" cannot be trusted. The abstract question captures a mood as much as a measured behavior.",
+    "And the decline is uneven across groups and places, so your personal experience may not match the aggregate. Trust tends to be lower where inequality and insecurity are higher, which means two people in the same country can be reading very different local realities and both be broadly right about what they see."
+  ],
+  "whatResearchSaysToDo": [
+    "If the question is what is associated with higher trust, the research points less to individual habits and more to conditions: lower inequality, economic security, and well-functioning, even-handed institutions tend to travel with higher generalized trust. This is correlational and the direction of causation is debated, but the association is consistent across the cross-national data.",
+    "At the personal level, the closest thing to a robust finding is that repeated, low-stakes contact with a range of people is associated with more generous estimates of how trustworthy others are. People whose lives are structured around varied face-to-face interaction tend to give the more trusting answer; people who are isolated tend toward the wary one.",
+    "Calibrating your own estimate against the data is itself worthwhile. Because the threat-heavy information environment inflates perceived danger, many people sharply overestimate how untrustworthy strangers actually are. Checking the abstract feeling against your own lived rate of being treated decently is a reasonable corrective."
+  ],
+  "whatDoesNotHelp": [
+    "Treating the decline as total, universal, and irreversible does not match the evidence and is not helpful. Several countries have maintained or rebuilt high trust, which means the trend is a result of conditions rather than an iron law — and overstating it can become self-confirming, since expecting the worst of strangers tends to make people behave more guardedly.",
+    "Reasoning about \"how trusting people are\" from social media, comment sections, or the news will mislead you, because those environments amplify the most distrust-provoking material. The aggregate behavior of people in ordinary settings looks far more cooperative than the online signal suggests.",
+    "Looking for a single villain — one technology, one group, one decade — does not survive contact with the research. The leading explanations (rising inequality, shifting institutions, media change, generational turnover, and others) are debated and probably partial; no one factor has been shown to account for the trend on its own."
+  ],
+  "realNumbersInContext": [
+    "In the General Social Survey, the share of US adults agreeing that \"most people can be trusted\" has fallen over the long run from roughly half in the early decades to about a third in recent years — a sizable drop, though the figures wobble survey to survey and should be read as a trend, not a precise number.",
+    "The cross-national data complicates the story usefully: in the World Values Survey and OECD measures, several high-trust societies have stayed high or climbed while the US declined. Generalized trust and institutional trust also diverge — confidence in major US institutions has fallen faster and further than person-to-person trust, so \"trust is declining\" means different things depending on which measure you mean."
+  ],
+  "realNumbers": [
+    { "value": "~1 in 2 → ~1 in 3", "label": "US adults saying 'most people can be trusted', early surveys vs. recent", "source": "General Social Survey (long-run trend, approximate)" },
+    { "value": "Mixed", "label": "Cross-national trend — some countries stable or rising, others falling", "source": "World Values Survey / OECD" },
+    { "value": "Diverge", "label": "Generalized trust vs. institutional trust do not move together", "source": "General Social Survey / survey research" }
+  ],
+  "faqs": [
+    {
+      "question": "Is social trust actually declining or is that a myth?",
+      "answer": "In the United States it is a real, well-documented long-run decline: the share saying 'most people can be trusted' in the General Social Survey has fallen from roughly half to about a third over the decades. But it is not a global law — several countries are stable or rising — so 'trust is collapsing everywhere' overstates the evidence."
+    },
+    {
+      "question": "What's the difference between trusting people and trusting institutions?",
+      "answer": "Generalized trust is about strangers and 'most people'; institutional trust is about government, media, and business. They don't move together. In the US, confidence in major institutions has often fallen faster and further than slower-moving person-to-person trust."
+    },
+    {
+      "question": "Why is trust declining — is it social media, diversity, or inequality?",
+      "answer": "This is genuinely contested. Researchers point to rising inequality and insecurity, changing institutions, media shifts, and generational turnover, among others. The evidence on the trend is much firmer than the evidence on the cause, and no single factor has been shown to explain it alone."
+    },
+    {
+      "question": "Does Putnam's 'Bowling Alone' prove trust is falling?",
+      "answer": "Robert Putnam's work documented a decline in civic participation and associational life in the US and argued it was linked to weakening social capital and trust. It is influential and well-sourced, but it describes the American case in particular, and its proposed causes remain debated rather than settled."
+    },
+    {
+      "question": "Are strangers really less trustworthy than they used to be?",
+      "answer": "The surveys measure what people say, not necessarily how trustworthy people actually are. Everyday cooperation remains high, and the threat-heavy information environment tends to inflate how dangerous strangers seem. Many people overestimate how untrustworthy others are relative to their own lived experience."
+    }
+  ],
+  "dataSources": [
+    "Putnam, R. D. (2000). Bowling Alone: The Collapse and Revival of American Community. Simon & Schuster.",
+    "General Social Survey (NORC at the University of Chicago) — long-run interpersonal trust items.",
+    "World Values Survey — cross-national generalized trust measures.",
+    "OECD — Trust and its determinants / How's Life? wellbeing indicators."
+  ],
+  "relatedInsights": [
+    "how-much-does-having-a-community-actually-matter",
+    "are-we-more-divided-than-we-used-to-be",
+    "why-do-we-need-to-feel-part-of-a-group"
+  ],
+  "lastReviewed": "2026-06"
+}

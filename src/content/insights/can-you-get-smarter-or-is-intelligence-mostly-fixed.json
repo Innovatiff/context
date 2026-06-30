@@ -1,0 +1,73 @@
+{
+  "title": "Can You Get Smarter, or Is Intelligence Mostly Fixed?",
+  "slug": "can-you-get-smarter-or-is-intelligence-mostly-fixed",
+  "category": "learning-and-growth",
+  "metaTitle": "Can You Get Smarter, or Is Intelligence Mostly Fixed?",
+  "metaDescription": "Knowledge and skills keep growing for life, while raw processing slows with age. What research on fluid vs crystallized intelligence shows.",
+  "lifeArea": "Learning & Growth",
+  "keyFinding": "Knowledge-based intelligence keeps growing across life and can be expanded through learning, while raw processing speed tends to peak early and decline — so 'getting smarter' is real in the ways that matter most for daily life.",
+  "honestAnswer": [
+    "It depends on what you mean by 'smarter.' Psychologists distinguish two broad kinds of intelligence: fluid intelligence, the raw ability to reason and solve novel problems quickly, and crystallized intelligence, the accumulated knowledge, vocabulary, and skills you build over time. Fluid intelligence tends to peak relatively early and decline gradually with age. Crystallized intelligence keeps growing well into later life, as long as you keep learning.",
+    "So the honest answer is that you can clearly get more knowledgeable, skilled, and capable across your whole life — which is most of what 'smart' means in practice — while the speed-and-novelty component is harder to change and tends to fade slowly with age. What the evidence does not support is the idea that you can dramatically raise your general 'IQ' through brain-training games; that approach has shown weak and narrow effects."
+  ],
+  "whatDataShows": [
+    "The fluid-versus-crystallized distinction, developed by Raymond Cattell and John Horn, is one of the better-supported frameworks in the field. Across studies, fluid abilities (working memory, processing speed, novel reasoning) tend to peak in early adulthood and decline gradually, while crystallized abilities (knowledge, vocabulary, expertise) often keep rising into one's 60s or beyond. Different abilities peak at different ages, so there is no single age at which a person is simply 'smartest.'",
+    "The Flynn effect shows intelligence is not fixed at the population level either. Across much of the twentieth century, average IQ test scores rose substantially — on the order of roughly three points per decade in many countries — almost certainly faster than genes could change. This points to environmental drivers like better nutrition, education, and more abstract, cognitively demanding daily life. In some countries these gains have slowed or reversed in recent decades, which is itself an active area of study.",
+    "The weak spot is general transfer. Commercial brain-training programs reliably make you better at the trained task, but reviews and consensus statements have found little good evidence that this transfers to broader cognitive ability or everyday functioning. By contrast, building knowledge and specific skills clearly works — you genuinely know and can do more — it just does not act like a global upgrade to raw processing power."
+  ],
+  "whyItFeelsDifferent": [
+    "Intelligence feels fixed partly because it is often presented that way — as a single number you are born with and stuck with. IQ does show meaningful stability and a substantial genetic component, which is real, but stability across a population is not the same as being unchangeable, and it leaves a great deal of room for growth through learning and environment.",
+    "It also feels fixed because the two kinds of intelligence change in opposite directions, which is easy to misread. Noticing that you are slower to grasp something new than you were at 20 can feel like decline, even as your knowledge, judgment, and skill in familiar areas are still improving. The visible slowdown in one component masks the quiet growth in another.",
+    "And the brain-training industry sells the opposite illusion — that a few minutes of games will make you globally smarter. When the promised general boost does not materialise, it can reinforce a sense that intelligence is simply fixed, when the truer picture is that the right kind of effort (deep learning, not games) grows the kind of intelligence that actually compounds."
+  ],
+  "whatResearchSaysToDo": [
+    "Keep learning real things deeply, because that is what reliably grows. Building knowledge and skills expands crystallized intelligence directly, and there is no clear ceiling to it across a normal lifespan. Sustained, effortful learning in areas you care about does more than any 'cognitive enhancement' product.",
+    "Look after the general conditions that support cognition. Physical activity, sleep, managing cardiovascular health, and staying socially and mentally engaged are associated in the research with better cognitive ageing. These are not magic, and effects are modest, but they are far better supported than brain-training games. (This is general educational information, not medical advice — see a qualified clinician for anything concerning.)",
+    "Aim your effort at depth rather than at raising a number. Because crystallized intelligence and expertise grow through focused practice and accumulated knowledge, the practical move is to go deep in specific domains rather than chasing a global IQ boost. That is the version of 'getting smarter' the evidence actually supports."
+  ],
+  "whatDoesNotHelp": [
+    "Brain-training apps and games are the clearest example of something that overpromises. They improve the trained task and little else; reviews have found weak evidence that the gains transfer to general intelligence or daily life. Expecting them to make you broadly smarter is not supported.",
+    "Treating your IQ as a fixed verdict on your potential is both inaccurate and self-limiting. Scores are meaningfully stable but not immutable, the Flynn effect shows whole populations shifting, and most of what makes someone capable in real life — knowledge, skill, judgment — keeps growing with learning. A single number is a narrow snapshot, not a ceiling.",
+    "Assuming that getting older means inevitable mental decline overstates the case. Some abilities (speed, novel reasoning) do tend to slip gradually, but others (vocabulary, expertise, accumulated knowledge) often keep improving for decades. The honest picture is a trade-off across abilities, not a simple downhill slide."
+  ],
+  "realNumbersInContext": [
+    "The Flynn effect is the headline number worth knowing: average measured IQ rose by roughly three points per decade across much of the twentieth century in many countries — far too fast to be genetic — which is strong evidence that environment and the demands of modern life shape measured intelligence. In several places these gains have plateaued or reversed recently, and why is still debated, so this is a real but evolving finding.",
+    "On the two kinds of intelligence, the pattern rather than a precise age is the useful part. Fluid abilities tend to peak in early adulthood and decline slowly thereafter, while crystallized abilities often keep rising into the 60s or later. The practical takeaway is that 'can you get smarter?' is best answered 'yes, in the knowledge-and-skill sense that matters most day to day — and that part has no obvious ceiling — while raw speed is harder to change.'"
+  ],
+  "realNumbers": [
+    { "value": "~3 pts/decade", "label": "Rise in average IQ scores over much of the 20th century (Flynn effect)", "source": "Flynn effect research" },
+    { "value": "Keeps rising", "label": "Crystallized intelligence (knowledge, vocabulary) across adulthood", "source": "Cattell–Horn framework" },
+    { "value": "Peaks early", "label": "Fluid intelligence (speed, novel reasoning), then gradual decline", "source": "Cognitive ageing research" },
+    { "value": "Weak transfer", "label": "Brain-training gains spreading to general intelligence", "source": "Cognitive-training reviews" }
+  ],
+  "faqs": [
+    {
+      "question": "Is intelligence fixed at birth?",
+      "answer": "Not entirely. IQ has a substantial genetic component and meaningful stability, but it isn't immutable. The Flynn effect shows whole populations' scores rising over decades, and crystallized intelligence — knowledge, vocabulary, skills — keeps growing through learning across life. Stability isn't the same as being unchangeable."
+    },
+    {
+      "question": "What's the difference between fluid and crystallized intelligence?",
+      "answer": "Fluid intelligence is raw reasoning and problem-solving speed for novel tasks; it tends to peak in early adulthood and decline gradually. Crystallized intelligence is accumulated knowledge and skill; it often keeps rising into your 60s or beyond. They move in different directions, which is why ageing brings trade-offs rather than simple decline."
+    },
+    {
+      "question": "Do brain-training games make you smarter?",
+      "answer": "They make you better at the games, but reviews find little good evidence that the benefit transfers to general intelligence or everyday life. If you want to grow the kind of intelligence that compounds, deep learning of real skills and knowledge is far better supported than training apps."
+    },
+    {
+      "question": "Does getting older mean getting less intelligent?",
+      "answer": "Not straightforwardly. Some abilities — processing speed, novel reasoning — tend to slip gradually with age, but knowledge, vocabulary, and expertise often keep improving for decades. It's a trade-off across different abilities rather than a simple decline. This is general information, not medical advice; see a clinician for concerns."
+    }
+  ],
+  "dataSources": [
+    "Cattell, R. B., & Horn, J. L. — theory of fluid and crystallized intelligence.",
+    "Flynn, J. R. — research on rising IQ scores over time (the Flynn effect).",
+    "Salthouse, T. A. — research on cognitive ageing and ability trajectories across the lifespan.",
+    "Simons, D. J., et al. (2016). Do 'Brain-Training' Programs Work? Psychological Science in the Public Interest, 17(3), 103–186."
+  ],
+  "relatedInsights": [
+    "does-believing-you-can-change-actually-help",
+    "is-talent-or-hard-work-more-important",
+    "does-your-memory-really-get-worse-with-age"
+  ],
+  "lastReviewed": "2026-06"
+}

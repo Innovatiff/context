@@ -1,0 +1,76 @@
+{
+  "title": "What's the Best Way to Actually Learn Something?",
+  "slug": "whats-the-best-way-to-actually-learn-something",
+  "category": "learning-and-growth",
+  "metaTitle": "What's the Best Way to Actually Learn Something?",
+  "metaDescription": "The best-supported ways to learn are retrieval practice, spacing, and interleaving. Rereading and highlighting feel productive but research finds them weak.",
+  "lifeArea": "Learning & Growth",
+  "keyFinding": "Research consistently finds that testing yourself, spacing study over time, and mixing topics produce more durable learning than rereading or highlighting, even though the harder methods feel less productive.",
+  "honestAnswer": [
+    "The methods with the strongest evidence are the ones that feel hardest: testing yourself on the material (retrieval practice), spreading study out over time rather than massing it (spacing), and mixing different topics or problem types in a session (interleaving). These reliably produce more durable learning than the most popular techniques — rereading notes and highlighting — which feel productive but research finds are weak.",
+    "The uncomfortable pattern running through this research is that the techniques that make studying feel smooth and confident tend to teach you the least, while the techniques that feel effortful and error-prone tend to teach you the most. The feeling of fluency while rereading is not the same as having learned, and confusing the two is one of the most common study mistakes."
+  ],
+  "whatDataShows": [
+    "The standout finding is the testing effect, demonstrated repeatedly by Roediger and Karpicke. In their work, students who studied material and then practised recalling it remembered far more on a later test than students who simply restudied the same material for the same time. The act of retrieving information — pulling it out of memory rather than re-reading it in — strengthens it, even though it feels harder and people often predict, wrongly, that rereading will serve them better.",
+    "Spacing and interleaving add to this. Distributing study sessions across days, rather than cramming them together, produces better long-term retention for the same total time. Interleaving — mixing problem types instead of doing many of one kind in a block — improves the ability to tell problems apart and apply the right approach, though it feels more confusing in the moment and tends to lower performance during practice while raising it on later tests.",
+    "A widely cited review by Dunlosky and colleagues (2013) evaluated common study techniques and rated their evidence. Practice testing and distributed practice came out as the most broadly effective and generalisable. By contrast, the techniques students use most — rereading and highlighting or underlining — were rated low in usefulness, because they produce a feeling of familiarity without reliably improving recall or understanding."
+  ],
+  "whyItFeelsDifferent": [
+    "Rereading and highlighting feel like learning because they feel easy and familiar. Each pass over the text is smoother than the last, and the brain reads that growing fluency as growing knowledge. But fluency with the material in front of you is not the same as being able to produce it later from memory, which is what tests, and life, actually require.",
+    "The better techniques feel worse for the opposite reason. Retrieval, spacing, and interleaving all introduce what researchers call desirable difficulties — they make practice harder and slower and surface your errors. That friction is precisely where the learning happens, but it feels like struggling, so people abandon it for methods that feel more reassuring.",
+    "There is also a prediction problem: people are poor judges of their own learning. Studies repeatedly find that learners rate the easy, fluent methods as more effective than the hard ones — the exact opposite of what the test results show. We trust the feeling of confidence, and the feeling is most misleading exactly when we are doing the least durable kind of study."
+  ],
+  "whatResearchSaysToDo": [
+    "Test yourself instead of rereading. After reading a section, close it and try to recall the key points from memory — with flashcards, practice questions, or a blank-page recall — before checking. The effort of retrieval, including the parts you get wrong, is what builds durable memory. Treat self-testing as a learning tool, not just a way to check what you already know.",
+    "Spread study across time rather than massing it. The same total hours, distributed over several days or weeks, produce better long-term retention than the same hours in one block. Build in deliberate review of older material so it gets revisited just as it is starting to fade.",
+    "Mix it up. Rather than drilling one topic or problem type to fluency before moving on, interleave related types within a session. It will feel harder and your in-session performance may dip, but interleaving improves your ability to choose the right approach later — which is usually the real goal. Combining retrieval, spacing, and interleaving works better than any one alone."
+  ],
+  "whatDoesNotHelp": [
+    "Rereading is the clearest example of effort that doesn't pay. Reading the same passage again and again produces a strong sense of knowing it and little durable gain. The Dunlosky review rated it low precisely because its felt benefit so badly outruns its measured one.",
+    "Highlighting and underlining fare little better on their own. They feel active but mostly mark text without engaging memory or understanding, and they can even hurt by drawing attention to isolated phrases at the expense of how ideas connect. As a standalone technique, the evidence for them is weak.",
+    "Matching study to your supposed 'learning style' — visual, auditory, and so on — has repeatedly failed to show benefits in controlled studies, despite being widely believed. And massed cramming, while it can get you through a test the next day, is one of the worst approaches for remembering anything beyond it."
+  ],
+  "realNumbersInContext": [
+    "The gap between testing and rereading is large in the studies that find it. In classic retrieval-practice experiments, learners who practised recall substantially outperformed those who restudied on delayed tests, and the advantage widened as the delay grew. The precise sizes vary by material and design, so they are best read as a consistent, sizeable pattern rather than a fixed multiplier — but the direction is unusually robust.",
+    "The Dunlosky review's rankings are the headline number to remember: of the common techniques assessed, practice testing and distributed practice were rated high-utility and broadly generalisable, while rereading and highlighting were rated low. That those low-rated methods are also the most popular is the central, well-replicated irony of how most people study."
+  ],
+  "realNumbers": [
+    { "value": "Testing > rereading", "label": "Recall practice beats restudy on delayed tests, often by a wide margin", "source": "Roediger & Karpicke, 2006" },
+    { "value": "High-utility", "label": "Evidence rating for practice testing and distributed practice", "source": "Dunlosky et al., 2013" },
+    { "value": "Low-utility", "label": "Evidence rating for rereading and highlighting", "source": "Dunlosky et al., 2013" },
+    { "value": "No reliable benefit", "label": "Matching teaching to 'learning styles' in controlled studies", "source": "Learning-styles research" }
+  ],
+  "faqs": [
+    {
+      "question": "What's the single most effective study technique?",
+      "answer": "If you pick one, retrieval practice — testing yourself by recalling material from memory rather than rereading it. It's one of the most robust findings in learning research. Combining it with spacing your study over time and mixing topics works even better."
+    },
+    {
+      "question": "Why is rereading so ineffective if it feels like it works?",
+      "answer": "Because each pass feels smoother, and the brain mistakes that growing familiarity for knowledge. But being able to read something fluently isn't the same as being able to recall it later. The feeling of confidence rereading produces is exactly the trap; it's most misleading when you're learning the least."
+    },
+    {
+      "question": "Is highlighting a waste of time?",
+      "answer": "On its own, the evidence is weak. Highlighting feels active but mostly marks text without engaging memory or understanding, and it was rated low-utility in major reviews. It's not harmful if it leads to genuine review, but it shouldn't be the main strategy."
+    },
+    {
+      "question": "What is interleaving?",
+      "answer": "Mixing different topics or problem types within a study session rather than drilling one kind to fluency before moving on. It feels harder and can lower performance during practice, but research finds it improves your ability to choose the right approach later, which is usually the real aim."
+    },
+    {
+      "question": "Should I match my study to my learning style?",
+      "answer": "The research says no — matching instruction to supposed visual, auditory, or other learning styles has repeatedly failed to show benefits in controlled studies, despite being widely believed. The effective techniques work broadly across people rather than depending on a personal style."
+    }
+  ],
+  "dataSources": [
+    "Roediger, H. L., & Karpicke, J. D. (2006). Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention. Psychological Science, 17(3), 249–255.",
+    "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students' Learning With Effective Learning Techniques. Psychological Science in the Public Interest, 14(1), 4–58.",
+    "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed Practice in Verbal Recall Tasks: A Review and Quantitative Synthesis. Psychological Bulletin, 132(3), 354–380."
+  ],
+  "relatedInsights": [
+    "does-cramming-ever-actually-work",
+    "why-do-we-forget-most-of-what-we-learn",
+    "are-learning-styles-actually-real"
+  ],
+  "lastReviewed": "2026-06"
+}
