@@ -36,6 +36,36 @@
     { "value": "Spike then return", "label": "Typical wellbeing pattern after reaching a goal", "source": "Set-point research, Lucas et al." },
     { "value": "Small sample", "label": "Caveat on the classic 1978 lottery-winners study", "source": "Brickman, Coates & Janoff-Bulman, 1978" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Reaching a long-wanted goal usually brings a real but smaller and briefer lift than you imagined — the arrival fallacy.",
+    "Two mechanisms drive it: we adapt to new circumstances faster than expected, and we overestimate how intense and lasting future feelings will be (the impact bias).",
+    "The typical shape is spike-then-return — a genuine rise that drifts back toward your prior baseline.",
+    "Chasing a bigger goal to recapture the feeling doesn't work; the same adaptation and forecasting error apply to the next one.",
+    "Adaptation is real but uneven — it varies by event and by person, so treat this as a general pattern, not an iron law."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The promotion that felt flat",
+      "body": "You imagined the promotion would thrill you for months; the day it arrives, it lands strangely quietly and the next set of concerns floods back within a week. Nothing went wrong. The vivid preview was inflated by the impact bias, and attention simply moved on — the win recedes into the background even though it was genuinely good."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The finish line that becomes the new floor",
+      "body": "The moment you reach a level you worked years for, it quietly becomes your new normal, and a higher target appears on the horizon almost automatically. That reference-point shift is how aspiration works — but it converts the satisfaction of arriving into a baseline you take for granted, which can feel like the reward leaking away."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The anticlimax is the normal outcome of how human anticipation and adaptation work, not evidence of a mistake.",
+      "source": "On the arrival fallacy"
+    },
+    {
+      "text": "The treadmill speeds up but never arrives.",
+      "source": "On chasing a bigger goal"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the arrival fallacy?",

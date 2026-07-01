@@ -40,6 +40,40 @@
     { "value": "Small–moderate", "label": "Typical effect size of mindfulness/attention training on wellbeing", "source": "Mindfulness research reviews" },
     { "value": "Default", "label": "Direction attention drifts without effort, due to negativity bias", "source": "Negativity-bias research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Where you point your attention is a real, underrated lever on happiness — but a lever, not a master switch.",
+    "In one large study, minds wandered a large share of the time, and wandering predicted lower happiness even toward pleasant topics.",
+    "A negativity bias means attention drifts toward problems by default, which is why deliberately steering it can help.",
+    "Attention-based practices like mindfulness and savouring show small-to-moderate benefits, not transformations.",
+    "'Just think positive' while ignoring real problems doesn't hold up — some things need solving, not reframing."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The three minutes you didn't notice",
+      "body": "You register the bad mood but not the few minutes of replaying an awkward moment that preceded it. Because the link between attention and how you feel is fast and invisible, it's genuinely hard to see that what you were attending to and how you felt were connected at all — which is exactly why the role of focus is so easy to miss."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Giving a good moment a few extra seconds",
+      "body": "A meal, a conversation, a walk — savouring means slowing down for it and letting yourself fully register it rather than rushing past. Because the negativity bias leaves good experiences under-attended by default, those few extra seconds of focus are one of the cheaper, better-supported nudges available. It isn't denial; it's noticing what you'd otherwise skip."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When focus isn't the problem",
+      "body": "Telling someone whose situation is genuinely hard that they simply need to focus better is both unsupported and unkind. Focus is one meaningful factor alongside circumstances, health, relationships, and biology — and if low mood is persistent, that is worth taking seriously with a qualified professional rather than treating it as a focus problem."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Attention is a meaningful lever, not a master switch. You can shift your wellbeing somewhat by where you point your mind — but within the limits your life and wiring set.",
+      "source": "On what attention can and can't do"
+    },
+    {
+      "text": "Directing attention is not the same as denial. The version that pretends nothing is wrong usually adds a layer of guilt on top of the original problem."
+    }
+  ],
   "faqs": [
     {
       "question": "Does attention really change how happy I am?",

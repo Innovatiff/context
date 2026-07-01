@@ -39,6 +39,35 @@
     { "value": "Positivity effect", "label": "Older adults tend to attend more to positive information and regulate emotion better", "source": "Carstensen, socioemotional selectivity theory" },
     { "value": "U-shaped", "label": "Life satisfaction often dips in midlife and rises into older age", "source": "Blanchflower, international wellbeing data (debated)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Some of the fear is real — health changes, loss, and mortality are not illusions.",
+    "But much of it is a forecasting error: we imagine our present selves in a declined body and skip the adaptation.",
+    "The \"paradox of aging\": older adults on average report wellbeing equal to or better than younger people predict.",
+    "Life satisfaction often dips in midlife and rises again into older age (a debated but well-supported pattern).",
+    "How you view your own aging matters — more positive, realistic age beliefs are linked to better outcomes."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Forecasting from the outside in",
+      "body": "When you picture being old, you keep your current preferences and self intact and simply subtract — adding the losses without adding the adaptation and shifting priorities that real aging brings. The imagined future is your present mind in a diminished body, which is not how it actually plays out. That gap between the imagined and the measured is where most of the dread lives."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Dreading a decade you may enjoy",
+      "body": "Someone at 45 might picture their sixties as a slow narrowing — less capacity, less relevance, less joy. The measured pattern points the other way for many: better emotion regulation, a clearer sense of what matters, and the later-life rise in life satisfaction the U-shaped curve describes. The visible cultural story of age is far gloomier than the emotional reality older people themselves report."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The imagined future is our present mind in a diminished body — which is not how it actually plays out.",
+      "source": "On the affective-forecasting error"
+    },
+    {
+      "text": "The real challenges of aging are real; the emotional catastrophe we tend to predict largely is not."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to fear getting older?",

@@ -56,6 +56,36 @@
       "answer": "Aiming high for effort and direction is generally fine and can be motivating. The risk is attaching high, fixed expectations to specific outcomes you do not fully control, which manufactures the expectation-reality gap that drives disappointment. Aim high in ambition; stay modest and realistic about exactly how any single result will turn out."
     }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Part of satisfaction is reality minus expectations — lower expectations can make a given outcome feel better.",
+    "But chronically low expectations can be self-limiting: less effort, less attempted, shading into pessimism.",
+    "'Expectations' aren't one thing — effort-expectations behave differently from outcome-expectations.",
+    "The balance the evidence favours: realistic-to-slightly-optimistic about effort, modest about specific outcomes.",
+    "Calibrate expectations to reality — don't push the dial uniformly up or down, and don't try to abolish them."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two people, the same result",
+      "body": "Two people get the same outcome from a project. The one who went in expecting the best feels let down; the one who held a grounded expectation feels pleasantly surprised. Nothing about the result changed — only the gap between it and what each expected. That gap is a large part of how satisfying the same event feels."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Splitting the two kinds of expectation",
+      "body": "Someone applying for a competitive role can stay realistic and slightly optimistic about their own effort and preparation — the part optimism research tends to reward with motivation and persistence — while keeping expectations about this particular result modest. That combination protects the drive to try without setting up the disappointment that inflated outcome-expectations produce."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Both pieces of common advice are half-right, which is exactly why the topic feels confusing.",
+      "source": "On 'expect less' vs 'aim high'"
+    },
+    {
+      "text": "Aim high in ambition; stay modest and realistic about exactly how any single result will turn out.",
+      "source": "On separating effort from outcome"
+    }
+  ],
   "dataSources": [
     "Rutledge, R. B., et al. (2014). A computational and neural model of momentary subjective well-being. PNAS — happiness depends on whether outcomes beat expectations.",
     "Expectation-disconfirmation research (satisfaction as a function of outcomes relative to prior expectations).",

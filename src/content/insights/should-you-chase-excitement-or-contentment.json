@@ -39,6 +39,35 @@
     { "value": "High vs low arousal", "label": "Excitement vs calm — culturally valued differently, neither superior", "source": "Tsai et al." },
     { "value": "The gap", "label": "Mismatch between ideal and actual affect linked to lower wellbeing", "source": "Tsai et al." }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Research on 'ideal affect' treats excitement and calm as different kinds of happiness, not different amounts — neither is superior.",
+    "Ideal affect varies by culture: many Western contexts value high-arousal states, many East Asian contexts value low-arousal ones.",
+    "The reliable source of dissatisfaction is the gap between the happiness you value and the happiness you actually feel.",
+    "The practical task is alignment — match the pursuit to the ideal you hold, or loosen an ideal that doesn't fit."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Valuing excitement, living a calm life",
+      "body": "Someone who treats 'real' happiness as high-energy — thrilled, enthusiastic, pumped — but whose days are mostly quiet and steady can read that quiet as settling. On this research, the trouble isn't the calm itself; it's the gap between the calm they live and the excitement they've absorbed as the ideal. The misread conclusion 'I need a bigger life' addresses the state rather than the mismatch."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Valuing calm, living a charged one",
+      "body": "The reverse case: someone wired to prize serenity who lives a keyed-up, high-stimulation life may decide they just need to 'relax harder.' Tsai's framing suggests the friction is the gap between an ideal of calm and an actual state of arousal — which is why loosening or realigning the ideal often does more than grimly manufacturing either state."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The data does not crown a winner; the trouble starts when there is a gap between the happiness you think you should feel and the one you actually feel.",
+      "source": "On ideal versus actual affect"
+    },
+    {
+      "text": "We experience our preferred kind of happiness as simply what happiness is, not as one option among several.",
+      "source": "On why the ideal stays invisible"
+    }
+  ],
   "faqs": [
     {
       "question": "Is excitement or contentment the better goal?",

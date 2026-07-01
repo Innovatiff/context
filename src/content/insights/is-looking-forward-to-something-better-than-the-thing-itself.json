@@ -39,6 +39,40 @@
     { "value": "Experiences > things", "label": "Waiting for an experience feels more pleasurable, less impatient than waiting for a possession", "source": "Van Boven & Gilovich; Kumar, Killingsworth & Gilovich" },
     { "value": "Enjoy it twice", "label": "Anticipation lets you savor an experience before and during (and again in memory)", "source": "Savoring research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For some experiences the largest happiness boost comes before the event, in the anticipation, not after it.",
+    "Waiting for an experience feels more pleasurable and less impatient than waiting for a possession.",
+    "Savoring lets you enjoy an experience twice — in imagination beforehand and again in the living of it.",
+    "The main way anticipation backfires is inflated expectations; it pays off best when they stay realistic."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A trip booked three months out",
+      "body": "Reserving a holiday well in advance can feel like a long, pointless wait for the 'real' thing. But the research on vacations, including de Bloom and colleagues, suggests those weeks of looking forward often carry a sizeable share of the trip's happiness — a lift that can outweigh the afterglow once you're home. The gap between booking and going isn't wasted time; it's the anticipation dividend paying out."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The concert versus the gadget",
+      "body": "Waiting for a new phone tends to feel impatient — you just want it to arrive. Waiting for an upcoming concert tends to feel pleasurable, full of imagining and planning. Same waiting period, very different experience, which is the experiences-over-things asymmetry in miniature: choosing the concert pays an anticipation dividend on top of the event itself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The reunion built up too high",
+      "body": "Looking forward to a long-awaited reunion is a real source of pleasure — until the imagined version has to be flawless. If expectations climb until only a perfect evening will do, the gap between the picture and the reality can produce a letdown that cancels the anticipatory gain. The lever works best when the looking-forward stays warm but the expectations stay grounded."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A sizeable share of a trip's happiness value is paid out before you ever leave.",
+      "source": "On the anticipation of holidays"
+    },
+    {
+      "text": "A well-chosen experience can pay out three times: before, during, and after.",
+      "source": "On savoring"
+    }
+  ],
   "faqs": [
     {
       "question": "Is anticipation really a bigger source of happiness than the event?",

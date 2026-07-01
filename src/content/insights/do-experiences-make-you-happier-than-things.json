@@ -38,6 +38,35 @@
     { "value": "Slower", "label": "Rate experiences fade vs possessions (resist adaptation)", "source": "Hedonic adaptation research" },
     { "value": "Shared", "label": "Where the effect is strongest — social, identity-relevant experiences", "source": "Experiential-purchase research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On average, experiential purchases bring more lasting satisfaction than material ones — a general tendency, not an absolute rule.",
+    "Experiences resist hedonic adaptation, tie to identity, and are often shared, which strengthens the payoff.",
+    "Anticipation and memory keep experiences paying out before and long after the event itself.",
+    "The rule can reverse under financial strain, when a needed practical purchase does more for wellbeing."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The gadget fades, the trip keeps paying out",
+      "body": "A new gadget's thrill fades as it becomes background, while a trip keeps paying out through anticipation beforehand and retelling afterward. Memory also edits experiences favourably over time, so they often grow more positive in hindsight — which is why their happiness return outlasts a possession's, even though the object is the thing you can still point to."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The purchase that's both",
+      "body": "A bike that gets ridden or a table where people gather blurs the material-versus-experiential line, because the distinction is about how a purchase is used and remembered as much as what it is. Buying things that enable experiences or connection blends the benefits — and when money is tight, a needed practical object can matter more than an experience."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We adapt to objects quickly but keep drawing on experiences through anticipation and memory.",
+      "source": "On why experiences last"
+    },
+    {
+      "text": "The gain comes largely from genuine engagement and connection, not from documentation or comparison.",
+      "source": "On getting the most from experiences"
+    }
+  ],
   "faqs": [
     {
       "question": "Do experiences really make people happier than possessions?",

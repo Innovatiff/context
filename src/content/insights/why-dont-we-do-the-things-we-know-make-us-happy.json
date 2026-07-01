@@ -39,6 +39,40 @@
     { "value": "Weak link", "label": "Good intentions explain far less of behaviour than assumed", "source": "Sheeran, intention–behaviour gap research" },
     { "value": "Immediate vs. delayed", "label": "Easy rewards beat slower-paying wellbeing habits in the moment", "source": "Research on habits and reward timing" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The gap between knowing what makes us happy and doing it is normal and well-documented — not a sign of weakness.",
+    "Three patterns stack up: we mispredict our own feelings, intentions translate into action far less reliably than we assume, and we default to whatever is immediately rewarding.",
+    "Wellbeing-supporting options cost effort up front and pay off slowly, while scrolling pays off instantly and costs nothing — so the easy option tends to win the moment.",
+    "Reducing friction and making concrete when/where/how plans beat willpower; knowledge is one of the weakest levers on behaviour."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The couch wins the moment-to-moment contest",
+      "body": "Connection, exercise, and absorbing effort all cost something up front and pay off later; scrolling delivers a small reward instantly and demands nothing. Given a default pull toward what is rewarding right now, the easy option tends to win even when you know it serves you less. The failure to act isn't a character flaw — it's the predictable shape of how reward timing works."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I'll exercise more' vs a concrete plan",
+      "body": "A general intention converts to action far less often than a specific one. 'I'll walk for twenty minutes after lunch on Monday, Wednesday, and Friday' — an implementation intention that names when, where, and how — closes far more of the intention–behaviour gap than resolving to try harder. Structure does the work that motivation can't reliably do."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The good habit whose payoff went invisible",
+      "body": "Once exercise, connection, or good sleep become routine, you adapt to their benefits and they fade into your baseline, while the effort to do them stays visible up front. The mechanism that should reward the habit quietly erases the felt reward — which makes the effortless alternative look better than it actually is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The failure to act is not a character flaw; it is the predictable result of how prediction, motivation, and reward actually work.",
+      "source": "On the knowing-doing gap"
+    },
+    {
+      "text": "Knowledge is one of the weakest levers on behaviour — designing the situation works better than berating the person.",
+      "source": "On what actually helps"
+    }
+  ],
   "faqs": [
     {
       "question": "Why don't I do the things I know would make me happier?",

@@ -39,6 +39,35 @@
     { "value": "2 routes", "label": "Hedonic (pleasure) vs. eudaimonic (meaning/growth) wellbeing", "source": "Ryan & Deci; Ryff" },
     { "value": "Modest + friendship", "label": "Epicurus actually valued simple, sustainable pleasures and friendship, not indulgence", "source": "Epicurus (philosophical context)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Because we adapt to pleasures (the 'hedonic treadmill', Brickman & Campbell, 1971), pursuing ever more of them yields diminishing returns.",
+    "Meaning-oriented and engagement-oriented pursuits (eudaimonic wellbeing) appear less subject to fade-out than raw pleasure.",
+    "Pleasure isn't bad — the evidence argues against making it the sole foundation, not against having it.",
+    "Structuring pleasure to resist adaptation — variety, spacing, savouring — extracts more from what you already have."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The upgrade that thrills for a week",
+      "body": "A new purchase or a bigger treat delivers a real spike — and then normalises within weeks as the baseline rises to meet it. Reading that fade as 'this one wasn't enough' points you toward something bigger rather than toward the pattern itself, which is how the treadmill quietly recruits you to run faster instead of stepping off."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Simple, repeatable, relational pleasures",
+      "body": "The misread version of Epicurus is used to justify indulgence, but he actually valued modest, sustainable pleasures, freedom from pain and anxiety, and above all friendship. That lines up with the modern finding: simple, repeatable, relational pleasures — and absorbing, meaningful engagement — age better than escalating sensation."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Pursued directly and endlessly, pleasure behaves like a treadmill — you keep moving to stay in the same place.",
+      "source": "On hedonic adaptation"
+    },
+    {
+      "text": "Pleasure is one ingredient of a good life rather than the whole recipe.",
+      "source": "On balance vs maximising"
+    }
+  ],
   "faqs": [
     {
       "question": "Is pleasure bad for happiness?",

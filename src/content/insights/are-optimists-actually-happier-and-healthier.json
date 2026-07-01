@@ -40,6 +40,35 @@
     { "value": "Partly heritable", "label": "Optimism has a genetic component but is somewhat trainable", "source": "Twin and intervention research" },
     { "value": "Active coping", "label": "A likely pathway: optimists cope more adaptively with stress", "source": "Scheier & Carver, dispositional optimism research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Higher dispositional optimism is reliably associated with better mental wellbeing and more adaptive coping.",
+    "A large 2019 study (Lee et al., PNAS) linked optimism to longer life and greater odds of reaching about 85 or beyond.",
+    "Most of the evidence is correlational — optimism travels with better outcomes more than it is proven to cause them.",
+    "Optimism is partly heritable but appears somewhat trainable through deliberate practice.",
+    "The version that helps is realistic optimism, not \"toxic positivity\" that denies real problems."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Undramatic pathways, not manifestation",
+      "body": "Optimism does not appear to work through magic or manifestation. The plausible pathways are mundane — optimists tend to cope more actively, persist with health behaviours, maintain social ties, and experience less chronic stress. The benefits look less like a mindset miracle and more like the accumulated effect of behaving slightly differently, repeatedly, over years."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Realistic optimism vs papering over",
+      "body": "Facing a health scare or a setback at work, realistic optimism means expecting things to tend to work out while still acknowledging the problem and acting on it — the version the adaptive-coping research links to good outcomes. Forcing relentless cheerfulness and denying the difficulty is a different thing the evidence does not endorse, and pressuring yourself to 'just be positive' can backfire by invalidating genuine distress. This is educational information, not medical advice."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The benefits look less like a mindset miracle and more like the accumulated effect of behaving slightly differently, repeatedly, over years.",
+      "source": "On the mechanism"
+    },
+    {
+      "text": "Optimism is associated with better odds, not certain outcomes — realistic optimism that acknowledges difficulty is the version tied to good outcomes."
+    }
+  ],
   "faqs": [
     {
       "question": "Are optimists really happier and healthier?",

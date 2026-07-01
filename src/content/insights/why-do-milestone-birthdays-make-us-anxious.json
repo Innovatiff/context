@@ -39,6 +39,35 @@
     { "value": "↑ marathons", "label": "First-time marathon running over-represented among 9-enders", "source": "Alter & Hershfield, PNAS 2014" },
     { "value": "Temporal landmark", "label": "Birthdays act as mental dividers prompting a fresh start and new goals", "source": "Dai, Milkman & Riis (fresh start effect)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Round-number birthdays act as symbolic prompts to evaluate your whole life at once — that stocktaking is what generates the unease.",
+    "Alter and Hershfield's '9-enders' research suggests life evaluation intensifies as a decade boundary approaches (ages 29, 39, 49).",
+    "The 'fresh start effect' shows meaningful dates work as mental dividers that prompt taking stock and pursuing new goals.",
+    "A sweeping self-review tends to foreground the unfinished and missing, so an ordinary life can read as a list of things not yet done.",
+    "The 9-ender findings are correlational patterns across large populations, not predictions about any one person."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Turning 30 vs turning 31",
+      "body": "Turning 30 feels like crossing a threshold; turning 31 barely registers — even though the year-to-year change is identical. The number is a cultural marker we attach a whole imagined life-schedule to. The anxiety is coming from the symbolism, not from anything that actually changed about your prospects overnight."
+    },
+    {
+      "label": "The redirect",
+      "title": "Using the date instead of dreading it",
+      "body": "The same mechanism that makes a milestone feel heavy — the fresh start effect — is what makes it motivating. Rather than letting the birthday render a verdict on your whole life, it can be used deliberately as a prompt to set one small, concrete intention. The heaviness and the usefulness come from the same place."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The number itself changes nothing about your life overnight; what changes is that it invites a sweeping, comparison-heavy assessment.",
+      "source": "On why milestone birthdays sting"
+    },
+    {
+      "text": "The gap you feel is between your actual life and an idealized schedule, not between your life and where most people your age actually are."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do round-number birthdays feel so much heavier than other birthdays?",

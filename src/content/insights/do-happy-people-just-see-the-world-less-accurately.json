@@ -41,6 +41,35 @@
     { "value": "Narrow & contested", "label": "Depressive realism appears mainly in specific lab tasks and doesn't generalise", "source": "Alloy & Abramson (contested)" },
     { "value": "Both extremes unhealthy", "label": "Severe distortion in either direction is not a sign of health", "source": "Critiques of both views" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A mild positive tilt — slightly inflated self-views, optimism, a sense of control — is common in healthy people and may help (Taylor & Brown, 1988).",
+    "'Depressive realism' is real but narrow: it shows up mainly in specific lab tasks and does not generalise to seeing the world more clearly overall.",
+    "Depression distorts perception strongly toward the negative, so 'unhappy means clear-eyed' is not a safe summary.",
+    "Neither extreme — uncritical positivity nor unrelieved bleakness — tracks with good functioning; a moderate, flexible outlook fits the evidence best."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'realist' who mistakes gloom for insight",
+      "body": "Someone who prides themselves on seeing through everyone's optimism may read their own low mood as sharper vision. But the research doesn't back that: the depressive-realism effect is narrow and contested, and depression pushes perception strongly toward the negative. Feeling bleak is not the same as being accurate — deliberate pessimism is more likely to mislead than to sharpen the view."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A slightly rosy read of your own life",
+      "body": "Viewing yourself a touch more favourably than strictly warranted, expecting things to work out a bit more than the odds justify — this is the mild 'positive illusion' Taylor and Brown described, and it may quietly support motivation and coping. It is a small, ordinary tilt most well-adjusted people carry, not large-scale delusion, and there's little reason to police yourself toward grim 'realism' to correct it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A small rose-tint is common and possibly helpful, while 'happy people are just wrong about reality' is not a claim the evidence supports.",
+      "source": "On the positive-illusions debate"
+    },
+    {
+      "text": "The slogan outruns the science: 'sadder but wiser' sticks, while the caveats that make it narrow tend to get dropped.",
+      "source": "On depressive realism"
+    }
+  ],
   "faqs": [
     {
       "question": "Do happy people see reality less accurately?",

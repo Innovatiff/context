@@ -39,6 +39,36 @@
     { "value": "Eudaimonic", "label": "Meaning- and growth-based wellbeing — tends to be more durable", "source": "Ryan & Deci; Ryff" },
     { "value": "Relationships", "label": "Among the most consistent durable correlates of happiness", "source": "Long-running wellbeing studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The source of happiness matters for how long it lasts, not for whether the feeling is 'real' — pleasure and meaning are both genuine.",
+    "Pleasures fade fast as we adapt (the hedonic treadmill); meaning, relationships, and absorbing activity resist the fade better.",
+    "The evidence is about durability, not virtue — ranking sources morally isn't supported and tends to add guilt without wellbeing.",
+    "A diverse mix that includes some intrinsic, meaning-based sources is more robust than leaning entirely on quick pleasures.",
+    "Relationships are the standout durable source; think portfolio, not single bet."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The great meal vs the meaningful project",
+      "body": "Happiness from a great meal and happiness from a meaningful project are both genuine, and in the moment they can feel equally compelling. The difference only shows up over time: the meal's pleasure fades quickly as you adapt, while the project keeps generating new engagement. Where your happiness comes from shapes how long it stays more than how legitimate it is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The next purchase that never settles it",
+      "body": "A happiness strategy built only on the next purchase, treat, or thrill keeps requiring more to produce the same effect — the hedonic treadmill working as designed. Each new pleasure feels like it might be the durable one, while the slow, sturdy accumulation from relationships and meaningful pursuits is easy to discount because no single moment of it feels dramatic."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Where your happiness comes from shapes how long it stays more than how legitimate it is.",
+      "source": "On durability vs legitimacy"
+    },
+    {
+      "text": "Enjoy pleasures while not relying on them as the foundation — think portfolio, not single bet.",
+      "source": "On diversifying your sources"
+    }
+  ],
   "faqs": [
     {
       "question": "Is happiness from pleasure less 'real' than happiness from meaning?",

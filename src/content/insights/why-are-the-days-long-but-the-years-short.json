@@ -39,6 +39,32 @@
     { "value": "Novelty", "label": "What creates distinct memories that make a period feel long in hindsight", "source": "Memory account of retrospective duration" },
     { "value": "Smaller fraction", "label": "Why each later year can feel faster — it is a smaller share of life lived", "source": "Proportional theory (William James)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Time has two speeds: prospective (how a stretch feels while you live it) and retrospective (how long it seems in memory).",
+    "In the moment, tedium, effort, and clock-watching stretch a day — that's the 'long day.'",
+    "In memory, routine leaves few distinct events, so periods compress and seem to have flown — that's the 'short year.'",
+    "Routine is the hinge: the same sameness that drags in the moment is what makes the period forgettable afterward.",
+    "The proportional theory adds a background pull — each later year is a smaller share of the life already lived."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The week that dragged and then vanished",
+      "body": "A stretch of near-identical work-and-chores days feels endless while you're in it — you keep checking the clock, and the minutes crawl. Yet a month later you can barely tell those days apart, and the whole period collapses to almost nothing in memory. Same days, opposite verdicts: felt time was slow because of the tedium; remembered time is short because routine laid down almost no distinct markers."
+    },
+    {
+      "label": "The counter-case",
+      "title": "The novel day that ran the other way",
+      "body": "A new, absorbing day — a trip somewhere unfamiliar — can pass quickly in the moment because you're engaged rather than clock-watching, yet feel long and full when you look back. It laid down many separable memories. The same machinery that produces long days and short years in routine produces exactly the reverse in novelty."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A day drags because of how the present feels, and the years fly because of how memory works — the two are measuring different things.",
+      "source": "On the two speeds of time"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do the days feel so long but the years fly by?",

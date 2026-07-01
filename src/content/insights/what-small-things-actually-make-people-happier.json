@@ -40,6 +40,41 @@
     { "value": "More pleasant", "label": "Commuters' journeys after talking to a stranger vs. sitting in solitude", "source": "Epley & Schroeder, 2014" },
     { "value": "Fades", "label": "What one-off boosts tend to do as people adapt (hedonic adaptation)", "source": "Wellbeing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Gratitude, prosocial spending, and brief social connection have reliable but modest experimental support.",
+    "The unglamorous basics — physical activity, time in nature, and adequate sleep — recur as dependable supports.",
+    "With prosocial spending it's the act of giving, not the sum, that appears to do the work.",
+    "People consistently mispredict that talking to strangers will be awkward — brief connection usually lifts mood.",
+    "Effects are small and hedonic adaptation erodes one-off boosts, so repetition matters more than intensity."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The commute with a conversation",
+      "body": "Someone braces for an awkward exchange and stays silent on their commute, expecting solitude to feel better. Epley and Schroeder (2014) found the opposite: commuters instructed to talk to a stranger reported more pleasant journeys than those who sat alone, despite most people predicting the reverse. The forecast that it will be unpleasant is usually just wrong — and the mood lift is one of the cheapest in the literature."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The small gift that beat the small treat",
+      "body": "Given a modest amount to spend, one person buys themselves a treat and another buys a small gift for a friend. On the prosocial-spending research (Dunn, Aknin and Norton, 2008), the giver tends to report more happiness — and the amounts were small, which is the point: it's the act of giving, not the sum, that carries the effect."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The gratitude habit that 'didn't work'",
+      "body": "Someone tries writing down what they're grateful for, feels a small lift, sees it fade, and concludes it failed. But the boost was real and modest, and hedonic adaptation is why a single entry drifts back to baseline. The evidence favours a sustained, light-touch habit over a one-time exercise — the modest gains accumulate through repetition, not intensity."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Small practices nudge the dial, repeatedly and modestly, rather than resetting your baseline.",
+      "source": "On the honest size of the effects"
+    },
+    {
+      "text": "It is the act of giving, not the sum, that appears to do the work.",
+      "source": "On prosocial spending"
+    }
+  ],
   "faqs": [
     {
       "question": "What small things actually make people happier?",

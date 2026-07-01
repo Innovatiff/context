@@ -41,6 +41,36 @@
     { "value": "Strongest correlates", "label": "Social connection is among the most consistent predictors of wellbeing", "source": "Social connection research" },
     { "value": "Presence > posting", "label": "Documenting for an audience can blunt the benefit of co-experiencing", "source": "Caveat in the research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Co-experiencing a moment tends to intensify it — even without any conversation about it.",
+    "Sharing good news gives a second lift ('capitalization'), but only when the other person responds with genuine enthusiasm.",
+    "Social connection is one of the strongest and most consistent predictors of wellbeing across decades of research.",
+    "Presence does the work, not performing the moment — documenting for an audience can blunt the benefit.",
+    "The amplification runs both ways: sharing a bad experience in someone's presence can intensify the unpleasantness too."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The same chocolate, together vs alone",
+      "body": "In Boothby, Clark and Bargh's study, people rated identical chocolate as more pleasant when tasting it alongside another person than alone — with no communication between them. It's a small, controlled demonstration, but it isolates the core idea cleanly: presence alone amplifies experience, before anyone says a word."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Good news that lands flat",
+      "body": "You share a genuine win with someone who responds with indifference, and you come away feeling worse than if you'd said nothing. The capitalization research explains it: the lift depends on an active, enthusiastic response. The variable isn't whether you shared — it's whether the other person was genuinely there for it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It's presence and real connection that do the work — not documenting or broadcasting the moment, which can actually undercut it.",
+      "source": "On what actually amplifies experience"
+    },
+    {
+      "text": "The variable isn't whether you shared — it's whether the other person was genuinely there for it.",
+      "source": "On capitalization"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does sharing an experience make it feel better?",

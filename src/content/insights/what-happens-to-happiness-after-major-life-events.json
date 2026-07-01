@@ -37,6 +37,51 @@
     { "value": "Scarring", "label": "Unemployment's lasting effect that re-employment doesn't fully erase", "source": "Lucas et al., 2004" },
     { "value": "Uneven", "label": "Overall verdict on adaptation across life events", "source": "Diener, Lucas & Scollon, 2006" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Adaptation is real but uneven — some events fade toward baseline, others leave lasting marks.",
+    "Marriage brings a small bump that tends to fade back to baseline within about two years.",
+    "Widowhood causes a large drop, with recovery averaging roughly seven years and sometimes incomplete.",
+    "Unemployment can 'scar' — a lasting decline that re-employment does not fully reverse.",
+    "The recovery numbers are population averages with wide individual variation, not personal deadlines."
+  ],
+  "tables": [
+    {
+      "title": "How wellbeing tends to move after major life events",
+      "caption": "Trajectories from long-running panel studies (especially the German Socio-Economic Panel). Figures are population averages with substantial individual variation, not schedules any one person is obliged to keep.",
+      "columns": ["Life event", "Typical direction", "Rough timeline / verdict"],
+      "rows": [
+        ["Marriage", "Small rise, then fades", "Fades toward baseline within ~2 years"],
+        ["Widowhood", "Large drop", "Recovery averages ~7 years, often incomplete"],
+        ["Unemployment", "Lasting decline ('scarring')", "Doesn't fully rebound even after re-employment"],
+        ["Disability", "Decline", "Adaptation often appears incomplete"]
+      ],
+      "highlightColumn": 2,
+      "source": "Lucas et al. (2003–2004); Lucas (2005); Diener, Lucas & Scollon (2006)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The wedding bump that quietly receded",
+      "body": "A year or two after a happy marriage, someone notices their day-to-day mood has settled back to about where it was before. On the panel data this is expected: marriage typically brings a small life-satisfaction rise that fades toward baseline within roughly two years as expectations and routines recalibrate. The fading is the normal mechanics of adaptation, not a verdict on the marriage."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A new job that didn't undo the dent",
+      "body": "Someone who was unemployed for a long stretch finds work again but feels the setback still lingers. This matches the 'scarring' finding: Lucas and colleagues (2004) found unemployment associated with a lasting decline that re-employment does not fully erase. The damage is not only financial and does not simply dissolve with a new job — which is why the research treats joblessness as different from events people largely adapt to."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The happy bump from marriage fades, while the damage from unemployment can linger — which inverts the comforting narrative.",
+      "source": "On uneven adaptation"
+    },
+    {
+      "text": "The numbers describe populations, not a schedule any individual is obliged to keep.",
+      "source": "On reading the recovery figures"
+    }
+  ],
   "faqs": [
     {
       "question": "Do people always bounce back from bad events?",

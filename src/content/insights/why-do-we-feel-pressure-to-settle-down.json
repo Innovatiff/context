@@ -39,6 +39,35 @@
     { "value": "Rising / later", "label": "Direction of change in age at first marriage and first birth over decades", "source": "U.S. Census Bureau" },
     { "value": "On-time vs off-time", "label": "Neugarten's framing of how the social clock is enforced", "source": "Bernice Neugarten, social clock" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The pressure comes from the \"social clock\" — internalised expectations about the right age for milestones — not an objective deadline.",
+    "Actual timing has shifted much later: U.S. median age at first marriage now sits around the late 20s to 30.",
+    "The bigger change is variability — people reach milestones across a wider span of ages, in different orders, or not at all.",
+    "You compare yourself to visible announcements, which makes the schedule look tighter and earlier than it really is.",
+    "The research-aligned move is to base the decision on your circumstances and values, not the clock's timing."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A clock running on an old setting",
+      "body": "Many of the expectations people internalise were formed when marriage and family formation genuinely did happen earlier and more uniformly. The clock keeps running on that setting, so the felt deadline can be sharply out of step with when people around you are actually settling down. What feels like an objective deadline is a social convention that already lags reality by a generation."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling 'behind' at 31, still single",
+      "body": "Fielding family questions and watching a feed full of engagements, someone at 31 can feel conspicuously off-schedule. But with median first marriage now around the late 20s to 30 — a median, so large numbers marry later still — and the timing far more spread out, the 'off-time' range is where a large share of people actually are. The visible announcements are an unrepresentative slice; the wide real distribution rarely gets posted."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When you sense you are 'behind schedule,' you are feeling the pull of the social clock, not an objective deadline.",
+      "source": "On the social clock"
+    },
+    {
+      "text": "The clock many people feel ticking is calibrated to a world that no longer describes how most people actually live."
+    }
+  ],
   "faqs": [
     {
       "question": "What is the social clock?",

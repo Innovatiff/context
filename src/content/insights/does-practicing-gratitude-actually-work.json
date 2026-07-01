@@ -39,6 +39,36 @@
     { "value": "> doing nothing", "label": "Where gratitude reliably beats a comparison; advantage over other positive activities is smaller", "source": "Gratitude intervention meta-analyses" },
     { "value": "Fades", "label": "What tends to happen to benefits when the practice stops", "source": "Research on gratitude and wellbeing" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Gratitude practice produces small-to-moderate improvements in wellbeing and mood — real, but often overhyped.",
+    "It reliably beats doing nothing; its advantage over other active positive activities is smaller and less consistent.",
+    "Benefits tend to fade once the practice stops — it works more like exercise than a one-time fix.",
+    "Detailed, occasional, sincere reflection tends to beat forced daily listing, which can become rote and lose its effect.",
+    "It is a modest wellbeing nudge, not a treatment for depression, anxiety, or grief — 'just be grateful' can feel dismissive."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The daily list that goes rote",
+      "body": "Grinding out the same gratitude entries every single day can become mechanical and lose impact — the opposite of the intuitive 'more is better' assumption. Some studies suggest that writing in real detail about a few things, less frequently, works better than mechanically listing items every day. Genuineness appears to matter more than volume."
+    },
+    {
+      "label": "The pitfall",
+      "title": "When 'just be grateful' misses the point",
+      "body": "The research positions gratitude as a modest wellbeing nudge, not a treatment for clinical depression, anxiety, grief, or genuinely difficult circumstances. Used to override real negative feelings — sometimes called toxic positivity — it tends to ring hollow and add guilt when someone is struggling with something real."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A genuine but limited tool, frequently overhyped — a free, low-risk, small-to-moderate benefit, easy to oversell and easy to dismiss.",
+      "source": "On the honest summary"
+    },
+    {
+      "text": "It works more like exercise than like a one-time fix — the benefits tend to fade when the practice stops.",
+      "source": "On keeping the habit going"
+    }
+  ],
   "faqs": [
     {
       "question": "Does keeping a gratitude journal actually make you happier?",

@@ -40,6 +40,35 @@
     { "value": "Small amounts", "label": "Even modest sums produced the prosocial-spending effect", "source": "Dunn, Aknin & Norton, 2008, Science" },
     { "value": "Varied & chosen", "label": "Conditions under which kindness boosts wellbeing most", "source": "Kindness and volunteering research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Acts of kindness give the giver a small-to-moderate, fairly reliable boost in wellbeing (Curry et al., 2018 meta-analysis).",
+    "Spending on others beat spending the same amount on oneself, even at small sums — the lift is in the act of giving, not the amount (Dunn, Aknin & Norton, 2008).",
+    "The benefit is largest when kindness is varied, freely chosen, and in person — and it fades when it becomes a rote chore.",
+    "It's a low-cost, well-supported practice: a reliable small win that also strengthens relationships, not a cure-all."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The small coffee bought for someone else",
+      "body": "Spending a few dollars on someone else rather than yourself tends to lift happiness more, even though the sum is tiny — which points to the act of giving, not the amount, as what matters. It's the everyday version of the prosocial-spending finding: a cheap, dependable little boost rather than anything dramatic."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When the daily 'good deed' stops feeling good",
+      "body": "Turning kindness into a rigid daily quota can drain the very quality that makes it work, because freely chosen, varied kindness helps more than mechanical repetition. If it's started to feel flat, that's usually a sign it became a chore — rotating what you do and keeping it voluntary and in person helps restore the effect, not evidence the effect was fake."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A reliable small win, not a cure-all — kindness is unusually well supported and unusually cheap.",
+      "source": "On the size of the effect"
+    },
+    {
+      "text": "The feeling that it stopped helping is often a sign it became a chore, not that the underlying effect is fake.",
+      "source": "On why kindness can fade"
+    }
+  ],
   "faqs": [
     {
       "question": "Does being kind really make you happier?",

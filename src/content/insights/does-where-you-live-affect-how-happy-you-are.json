@@ -40,6 +40,40 @@
     { "value": "Modest", "label": "Typical independent effect of within-country location once who-lives-where is accounted for", "source": "Wellbeing research" },
     { "value": "Lower", "label": "Wellbeing reliably associated with long commutes", "source": "Stutzer & Frey, 2008" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Place matters, but less than people expect once you account for who actually lives where.",
+    "Most of the gap between countries reflects income, social support, health, freedom, generosity, and trust — not the geography itself.",
+    "Within a country, individual location effects are modest, and hedonic adaptation erodes much of the lift from moving.",
+    "Long commutes are a reliable exception that points downward — a cost people tend not to adapt away.",
+    "Choose places on durable features (people, structure, commute) rather than the parts that thrill on arrival."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The view that becomes background",
+      "body": "You can picture the sunshine, the view, or the buzz of a new city in vivid detail — but not how quickly it will become ordinary background. So you overweight the setting and underweight adaptation, the same forecasting error that makes a raise or a purchase feel more transformative than it turns out to be. The novelty of a move fades toward your prior baseline."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A nicer home, a longer commute",
+      "body": "Trading a much longer commute for a nicer or cheaper home is a deal the evidence flags as commonly regretted. People adapt to the house itself but tend not to adapt to the daily cost of getting to and from it — so the gain in housing is often quietly eaten by the commute. Stutzer and Frey found long commutes durably associated with lower wellbeing, a cost many under-weight when they choose."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Chasing the top of the rankings",
+      "body": "Moving to a high-ranking country without the underlying conditions in your own life is chasing the label rather than the substance. The report's own modelling attributes the bulk of cross-country variation to roughly six factors — income, social support, healthy life expectancy, freedom, generosity, and trust. The position on the map is a summary of those conditions, not proof the place confers happiness."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The label on the map is doing the work of the conditions underneath it — income, social support, freedom, health, and trust.",
+      "source": "On why country rankings mislead"
+    },
+    {
+      "text": "As a standalone happiness strategy, moving tends to underdeliver: the parts of life that were hard usually travel with you."
+    }
+  ],
   "faqs": [
     {
       "question": "Does where you live really affect how happy you are?",

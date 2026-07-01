@@ -40,6 +40,36 @@
     { "value": "Partial", "label": "Degree of real, controllable influence — meaningful, not total", "source": "Sustainable happiness model (revised)" },
     { "value": "Habits, not a switch", "label": "How controllable influence over happiness actually operates", "source": "Intentional-activity research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "You have genuine but partial influence over happiness — leverage, not total control.",
+    "Three forces act at once: a genetic set point, real circumstances, and intentional activity.",
+    "The controllable part works through sustained habits, not a single decision.",
+    "'Just choose to be happy' ignores genetics, mental illness, and grief — and can add self-blame.",
+    "Persistent low mood is a health matter, not a willpower matter."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A garden, not a switch",
+      "body": "Influence over happiness looks like tending a garden rather than flipping a switch. The practices with the most consistent support — close relationships, physical activity, acts of kindness, absorbing pursuits — work cumulatively, by being repeated, not by being chosen once. That is why 'decide to be happy' feels hollow: the leverage is real, but it lives in habits maintained over time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why the slogan spreads from the comfortable",
+      "body": "Someone whose circumstances and set point are already favourable has more room for intentional activity to show its effect, so their gratitude journal or morning run really does seem to have 'worked.' It can feel like they simply chose their way there — an honest but mistaken belief that anyone could do the same by deciding to. The same advice, handed to a person in grief or financial fear, quietly reads as blame."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Happiness is partly trainable and partly given — and telling a struggling person otherwise is both wrong and unkind.",
+      "source": "On the harm of the slogan"
+    },
+    {
+      "text": "Influence over happiness looks like tending a garden, not flipping a switch.",
+      "source": "On how the controllable part works"
+    }
+  ],
   "faqs": [
     {
       "question": "So is happiness a choice or not?",

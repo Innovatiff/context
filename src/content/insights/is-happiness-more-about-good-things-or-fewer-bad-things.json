@@ -39,6 +39,36 @@
     { "value": "Several:1", "label": "Rough sense of how many positives it takes to offset one negative (varies, contested)", "source": "Bad Is Stronger Than Good literature" },
     { "value": "Daily hassles", "label": "Minor recurring stressors predict wellbeing at least as well as major events", "source": "Daily hassles and uplifts research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'Bad is stronger than good': negative events tend to outweigh comparable positive ones.",
+    "Because of that asymmetry, reducing recurring bad things is often the higher-leverage move.",
+    "Minor daily hassles can predict wellbeing at least as well as major life events.",
+    "The absence of an irritation is silent, so removing negatives is easy to underrate.",
+    "It's a tilt, not a law — you still need positives; you can't subtract your way to a good life."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Stacking treats on top of a chronic stressor",
+      "body": "Someone piling on small rewards — a nicer coffee, a new gadget, a weekend plan — while leaving a draining commute or a tense relationship untouched tends to feel oddly unmoved. That is the asymmetry at work: the unaddressed negative keeps outweighing the additions. Auditing the recurring bad thing first is unglamorous, but it is where the leverage sits."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The improvement no one celebrates",
+      "body": "When a recurring worry finally lifts — a financial strain eases, a corrosive obligation ends — there is no event to celebrate, so people rarely credit it for how much better things feel. Removing a negative doesn't land like a win in the moment, even when, by the evidence, it did more for you than adding a positive would have."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A day with fewer hassles can do more for your mood than a day with one extra treat.",
+      "source": "On the negativity asymmetry"
+    },
+    {
+      "text": "The thing that seems too trivial to fix is exactly the kind of repeated negative that adds up to an outsized drag on wellbeing.",
+      "source": "On daily hassles"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it really better to remove bad things than add good ones?",

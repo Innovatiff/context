@@ -39,6 +39,36 @@
     { "value": "3 components", "label": "Parts of subjective wellbeing measured separately: positive affect, negative affect, life satisfaction", "source": "Diener, subjective wellbeing framework" },
     { "value": "Evaluation > mood", "label": "Income tends to track overall life evaluation more than day-to-day feeling", "source": "Wellbeing research (direction, not a fixed figure)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'Happiness' has at least two meanings: how you feel moment to moment (experienced) and how you judge your life overall (evaluative).",
+    "The two can diverge — you can rate your life highly while often feeling stressed, or feel pleasant yet judge your life as falling short.",
+    "Kahneman's experiencing self and remembering self don't always agree, because memory weights peaks and endings, not the steady middle.",
+    "Because they have different drivers, moving one measure doesn't automatically move the other — act on each measure's own levers.",
+    "Income tends to track the overall verdict on your life more than the day-to-day texture of your hours."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A high life rating, a stressful week",
+      "body": "Someone rates their life 8 out of 10 when asked to step back and judge it — the work matters, the relationships are solid — yet most days feel tired and pressured. There's no contradiction here. Overall life evaluation and moment-to-moment mood are distinct measures, and it's entirely ordinary for one to sit high while the other runs rough."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The holiday remembered as better than it felt",
+      "body": "A trip with one difficult stretch ends on a high, and gets filed in memory as wonderful. A mostly pleasant period that closes badly gets remembered as bad. That's the remembering self at work — reconstructing the past from peaks and endings rather than an even average — which is why deciding 'that period made me happy' can track the story rather than the lived reality."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "One is the running stream of feeling; the other is the verdict you deliver about the whole.",
+      "source": "On experienced vs evaluative wellbeing"
+    },
+    {
+      "text": "Neither is the 'real' happiness; they are two different things that often, but not always, move together.",
+      "source": "On the two meanings"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the actual difference between happiness and life satisfaction?",

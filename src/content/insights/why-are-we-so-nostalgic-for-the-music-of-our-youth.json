@@ -39,6 +39,35 @@
     { "value": "Early 20s", "label": "Age by which musical taste tends to largely crystallise", "source": "Research on music listening habits" },
     { "value": "Most reliable cue", "label": "Music's strength at triggering detailed autobiographical memories", "source": "Music and autobiographical memory research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The pull of youth-era music is the reminiscence bump plus identity formation, not proof the music was actually better.",
+    "The reminiscence bump — a dense cluster of vivid memories from roughly ages 10 to 30 — is well replicated in the research.",
+    "Music is an unusually powerful memory cue, which is why songs feel bound to particular periods of life.",
+    "Musical taste largely crystallises by the early 20s, with openness to new music declining gradually — partly from reduced exposure.",
+    "'They don't make it like they used to' is the same complaint nearly every generation makes — a hint the effect lives in the listener."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The song brings back the whole scene",
+      "body": "A track from your teens doesn't return in isolation — it reactivates who you were, who you were with, and how everything felt at the time. The emotional charge belongs partly to your life, but it gets attributed to the song. That fusion is why the music can feel objectively superior when what's really superior is how deeply it was encoded."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'classics' vs the raw flood of the new",
+      "body": "The music of your youth that you still remember is the small slice that survived; the forgettable majority of that era quietly disappeared. Comparing those curated survivors to the full, unfiltered volume of music being released now is a highlight reel against raw volume — a comparison the present was never going to win."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The feeling that 'they don't make it like they used to' is, more honestly, the sound of your own most formative years.",
+      "source": "On the reminiscence bump"
+    },
+    {
+      "text": "Newer music can feel flat not because it is worse but because it never got encoded the same way."
+    }
+  ],
   "faqs": [
     {
       "question": "What is the reminiscence bump?",

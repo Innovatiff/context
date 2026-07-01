@@ -39,6 +39,32 @@
     { "value": "Internal", "label": "What the felt markers of adulthood mostly are — responsibility, independence", "source": "Arnett" },
     { "value": "Gradual", "label": "How the feeling builds — unevenly across 20s and 30s, not at one age", "source": "Adult development research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling like a 'real adult' arrives later than the legal milestones — and for many, never fully or permanently.",
+    "The felt markers are largely internal: accepting responsibility, making independent decisions, financial independence.",
+    "Events like marriage or a first child rank lower than those internal criteria in Arnett's research.",
+    "Because the criteria are gradual and situational, the feeling comes in patches — adult at work, not-quite-adult around parents.",
+    "In one's 20s the most common answer to 'do you feel like an adult?' is the ambivalent 'yes and no.'"
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Fully adult at work, not around your parents",
+      "body": "Someone who runs a team and pays a mortgage can walk into their childhood home and feel sixteen again. That isn't a failure to grow up — it's exactly what 'situational and patchy' means. The feeling is tied to internal markers that fire in some contexts and go quiet in others, so feeling not-quite-adult in unfamiliar or family settings is compatible with being fully adult elsewhere."
+    },
+    {
+      "label": "The trap",
+      "title": "Waiting for the wedding to flip the switch",
+      "body": "The cultural script says a degree, a wedding, or a house will finally make you feel grown up. So people wait for the event — and when it arrives and the internal feeling doesn't, they conclude something is wrong with them. The more accurate read is that the switch-at-a-milestone script was inaccurate; the feeling follows from carrying responsibility, not from the ceremony."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The feeling tends to follow from carrying responsibility and making independent decisions, not precede it.",
+      "source": "On why waiting to 'feel like an adult' inverts the order"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to not feel like an adult in my 30s?",

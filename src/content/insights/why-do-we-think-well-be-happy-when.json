@@ -40,6 +40,35 @@
     { "value": "Adaptation", "label": "We tend to drift back toward a stable baseline after changes settle", "source": "Hedonic adaptation research" },
     { "value": "Arrival fallacy", "label": "Reaching a long-sought goal often brings less lasting happiness than expected", "source": "Affective forecasting / adaptation" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We overpredict how much a single future change will lift our happiness because we overfocus on it and underweight everything else our days contain.",
+    "The focusing illusion, in Kahneman's line, is that 'nothing in life is as important as you think it is while you are thinking about it.'",
+    "Impact bias means we overestimate how long both good and bad events will affect us; adaptation then pulls the baseline back.",
+    "Widening the frame when forecasting, and expecting adaptation rather than being blindsided by it, deflates the 'I'll be happy when' trap."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The forecast is a highlight; the reality is a full day",
+      "body": "When you picture the milestone — the raise, the house, the move — you experience a concentrated burst of the good feeling with none of the ordinary commutes, chores, and worries that will still be there afterward. Once you stop thinking about it and go live your life, its share of your actual experience shrinks to something much smaller. You only learn that after the fact."
+    },
+    {
+      "label": "The trap",
+      "title": "Moving from one 'when' to the next",
+      "body": "The goal arrives, feels good for a while, life reabsorbs it as the new normal, and the background level of happiness drifts back toward where it was. Because adaptation is quiet and gradual, the let-down gets blamed on picking the wrong goal — so you swap in a bigger one and reproduce the same result, rather than noticing the forecast itself was the problem."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Nothing in life is as important as you think it is while you are thinking about it.",
+      "source": "Kahneman, on the focusing illusion"
+    },
+    {
+      "text": "Feeling flat after reaching a long-sought goal is the expected result of a normal prediction error, not evidence that something is wrong with you.",
+      "source": "On the arrival fallacy"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I keep thinking I'll be happy once I reach the next goal?",

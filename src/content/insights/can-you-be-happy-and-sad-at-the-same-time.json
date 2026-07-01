@@ -40,6 +40,35 @@
     { "value": "Resilience", "label": "Emotional complexity linked to resilience and maturity in some studies", "source": "Research on emotional complexity and wellbeing" },
     { "value": "Deeper meaning", "label": "Bittersweetness can deepen meaning rather than reduce happiness", "source": "Susan Cain, 'Bittersweet'" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People genuinely feel happy and sad at once — the two aren't opposite ends of one scale.",
+    "Mixed emotions cluster around poignant transitions: graduations, goodbyes, and nostalgia.",
+    "Emotional complexity — holding mixed feelings — is linked in some research to resilience and maturity, not dysfunction.",
+    "Letting both emotions stand tends to be more accurate and less distressing than forcing one to resolve."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Proud and grieving at graduation",
+      "body": "The textbook case from Larsen and colleagues' research: students at graduation feel joy and pride at the achievement while also grieving the end of a chapter. The two emotions aren't cancelling out — they're present together. Read that way, the layered feeling isn't doing the moment 'wrong'; it's the common and often deeper response to something that genuinely had two sides."
+    },
+    {
+      "label": "The mechanism",
+      "title": "From 'weird' to 'proud and wistful'",
+      "body": "When a happy memory comes with an ache, it's easy to label the whole thing 'weird' and try to move on. Practising more precise emotional language — noticing you feel proud and wistful rather than just off — can make a mixed state feel coherent instead of confusing. The blend resists a clean single label because it's a complete response, not unfinished business."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling happy and sad at once isn't contradiction or instability — it's a normal, often meaningful part of how human emotion works.",
+      "source": "On mixed emotions"
+    },
+    {
+      "text": "The ache inside a happy memory often signals how much something mattered.",
+      "source": "On bittersweetness"
+    }
+  ],
   "faqs": [
     {
       "question": "Can you really feel happy and sad at the same time?",

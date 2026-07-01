@@ -40,6 +40,36 @@
     { "value": "Lower stress", "label": "Association consistently linked to routine and secure attachment", "source": "Research on stability and wellbeing" },
     { "value": "Destabilising", "label": "Effect of too much novelty and upheaval on wellbeing", "source": "Research on uncertainty and stress" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The research doesn't crown a winner — wellbeing tends to come from blending novelty and stability rather than choosing one.",
+    "Stability gives you a floor; novelty raises the ceiling by keeping good things from fading into the background.",
+    "Variety slows hedonic adaptation, and pairing variety with actively appreciating positive changes works better than either alone.",
+    "Both extremes fail: relentless upheaval is stressful, while total sameness invites flatness through adaptation.",
+    "Reach for whichever side you're currently short on — add stability when life feels chaotic, novelty when it feels flat."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The thrilling new thing that becomes ordinary",
+      "body": "The new job, home, or relationship that once felt thrilling slowly becomes ordinary. From the inside that feels like the thing got worse, rather than like you got used to it — so it's tempting to reach for the next new thing, mistaking the chase for the cure. Adding and savouring variety within what you already have tends to keep it registering as enjoyable."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading the dial by what you're short on",
+      "body": "If your life feels stressful or chaotic, adding routine and stability tends to help. If it feels comfortable but flat, adding variety tends to help. The useful lever is usually whichever side you're currently short on rather than a universal rule about being 'a novelty person' or 'a stability person.'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Stability gives you a floor and novelty raises the ceiling — the happier pattern is a stable base punctuated by variety.",
+      "source": "On blending the two"
+    },
+    {
+      "text": "Framing it as 'I'm a novelty person' or 'I'm a stability person' misses the evidence that wellbeing tends to draw on both.",
+      "source": "On the either/or mistake"
+    }
+  ],
   "faqs": [
     {
       "question": "So which one actually makes people happier?",

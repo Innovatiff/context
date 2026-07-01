@@ -39,6 +39,35 @@
     { "value": "Intensity", "label": "The weaker predictor — and linked to stronger negative emotion too", "source": "Diener et al." },
     { "value": "Correlational", "label": "Nature of the evidence — a reliable association, not proven cause", "source": "Self-report wellbeing studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "How often you feel mild positive emotion predicts overall happiness better than how intense your rare peaks are (Diener et al.).",
+    "Intensity is double-edged: people prone to strong highs tend to feel strong lows too, so chasing bigger peaks doesn't reliably improve the balance.",
+    "Memory and adaptation make big rare moments feel like they matter most, which is why the steady small positives get overlooked.",
+    "The pattern is a meaningful but moderate tendency from correlational self-report — a sensible tilt, not a guarantee."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The spectacular weekend vs the good-enough week",
+      "body": "One dazzling weekend a month can feel like the thing that makes a life good, while five ordinary decent days barely register. But the frequency finding points the other way: the quiet run of small positives tends to track overall happiness more closely than the height of the occasional peak. The highlights dominate memory precisely because memory is built around peaks — not because they did most of the work."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Renewable positives vs the resetting peak",
+      "body": "A regular walk, a short chat with someone you like, a few minutes of something interesting — these are renewable in a way a big event isn't, and they keep the everyday baseline up. A single peak, by contrast, resets the bar so the next ordinary day feels flat by comparison. The thing that looks too minor to count is, by frequency, much of what the happiness measures are capturing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A run of ordinary good days tends to add up to more than a single spectacular one.",
+      "source": "On frequency vs intensity"
+    },
+    {
+      "text": "Emotional intensity is more of a personal trait than a free lottery ticket — the same amplitude that deepens the highs deepens the lows.",
+      "source": "On why bigger peaks don't pay off"
+    }
+  ],
   "faqs": [
     {
       "question": "Does this mean big experiences don't matter?",

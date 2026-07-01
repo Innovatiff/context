@@ -40,6 +40,35 @@
     { "value": "Overestimated", "label": "How badly and how long we predict bad events will affect us", "source": "Wilson & Gilbert, affective forecasting" },
     { "value": "Immune neglect", "label": "Our tendency to underestimate the mind's own coping", "source": "Wilson & Gilbert" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wellbeing and pain can coexist — people report moments of warmth and humour even during grief and stress.",
+    "Resilience is the single most common response to loss and potential trauma, though not the only one.",
+    "We tend to overestimate how badly and how long bad events will affect us — the dread is often worse than the experience.",
+    "This is not toxic positivity: hard times are genuinely hard, and some struggles need professional support."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A laugh in the middle of grief",
+      "body": "A good hour in a bad week, or a shared laugh at a wake, can feel like doing grief 'wrong' when the cultural script treats happiness and suffering as opposites you feel one at a time. The research suggests the opposite: these mixed moments are a normal, even healthy part of how people get through hard times — not a betrayal of what you're going through."
+    },
+    {
+      "label": "The mechanism",
+      "title": "The dread that outpaces the experience",
+      "body": "Facing a hard time, the mind fixates on the difficult event and overlooks everything else that will still occupy and buoy you, so you predict a flatter, bleaker future than the one you usually end up living. Because the mind quietly reframes, finds support, and adapts largely out of view — 'immune neglect' — the anticipation of loss can feel more total than the experience itself."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Happiness and suffering can share the same stretch of life.",
+      "source": "On coexisting emotions"
+    },
+    {
+      "text": "Resilience looks less like never feeling bad and more like feeling it, staying functional, and recovering.",
+      "source": "On what resilience is"
+    }
+  ],
   "faqs": [
     {
       "question": "Can you really feel happy while going through something hard?",

@@ -40,6 +40,35 @@
     { "value": "Amplified", "label": "Effect of curated social media on harmful upward comparison", "source": "Research on social media and comparison" },
     { "value": "Can help", "label": "Downward comparison's link to gratitude and coping", "source": "Research on downward comparison and wellbeing" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The slogan holds up for the dominant pattern: chronic upward, curated comparison reliably tracks with lower satisfaction.",
+    "Comparison is a built-in way humans self-evaluate when there's no objective standard — not a bad habit to eliminate.",
+    "Upward comparison is the more frequent and more emotionally costly form; downward comparison can support gratitude and coping.",
+    "The real culprit is usually the unrepresentative comparison set, not the act of comparing itself.",
+    "Correcting the comparison set works better than trying to stop comparing, which is largely automatic."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The comparisons you never remember",
+      "body": "Downward comparison and the occasional inspiring upward comparison happen quietly and don't sting, so they leave little memory — while the painful upward comparisons are vivid and recurring. The harmful instances are simply more salient, which biases the felt verdict toward 'comparison is always bad,' even though the research is more nuanced."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Redirecting rather than eliminating",
+      "body": "Aiming for zero comparison usually fails and adds self-criticism on top. What's more achievable is channelling it: using upward comparison as concrete information or inspiration rather than a verdict, and using downward comparison to register genuine gratitude. Widening the frame toward how people actually live — rather than the curated top slice — tends to reduce the sting, because the imagined standard was never representative."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is the unrepresentative comparison set — not comparison itself — that does the damage.",
+      "source": "On where the harm really lives"
+    },
+    {
+      "text": "Because the distortion is in the sample rather than in the act, the act takes the blame."
+    }
+  ],
   "faqs": [
     {
       "question": "So is comparison the thief of joy or not?",

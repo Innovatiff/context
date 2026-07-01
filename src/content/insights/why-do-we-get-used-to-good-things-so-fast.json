@@ -40,6 +40,40 @@
     { "value": "Both ways", "label": "Direction adaptation works — we also adapt to bad events", "source": "Frederick & Loewenstein review" },
     { "value": "Modest", "label": "Typical effect of variety, gratitude, and savouring in slowing adaptation", "source": "Adaptation-prevention research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Getting used to good things is hedonic adaptation — a normal drift back toward a personal happiness baseline, not a flaw in you.",
+    "The same mechanism works both ways: it also helps you recover from bad events, and keeps you motivated and responsive to change.",
+    "Buying more or bigger doesn't outrun it, because adaptation scales with whatever becomes your new baseline.",
+    "Variety, savouring, gratitude, and spacing pleasures out can slow the fade — with modest effects — but none switch adaptation off."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The new car that quietly became 'just the car'",
+      "body": "At first it stands out every time you get in. A few months on, it has blended into the background of normal life, and from the inside that registers as disappointment with the car rather than what it actually is — a predictable recalibration of your baseline. The thing didn't get worse; you got used to it."
+    },
+    {
+      "label": "The trap",
+      "title": "Chasing the next, bigger upgrade",
+      "body": "Because the last purchase faded, the next, larger one feels like it will finally stick. But adaptation scales with your baseline, so the bigger buy tends to deliver the same short-lived boost followed by the same fade. The pattern repeats rather than resolves — which is why varying and savouring what you already have tends to do more than escalating."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Spacing out a favourite pleasure",
+      "body": "Someone who has their favourite meal every night stops noticing how good it is; the same meal once a fortnight keeps some of its original enjoyment. Interrupting and spacing out an experience, rather than consuming it continuously, keeps it from blurring into the new normal — a small break can restore part of the original pleasure."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It feels like the good thing got worse, not like you got used to it.",
+      "source": "On how adaptation registers from the inside"
+    },
+    {
+      "text": "The realistic goal is to slow the fade, not abolish it.",
+      "source": "On what the counter-measures can and can't do"
+    }
+  ],
   "faqs": [
     {
       "question": "What is hedonic adaptation?",

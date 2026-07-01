@@ -40,6 +40,35 @@
     { "value": "Loosening", "label": "Age norms have weakened and milestones have spread over recent decades", "source": "Research on the loosening of age norms" },
     { "value": "Reinforced", "label": "Others' reactions and ageism enforce age-appropriate behaviour", "source": "Research on ageism and age-appropriate behaviour" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "\"Act your age\" pressure comes from age norms and Neugarten's internalised social clock — real social forces, but partly arbitrary.",
+    "Because the clock is internalised, a social convention can feel like a personal instinct.",
+    "The pressure is kept alive by anticipated reactions more than actual ones — we overestimate how much others notice and judge us.",
+    "Age norms have loosened: the ages people marry, have children, change careers, or return to education have spread and shifted later.",
+    "The useful move is to decide by what you actually want — consulting age norms rather than obeying or rebelling against them."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "An audience that isn't really watching",
+      "body": "The pressure is sustained by an imagined audience: you picture the surprise or disapproval of being the oldest person doing a certain thing, or the youngest, and that imagined reaction shapes behaviour even when the real audience would not much care. Since people generally notice and judge us less than we fear, the disapproval that keeps many in line is often smaller than anticipated."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Wanting to start something 'too late'",
+      "body": "Someone hesitant to take up a new hobby, return to education, or change careers because it seems age-inappropriate is weighing a mostly imagined social cost. Age norms have loosened and being 'off-time' is now common rather than exceptional, so the room to pursue interests that feel 'too young' or 'too old' is usually wider than it seems. Suppressing the interest tends to produce the off-time self-consciousness without resolving the desire."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The self-consciousness of being 'off-time' arrives without anyone having to enforce it — which makes a social convention feel like a personal instinct.",
+      "source": "On the internalised social clock"
+    },
+    {
+      "text": "Defiantly doing things only to prove you reject the norms still lets the social clock set the agenda — just in reverse."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do we feel we have to act our age?",

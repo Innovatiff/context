@@ -37,6 +37,51 @@
     { "value": "Logarithmic", "label": "Shape of the income–happiness relationship most studies agree on", "source": "Killingsworth, Kahneman & Mellers, PNAS 2023" },
     { "value": "Weak", "label": "Link between rising national income over time and average happiness", "source": "Easterlin paradox" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Income and happiness are linked, but the relationship is logarithmic — each extra dollar buys less wellbeing than the last.",
+    "The famous '$75,000 plateau' was one dated U.S. measure; a 2023 re-analysis found happiness generally keeps rising with income.",
+    "Money helps most at the lower end, where it removes financial strain, not by accumulating beyond your needs.",
+    "How you spend — experiences, others, buying back time — matters more than how much, though the effects are modest.",
+    "At the national level, decades of rising income haven't reliably raised average happiness (the Easterlin paradox)."
+  ],
+  "tables": [
+    {
+      "title": "What the major studies actually found",
+      "caption": "The 'money and happiness' headlines usually collapse several distinct findings into one slogan. These are the load-bearing results, each measuring something slightly different.",
+      "columns": ["Study / finding", "What it measured", "Result"],
+      "rows": [
+        ["Kahneman & Deaton (2010)", "Day-to-day emotional wellbeing", "Flattened around ~$75,000/yr; life evaluation kept rising"],
+        ["Killingsworth (2021)", "Experienced wellbeing, real-time sampling", "No plateau — kept rising with log income"],
+        ["Killingsworth, Kahneman & Mellers (2023)", "Adversarial re-analysis", "Happiness generally keeps rising; flattening mainly among an unhappy minority"],
+        ["Easterlin paradox", "National income over decades vs average happiness", "Weak — rising income hasn't reliably raised average happiness"],
+        ["Luttmer (2005)", "Wellbeing vs neighbours' income", "Lower wellbeing when neighbours earn more, own income held constant"]
+      ],
+      "source": "Kahneman & Deaton, PNAS 2010; Killingsworth, PNAS 2021; Killingsworth, Kahneman & Mellers, PNAS 2023; Easterlin paradox; Luttmer, QJE 2005"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A $10,000 raise, two very different households",
+      "body": "Because wellbeing tracks the logarithm of income, the same $10,000 raise does far more for a household earning $40,000 than for one earning $400,000. For the first, it can lift real day-to-day strain; for the second, it barely registers against the baseline. The dollar figure is identical; the wellbeing return is not — which is the whole point of 'diminishing returns.'"
+    },
+    {
+      "label": "Illustrative",
+      "title": "Hitting the number that was supposed to fix things",
+      "body": "Someone spends years treating a target income as the finish line, reaches it, and feels the same. That isn't a personal failure — it reflects both the hedonic treadmill (expectations rise to meet whatever you get) and the fact that relative standing moves with you. The research argues against building a plan around any single 'magic number,' because it was never going to settle what people hoped it would."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Money helps, it helps less than people expect, and beyond covering your needs and a buffer it is one factor among several rather than the decisive one.",
+      "source": "The honest summary"
+    },
+    {
+      "text": "The '$75,000' was never a universal threshold — it was a 2010 U.S. figure for one measure of wellbeing.",
+      "source": "On the magic-number framing"
+    }
+  ],
   "faqs": [
     {
       "question": "So does money buy happiness or not?",

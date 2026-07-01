@@ -39,6 +39,35 @@
     { "value": "Many countries", "label": "Where declinism (belief the past was better) has been documented", "source": "Mastroianni & Gilbert, Nature 2023" },
     { "value": "Upward drift", "label": "Direction memories of events tend to move versus in-the-moment ratings", "source": "Mitchell & Thompson, rosy retrospection research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The \"good old days\" feeling is driven mainly by two biases — rosy retrospection and declinism — not by reliable evidence.",
+    "Rosy retrospection: memory edits our own past to be fonder than it felt at the time.",
+    "Declinism: the belief that morality and behaviour are declining appears in many countries and decades, and is largely independent of measurable change.",
+    "The comparison is structurally unfair — a smoothed, edited memory on one side, the raw and unedited present on the other.",
+    "Nostalgia is fine to enjoy; the distortion comes only from treating it as evidence about how the world has changed."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "An edited memory vs an unedited now",
+      "body": "Unpleasant and mundane details fade faster than warm ones, so the past you can recall is already pre-edited toward the good. The present, by contrast, arrives in full — all its frictions and unfinished business in view — and negativity bias makes today's problems louder than the comparable problems of a decade ago. You are comparing a curated highlight of the past to the raw and anxious now, and the past will almost always seem to win."
+    },
+    {
+      "label": "Illustrative",
+      "title": "\"That job was so much better\"",
+      "body": "Someone convinced an old job was better than their current one is often comparing a smoothed memory to a fully detailed present. Diaries, photos, and old messages routinely surprise people, because they preserve the boredom and frustration memory edits out. Checking the specific claim against contemporaneous records tends to deflate the sweeping version — the point isn't that nothing gets worse, but that the feeling alone is weak evidence."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are not comparing the present to the past as it was — you are comparing it to a curated highlight of the past, with the dull and difficult parts quietly removed.",
+      "source": "On rosy retrospection"
+    },
+    {
+      "text": "The distinction that matters is between enjoying nostalgia as a feeling and treating it as evidence."
+    }
+  ],
   "faqs": [
     {
       "question": "Does this mean the past was never actually better in any way?",

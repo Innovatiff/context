@@ -40,6 +40,40 @@
     { "value": "Common", "label": "How widely survivor guilt is recognized as a response to relative good fortune", "source": "Survivor guilt research" },
     { "value": "Learned", "label": "Nature of happiness guilt — a belief / script, not a verdict on worth", "source": "Cultural beliefs about happiness research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Happiness guilt is common and traceable to specific beliefs — fear-of-happiness beliefs, survivor guilt, and cultural or family scripts — not a sign you don't deserve to feel good.",
+    "Fear-of-happiness beliefs ('cherophobia') are real and measurable, and more common in some cultures than others — which points to a learned response, not a universal one.",
+    "It tends to surface most when life is going well, which makes it feel like a true signal about that good thing rather than a background pattern.",
+    "Naming which belief is operating tends to loosen its grip; for survivor guilt, letting grief and joy coexist helps more than suppressing either."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The script that feels like your own judgment",
+      "body": "'Don't get too comfortable.' 'Pride comes before a fall.' When a belief like this is absorbed early and rarely stated out loud, guilt about feeling good arrives feeling like your own honest verdict — 'I must not really deserve this' — rather than what the research suggests it usually is: an inherited rule running quietly in the background."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling good while someone you love is struggling",
+      "body": "Letting yourself enjoy something while a loved one is suffering, or after a loss, can feel like a betrayal or an unfairness — a form of survivor guilt. The research treats this as a common, understandable response to relative good fortune, not a disorder. Holding genuine empathy and your own joy at the same time, and channelling the impulse into connection or helping, tends to help more than suppressing the happiness."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Rest that feels like a debt",
+      "body": "If you have absorbed the idea that your value comes mainly from output, then joy or rest that doesn't follow visible effort can register as unearned — a debt rather than a normal part of life. The wellbeing research frames positive emotion and rest as ordinary human needs, not rewards to be earned, so loosening the link between worth and productivity is one reasonable way to ease the guilt."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is a learned response, not a signal that you are not allowed to feel good.",
+      "source": "On what happiness guilt actually is"
+    },
+    {
+      "text": "Guilt can arrive precisely when life is going well, which makes it feel like a true signal rather than a general pattern.",
+      "source": "On why it surfaces at good moments"
+    }
+  ],
   "faqs": [
     {
       "question": "Is feeling guilty about being happy normal?",

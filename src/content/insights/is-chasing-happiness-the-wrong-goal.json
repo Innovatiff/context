@@ -38,6 +38,35 @@
     { "value": "Separable", "label": "Meaning and happiness overlap but diverge meaningfully", "source": "Baumeister et al., 2013" },
     { "value": "Byproduct", "label": "Happiness tends to follow from meaning, connection, engagement", "source": "Wellbeing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Pursuing happiness too directly — and constantly checking whether you've got it — can paradoxically reduce it.",
+    "Valuing happiness highly sets a high bar and turns your mood into something you anxiously monitor and judge.",
+    "Meaning and happiness overlap but diverge: a meaningful life can include stress, effort, and sacrifice.",
+    "Happiness tends to arrive as a byproduct of meaning, connection, and absorbing activity — not by aiming straight at it.",
+    "Treating any dip in mood as a failure adds a second layer of distress; fluctuation is normal, not a malfunction."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The disappointment loop",
+      "body": "Placing a very high value on being happy leads people to monitor their feelings and feel let down when reality falls short of the bar — the effect Mauss and colleagues found can leave people less happy, especially in otherwise positive circumstances. Loosening the constant self-check ('am I happy enough?') is what removes the loop that undermines the very state you want."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A meaningful stretch that isn't always pleasant",
+      "body": "Helping others, deeper engagement with difficulty, and higher stress can all raise a sense of meaning while not raising — or even lowering — momentary happiness. The 'good life' the research describes is not the same as a continuously pleasant one; you can have a lot of one with less of the other."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Happiness tends to arrive as a byproduct of other things — meaning, connection, absorbing activity, living by your values — rather than as something you can grab by aiming straight at it.",
+      "source": "On what to aim at"
+    },
+    {
+      "text": "The monitoring and the high standard are the documented culprits — not the wanting itself."
+    }
+  ],
   "faqs": [
     {
       "question": "Is wanting to be happy a bad thing?",

@@ -40,6 +40,32 @@
     { "value": "Type matters", "label": "Affiliative and coping humour help; self-defeating humour does not", "source": "Research on humour styles and coping" },
     { "value": "Not a treatment", "label": "Laughter's appropriate role relative to medical care", "source": "Humour-and-health reviews" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Laughter reliably lifts mood and strengthens social bonds — the strongest, best-supported part of the story.",
+    "'Laughter is the best medicine' overstates the medical side; evidence for boosting immunity or longevity is weak and mixed.",
+    "The type of humour matters: affiliative and coping humour help, while self-defeating or avoidant humour does not.",
+    "Genuine shared amusement carries the benefit; forced or performed laughter delivers much less.",
+    "Laughter is a pleasant contributor to wellbeing, not a substitute for sleep, exercise, or medical care. This is educational only, not medical advice."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Laughing together, not just laughing",
+      "body": "Shared laughter is linked to endorphin release and helps strengthen social bonds — part of why laughing with friends feels connecting rather than just amusing. The benefit clusters around real, shared amusement, which is why time with people who make you laugh does more than performed laughter on its own."
+    },
+    {
+      "label": "The pitfall",
+      "title": "When 'best medicine' quietly delays real care",
+      "body": "There is no good evidence that laughing your way through a serious physical condition affects its course. Framing humour as 'medicine' can quietly encourage people to lean on it in place of treatment — a fine thing to have more of, but not a substitute for a qualified clinician when something about your health is persistent."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Solid on connection and mood, shaky on physical health — laughter is a fine thing to have more of, but it is not a treatment.",
+      "source": "On the asymmetric evidence"
+    }
+  ],
   "faqs": [
     {
       "question": "Is laughter really the best medicine?",

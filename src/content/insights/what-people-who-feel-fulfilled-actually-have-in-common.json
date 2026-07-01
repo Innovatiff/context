@@ -36,6 +36,36 @@
     { "value": "Relationships", "label": "Strongest midlife predictor of later health and satisfaction", "source": "Harvard Study of Adult Development" },
     { "value": "3 needs", "label": "Core psychological needs linked to wellbeing: autonomy, competence, relatedness", "source": "Deci & Ryan, Self-Determination Theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The most consistent predictor of a fulfilling life is the quality of close relationships, not wealth, fame, or achievement.",
+    "A sense of purpose shows up almost as reliably — and Hill and Turiano (2014) linked it to greater longevity.",
+    "Self-Determination Theory adds three core needs whose satisfaction tracks wellbeing: autonomy, competence, relatedness.",
+    "The strongest inputs compound slowly, which is why deferring relationships until you're 'successful' forfeits their power.",
+    "These are population-level patterns and pointers, not a guaranteed formula for any single person."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The successful career that felt hollow",
+      "body": "Someone hits the income and status targets they organised their life around and is puzzled that fulfilment didn't follow. On the Harvard findings, that's the predictable shape: the visible scoreboard is the weaker predictor, while the quality of close relationships at midlife did the heavy lifting for later health and satisfaction. The milestones changed less than expected because they weren't the main ingredient."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Ordinary purpose, quietly protective",
+      "body": "A person without any grand mission finds a felt sense that their days are about something — caring for people, getting good at a craft, contributing to a community. The research doesn't require the mission to be large; Hill and Turiano's work associates even this ordinary orientation with better outcomes, including longevity. What seems to matter is the felt direction, not the scale of it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The things that predict fulfilment are quiet and the things that don't are loud.",
+      "source": "On the cultural scoreboard"
+    },
+    {
+      "text": "You cannot buy a 30-year friendship or purchase a sense of meaning the way you can buy a status object.",
+      "source": "On why the strongest factors compound"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the single biggest predictor of a fulfilling life?",

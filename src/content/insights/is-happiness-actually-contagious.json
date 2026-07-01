@@ -39,6 +39,36 @@
     { "value": "Established", "label": "Status of emotional contagion (catching moods) at the individual level", "source": "Hatfield, Cacioppo & Rapson" },
     { "value": "Debated", "label": "Whether network effects are true contagion vs. shared environment and homophily", "source": "Methodological critiques of network-contagion studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Emotional contagion — catching the moods of people around you — is well established at the individual level.",
+    "A famous 2008 analysis suggested happiness ripples across social networks, up to about three degrees.",
+    "The network-level size is contested: hard to separate true contagion from homophily and shared environment.",
+    "The individual-level effect is real but usually small and short-lived per interaction.",
+    "It cuts both ways — your mood plausibly affects others too, so the immediate circle matters."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Catching the room's mood before you decide anything",
+      "body": "Emotional mimicry happens fast and below conscious awareness: you adjust to the tone of a room — a tense meeting, an upbeat dinner — before you have decided anything. Because it is automatic, it often feels like your own spontaneous state rather than something you picked up from the people present. That is the well-supported, everyday version of contagion."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why 'three degrees' outran the caveats",
+      "body": "'Happiness is contagious across three degrees' is a striking, shareable line, and it travelled far faster than the careful debate about whether the studies can truly separate contagion from people simply resembling and sharing situations with those they are connected to. The vivid version outran the cautious one — which is exactly why the long-range figure is best held as an interesting finding, not a settled law."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Moods and happiness do seem to spread between people — the close-up mechanism is solid, and the long-range magnitude is still an open question.",
+      "source": "On what the evidence supports"
+    },
+    {
+      "text": "The contagion effect is a subtle statistical tendency, not a strong force that justifies abandoning struggling friends.",
+      "source": "On misreading the research"
+    }
+  ],
   "faqs": [
     {
       "question": "Is happiness really contagious?",

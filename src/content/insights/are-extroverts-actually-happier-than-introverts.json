@@ -39,6 +39,40 @@
     { "value": "Positive affect", "label": "The aspect of happiness extraversion most predicts (not absence of distress)", "source": "Personality and wellbeing research" },
     { "value": "Introverts too", "label": "Who reports more positive mood when acting outgoing in the moment", "source": "Fleeson and colleagues, acting-extraverted studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On average extroverts report somewhat more positive mood, but the gap is modest and the two groups overlap heavily — it's a tendency, not a rule.",
+    "Extraversion mostly predicts positive affect, not freedom from anxiety or low mood, which tracks more with other traits.",
+    "Acting more outgoing tends to lift positive affect for introverts too — though for introverts it can carry a real cost in energy.",
+    "Relationships, meaning, and engagement matter more for happiness than where you sit on the introversion–extroversion scale, and they're open to any temperament."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A small average gap becomes a sweeping headline",
+      "body": "A modest difference between two large, overlapping groups turns, in casual retelling, into 'extroverts are happy and introverts aren't' — a far stronger claim than the data supports. Plenty of introverts report high wellbeing and plenty of extroverts report low; knowing someone's extraversion score explains only a slice of the difference in happiness between people."
+    },
+    {
+      "label": "Illustrative",
+      "title": "An introvert who feels better after acting outgoing — at a cost",
+      "body": "Studies find that when introverts act more talkative and outgoing in chosen settings, they too tend to report more positive affect. The catch is that performing extroversion can be tiring, so the benefit comes with an energy cost worth respecting. The practical reading isn't 'become an extrovert' but that some sociable, active behaviour appears to do something good for most people."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Connection on your own terms",
+      "body": "For many introverts, fewer and deeper relationships plus time for solitude support wellbeing better than constant socialising. Depleting yourself to perform extroversion isn't the goal; chosen, meaningful connection is well supported as a route to wellbeing regardless of where you sit on the scale."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The practical reading is not 'become an extrovert' but that some sociable, active behaviour appears to do something good for most people.",
+      "source": "On the behavioural findings"
+    },
+    {
+      "text": "A small average difference between two large, overlapping groups becomes, in casual retelling, 'extroverts are happy and introverts aren't.'",
+      "source": "On how the gap gets exaggerated"
+    }
+  ],
   "faqs": [
     {
       "question": "Are extroverts really happier than introverts?",

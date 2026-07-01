@@ -40,6 +40,36 @@
     { "value": "Large gaps", "label": "Persistent differences between countries' average life evaluations", "source": "World Happiness Report" },
     { "value": "Social support", "label": "Among the strongest national correlates of reported happiness", "source": "World Happiness Report" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Happiness is partly culturally constructed — the Western achievement-and-excitement model is one version, not the human default.",
+    "Many East Asian and collectivist cultures emphasise an interdependent model: balance, calm, social harmony, and quieter positive states.",
+    "Some cultures are ambivalent about pursuing happiness head-on, viewing intense personal happiness as fragile or socially disruptive.",
+    "National happiness gaps track income, social support, freedom, healthy life expectancy, generosity, and trust — not just culture.",
+    "Social connection is the closest thing to a common thread that looks beneficial across very different definitions of happiness."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two people, two definitions of 'a good day'",
+      "body": "Ask two people what a happy day looks like and you can get answers that mean different things. One describes an exciting win, a promotion, standing out — the independent, high-arousal model common in individualist Western settings. The other describes a calm afternoon in step with family, nothing to prove — the interdependent, low-arousal, harmony-centred model. Neither is more correct; they are different definitions of the same word."
+    },
+    {
+      "label": "The distortion",
+      "title": "Why the loud version looks like the only version",
+      "body": "Excitement, achievement, and standing out photograph and broadcast well; quiet contentment and social harmony do not. So even within one culture, the high-arousal version of happiness dominates the visible picture — and the calmer, more relational versions start to feel like exceptions rather than the norm they often are."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "None of these is more correct; they are different definitions of the same word.",
+      "source": "On independent vs interdependent happiness"
+    },
+    {
+      "text": "Calm, balance, and good relationships are legitimate forms of feeling good — not consolation prizes for failing to feel excited.",
+      "source": "On loosening a single narrow definition"
+    }
+  ],
   "faqs": [
     {
       "question": "Is happiness the same in every culture?",

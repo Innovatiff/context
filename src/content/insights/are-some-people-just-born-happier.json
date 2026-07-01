@@ -40,6 +40,35 @@
     { "value": "Set point", "label": "Tendency to return toward a characteristic baseline after life events", "source": "Hedonic adaptation research" },
     { "value": "Revised", "label": "Status of the strong set-point model — baselines can differ and shift", "source": "Diener, Lucas & Scollon, 2006" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Baseline happiness is partly heritable — often cited around 40–50%, with some estimates higher — so an inborn leaning is real.",
+    "Heritability describes variation across a population, not a forecast or a cap for any one person.",
+    "The 'set point' is genuine but movable: the revised research shows baselines can differ between people and shift over years.",
+    "Circumstances and repeated activities still influence wellbeing, so the honest picture is a leaning, not a destiny."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Loading the dice without deciding the throw",
+      "body": "A heritability figure like '50%' can sound like a verdict, but it works more like weighted dice. Genetics gives some people a sunnier or gloomier starting range, yet the throw still depends on circumstances, relationships, and what you repeatedly do. The number describes why people differ from one another — not a ceiling on where your own mood can settle."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Bouncing back to your usual mood",
+      "body": "After a good week or a hard one, you notice yourself drifting back toward your familiar baseline — which makes the set point feel like an immovable floor or ceiling. What's harder to see from inside one life is the slower, longer-term drift the revised research describes: change that unfolds over years rather than weeks, which the old 'born happy and stuck there' story missed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Genetics loads the dice without fully deciding the throw.",
+      "source": "On what heritability actually means"
+    },
+    {
+      "text": "A trait can be 50% heritable in a group while still being movable in an individual.",
+      "source": "On reading a heritability figure"
+    }
+  ],
   "faqs": [
     {
       "question": "Is happiness really genetic?",

@@ -37,6 +37,61 @@
     { "value": "Top ~10–15%", "label": "Where a U.S.-median household income sits globally (PPP-adjusted)", "source": "Milanovic; Pew Research; Our World in Data" },
     { "value": "~8.1 billion", "label": "People currently alive", "source": "UN population estimates" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Adjusted for purchasing power, a U.S.-median household income sits in roughly the richest 10–15% of people worldwide.",
+    "The global baseline is far lower than most people picture: median income runs to only a few dollars a day.",
+    "Roughly 9% of the world — around 700 million people — lived below the $2.15/day extreme-poverty line in the early 2020s.",
+    "The 'everyone' you feel behind is a tiny, upward-skewed local slice, not the ~8.1 billion people alive.",
+    "This corrects a distorted yardstick — it does not erase real local cost-of-living strain, which can be true at the same time."
+  ],
+  "tables": [
+    {
+      "title": "The global picture in figures",
+      "caption": "Rough, PPP-adjusted approximations. They correct an unrepresentative local reference group — they are not a tool for dismissing genuine local hardship, which answers a different question.",
+      "columns": ["Measure", "Figure"],
+      "rows": [
+        ["World Bank extreme-poverty line (2017 PPP)", "$2.15 per person per day"],
+        ["Share of the world in extreme poverty (early 2020s)", "≈ 9% (~700 million people)"],
+        ["Where a U.S.-median household income ranks globally", "Roughly the richest 10–15%"],
+        ["People currently alive", "≈ 8.1 billion"]
+      ],
+      "highlightColumn": 1,
+      "source": "World Bank (2022); Milanovic; Pew Research Center; Our World in Data; UN population estimates"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Extreme poverty vs the rest of the world",
+      "caption": "Roughly 9% of people live below the $2.15/day line; the remaining ~91% live above it. A U.S.-median income sits far up inside that upper band — near the top, not the middle.",
+      "unit": "% of world population",
+      "source": "World Bank (2022); Our World in Data",
+      "bars": [
+        { "label": "Below the extreme-poverty line ($2.15/day)", "value": 9, "display": "≈9%" },
+        { "label": "Above the extreme-poverty line", "value": 91, "display": "≈91%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Feeling squeezed on a top-15% income",
+      "body": [
+        "A household earning around the U.S. median can feel stretched every month — rent, bills, no slack — and be, in PPP terms, in roughly the richest 10–15% of people alive. Both are true. The strain is real and answers the question 'can I afford my local cost of living?'; the global ranking answers 'where do I sit in the world distribution?'",
+        "Holding both at once is the honest move. The global figure corrects a reference group that was built from wealthier neighbours and curated feeds — it does not lower the rent, and it isn't meant to."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The 'everyone' your mind is using is a handful of people in a wealthy local context, not the 8 billion.",
+      "source": "On the reference-group gap"
+    },
+    {
+      "text": "You can be globally well-off and locally squeezed — and pretending either cancels the other is dishonest.",
+      "source": "On holding both truths"
+    }
+  ],
   "faqs": [
     {
       "question": "Where does a typical developed-country income rank globally?",

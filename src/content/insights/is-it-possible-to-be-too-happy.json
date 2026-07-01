@@ -40,6 +40,36 @@
     { "value": "Modest", "label": "Size of the differences observed — small, correlational effects", "source": "Oishi, Diener & Lucas, 2007" },
     { "value": "Mixed", "label": "State of research on very high positive affect and risk-taking", "source": "Positive-affect research (e.g. Gruber et al.)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "High happiness is generally good — this is not an argument for being unhappy.",
+    "The very happiest people tend to do best on relationships and community involvement.",
+    "Highly-but-not-maximally happy people sometimes do better on achievement outcomes like income and education.",
+    "One proposed explanation is that a little residual discontent keeps people striving — an interpretation, not proof.",
+    "The effects are modest and correlational; across the normal range, more wellbeing tracks with better outcomes."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A little forward-looking restlessness",
+      "body": "One proposed reading of the data is motivational: mild, residual dissatisfaction may keep people striving, adjusting and pursuing change in achievement-oriented areas, while complete contentment can soften that drive. It is an interpretation of correlational patterns, not a proven mechanism — and the differences observed were modest, so it is best held as a possibility, not a rule."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Permission, not instruction",
+      "body": "The practical takeaway is permission rather than a prescription: you do not need to feel maximally happy all the time to be doing well. Ordinary, fluctuating, mostly-good wellbeing is a reasonable and well-supported target, and some everyday discontent is normal, occasionally useful, and not a sign that something is wrong."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You do not have to drive every flicker of dissatisfaction to zero to be living well.",
+      "source": "On what the research permits"
+    },
+    {
+      "text": "The 'too happy' nuance is a real but narrow exception at the extreme, not a reversal of the general rule.",
+      "source": "On keeping the finding in proportion"
+    }
+  ],
   "faqs": [
     {
       "question": "So is being happy actually bad for me?",

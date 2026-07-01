@@ -39,6 +39,35 @@
     { "value": "Fades", "label": "The 'arrival fallacy': success alone is a short-lived source of happiness due to adaptation", "source": "Arrival fallacy / hedonic adaptation" },
     { "value": "Optimal, not maximal", "label": "Highest levels of happiness may not be best for every achievement outcome", "source": "Oishi et al. (caveat)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Happiness often precedes and contributes to success across work, relationships, and health — not only the reverse (Lyubomirsky, King & Diener, 2005).",
+    "The likely mechanism: happier people tend to be more sociable, energetic, cooperative, and resilient — behaviours that foster achievement.",
+    "Success alone is a weak, fading source of lasting happiness (the 'arrival fallacy'), because the bump adapts away.",
+    "It's mutual reinforcement with limits: some evidence (Oishi et al.) suggests an optimal rather than maximal level of happiness for certain outcomes."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The milestone that felt strangely flat",
+      "body": "Reaching the promotion or the goal you chased and finding the lift fade within weeks is the arrival fallacy in action. Because of hedonic adaptation, the achievement becomes your new baseline and the wellbeing bump wears off — which is why banking your happiness on the next milestone tends to leave the deferred payoff never quite arriving."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Protecting the disposition that helped you get there",
+      "body": "Someone who treats rest, relationships, and engagement as things to sacrifice for achievement may be gutting the very sources of the sociability, energy, and resilience that feed success. If happiness plausibly precedes success, then sustaining those conditions is an input to performance, not a distraction from it — the framing shifts from 'earn happiness by succeeding' to 'sustain happiness and let it help you succeed.'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The trade-off framing gets it backwards twice: success doesn't reliably buy lasting happiness, and happiness helps produce success.",
+      "source": "On the happiness–success loop"
+    },
+    {
+      "text": "We credit the grind and discount the disposition — even where the data points to mutual reinforcement.",
+      "source": "On why the trade-off feels real"
+    }
+  ],
   "faqs": [
     {
       "question": "Do you have to sacrifice happiness to be successful?",

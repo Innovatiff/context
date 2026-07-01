@@ -40,6 +40,35 @@
     { "value": "Small–moderate", "label": "Real effect of positive-psychology interventions on wellbeing", "source": "Bolier et al., 2013 (meta-analysis)" },
     { "value": "Idea, not %", "label": "Intentional activity as a lever (exact percentages contested)", "source": "Lyubomirsky, Sheldon & Schkade, 2005" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "You can meaningfully influence your happiness through intentional activity — but not set it freely.",
+    "A temperamental set point and hedonic adaptation constrain how far and how permanently you can shift.",
+    "Positive-psychology interventions produce small-to-moderate, genuine gains — real but modest, and needing upkeep.",
+    "Consistency beats intensity: varied, social, and meaningful activities resist adaptation better than one-off changes."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The raise that lifts, then fades",
+      "body": "A promotion or a new purchase usually does lift happiness — briefly — before adaptation sets in and you drift back toward baseline. The gap between the expected permanent boost and the actual temporary one is where a lot of disappointment lives. It's also why the research points to repeated intentional activity over changing circumstances as the more durable lever."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Small reliable gains, sustained",
+      "body": "Practices like gratitude, acts of kindness, nurturing relationships, and savouring show small-to-moderate effects in controlled studies — but because of adaptation, the gains require ongoing practice rather than a one-time fix. Framing them as small reliable gains you keep up, not a switch that resets your baseline, matches the evidence and avoids overpromising."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Meaningful influence, not unlimited control: intentional activity matters, but the effects are modest and need maintaining.",
+      "source": "On what the research supports"
+    },
+    {
+      "text": "Happiness responds to indirect, sustained practice more than to direct, anxious pursuit.",
+      "source": "On chasing happiness"
+    }
+  ],
   "faqs": [
     {
       "question": "Can you really train yourself to be happier?",
