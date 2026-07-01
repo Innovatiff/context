@@ -39,6 +39,36 @@
     { "value": "Declines with time", "label": "Sustained attention on demanding tasks the longer you stay continuously focused", "source": "Vigilance / attention research" },
     { "value": "~90 min", "label": "Often-cited ultradian alertness cycle (plausible but loosely evidenced)", "source": "Ultradian rhythm hypothesis" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Breaks sustain performance and reduce fatigue rather than supercharging output — the benefit is real but modest.",
+    "Sustained attention on demanding tasks declines the longer you stay continuously focused; breaks interrupt that decline.",
+    "The 2022 microbreak meta-analysis found clearer effects on energy and wellbeing than on raw task performance.",
+    "Genuinely restful, low-demand breaks (a walk, stepping outside, nature) restore attention better than swapping one screen task for another.",
+    "Rest before you're depleted; treat timing rules like the 90-minute cycle as starting points, not proven laws."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The decline you can't feel happening",
+      "body": "Performance on demanding tasks drops well before you feel tired, so the moment you most need a break is often the moment you least feel entitled to one. By the time exhaustion is obvious, a fair amount of degraded, error-prone work has usually already happened. That's why resting before depletion beats grinding to exhaustion."
+    },
+    {
+      "label": "The trap",
+      "title": "Scrolling isn't really a break",
+      "body": "A five-minute pause spent scrolling a feed or switching to another taxing task keeps your attention under load, so the depleted resource is never really rested. Swapping one form of cognitive demand for another is closer to continued work than to a break — which is why genuinely disengaging restores focus more."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What breaks reliably do is slow the decline in output across a long stretch of work; what they do not do is turn an ordinary day into an extraordinary one.",
+      "source": "On the honest size of the effect"
+    },
+    {
+      "text": "The real effect is hard to perceive precisely because it stops something from getting worse rather than making something visibly better.",
+      "source": "On why breaks feel like they 'don't work'"
+    }
+  ],
   "faqs": [
     {
       "question": "Do breaks actually improve productivity?",

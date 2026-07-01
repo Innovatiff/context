@@ -34,6 +34,35 @@
     "The core effect is qualitative rather than a single headline statistic, and it is worth holding loosely: the future-time-slack research shows people predict more free time ahead than they actually get, but the size of the gap varies by person and study. The reliable part is the direction — future time is consistently overestimated relative to present time.",
     "The planning fallacy is one of the more robust findings in this area: across many studies, people's time estimates for their own tasks skew optimistic, often substantially, even with prior experience of the same task. Treat your own 'this won't take long' and 'I'll have time then' as predictably rosy, and the tendency to overcommit becomes easier to anticipate."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We overcommit mainly because of 'future time slack' — the future feels roomier than the present, even though it rarely is.",
+    "The planning fallacy compounds it: we underestimate how long each commitment will take, stacking a double error.",
+    "Saying no is hard in real time while the cost of a yes is delayed — so we relieve the immediate discomfort and overcommit.",
+    "A simple correction: before accepting something months out, ask whether you'd say yes if it were happening this week."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The cheap yes that becomes an expensive week",
+      "body": "A request for next month lands as a vague idea you can imagine accommodating, so saying yes feels almost free. The same request for tomorrow would land as a real intrusion into a real day. When the date finally arrives, the present is as crowded as ever — and the yes that felt light now feels heavy to honour. The agreement and the cost were simply weighed against very different backdrops."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Testing the future against this week",
+      "body": "Before accepting something far off, the useful move is to treat future time as if it were present time: would you say yes if this were happening this week? Since the future will be roughly as busy as now, that question defuses the slack illusion at the point of decision. Pairing it with a ready default reply — 'let me check before I commit' — takes the pressure out of the moment that drives reflexive yeses."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The yes and the cost arrive at different times, so they are weighed against very different backdrops.",
+      "source": "On why overcommitting feels cheap"
+    },
+    {
+      "text": "The discomfort of declining is felt now, in front of the person asking; the exhaustion of having said yes is felt later, alone.",
+      "source": "On real-time pressure versus delayed cost"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I keep saying yes to things I later dread?",

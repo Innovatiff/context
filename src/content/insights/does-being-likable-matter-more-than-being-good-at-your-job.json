@@ -39,6 +39,35 @@
     { "value": "Lovable fool", "label": "Strongly preferred over the 'competent jerk' when choosing who to work with", "source": "Casciaro & Lobo, HBR research" },
     { "value": "Both", "label": "The 'lovable star' (warm and competent) is the most sought-after combination", "source": "Casciaro & Lobo" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People judge others on warmth (likability, trust) before competence, and weight it heavily in overall impressions.",
+    "When choosing who to work with, people strongly favour the 'lovable fool' over the 'competent jerk'.",
+    "Competence still matters for results — likability without it runs into a ceiling fairly quickly.",
+    "The most sought-after combination is the 'lovable star': warm and competent together.",
+    "Warmth is systematically undervalued by those who assume pure merit wins out."
+  ],
+  "examples": [
+    {
+      "label": "The research",
+      "title": "Routing around the competent jerk",
+      "body": "Asked who they want to work with, people reliably pick a likable but less skilled colleague over a skilled but disliked one. In practice this means teams route around a disliked expert and toward a liked-but-less-skilled peer — likability had a large effect on the choice, while competence alone did surprisingly little to overcome being disliked."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The excellent colleague no one seeks out",
+      "body": "Someone does genuinely strong work but treats warmth as beneath them, assuming the results will speak for themselves. Because competence is quiet and delayed while likability operates in every interaction, their work is under-recognised or routed around — and the visible coldness gets weighted heavily and negatively. The fix the research points to is not charm but taking warmth seriously as a real, learnable part of the job."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We decide whether someone is on our side before we fully assess how skilled they are.",
+      "source": "On the warmth-and-competence model"
+    },
+    {
+      "text": "The honest summary is not 'likability beats competence' but that likability is weighted more heavily than most people assume, and competence alone is weighted less."
+    }
+  ],
   "faqs": [
     {
       "question": "Does likability really matter more than competence?",

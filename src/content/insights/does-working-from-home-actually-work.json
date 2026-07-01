@@ -40,6 +40,35 @@
     { "value": "Large drop", "label": "Reduction in quit rates under hybrid work in the same trial", "source": "Bloom et al., hybrid-work study" },
     { "value": "Role-dependent", "label": "Overall pattern of how remote work affects output", "source": "Nicholas Bloom, Stanford remote-work research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Remote work neither wrecks nor supercharges productivity on average — the effect depends heavily on the role.",
+    "Hybrid tends to be the sweet spot: no measurable productivity loss with big gains in retention and satisfaction.",
+    "Fully remote can quietly weaken the hard-to-count things — mentoring, informal learning, and innovation.",
+    "\"Does it work?\" is the wrong shape of question; the useful one is: for which role, in which arrangement?"
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Two people, opposite verdicts, same policy",
+      "body": "Someone who thrives at home and someone who flounders are both real — they're just different points on a wide spread, and each becomes a confident story about 'how remote work goes.' The average hides enormous variation by role, personality, home setup, and management quality, which is why the debate feels more black-and-white than the evidence is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A junior hire, fully remote",
+      "body": "The day-to-day output that's easy to count can hold up fine, so on paper nothing looks wrong. What erodes quietly is the on-the-job learning and mentoring that matter most early on — exactly the things that fade without in-person contact unless an organisation deliberately rebuilds them through structured mentoring and intentional onboarding."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Does it work?' is the wrong shape of question. The better one is: for which role, in which arrangement?",
+      "source": "On framing the remote-work debate"
+    },
+    {
+      "text": "Your personal result — whether you flourish at home or hate it — is a single data point, not the distribution.",
+      "source": "On judging the question by your own experience"
+    }
+  ],
   "faqs": [
     {
       "question": "Is working from home more or less productive?",

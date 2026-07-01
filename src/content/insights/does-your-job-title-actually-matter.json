@@ -39,6 +39,35 @@
     { "value": "Inflation", "label": "Title inflation shows titles and substance routinely drift apart", "source": "Labour-market analysis" },
     { "value": "Autonomy > rank", "label": "Autonomy, relationships, and meaning predict satisfaction more than titles", "source": "Work-motivation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A title is a real status and pay signal — it shapes external perception and anchors negotiation.",
+    "But it's a weak predictor of day-to-day satisfaction: autonomy, relationships, and meaning matter far more.",
+    "Title inflation shows titles and substance routinely drift apart, so a grander title doesn't reliably mean more scope or pay.",
+    "Fusing your identity with a title is fragile — it turns ordinary career events into identity crises."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "An impressive title on work that feels hollow",
+      "body": "A grander-sounding title attached to controlling, isolating, or pointless work tends not to feel good. The label does real work for how outsiders read your seniority and how pay conversations open — but for whether you dread Monday, it's a weak predictor. What drives that is autonomy, the people you work with, and whether the work feels meaningful, none of which a title guarantees."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When a title change lands as a loss of self",
+      "body": "For someone whose sense of self has gradually fused with their title, a demotion, sideways move, layoff, or retirement can feel like losing part of who they are. That intensity is usually a sign the title was carrying more than it should. People whose identity draws on several sources — relationships, interests, values, the substance of the work — tend to weather those same changes far better."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Titles matter most to other people and to your paycheck, and least to your own experience.",
+      "source": "On what a title is good for"
+    },
+    {
+      "text": "A bigger title does not reliably mean more responsibility, skill, or pay; it sometimes means a cheaper way to reward someone.",
+      "source": "On title inflation"
+    }
+  ],
   "faqs": [
     {
       "question": "Does my job title actually matter?",

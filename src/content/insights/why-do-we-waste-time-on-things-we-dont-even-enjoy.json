@@ -34,6 +34,41 @@
     "Experience-sampling and day-reconstruction studies consistently place passive leisure near the bottom of activities for in-the-moment enjoyment, while connection, exercise, and absorbed activity rank higher — though the differences are moderate, and individuals vary. Treat these as directional patterns, not precise scores.",
     "The 'wasted time' feeling is close to universal precisely because the pull is structural. Most people report spending meaningful chunks of the day on activities they would not choose on reflection — a normal consequence of low-effort options being engineered for availability, not a personal failing. The honest framing is that the easy choice and the rewarding choice are rarely the same choice, and almost everyone defaults toward easy when depleted."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We default to instantly available, low-effort options — scrolling, channel-surfing — even when they rank low on enjoyment.",
+    "The more rewarding activities sit behind a wall of activation energy that feels too high when we're depleted.",
+    "This isn't a willpower failure; it's the path of least resistance, amplified by apps engineered around variable rewards.",
+    "The reliable lever is friction, not willpower: make the low-reward default harder and the rewarding option easier.",
+    "The pull is strongest when tired or stressed, so protecting rest tilts the field back toward the better choice."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The phone versus the friend",
+      "body": "Picking up your phone is a guaranteed small hit right now; calling a friend is a bigger payoff later that you have to work for — find the moment, make the call, risk it being awkward. When you're depleted, the brain weights the immediate, certain, low-cost reward far more heavily. The arithmetic quietly favours the phone, even though the evening with the friend would have felt better."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Judged by how it begins, not how it ends",
+      "body": "Starting to scroll feels easy and even pleasant. The flat, faintly hollow feeling arrives afterward — by which point the choice is already made. Because anticipated ease and remembered emptiness rarely sit side by side, the lesson is genuinely hard to learn, and we return to the same default the next evening."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Changing the friction, not the willpower",
+      "body": "Instead of resolving to scroll less, someone leaves the phone in another room and lays out their workout clothes the night before. Nothing about their self-control changed — they simply raised the activation energy on the low-reward default and lowered it on the rewarding option. Small changes in how easy each choice is to start tend to outperform trying to resist temptation directly."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The easy choice and the rewarding choice are rarely the same choice — and almost everyone defaults toward easy when depleted.",
+      "source": "On why the gap feels universal"
+    },
+    {
+      "text": "The most reliable lever is friction, not willpower.",
+      "source": "On what actually helps"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I scroll when it doesn't even make me feel good?",

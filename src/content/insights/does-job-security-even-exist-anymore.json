@@ -40,6 +40,60 @@
     { "value": "Millions/month", "label": "U.S. hires and separations even in a healthy economy", "source": "U.S. Bureau of Labor Statistics, JOLTS" },
     { "value": "Growing", "label": "Share of contract, contingent and gig work", "source": "Research on contingent / alternative work arrangements" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Median U.S. job tenure has stayed roughly flat at around four years for decades.",
+    "Tenure rises sharply with age — older workers typically report about a decade with one employer.",
+    "The 'job for life' was always uneven, concentrated among certain groups rather than universal.",
+    "What changed is how jobs end and feel: routine layoffs, more gig work, and lost sense of control.",
+    "Practical security comes more from adaptable skills and a financial buffer than from one employer."
+  ],
+  "tables": [
+    {
+      "title": "Median U.S. employee tenure",
+      "caption": "The overall median mixes job-hoppers and thirty-year veterans, which is why it lands in the middle. Tenure climbs steeply with age, so both a young worker changing jobs every couple of years and an older worker with a decade at one firm are normal points in the same distribution.",
+      "columns": ["Group", "Median tenure with current employer"],
+      "rows": [
+        ["All workers (roughly flat for decades)", "≈ 4 years"],
+        ["Older workers (55+)", "≈ 10 years"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Bureau of Labor Statistics, Employee Tenure"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Tenure rises with age",
+      "caption": "The same figures as bars. Frequent moves when young and long stints when older are both entirely normal — the overall median sits between them.",
+      "unit": "years",
+      "source": "U.S. Bureau of Labor Statistics, Employee Tenure",
+      "bars": [
+        { "label": "All workers (median)", "value": 4, "display": "≈4 yrs" },
+        { "label": "Older workers (55+)", "value": 10, "display": "≈10 yrs" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Laid off despite strong performance",
+      "body": "A capable, well-reviewed employee is cut in a round of layoffs driven by budgets and restructuring rather than anything they did. Being excellent is real protection on the margin but not a guarantee, because mass layoffs are frequently a company-wide business lever — which is exactly why over-relying on performance alone can leave people blindsided by a decision that was never about them."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Changing jobs every few years",
+      "body": "Someone who has moved employers several times worries it looks unstable. By the numbers it isn't: with median tenure around four years, periodic moves are the statistical norm, not a red flag. Keeping skills current and relationships warm between transitions is what tends to make the next move — chosen or forced — smoother."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Stability was always concentrated, movement was always constant, and the safety net you build yourself matters more than the one any employer provides.",
+      "source": "On the honest picture of job security"
+    },
+    {
+      "text": "The unpredictability, more than the frequency, is what unsettles people."
+    }
+  ],
   "faqs": [
     {
       "question": "Has job security actually disappeared?",

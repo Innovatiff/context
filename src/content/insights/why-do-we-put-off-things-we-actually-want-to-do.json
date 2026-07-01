@@ -39,6 +39,36 @@
     { "value": "Occasion never comes", "label": "Common fate of things saved for a 'special occasion'", "source": "Saving-for-a-special-occasion research" },
     { "value": "Present bias", "label": "Tendency to favour the easy default now over the future good", "source": "Research on present bias" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We defer not just chores but the very things we most want to do, because they rarely feel urgent.",
+    "Pleasures that feel 'always available later' lose their sense of occasion and get put off indefinitely.",
+    "Saving special things for a worthy moment often means the moment never comes and the thing goes unused.",
+    "Anticipation can feel safer than the act, so keeping an experience in the future quietly becomes the default.",
+    "Naming the pattern and giving the good thing a time — not just an intention — is what most helps."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The bottle saved for a special occasion",
+      "body": "A good bottle sits in the cupboard for years, waiting for a moment worthy of it. The instinct to preserve the special thing feels responsible, but the worthy occasion never quite arrives — and eventually the bottle is past its best, or forgotten. Hoarding the experience for a better moment turned out to mean never having it at all."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The trip that stays in 'someday'",
+      "body": "The long-wanted trip keeps getting deferred, not because anything blocks it but because it never feels urgent — there's always next year. And looking forward to it carries no risk of effort or disappointment, while actually booking it does. Anticipation is comfortable enough that it can quietly substitute for the trip itself. Giving it a date on the calendar is what converts the wish into a plan."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Someday' only keeps its grip while it stays unexamined.",
+      "source": "On why naming the pattern helps"
+    },
+    {
+      "text": "The experiences that get done are usually the ones that get scheduled.",
+      "source": "On removing the indefiniteness"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I put off things I actually want to do?",

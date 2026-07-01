@@ -39,6 +39,34 @@
     { "value": "Mid-career", "label": "Where the dip in job satisfaction tends to fall", "source": "Age and job satisfaction research" },
     { "value": "Better regulation", "label": "Why older workers often report more satisfaction", "source": "Carstensen — socioemotional selectivity" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Job satisfaction tends to rise over a career, often in a contested U-shape that dips in mid-career.",
+    "Early-to-mid-career dissatisfaction is common and frequently temporary, not a permanent verdict.",
+    "Later-career gains come from better job fit, more realistic expectations, and steadier emotion regulation.",
+    "Part of the age-satisfaction rise is selection — the most dissatisfied leave, so a more contented group remains."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Disappointed in your late 30s",
+      "body": "The excitement of a first job has worn off, but seniority, autonomy and good fit haven't fully built up, and the gap between 'dream job' expectations and reality is at its widest. It's easy to read this as 'I chose wrong.' The research suggests it is instead the crowded low point of a common curve that, for many people, turns upward with time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The improvements you don't notice",
+      "body": "Better fit, softer expectations and steadier emotion regulation accrue slowly and invisibly. You don't feel yourself becoming a better match for your work or a calmer judge of it — you just eventually feel less aggrieved by it, which is part of why the earlier low point is easy to misremember as a problem unique to you."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Dissatisfaction in your 30s or 40s is a crowded and frequently passing point, not an endpoint.",
+      "source": "On the mid-career dip"
+    },
+    {
+      "text": "Part of why older workers look more satisfied is that the most dissatisfied people leave — the rise reflects who remains, not only change within individuals."
+    }
+  ],
   "faqs": [
     {
       "question": "Does job satisfaction really go up as you get older?",

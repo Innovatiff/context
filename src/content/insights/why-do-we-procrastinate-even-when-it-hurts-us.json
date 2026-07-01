@@ -40,6 +40,41 @@
     { "value": "Present bias", "label": "We heavily discount future consequences vs. immediate relief", "source": "Behavioural economics / present bias research" },
     { "value": "Self-compassion", "label": "Forgiving a lapse is linked to less future procrastination", "source": "Sirois et al." }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Procrastination is better understood as emotion regulation than laziness or poor time management.",
+    "We delay a task to escape the feelings it stirs up — boredom, anxiety, self-doubt — at the future self's expense.",
+    "Present bias makes the certain relief of avoiding now outweigh the larger, distant cost later.",
+    "Harsh self-criticism deepens the loop; self-compassion is linked to less procrastination next time.",
+    "The supported fix targets the feeling — shrinking the first step, adding structure — not summoning more willpower."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Avoiding the feeling, not the work",
+      "body": "The report is due, but opening the document brings a flicker of self-doubt — what if it isn't good enough? Tidying your inbox instead makes that feeling disappear right now. Nothing about the deadline changed; you simply traded a small, immediate relief for a larger problem your future self inherits. That's the whole trade in miniature: escape the mood, defer the task."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The project you care about most",
+      "body": "Someone puts off the creative project they most want to finish, while breezing through chores they don't care about at all. It looks like laziness but isn't: the project carries the heaviest emotional weight, so it triggers the most anxiety about doing it imperfectly — and that anxiety is exactly what makes starting feel aversive. The more it matters, the more there is to avoid."
+    },
+    {
+      "label": "The loop",
+      "title": "When guilt fuels more delay",
+      "body": "After a wasted afternoon, the instinct is to berate yourself into action. But the guilt is itself a negative emotion the mind wants to escape — so it becomes one more reason to avoid the task, not less. Forgiving the lapse breaks the shame-avoidance loop, which is why self-compassion is linked to less procrastination next time, not more."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The delay isn't really about the clock; it's about the mood the task triggers.",
+      "source": "On what procrastination actually is"
+    },
+    {
+      "text": "We put off tasks we doubt we can do, dislike doing, or whose payoff is far away — and impulsive people do it most.",
+      "source": "On Steel's four drivers"
+    }
+  ],
   "faqs": [
     {
       "question": "Is procrastination just laziness?",

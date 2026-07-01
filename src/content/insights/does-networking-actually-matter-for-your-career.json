@@ -39,6 +39,34 @@
     { "value": "Millions", "label": "LinkedIn users in the experiments linking moderately weak ties to job mobility", "source": "Rajkumar et al., Science 2022" },
     { "value": "Bridges", "label": "Why weak ties help — they reach information your close circle already shares", "source": "Granovetter, 1973" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Networking matters mostly as an information channel — jobs travel along social ties, not only formal applications.",
+    "The connections most associated with finding new jobs are loose acquaintances (weak ties), not close friends.",
+    "Weak ties help because they bridge to different circles, so variety of contacts matters more than raw volume.",
+    "Low-effort, consistent contact tends to beat occasional high-stakes networking — the useful pattern is quiet, not aggressive."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why an old colleague hears the opening first",
+      "body": "Your closest friends tend to know the same people and the same news you do, so they rarely surface a job you haven't already heard about. A former colleague you catch up with once a year sits in a different circle — different company, different industry — so when a role opens there, they are the one positioned to mention it. That is the bridge Granovetter described: the useful information reaches you along the weaker connection precisely because it isn't redundant with your own."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Staying loosely reachable, not working the room",
+      "body": "Someone who keeps light, occasional contact with a wide, varied set of past colleagues and classmates isn't 'networking' in the transactional sense at all. But when something relevant comes up in one of those distant circles, they are someone an acquaintance might think to mention it to. The research rewards remaining visible and reachable over time far more than a burst of high-pressure outreach."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The useful ties are often the weaker ones — the acquaintances who reach parts of the world your inner circle already shares with you.",
+      "source": "On the strength of weak ties"
+    },
+    {
+      "text": "It's less about one pivotal contact and more about being loosely linked to many people, most of whom will never matter, a few of whom occasionally will."
+    }
+  ],
   "faqs": [
     {
       "question": "Does networking really matter, or is that just career advice?",

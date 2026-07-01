@@ -40,6 +40,64 @@
     { "value": "~27 min", "label": "Average one-way U.S. commute (~200+ hrs/year)", "source": "U.S. Census Bureau" },
     { "value": "~1/3", "label": "Share of waking adult life occupied by work", "source": "Estimate from hours-worked data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "A full-time worker logs roughly 1,750–1,850 hours a year (OECD average near 1,750; the U.S. somewhat higher).",
+    "Across a 45-to-50-year career that approaches a commonly cited estimate of around 90,000 lifetime work hours — an approximation, not a constant.",
+    "The ~27-minute average one-way commute adds roughly 200-plus unpaid hours a year, and tens of thousands over a career.",
+    "Paid work occupies roughly a third of waking adult life — the scale is the point, not a verdict on any one job."
+  ],
+  "tables": [
+    {
+      "title": "How the lifetime figure is built",
+      "caption": "The ~90,000-hour total is an approximation assembled from annual hours over a working life, not a measured constant — it moves with how many years and hours a person actually works. The commute sits on top of paid work.",
+      "columns": ["Component", "Approximate figure"],
+      "rows": [
+        ["Annual hours worked, full-time", "≈ 1,750–1,850 hrs/yr"],
+        ["Working life", "≈ 45–50 years"],
+        ["Commonly cited lifetime work hours", "≈ 90,000 hrs (≈1,800 × ~50)"],
+        ["Average one-way U.S. commute", "≈ 27 min"],
+        ["Commute time per year", "≈ 200+ hrs/yr"],
+        ["Share of waking adult life at work", "≈ 1/3"]
+      ],
+      "highlightColumn": 1,
+      "source": "OECD; U.S. Bureau of Labor Statistics; U.S. Census Bureau; '~90,000 hours' common estimate"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Work-related hours in a single year",
+      "caption": "Paid work against the commute for one year — the commute is unpaid and easy to discount, yet it adds a substantial recurring slice on top of the ~1,800 paid hours. Both are approximate.",
+      "unit": "hours per year",
+      "source": "OECD; U.S. Bureau of Labor Statistics; U.S. Census Bureau",
+      "bars": [
+        { "label": "Paid work", "value": 1800, "display": "≈1,800 hrs" },
+        { "label": "Commute", "value": 200, "display": "≈200+ hrs" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Adding the commute back in",
+      "body": "Someone quoting the 90,000-hour figure is usually leaving out the drive. An average one-way commute of about 27 minutes is close to an hour a day round trip — on the order of 200-plus hours a year, and tens of thousands more over a career, all tied to work without being paid work. Folding it in is why the share of waking adult life connected to work climbs toward a third."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why the total is the point, not a sentence",
+      "body": "The arithmetic doesn't say any particular job is an oppressive sentence, and it doesn't justify optimising every minute. It says only that the base is enormous — so small differences in how tolerable or meaningful the hours are get multiplied across roughly a third of waking adult life. That scale is the reason the conditions of the work matter more than marginal changes to their number."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The total is large enough that small differences in how tolerable or meaningful the work is get multiplied across an enormous base.",
+      "source": "On why the scale matters"
+    },
+    {
+      "text": "Treat 90,000 hours as an approximation, not a constant — it varies widely with how many years and hours a person actually works.",
+      "source": "On hedging the figure"
+    }
+  ],
   "faqs": [
     {
       "question": "How many hours will I work in my lifetime?",

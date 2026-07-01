@@ -40,6 +40,34 @@
     { "value": "Large", "label": "Share of team engagement variation linked to the immediate manager", "source": "Gallup workplace research" },
     { "value": "Both matter", "label": "What the evidence supports: firm and role, not one alone", "source": "Firm-effects & person-environment fit research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Firm-effects research finds the same worker can earn meaningfully different amounts at different employers.",
+    "Inter-industry wage gaps persist between similar workers even after adjusting for measurable skill.",
+    "Management and culture track strongly with engagement and wellbeing — much of it traces to the immediate manager.",
+    "The evidence supports both/and: a good role at a strong company beats optimising either one alone."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Same work, different pay across the street",
+      "body": "Two equally skilled people doing the identical job can earn noticeably different amounts simply because one works at a higher-paying firm. From the inside this is nearly invisible — you can see your own effort and skill, but not that the company two streets over pays a structural premium for the same work. That is why it's natural to attribute a whole salary to yourself rather than partly to where you happen to sit."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Vetting the manager before the title",
+      "body": "Because job titles and salaries are advertised while management quality and culture are not, it's easy to optimise heavily on the visible, role-shaped information. Asking current and former employees about management, turnover, and how decisions get made turns the interview into a two-way assessment — and since engagement tracks so strongly with the immediate manager, those cultural signals are among the better predictors of whether you'll actually like the work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The question \"what should I do?\" is genuinely incomplete without \"and where?\"",
+      "source": "On company vs role"
+    },
+    {
+      "text": "Obsessing over the role while treating the employer as interchangeable means optimising the smaller half of the problem."
+    }
+  ],
   "faqs": [
     {
       "question": "Does the company really pay more than the role?",

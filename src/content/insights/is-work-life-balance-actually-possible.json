@@ -40,6 +40,35 @@
     { "value": "Fit + control", "label": "What predicts wellbeing more than the style itself", "source": "Boundary management research" },
     { "value": "Mixed", "label": "Effect of remote work on boundaries — helps some, blurs others", "source": "Research on remote-work boundary blurring" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A permanent, perfect 50/50 split is closer to a myth than a goal — the ratio shifts week to week.",
+    "The better-supported frame is boundary management: how you separate or blend work and the rest of life.",
+    "People fall on a spectrum from 'segmenting' (firm walls) to 'integrating' (fluid blending); neither is inherently better.",
+    "What predicts wellbeing is the fit between your preferred style and your actual arrangement, plus your control over it.",
+    "Remote work erodes the cues that used to mark the workday's end, so deliberately recreating transitions helps."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A segmenter who's always reachable",
+      "body": "Someone who does best with firm walls between work and life — clear stop times, protected off-hours — but whose job expects constant availability tends to fare worse than their arrangement allows. The fix isn't more willpower; it's boundaries that match the preference, like a defined end to the workday and separate spaces, and enough control to hold them."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Generic advice that misfires",
+      "body": "A natural integrator told to 'never check email after six' and a natural segmenter told to 'stay flexible and always-on' each end up fighting their own style. Balance can feel impossible when the real issue is fit — advice built for the opposite preference reliably lowers wellbeing rather than raising it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A static balance is unrealistic; workable boundaries that match your own preferences and that you control are both attainable and genuinely good for wellbeing.",
+      "source": "On reframing balance as boundary management"
+    },
+    {
+      "text": "The common thread in the evidence is having boundaries you choose, not a particular kind of boundary."
+    }
+  ],
   "faqs": [
     {
       "question": "Is work-life balance a myth?",

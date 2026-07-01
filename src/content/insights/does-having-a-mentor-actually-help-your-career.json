@@ -40,6 +40,36 @@
     { "value": "Correlational", "label": "Nature of the evidence — partly reflects who seeks mentors", "source": "Allen et al., 2004 meta-analysis" },
     { "value": "Often stronger", "label": "Sponsorship vs mentorship for actual advancement", "source": "Herminia Ibarra, mentorship vs sponsorship" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Mentoring is consistently linked to somewhat better pay, promotions and satisfaction — real but modest (Allen et al., 2004).",
+    "The evidence is correlational: driven, connected people both seek mentors and tend to advance anyway.",
+    "A mentor talks with you (advice); a sponsor talks about you (advocacy) — sponsorship often matters more for advancement.",
+    "A constellation of developmental relationships tends to beat relying on one 'perfect' mentor.",
+    "Mentorship complements strong work and visibility; it does not substitute for them."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A warm mentor, a stalled career",
+      "body": "Someone with a supportive, encouraging mentor whose career nonetheless stalls may conclude mentoring 'doesn't work.' The advice was real; what was missing was an advocate willing to put their name forward when decisions were made. That is the mentorship-versus-sponsorship gap — a different relationship entirely, and often the one that actually moves people up."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The developmental network instead of the one guru",
+      "body": "Rather than waiting for a single perfect mentor to appear, someone builds several real working relationships — one person for honest feedback, another who advocates for them in rooms they are not in, others for role-modelling and advice. Research on developmental networks suggests this constellation is more robust, and less likely to leave them stranded if one connection fades."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A mentor talks with you — offering advice and development. A sponsor talks about you — spending their own credibility to advocate for your advancement when you are not in the room.",
+      "source": "On mentorship vs sponsorship"
+    },
+    {
+      "text": "The reality — helpful, real, moderate, and partly about who you already are — makes for a less satisfying slogan than 'find a mentor and your career will take off.'",
+      "source": "On why mentoring gets oversold"
+    }
+  ],
   "faqs": [
     {
       "question": "Does having a mentor really help your career?",

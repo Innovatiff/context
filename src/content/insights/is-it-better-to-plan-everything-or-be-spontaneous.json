@@ -39,6 +39,35 @@
     { "value": "Lowers enjoyment", "label": "Effect of rigidly scheduling a leisure activity", "source": "Tonietto & Malkoc, scheduling research" },
     { "value": "Rough > rigid", "label": "Better format for planning fun, per the same research", "source": "Tonietto & Malkoc" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Neither extreme wins — the useful question is what you're planning, not whether to plan.",
+    "For goals and effortful tasks, specific 'when/where/how' plans tend to improve follow-through.",
+    "For leisure, pinning fun to a fixed time can make it feel like a chore and reduce enjoyment.",
+    "Rough plans — a window rather than an exact slot — keep enough structure without flattening the fun.",
+    "Most people over-plan the fun and under-plan the goals, which is backwards from what the evidence supports."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 30-minute walk you keep skipping",
+      "body": "'I'll exercise more' rarely survives a busy week. Turning it into a concrete implementation intention — 'after work on Monday I'll walk for 30 minutes' — is the kind of firm, specific plan the research links to better follow-through, precisely because it removes the in-the-moment decision on a task you'd otherwise put off."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Coffee with a friend, penciled for 2:00–3:30",
+      "body": "Locking a relaxed catch-up to an exact slot can quietly turn it into one more appointment to manage, dimming the enjoyment. The same research suggests a loose window — 'Saturday afternoon' — preserves enough structure to make it happen while keeping the open-ended quality that makes leisure feel like leisure."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Plan firmly for the things you want to get done; leave deliberate looseness around the things you want to enjoy.",
+      "source": "On the sorting rule"
+    },
+    {
+      "text": "Most people are over-planning the fun and under-planning the goals — precisely backwards from what the evidence supports."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it bad to schedule fun activities?",

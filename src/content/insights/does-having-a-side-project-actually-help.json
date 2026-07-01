@@ -39,6 +39,36 @@
     { "value": "Mastery + detachment", "label": "Recovery experiences most linked to recharging after work", "source": "Sonnentag" },
     { "value": "If freely chosen", "label": "The condition under which the benefits tend to hold", "source": "Leisure and recovery research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A freely chosen side project can support recovery, build mastery, and is sometimes linked to better main-job performance.",
+    "The benefit comes from the experiences it supplies — mastery and psychological detachment — not the activity itself (Sonnentag).",
+    "It tends to help most when it contrasts with the day job: creativity if work is rote, structure if work is formless.",
+    "The benefits are fragile — monetising, over-committing, or turning it into a second job tends to erode them.",
+    "Links to performance are real but modest and correlational — an encouraging signal, not a guarantee."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Choosing a project that contrasts with the job",
+      "body": "Someone whose work is rigid and prescribed takes up a freely creative project; someone whose work is chaotic takes up something structured and finishable. In both cases the side project helps most by supplying what the main job lacks — the benefit is less about the specific hobby and more about the contrast and balance it provides."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When the hobby becomes a hustle",
+      "body": "A restorative hobby gets an audience, income targets, and deadlines in an effort to 'make it count.' The very move that seems responsible converts the part that was helping — free, low-stakes, autonomous — into the part that does not: pressured, measured, obligatory. The income may be welcome, but a source of recovery has quietly become a second job."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A side project can help, sometimes meaningfully — right up until it becomes pressure.",
+      "source": "On the fragile condition"
+    },
+    {
+      "text": "The variable that seems to matter most is not the activity but the pressure attached to it.",
+      "source": "On what actually drives the benefit"
+    }
+  ],
   "faqs": [
     {
       "question": "Does having a side project actually help?",

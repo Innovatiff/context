@@ -40,6 +40,38 @@
     { "value": "Busy = high status", "label": "How being busy and overworked is increasingly perceived in U.S. culture", "source": "Bellezza, Paharia & Keinan, 2017" },
     { "value": "Overestimated", "label": "How much people think they work when recalling vs. recording their time", "source": "Time-diary research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling busy all the time is extremely common, but the feeling often outruns the measured reality.",
+    "Time-use surveys still record roughly five hours of daily leisure for the average U.S. adult — broadly stable, not collapsing.",
+    "The real shortage is usually unfragmented, restorative time, not a literal absence of free hours.",
+    "Always-on connectivity chops leisure into interrupted pieces, so it rarely feels like rest.",
+    "Busyness has become a status signal, which pushes people to feel and perform it more."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The evening that vanishes",
+      "body": [
+        "On paper the evening holds a couple of free hours. In practice it's a show half-watched while answering messages, a glance at email over dinner, a scroll between tasks. The clock says leisure; the experience says none.",
+        "This is the fragmentation gap in miniature: the same minutes scattered across a dozen interruptions feel like no time at all, even though a continuous version of the same hours would register as genuine rest."
+      ]
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I'll relax once things calm down'",
+      "body": "Waiting for a quieter season to finally feel unhurried often disappoints. Because the rushed feeling is driven more by divided attention and fragmentation than by total load, people who do get less busy frequently report the feeling persisting — the always-on habits travel with them into the freed-up time."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Most people have more discretionary time than they sense, and most people genuinely feel rushed. The discrepancy itself is the finding.",
+      "source": "On the feeling-vs-measurement gap"
+    },
+    {
+      "text": "The feeling of busyness tracks where your attention is, not only where your hours go."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to always feel busy?",

@@ -39,6 +39,34 @@
     { "value": "Flow", "label": "Engaged, high-quality work can feel effortless when challenge meets skill", "source": "Csikszentmihalyi, flow research" },
     { "value": "Challenge ≈ skill", "label": "The matching that flow research links to absorbed, effective work", "source": "Csikszentmihalyi, flow research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "How hard work feels is an unreliable signal of how valuable it is — difficulty and value are only loosely linked.",
+    "The effort heuristic: people rate identical work as more valuable when they believe more effort went into it.",
+    "Flow research runs the other way — some of the most engaged, high-quality work feels almost effortless when challenge meets skill.",
+    "Judging work by output and fit ('is this good, and the right thing?') beats judging it by how much it hurt."
+  ],
+  "examples": [
+    {
+      "label": "The bias",
+      "title": "The same work, rated higher for taking longer",
+      "body": "In Kruger and colleagues' research, people judged the same object — an artwork, a piece of work — as more valuable when told more effort went into it. The output was identical; only the story about effort changed. That's the effort heuristic: strain gets used as a proxy for quality, which is a bias about how we judge value, not evidence that strain creates it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Manufacturing difficulty to feel deserving",
+      "body": "When work flows easily, many people feel they haven't really earned the result — and may add extra difficulty to feel it counts. This is the effort heuristic turned inward: discounting output that didn't cost enough and inflating output that did, regardless of the actual quality. When ease comes from skill and fit, treating it as evidence the work doesn't count pushes you away from the very tasks where you're most effective."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Ease is often a sign of skill, fit, and deep engagement — not a sign the work doesn't count.",
+      "source": "On flow and the effort heuristic"
+    },
+    {
+      "text": "There is no reliable rule that the more it hurts, the more it is worth."
+    }
+  ],
   "faqs": [
     {
       "question": "Does work have to be hard to be worth doing?",

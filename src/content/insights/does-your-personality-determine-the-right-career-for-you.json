@@ -40,6 +40,35 @@
     { "value": "Conscientiousness", "label": "Big Five trait most consistently linked to job performance", "source": "Big Five and work-outcomes research" },
     { "value": "Weak", "label": "Scientific validation for MBTI-based career matching", "source": "Reviews of MBTI validity" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Personality and interests nudge career fit and satisfaction — but they don't point to one destined job.",
+    "Interest-environment fit predicts satisfaction and persistence, but the relationship is modest, not overwhelming.",
+    "Interests are partly developed, not fixed — fit is frequently built through experience rather than discovered.",
+    "MBTI-based career matching has weak validation; RIASEC-based interest measures have stronger evidence."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why the 'one career for your type' story spreads",
+      "body": "Personality-type frameworks offer a clean, flattering narrative: here is your type, and here is the career it was made for. It's satisfying and easy to act on. But the underlying evidence describes tendencies and probabilities, not destinies — and we tend to notice the people whose role matches their type and thrive, while the many who thrive in roles that don't match are less visible."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Growing into a role you didn't see as yours",
+      "body": "Someone can end up energised by work they never picked as 'their type,' because competence often breeds interest and interests are partly shaped by exposure. That's why waiting to discover one perfect career before committing tends to stall people: the research describes degrees of fit that become clearer through experience, not a single destined job waiting to be found."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Most people could do well in a fairly wide range of roles — fit is more often built than found.",
+      "source": "On the 'one right career' idea"
+    },
+    {
+      "text": "Personality nudges fit; it does not dictate one perfect job.",
+      "source": "On what the evidence supports"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there one right career for my personality?",

@@ -34,6 +34,35 @@
     "By the measured numbers, free time is not as scarce as it feels: the American Time Use Survey finds adults average roughly several hours of leisure per day, with men typically logging a little more than women. Treat the exact figure as an approximate average that varies by age, work, and caregiving — but the headline is that measured leisure is substantial.",
     "The felt scarcity comes from fragmentation rather than quantity. 'Time confetti' — leisure broken into scattered, interrupted scraps — is the gap between the hours the surveys record and the rest people actually experience. The evidence points to protecting continuous, low-interruption blocks as mattering more than the raw total."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Time-use surveys find adults average several hours of leisure a day — free time is less scarce than it feels.",
+    "The gap is fragmentation: leisure arrives as 'time confetti', scattered and interrupted rather than in unbroken blocks.",
+    "Interrupted free time is markedly less restorative than the same amount in one continuous stretch.",
+    "The leverage is protecting continuous, low-interruption blocks — not hunting for extra hours you may already have."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The evening that filled up without ever feeling free",
+      "body": "The clock says there were a couple of free hours after dinner, so the survey logs them as leisure. But they arrived in scraps — ten minutes before a message, a bit of a show punctuated by notifications, a scroll to fill a gap. The total was there; the rest was not. Fragmented like this, leisure stops feeling like leisure even when the minutes add up."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Consolidating instead of chasing more",
+      "body": "Faced with feeling time-poor, the instinct is to find more hours. But since the hours are already there and just broken up, the more useful move is to defend a single uninterrupted stretch — notifications off, no task-switching — so the existing time can actually function as rest. Protecting one continuous block tends to do more than reclaiming scattered minutes."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The time is technically free, but it is not fully yours — interruption taxes attention and leaves a trace before you settle back.",
+      "source": "On why fragmented leisure drains"
+    },
+    {
+      "text": "The honest answer is less 'you have no free time' and more 'your free time is fragmented and partly absorbed by screens.'",
+      "source": "On scarcity versus quality"
+    }
+  ],
   "faqs": [
     {
       "question": "Do I actually have free time, or does it just feel like I don't?",

@@ -39,6 +39,35 @@
     { "value": "Rose", "label": "Email and instant-messaging volume after the switch to open plan", "source": "Bernstein & Turban (2018)" },
     { "value": "More", "label": "Distraction and noise associated with open-plan layouts across studies", "source": "Research on open-plan offices" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The collaboration case for fully open offices is weak — the best field study found face-to-face interaction fell, not rose.",
+    "In that study, in-person interaction dropped by roughly 70% after the switch while email and instant messaging rose.",
+    "Open plans reliably add noise and distraction; findings on effects like sick days vary across workplaces.",
+    "The clearest, most consistent benefit is cost — fitting more people into less space — not collaboration.",
+    "This is not a verdict that open plans never work: some people and tasks do fine in them."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Everyone visible, so everyone withdraws",
+      "body": "When walls come down and everyone is suddenly visible and audible, people protect their attention and privacy by retreating — headphones on, conversations moved to chat. The layout meant to spark spontaneous talk quietly does the opposite. This is why the intuitive 'remove walls, get more collaboration' idea was not just unsupported in the field study but in some respects reversed."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'breaking down silos' relocation",
+      "body": "A team is moved to an open floor with the promise of a more connected, communicative culture. Months later the room looks buzzy, but most real coordination has migrated to instant messaging, and people report struggling to focus. The visible buzz is easy to mistake for productive interaction — and the underlying driver was usually square footage per employee, not culture."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Removing the walls did not make people talk more. Face-to-face interaction fell by roughly 70% while messaging rose — people put on headphones and retreated.",
+      "source": "On the Bernstein & Turban finding"
+    },
+    {
+      "text": "The honest justification for open plans is usually cost, not collaboration. Open layouts save money and reliably add distraction; the collaboration promise is the weak part."
+    }
+  ],
   "faqs": [
     {
       "question": "Do open offices actually increase collaboration?",

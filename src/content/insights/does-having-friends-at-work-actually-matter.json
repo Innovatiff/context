@@ -39,6 +39,36 @@
     { "value": "Higher", "label": "Engagement, productivity and retention associated with having a close friend at work", "source": "Gallup" },
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged, the backdrop this matters against", "source": "Gallup, State of the Global Workplace" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A close friend at work is one of the most reliable correlates of engagement, productivity and retention (Gallup Q12).",
+    "The 'I have a best friend at work' item is one of Gallup's twelve core engagement questions — and keeps predicting outcomes.",
+    "Most of the evidence is correlational, but the association is robust and repeated across large samples over many years.",
+    "Remote and hybrid work make friendships harder to form, not less valuable — the loss is worth compensating for.",
+    "Real connection can be enabled but not mandated; forced or scripted 'fun' tends to fall flat."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'best friend at work' question that surprises people",
+      "body": "Gallup's deliberately worded item — 'I have a best friend at work' — sounds too soft to belong in a serious engagement index, which is exactly why it is famous. Yet it keeps predicting higher engagement, better performance, and stronger retention across large, long-running samples. The framing feels counterintuitive; the association does not go away."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Working remotely, rationalising the silence",
+      "body": "When the casual, unplanned moments that build friendship disappear on a remote team, their absence is easy to rationalise as fine. But the engagement research suggests something genuinely useful is being lost, not just something nice — which is why deliberate, low-stakes, repeated contact is worth the effort rather than left to chance."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Connection at work is not a soft extra; it is closely tied to how good the work actually feels and how long people stay.",
+      "source": "On why the link matters"
+    },
+    {
+      "text": "Remote work makes friendships harder to form, not less valuable.",
+      "source": "On connection at a distance"
+    }
+  ],
   "faqs": [
     {
       "question": "Does having a best friend at work really affect performance?",

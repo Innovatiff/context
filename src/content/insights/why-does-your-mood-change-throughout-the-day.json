@@ -40,6 +40,36 @@
     { "value": "Early–mid afternoon", "label": "When the common 'post-lunch dip' tends to hit", "source": "Post-lunch dip research" },
     { "value": "Shifts the curve", "label": "Effect of your chronotype (morning vs. evening type)", "source": "Circadian rhythm research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Daily mood shifts are mostly biology — circadian and ultradian rhythms — not random emotional noise.",
+    "A common pattern is higher mood in the morning with a slump in the early-to-mid afternoon.",
+    "Your chronotype shifts the whole curve earlier or later, so 'mornings are best' is not universal.",
+    "Consistent sleep, morning light, regular meals, and social contact are the better-supported ways to steady mood.",
+    "This is educational context, not a diagnosis — persistent or disruptive changes deserve a clinician's attention."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The 3 p.m. dip that isn't a crisis",
+      "body": "Your mood drops mid-afternoon and your mind immediately reaches for a cause — a comment at work, a nagging worry. But much of that dip is simply where you are in your daily rhythm: the common post-lunch trough in alertness that tends to appear even without a heavy meal. The same low energy at 9 p.m., when the day is winding down, would barely register."
+    },
+    {
+      "label": "Illustrative",
+      "title": "An evening type on an early-bird schedule",
+      "body": "Someone who genuinely peaks later can feel out of sync when forced to do their hardest work first thing, then blame themselves for it. The honest picture is that their whole curve runs later. Aligning demanding tasks with their own peak — whenever it falls — fits their biology better than adopting a generic 'mornings are best' rule."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A lot of what feels like an unpredictable emotional weather system is actually a fairly reliable daily pattern.",
+      "source": "On the daily mood curve"
+    },
+    {
+      "text": "There is a daily curve — its exact timing is yours.",
+      "source": "On chronotype"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal for my mood to change a lot during the day?",

@@ -34,6 +34,36 @@
     "This is one area where the honest material is mechanism rather than statistics. The robust findings are qualitative patterns: attention to time makes intervals feel longer; absorption and flow make them feel shorter in the moment; and novelty and memory richness make periods feel longer in retrospect. Individual time perception varies, so treat these as reliable directions, not measurable rates.",
     "The practical upshot is that the in-the-moment and in-memory questions are genuinely different. Routine comfortable fun tends to feel fast both ways; novel, absorbing experiences feel fast in the moment but long and full in hindsight. That distinction — attention now versus memory later — is the clearest thing the research supports."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Time perception is split between attention (how fast now) and memory (how long in hindsight).",
+    "When you're absorbed, attention leaves time itself, so the moment feels fast — the flow effect.",
+    "Novel, rich experiences lay down more memories and feel longer when you look back.",
+    "Routine comfortable fun tends to feel fast both ways: quick in the moment, short in memory.",
+    "You can't slow time in the moment by willpower, but variety and novelty can make periods feel fuller later."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The trip that flew by yet feels long",
+      "body": "A packed week of new places seems to vanish while you live it — you're too absorbed to watch the clock. Yet looking back, that same week feels surprisingly long and full, because it laid down so many distinct memories. Fast in the moment, long in hindsight: the two questions have two different answers, which is why the experience feels contradictory."
+    },
+    {
+      "label": "The contrast",
+      "title": "The comfortable evening that disappears",
+      "body": "A pleasant but familiar night passes quickly and leaves few distinct memories, so it also feels short later — it simply blurs into every similar evening. That's the mirror image of the novel day that stands out as if it lasted longer. Routine can feel fast both ways at once, while a single new experience punches above its weight in memory."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Fast in the moment, sometimes long in hindsight.",
+      "source": "On the two sides of time perception"
+    },
+    {
+      "text": "'How fast is this right now?' is governed by attention; 'how long did that feel?' is governed by memory.",
+      "source": "On why the effects seem contradictory"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does time go faster when I'm enjoying myself?",

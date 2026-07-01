@@ -39,6 +39,35 @@
     { "value": "Real bias", "label": "Influence of face-time / presence on performance impressions, independent of output", "source": "Face-time / visibility bias research" },
     { "value": "Widespread", "label": "'Productivity theater' — performing busyness rather than producing work", "source": "Workplace productivity surveys" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Signaling busyness and overwork can raise perceived status in some modern cultures.",
+    "Face-time and presence biases mean managers sometimes reward being seen over actual output.",
+    "'Productivity theater' burns real hours without producing anything of value.",
+    "Over the long run, evaluations tend to track measurable contribution rather than the appearance of effort.",
+    "The useful move is making real work visible — not faking effort, and not ignoring visibility entirely."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Staying visibly late to look dedicated",
+      "body": "An employee lingers at the office and broadcasts how slammed they are. It can earn approving impressions in the moment — the short-term feedback is real — even though the same hours produced little. Over time this catches up as evaluations converge on actual results, and performing overwork can read as poor prioritization as much as dedication."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Making the quiet work visible instead",
+      "body": "The work that actually moves things forward often leaves no visible trace. Rather than manufacturing the appearance of effort, communicating what was actually accomplished — outcomes, decisions, results — lets evaluators see substance, not just presence. This captures the legitimate part of the visibility effect without the hollowness of theater."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The signal that's easy to see gets mistaken for the substance.",
+      "source": "On why busyness reads as value"
+    },
+    {
+      "text": "Visibility helps at the margins; faking effort is a weak and risky thing to rely on."
+    }
+  ],
   "faqs": [
     {
       "question": "Does looking busy actually make people respect you more?",

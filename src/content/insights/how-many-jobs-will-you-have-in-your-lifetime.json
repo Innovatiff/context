@@ -39,6 +39,50 @@
     { "value": "Most before 25", "label": "Large share of all jobs held during early-career years", "source": "BLS, National Longitudinal Survey of Youth" },
     { "value": "~4 years", "label": "Median employee tenure in a given job", "source": "BLS, employee tenure data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Holding around a dozen jobs across a working life is typical, not unusual.",
+    "A large share of those jobs are held before the mid-twenties, during early-career exploration.",
+    "Median employee tenure has long hovered around four years — staying a few years and moving on is the ordinary rhythm.",
+    "The single-employer 'gold watch' career was always less common than nostalgia implies, and has grown rarer.",
+    "What matters more than the count is whether a given move actually adds skills, pay, or direction."
+  ],
+  "tables": [
+    {
+      "title": "The ordinary shape of a working life (U.S.)",
+      "caption": "Figures from the BLS National Longitudinal Survey of Youth (early-1960s birth cohort) and BLS employee-tenure data. Read them as approximate, cohort-specific averages — individual experience varies widely and the exact numbers shift across cohorts and definitions of a 'job.'",
+      "columns": ["What the data measures", "Approximate figure"],
+      "rows": [
+        ["Jobs held on average, ages 18 to ~56", "≈ 12"],
+        ["Where much of that job-changing is concentrated", "Before age 25"],
+        ["Median employee tenure in a given job", "≈ 4 years"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Bureau of Labor Statistics — NLSY79 and Employee Tenure data"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The résumé that edits out the exploration",
+      "body": "A LinkedIn profile compresses a decade of false starts, lateral moves, and changes of heart into a clean upward line, so everyone else's path looks more deliberate than your own in-progress version. The exploration is real; it just gets edited out of the story after the fact — which is why other people's careers can look tidier than the data says they are."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Five roles by 30 — and what it actually means",
+      "body": "Someone with several jobs already on their résumé worries it reads as instability. By the numbers it places them squarely in the middle of the distribution: a dozen-ish jobs over a career is the ordinary figure, and much of the switching happens young while people sort out what fits. The useful question isn't whether they've moved too often, but whether the next move actually changes their trajectory."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The single-employer career was always less common than nostalgia implies, and it has become rarer still.",
+      "source": "On the 'gold watch' image"
+    },
+    {
+      "text": "The word 'job-hopping' frames a statistically normal pattern as a character flaw — the behaviour is simply what most working lives look like.",
+      "source": "On loaded language"
+    }
+  ],
   "faqs": [
     {
       "question": "How many jobs does the average person have in a lifetime?",

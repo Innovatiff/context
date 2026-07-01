@@ -39,6 +39,49 @@
     { "value": "~1 hr", "label": "Typical length of a single intense focus block before a break", "source": "Ericsson, deliberate-practice research" },
     { "value": "Declines", "label": "How sustained attention performs the longer it is held without a break", "source": "Attention and vigilance research" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The eight-hour day is a scheduling convention from industrial labour, not a measure of how long anyone can concentrate.",
+    "Even elite performers sustain only about three to four hours of truly focused, effortful work per day.",
+    "Focus comes in finite blocks — often around an hour — and degrades over time, recovering with real breaks.",
+    "The rest of a normal workday isn't wasted; it's lower-intensity work like coordination, communication, and routine tasks.",
+    "Protecting a few focus blocks and reducing interruptions does more than adding hours at the desk."
+  ],
+  "distributions": [
+    {
+      "title": "Hours scheduled vs. hours of deep focus",
+      "caption": "The eight-hour day measures scheduling, not concentration. The research converges on roughly three to four hours of truly focused, effortful work as a rough daily ceiling — the gap between the two is the normal shape of a workday, not a shortfall.",
+      "unit": "hours",
+      "source": "Ericsson, deliberate-practice research; Newport, 'Deep Work'",
+      "bars": [
+        { "label": "Scheduled workday", "value": 8, "display": "~8 hrs" },
+        { "label": "Deep-focus ceiling", "value": 4, "display": "~3–4 hrs", "highlight": true },
+        { "label": "Single focus block", "value": 1, "display": "~1 hr" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "\"I was at work all day but only really focused for a few hours\"",
+      "body": "You remember a full day of effort, but a large share of it was email, meetings, context-switching, and routine tasks — real work, just not the demanding kind. The mismatch between hours present and hours deeply concentrated is the normal shape of a workday, not evidence you wasted it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Three focused hours that leave you depleted",
+      "body": "Someone finishes their most demanding work by early afternoon and feels they should have done more — yet deep concentration is tiring enough that a few genuinely focused hours can leave you as depleted as a longer stretch of lighter work. That can mean you've spent close to your full daily budget of high-intensity attention, not fallen short of it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The eight-hour workday is a scheduling convention left over from industrial labour, not a measure of how long anyone can concentrate deeply.",
+      "source": "On where the number comes from"
+    },
+    {
+      "text": "If world-class performers hit a ceiling near four hours of effortful concentration, it's a strong hint the same applies, roughly, to demanding knowledge work.",
+      "source": "On the deliberate-practice research"
+    }
+  ],
   "faqs": [
     {
       "question": "Is three to four hours of focus really the limit?",

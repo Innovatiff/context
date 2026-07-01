@@ -39,6 +39,35 @@
     { "value": "Status-quo bias", "label": "Documented tendency to default to inaction over change", "source": "Behavioural economics / decision research" },
     { "value": "Follows action", "label": "Readiness and confidence tend to arrive after starting, not before", "source": "Behaviour-change research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Timing genuinely matters, but the measurable effects are modest tuning levers, not decisive gates.",
+    "The 'perfect moment' people wait for is largely a myth that defers action indefinitely.",
+    "Readiness — confidence and clarity — tends to follow action rather than precede it.",
+    "Much of 'it's not the right time' is status-quo bias dressed up as judgement.",
+    "For most things, a good-enough time you act on beats a perfect time you keep waiting for."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Waiting to feel ready",
+      "body": "The confidence that would make it feel like the right time is usually produced by having already begun — so waiting for it means waiting for something that arrives after you start, not before. That's how 'not yet' quietly becomes 'never': the prerequisite was never going to show up on its own."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Tuning timing vs waiting on it",
+      "body": "Knowing you do analytic work better at one part of the day is a real, if small, edge — worth aligning demanding tasks to your better hours and using a fresh start to build momentum. But that's using timing as a tuning tool. It's very different from postponing the whole thing until conditions align, which the modest size of these effects rarely justifies."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Much of what we experience as 'it's not the right time yet' is status-quo bias dressed up as judgement.",
+      "source": "On the readiness myth"
+    },
+    {
+      "text": "A good-enough time you act on beats a perfect time you keep waiting for."
+    }
+  ],
   "faqs": [
     {
       "question": "Is there really a wrong time to do something?",

@@ -39,6 +39,36 @@
     { "value": "Overestimated", "label": "How intense and lasting we expect future bad feelings to be", "source": "Wilson & Gilbert, affective forecasting" },
     { "value": "Underrated", "label": "Our own coping ('immune neglect')", "source": "Affective forecasting research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Dread has a real, measurable cost — the waiting is its own form of suffering, separate from the event.",
+    "Some 'extreme dreaders' will accept more pain sooner just to escape the wait (Berns and colleagues).",
+    "We forecast feelings badly: we overestimate how bad the future will feel and underrate our own coping ('immune neglect').",
+    "Anticipatory anxiety rehearses worst-case scenarios, inflating the imagined event beyond the likely reality.",
+    "Acting sooner and naming the pattern tend to help; for persistent or disabling anxiety, a qualified clinician can help."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Fourteen days to dread a one-hour event",
+      "body": "A two-week wait gives anticipation fourteen days to compound; the event itself might last an hour. You end up suffering the imagined version many times over before the real one happens once. That imbalance is exactly why the dread can outweigh the thing — the buildup has time to grow that the event never gets."
+    },
+    {
+      "label": "The trap",
+      "title": "Trusting the frightening preview",
+      "body": "Your mind generates a vivid, detailed preview of the event, and because the fear in the present is real, you trust the prediction it's attached to — even though it's a worst-case simulation, not a forecast. Standing in the dread beforehand, you can't feel how your coping will kick in when the moment actually comes."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We end up suffering the imagined version many times over before the real one happens once.",
+      "source": "On why the buildup outweighs the event"
+    },
+    {
+      "text": "Dread is real, the mind amplifies the future, and the actual experience usually lands milder than the buildup predicted.",
+      "source": "On the overall pattern"
+    }
+  ],
   "faqs": [
     {
       "question": "Why is waiting for something bad worse than the thing itself?",

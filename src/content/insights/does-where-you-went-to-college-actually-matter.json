@@ -39,6 +39,34 @@
     { "value": "Positive", "label": "Earnings effect of elite colleges for disadvantaged and first-generation students", "source": "Dale & Krueger, 2002 / 2014" },
     { "value": "Mostly selection", "label": "What the raw elite-school / high-pay correlation reflects", "source": "Dale & Krueger, 2002 / 2014" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For most students, once ability is matched, college selectivity has little measurable effect on later earnings.",
+    "The raw elite-school / high-pay correlation is mostly selection — who attends — not a causal boost from the institution.",
+    "There's a real exception: for disadvantaged and first-generation students, a more selective school did raise earnings.",
+    "Cost, completion, and fit are the variables the evidence most supports weighing — not marginal gains in prestige."
+  ],
+  "examples": [
+    {
+      "label": "The study design",
+      "title": "Matching students who got the same offers",
+      "body": "Dale and Krueger compared students admitted to similarly selective colleges who then made different choices — some taking the more elite option, some a less selective one. By matching on where students applied and got in, they isolated the effect of the school from the effect of the student. For most students, attending the more selective college produced little to no earnings premium once that matching was done."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Debt for a marginal name",
+      "body": "Because the earnings gap between similarly capable graduates of more and less selective schools is small on average, taking on large debt for a marginally more prestigious name often doesn't pay for itself. For the average student, avoiding heavy borrowing for a small bump in selectivity is a reasonable read of the research — though for a disadvantaged or first-generation student, the access an elite school opens up can change that calculation."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The student matters more than the school — which cuts both ways: an elite school doesn't guarantee the outcome, and an ordinary one doesn't foreclose it.",
+      "source": "On what the data actually shows"
+    },
+    {
+      "text": "The benefit the average finding washes out is concentrated in exactly the students least likely to have other routes to the same networks."
+    }
+  ],
   "faqs": [
     {
       "question": "Does going to a more prestigious college mean I'll earn more?",

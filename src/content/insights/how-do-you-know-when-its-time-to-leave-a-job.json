@@ -39,6 +39,39 @@
     { "value": "Predicts leaving", "label": "What poor person-environment fit is consistently linked to", "source": "Kristof-Brown et al. meta-analysis, 2005" },
     { "value": "Demands × control", "label": "Job-strain combination linked to worse health outcomes", "source": "Karasek demand-control model" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no clean formula — the honest approach is weighing several recurring signals together, over time.",
+    "The evidence-backed signals: chronic burnout rest doesn't fix, a durable values mismatch, no growth or path to it, and sustained health effects.",
+    "One signal is information; several, persisting across months, is a stronger case than any single bad week.",
+    "Sunk-cost and status-quo biases keep many people staying past the point that serves them.",
+    "Separate the fixable from the fundamental before deciding, and ask what you'd advise someone else in your exact position."
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "\"I've already put in so many years\"",
+      "body": "The time, effort, and relationships invested feel like reasons to stay — but they are already spent and cannot be recovered by staying longer. That is the sunk-cost fallacy at work. The only thing that should drive the call is whether staying or leaving serves you from here forward, not what the past cost."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Testing whether the problem is portable",
+      "body": [
+        "Someone dreads Mondays and assumes the answer is a new job. Before leaping, they separate the fixable from the fundamental: is it the manager, the workload, or the remit — things that might be reshaped where they are — or a values mismatch that would follow them anywhere?",
+        "Job-design research suggests reshaping aspects of a role can meaningfully shift satisfaction. Testing that first gives a cleaner read on whether leaving is actually necessary, rather than leaving purely to escape and risking the same disappointment elsewhere."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest goal is not to find the perfect moment to leave but to make sure the decision is driven by an accurate reading of your situation rather than by the biases that distort it.",
+      "source": "On how to decide"
+    },
+    {
+      "text": "One signal is information; several, persisting across months, is a stronger case than any one moment of frustration.",
+      "source": "On weighing the warning signs"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a clear sign it's time to quit?",

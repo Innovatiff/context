@@ -39,6 +39,36 @@
     { "value": "Weak ties", "label": "A large share of jobs come through acquaintances, not close contacts", "source": "Social-network research" },
     { "value": "Planned happenstance", "label": "Career theory built around making the most of unplanned events", "source": "Krumboltz" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Skill and effort usually matter, but they interact heavily with timing and luck rather than overriding them.",
+    "Graduating in a recession measurably lowers earnings, and the gap persists for roughly a decade before fading.",
+    "Unplanned events shape careers so reliably that career theory ('planned happenstance') was rebuilt around them.",
+    "A large share of jobs come through weak ties — acquaintances rather than close friends.",
+    "'It's all luck' is as unsupported as 'it's all effort' — the evidence is about interaction, not replacement."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Narrating a career backward",
+      "body": "Once an outcome has happened, it's easy to construct a clean story in which every step led inevitably to it — editing out the coin-flips, the lucky introductions, and the doors that happened to be open. Hindsight makes a path that was partly luck look entirely like design, which is why careers can feel like pure merit even when timing did much of the lifting."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two equal graduates, different years",
+      "body": "Two people of similar ability and the same degree enter the job market a few years apart — one in a boom, one in a downturn. The recession graduate earns measurably less, and the gap can persist for roughly a decade before converging. Same skills, different luck of timing, durable difference in pay — with the penalty largest for less-advantaged graduates, who have fewer ways to recover."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Careers are co-authored by effort and circumstance, not by effort alone.",
+      "source": "On the honest picture"
+    },
+    {
+      "text": "Effort and skill are real inputs, but they're applied to a board you did not set up — and the board's state does much of the work.",
+      "source": "On timing and industry"
+    }
+  ],
   "faqs": [
     {
       "question": "How much of a career is luck versus skill?",

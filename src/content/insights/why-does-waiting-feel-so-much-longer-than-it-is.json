@@ -40,6 +40,36 @@
     { "value": "Uncertain feels longer", "label": "Unknown and unexplained waits feel longer than known ones", "source": "Maister; time-perception research" },
     { "value": "Time disappears", "label": "People in flow routinely lose track of time", "source": "Csikszentmihalyi, flow research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "How long a wait feels depends far more on attention, uncertainty, and fairness than on the minutes on the clock.",
+    "Unoccupied time feels longer than occupied time — waiting leaves attention with nothing to do but notice the clock.",
+    "Uncertain and unexplained waits feel longer, because they add anxiety on top of boredom.",
+    "A feeling that a wait drags is a normal quirk of time perception, not a sign of impatience.",
+    "The most reliable fix is occupying attention; reducing uncertainty helps even when it can't shorten the wait."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Ten unexplained minutes versus fifteen explained ones",
+      "body": "A ten-minute wait with no information — no queue position, no reason for the delay — often feels worse than a clearly explained fifteen-minute one. The shorter wait recruits anxiety and uncertainty on top of the boredom, while the longer, explained wait gives attention somewhere to settle. The clock and the feeling are simply measuring different things."
+    },
+    {
+      "label": "The mechanism",
+      "title": "The watched clock",
+      "body": "Standing in a stalled line, you check the time again and again — and each check points attention straight at duration, which is exactly what makes duration expand. It's the everyday 'a watched pot never boils.' Opening a book or a podcast instead gives attention a different target, and the same minutes compress."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "None of these change how many minutes pass. They change how those minutes register.",
+      "source": "On Maister's principles"
+    },
+    {
+      "text": "The feeling is real; the duration it implies is not.",
+      "source": "On keeping the scale in perspective"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does a short wait sometimes feel longer than a long one?",

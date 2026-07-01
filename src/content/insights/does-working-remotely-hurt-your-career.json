@@ -40,6 +40,35 @@
     { "value": "Modest cost", "label": "Visibility/promotion effect, concentrated in fully remote roles", "source": "Research on proximity bias in promotions" },
     { "value": "Mitigated", "label": "Visibility penalty when some in-person time is present (hybrid)", "source": "Nicholas Bloom, hybrid/remote studies" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Fully remote work can carry a modest, conditional visibility cost for promotions — proximity bias, not a sentence.",
+    "Bloom's research found remote and hybrid work roughly neutral for productivity and strongly better for retention.",
+    "Some in-person time appears to blunt the visibility penalty considerably; hybrid looks most favourable.",
+    "The lever is deliberate visibility — making your work legible to decision-makers — not performative busyness."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The assignment that went to the person down the hall",
+      "body": "Proximity bias rarely announces itself. It shows up as the stretch assignment or promotion that went to someone more physically present, framed as a coincidence rather than a pattern. From a remote seat you can see your own output clearly and feel you're performing well, which is exactly why being quietly overlooked for a stretch feels unfair or even paranoid rather than like a structural tendency."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Excellent work, invisible to the people who decide",
+      "body": "A fully remote worker doing genuinely excellent but unseen work can assume the output will speak for itself. The research on proximity bias says otherwise: visible presence can sway decisions somewhat independently of measured performance. The more protective move is making contributions legible — sharing progress, taking on visible cross-team work, and securing a sponsor who advocates in rooms you're not in."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Being out of sight can mean being out of mind — but it's a tendency, not a rule, and some face time appears to blunt it considerably.",
+      "source": "On proximity bias"
+    },
+    {
+      "text": "Looking busy is not the same as being known for meaningful work.",
+      "source": "On performative visibility"
+    }
+  ],
   "faqs": [
     {
       "question": "Will working remotely stop me from getting promoted?",

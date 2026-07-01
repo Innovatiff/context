@@ -39,6 +39,36 @@
     { "value": "Top performers", "label": "Who firms disproportionately promote into management, regardless of management fit", "source": "Benson, Li & Shue (2019), QJE" },
     { "value": "Higher", "label": "Stress and responsibility that management roles tend to carry", "source": "Research on managerial stress" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A promotion reliably raises pay and status, but not happiness as dependably — it is a trade-off, not a free win.",
+    "The status boost fades through hedonic adaptation; the added load and shift into managing others linger.",
+    "Peter Principle research: firms promote top performers into management, though sales skill poorly predicts management skill.",
+    "Evaluate a promotion as a change of job, not just a title — the day-to-day work predicts wellbeing better than status.",
+    "'More money' and 'more happiness' are different levers; a raise has real value even when the status lift is temporary."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The craftsperson pushed into managing",
+      "body": "Someone excellent at and energised by the work itself accepts a management role because it is the only visible way to be seen as advancing. This is the pattern the Peter Principle research flags: they may trade work they are good at and like for work they are neither suited to nor satisfied by — a swap the title disguises as pure progress."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Six months after the raise",
+      "body": "The title change and the raise arrived on a specific day and felt real. Six months in, the recognition has become normal and the added stress, longer hours, and responsibility for others' work have accumulated quietly. The rewards adapted fastest; the load is what lingered — which is exactly what the research predicts, not a personal failing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The parts people anticipate — the title, the raise, the recognition — are the parts that adapt fastest, while the parts people underweight — the added load and managing others — are the parts that linger.",
+      "source": "On why the boost fades"
+    },
+    {
+      "text": "Being excellent at a job is not the same as being suited to, or satisfied by, supervising others — yet promotion paths frequently assume it is.",
+      "source": "On the Peter Principle"
+    }
+  ],
   "faqs": [
     {
       "question": "Does a promotion actually make people happier?",

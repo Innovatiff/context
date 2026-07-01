@@ -39,6 +39,35 @@
     { "value": "Progress", "label": "Strongest day-to-day motivator in diary research, ahead of praise", "source": "Amabile & Kramer, The Progress Principle (2011)" },
     { "value": "Specific > generic", "label": "Recognition works better when frequent, specific, and genuine", "source": "Organisational engagement research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Recognition is genuinely associated with higher engagement and lower intention to quit — but it is easy to overrate.",
+    "Making real progress in meaningful work was the standout day-to-day motivator, ahead of praise.",
+    "Fairness and meaning tend to outweigh recognition; praise rarely fixes pointless work or arbitrary rewards.",
+    "Recognition works best when it is frequent, specific, and genuine — generic, scheduled praise adds little.",
+    "Leaning on external validation as the main fuel tends to backfire, with brief highs and sharp lows."
+  ],
+  "examples": [
+    {
+      "label": "The research",
+      "title": "Progress, not praise, moved the needle",
+      "body": "In an analysis of thousands of daily diary entries, the single most powerful day-to-day motivator was making progress in meaningful work — small wins, not just big breakthroughs. Recognition mattered, but largely because it acknowledged real progress; acknowledgment detached from meaningful work had far less effect. The practical version is to notice and record your own small wins rather than wait for periodic praise."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A shiny award on hollow work",
+      "body": "An employee finds their work pointless, then receives a scheduled, generic recognition award. It changes little, and can read as hollow or manipulative — praise does not compensate for work that feels meaningless or rewards that feel arbitrary. What the recognition is recognising usually matters more than the recognition itself."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Recognition tends to amplify good work rather than substitute for it. Praise for work you find pointless rarely fixes the pointlessness.",
+      "source": "On what recognition can and can't do"
+    },
+    {
+      "text": "When how you feel about yourself rides heavily on others' approval, the highs are brief and the lows are sharp."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to want recognition at work?",

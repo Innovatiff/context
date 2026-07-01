@@ -34,6 +34,35 @@
     "There is no single number for how much doing the hard thing first helps, and the honest reading is that the size varies by person and task. What the evidence supports is a direction: for a typical morning-leaning person, effortful focus and decision quality tend to be higher earlier and decline through the day, so the hardest work generally fares better at the peak than at the trough.",
     "The most important qualifier is individual. Chronotype research means a meaningful minority of people genuinely peak later, so a blanket 'hardest first thing' is right for many but not all. Read 'eat the frog' as 'eat the frog at your peak,' and the advice holds up far better than the rigid morning-only version."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The more precise rule is 'do the hardest thing at your daily peak' — which for many people is the morning.",
+    "Focus, willpower, and decision quality tend to be freshest earlier and decline as the day wears on.",
+    "Doing the dreaded task early also removes the background dread that otherwise drags on the day.",
+    "'Eat the frog' is a useful heuristic, not a proven scientific law.",
+    "Night owls genuinely peak later, and some creative work can suit lower-energy periods."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Warming up with easy tasks first",
+      "body": "Easing into the day by clearing small, low-effort tasks feels productive, but it can quietly spend your freshest hours on the least demanding work — leaving the hard task for when alertness and self-control are most depleted. For effortful work, that ordering usually backfires."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A night owl told to start at 8am",
+      "body": "Being pushed to tackle the hardest work first thing, when your real peak is mid-afternoon, produces a worse result and more frustration. The chronotype caveat isn't a footnote: the principle is matching hard work to your energy, so an evening type should schedule demanding analytical work for their actual peak, not the clock's."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Hardest first' is better stated as 'hardest at your peak.'",
+      "source": "On the chronotype caveat"
+    },
+    {
+      "text": "Postponing the hard task trades a fresh attempt for a depleted one — the day fills up and you arrive more tired, not less."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually better to do the hardest task first?",

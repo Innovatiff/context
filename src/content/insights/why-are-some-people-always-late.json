@@ -39,6 +39,35 @@
     { "value": "Own tasks", "label": "Where the planning fallacy is strongest — we judge others' timelines better", "source": "Buehler et al." },
     { "value": "Transitions", "label": "Where hidden time most often accumulates into lateness", "source": "Research on time estimation" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Chronic lateness is usually an estimation problem — the planning fallacy — not disrespect or a fixed character flaw.",
+    "We underestimate how long our own tasks take, even while judging other people's timelines accurately.",
+    "The hidden time mostly hides in transitions — the small handovers between activities that never get counted.",
+    "It improves with fixes, not effort: anchoring estimates to past reality, tracking real times, and building in buffers."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'reasonable miscalculations' that compound",
+      "body": "To the person waiting, lateness reads as a choice about how much they're valued. To the person running late, it's a chain of small, sensible-seeming errors: the email that ran long, the assumption the drive would be quick, the belief there was just time for one more thing. The planning fallacy makes the optimistic version feel like the realistic one, so the buffer that would have absorbed the friction never gets added."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Anchoring to last time instead of best case",
+      "body": "Rather than estimating how long getting ready and the commute feel like they should take, the more reliable move is to recall how long they genuinely took before — including the bad days — and plan to that figure. Tracking the real times of routine tasks replaces an optimistic guess with a record, and setting the target a fixed margin ahead of the deadline converts chronic lateness into reliable, slightly-early arrival."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If lateness were simply who you are, there would be little to do about it. If it's mostly an estimation error, it responds to estimation fixes.",
+      "source": "On why the reframe matters"
+    },
+    {
+      "text": "The small overruns rarely reverse — they accumulate. By the time the plan has obviously slipped, the slack to recover it is already gone.",
+      "source": "On the myth of catching up"
+    }
+  ],
   "faqs": [
     {
       "question": "Does being late mean someone doesn't respect you?",

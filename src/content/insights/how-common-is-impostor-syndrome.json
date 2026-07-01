@@ -39,6 +39,36 @@
     { "value": "Up to a majority", "label": "Estimated share who experience it — figures vary widely by study", "source": "Bravata et al. (2020), J. Gen. Intern. Med." },
     { "value": "Not a diagnosis", "label": "Impostor syndrome is a described experience, not a clinical condition", "source": "Bravata et al. (2020)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Impostor feelings are common — by some estimates a majority of people experience them at some point.",
+    "The prevalence figures vary widely because there is no single standard way to measure it, so read any percentage loosely.",
+    "It is a described experience, not a clinical diagnosis — the word 'syndrome' overstates how formal it is.",
+    "It appears across genders and clusters among high achievers; success can intensify it rather than resolve it.",
+    "Naming it, talking about it, and separating the feeling from the evidence of your work are the most consistent correctives."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Comparing your doubt to their composure",
+      "body": "You experience all of your own preparation, near-misses, and private uncertainty from the inside, while seeing only other people's composed exteriors. So you compare your inner doubt to their outward confidence and conclude you are the only one faking it — when many of the people around you feel the same way and are equally invisible to each other."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The promotion that made it worse",
+      "body": "Someone gets the role they worked toward and expects to finally feel qualified — but instead the feeling of being about to be 'found out' gets louder. This is the ordinary pattern, not a personal quirk: the experience tracks the gap between external success and internal certainty, and each new achievement can raise the stakes and the sense of having more to lose."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The experience is common precisely in the way it is invisible: widely felt, rarely spoken, and therefore easy to mistake for a personal anomaly.",
+      "source": "On why it feels isolating"
+    },
+    {
+      "text": "If you feel it, you are in very large company — including among high achievers.",
+      "source": "On how common it is"
+    }
+  ],
   "faqs": [
     {
       "question": "How common is impostor syndrome?",

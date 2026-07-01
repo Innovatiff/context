@@ -39,6 +39,41 @@
     { "value": "Chose a shock", "label": "Many left alone to just think preferred a mild electric shock to sitting with their thoughts", "source": "Wilson et al., 2014, Science" },
     { "value": "Coded as laziness", "label": "Rest is culturally framed as needing justification, producing guilt", "source": "Research on rest and guilt" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Doing nothing fights a built-in pull toward busyness and discomfort with being alone with our own thoughts.",
+    "We feel better when occupied — even by pointless activity — but need a justification to choose busyness (Hsee and colleagues, 2010).",
+    "In Wilson and colleagues' 2014 study, many people chose a mild electric shock over simply sitting and thinking.",
+    "Rest is culturally coded as laziness, which adds guilt on top of the discomfort.",
+    "Giving rest an explicit justification and expecting the early discomfort make unstructured time far more accessible."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Reaching for the phone the second there's nothing to do",
+      "body": "True idleness isn't blank — the mind fills the space with planning, rumination, or self-evaluation, which can be more taxing than a simple task. So 'nothing to do' quietly becomes 'nothing to distract me from my own thoughts,' which is part of why people instinctively grab a phone, a chore, or anything at all."
+    },
+    {
+      "label": "The finding",
+      "title": "Choosing a shock over sitting quietly",
+      "body": "In Wilson and colleagues' 2014 study, many participants left alone in a room with nothing to do found unstructured time unpleasant — and a notable share chose to administer a mild electric shock to themselves rather than just sit and think. Most had earlier said they'd pay to avoid that shock. It dramatises how hard pure mental idleness can be, and how normal that difficulty is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Rest that has to be earned",
+      "body": "Someone finally sits down to do nothing and immediately feels they should be doing something useful instead. Deciding in advance that this time is allotted to nothing supplies the permission the idleness-aversion findings suggest we need — scheduled, sanctioned rest is easier to actually take than rest snatched guiltily between tasks."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Nothing to do' frequently becomes 'nothing to distract me from my own thoughts.'",
+      "source": "On why idleness feels uneasy"
+    },
+    {
+      "text": "For many people, doing nothing with their own minds is genuinely hard — and that difficulty is normal rather than a flaw.",
+      "source": "On the Wilson findings"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel guilty or restless when I have nothing to do?",

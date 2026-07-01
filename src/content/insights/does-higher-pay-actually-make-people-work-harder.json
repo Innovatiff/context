@@ -39,6 +39,34 @@
     { "value": "Complex: weak/negative", "label": "Effect of large bonuses on creative or high-concentration tasks", "source": "Ariely et al. — large incentives and performance" },
     { "value": "Can undermine", "label": "Effect of rewards on intrinsic motivation (overjustification effect)", "source": "Deci & Ryan — Self-Determination Theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For simple, mechanical tasks, more pay can reliably lift effort and output.",
+    "For complex, creative work the link is weak — very large bonuses sometimes worsened results.",
+    "Rewarding work people already enjoy can erode intrinsic motivation (the overjustification effect).",
+    "Pay is a strong lever for fairness and retention, a weak one for buying extra effort on hard work."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A bigger bonus on demanding, creative work",
+      "body": "Someone whose job needs sustained concentration or creativity is offered a much larger performance bonus. Rather than sharpening their focus, the raised stakes can disrupt the relaxed attention the work depends on — a pattern consistent with choking under pressure that appeared in Ariely and colleagues' experiments, where big incentives sometimes worsened results on cognitive tasks while still helping on purely mechanical ones."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A hobby that becomes a paid task",
+      "body": "A person starts being paid for something they used to do purely because they found it interesting. Over time the reason for doing it can quietly shift from interest to reward — the overjustification effect — so that once the payment becomes the baseline, the underlying drive is weaker than it was before any money was involved."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Fixing a pay problem is not the same as buying extra effort.",
+      "source": "On the asymmetry of pay and motivation"
+    },
+    {
+      "text": "Pay is a strong lever for retention and fairness, and a weak one for sustained effort on demanding work — two jobs the word 'motivation' tends to blur together."
+    }
+  ],
   "faqs": [
     {
       "question": "Does paying people more make them work harder?",

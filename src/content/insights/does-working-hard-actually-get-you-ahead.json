@@ -39,6 +39,35 @@
     { "value": "Large", "label": "Variation in upward mobility by the county a child grows up in", "source": "Opportunity Insights" },
     { "value": "Necessary, not sufficient", "label": "How researchers broadly characterise effort's role in outcomes", "source": "Frank, 'Success and Luck'; Sandel, 'The Tyranny of Merit'" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Effort is usually necessary but rarely sufficient — it raises your odds rather than guaranteeing outcomes.",
+    "Where you start and the place you grow up have a large, measurable effect on where you end up.",
+    "Small early advantages and lucky breaks compound, making final outcomes look more deserved than the path was.",
+    "Recognising the role of chance tends to increase gratitude and reduce both arrogance and self-blame — without lowering drive."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why success feels entirely self-made",
+      "body": "From the inside, your own effort is the most vivid part of the story — the late nights, the rejections you pushed through, the discipline. What you don't see in the same way are the advantages simply handed to you: stable schooling, a network, the absence of a crisis at the wrong moment. So a path that mixed grit with a favourable starting line remembers itself as pure grit."
+    },
+    {
+      "label": "The trap",
+      "title": "Reading a hard year as a personal verdict",
+      "body": "Someone who worked just as hard as a peer but got less can conclude they simply didn't try enough. But outcomes are noisier than the meritocratic story allows: ordinary bad luck or a tough structural environment gets misread as personal failure. That's both inaccurate and demoralising — and it's the specific harm the pure-effort belief tends to cause."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Acknowledging the role of luck and structure is realism, not fatalism.",
+      "source": "On crediting chance without excusing coasting"
+    },
+    {
+      "text": "The meritocratic story quietly takes credit for advantages it did not earn and assigns blame for disadvantages it did not cause.",
+      "source": "On the belief, not the mechanics"
+    }
+  ],
   "faqs": [
     {
       "question": "So does hard work matter at all?",

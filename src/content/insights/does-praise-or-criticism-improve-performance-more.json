@@ -40,6 +40,34 @@
     { "value": "Task > ego", "label": "Task-focused feedback helps; ego/self-focused feedback often backfires", "source": "Kluger & DeNisi, 1996" },
     { "value": "Process > person", "label": "Praising effort/process beats praising fixed ability", "source": "Carol Dweck, mindset research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Neither praise nor criticism reliably improves performance — the praise-vs-criticism framing is the wrong question.",
+    "A landmark meta-analysis found feedback improved performance on average but reduced it in over a third of cases.",
+    "The reliable divide is task-focused vs ego-focused: comments about the work help; comments aimed at the self often backfire.",
+    "Within praise, form beats warmth — praising effort and process supports learning; praising fixed ability can make people fragile."
+  ],
+  "examples": [
+    {
+      "label": "Same intent, opposite effect",
+      "title": "\"Great job\" vs \"lead with this point\"",
+      "body": "\"Great job\" feels supportive but gives the recipient nothing to act on, and when it lands as a verdict on the person it can even raise the stakes of the next attempt. \"This section buries the main point; lead with it\" directs attention to the task — it gives the effort somewhere useful to go. Same warmth of intent, very different effect on the work, because one is about the task and the other about the self."
+    },
+    {
+      "label": "The quiet failure",
+      "title": "Why the giver keeps believing it works",
+      "body": "When feedback backfires it rarely announces itself — performance just quietly drops, or the person disengages. So the manager who leans on personal praise or blunt personal criticism keeps believing their approach works, because the over-a-third-of-the-time failure rate is invisible from the inside. That invisibility is exactly why the habit persists."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "In more than a third of the cases analysed, feedback actually reduced performance — so the goal is not more feedback but the right kind.",
+      "source": "On the Kluger & DeNisi meta-analysis"
+    },
+    {
+      "text": "What separates feedback that helps from feedback that backfires is not whether it is positive or negative, but whether it is aimed at the task or the ego."
+    }
+  ],
   "faqs": [
     {
       "question": "So is praise or criticism better for performance?",

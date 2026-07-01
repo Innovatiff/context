@@ -34,6 +34,36 @@
     "There is no clean number for how much faster time 'really' feels, because the experience is subjective and the explanations are not fully settled. What the field does offer are two leading, partly supported accounts. The proportional theory associated with William James frames it arithmetically: at 5 years old a year is a fifth of your life; at 50 it is a fiftieth — so the same year is a far smaller fraction of your accumulated experience and feels correspondingly smaller.",
     "The novelty-and-memory account, associated with researchers on time perception such as David Eagleman, frames it in terms of how densely a period is encoded: novel experiences leave richer memories and feel longer in retrospect, while routine ones leave little and feel short. Both are best treated as plausible explanations rather than proven mechanisms — the underlying feeling is well documented, but its precise cause remains an open question."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The sense that time speeds up with age is real and almost universally reported — but its cause is not settled.",
+    "Proportional theory (William James): each year is a smaller fraction of the life you've already lived, so it feels smaller.",
+    "Novelty-and-memory: routine years are encoded sparsely and feel short, while novel experiences leave a denser trail.",
+    "We infer how long a year took from how much we recall of it — memory mistaken for a clock.",
+    "New experiences and closer attention may make periods feel fuller in retrospect — a plausible inference, not a proven fix."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A year as a fraction of your life",
+      "body": "To a 5-year-old, a year is a fifth of everything they've ever lived; to a 50-year-old it is a fiftieth. The same calendar year is a far smaller share of accumulated experience, so it feels correspondingly smaller. It's an elegant reframing rather than a precisely measured mechanism — but it captures why the effect strengthens with age."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Why childhood feels so long in memory",
+      "body": "Childhood is full of first experiences — the first day of school, the first time somewhere — which get encoded densely. Because we partly judge how long a period felt by how much detail it left behind, a year packed with new things reads as long. As adult life settles into familiar patterns, fewer experiences cross the threshold of being memorable, so the same span leaves a thinner trail and feels short."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We do not actually measure how long a year took; we infer it from how much we can recall happening.",
+      "source": "On memory mistaken for a clock"
+    },
+    {
+      "text": "A packed but repetitive schedule can leave just as thin a memory trail as an empty one.",
+      "source": "On why cramming doesn't slow time"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true that time speeds up as you get older?",

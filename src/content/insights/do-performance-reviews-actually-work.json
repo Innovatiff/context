@@ -39,6 +39,35 @@
     { "value": "Mixed / weak", "label": "Effect of formal annual reviews on subsequent performance", "source": "Performance appraisal research reviews" },
     { "value": "Recency + leniency", "label": "Common biases that distort annual ratings", "source": "Appraisal bias literature" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "In decompositions of ratings, rater idiosyncrasy is the single largest source of variation — larger than actual performance.",
+    "Ratings are skewed in predictable directions by recency, leniency, central-tendency, and halo biases.",
+    "Formal annual reviews frequently fail to raise later performance, and attaching a score can trigger defensiveness that crowds out learning.",
+    "Feedback itself helps — the problem is the annual ranking ritual, not feedback.",
+    "Frequent, specific, forward-looking feedback, separated from pay decisions, tends to work better."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "What a 3.5-out-of-5 actually measures",
+      "body": "A score arrives with numbers, forms, and a calendar slot, so it feels like a measurement. But research decomposing ratings finds that much of that number reflects the rater's personal standards rather than the work. In plain terms, the rating often says more about who your manager is than about how you did — the format lends an air of precision the underlying judgment does not have."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feedback saved up for December",
+      "body": "A manager holds back a useful observation from March until the year-end review, where it lands as an end-of-year surprise. By then it is harder to act on and reads as a verdict rather than a course correction. Feedback decays in value the longer it waits — which is why frequency, not the formal event, tends to do most of the work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Your rating tells you a great deal about who your manager is and comparatively little about how you did.",
+      "source": "On the idiosyncratic rater effect"
+    },
+    {
+      "text": "A number is not the same as accurate measurement. Much of that number is rater noise — treat any single score as one noisy reading from one instrument, not a verdict."
+    }
+  ],
   "faqs": [
     {
       "question": "Why are performance reviews considered unreliable?",

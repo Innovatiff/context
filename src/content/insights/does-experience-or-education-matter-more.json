@@ -40,6 +40,41 @@
     { "value": "Growing but uneven", "label": "Skills-based hiring and dropped degree requirements in some sectors", "source": "Skills-based hiring research" },
     { "value": "Rises with years", "label": "Earnings typically increase with accumulated, demonstrated experience", "source": "BLS earnings data" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Both matter — the honest answer is that their relative weight shifts by field and career stage.",
+    "Early on a credential opens doors and signals ability; later, demonstrated results carry more of the weight.",
+    "In licensed or technical fields education is genuine gatekeeping; in many other roles experience can substitute.",
+    "Education tends to set the starting point; experience determines much of the slope from there.",
+    "Vivid exceptions — the dropout founder, the jobless graduate — are memorable because they cut against the averages."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Early career: the credential opens the door",
+      "body": "Someone weighing tuition against a first job offer experiences education and experience as direct rivals for the same years. Here the credential does real work — it signals persistence and the ability to finish something demanding when there is little track record to judge. The starting point it sets is the part that matters most at this stage."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A decade in: results speak louder than the diploma",
+      "body": "For someone ten years into a career whose results now speak for themselves, the credential fades into background and the accumulated experience becomes the foreground. This is the same relationship seen from a later vantage point — experience determining much of the slope once there is something concrete to be judged on."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The licensed field where experience can't substitute",
+      "body": "In medicine, law, engineering or accounting, formal education is gatekeeping you cannot route around. Someone deciding whether to skip the qualification and 'prove themselves on the job' is facing a case where the credential is a genuine prerequisite — a different situation from the many roles where demonstrable skills can matter as much or more."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "These are not rivals so much as complements: education tends to set the starting point, and experience determines much of the slope from there.",
+      "source": "On how the two combine over a career"
+    },
+    {
+      "text": "Averages are what the data describes; the vivid counter-examples are what the conversation remembers.",
+      "source": "On the famous dropout"
+    }
+  ],
   "faqs": [
     {
       "question": "So which one actually matters more, experience or education?",

@@ -39,6 +39,35 @@
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged at work", "source": "Gallup, State of the Global Workplace" },
     { "value": "3 needs", "label": "Autonomy, competence, relatedness — drivers of work satisfaction beyond pay", "source": "Deci & Ryan, Self-Determination Theory" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Framing money against meaning as a contest is part of the problem — both matter, on different parts of the curve.",
+    "Below a financial floor money dominates; once pay covers your needs, meaning carries surprising weight.",
+    "Self-Determination Theory ties satisfaction to autonomy, competence, and relatedness once basic needs are met.",
+    "Surveys find many employees say they'd trade a portion of future earnings for more meaningful work (self-reported).",
+    "A raise tends to disappoint if the real gap is about autonomy, mastery, or connection rather than income."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A raise that doesn't settle things",
+      "body": "Someone hopes more pay will fix their dissatisfaction, but the real gap is about autonomy, competence, or connection. Like other income gains, the boost often fades to a new baseline while the underlying lack of meaning remains — which is why a raise that should have settled things frequently doesn't. Money cannot reliably buy back the structural parts of work satisfaction."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Below the floor, money dominates",
+      "body": "When income is tight, financial strain is loud and immediate and dominates everything — below a basic floor, more pay genuinely helps wellbeing. Once income is stable its salience fades, and the quieter factors of autonomy, competence, connection and contribution become what determines whether the work feels worth doing. People tend to underestimate this shift in advance."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Money matters most when you don't have enough of it; meaning matters more than people expect once you do.",
+      "source": "On holding the trade-off"
+    },
+    {
+      "text": "The honest position is to hold the trade-off rather than pick a winner."
+    }
+  ],
   "faqs": [
     {
       "question": "Does money or meaning matter more at work?",

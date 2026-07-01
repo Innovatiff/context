@@ -39,6 +39,35 @@
     { "value": "Improving > declining", "label": "The sequence shape people generally prefer", "source": "Loewenstein & Prelec" },
     { "value": "Real risk", "label": "That deferred enjoyment never actually arrives", "source": "Delayed-gratification trade-off research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For memory, ending on a high helps: we judge experiences largely by their peak and their ending, not the average.",
+    "People generally prefer improving sequences — things on an upward trajectory over ones that decline.",
+    "In the moment, deferring carries a real risk: the best part you keep postponing may never actually arrive.",
+    "The honest move is to hold both goals — shape the ending, but don't sacrifice the present to a memory."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The meal you eat in the wrong order",
+      "body": "Eat the favourite dish first and the meal fades toward a weaker finish — which, in hindsight, tends to read as a worse meal than it was, because endings carry outsized weight in memory. Save the favourite for last and the meal builds to its best moment. The catch is the opposite risk: defer it until you're too full to enjoy it, and you trade a sure pleasure now for a memory that never fully forms."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The trip whose best stop kept getting pushed back",
+      "body": "Planning the standout destination for the end of a trip can leave a stronger overall memory, since the ending disproportionately shapes recall. But keep deferring the good part — waiting for the perfect day, the right mood — and circumstances, weather, or time can run out first. Saving the best for last only pays if you actually reach 'last.'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Saving the best for last only pays if you actually reach 'last' — and appetite, circumstance, and chance don't always cooperate.",
+      "source": "On the risk of deferral"
+    },
+    {
+      "text": "The peak-end rule describes how you'll remember something, not how it feels while you're in it.",
+      "source": "On memory versus the moment"
+    }
+  ],
   "faqs": [
     {
       "question": "Should I save the best for last?",
