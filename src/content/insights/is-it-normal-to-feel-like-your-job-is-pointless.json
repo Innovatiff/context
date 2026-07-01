@@ -39,6 +39,32 @@
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged", "source": "Gallup, State of the Global Workplace" },
     { "value": "Autonomy, impact, contribution", "label": "Ingredients research links to whether work feels meaningful", "source": "Research on meaningful work" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Feeling your job is pointless is common — far more common than people admit out loud.",
+    "In the YouGov poll Graeber cited, roughly a third of UK workers (some readings nearer 40%) said their job made no meaningful contribution.",
+    "Only around a fifth of workers worldwide feel actively engaged, so meaningful work is often the exception.",
+    "The feeling tracks autonomy, visible impact, and contribution — a signal about job design and fit, not your worth.",
+    "Working harder usually deepens the feeling; changing the conditions is what the research supports."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The task with no visible line of sight",
+      "body": "In a large organisation, a role can be abstracted so far from any outcome that you never see who your work helps. That missing line from effort to consequence is one of the strongest drivers of the 'why does this matter?' feeling — and it is a structural feature of the job's design, not a flaw in you. Tracing your tasks to who actually benefits can restore a sense of impact the design had obscured."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading the feeling as a mismatch, not a verdict",
+      "body": "Naming the experience as a gap between what makes work meaningful — autonomy, impact, contribution — and what the current role provides reframes a private shame into a solvable problem about design and fit. Where the role genuinely lacks those ingredients, the evidence favours seeking better fit through job crafting or a different role over trying to force passion onto an empty one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "This feeling usually points outward, not inward — it is a signal about how a job is designed, not a verdict on your worth.",
+      "source": "On job design vs personal failing"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually common to feel like your job is pointless?",

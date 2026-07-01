@@ -40,6 +40,41 @@
     { "value": "Two dimensions", "label": "Warmth and competence both shape who is seen as promotable", "source": "Fiske, Cuddy et al., warmth–competence" },
     { "value": "Often decisive", "label": "Sponsorship — active advocacy — in advancement decisions", "source": "Herminia Ibarra, sponsorship" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Performance matters but is far from the whole story — visibility, sponsorship, fit and timing weigh heavily too.",
+    "Sponsorship is someone with standing spending their credibility to advocate for you when you're not in the room.",
+    "The Peter Principle has real evidence: firms promote top salespeople into management where sales skill predicts poorly.",
+    "Warmth and competence both shape who is seen as 'leadership material' — competence alone is often not enough.",
+    "The deciding factors are largely invisible to the person being evaluated, which is why the outcome feels unfair."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The advocacy you never see",
+      "body": "You can see your own output clearly, but you cannot see the conversation where a sponsor did — or didn't — put your name forward when a role opened. The parts of the process that matter most are precisely the parts you have the least view of, which is why a promotion going elsewhere reads as either unfairness or a verdict on your competence when it is usually neither."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The star salesperson who stalls as a manager",
+      "body": "Someone excels at selling, so they are promoted into management as a reward. But the new role demands relationship, judgement and leadership skills the old one never tested — and strong sales performance predicts managerial performance poorly, sometimes negatively. Being best at the current job turns out to be a weak signal for being best at the next one."
+    },
+    {
+      "label": "The perception trap",
+      "title": "Competent, but not 'backable'",
+      "body": "Someone can be visibly excellent at the work yet still be passed over, because competence read without warmth can come across as off-putting. Perceived warmth strongly shapes whether others want to back, follow and promote you — an effect that pure performance metrics simply don't capture."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The person who got promoted may not be 'better' at the job — they may simply have been more visible, better sponsored, or better positioned when a slot opened.",
+      "source": "On what promotion actually rewards"
+    },
+    {
+      "text": "'Best at the current role' is a flawed signal for 'will be best at the next one.'",
+      "source": "On the Peter Principle"
+    }
+  ],
   "faqs": [
     {
       "question": "Is getting promoted really about merit?",

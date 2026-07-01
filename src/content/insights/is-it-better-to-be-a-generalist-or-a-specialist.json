@@ -34,6 +34,32 @@
     "This is a domain where the honest picture is qualitative more than numerical: the core evidence is about which kinds of environments reward breadth versus depth, not a single percentage. Epstein's central distinction — 'kind' learning environments (stable, clear rules, fast feedback, like chess and classical music) reward early specialization, while 'wicked' ones (complex, changing, ambiguous feedback, like most modern work) often reward breadth — is the most useful takeaway, and it resists being reduced to one statistic.",
     "Treat strong claims in either direction with caution. 'Specialists always earn more' and 'generalists always win' are both overstatements; the research supports a more conditional view, and the relationship between breadth, depth, and career outcomes is studied but not settled. The 'T-shaped' idea is a widely used heuristic rather than a precise measured law, so it is best read as a pattern to aim for, not a guarantee."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Neither wins universally — it depends on how stable and rule-bound your field is.",
+    "'Kind' environments (chess, classical music) reward early depth; 'wicked' ones (most modern work) often reward breadth.",
+    "Specialization can raise short-term pay but carries more obsolescence risk if the field shifts.",
+    "Most durable careers are 'T-shaped': real depth in one area plus working knowledge across many.",
+    "Early exploration in unpredictable fields is often productive investment, not indecision."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The early specialist in a shifting field",
+      "body": "Someone who commits narrowly and deeply to one in-demand method early gets a visible, well-paid head start. The catch shows up later: the more tightly their value is tied to that single method, technology, or market, the more exposed they are if it changes. In a fast-moving, 'wicked' domain, the head start can turn into being locked into a path before knowing whether it fits."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The wide sampler who looks directionless",
+      "body": "While peers accumulate visible depth, the person still exploring can feel like they are falling behind in real time. The research on matching suggests that sampling widely and switching when something fits better often leads to a better long-run fit — but from the inside it rarely feels that way. Anchoring that breadth to at least one area of genuine depth is what turns it into a T-shape rather than a little familiarity with everything."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Specialists always earn more' and 'generalists always win' are both overstatements; the honest picture is more conditional than either.",
+      "source": "On field-dependent advice"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it better to be a generalist or a specialist?",

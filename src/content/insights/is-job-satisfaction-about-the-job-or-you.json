@@ -34,6 +34,36 @@
     "There is no single percentage that cleanly splits job satisfaction into 'job' versus 'you,' and estimates vary across studies and methods, so it would be misleading to put a precise figure on it. What the research robustly establishes is direction: a meaningful, stable, trait-like component exists alongside the genuine effects of job conditions. The dispositional share is real and larger than the common assumption that it is all about the job.",
     "The practical takeaway is calibration, not a number. If part of your satisfaction is a baseline you carry, then both the conditions of your work and your understanding of your own tendencies are worth attention, and expecting any single job to override your baseline entirely is likely to disappoint."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Job satisfaction is a blend: real job conditions plus a stable, trait-like baseline you carry into any job.",
+    "The dispositional approach (Staw & Ross) found satisfaction stays somewhat consistent even across job changes.",
+    "Conditions like autonomy, fairness, workload, and relationships genuinely move satisfaction too.",
+    "The trait-like component is a tendency, not a fixed ceiling — and disposition can shift somewhat over time.",
+    "Recognising your baseline helps separate 'this role is a poor fit' from 'this is my baseline showing up again.'"
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The new job that lifted things less than hoped",
+      "body": "Someone leaves a role hoping a fresh start will fix their low satisfaction. The new conditions really are better — yet within months some of the old feeling reappears. That is the dispositional baseline travelling with them: the job improved, but a portion of satisfaction was never about the job. Job change genuinely helps when the old conditions were poor; it is less reliable as a cure for a baseline you carry."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same role, two very different reports",
+      "body": "Two people share the same job, the same pay, and the same manager, yet report very different satisfaction. Part of that gap is the role being experienced through different dispositional lenses, not just hidden differences in the work. It is a reminder that both the conditions and the baseline are real inputs, and neither alone explains how a job feels."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A portion of job satisfaction is a fairly stable tendency — which is why changing jobs sometimes gives a smaller lift than people expect.",
+      "source": "On the dispositional baseline"
+    },
+    {
+      "text": "Disposition is a baseline, not a verdict — a tendency, not destiny.",
+      "source": "On reading the research"
+    }
+  ],
   "faqs": [
     {
       "question": "Is job satisfaction more about the job or the person?",

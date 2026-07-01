@@ -39,6 +39,36 @@
     { "value": "U-shaped", "label": "Common shape of life satisfaction across adulthood (dip in midlife, later rise)", "source": "Blanchflower, wellbeing-over-the-lifespan research" },
     { "value": "Positivity effect", "label": "Older adults' tendency to attend to positive information and regulate emotion better", "source": "Carstensen, socioemotional selectivity theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Contrary to the decline story, anxiety and depressive disorders are often no more common — and frequently less common — in older adults than in midlife.",
+    "The 'positivity effect' (Carstensen): as time horizons shorten, people attend more to positive information and regulate emotion better.",
+    "Life satisfaction tends to follow a roughly U-shaped curve — a midlife dip and a later-life rise — though the exact shape is debated.",
+    "Averages hide huge variation: grief, isolation, illness and insecurity remain real later-life risks for many.",
+    "Depression and anxiety in later life are treatable — not a normal part of ageing. Educational only, not medical advice."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Dreading an old age the data doesn't predict",
+      "body": "A younger person picturing later life often forecasts it from fear — expecting to be less happy than older people actually report being. The forecasting research suggests this prediction is usually too dark: dreading decline that the average data does not support adds present anxiety without changing anything."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Low mood written off as 'just ageing'",
+      "body": "When an older person's persistent low mood is dismissed as an inevitable feature of getting old, a genuinely treatable condition can go unaddressed. Later-life depression and anxiety respond to treatment much as they do earlier — which is why 'it's just his age' is one of the most documented mistakes in this area."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The version of 'old age' most of us carry around is forecast from fear rather than from data — and it skews dark.",
+      "source": "On mispredicting future wellbeing"
+    },
+    {
+      "text": "A population pattern is context for how things tend to go, not a prediction about any one person.",
+      "source": "On reading averages"
+    }
+  ],
   "faqs": [
     {
       "question": "Doesn't mental health get worse as you get older?",

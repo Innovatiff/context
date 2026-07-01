@@ -41,6 +41,36 @@
     { "value": "Mixed", "label": "Co-rumination: closer friendships but more anxiety/low mood", "source": "Co-rumination research" },
     { "value": "Processing > venting", "label": "How the research distinguishes helpful from unhelpful talking", "source": "Affect labelling / rumination research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Putting an emotion into words — naming and processing it — tends to take some of its intensity off.",
+    "Pure venting can feel like release but often sustains or even intensifies the emotion.",
+    "'Name it to tame it' comes from affect-labelling research; the effects are real but modest.",
+    "Co-rumination with a friend can deepen closeness yet is linked to more anxiety and low mood.",
+    "For persistent or intense distress, structured professional help is the better-evidenced step."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "Labelling vs venting",
+      "body": "'I feel let down and a bit embarrassed' does something different from 'I feel awful.' Naming the specific emotion as precisely as you can is the move affect-labelling research supports, and it tends to take some of the charge out of the feeling. Repeating how bad you feel without making sense of it is a different activity — one that tends to keep the loop going. Granularity seems to matter more than volume."
+    },
+    {
+      "label": "The trap",
+      "title": "Reassurance that quietly becomes a loop",
+      "body": "Going deep on a problem with a close friend feels caring, and it can genuinely strengthen the friendship. But the same conversation can tip into co-rumination — both people dwelling on the negative feelings and rehearsing the upset — which research links to more anxiety and low mood. The closeness is real, which is exactly what makes the unhelpful version hard to spot. The fix isn't to stop confiding; it's to lean toward making sense of the situation rather than just agreeing how bad it is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Talking helps most when it is processing, not just discharging.",
+      "source": "On what makes talking work"
+    },
+    {
+      "text": "The instruction to open up is only as good as what you actually do once you do.",
+      "source": "On 'just talk about it'"
+    }
+  ],
   "faqs": [
     {
       "question": "Does talking about your feelings actually make you feel better?",

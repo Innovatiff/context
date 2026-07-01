@@ -40,6 +40,36 @@
     { "value": "Weak to strong", "label": "Range of graduate-degree returns after netting out cost, by field", "source": "Research on graduate-degree ROI" },
     { "value": "Worst case", "label": "Borrowing without finishing — full cost, no credential", "source": "Research on degree completion and debt" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "It depends on the program, cost, and goal — there is no blanket yes, and averages hide enormous variation.",
+    "Field of study can affect lifetime earnings as much as the level of the degree itself.",
+    "The biggest overlooked cost is the income you forgo while studying, not just tuition.",
+    "The worst outcome is borrowing heavily and not finishing — full cost, no credential.",
+    "A non-financial reason to study can be valid, but it is a different decision from an investment expected to pay for itself."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Comparing the new salary to the old one",
+      "body": "Someone weighing a return to school pictures the higher salary the degree might unlock and compares it to their current pay. What is easy to miss is the income forgone while studying — money you simply never see, so it never registers as a loss the way a tuition bill does. Netting out both tuition and the salary given up is what turns a vivid upside into an honest calculation."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two degrees, very different returns",
+      "body": "Because the return depends overwhelmingly on the field, not just the level, two people can take on similar debt for a graduate degree and land in very different places — one in a field with strong documented links to better-paid roles, another in a credential that shows weak or even negative returns once cost is netted out. The safer bet weights field and completion heavily rather than the prestige of the institution in the abstract."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The single most reliable way to make it not worth it is to borrow heavily and not finish.",
+      "source": "On the worst-case outcome"
+    },
+    {
+      "text": "'Education always pays off' is true as a population average and false often enough at the individual level to be a poor basis for a large financial decision.",
+      "source": "On averages versus your case"
+    }
+  ],
   "faqs": [
     {
       "question": "Will going back to school definitely increase my income?",

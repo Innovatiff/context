@@ -40,6 +40,36 @@
     { "value": "Feeling disrespected", "label": "A third leading cited reason for quitting", "source": "Pew Research Center, 2022" },
     { "value": "Large", "label": "The manager's share of variation in employee engagement", "source": "Gallup engagement research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "In Pew's survey, the top reasons for quitting were low pay, no advancement, and feeling disrespected.",
+    "Childcare problems and a lack of flexibility also featured prominently, especially for parents.",
+    "'People leave managers, not jobs' captures something real but oversimplifies the survey evidence.",
+    "Quitting usually reflects several practical factors stacking up, not a single villain.",
+    "Good management makes the fundamentals more bearable but can't substitute for fair pay or real opportunity."
+  ],
+  "examples": [
+    {
+      "label": "The stated vs the real reason",
+      "title": "'I left for a better opportunity'",
+      "body": "In person, that is a more comfortable line than 'I felt disrespected' or 'the pay stopped keeping up.' So the publicly stated reason can understate how much pay and respect actually drove the decision — which is exactly why anonymous surveys tend to surface those factors more clearly than a resignation conversation does."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The departure that looks sudden but wasn't",
+      "body": "From the outside a resignation looks like a single moment. But by the time someone leaves, low pay, stalled growth, a difficult manager and inflexible hours may have been accumulating for a long time. The final trigger gets remembered as 'the reason,' which makes the exit look more sudden and more single-cause than it really was."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Quitting is usually driven by several practical things at once, not a single villain.",
+      "source": "On why departures are multi-cause"
+    },
+    {
+      "text": "Good management makes the structural factors more bearable, but it cannot fully substitute for fair pay or real opportunity.",
+      "source": "On the limits of the 'leave the manager' story"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the number one reason people quit their jobs?",

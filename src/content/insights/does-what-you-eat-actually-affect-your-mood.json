@@ -40,6 +40,36 @@
     { "value": "Emerging", "label": "Maturity of the evidence base ('nutritional psychiatry')", "source": "Nutritional psychiatry reviews" },
     { "value": "Not a substitute", "label": "Diet's role relative to professional treatment", "source": "Clinical consensus / SMILES design" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is real but still-emerging evidence that dietary patterns are linked to mood.",
+    "One randomized trial (SMILES, 2017) found a Mediterranean-style diet improved depression symptoms.",
+    "Most other research is observational — it shows association, not that food causes the difference.",
+    "The signal is about overall patterns, not single 'mood-boosting' superfoods or supplements.",
+    "Educational only — diet is a possible support, not a substitute for professional care; in a US crisis, call 988."
+  ],
+  "examples": [
+    {
+      "label": "Why the arrow is hard to read",
+      "title": "Does the diet lift the mood, or the mood shape the diet?",
+      "body": "People who feel low often eat differently, and people who feel well often have the time, energy, and money to eat well. So an observational finding that healthier eaters report better mood can't tell you which way the cause runs. That two-way street is exactly what makes the association easy to over-read — and why one randomized trial like SMILES earns attention it would not if it were merely observational."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The support, not the cure",
+      "body": "The SMILES trial layered dietary support on top of existing treatment rather than replacing it. That is the honest model: a broadly healthy pattern — more vegetables, fruit, whole grains, legumes, fish, and unprocessed foods — is a reasonable, low-risk thing to try that may support mood and is good for general health regardless. But for persistent low mood it belongs alongside a clinician's care, not instead of it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Diet affects mood' is a long way from 'you can eat your way out of a mental health condition.'",
+      "source": "On where the evidence stops"
+    },
+    {
+      "text": "Promising, partially supported, and not settled — that is the honest description of nutritional psychiatry.",
+      "source": "On the state of the field"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there real evidence that food affects mood?",

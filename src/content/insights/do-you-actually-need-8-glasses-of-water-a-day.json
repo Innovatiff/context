@@ -40,6 +40,36 @@
     { "value": "Net-hydrating", "label": "Effect of tea and coffee at typical intakes, despite mild diuresis", "source": "Hydration research" },
     { "value": "Ranges", "label": "Form of official fluid-intake guidance (varies by person and climate)", "source": "Health-authority reference values" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Reviews found no strong scientific basis for the exact '8x8' rule and no clear original source.",
+    "Fluid needs vary widely by body size, activity, climate, and diet — official guidance is given as ranges, not one number.",
+    "A meaningful share of daily fluid comes from food and other drinks, not plain water alone.",
+    "Tea and coffee at typical intakes are mildly diuretic but still net-hydrating — they count.",
+    "For most healthy people thirst is a reasonable guide; drinking far beyond it is unnecessary and, in rare extremes, harmful."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Counting glasses versus counting fluid",
+      "body": "Someone worries they are falling short because they only drink a few glasses of plain water a day. But water-rich foods and their tea and coffee already cover a meaningful portion of their daily fluid before they reach for a water bottle. Tracking plain water alone underestimates what they are actually getting — the fuller picture counts all sources."
+    },
+    {
+      "label": "Illustrative",
+      "title": "\"More water is always better\"",
+      "body": "On the belief that more is an open-ended health upgrade, someone pushes their intake far past thirst. For a healthy person that is generally unnecessary, and in rare extremes drinking well beyond thirst can dilute blood sodium and become harmful. The supported target is adequate, not maximal — with thirst as a reasonable everyday guide."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Stay adequately hydrated, but treat '8 glasses' as a rough rule of thumb at best, not a requirement.",
+      "source": "The honest version"
+    },
+    {
+      "text": "The leap people make is from 'stay hydrated' (well supported) to 'you specifically must drink eight glasses of plain water' (not well supported).",
+      "source": "On where the rule overreaches"
+    }
+  ],
   "faqs": [
     {
       "question": "Do I really need 8 glasses of water a day?",

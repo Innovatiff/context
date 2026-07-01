@@ -39,6 +39,35 @@
     { "value": "Act, then know", "label": "Why 'plan then act' fails — identity changes through doing", "source": "Ibarra, career transition research" },
     { "value": "Sunk cost + status quo", "label": "Biases that make staying feel safer than it is", "source": "Behavioral decision research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Career change is hard because it's an identity transition, not just a job swap — slow, uncertain, and nonlinear.",
+    "Ibarra's research finds 'plan then act' tends to fail; identity changes through doing, not introspection.",
+    "Real barriers stack on top: lost income and seniority, golden handcuffs, sunk-cost and status-quo bias.",
+    "The meandering early phase is what the process normally looks like — not a sign you're doing it wrong."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Acting your way into a new identity",
+      "body": "Instead of waiting for clarity before moving, someone runs small, low-risk experiments — a side project, a course, conversations with people in the field they're drawn to. In Ibarra's research, clarity tends to be an output of doing rather than a prerequisite for it, so the experiments generate the self-knowledge that no amount of upfront introspection would have produced."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The wandering that looks like failure",
+      "body": "The early phase of a real career change often looks like dead ends and experiments that go nowhere. Expecting a straight line and not finding one, someone concludes they're doing it wrong — when in the research that meandering is simply the normal shape of an identity transition, not a verdict on the decision."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You're not just changing what you do; you're changing who you are at work — and that takes time the usual advice doesn't account for.",
+      "source": "On career change as identity transition"
+    },
+    {
+      "text": "Clarity tends to be an output of doing, not a prerequisite for it.",
+      "source": "On why 'plan then act' fails"
+    }
+  ],
   "faqs": [
     {
       "question": "Why is changing careers so much harder than changing jobs?",

@@ -42,6 +42,36 @@
     { "value": "Timing & arousal", "label": "The often-larger driver of screen-related sleep loss for many people", "source": "Bedtime procrastination and arousal research" },
     { "value": "Weak", "label": "Strength of evidence that blue-light glasses improve sleep", "source": "Blue-light-blocking research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Screens can hurt sleep — but for most people the bigger driver is content and timing, not blue light alone.",
+    "Chang and colleagues (2015) found reading on a light-emitting device delayed melatonin and left people less alert the next morning.",
+    "Engaging content raises arousal and pushes bedtime later — a pattern researchers call bedtime procrastination.",
+    "Blue-light glasses and screen filters have weak evidence and target only the smaller channel.",
+    "The basics — consistent schedule, dark cool room, limiting late caffeine and alcohol — have stronger support than any screen tweak."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "\"One more episode\" becomes midnight",
+      "body": "Someone intends to sleep at eleven but the show is built to keep them watching, so \"one more\" turns into a much later bedtime and a groggier morning. The next day they may blame a bad night without tracing it back to the screen. This is the timing-and-arousal channel the research points to as the larger driver for many people — not the wavelength of the light."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The blue-light glasses that didn't fix it",
+      "body": "Betting on blue-light-blocking glasses while continuing to scroll late tends not to work: they target only the light channel — often the smaller one — and do nothing about the engaging content and delayed bedtime that drive much of the harm. A warmer screen does not make a gripping feed less gripping or the bedtime earlier."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Screens hurt sleep mainly through timing, content, and arousal, with light as a contributing factor rather than the whole story.",
+      "source": "The honest framing"
+    },
+    {
+      "text": "A blue-light filter is unlikely to fix a problem that is really about what the screen is doing to your attention and your bedtime.",
+      "source": "On why the light-only fix falls short"
+    }
+  ],
   "faqs": [
     {
       "question": "Is blue light the main reason screens hurt my sleep?",

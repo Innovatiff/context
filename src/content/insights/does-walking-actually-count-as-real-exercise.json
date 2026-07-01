@@ -40,6 +40,50 @@
     { "value": "~7,000–8,000", "label": "Daily steps where much of the mortality benefit appears for many adults", "source": "I-Min Lee et al., 2019" },
     { "value": "1960s marketing", "label": "Origin of the '10,000 steps' target — not science", "source": "Japanese pedometer campaign" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Brisk walking is moderate-intensity activity and counts toward the ~150-minutes-a-week guideline.",
+    "Regular walking is consistently linked to lower all-cause mortality and cardiovascular risk.",
+    "The 10,000-step target came from 1960s pedometer marketing, not research.",
+    "Much of the mortality benefit appears around 7,000–8,000 steps for many adults, then levels off.",
+    "Educational only — talk to a clinician before starting or substantially increasing activity."
+  ],
+  "tables": [
+    {
+      "title": "Walking reference points worth knowing",
+      "caption": "The figures the page draws on, in one place. Treat them as approximate ranges, not precise prescriptions — pace and consistency matter more than hitting an exact number.",
+      "columns": ["Reference point", "The figure", "What it means"],
+      "rows": [
+        ["Weekly activity guideline", "~150 min/week", "Moderate-intensity activity for most adults; brisk walking counts"],
+        ["Where much of the step benefit appears", "~7,000–8,000 steps/day", "Bulk of the mortality benefit for many adults, then diminishing returns"],
+        ["The '10,000 steps' target", "1960s marketing", "A Japanese pedometer slogan, not a research-based threshold"]
+      ],
+      "highlightColumn": 1,
+      "source": "CDC physical-activity guidelines; I-Min Lee et al. (2019); origin of the 10,000-step figure"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "Falling '3,000 short' of a number that was never science",
+      "body": "A phone reports 6,800 steps and it reads as failure against 10,000. But that round number came from a 1960s pedometer marketing campaign, not research — and studies of steps and mortality find much of the benefit already appearing around 7,000 to 8,000 steps for many adults, with the curve leveling off afterward. The day that looked like falling short was, by the evidence, squarely in the beneficial range."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'Only walking' is still real exercise",
+      "body": "Someone who never does anything that looks like a conventional workout, but walks briskly most days toward the ~150-minutes-a-week guideline, is doing genuine, well-evidenced exercise. The largest health gains come from moving from very little activity to a moderate amount — exactly what walking does. Harder training adds more benefit, but walking is a legitimate foundation, not a consolation prize."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The most accessible and best-evidenced movement most people can do is also the one most likely to be dismissed as not enough.",
+      "source": "On why walking gets downgraded"
+    },
+    {
+      "text": "More steps generally help — but the benefits arrive earlier and level off sooner than the round number implies.",
+      "source": "On the 10,000-step myth"
+    }
+  ],
   "faqs": [
     {
       "question": "Does walking really count as exercise?",

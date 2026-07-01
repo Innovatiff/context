@@ -34,6 +34,35 @@
     "The shift this all rests on is measured, not imagined: the lifelong single-employer career has become less common across advanced economies over recent decades, and layoffs are a normal feature of the modern labour market rather than a rare shock. The 'loyalty for security' deal many people still feel is, in the aggregate, an outdated description of how the relationship now works.",
     "There is no single tidy statistic for how loyal employees feel versus how loyal employers are, and it would be dishonest to invent one. What the research does establish is the mechanism: an unwritten psychological contract (Rousseau), built on identity, relationships, and an older deal, which produces real distress when it is broken, and which is often more one-sided than the employee assumes."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "One-sided loyalty is common — largely explained by identity, sunk cost, relationships, and an outdated implicit deal.",
+    "The 'psychological contract' (Rousseau) is the unwritten set of mutual expectations between employee and employer.",
+    "The old deal — loyalty and effort for security and long tenure — has largely broken down across advanced economies.",
+    "Breach of that implicit deal links to lower trust, disengagement, and genuine distress — felt as a broken promise.",
+    "The research favours conditional, reciprocal loyalty and separating loyalty to people from loyalty to the institution."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Laid off after fifteen loyal years",
+      "body": "A long-serving employee let go in a restructuring often experiences it not just as a job loss but as a broken promise. That's the signature of psychological contract breach: the distress runs deepest precisely where the implicit deal felt most certain. The pain is real and well-documented — and it points to how one-sided the deal often was to begin with."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I've put too many years in to leave now'",
+      "body": "Years invested can feel like a reason to stay, but they're a sunk cost — already paid, and not recoverable by staying longer. It helps to separate the two loyalties in play: commitment to coworkers and to your own standards is well-grounded, while commitment to the institution is reasonable only in proportion to what it reciprocates."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The implicit deal you may be honouring is one the organization may no longer be offering.",
+      "source": "On the changing psychological contract"
+    },
+    {
+      "text": "Time already spent is gone whether you stay or leave; it is not, by itself, a reason the current deal is fair."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it foolish to be loyal to my employer?",

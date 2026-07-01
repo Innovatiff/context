@@ -39,6 +39,44 @@
     { "value": "Occupational", "label": "How WHO classifies burnout — a phenomenon, not a medical condition", "source": "World Health Organization, ICD-11 (2019)" },
     { "value": "6 areas of worklife", "label": "Workload, control, reward, community, fairness, values", "source": "Maslach & Leiter, Areas of Worklife model" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The WHO's ICD-11 (2019) frames burnout as an occupational phenomenon from chronic workplace stress — not a personal weakness.",
+    "It has three dimensions: exhaustion, cynicism or mental distance, and reduced professional effectiveness.",
+    "Maslach and Leiter locate the drivers in six areas of worklife: workload, control, reward, community, fairness, and values.",
+    "Because the drivers are largely structural, resilience training alone often falls short.",
+    "Persistent symptoms, or overlap with low mood, warrant a qualified clinician rather than self-diagnosis."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'Everyone else is coping — so it must be me'",
+      "body": "Because exhaustion and cynicism feel like they're happening inside you, it's easy to read them as a verdict on your resilience rather than a predictable response to the conditions you're working in. When the workplace messaging is 'build more grit,' still feeling burnt out can land as a second failure on top of the first — even though the research points at the job's conditions, not the person."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A wellness programme that doesn't stick",
+      "body": "Resilience and mindfulness training delivered on its own tends to produce limited, short-lived effects when the workload, control, and fairness conditions that caused the burnout stay unchanged. Rest and boundaries genuinely matter for the exhaustion dimension, but they help most when paired with changes to the conditions that produced the exhaustion — not used to make an unsustainable load survivable."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The WHO framing relocates burnout from 'something wrong with me' to 'a response to conditions.'",
+      "source": "On the ICD-11 definition"
+    },
+    {
+      "text": "Working harder to cope with an unsustainable load usually feeds the very mechanism driving the burnout."
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "The six areas of worklife, in plain terms",
+      "body": [
+        "Maslach and Leiter's model maps where burnout risk concentrates onto six areas: workload (how much is being asked), control (how much autonomy you have), reward (recognition and pay), community (the quality of workplace relationships), fairness (whether decisions feel just), and values (whether the work aligns with what matters to you).",
+        "The research pattern is that burnout becomes more likely when there are sustained mismatches between a person and their job across these areas — not simply because an individual cannot cope. That is why improving these conditions tends to matter more than individual resilience efforts alone. (This is educational context, not medical advice; persistent exhaustion or low mood is worth taking to a qualified clinician.)"
+      ]
+    }
+  ],
   "faqs": [
     {
       "question": "Is burnout a medical condition?",

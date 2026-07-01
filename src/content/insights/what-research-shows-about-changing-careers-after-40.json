@@ -40,6 +40,35 @@
     { "value": "50s+", "label": "Age at which crystallized knowledge and vocabulary keep rising", "source": "Hartshorne & Germine, 2015" },
     { "value": "Varies by skill", "label": "Mental abilities peak at different ages, not one", "source": "Hartshorne & Germine, 2015" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Changing careers after 40 is common, not exceptional — median U.S. job tenure is only about four years.",
+    "Mental abilities peak at different ages: speed early, but knowledge and vocabulary keep rising into the 50s.",
+    "The real barriers are a temporary income dip, retraining costs, and documented age bias — not a capability ceiling.",
+    "'Success rate' figures online usually come from small, self-selected samples and are best treated as limited.",
+    "Transitions that build on existing experience tend to be more realistic than starting from zero."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "45, worried it's 'too late'",
+      "body": "The feeling that the trajectory is fixed by 40 is more cultural script than data. With median tenure around four years and multiple careers now normal across a working life, a change at 45 sits well inside the ordinary pattern. The honest obstacles aren't a closed door on capability — they're cost and bias, which can be planned around."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Building on experience instead of starting from zero",
+      "body": "Crystallized knowledge, domain judgment, and vocabulary keep accumulating into midlife, so an adjacent move that leans on accumulated experience tends to be more realistic than an unrelated field from scratch. Using networks rather than cold applications also matters, because that's where the screening that disadvantages older candidates is strongest."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "There is no single age at which 'the mind' peaks — different abilities follow different curves.",
+      "source": "On the Hartshorne & Germine findings"
+    },
+    {
+      "text": "The research supports the feasibility of changing — but it does not promise it is easy."
+    }
+  ],
   "faqs": [
     {
       "question": "Is 40 too old to change careers?",

@@ -39,6 +39,35 @@
     { "value": "Fades", "label": "Direction of the first-job effect over time as people switch and re-sort", "source": "Recession-graduate research" },
     { "value": "% of current", "label": "How later raises are often calculated — why the starting salary anchors forward", "source": "Salary anchoring / path-dependence research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The first job tilts a career more than feels fair — but it loads the dice, it doesn't decide the roll.",
+    "The main mechanisms are salary anchoring, the skills you build first, and the networks you join.",
+    "The recession-graduate research shows the early earnings penalty fading over roughly a decade.",
+    "Switching employers, not waiting in place, is what most reliably narrows an early gap.",
+    "Careers are mobile: most people hold many jobs and a large share change fields, even after 40."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why a low first salary compounds",
+      "body": "Because later raises and offers are frequently calculated as a percentage of your current pay, a low starting figure carries forward: each subsequent raise is a slice of a smaller number. That is salary anchoring — and it is why an adjustment made to the first offer tends to be worth more than the same adjustment made years later."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Graduating into a bad year",
+      "body": "Someone who enters the labour market in a downturn, through no fault of their own, tends to start behind an otherwise-similar peer who began in a better year. In the recession-graduate research that gap was real and persisted for roughly a decade — and then largely closed, fastest for the people who changed employers and re-sorted into better-matched roles rather than waiting in place."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Your first job loads the dice without deciding the roll.",
+      "source": "On path dependence in early careers"
+    },
+    {
+      "text": "Path dependence is real, but it decays — the starting point matters most early and matters less the further out you look."
+    }
+  ],
   "faqs": [
     {
       "question": "Does your first job really affect your salary for years?",

@@ -39,6 +39,36 @@
     { "value": "Effort > reward", "label": "Imbalance linked to worse mental and physical health", "source": "Siegrist, effort-reward imbalance model" },
     { "value": "Recognized risk", "label": "Mental health at work treated as an occupational issue", "source": "WHO guidelines on mental health at work" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Work is a major determinant of mental health — and the conditions, not personal weakness, do much of the damage.",
+    "The worst strain comes from high demands combined with low control over how the work gets done.",
+    "Effort not matched by reward, plus unfairness, insecurity and long hours, are linked to worse outcomes.",
+    "Even small increases in control or autonomy map onto better outcomes — a rare individual lever.",
+    "This is educational context, not medical advice; persistent or worsening symptoms warrant a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The pattern",
+      "title": "High demands, low control",
+      "body": "The demand-control model's core finding is that a demanding job you have some say in is far less damaging than an equally demanding job you cannot influence. It is not the hard work alone that grinds people down — it is hard work with no control over how it gets done."
+    },
+    {
+      "label": "Naming it",
+      "title": "'What's wrong with the job?' not 'What's wrong with me?'",
+      "body": "When strain shows up as exhaustion, dread or low mood, workplace language about resilience and 'managing your stress' quietly relocates the problem onto the individual. The models give you a different vocabulary: is this mainly high demand with low control, effort that isn't rewarded, unfairness, or insecurity? Naming the specific condition tends to point to clearer action than generic advice to reduce stress — and if difficulties are persistent or worsening, a qualified clinician should be involved."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When work is grinding you down, it is very often the conditions doing it, not a flaw in you.",
+      "source": "On reading job strain honestly"
+    },
+    {
+      "text": "A demanding job you have some say in is far less damaging than an equally demanding job you cannot influence.",
+      "source": "On the demand-control model"
+    }
+  ],
   "faqs": [
     {
       "question": "Can a job really cause mental health problems?",

@@ -40,6 +40,35 @@
     { "value": "Many", "label": "Employees who keep working or checking email during time off", "source": "Workplace surveys" },
     { "value": "Supports it", "label": "What recovery research says rest does for performance", "source": "Recovery & burnout research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Time-off guilt is widespread and largely manufactured by culture, not a sign you're doing something wrong.",
+    "The 'ideal worker' norm and tying self-worth to output are the two mechanisms most often blamed.",
+    "The evidence points the other way: rest tends to support performance rather than undermine it.",
+    "Half-working through a vacation costs you the benefit — fully disconnecting is more restorative."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The visible cost that drowns out the invisible benefit",
+      "body": "You can picture the unanswered emails and the pile of work waiting when you get back. You cannot picture the sharper judgment, focus, and stamina that recovery tends to buy. So the vivid short-term cost crowds out the diffuse long-term benefit, and stepping away starts to feel reckless — even though the research suggests rest is, if anything, an input to good work."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Earning the right to rest that never arrives",
+      "body": "Someone tells themselves they'll take the break once they've cleared the backlog and hit the next target. But when worth is staked on output, hitting the target simply raises the bar, so the permission to rest keeps receding. The guilt was never about whether enough had been done; it was about the frame that equates resting with falling short."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The guilt is real; the threat it warns of mostly is not.",
+      "source": "On time-off guilt vs the evidence"
+    },
+    {
+      "text": "Rest is part of performance, not a withdrawal from it.",
+      "source": "On reframing recovery"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel guilty taking time off I've already earned?",

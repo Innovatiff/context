@@ -42,6 +42,35 @@
     { "value": "More confident", "label": "How upright, open posture tends to read to other people", "source": "Research on perception of posture" },
     { "value": "Contested", "label": "Overall strength of the body-to-mood ('embodiment') claims", "source": "Embodiment and replication research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is modest evidence upright posture is associated with slightly better mood, energy, and resilience to stress than a slumped one.",
+    "Posture's effect on how others perceive you — as more confident and competent — is on firmer ground than its effect on your inner state.",
+    "The dramatic 'power pose' claims about hormones and risk-taking largely failed to replicate in a larger study.",
+    "Treat posture as a small, low-cost nudge, not a transformation — and don't police a 'perfect' posture all day.",
+    "Educational only — persistent pain, fatigue, or low mood are reasons to see a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The two claims",
+      "title": "'Sit up a bit' vs 'pose your way to power'",
+      "body": "'Posture affects mood a little' and 'a two-minute pose rewires your hormones and risk-taking' are very different claims with very different evidence. The first has modest support (Nair and colleagues, 2015); the second largely failed to replicate in a larger sample. In popular retelling they collapse into one confident message that overstates what actually survived scrutiny."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Before a high-stakes meeting",
+      "body": "Standing tall for a moment beforehand may genuinely help you feel a touch more composed, and it reads as more confident to the people in the room — both reasonable, supported reasons to do it. What the evidence does not support is expecting a biochemical edge from an expansive pose. The small, real effects are worth using; the hormonal hack is not there."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Posture may give a mild nudge to how you feel; it is not a hormonal hack that rewires your confidence.",
+      "source": "On the size of the effect"
+    },
+    {
+      "text": "The most important 'number' here is a negative result — the famous power-posing effects did not survive a larger replication."
+    }
+  ],
   "faqs": [
     {
       "question": "Do power poses actually work?",

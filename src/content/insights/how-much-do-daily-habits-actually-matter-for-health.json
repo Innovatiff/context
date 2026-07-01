@@ -40,6 +40,35 @@
     { "value": "Correlational", "label": "Evidence comes from observational cohorts, not randomized trials", "source": "Study design" },
     { "value": "Top modifiable risks", "label": "Tobacco, diet, inactivity, excessive alcohol among largest contributors to chronic disease", "source": "CDC" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Large studies link a handful of basic habits to roughly a decade or more of additional life expectancy at 50 versus following none.",
+    "The five factors are unglamorous: not smoking, regular activity, a reasonable diet, moderate alcohol, and a healthy weight.",
+    "The evidence is correlational — from observational cohorts, not randomized trials — so it shows strong associations, not causal guarantees.",
+    "The factors are partly additive, and associations with better outcomes appear even when habits change later in life.",
+    "Educational only — no one is promised a specific number of years; for personal guidance, see a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Reading the number",
+      "title": "'Ten extra years' is an average, not a contract",
+      "body": "Li and colleagues (2018, Circulation) estimated that maintaining five low-risk habits was associated with roughly a decade or more of additional life expectancy at 50 compared with following none. But it is an average across large groups from observational data. It does not promise any individual a specific number of years, and it does not make anyone immune to genetics, circumstance, or bad luck. Treat it as a strong correlation, not a personal guarantee."
+    },
+    {
+      "label": "The tell",
+      "title": "Why the list is so short and boring",
+      "body": "There is no exotic protocol here — the same handful of basics keeps appearing across large studies and is echoed by bodies like the CDC. That convergence is itself the reason to take them seriously, and the reason to be skeptical of supplements, biohacks, and 'scientifically proven' products that promise dramatic results beyond the unglamorous fundamentals."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The direction of the evidence is robust; the exact size of the benefit for any one person is not.",
+      "source": "On correlational data"
+    },
+    {
+      "text": "The data argues against both fatalism and magical thinking, in favour of the modest, well-supported basics."
+    }
+  ],
   "faqs": [
     {
       "question": "How much do daily habits actually matter for health?",

@@ -42,6 +42,35 @@
     { "value": "Modest / mixed", "label": "Effect of 'psychobiotic' probiotics on mood in human trials", "source": "Early psychobiotic studies" },
     { "value": "Emerging", "label": "Overall maturity of human gut-brain evidence", "source": "Microbiome and mood literature" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The gut-brain axis is real biology — the gut and brain communicate via the vagus nerve, immune signalling, and microbial chemicals.",
+    "The strongest microbiome-mood findings still come from animal studies; human evidence is thinner, mixed, and often unreplicated.",
+    "'Most of your serotonin is in your gut' is true but misleading — that serotonin largely does not reach the brain.",
+    "Eating well is worth doing for overall health regardless of what it does to mood.",
+    "Educational only — persistent low mood or digestive symptoms are reasons to see a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A gut feeling isn't the same as a mood cure",
+      "body": "You feel your stomach knot before a nerve-wracking event, so 'the gut affects the mind' lands as obviously true — and it points at a genuine connection. But feeling a link in the moment is a much smaller claim than showing that changing your microbiome shifts your baseline mood. The first is everyday experience; the second is the hard question the science has not settled."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reaching for a 'mood probiotic'",
+      "body": "Someone low for weeks buys an expensive probiotic marketed for mental wellbeing, expecting a lift. The honest picture is that the human trials behind that promise are small, short, strain-specific, and inconsistent — so it is better treated as a low-cost experiment than a cure. If low mood persists, the more reliable step is a clinician, not another supplement."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The gut-brain axis is one of the most exciting areas in current science — and much of the strong-sounding version runs ahead of the evidence.",
+      "source": "On the state of the research"
+    },
+    {
+      "text": "'Most of your serotonin is in your gut' is true but routinely misused: that serotonin mostly acts in the body, not the brain."
+    }
+  ],
   "faqs": [
     {
       "question": "Is the gut really a 'second brain'?",

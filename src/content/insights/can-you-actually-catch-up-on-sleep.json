@@ -40,6 +40,41 @@
     { "value": "Partial", "label": "Recovery after chronic restriction following one recovery night", "source": "Sleep-debt research" },
     { "value": "Correlational", "label": "Strength of evidence linking 'social jetlag' to health markers", "source": "Observational studies" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "You can recover some deficit from a few short nights, but not fully repay long-running debt with one good weekend.",
+    "The cognitive costs of chronic short sleep are the slowest and most stubborn to clear.",
+    "Feeling fine is an unreliable gauge — self-rated sleepiness understates real performance impairment.",
+    "Regularity beats repayment: steady, adequate sleep most nights supports functioning better than short weekdays plus long weekends."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "'Feeling fine' after too little sleep",
+      "body": "Van Dongen's work found that people adapt to feeling sleepy and steadily underestimate how impaired they are — rating themselves only slightly sleepy even as their measured performance kept declining. So waking up feeling rested after a lie-in does not reliably mean the deficit is paid. Subjective alertness can lag well behind the real cost of short sleep."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The weekend lie-in that carries a hidden price",
+      "body": "Someone runs short, alarm-driven weekday nights and sleeps in long on weekends to compensate. Recovery from chronic restriction is only partial in the research, and the large weekday-to-weekend swing shifts the body clock back and forth — 'social jetlag' — which observational studies have linked to worse mood and metabolic markers. The catch-up gives less than it promises and may add a separate cost."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Sleep does not behave like a simple bank account you can overdraw and then settle.",
+      "source": "On the limits of catch-up sleep"
+    },
+    {
+      "text": "Regularity beats repayment.",
+      "source": "On the most consistent research message"
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "A note on what this page is (and isn't)",
+      "body": "This is educational context describing general research patterns, not a verdict on whether you personally are sleeping well or badly, and not medical advice. Much of the timing evidence is correlational, and individual sleep needs vary. If you are persistently tired despite enough time in bed, regularly cannot sleep, snore heavily, or feel your sleep is affecting daily life, a qualified clinician can check for underlying conditions."
+    }
+  ],
   "faqs": [
     {
       "question": "Can I really not catch up on lost sleep?",

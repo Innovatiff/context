@@ -40,6 +40,36 @@
     { "value": "Tasks > jobs", "label": "Most automation hits tasks within jobs, not entire occupations", "source": "Autor, 'Why Are There Still So Many Jobs?' 2015" },
     { "value": "Uncertain", "label": "Whether generative AI's white-collar exposure means loss or augmentation", "source": "Emerging research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The honest answer is wide uncertainty — AI is likely to reshape tasks within jobs faster than it eliminates whole jobs.",
+    "The famous 47% figure measured task automatability, not actual job losses, and sits at the high end.",
+    "Task-based re-estimates (OECD, Autor) put far fewer jobs at high risk than the headline number.",
+    "Generative AI shifts exposure toward white-collar tasks — new, but not proof of elimination over augmentation.",
+    "The research favours adaptability over prediction: forecasting which jobs vanish has a poor track record."
+  ],
+  "examples": [
+    {
+      "label": "What the number measured",
+      "title": "The famous 47%, read correctly",
+      "body": "Frey and Osborne's 2013 estimate is routinely cited as 'half of jobs are doomed,' but it estimated the probability that an occupation's tasks could be automated — not a prediction that those jobs would disappear by any date. Later work argued it overstated exposure by treating whole occupations as automatable units, and task-level re-estimates came out much lower."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Tasks, not whole jobs",
+      "body": "Most jobs bundle together many tasks, only some of which are automatable — and automating one task often raises the value of the human tasks that remain. That's why the practical question is less 'will my job exist?' and more 'which parts of my work are most exposed, and which human parts become more valuable?'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "AI is likely to change the tasks inside many jobs faster than it eliminates whole jobs.",
+      "source": "On the most defensible reading of the evidence"
+    },
+    {
+      "text": "The average outcome and the individual outcome can diverge sharply — which is why the anxiety is not irrational.",
+      "source": "On uneven disruption"
+    }
+  ],
   "faqs": [
     {
       "question": "Is AI really going to take half of all jobs?",

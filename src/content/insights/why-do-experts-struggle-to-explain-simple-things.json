@@ -39,6 +39,35 @@
     { "value": "Systematic", "label": "Direction of the curse-of-knowledge bias across experiments", "source": "Camerer, Loewenstein & Weber" },
     { "value": "Concrete > abstract", "label": "What helps explanations land, per 'Made to Stick'", "source": "Heath & Heath" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The 'curse of knowledge' means once you know something, it's hard to imagine not knowing it — so experts skip steps.",
+    "It's a normal, well-studied cognitive bias, not arrogance or lack of effort.",
+    "In the tappers-and-listeners study, tappers predicted ~50% recognition; actual recognition was only a small fraction.",
+    "Concrete examples, plain language, and stories beat abstraction, where the bias does most of its damage.",
+    "Testing an explanation on a real novice beats trying to simulate one in your head."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The tapper who's sure the song is obvious",
+      "body": "Tapping out a familiar tune, you can hear the whole thing in your head — melody, words, everything — so it feels unmistakable. To the listener, all that arrives is a bare sequence of knocks. That gap between what you experience and what you transmit is the curse of knowledge in miniature: your own knowledge fills in everything the other person never receives."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The brilliant colleague who's a frustrating teacher",
+      "body": "The deeper someone knows a subject, the more the beginner's starting point becomes invisible to them — so the explanation lands at the wrong altitude, pitched to people who already share their context. Both sides tend to misread this as being about ability: the novice feels slow, the expert feels unheard. In fact the difficulty is structural, a predictable side effect of how thoroughly knowledge rewires the topic for the person who holds it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The very expertise that makes someone good at the work is what makes it hard to remember what a newcomer does not yet see.",
+      "source": "On why experts overshoot"
+    },
+    {
+      "text": "Restating the same explanation more slowly doesn't add the missing rung in the ladder."
+    }
+  ],
   "faqs": [
     {
       "question": "What is the curse of knowledge?",

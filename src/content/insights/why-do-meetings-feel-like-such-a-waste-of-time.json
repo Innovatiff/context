@@ -39,6 +39,41 @@
     { "value": "Large rise", "label": "Increase in meeting and chat time for many workers since ~2020", "source": "Microsoft Work Trend Index" },
     { "value": "Real cost", "label": "Time penalty to fully re-engage with focused work after an interruption", "source": "Research on interruptions and attention" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "A large share of meetings are rated ineffective by the people sitting in them.",
+    "Meeting load has risen substantially for many knowledge workers since around 2020.",
+    "Much of the drain is fragmentation: a meeting can leave the surrounding gaps too short for focused work.",
+    "The costs and benefits land on different people, which makes meetings easy to over-schedule.",
+    "The evidence supports fewer, better meetings and protected focus time — not zero meetings."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The 2 pm meeting that costs the whole afternoon",
+      "body": "A single 30-minute meeting dropped into the middle of an afternoon rarely costs just 30 minutes. It can leave the gap before it and the gap after it too short for anything that needs sustained concentration. The felt loss is the meeting plus the focus blocks it quietly broke up — which is why a calendar that looks only lightly booked can still feel like it swallowed the day."
+    },
+    {
+      "label": "The mismatch",
+      "title": "Who calls it versus who pays for it",
+      "body": "The person who schedules a meeting captures most of the value — a decision, alignment, visible progress — while the cost is spread thinly across everyone invited. Because no single calendar absorbs the full price, low-value meetings are easy to keep adding, and the people carrying the diffuse cost are the ones who feel the drain most."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The recurring meeting nobody would miss",
+      "body": "A standing weekly sync runs on inertia long after its original purpose faded. The honest test is whether it would be missed if it were cancelled, and whether the same outcome could be reached asynchronously. Many recurring meetings fail that test — but not all, so the aim is fewer and better, not a blanket ban."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The felt loss is the meeting plus the focus blocks it quietly destroyed.",
+      "source": "On why short meetings still drain"
+    },
+    {
+      "text": "The person who calls a meeting captures most of the value, while the cost is spread thinly across everyone invited.",
+      "source": "On why meetings get over-scheduled"
+    }
+  ],
   "faqs": [
     {
       "question": "Are most meetings actually a waste of time?",

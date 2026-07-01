@@ -40,6 +40,49 @@
     { "value": "Hundreds of millions", "label": "People living with depression worldwide (estimate)", "source": "World Health Organization" },
     { "value": "988", "label": "U.S. Suicide and Crisis Lifeline — call or text if in crisis", "source": "988 Suicide & Crisis Lifeline" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Roughly 8% of U.S. adults — about one in twelve — had a major depressive episode in the past year.",
+    "The lifetime share is considerably higher, with large surveys landing in the range of roughly one in five to one in three adults.",
+    "Globally, the WHO estimates hundreds of millions of people live with depression — one of the most widespread health conditions there is.",
+    "A prevalence number answers a population question, not a personal one — it cannot tell you whether you are unwell.",
+    "Common and serious are not opposites. Educational only — a qualified clinician's assessment is the only reliable way to know, and in a crisis (US) call or text 988."
+  ],
+  "tables": [
+    {
+      "title": "How common is depression, by the numbers",
+      "caption": "Past-year figures count a single twelve-month window, so they understate how many people experience depression across a whole life. These are population estimates, not a way to tell whether any one person is depressed. Educational only, not medical advice.",
+      "columns": ["Measure", "Estimate"],
+      "rows": [
+        ["Past-year prevalence, U.S. adults", "≈ 8% (about 1 in 12)"],
+        ["Lifetime prevalence, adults", "≈ 1 in 5 to 1 in 3"],
+        ["People living with depression worldwide", "Hundreds of millions"]
+      ],
+      "highlightColumn": 1,
+      "source": "NIMH / NSDUH (U.S. past-year and lifetime); World Health Organization (global)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Reading the number",
+      "title": "'One in twelve' in an ordinary room",
+      "body": "If roughly 8% of adults had a major depressive episode in the past year, then in a room of a couple dozen people, on average one or two are living through it right now — mostly invisibly. Withdrawal, exhaustion, and flatness are easy to hide or to blame on stress, which is exactly why the felt sense of being the only one struggling rarely matches how common it actually is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Using the statistic to self-diagnose",
+      "body": "It is tempting to read '8% is common' as either 'so I'm probably fine' or 'I definitely have this.' Both skip the step that matters. A prevalence figure describes millions of people; it cannot distinguish depression from low mood, grief, or burnout in one person. If low mood or loss of interest has persisted beyond a couple of weeks and affects daily life, that persistence — not the statistic — is the signal to seek an assessment."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A prevalence statistic answers a population question, not a personal one. It cannot tell you whether what you are feeling is depression.",
+      "source": "On what the numbers can and can't do"
+    },
+    {
+      "text": "Common and serious are not opposites. A condition affecting millions of people is, by definition, both."
+    }
+  ],
   "faqs": [
     {
       "question": "What share of people experience depression?",

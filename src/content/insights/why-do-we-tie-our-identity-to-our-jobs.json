@@ -34,6 +34,38 @@
     "This is more a cultural and psychological pattern than a single statistic, and it is worth being honest about that. The strongest evidence is qualitative and conceptual: 'workism' names a cultural shift, while 'work-role centrality' and 'identity enmeshment' name the individual-level version researchers study. None of these reduce cleanly to one headline number, and treating them as precise measurements would overstate what the research claims.",
     "Where numbers do exist, they are indirect. The wellbeing literature consistently finds that unemployment harms life satisfaction more, and more persistently, than the lost income alone would predict — a gap usually read as evidence that work carries identity and social meaning, not just money. And studies of retirement adjustment find wide variation, with people who built non-work roles and meaning beforehand generally adapting better. The honest takeaway is directional: more of your identity in work means more is at stake when work changes, which it eventually will."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Culture, especially in the U.S., increasingly frames work as a primary source of identity and meaning — 'workism'.",
+    "Higher work-role centrality is double-edged: more engagement, but more vulnerability when work goes badly.",
+    "Job loss and retirement can register as identity threats, not just financial ones.",
+    "The protective move is diversifying identity — building several load-bearing sources of self, not just one."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "'What do you do?' as 'Who are you?'",
+      "body": "The first question at a gathering is usually about your job, and the implication is that the answer tells people who you are. Add that most waking weekday hours go to work and that professional achievement is one of the most socially legible forms of status, and the self quietly organises around work — without anyone ever deciding it should."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The load-bearing wall",
+      "body": [
+        "When self rests almost entirely on work, an ordinary setback — a failed project, a layoff, retirement — lands not as a bad day but as a threat to who you are. The structure that was holding your sense of self suddenly isn't there.",
+        "Someone whose identity also rests on relationships, interests, community, and values takes the same blow to one area without the whole structure collapsing. The aim isn't to care less about work; it's to avoid making it the only wall holding the roof up."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The more your identity rests on your work, the more an ordinary setback can register as a threat to who you are.",
+      "source": "On the quiet risk of enmeshment"
+    },
+    {
+      "text": "Work-as-identity isn't inevitable — it just feels that way from inside it.",
+      "source": "On workism as one cultural arrangement"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do we define ourselves by our jobs?",

@@ -42,6 +42,35 @@
     { "value": "Defended", "label": "Body weight is biologically defended around a settling range via metabolic adaptation", "source": "Research on set point and metabolic adaptation" },
     { "value": "Modest", "label": "Typical size of sustainable change from behaviour and environment", "source": "Long-term behavioural research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Body weight is shaped by a strong mix of genetics, physiology, and environment — far less a matter of pure willpower than the popular framing claims.",
+    "Genetics is commonly estimated to explain roughly half or more of the variation in weight between people (figures vary by study).",
+    "The body defends a settling range: after significant loss it raises hunger and lowers energy burned at rest, pushing back toward the prior weight.",
+    "Long-term studies, including Mann and colleagues (2007), find most dieters do not maintain large losses.",
+    "Behaviour and environment still matter, but modestly; this is context, not a verdict — for anything worrying or persistent, see a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The thermostat, not the ledger",
+      "body": "The body behaves less like a simple calorie ledger and more like a thermostat resisting change. Lose a significant amount of weight and it tends to respond by raising hunger and lowering the energy burned at rest — metabolic adaptation — which actively works against keeping the loss off. The visible part is the daily choosing; the larger, invisible part is the biology quietly pushing back."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same kitchen, different bodies",
+      "body": "Two people share the same home and roughly the same routine yet carry very different weights. Because genetics is estimated to account for roughly half or more of the variation between people, that difference can come from factors neither of them chose. It is one reason the 'it's all willpower' framing misreads the evidence — and mostly produces shame, which research suggests makes health behaviours harder, not easier."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The intensity that feels like 'trying harder' is often the part the biology most reliably undoes.",
+      "source": "On why aggressive diets tend to regain"
+    },
+    {
+      "text": "You have some influence within strong limits you did not set. This is context, not a verdict on anyone's body."
+    }
+  ],
   "faqs": [
     {
       "question": "Is weight really mostly genetic?",

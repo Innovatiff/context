@@ -42,6 +42,36 @@
     { "value": "Conditional", "label": "Whether stress harms depends on chronicity, control, and coping", "source": "Chronic stress research" },
     { "value": "Risk factor", "label": "Stress's role in disease — shifts odds, not a guarantee", "source": "Stress and cardiovascular / inflammation research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Chronic stress is a genuine risk factor for physical illness — but it shifts the odds rather than guaranteeing an outcome.",
+    "Duration and control are the key distinctions: short-lived, manageable stress is often harmless or even useful.",
+    "In Cohen's controlled-exposure studies, people under higher stress were more likely to catch a cold after the same deliberate virus exposure.",
+    "Chronic stress is linked to inflammation and cardiovascular risk through cumulative 'allostatic load' (McEwen) — wear over years, not one event.",
+    "The best-supported levers are more control, less unrelieved stress, and the health basics. Educational only, not medical advice."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A hard week that passes",
+      "body": "A tense stretch before a deadline — short-lived and within your control — is the kind of stress that is often harmless and can even sharpen focus. Treating that ordinary pressure as a health emergency tends to add anxiety rather than remove risk; the target is chronic, uncontrolled stress, not stress itself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Months with no relief or control",
+      "body": "Stress that grinds on for months without relief or a sense of control is the kind the research most consistently links to harm. A single spa day or breathing app does not change a months-long situation that feels inescapable; the durable changes are to circumstances, coping and support — ideally with clinical input where needed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Stress makes you sick' is true as a risk statement and false as a certainty.",
+      "source": "On calibrating the claim"
+    },
+    {
+      "text": "The harm shows up as shifted odds across a population and accumulated load over years — exactly the pattern individual experience is bad at perceiving.",
+      "source": "On why the link feels uncertain"
+    }
+  ],
   "faqs": [
     {
       "question": "Can stress really cause physical illness?",

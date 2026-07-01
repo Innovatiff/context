@@ -39,6 +39,32 @@
     { "value": "Majority", "label": "Employees reporting being not engaged or actively disengaged", "source": "Gallup, State of the Global Workplace" },
     { "value": "At-will", "label": "The default U.S. employment arrangement, endable by either side", "source": "U.S. employment norms" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Feeling replaceable is widespread and largely a product of how modern jobs are designed, not a measure of your value.",
+    "Only around 21% of workers feel actively engaged, so the majority report being not engaged or actively disengaged.",
+    "The felt sense of being replaceable and your actual contribution often diverge.",
+    "Modern work engineers interchangeability by design — documented processes and easy handovers make roles coverable.",
+    "Autonomy, specific recognition, and real voice reduce the feeling more than trying to become irreplaceable."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Good at the job, still feeling like a cog",
+      "body": "Someone can be genuinely skilled and still feel interchangeable, because the feeling is driven by signals from the system — lack of recognition, autonomy, and voice — rather than by an honest accounting of what they bring. The felt sense of being replaceable and the actual contribution are two different things that get fused together."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reframing 'I am replaceable'",
+      "body": "Reading the feeling as 'this role is designed to be coverable, which is not the same as me being without value' is closer to what the evidence supports than either self-blame or false reassurance. Rather than chasing the unrealistic, stressful goal of being irreplaceable, the more supported aim is to be less dependent on any one organisation's signals for a sense of worth — through portable skills and relationships beyond a single employer."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling replaceable is, in part, an accurate read of a deliberate feature of the system — not evidence that your specific work is worthless.",
+      "source": "On engineered interchangeability"
+    }
+  ],
   "faqs": [
     {
       "question": "Does feeling replaceable mean I'm actually bad at my job?",

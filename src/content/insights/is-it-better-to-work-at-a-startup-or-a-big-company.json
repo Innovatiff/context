@@ -39,6 +39,36 @@
     { "value": "Fit > size", "label": "What best predicts job satisfaction in person-environment fit research", "source": "Kristof-Brown et al. meta-analysis, 2005" },
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged, at firms of any size", "source": "Gallup, State of the Global Workplace" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Neither startups nor big firms reliably produce happier or more successful workers as a group.",
+    "The honest tradeoff is autonomy, variety, and upside against stability, resources, and structure.",
+    "Person-environment fit predicts satisfaction better than company size does.",
+    "Roughly half of new U.S. establishments fail within about five years, so startup equity is uncertain, not money.",
+    "It is a reversible bet: careers now involve many moves across employer types."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Chasing the logo, not the fit",
+      "body": "Someone leaves a big company for a buzzy startup expecting a transformation, then finds the same dissatisfaction migrating with them. The original mismatch was about autonomy, meaning, or management — none of which is guaranteed by company size. The glamorous narrative predicted the day-to-day less well than a specific look at the role would have."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Weighting security without shame",
+      "body": "At a life stage where stability matters, treating startup pay that leans on equity as uncertain rather than as money is evidence-aligned, not a failure of ambition. With roughly half of new businesses gone within about five years, the upside is a possibility to weigh, not a plan to bank on."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The useful question is not 'which is better' but 'which set of tradeoffs fits me right now.'",
+      "source": "On startup vs big company"
+    },
+    {
+      "text": "You are comparing the visible winners of one path against the ordinary middle of the other.",
+      "source": "On survivorship bias"
+    }
+  ],
   "faqs": [
     {
       "question": "Are startups or big companies better for your career?",

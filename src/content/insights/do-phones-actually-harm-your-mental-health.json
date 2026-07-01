@@ -40,6 +40,36 @@
     { "value": "~2012", "label": "Period Haidt links to rising youth distress and smartphone spread", "source": "Haidt, 'The Anxious Generation'" },
     { "value": "Displacement", "label": "Mechanism both camps tend to agree matters (sleep, in-person time, exercise)", "source": "Convergent findings" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The causal question is genuinely contested — anyone claiming a settled, simple answer is overstating the evidence.",
+    "One camp (Haidt) ties rising youth distress since about 2012 to smartphones; another (Odgers, Orben) finds mostly small, correlational effects.",
+    "Both sides converge on the narrower point that displacement — of sleep, in-person time, and exercise — matters.",
+    "Pattern, timing, and content of use fit the data better than a single screen-time total.",
+    "Effects vary a lot by person, so watching your own response beats assuming a one-size verdict."
+  ],
+  "examples": [
+    {
+      "label": "The disagreement",
+      "title": "Same data, two readings of a small effect",
+      "body": "Skeptical analyses find the average association between digital use and adolescent wellbeing is small — comparable to many ordinary everyday factors. One side reads that as reassuring: the causal case is unproven. The other reads it as understating real harm, because a small average can hide wide variation — minimal impact for many users, meaningful harm for some, even benefit for others. Both readings are defensible from the same number, which is why the field has not settled."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The late-night doomscroll",
+      "body": "Someone notices that scrolling in bed leaves them feeling worse and sleeping less. That experience is real and salient — but on its own it does not settle whether phones cause population-level harm, or whether an already-restless night pulls them toward heavier use. What both camps would agree on is the narrower point: the phone is displacing sleep, and protecting sleep is reasonable regardless of how the broader debate resolves."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A small average can hide real variation — minimal effect for many users, meaningful harm for some, even benefit for others.",
+      "source": "On reading small effect sizes"
+    },
+    {
+      "text": "The honest position is that the causal question is genuinely unresolved.",
+      "source": "On treating the question as settled"
+    }
+  ],
   "faqs": [
     {
       "question": "So do phones cause anxiety and depression or not?",

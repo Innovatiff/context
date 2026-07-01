@@ -40,6 +40,41 @@
     { "value": "Rated more hyper", "label": "How children were judged when parents were (falsely) told they'd had sugar", "source": "Expectancy studies on parent ratings" },
     { "value": "Real but modest", "label": "Typical post-refined-carb 'crash' for most people", "source": "Reactive blood-sugar response research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Controlled trials have largely failed to find that sugar makes children hyperactive.",
+    "When parents were told a child had sugar, they rated the child as more hyper — even with no sugar given.",
+    "The 'sugar high' is mostly the exciting settings sweets show up in, plus expectation.",
+    "Post-sugar 'crashes' are real for some people but tend to be modest, not dramatic.",
+    "Educational context only — see a qualified clinician for anything persistent."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The birthday party, not the cake",
+      "body": "A child is bouncing off the walls after a party, and the frosting gets the blame. But the party itself — unstructured, exciting, off the normal routine, often past bedtime — is doing most of the work. Sweets simply happen to show up exactly when the setting is already primed for excitement, so the sugar takes the credit the situation earned."
+    },
+    {
+      "label": "The trap",
+      "title": "The expectation you can't see",
+      "body": "Once you believe sugar winds kids up, you watch more closely after sweets and read ordinary boisterousness as proof. In the expectancy studies, parents told (falsely) that their child had eaten sugar rated that child as more hyperactive — and intervened more — with no sugar involved. The calm moments after dessert rarely register; the loud ones feel like confirmation."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Blaming lunch for the 3pm slump",
+      "body": "An afternoon dip in focus gets pinned on the dessert at lunch, so the fix becomes cutting sugar. But early-to-mid-afternoon alertness dips as part of normal circadian rhythm, amplified by a short night's sleep, dehydration, or boredom. The dessert is the memorable suspect when several plausible causes line up — which can send you chasing the wrong fix."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is easy to read the excitement of the event as the chemistry of the cake. The setting, not the sugar, is doing much of the work.",
+      "source": "On why the 'sugar high' feels real"
+    },
+    {
+      "text": "The belief alone changed what adults perceived and reported — a textbook case of expectancy manufacturing an effect the food never produced.",
+      "source": "On the expectancy studies"
+    }
+  ],
   "faqs": [
     {
       "question": "Does sugar actually make children hyperactive?",

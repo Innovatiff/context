@@ -39,6 +39,41 @@
     { "value": "Emotion, not time", "label": "How current research reframes the root of procrastination", "source": "Sirois & Pychyl" },
     { "value": "~20%", "label": "Adults who describe themselves as chronic procrastinators (approximate)", "source": "Procrastination survey research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Avoiding important work is a predictable pattern, not a character defect or simple laziness.",
+    "The mere urgency effect means we often pick the urgent task even when a less urgent one pays off more.",
+    "Procrastination is increasingly understood as short-term mood repair, not a time-management failure.",
+    "Important work is ambiguous and high-stakes, which is exactly what stirs the discomfort we flee.",
+    "The most consistent lever is shrinking the first step and defending time for important work — not more willpower."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A productive-feeling day, the real task untouched",
+      "body": "You clear the inbox, answer messages, tick off small items — a steady drip of completion that looks, even to you, like a productive day. Meanwhile the one task that actually matters sits untouched, because it produces nothing you can point to until much later. Urgency won by default, exactly as the research predicts."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The proposal with no obvious first step",
+      "body": "Writing the proposal, having the hard conversation, planning the next phase — important work is open-ended, has no clear first move and no clean finish line. That ambiguity is itself uncomfortable, and the easiest way to resolve discomfort is to switch to something better defined. The fix is to shrink the first contact to a single concrete action so there's less to flinch from."
+    },
+    {
+      "label": "The ego angle",
+      "title": "The work you most fear doing badly",
+      "body": "The task that matters most is usually the one you most fear falling short on, because more of your sense of yourself is bound up in it. Staying busy with urgent tasks is a way of never putting that to the test — which is why the avoidance can feel less like a choice and more like a quiet, automatic swerve."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Urgency announces itself loudly while importance usually does not.",
+      "source": "On the urgent–important trap"
+    },
+    {
+      "text": "Waiting to feel ready, motivated, or unafraid is the avoidance in a more flattering costume.",
+      "source": "On waiting for motivation"
+    }
+  ],
   "faqs": [
     {
       "question": "Is avoiding important work just laziness?",

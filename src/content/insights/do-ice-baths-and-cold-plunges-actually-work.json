@@ -41,6 +41,36 @@
     { "value": "Lower risk", "label": "Cardiovascular and mortality risk associated with frequent sauna use", "source": "Laukkanen et al., Finnish sauna cohort studies" },
     { "value": "Observational", "label": "Nature of the sauna evidence — association, not proof of cause", "source": "Prospective cohort design" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Cold plunges' better-supported effects are short-term and subjective: mood, alertness, and perceived soreness.",
+    "Big lasting metabolic, immune, and longevity claims for cold immersion are early and not established.",
+    "Cold immersion right after strength training may blunt some muscle and strength gains — so timing matters.",
+    "Sauna has stronger, though still observational, support: frequent use is associated with lower cardiovascular and mortality risk.",
+    "How intense a practice feels is a poor guide to how well it is actually supported."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The plunge right after leg day",
+      "body": "Someone lifting to build muscle finishes a hard session and jumps straight into an ice bath for the soreness relief. That relief is real, but the timing is exactly where the evidence flags a trade-off: cold immersion immediately after strength training may blunt some of the muscle and strength adaptations that session was meant to produce. If building muscle is the goal, the cautious move is to separate the plunge from lifting — saving it for a non-lifting day or well after the session."
+    },
+    {
+      "label": "Illustrative",
+      "title": "\"It felt incredible, so it must be working\"",
+      "body": "The cold shock triggers a sharp adrenaline-and-alertness response, so stepping out of the plunge feels transformative. It is easy to read that vivid jolt as proof of deep physiological benefit. But much of what you feel is a short-term arousal response, not evidence of lasting health change — which is why the plunge can feel amazing while the strong long-term claims remain unproven."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Cold plunges are trendy with modest, early evidence and a training caveat; sauna has better, though still observational, support.",
+      "source": "The honest summary"
+    },
+    {
+      "text": "How impressive a practice feels is a poor guide to how well it is actually supported.",
+      "source": "On mistaking intensity for benefit"
+    }
+  ],
   "faqs": [
     {
       "question": "Do ice baths and cold plunges actually have health benefits?",

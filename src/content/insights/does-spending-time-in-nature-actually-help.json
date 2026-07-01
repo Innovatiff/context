@@ -41,6 +41,65 @@
     { "value": "Split doesn't matter", "label": "One long visit or several short ones showed similar benefit", "source": "White et al., 2019" },
     { "value": "Mostly correlational", "label": "Nature of much of the supporting evidence", "source": "White et al., 2019; Kaplan; forest-bathing research" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "People who spend at least around 120 minutes — about two hours — a week in nature tend to report better health and wellbeing than those who spend none.",
+    "The benefit appeared to peak around 200 to 300 minutes a week and then level off — more is not endlessly better.",
+    "How the time is split doesn't seem to matter: one long visit or several short ones showed similar benefit, as long as the weekly total was reached.",
+    "It doesn't require wilderness — local parks, gardens and tree-lined streets all feature in the studies.",
+    "Most of the evidence is correlational and short-term. Promising and low-cost, not a cure. Educational only, not medical advice."
+  ],
+  "tables": [
+    {
+      "title": "Weekly nature time and the association with wellbeing",
+      "caption": "From a large survey by White and colleagues (2019). These are associations across a big sample, not guaranteed personal outcomes, and the weekly total mattered more than how it was divided.",
+      "columns": ["Weekly nature time", "Association with health & wellbeing"],
+      "rows": [
+        ["None", "Reference — lowest reported"],
+        ["Under ~120 min", "Weak / not reliably better than none"],
+        ["~120 min (about 2 hours)", "Threshold where the benefit becomes noticeable"],
+        ["~200–300 min", "Where the benefit appeared to peak"],
+        ["Beyond ~300 min", "Levels off — gains taper rather than climb"]
+      ],
+      "highlightColumn": 0,
+      "source": "White et al., Scientific Reports, 2019"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Where the nature-time benefit rises and plateaus",
+      "caption": "The weekly minutes from White et al. (2019) as a scale: the link becomes reliable around 120 minutes and peaks somewhere around 200–300 before flattening. The bars show the minute thresholds, not the size of the wellbeing effect.",
+      "unit": "minutes per week",
+      "source": "White et al., Scientific Reports, 2019",
+      "bars": [
+        { "label": "Threshold (benefit noticeable)", "value": 120, "display": "~120 min" },
+        { "label": "Peak (lower end)", "value": 200, "display": "~200 min" },
+        { "label": "Peak (upper end)", "value": 300, "display": "~300 min", "highlight": true }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two hours, assembled in scraps",
+      "body": "A busy week rarely contains a single obvious nature block, so it is easy to assume you get almost none. But because the split doesn't matter, a short daily walk in a local park plus one longer weekend outing can reach the roughly two-hour weekly total the data associates with better wellbeing — no wilderness required."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Saving it all for the big trip",
+      "body": "Spending ordinary weeks with almost no green time and banking on one dramatic escape misses the point of the finding. The study is about a regular weekly total, not a rare grand trip; the threshold matters more than the spectacle."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Promising and low-cost — not a cure. A useful, accessible contributor to wellbeing, not a treatment for any specific condition.",
+      "source": "On how to read the evidence"
+    },
+    {
+      "text": "More was not endlessly better — the benefit appeared to peak around 200 to 300 minutes a week and then level off.",
+      "source": "On diminishing returns"
+    }
+  ],
   "faqs": [
     {
       "question": "How much time in nature do I actually need?",

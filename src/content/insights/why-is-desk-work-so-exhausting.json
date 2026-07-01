@@ -40,6 +40,35 @@
     { "value": "Adds to fatigue", "label": "Emotional labor — managing feelings and self-presentation at work", "source": "Hochschild, emotional labor" },
     { "value": "Contested", "label": "The 'ego depletion' resource model behind decision fatigue", "source": "Baumeister; replication debate" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Mental work is genuinely tiring even without physical exertion — 'but you just sat there' is the wrong frame.",
+    "A desk day stacks several drains: sustained thinking, decision-making, emotional labour, and constant interruptions.",
+    "Context-switching is one of the most underrated costs — refocusing after each interruption takes real time and effort.",
+    "The exact mechanism is contested (the 'ego depletion' model didn't replicate cleanly), but the fatigue itself is well documented."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The fatigue that leaves no visible trace",
+      "body": "A day of manual labour shows up in sore muscles. The cost of forty decisions, two hours of holding your tone steady in hard conversations, and a hundred small interruptions leaves nothing you can point to. Because the effort is invisible, it's easy to discount — including to yourself — which is why the exhaustion can feel unearned even when it's real."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The fragmented day that feels light but lands heavy",
+      "body": "Someone spends the day switching between tabs, messages, and meetings and calls it normal multitasking. But each switch carries a refocusing cost, so a fragmented day of constant pings can be more draining than the same hours of uninterrupted work. The mismatch between how light the day looks and how heavy it feels is exactly the puzzle."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You're comparing how light the day looks to how heavy it feels — and the gap is the whole puzzle.",
+      "source": "On invisible cognitive cost"
+    },
+    {
+      "text": "The depleted feeling after a demanding day is better documented than any single explanation for it.",
+      "source": "On the ego-depletion debate"
+    }
+  ],
   "faqs": [
     {
       "question": "Why am I exhausted after a day at a desk when I barely moved?",

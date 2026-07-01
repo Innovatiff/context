@@ -40,6 +40,35 @@
     { "value": "Varies widely", "label": "Lifetime earnings return, by field of study", "source": "Georgetown Center on Education and the Workforce" },
     { "value": "Worst case", "label": "Taking on debt and leaving without a degree", "source": "Completion research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "On average a degree still pays — higher lifetime earnings and lower unemployment — but the average hides enormous spread.",
+    "Field of study, cost, and whether you finish move the real answer far more than the headline average.",
+    "Completion is decisive: taking on debt and leaving without a credential is the worst-documented outcome.",
+    "The gross earnings premium has persisted, but rising tuition and debt have narrowed the net margin for some.",
+    "Treat cost as part of the value — the same degree funded with less debt simply returns more."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two people, the same degree",
+      "body": "The same credential can be a clear win for one person and a poor financial trade for another. An affordable programme finished on time in a field with solid earnings tends to make the math work; an expensive one funded largely by debt, or left unfinished, is a very different proposition. The variable isn't 'college' in the abstract — it's major, cost, and completion."
+    },
+    {
+      "label": "The worst case",
+      "title": "Debt without the degree",
+      "body": "Someone who starts college, takes on loans, and then leaves without a credential lands in one of the worst financial outcomes in the data: they carry the cost without the earnings premium. It doesn't mean don't go — it means weighting affordability, support, and likelihood of completing heavily before borrowing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The first job of the 'is college worth it' debate is to stop treating it as a single yes-or-no bet — the answer hinges on major, cost, and completion.",
+      "source": "On reading the earnings data"
+    },
+    {
+      "text": "'The average graduate earns more' is true but only loosely predictive for any individual."
+    }
+  ],
   "faqs": [
     {
       "question": "Is college still worth the money?",

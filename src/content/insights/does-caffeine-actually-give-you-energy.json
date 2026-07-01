@@ -42,6 +42,36 @@
     { "value": "Hours before bed", "label": "Caffeine can disrupt sleep even when taken well before bedtime", "source": "Research on caffeine timing and sleep (e.g., Drake et al.)" },
     { "value": "Debt remains", "label": "Underlying sleep pressure is deferred, not cleared, by caffeine", "source": "Sleep and adenosine research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Caffeine does not add fuel — it blocks the brain's adenosine 'tiredness' signal, masking fatigue rather than resolving it.",
+    "The underlying tiredness, including any sleep debt, is deferred, not cleared, so it tends to return as caffeine wears off.",
+    "Tolerance builds: regular users get less lift, and for them a cup often mostly wards off mild withdrawal.",
+    "Caffeine even several hours before bed can disrupt sleep, feeding the next day's fatigue.",
+    "It is genuinely useful for short-term alertness — but not a substitute for rest."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The afternoon coffee that costs a night",
+      "body": "Someone hits a mid-afternoon slump and reaches for coffee to push through. It works in the moment, but caffeine can disrupt sleep even hours before bed, so that night's rest erodes and the next day starts more tired. The grogginess gets blamed on a bad night rather than the coffee — so they reach for more, closing a self-defeating loop."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why the first cup feels like less than it used to",
+      "body": "A daily drinker notices that their morning coffee no longer delivers the lift it once did. With regular use the brain adapts, so that first cup often mostly returns them to baseline by warding off mild withdrawal — closer to a restoration than a boost. The dramatic version of the effect is most pronounced in occasional users or after a break."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is closer to silencing a low-fuel warning light than to refilling the tank.",
+      "source": "On what caffeine actually does"
+    },
+    {
+      "text": "Caffeine masks fatigue rather than removing the sleep debt underneath.",
+      "source": "On why the tiredness returns"
+    }
+  ],
   "faqs": [
     {
       "question": "Does caffeine give you energy or not?",

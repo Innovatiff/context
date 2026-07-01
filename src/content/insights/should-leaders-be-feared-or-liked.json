@@ -39,6 +39,36 @@
     { "value": "Top predictor", "label": "Psychological safety in research on effective teams", "source": "Edmondson; Google's team study" },
     { "value": "Compliance only", "label": "What fear reliably buys, per the research — not candor or trust", "source": "Organisational psychology" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The more useful contrast is respected versus merely obeyed, not feared versus liked.",
+    "In the warmth-competence model, warmth — trustworthiness and intent — is typically judged first and weighted heavily.",
+    "Fear reliably buys short-term compliance but erodes trust, candor, and psychological safety.",
+    "Psychological safety is linked to team learning and performance, and featured in Google's team study.",
+    "Warmth and competence are separate axes — a leader can be both genuinely warm and genuinely demanding."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The team that hits the deadline but hides the problem",
+      "body": "A fear-driven leader gets fast, visible results: the frightened team moves quickly and does not push back. The costs are slow and invisible — the problem nobody flagged, the mistake nobody admitted until it was expensive, the talented person who quietly disengaged. Fear teaches people to stay quiet and tell the leader what they want to hear, which is precisely the information environment in which teams underperform."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Warm and demanding at once",
+      "body": "A leader plainly has their team's back and plainly expects a lot. Because warmth and competence are separate dimensions rather than ends of one line, this is not a contradiction — it is the combination people respect most. Warmth without competence reads as nice but ineffective; competence without warmth reads as capable but cold. Establishing genuine good intent first is what lets the demands land as standards rather than threat."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Fear can get people to do what they are told, but it tends to cost you the honesty and trust you most need from them.",
+      "source": "On the limits of fear"
+    },
+    {
+      "text": "Being liked and being respected are not the trade-off they are often assumed to be.",
+      "source": "On warmth versus toughness"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it better for a leader to be feared or liked?",

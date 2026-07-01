@@ -39,6 +39,36 @@
     { "value": "Often weaker", "label": "Post-promotion managerial performance of the best individual performers", "source": "Benson, Li & Shue, 2019" },
     { "value": "Dual ladder", "label": "Parallel track letting senior ICs advance without managing", "source": "Career-structure research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Management is a different job, not a higher rank of the job you already do well.",
+    "In the Peter Principle study, the best salespeople were most likely to be promoted — and often made weaker managers.",
+    "Dual-career ladders let senior specialists advance in pay and seniority without managing people.",
+    "Separate 'do I want more responsibility and pay?' from 'do I want to manage people?' — they are different questions.",
+    "Not wanting to manage is a fit question about the content of your work, not a character or ambition question."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The top performer offered a management role",
+      "body": "An excellent salesperson is offered the manager job as the reward for strong numbers. But the Benson, Li and Shue study found exactly this pattern predicts trouble: sales ability predicted promotion, not managerial success, and the very best individual performers tended to make somewhat weaker managers. The skill that earned the offer is not the skill the new job requires — coaching, delegation, hiring, and conflict handling are different muscles from the craft itself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Wanting to grow without managing",
+      "body": "Someone wants more responsibility, pay, and challenge but has no wish to run meetings, handle performance conversations, or manage people. Where a dual-career ladder exists, that combination has a home: senior individual contributors can reach compensation and seniority comparable to managers. The concrete ask is deeper technical ownership, mentoring without formal authority, or leading projects rather than people."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Management is a different job, not a higher rank of the job you already do well.",
+      "source": "On the promotion ladder"
+    },
+    {
+      "text": "Choosing the role that fits your strengths is often the more effective and ambitious choice.",
+      "source": "On mismatched promotions"
+    }
+  ],
   "faqs": [
     {
       "question": "Is not wanting to be a manager a sign I lack ambition?",

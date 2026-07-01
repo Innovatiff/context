@@ -39,6 +39,41 @@
     { "value": "Status-quo bias", "label": "Documented tendency to prefer leaving arrangements as they are", "source": "Samuelson & Zeckhauser (1988)" },
     { "value": "Job lock", "label": "Well-documented effect of benefits, especially U.S. health insurance, on staying put", "source": "Research on benefits-linked job mobility" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Staying in a disliked job is usually a rational response to real constraints, not a lack of nerve.",
+    "Money and benefits — especially U.S. health insurance 'job lock' — raise the real cost of leaving.",
+    "Status-quo bias, loss aversion and sunk-cost thinking all tilt the decision toward staying.",
+    "The same forces that keep people in unhappy relationships keep them in unhappy jobs.",
+    "The research-informed move is making the alternative concrete, not simply 'being braver.'"
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The certain loss versus the uncertain gain",
+      "body": "Leaving means giving up income, security and familiar routines — losses that are certain and easy to picture. What replaces them is uncertain. Loss aversion makes the guaranteed losses loom larger than the possible gains, so even someone who actively dislikes their work often finds the maths of leaving feels worse than it is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I've already put eight years in'",
+      "body": "Sunk-cost thinking treats those years as something that would be wasted by leaving — even though they are already spent and cannot be recovered either way. A cleaner question is what you would choose today if the past years were not a factor, because they should not weigh on a forward-looking decision."
+    },
+    {
+      "label": "The parallel",
+      "title": "Better the devil you know",
+      "body": "The same combination of sunk cost, loss aversion and status-quo bias that keeps people in relationships that aren't working operates almost identically with an employer. 'What if the next one is worse?' and 'better the devil I know' are the job-market versions of the same reasoning."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Staying often looks less like a failure of nerve and more like a reasonable response to genuine constraints.",
+      "source": "On why people stay"
+    },
+    {
+      "text": "'Just leave' assumes options and a safety net that many people do not have.",
+      "source": "On the view from the inside"
+    }
+  ],
   "faqs": [
     {
       "question": "Is staying in a job I hate a sign of weakness?",

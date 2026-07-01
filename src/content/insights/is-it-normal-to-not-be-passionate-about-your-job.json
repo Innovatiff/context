@@ -39,6 +39,36 @@
     { "value": "Majority", "label": "Workers who are 'not engaged' — the lukewarm middle", "source": "Gallup, State of the Global Workplace (2023)" },
     { "value": "Follows, not precedes", "label": "How passion tends to relate to skill and autonomy", "source": "Newport, 'So Good They Can't Ignore You'" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Only about a fifth of workers worldwide feel actively engaged — the lukewarm middle is the majority experience.",
+    "The 'follow your passion' premise is shakier than its popularity suggests; passion is rarely ready-made.",
+    "The research pattern points to passion following skill, autonomy, and competence rather than arriving first.",
+    "Job crafting lets you build engagement inside your current role without changing jobs.",
+    "A flat feeling is weak evidence about your specific fit, so quitting on that signal alone often backfires."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The job that's 'fine' but not thrilling",
+      "body": "Feeling lukewarm about work can read as quiet failure when the cultural script says the right job should feel like a calling. But with only around a fifth of workers actively engaged and most in the 'not engaged' middle, finding your job fine-but-not-thrilling places you with most people, not outside them. The useful move is rarely to search for a hidden passion — it is to build competence and reshape the role you already have."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The excitement that wore off",
+      "body": "A new role feels energising for a few months, then settles into routine and the early spark fades — even though nothing actually went wrong. That cooling is a normal adaptation as a job becomes familiar, not evidence the job was a mistake. Because the script promises a passion that lasts, the ordinary fading of novelty can feel like a problem when it usually is not."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Not feeling a burning passion for your job places you with most people, not outside them.",
+      "source": "On the majority experience"
+    },
+    {
+      "text": "Passion more often grows out of getting good at something than it precedes it.",
+      "source": "On the passion hypothesis"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to not love my job?",

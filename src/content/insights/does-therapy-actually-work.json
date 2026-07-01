@@ -42,6 +42,36 @@
     { "value": "Top predictor", "label": "Therapeutic alliance as a consistent correlate of success", "source": "Research associated with Wampold and others" },
     { "value": "988", "label": "US Suicide and Crisis Lifeline — call or text if you are in crisis", "source": "988 Suicide & Crisis Lifeline (US)" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "On average, the treated person ends up better off than roughly 75–80% of comparable untreated people (Smith & Glass, 1977).",
+    "Different bona fide therapies tend to produce broadly similar outcomes — the 'dodo bird verdict.'",
+    "The therapeutic alliance — feeling understood — is one of the most consistent predictors of success.",
+    "'Works on average' isn't 'works for everyone'; fit, problem, and persistence all matter.",
+    "Educational only — see a licensed clinician; in a US crisis, call or text 988."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'It didn't work for me' and 'the research says it works' — both true",
+      "body": "A strong average can coexist with a real minority who improve little, so 'the evidence backs therapy' and 'it didn't seem to work for me' are not actually a contradiction. Progress is also usually slow, uneven, and hard to feel from the inside, which can make a genuine improvement look like nothing is happening while you are living it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "One bad match isn't a verdict on therapy",
+      "body": "Because fit varies so much between people and therapists, a poor early experience says little about whether a different pairing would help. The data suggests the more accurate reading is often that the approach or the particular therapist wasn't the right match — a different problem, with a different solution, than giving up on the whole idea. A good clinician won't take it personally if you try someone else."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling understood, respected, and able to be honest with a therapist is not a luxury on top of the 'real' treatment — across studies it is part of the active ingredient.",
+      "source": "On the therapeutic alliance"
+    },
+    {
+      "text": "Averages describe groups, not people. 'The research says it works' and 'it didn't seem to work for me' can both be true.",
+      "source": "On reading the evidence"
+    }
+  ],
   "faqs": [
     {
       "question": "Is therapy actually backed by science?",

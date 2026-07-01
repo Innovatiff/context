@@ -40,6 +40,36 @@
     { "value": "Little evidence", "label": "Benefit over active controls for mood, attention, sleep, substance use, weight", "source": "Goyal et al., JAMA Internal Medicine 2014" },
     { "value": "A minority", "label": "Of practitioners report adverse or distressing effects", "source": "Research on meditation-related adverse effects" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Rigorous trials find small-to-moderate benefits for anxiety, depression and pain that hold up against other active treatments.",
+    "For mood, attention, sleep, substance use and weight, the careful evidence of benefit over active controls is weak or absent.",
+    "Effect sizes are roughly comparable to other established treatments — worthwhile, but a long way from 'cure' or radical change.",
+    "Structured, taught programs (like MBSR and MBCT) have the most trial support, more than casual app use.",
+    "Meditation is not for everyone: a minority report adverse effects, more often with intensive practice. Educational only, not medical advice."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Trying it for sleep, then feeling let down",
+      "body": "Someone who takes up meditation expecting it to fix their sleep can conclude it 'failed' — but on sleep, the careful research never showed a clear benefit over other active approaches in the first place. The disappointment comes from aiming it at an outcome the evidence does not support, not from doing it wrong."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A modest, real help for anxiety",
+      "body": "For persistent anxiety, a structured mindfulness program used as one tool among several — alongside, not instead of, professional care — fits the data: expect modest help, roughly in the range other active treatments achieve. Starting gently and stopping if it consistently makes you feel worse is reasonable, since a minority report adverse effects."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Meaningfully helpful for a specific set of problems, oversold for the rest.",
+      "source": "On the honest summary"
+    },
+    {
+      "text": "Feeling calmer after a session is real — but it is not the same as the lasting, measurable change rigorous trials try to detect.",
+      "source": "On why it feels bigger than the data"
+    }
+  ],
   "faqs": [
     {
       "question": "So does meditation actually work or not?",

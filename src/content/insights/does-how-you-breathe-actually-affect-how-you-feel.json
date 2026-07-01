@@ -40,6 +40,36 @@
     { "value": "The exhale", "label": "Phase most linked to calming parasympathetic engagement", "source": "Autonomic / vagal research" },
     { "value": "In-the-moment", "label": "Where the evidence is strongest — short-term regulation, not a cure", "source": "Research on breathing and acute stress" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Breathing is one of the few voluntary levers on the autonomic nervous system that governs stress and calm.",
+    "Slow, paced breathing — roughly five to six breaths per minute — tends to raise calming parasympathetic activity and heart-rate variability.",
+    "The exhale does much of the work: lengthening the out-breath is most consistently linked to feeling calmer.",
+    "The effect is real but modest and short-term — useful for in-the-moment regulation, not a cure for clinical anxiety.",
+    "This is educational information only, not medical advice; for persistent anxiety, see a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Slowing down before a stressful moment",
+      "body": "Before a difficult conversation, breathing in for a few seconds and out for a little longer — aiming for roughly five to six breaths a minute — fits the evidence well: it can take the edge off the acute spike. The point is a small, momentary shift toward calm, not making the worry disappear."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Expecting too much, then dismissing it",
+      "body": "Someone hoping slow breathing will dissolve a serious, ongoing worry can feel it 'did nothing' — because the genuine effect is a modest, in-the-moment easing, not a resolution. Matched against what the research actually claims, that same quiet effect reads as a success rather than a failure."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "How you breathe feeds back into the system that sets your stress level — which is what makes it unusual among self-help tools.",
+      "source": "On the autonomic mechanism"
+    },
+    {
+      "text": "A useful, low-risk tool that takes the edge off — not a standalone fix.",
+      "source": "On setting expectations"
+    }
+  ],
   "faqs": [
     {
       "question": "Does slow breathing actually calm you down, or is it placebo?",

@@ -40,6 +40,59 @@
     { "value": "~50%", "label": "New U.S. businesses still operating after five years", "source": "U.S. Bureau of Labor Statistics" },
     { "value": "~20%", "label": "New U.S. businesses that fail within the first year", "source": "U.S. Bureau of Labor Statistics" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The self-employed consistently report higher job satisfaction than comparable employees — driven mainly by autonomy.",
+    "That satisfaction premium holds even though the self-employed often earn less and work longer hours.",
+    "The gain is concentrated in autonomy and meaning; the cost is concentrated in security and stress.",
+    "Roughly a fifth of new U.S. businesses fail in the first year and only about half survive to five years.",
+    "It's not universally better — it's a different bundle of trade-offs: better on autonomy, worse on stability."
+  ],
+  "tables": [
+    {
+      "title": "How new U.S. businesses fare over time",
+      "caption": "Survival is high early and thins out steadily — the visible success stories don't reflect the businesses that quietly closed.",
+      "columns": ["Milestone", "Rough share of new businesses"],
+      "rows": [
+        ["Fail within the first year", "≈ 20%"],
+        ["Still operating after five years", "≈ 50%"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Bureau of Labor Statistics, Business Employment Dynamics"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "New U.S. business survival",
+      "caption": "The same figures as bars: about a fifth close in the first year, and only around half are still going at five years.",
+      "source": "U.S. Bureau of Labor Statistics, Business Employment Dynamics",
+      "bars": [
+        { "label": "Fail within first year", "value": 20, "display": "≈20%" },
+        { "label": "Survive to five years", "value": 50, "display": "≈50%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The trade-off",
+      "title": "Loving the work, dreading the slow months",
+      "body": "Higher job satisfaction doesn't erase the strain of income volatility. People can genuinely love the autonomy — being their own boss, doing work that feels meaningful — and still find the insecurity hard to live with. The research documents both at once: the satisfaction premium and the elevated stress."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Earning less, still more satisfied",
+      "body": "The striking part of the finding is that the satisfaction gap holds even when the self-employed earn less on average and work longer hours than comparable employees. The wellbeing benefit comes from control and meaning, not from the work being easier or more lucrative."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The autonomy is the upside; the buffer is what makes the downside survivable.",
+      "source": "On making self-employment sustainable"
+    },
+    {
+      "text": "It's not better across the board — it's a different bundle of trade-offs: better on autonomy and meaning, worse on security and stability."
+    }
+  ],
   "faqs": [
     {
       "question": "Are self-employed people actually happier with their work?",

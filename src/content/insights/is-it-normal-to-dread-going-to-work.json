@@ -39,6 +39,32 @@
     { "value": "Higher", "label": "Reported mood on weekends vs. workdays (day-of-week research)", "source": "Stone et al., day-of-week wellbeing research" },
     { "value": "A majority", "label": "Workers who report some form of 'Sunday scaries' (approximate, varies by survey)", "source": "Survey data on Sunday-evening anxiety" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Anticipatory work dread, including the 'Sunday scaries,' is very widely reported — close to normal, not a warning sign.",
+    "Mood research finds a real, consistent lift on weekends versus workdays.",
+    "Anticipation often runs hotter than reality: Sunday evening usually feels worse than the actual workday.",
+    "Only around 21% of workers worldwide feel actively engaged, so some Monday reluctance is the statistical middle.",
+    "Heavy, daily dread that has not lifted over months is the version worth taking more seriously."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The ordinary Sunday-evening version",
+      "body": "Anxiety builds on Sunday night, then eases once the week is actually underway. This is the common pattern and usually does not signal a problem — the contrast between an autonomous weekend and a scheduled Monday produces anticipatory anxiety regardless of how good the job is. Protecting genuine recovery time tends to help more than cramming the weekend full."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The version worth examining",
+      "body": "Dread that is heavy most days, does not lift after you start working, and has persisted for months is different. It can reflect a genuine role mismatch, or overlap with anxiety or depression that a qualified clinician is far better placed to assess than any article. Here the honest response is to treat it as information — to look more closely at the job, your health, or both — rather than to talk yourself out of it. This page is educational context, not medical advice."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If Monday feels heavier than Saturday, you are describing the same curve most people live on, not a personal defect.",
+      "source": "On the weekend effect"
+    }
+  ],
   "faqs": [
     {
       "question": "Is dreading work a sign I should quit my job?",
