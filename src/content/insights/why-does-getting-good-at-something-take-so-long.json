@@ -39,6 +39,41 @@
     { "value": "Quality > hours", "label": "What deliberate-practice research emphasises over raw time", "source": "Ericsson, deliberate practice" },
     { "value": "Often misread", "label": "Status of the popular '10,000-hour rule'", "source": "Ericsson et al., 1993" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Skill rises fast at first and then much more slowly — the long, flat middle is the normal shape of getting good.",
+    "Plateaus usually mean comfortable practice has stopped working, not that you've hit your ceiling.",
+    "Deliberate practice — targeted, effortful work on weaknesses with feedback — drives improvement more than raw hours.",
+    "The '10,000-hour rule' is widely misread: the original research emphasised the quality and structure of practice, not a fixed number.",
+    "Because results lag effort, tracking inputs and small sub-skills gives a truer read of progress than the headline result."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The fast start that sets a false baseline",
+      "body": "Your first weeks are full of obvious, satisfying progress as the basics become automatic. That early curve quietly teaches you to expect improvement to keep feeling that fast. When the long, flat stretch arrives, it reads as failure rather than the normal next stage — even though that flat-feeling stretch is usually where the slow, real improvement is happening."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Practising harder, scoreboard not moving",
+      "body": "You're putting in the hours, maybe more than before, but measured performance has flattened — the dip. The natural conclusion is that you've reached your limit. More often you've reached the point where comfortable repetition has been exhausted, and a harder kind of practice is needed: raise the difficulty, target a specific weakness, or get outside feedback."
+    },
+    {
+      "label": "The distortion",
+      "title": "You only saw the finished version",
+      "body": "You mostly encounter other people's finished competence, never the years of unglamorous practice behind it. With the slow process hidden, your own progress feels uniquely sluggish by comparison with results you never watched being built."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The plateaus and the grind are not a malfunction; they are the normal middle of the process.",
+      "source": "On the shape of the learning curve"
+    },
+    {
+      "text": "The effective kind of practice is precisely the kind that is hard to do for hours — which is part of why real improvement is slow.",
+      "source": "On deliberate practice"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel like I've stopped improving?",

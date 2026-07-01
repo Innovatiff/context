@@ -39,6 +39,36 @@
     { "value": "Quality > type", "label": "What most strongly predicts outcomes, the care's quality over its location", "source": "NICHD SECCYD" },
     { "value": "Small", "label": "Size of any negative association found with more hours of care", "source": "NICHD SECCYD" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The large long-term research does not find that daycare, by itself, harms young children's attachment or development.",
+    "Quality of care — responsive caregivers, low ratios, stable staffing — predicts outcomes more than whether care is at home or in a center.",
+    "Any negative associations found (like a small uptick in reported behavior problems with more hours) are modest and inconsistent across measures.",
+    "The family — warmth, stability, responsiveness at home — remains the stronger influence on how a child fares.",
+    "Drop-off distress is common and short-lived; persistent, escalating distress over weeks is what's worth raising with a provider or pediatrician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Full-time center care and a tearful drop-off",
+      "body": "A toddler in full-time center care who cries at every goodbye can make a parent feel they are doing harm. But drop-off distress is common, usually short-lived, and a poor predictor of how a child fares over years. What the research keeps pointing to is the quality of the setting — warm, responsive caregivers and stable staffing — and the warmth waiting at home, not the hours logged or the tears at the door."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two centers, same hours, different quality",
+      "body": "Two children spend identical hours in care, but one is in a setting with low child-to-adult ratios, consistent caregivers, and a stimulating environment, while the other cycles through new faces in an under-resourced room. On the research, that quality gap matters more than the hour count both children share — which is why 'care versus no care' is the wrong question and 'is this care good' is the useful one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The quality of the care a child receives matters far more than whether that care happens at home or in a center.",
+      "source": "On the central finding"
+    },
+    {
+      "text": "Daycare is one input among several, and not usually the decisive one.",
+      "source": "On the family as the larger factor"
+    }
+  ],
   "faqs": [
     {
       "question": "Does daycare harm a child's attachment to their parents?",

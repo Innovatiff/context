@@ -34,6 +34,36 @@
     "There isn't a clean number for \"how much smarter or dumber\" the internet makes us, and you should distrust anyone who supplies one — this is a question about the structure of memory, not a single measurable IQ shift. What the experimental work does suggest is a directional pattern: when people expect information to stay accessible, they remember it less and remember its location more (Sparrow et al., 2011). That's a reallocation of what's retained, not a verdict on intelligence.",
     "The useful framing is access versus retention. On access, the gain is enormous and uncontroversial — vastly more information reachable in seconds than any prior generation had. On retention, the evidence points to more offloading and some cost to what we carry internally, alongside the well-established benefit that offloading frees limited working memory. The net effect depends on which capacity you're measuring, which is exactly why \"smarter or dumber\" is the wrong question."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The internet shifts how memory is distributed rather than simply raising or lowering intelligence.",
+    "The 'Google effect': expecting to look things up later means remembering the information less and its location more.",
+    "Offloading is ancient and often useful — it frees limited working memory — but offloaded information is less retained internally.",
+    "Easy access inflates how much people think they know, blurring 'knowing' with 'being able to find out'.",
+    "The real question is access versus retention, not a single verdict on smarter or dumber."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Remembering the path, not the fact",
+      "body": "In the Sparrow, Liu, and Wegner experiments, people who expected to be able to look information up later remembered the information itself less well but remembered where to find it better. The brain treated the computer as an external store and prioritised the route to the facts over the facts themselves — a reallocation, not stupidity."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling like you know more than you do",
+      "body": "When a topic is always a search away, the boundary between what's in your head and what's on your screen blurs, and people routinely overestimate their own knowledge. The web can inflate your sense of understanding precisely because looking things up is so frictionless — until the connection drops or the source disappears and you reach for a fact that isn't there."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "That's not stupidity; it's a reallocation — but it's a reallocation with tradeoffs.",
+      "source": "On the Google effect"
+    },
+    {
+      "text": "You cannot reason well, spot errors, or ask good questions about a topic you carry none of in your own head.",
+      "source": "On why access isn't understanding"
+    }
+  ],
   "faqs": [
     {
       "question": "Does the internet make us smarter or dumber?",

@@ -34,6 +34,36 @@
     "Attachment research deals in patterns and probabilities, not clean percentages, and the field is careful about this. The headline finding — that sensitive caregiving relates to secure attachment — is well replicated, but the strength of the link from infant attachment to adult attachment is generally described as modest, with substantial change over time documented in long-running studies.",
     "Population estimates of adult attachment categories vary by sample and measure; many studies place a majority of adults in the secure range, with the rest distributed across insecure patterns, but these figures are sensitive to how attachment is measured. The most defensible takeaway is qualitative: childhood matters, it is not destiny, and \"earned security\" is a real and documented path."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Early caregiving relates to attachment patterns, but the link is moderate rather than deterministic.",
+    "Longitudinal studies find real continuity and plenty of discontinuity — many insecure infants become secure adults, and the reverse.",
+    "Childhood attachment to a specific caregiver and adult 'attachment style' are related but not the same thing.",
+    "'Earned security' is a documented path: people without a secure start can develop secure patterns later.",
+    "Current relationships, major life events, and reflective work are all associated with movement toward security."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A difficult start, a secure now",
+      "body": "Someone describes a genuinely hard early childhood but reports stable, trusting relationships as an adult — often after a supportive long-term partner or friendship, or after doing the reflective work of making coherent sense of their past. Researchers call this 'earned security,' and it is well documented. It is less about having had a good childhood than about having made sense of the one you had."
+    },
+    {
+      "label": "The trap",
+      "title": "The label that becomes self-fulfilling",
+      "body": "A quiz sorts someone into 'anxious,' and they start treating it as a fixed diagnosis that explains their whole relational life. But the research measures a tendency that responds to current relationships and effort. Expecting closeness to be unreliable can nudge you to behave in ways that make it so — which seems to confirm the belief and can entrench a pattern that is more malleable than it feels."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Childhood is one input among several. It tilts the odds rather than writing the script.",
+      "source": "On how much childhood determines"
+    },
+    {
+      "text": "'Earned security' describes adults who had a difficult early start but show secure attachment now — childhood matters, but it is not destiny.",
+      "source": "On change over time"
+    }
+  ],
   "faqs": [
     {
       "question": "Is my attachment style permanent?",

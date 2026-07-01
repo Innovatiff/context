@@ -39,6 +39,32 @@
     { "value": "Pattern 'chunks'", "label": "What experts perceive instead of isolated details", "source": "de Groot; Chase & Simon" },
     { "value": "Major but partial", "label": "Share of expert performance explained by deliberate practice", "source": "Macnamara et al., 2014 meta-analysis" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Expertise is largely rapid, domain-specific pattern recognition built from years of practice, not general genius.",
+    "In the chess studies, masters' memory edge vanished on random positions — they recognise patterns, not raw detail.",
+    "Deliberate practice — focused, effortful work with feedback on specific weaknesses — is a major but not total ingredient.",
+    "Expertise is narrow: it doesn't reliably transfer to unrelated fields, and 'brain-training' shows weak transfer.",
+    "Raw hours of passive or comfortable activity build little; effortful, feedback-driven practice is the active ingredient."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The chess master and the random board",
+      "body": "Shown a real game position for a few seconds, a master reconstructs it almost perfectly while a weaker player captures only a fraction. Scramble the pieces into a meaningless arrangement and the master's advantage nearly disappears. That single contrast shows the edge is organised pattern recognition within the domain, not a generally superior memory."
+    },
+    {
+      "label": "Illustrative",
+      "title": "What the invisible decade hides",
+      "body": "We see the surgeon's steady decision or the musician's fluid performance, not the thousands of hours of focused, often tedious practice behind them. Because that work is invisible, the visible skill looks like a gift rather than an accumulation — which is why 'they were born for this' feels truer than it is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What looks like fast, intuitive brilliance is usually rapid pattern recognition within a narrow domain, not broad intelligence.",
+      "source": "On the nature of expertise"
+    }
+  ],
   "faqs": [
     {
       "question": "Are experts just born with more talent?",

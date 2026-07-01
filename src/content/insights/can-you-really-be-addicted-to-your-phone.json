@@ -34,6 +34,36 @@
     "Be wary of precise \"X% of people are addicted to their phones\" statistics — they vary enormously because there's no agreed diagnostic threshold, and most rely on self-report questionnaires measuring \"problematic use\" rather than a clinical diagnosis. Different studies and instruments produce very different prevalence estimates, which is itself a sign that the construct isn't settled. The responsible takeaway is that a minority report genuinely problematic use, not that a specific, knowable percentage are \"addicted.\"",
     "For context on the formal picture: among behavioural addictions, gambling disorder is the one fully recognised in the main psychiatric manuals, with internet gaming disorder listed only as needing further study; \"smartphone addiction\" is in neither as an established diagnosis. So the honest framing is that heavy phone use is near-universal and not in itself a disorder, that problematic use is real for some, and that the addiction label remains contested rather than confirmed."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'Smartphone addiction' is not a formal clinical diagnosis, and experts genuinely disagree about applying the addiction label to phone use.",
+    "Among behavioural addictions, only gambling disorder is fully recognised; internet gaming disorder is listed only as needing further study.",
+    "'Problematic' or compulsive use that disrupts sleep, work, or relationships is real for a subset of people.",
+    "What matters is functional impact — harm and loss of control — not a raw screen-time number, since heavy use is now near-universal.",
+    "This page is educational only: persistent, life-disrupting use deserves a qualified clinician, not a self-diagnosis from an online questionnaire."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "Six hours of screen time — problem or not?",
+      "body": "A high daily total feels alarming, but the hours alone say little: heavy use is now ordinary and not, by itself, a disorder. The more careful research looks at functional impact instead — whether it's genuinely interfering with sleep, work, relationships, or wellbeing, and whether you feel unable to control it despite wanting to. That distinction, rather than the number, is what matters."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When the word is comforting but imprecise",
+      "body": "Reaching for the phone without deciding to, struggling to stop, filling every gap — those experiences are genuine, and 'addiction' is the readiest word our culture offers for 'I do this more than I want to.' But the readiest word isn't always the most accurate: 'I struggle to control this' is a broader category than 'I have a clinical addiction,' and the label can either validate real distress or inflate normal use into a problem, depending on the case."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "High engagement is not the same as a disorder — most people use their phones a great deal.",
+      "source": "On over-pathologising"
+    },
+    {
+      "text": "Take the distress seriously without reaching for a clinical label the evidence hasn't established.",
+      "source": "On the honest position"
+    }
+  ],
   "faqs": [
     {
       "question": "Is phone addiction a real diagnosis?",

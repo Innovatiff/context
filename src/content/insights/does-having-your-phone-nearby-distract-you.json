@@ -34,6 +34,36 @@
     "There is no single reliable number for how much a nearby phone costs your focus, and the honest reading is that any precise figure would overstate the certainty. What the research supports is a small average reduction in measures of working memory and fluid intelligence when the phone is present rather than in another room, with the effect largest for the most phone-dependent people and not consistently replicated.",
     "Put in context, this sits at the subtle end of the attention literature. The strongly established findings concern active use and interruption, which clearly degrade performance. The mere-presence effect is a more delicate, contested addition to that picture — real enough to act on if focus matters to you, but not a settled, one-size-fits-all penalty. When in doubt, separation by distance is a low-cost hedge."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Some research suggests a phone's mere presence can shave a little off available attention — even switched off and face-down.",
+    "The effect, where it exists, is small and largest for the most phone-dependent people, not a uniform penalty.",
+    "Replication has been mixed, so treat the mere-presence claim as tentative rather than established.",
+    "Separation by location — another room, a bag, a drawer — tracked with better performance more than silencing did.",
+    "The well-established part is clear: actively checking or being interrupted by a phone harms focused work."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The face-down phone on the desk",
+      "body": "You flip your phone face-down and trust yourself to ignore it during focused work. That's the move the research most directly questions: flipping it over removes the screen but not the presence, and the proposed drain comes from the phone being there at all. If focus matters for the task, moving it to another room or a bag is the better-supported hedge."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A heavy checker versus someone the phone barely tugs at",
+      "body": "For someone who feels a strong, frequent pull to check, removing the phone from sight is most likely to help, because the mere-presence effect was largest for the most phone-dependent people. For someone an unused phone barely tugs at — or on a task that doesn't need sustained focus — the cost is probably negligible and not worth fussing over."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The phone's presence can be a low-grade drain on focus for some people in some tasks — and the effect, where it exists, appears small rather than dramatic.",
+      "source": "On the honest reading"
+    },
+    {
+      "text": "The phone is a gateway to nearly everything you might want or worry about, so even at rest it carries a pull that a stapler does not.",
+      "source": "On why proximity may matter"
+    }
+  ],
   "faqs": [
     {
       "question": "Does my phone distract me even when it's off?",

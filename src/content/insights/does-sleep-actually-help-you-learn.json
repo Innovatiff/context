@@ -40,6 +40,32 @@
     { "value": "Sleep > wake", "label": "Retention tends to be better after sleep than equal time awake", "source": "Memory-consolidation studies" },
     { "value": "~1 in 3", "label": "Rough share of adults regularly getting less than recommended sleep", "source": "CDC sleep surveys" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Sleep after learning helps consolidate new memories into a more stable, durable form.",
+    "Sleep before learning supports encoding — a tired brain takes new information in less effectively.",
+    "Retention tends to be better after a period of sleep than after an equal stretch awake.",
+    "The costs of lost sleep on memory are real but invisible and delayed, so they're easy to underrate.",
+    "Protecting sleep around learning is a well-supported, low-cost thing you can do for memory."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The all-nighter that feels productive",
+      "body": "Cramming past 2 a.m., the material feels fresh and accessible, so the night seems like a win. But that in-the-moment fluency is exactly the unreliable signal: the lost sleep impairs how well the material was taken in and removes the consolidation that would have made it stick. The night that felt most productive can leave you worse off the next day."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Spreading study across nights",
+      "body": "Studying a topic in several shorter sessions over several days, with a normal night's sleep between each, lines up with both the consolidation findings and the broader spacing effect. Sleep gets to do its work between sessions, and the material generally retains better than after one long crammed block."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You don't feel the memories that failed to consolidate; you just notice, later, that less stuck than you expected.",
+      "source": "On why sleep loss is easy to underrate"
+    }
+  ],
   "faqs": [
     {
       "question": "Does sleeping after studying really help you remember?",

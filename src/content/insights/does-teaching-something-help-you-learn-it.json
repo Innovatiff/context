@@ -39,6 +39,32 @@
     { "value": "Self-explanation", "label": "Related technique linked to deeper understanding in research", "source": "Self-explanation research" },
     { "value": "Teacher benefits too", "label": "Peer-tutoring and teachable-agent studies find gains for the one teaching", "source": "Peer tutoring / teachable agents" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Teaching material — or even just expecting to teach it — tends to improve your own understanding and retention.",
+    "The mechanism is organising the material, putting it in your own words, and noticing the gaps that surface.",
+    "Teaching is an intensified, externalised form of self-explanation, a technique linked to deeper understanding.",
+    "Its greatest value is diagnostic: the points where your explanation breaks down show you exactly what to study next.",
+    "Teaching deepens and consolidates knowledge — it works on top of genuine study, not as a replacement for it."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Studying as if you'll have to explain it",
+      "body": "Before opening the notes, you tell yourself you'll be teaching this to a colleague tomorrow. That single shift in intent — the Nestojko-style expectation of teaching — changes how you engage: you organise more, prioritise the main ideas, and process more deeply, even if no one ends up in the room. Preparing a clear explanation does real work on its own."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Where the explanation breaks down",
+      "body": "Re-reading your notes, everything feels understood. Then you try to explain a step out loud and stall on the part you can recognise but not actually reconstruct. That stumble is the useful signal: go back and study that specific gap, then try to explain it again. Explain, find the hole, study the hole, re-explain — that loop is where much of the learning happens."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The moment you try to explain something, the gaps in your own understanding become obvious in a way they rarely do during passive review.",
+      "source": "On why teaching works"
+    }
+  ],
   "faqs": [
     {
       "question": "Does teaching really help you learn, or is that just a saying?",

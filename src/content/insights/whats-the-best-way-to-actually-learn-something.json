@@ -40,6 +40,36 @@
     { "value": "Low-utility", "label": "Evidence rating for rereading and highlighting", "source": "Dunlosky et al., 2013" },
     { "value": "No reliable benefit", "label": "Matching teaching to 'learning styles' in controlled studies", "source": "Learning-styles research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The best-supported techniques feel hardest: retrieval practice, spacing, and interleaving.",
+    "Testing yourself beats rereading on delayed tests, often by a wide margin — retrieval strengthens memory.",
+    "Spacing the same total hours across days, and mixing problem types, both improve long-term retention.",
+    "The Dunlosky review rated practice testing and distributed practice high-utility; rereading and highlighting low.",
+    "Matching study to a 'learning style' has repeatedly failed to show benefits in controlled studies."
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "The smooth reread that teaches nothing",
+      "body": "Reading a chapter a third time feels great — each pass is smoother, and the brain reads that growing fluency as growing knowledge. But being able to follow the text in front of you isn't the same as producing it later from memory. The confidence rereading builds is exactly the trap: it's most reassuring precisely when you're doing the least durable kind of study."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Swapping rereading for recall",
+      "body": "Instead of rereading notes, close them after a section and try to write down the key points from memory before checking. It feels harder and surfaces your errors — that friction, a desirable difficulty, is where the learning happens. Spreading those recall sessions across several days and mixing related topics compounds the effect beyond any one of them alone."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The feeling of fluency while rereading is not the same as having learned — and confusing the two is one of the most common study mistakes.",
+      "source": "On why rereading misleads"
+    },
+    {
+      "text": "The techniques that make studying feel smooth tend to teach you the least; the ones that feel effortful tend to teach you the most.",
+      "source": "On desirable difficulties"
+    }
+  ],
   "faqs": [
     {
       "question": "What's the single most effective study technique?",

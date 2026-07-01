@@ -40,6 +40,36 @@
     { "value": "Few domains", "label": "Where a real 'best age' window is well supported", "source": "Lenneberg; language research" },
     { "value": "Adults learn well", "label": "For most skills, early progress can be faster than in children", "source": "Skill-acquisition research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For most skills there's no fixed window you've missed — the 'best age' framing is largely overstated.",
+    "The real exception is language: native-like grammar and especially accent get harder after childhood.",
+    "Even in language, adults routinely reach high proficiency; what gets rarer is the last step to indistinguishable-from-native.",
+    "Adults often learn the early stages faster by using prior knowledge, strategy, and self-directed practice.",
+    "How much and how deliberately you practise matters far more than the age you start."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Starting an instrument at 40",
+      "body": "Taking up piano in mid-life feels like fighting biology, but there's little evidence of a closing window for music. The slower progress usually comes from having less time and more self-consciousness than a child practising daily in a structured routine — not from a lost capacity. Protecting regular practice slots and expecting a normal, awkward beginning does more than worrying about age."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Learning a language as an adult",
+      "body": "An adult learner can become highly fluent — reading, working, holding real conversations — while never sounding indistinguishable from a native speaker. That last increment, especially a native-like accent, is the one thing the sensitive-period research says is genuinely age-dependent. Aiming for clear, confident, highly intelligible speech turns impressive progress into success rather than a felt failure against an unusual bar."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Too old to learn this' is true for very few skills — the age you start matters far less than how, how much, and how deliberately you practise.",
+      "source": "On the 'best age' myth"
+    },
+    {
+      "text": "Adults usually have less time, not less capacity. The real difference is often hours of focused practice, not age.",
+      "source": "On why children seem faster"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there really a best age to learn?",

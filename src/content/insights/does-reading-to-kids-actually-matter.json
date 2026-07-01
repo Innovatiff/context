@@ -34,6 +34,36 @@
     "The most-quoted figure in this area is the Hart and Risley 'word gap,' which suggested very large differences in words heard across families. Treat it with caution: the original sample was small, later work has found the gap smaller and more variable than the famous number implied, and the framing has been widely criticised. The general principle that early language exposure matters survives; the precise figure does not.",
     "The more defensible takeaway is about interaction. Research on conversational turns suggests the back-and-forth between adult and child is more strongly associated with language development than raw word counts, and dialogic reading outperforms passive reading. So the honest summary is qualitative: reading to children is genuinely beneficial, the interaction is the active ingredient, and the famous statistics deserve hedging."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Shared reading is reliably linked to language and early literacy — one of the sturdier findings in early-childhood research.",
+    "The back-and-forth interaction, not the book itself, appears to be the active ingredient.",
+    "'Dialogic' reading — asking questions, following the child's lead — shows stronger associations than reading straight through.",
+    "The famous 'word gap' number is contested; the general point that early language exposure matters survives, the exact figure does not.",
+    "The interaction is portable: narrating and responding through the day generates the same conversational turns."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The book is the excuse, the conversation is the point",
+      "body": "Two homes read the same picture book at bedtime. In one, the adult reads the words straight through to finish the page. In the other, the adult pauses — 'what do you think happens next?', names the animals, links the story to the child's day. The research points to the second version doing more of the work, because the language-rich, responsive exchange is the active ingredient rather than the pages themselves."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The toddler who won't sit still",
+      "body": "A parent worries their two-year-old never lasts more than a page, so 'reading isn't working.' But the benefit comes largely from responsive interaction, which is portable. Narrating what you're both doing, describing what you see, and answering their sounds and words generate the same conversational back-and-forth. A wriggly child is not missing the core ingredient — the book was only ever a convenient trigger for it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A book that prompts conversation is doing the work; the same interaction can come from talking, describing, and responding throughout the day.",
+      "source": "On why the interaction matters more than the book"
+    },
+    {
+      "text": "The broad point that early language exposure matters is well supported; the precise headline number is not.",
+      "source": "On the 'word gap'"
+    }
+  ],
   "faqs": [
     {
       "question": "Does reading to my child actually make a difference?",

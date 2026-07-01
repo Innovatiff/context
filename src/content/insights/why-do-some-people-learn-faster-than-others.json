@@ -40,6 +40,36 @@
     { "value": "Practice quality", "label": "Focused practice with feedback beats raw hours", "source": "Skill-acquisition research" },
     { "value": "Talent: overrated", "label": "General 'fast learner' ability across all domains has weak support", "source": "Expertise research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The biggest driver of learning speed is usually prior knowledge — new material attaches to what you already know.",
+    "Working memory matters for complex material, but familiarity and chunking partly compensate for it.",
+    "Motivation and the quality of practice — focused, with feedback — drive learning more than raw hours.",
+    "Learning speed is highly domain-specific; the same person can be quick in one area and slow in another.",
+    "Fast learning is mostly built, not born — general all-purpose 'fast learner' talent has weak support."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The 'quick study' with a hidden head start",
+      "body": "Someone picks up a new tool or concept fast and gets labelled a natural. What's invisible is the relevant background they're drawing on — the dense web of related ideas the new material hooks straight onto. A true beginner has nothing to attach it to, so the same content lands slowly. The scaffolding gets mistaken for raw ability."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Fast at one thing, slow at another",
+      "body": "The person who learns a new programming language overnight may be hopeless taking up a new sport. We notice the impressive case, call them a 'fast learner,' and assume it transfers everywhere. It usually doesn't — learning speed tracks prior knowledge in a specific domain far more than any general trait."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Much of what looks like a 'fast learner' is really someone learning in an area where they already have a head start.",
+      "source": "On prior knowledge"
+    },
+    {
+      "text": "Fast learning is mostly built, not born — the drivers are largely buildable, so learning speed is far less fixed than it appears.",
+      "source": "On the 'quick study' myth"
+    }
+  ],
   "faqs": [
     {
       "question": "What makes some people learn faster?",

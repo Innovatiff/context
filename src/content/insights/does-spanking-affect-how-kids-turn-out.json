@@ -39,6 +39,36 @@
     { "value": "No benefit", "label": "Reliable evidence that spanking improves long-term behavior", "source": "Pooled meta-analytic findings" },
     { "value": "Mostly correlational", "label": "Nature of the underlying evidence — caution on causation", "source": "Observational and longitudinal studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Across large reviews, spanking is associated with worse outcomes — more aggression, more behavior problems — and no reliable evidence it improves long-term behavior.",
+    "In the 2016 meta-analysis, all thirteen measured child outcomes pointed in an unfavourable direction and none in a favourable one.",
+    "Most of the evidence is correlational, so the causal magnitude is genuinely uncertain — but the absence of any benefit is the more firmly established part.",
+    "This describes averages across populations, not a verdict on any one parent or child.",
+    "Better-supported alternatives are non-physical structure and warmth — clear limits and consistent follow-through, not permissiveness."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why it feels effective in the moment",
+      "body": "A child does something dangerous, gets a swat, and stops right away. That immediate compliance is powerful feedback, and it is exactly why the practice persists. But short-term stopping and long-term behavior are different things — and the research is about the second, where the picture reverses. The thing that works in the moment is not the thing that shapes behavior over time."
+    },
+    {
+      "label": "On 'I turned out fine'",
+      "title": "One life versus an average",
+      "body": "Many people who were spanked grew up fine and reasonably conclude it did no harm. That is a real observation, but a single life cannot reveal an average effect. The studies measure the average across large populations, where spanking tracks worse outcomes on balance and no better behavior. Both things can be true at once: plenty of individuals are fine, and there is still no average benefit."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The research consistently separates firmness from physical punishment: clear limits and consistency are linked to better outcomes; the hitting part specifically is what carries no benefit and a risk of harm.",
+      "source": "On firmness versus hitting"
+    },
+    {
+      "text": "There is no credible signal that spanking improves long-term behavior.",
+      "source": "On the absence of benefit"
+    }
+  ],
   "faqs": [
     {
       "question": "Does spanking actually work to improve behavior?",

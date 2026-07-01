@@ -40,6 +40,35 @@
     { "value": "Overconfidence", "label": "Low skill and poor self-assessment often travel together", "source": "Kruger & Dunning, 1999" },
     { "value": "Calibration", "label": "Confidence matched to real ability tends to beat blind positivity", "source": "Metacognition research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The confidence that helps is task-specific self-efficacy — a belief you can improve at this particular thing.",
+    "Self-efficacy is built mainly from real mastery experiences, not from generic positive thinking.",
+    "Confidence that outruns real skill can slow learning by hiding the gaps you still have.",
+    "Calibrated confidence — matched to actual ability — tends to beat both blind positivity and chronic self-doubt.",
+    "Testing your understanding is a more honest signal than the comfortable feeling of fluency."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The moment confidence feels best is when it's least accurate",
+      "body": "Feeling that you already understand something removes the discomfort of not knowing — which is exactly the discomfort that would have driven more study. So overconfidence is most comfortable right where it's most wrong, and it quietly stops the checking and help-seeking that would close the gap."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Re-reading until it 'clicks'",
+      "body": "Someone reviews their notes until the material feels familiar and easy, and walks into the test sure they've got it. That sense of fluency is a poor predictor of what a test will show: it measures how recognisable the words are, not whether the understanding survives having to recall it cold. A single practice test would have exposed the gap the good feeling was hiding."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The very moment confidence becomes inaccurate is the moment it feels best — which is why it can quietly slow learning while feeling like the opposite.",
+      "source": "On overconfidence"
+    },
+    {
+      "text": "Confidence is a useful ingredient, not a substitute for the work — and its value depends heavily on whether it is accurate."
+    }
+  ],
   "faqs": [
     {
       "question": "So is confidence good or bad for learning?",

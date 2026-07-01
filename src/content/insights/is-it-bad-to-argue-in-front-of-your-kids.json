@@ -34,6 +34,36 @@
     "This is developmental, largely correlational research, so the honest unit is patterns rather than precise percentages. The robust, repeated finding across the Cummings and Davies program is qualitative and directional: destructive, hostile, and especially unresolved interparental conflict is associated with more child anxiety, behavior problems, and emotional dysregulation, while constructive, resolved conflict is associated with neutral or even positive adjustment. The dividing line is the type and the resolution, not the visibility.",
     "It is worth stating plainly what the data does not say. It does not say that any argument a child witnesses causes harm, and it does not support a target of zero conflict — partly because zero open conflict is neither realistic nor, on this evidence, protective, since hidden and unresolved tension is itself a risk. The defensible reading is that how parents fight, and whether they repair, matters more for children than whether they fight in view."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "What matters is not whether children see conflict but what kind: destructive, hostile, or unresolved conflict is linked to worse outcomes.",
+    "Constructive disagreement that reaches a resolution is generally neutral and can even model that relationships bend without breaking.",
+    "Children often sense hidden, unresolved tension anyway — the cold silences and avoidance — and may find it more unsettling than open conflict that visibly resolves.",
+    "Resolution is the protective ingredient: letting kids see or feel that a disagreement was settled and warmth returned does real work.",
+    "Certain patterns stay off-limits — hostile or frightening conflict, conflict about the child, and drafting the child as messenger, referee, or ally."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A disagreement the kids see resolve",
+      "body": "Two parents disagree openly at the dinner table — raised a little, but no contempt or threats — and then, within earshot, sort it out and warm back up. On the emotional-security research, this is a different and generally fine experience: children see that people can disagree and repair. Briefly naming it — 'we disagreed, we sorted it out, we're okay' — converts the moment into a small demonstration that relationships survive conflict."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The argument behind closed doors that never resolves",
+      "body": "Parents who fight only out of sight, then move around the house in cold silence for a day, often assume the children are protected. But the work on emotional security suggests kids frequently register that unresolved tension — the avoidance, the atmosphere — and may find the unexplained version harder to make sense of than an open disagreement that visibly settles. What they can't see, they can still feel."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The aim the evidence supports is not zero conflict but better-handled, resolved conflict.",
+      "source": "On the honest answer"
+    },
+    {
+      "text": "What they can't see, they often still feel and can't make sense of.",
+      "source": "On hidden conflict"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it always harmful for kids to see their parents argue?",

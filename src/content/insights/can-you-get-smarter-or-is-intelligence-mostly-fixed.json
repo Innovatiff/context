@@ -40,6 +40,35 @@
     { "value": "Peaks early", "label": "Fluid intelligence (speed, novel reasoning), then gradual decline", "source": "Cognitive ageing research" },
     { "value": "Weak transfer", "label": "Brain-training gains spreading to general intelligence", "source": "Cognitive-training reviews" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Crystallized intelligence — knowledge, vocabulary, skill — keeps growing across life, with no obvious ceiling.",
+    "Fluid intelligence — raw speed and novel reasoning — tends to peak early and decline gradually.",
+    "The Flynn effect saw average IQ rise roughly three points per decade — far too fast to be genetic.",
+    "Brain-training games improve the trained task but show weak transfer to general intelligence.",
+    "Deep learning of real skills grows the kind of intelligence that actually compounds."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Slower at 40, but knowing more",
+      "body": "Someone notices they grasp a genuinely new idea more slowly than they did at 20 and reads it as decline. But the two kinds of intelligence move in opposite directions: the visible slowdown in fluid ability masks the quiet growth of knowledge, judgment, and skill in familiar areas. It is a trade-off across abilities, not a simple downhill slide."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The brain-training app that doesn't transfer",
+      "body": "A few minutes of games each day reliably makes you better at the games and little else. When the promised general boost never materialises, it can reinforce a sense that intelligence is simply fixed — when the truer picture is that the right kind of effort, deep learning rather than games, grows the intelligence that compounds."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can clearly get more knowledgeable, skilled, and capable across your whole life — which is most of what 'smart' means in practice.",
+      "source": "On what 'getting smarter' really means"
+    },
+    {
+      "text": "Stability across a population is not the same as being unchangeable, and it leaves a great deal of room for growth."
+    }
+  ],
   "faqs": [
     {
       "question": "Is intelligence fixed at birth?",

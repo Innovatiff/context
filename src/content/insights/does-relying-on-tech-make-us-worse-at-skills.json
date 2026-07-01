@@ -34,6 +34,36 @@
     "There is no single number for 'how much tech makes us worse,' because the answer is skill-specific and the research is mixed. What's solid is the mechanism: offloading reduces internal memory and practice for the offloaded task — the 'Google effect' work (Sparrow and colleagues, 2011) found people remember looked-up information less but remember where to find it more, so memory reorganizes around the tool rather than simply shrinking.",
     "The framing that holds up best is Risko and Gilbert's tradeoff: offloading is often a rational strategy that improves immediate performance and frees mental resources, at the cost of practice on the offloaded skill. Whether that net is positive or negative depends on the skill, on whether you keep a fallback, and on what the freed attention is used for. Claims that technology is broadly 'making us dumber' run well ahead of evidence that is genuinely mixed and context-dependent."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Offloading a task to a tool stops you rehearsing that skill — and unrehearsed skills tend to fade.",
+    "It also frees mental capacity for harder work the tool can't do, so the honest picture is a tradeoff, not simple decline.",
+    "The 'Google effect' shows memory reorganizes around the tool: you hold fewer facts and more pointers to them.",
+    "The outcome is skill-specific — spelling, arithmetic, navigation, and complex judgment don't all move the same way.",
+    "Keeping an occasional fallback matters most where a tool's failure would be costly."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "No longer knowing phone numbers by heart",
+      "body": "You used to recall a dozen numbers; now your phone holds them and you couldn't recite most from memory. That specific skill has faded from lack of rehearsal — which is real and unsurprising. But it's a low-value, error-prone thing to memorize, and the trade is usually a good one: this is the kind of routine load worth offloading rather than defending."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The freed attention that just frees more offloading",
+      "body": "Offloading is most clearly beneficial when the capacity it frees goes toward harder, more valuable thinking the tool can't do — and most clearly costly when it just frees you to offload the next thing too. The honest question isn't 'am I relying on tech?' but 'am I gaining anything for what I gave up?'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Reliance can erode specific, unpracticed skills while leaving overall capability flat or even higher — it depends entirely on which skill, and on whether anything valuable replaces the practice you gave up.",
+      "source": "On the honest answer"
+    },
+    {
+      "text": "Losses we notice; redistributed capacity we mostly don't — which is why offloading feels like clear decline even when the outcome is unchanged or better.",
+      "source": "On why it feels worse than it is"
+    }
+  ],
   "faqs": [
     {
       "question": "Does relying on technology actually make us worse at things?",

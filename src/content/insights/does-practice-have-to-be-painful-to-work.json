@@ -39,6 +39,36 @@
     { "value": "Desirable", "label": "The qualifier on helpful difficulty — it must be appropriately matched to the learner", "source": "Bjork, desirable difficulties" },
     { "value": "Not a threshold", "label": "Ericsson's own view of the popularised '10,000 hours' figure", "source": "Ericsson on the 10,000-hour rule" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Effective practice is effortful, but 'effortful' is not the same as 'painful.'",
+    "Ericsson's deliberate practice targets the edge of your ability — demanding, not inherently enjoyable.",
+    "Bjork's difficulties help only when 'desirable' — appropriately matched to the learner.",
+    "Difficulty far beyond your level produces confusion, not learning — 'more pain, more gain' is false.",
+    "Ericsson himself disputed the '10,000 hours' figure as a universal threshold.",
+    "Sustainability matters more than intensity: effort you can repeat tomorrow beats heroic suffering."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "The edge of your ability, not the edge of your endurance",
+      "body": "Productive practice targets the specific things you can't yet do reliably, with clear goals and prompt feedback — that's where the useful discomfort lives. Making the whole session as gruelling as possible is a different thing entirely, and the research doesn't reward it. The effort is the active ingredient; the pain is a by-product of working at your edge, not a target."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The survivorship story we don't see",
+      "body": "The people who improved a lot often did tolerate a lot of discomfort, so pain and progress travel together in the stories we hear. Harder to see are the many who suffered through punishing, poorly designed practice and improved little, or who burned out and quit. Survivorship makes pain look more necessary than the evidence says it is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The goal is the effort, not the pain.",
+      "source": "On deliberate practice"
+    },
+    {
+      "text": "Effort you can repeat tomorrow beats heroic suffering you avoid for a week afterward."
+    }
+  ],
   "faqs": [
     {
       "question": "So is it true that practice has to be hard to work?",

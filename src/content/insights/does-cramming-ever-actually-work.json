@@ -40,6 +40,35 @@
     { "value": "100+ years", "label": "How long the spacing effect has been replicated", "source": "Memory research since Ebbinghaus" },
     { "value": "Same hours", "label": "Distributing the same study time yields far better durable memory", "source": "Distributed-practice studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Cramming can get you through a next-day test, but it produces poor long-term retention.",
+    "The spacing effect: the same hours spread across days retain far more than the same hours massed at once.",
+    "Cramming can match spaced study on an immediate test, then loses — often heavily — as the delay grows.",
+    "The longer you need to remember something, the longer the ideal gaps between study sessions.",
+    "Pairing spacing with self-testing beats both cramming and passive rereading."
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "Why the all-nighter feels like it worked",
+      "body": "You study hard the night before, pass the test, and the feedback loop closes with a success — so the strategy gets reinforced. The cost is paid weeks later, quietly, when the material has to be relearned from near-scratch. Because that cost is hard to trace back to the method, cramming keeps feeling effective long after it has stopped serving the actual goal of knowing the material."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Eight hours in a day vs eight hours across a week",
+      "body": "Two people put in the same eight hours. One does it all the night before; the other splits it into short sessions across a week and tests themselves each time. They may score similarly on an immediate exam — but a month later, the spaced learner remembers substantially more. The distribution, not the total volume, is what drove the durable memory."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Cramming buys a short-term result at the cost of durable learning — a poor trade most of the time, dressed up as efficiency.",
+      "source": "On what cramming really trades"
+    },
+    {
+      "text": "Any spacing tends to beat none — and cramming is the no-spacing extreme."
+    }
+  ],
   "faqs": [
     {
       "question": "Does cramming actually work for a test tomorrow?",

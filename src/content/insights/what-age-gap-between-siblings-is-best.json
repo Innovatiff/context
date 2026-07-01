@@ -34,6 +34,35 @@
     "The clearest numbers in this area are medical, not psychological: health bodies commonly suggest spacing pregnancies by a period of months rather than conceiving again immediately, based on evidence about maternal and infant health risks at very short intervals. That guidance says nothing about sibling closeness or personality.",
     "On the developmental side, there are few trustworthy figures to quote, because the studies find small and inconsistent effects with no clear optimum. The defensible takeaway is qualitative: spacing measurably changes the early-years experience and carries real resource and health tradeoffs, but it does not reliably determine how close siblings become or how children turn out."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "No age gap stands out in the research as best; effects on closeness and rivalry are small and inconsistent.",
+    "Close and wide gaps each carry tradeoffs in both directions, depending on a family's circumstances.",
+    "The firmer guidance is medical: health bodies suggest avoiding very short intervals between pregnancies.",
+    "Sibling closeness depends far more on relationship quality and temperament than on the years between them.",
+    "Because no gap is shown to be best or worst, it is a tradeoff to weigh, not a test to pass."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two toddlers close together",
+      "body": "A family with children spaced closely lives a genuinely different daily experience — two young children in the same stages, a compressed and intense early period, and more direct competition for the same attention. That vivid short-term difference is real, but it does not reliably translate into a measurable difference in how the children turn out."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'we spaced them two years apart and it was perfect' rule",
+      "body": "A relative generalises from their own family and presents a specific gap as the correct one. It is really a single case shaped by those particular children. Whatever gap a family ends up with, they tend to notice the upsides of their own choice and the downsides of the alternative — which makes every spacing feel, in hindsight, like the right one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "This is a decision with no data-backed correct choice, which also means it is hard to get wrong.",
+      "source": "On sibling spacing"
+    },
+    {
+      "text": "How the relationship is handled appears to matter more than how many years separate the children."
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a best age gap between siblings?",

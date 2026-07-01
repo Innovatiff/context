@@ -39,6 +39,36 @@
     { "value": "Small edge", "label": "Only children's average advantage in achievement and intelligence", "source": "Falbo & Polit reviews" },
     { "value": "Unsupported", "label": "The 'spoiled, selfish, maladjusted' stereotype", "source": "Meta-analytic reviews of only children" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The large reviews do not support 'only child syndrome' — only children are, on average, as well-adjusted and sociable as children with siblings.",
+    "Where a difference shows up it is small and favors only children: a slight average edge in achievement and measured intelligence.",
+    "The 'spoiled and selfish' charge fares worst of all in the data; it is simply not borne out.",
+    "Children build social skills from parents, friends, school, and activities — not only from siblings — so a missing sibling leaves a smaller mark than folk wisdom assumes.",
+    "Sibling status is a weak predictor of who a person becomes; the group overlap is large and any individual can land anywhere."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "An adult only child wondering what it did to them",
+      "body": "Someone who grew up without siblings may assume their love of solitude or comfort around adults must trace to being an only child. The honest framing from the research is that this is a weak predictor: the differences between only children and others are small and mostly favorable, so attributing particular traits to having grown up without siblings isn't supported by the data."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Parents deciding whether to have a second child",
+      "body": "A couple weighing a second child mainly to spare the first from 'only child syndrome' is acting on a premise the large reviews don't find. The evidence does not show a child needs a sibling to be well-adjusted, sociable, or generous — so the decision can rest on finances, circumstances, and preference rather than on a syndrome the data doesn't support."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The number of siblings a person grew up with is a weak predictor of who they turn out to be.",
+      "source": "On the size of the effect"
+    },
+    {
+      "text": "Where a difference shows up, it is small and tends to favor only children — a modest average tendency, not a destiny.",
+      "source": "On achievement and intelligence"
+    }
+  ],
   "faqs": [
     {
       "question": "Is 'only child syndrome' real?",

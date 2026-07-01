@@ -34,6 +34,36 @@
     "This is a domain where the most honest figures are about effect sizes, and they are small. Studies linking sibling experience to social skill report weak and inconsistent associations, and reviews of only-child research find differences from children with siblings that are negligible on most outcomes — with only children scoring slightly higher on some measures such as achievement motivation.",
     "Because family circumstances differ in so many ways beyond sibling count, researchers are cautious about causal claims here. The defensible takeaway is qualitative: siblings can offer useful social practice, the benefit is modest and depends on relationship quality, and only children are not at a measurable social disadvantage."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Siblings offer years of low-stakes practice at negotiating, sharing, arguing, and making up — but the measured social-skill effects are small and inconsistent.",
+    "Relationship quality appears to matter more than mere existence: warm sibling bonds link to better outcomes, high-conflict ones to worse.",
+    "Only children show no consistent social disadvantage; the 'lonely, maladjusted only child' stereotype is not supported by the data.",
+    "Social skill is built across many relationships — parents, friends, school, temperament — not granted or withheld by a sibling.",
+    "Having a child mainly for a sibling's supposed 'social advantage' rests on weak, uncertain evidence."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Worrying an only child will fall behind socially",
+      "body": "A parent may assume a child without siblings will be socially behind. The meta-analytic evidence finds only children comparable to peers on sociability and adjustment, so the stereotype is a poor guide to any individual child. Only children get ample social practice through friends, peers, school, and other regular relationships."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Assuming more siblings means better social skills",
+      "body": "Someone might expect that a big family automatically produces socially skilled children. But high-conflict sibling relationships can be associated with worse outcomes, and the effects are modest and inconsistent — so the number of siblings tells you little on its own. What research there is points to relationship quality mattering more than count."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Having siblings is not a reliable maker or breaker of social ability — it is one context among many in which children learn to deal with other people.",
+      "source": "On the size of the effect"
+    },
+    {
+      "text": "The quality of a sibling relationship appears to matter more than its mere existence.",
+      "source": "On what the evidence supports"
+    }
+  ],
   "faqs": [
     {
       "question": "Do only children have worse social skills?",

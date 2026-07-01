@@ -34,6 +34,36 @@
     "Binge-watching is the norm: most streaming surveys put the share of viewers who watch multiple episodes in one sitting at well over half, and studies typically define a binge as roughly two or more episodes back to back. So if you do this, you are squarely in the majority, not the exception.",
     "The wellbeing findings are real but should be held loosely. Associations between heavy binge-watching and higher stress, fatigue, and poorer sleep recur across studies, but most of this work is cross-sectional and self-reported, so it cannot establish that watching causes the distress rather than the reverse — people who are already stressed or sleeping badly may simply watch more. The one relationship with a clearer mechanism is binge-watching, pre-sleep arousal, and reduced sleep quality."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "In the moment, binge-watching is genuinely enjoyable — and, when freely chosen, can even feel restorative.",
+    "The costs cluster in heavy, late-night, and avoidance-driven viewing, not in watching itself.",
+    "The guilt comes mostly from watching instead of something you'd decided mattered — not from the watching.",
+    "Sleep is the clearest downside: gripping stories raise pre-sleep arousal and push bedtime later.",
+    "Most of the wellbeing evidence is correlational, so hold the causal story loosely."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A freely chosen Saturday-night binge",
+      "body": "Three episodes on a night with nothing else planned tends to feel like a well-earned rest rather than a lapse. That fits the research: freely chosen, planned viewing produces far less guilt than viewing that drifts past what you meant to do. The enjoyment is real, and there is little reason to frame it as a failure."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'one more episode' that swallows a weeknight",
+      "body": "You meant to watch one and stop, but the cliffhanger and the auto-play countdown make continuing feel easier than stopping. By the time you switch off it is well past your bedtime, and the guilt and lost sleep arrive after the enjoyment is already over. The more reliable fix here is structural — turning off auto-play, deciding the stopping point before you start — rather than trying to out-discipline the format mid-session."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Binge-watching is enjoyable in the moment and roughly neutral-to-negative over time, with the costs concentrated in heavy, late-night, and avoidance-driven viewing rather than in watching itself.",
+      "source": "On the honest summary"
+    },
+    {
+      "text": "The pleasure arrives before the cost does — which is how a habit can feel good and still leave you feeling worse, with no contradiction.",
+      "source": "On why the timing scrambles our judgement"
+    }
+  ],
   "faqs": [
     {
       "question": "Is binge-watching bad for you?",

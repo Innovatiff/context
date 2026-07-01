@@ -34,6 +34,36 @@
     "There is no clean \"notifications cause X% more anxiety\" figure, and you should be wary of anyone who offers one. What is reasonably established is the interruption cost: switching tasks leaves attention residue, so the price of an alert extends well beyond the moment of reading it. Surveys on phantom vibrations have repeatedly found that a large majority of regular phone users — often reported in the range of two-thirds or more — have experienced the sensation of a buzz that never happened, which illustrates how primed people become to detect alerts.",
     "On the wellbeing side, experimental studies that reduce or batch notifications have reported improvements in attention, productivity, and mood for some participants, but the effects are generally modest and vary by person. The fair conclusion is that interruption and constant availability plausibly raise low-grade arousal and stress, while the direct causal link to clinical anxiety remains uncertain — context that argues for managing notifications without over-claiming what doing so will fix."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The clearest, best-established cost of notifications is interruption and 'attention residue,' not a proven direct cause of anxiety.",
+    "Even a glance leaves residue: the real cost of an alert is the lingering drag on whatever you return to, not the seconds spent reading it.",
+    "The link to anxiety is plausible but largely correlational and modest — notifications are one contributor to feeling on edge, not a proven cause.",
+    "Reducing interruptions — turning off non-essential alerts, batching, do-not-disturb — targets the mechanism most directly.",
+    "This is educational context, not medical advice: persistent anxiety warrants a qualified clinician, not a notification setting."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The alert you chose to ignore still cost you",
+      "body": "A buzz arrives mid-task; you glance and decide not to act on it. It feels free. But the cost was already paid the moment your attention was pulled — attention residue means part of your focus stays snagged on the interruption after you put the phone down. The decision to ignore comes after the interruption, not instead of it, which is why simply ignoring notifications while leaving them switched on tends not to work."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The buzz that never happened",
+      "body": "You feel your phone vibrate, reach for it, and there's nothing there — a phantom vibration, which a large majority of regular phone users report having felt. It's generally read not as a disorder but as a sign of how primed people become to detect and respond to alerts. The impulse to check can fire even with no actual signal, because you've become finely tuned to detect one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The felt cost is one alert; the real cost is the fragmented attention that follows — much harder to notice from the inside.",
+      "source": "On attention residue"
+    },
+    {
+      "text": "Notifications are better described as one contributor to feeling on edge than as a proven cause of anxiety.",
+      "source": "On the evidence"
+    }
+  ],
   "faqs": [
     {
       "question": "Do notifications actually cause anxiety?",

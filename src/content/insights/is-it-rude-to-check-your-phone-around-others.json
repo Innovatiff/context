@@ -34,6 +34,36 @@
     "There isn't a single headline percentage here, and the responsible framing is that these are modest, replicated-in-pattern effects rather than dramatic ones. In Przybylski and Weinstein's experiments, the presence of a phone was associated with lower ratings of closeness and conversation quality, with the effect more pronounced for deeper conversations — a small but notable shift produced by an object no one touched.",
     "In survey research like Roberts and David's on \"partner phubbing,\" frequent phone-checking during shared time was associated with lower relationship satisfaction, largely via phone-related conflict and lower-quality time together. Because it's correlational, it can't establish that phubbing causes dissatisfaction rather than the reverse — but it's consistent with the experimental work suggesting that divided attention, signalled by a phone, has a real if modest social cost."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'Phubbing' — phone-snubbing — is associated with lower felt connection, empathy, and conversation quality.",
+    "Even a phone sitting visible and untouched is linked to conversations rated as less satisfying, especially deeper ones.",
+    "The proposed mechanism is divided attention and the signal a phone sends, not the act of checking alone.",
+    "The measured effects are modest averages that vary by context and relationship — not rules.",
+    "The findings work best as a gentle prompt for your own behaviour, not a rule to enforce on others."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Your intent versus what they see",
+      "body": "It feels harmless from your side because you know your own intent — a glance to check the time, a quick reply, nothing personal. But the other person can't see your intent; they see attention leaving. The gap between how a phone check feels to the checker and how it reads to the person across the table is exactly where the social cost lives."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The phone face-down on the table",
+      "body": "You set your phone on the table, face-down, and never touch it through dinner. In Przybylski and Weinstein's experiments, even a phone merely visible nearby was associated with lower ratings of closeness and conversation quality. Putting it away — pocket, bag, another room — addresses the cue itself, not just your behaviour."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The mere presence of the device seems to shift how present people feel to one another, often below conscious awareness.",
+      "source": "On the visible-phone finding"
+    },
+    {
+      "text": "The cost doesn't disappear just because the behaviour is common; it's simply paid by both people at once and rarely named.",
+      "source": "On why 'everyone does it' doesn't hold up"
+    }
+  ],
   "faqs": [
     {
       "question": "Is checking your phone around others actually rude?",

@@ -34,6 +34,35 @@
     "It is worth being honest that this is a domain of tendencies, not precise numbers. The association between authoritative parenting and better average outcomes is real but modest, repeatedly found in Western samples and weaker or different elsewhere — not a large, universal effect. There is no reliable percentage that captures 'how much' a style determines a child's future.",
     "Behavioural-genetics research offers the most sobering context: across studies, roughly half of the variation in many personality traits is linked to genes, and much of the rest to non-shared environment that parents do not directly control. That does not make parenting pointless — warmth and safety clearly matter — but it does mean the share any single method can plausibly explain is small, which is the opposite of how the parenting-advice market presents it."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no single proven 'best way' to parent; anyone selling one is overstating the evidence.",
+    "Warmth plus structure tends to track somewhat better outcomes, but the effect is modest and culturally specific.",
+    "'Good enough' care — reliable, mostly-attuned, repaired when it slips — matters more than mastering a technique.",
+    "Roughly half the variation in personality traits is linked to genes, which caps how much any method can explain.",
+    "Reducing the parent's own stress is one of the better-supported indirect levers."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The parent chasing the 'right' method",
+      "body": "A parent reads three books, each naming a system and implying the others are quietly harming their child, and ends up anxious about every bedtime and lost temper. The evidence points the other way: no single named method carries the support its marketing implies, and the anxiety itself is transmitted to children. Steady, ordinary attunement does more than the optimal technique."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Getting it wrong, then repairing it",
+      "body": "A parent snaps after a hard day, then comes back, apologises, and reconnects. The attachment literature suggests these ruptures matter far less when they are followed by reconnection — so the repair, done consistently, buffers the ordinary mistakes every parent makes. 'Good enough,' reliably, beats 'perfect,' inconsistently."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Children are served by ordinary, reliable, mostly-attuned care — not flawless care.",
+      "source": "On Winnicott's 'good enough' parenting"
+    },
+    {
+      "text": "'Authoritative is best' is better read as 'warmth plus structure tends to help in the populations where it has mostly been studied' than as a universal law."
+    }
+  ],
   "faqs": [
     {
       "question": "Is the 'authoritative' style scientifically the best?",

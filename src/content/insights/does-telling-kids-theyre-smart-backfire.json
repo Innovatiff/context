@@ -39,6 +39,39 @@
     { "value": "Small", "label": "Average real-world effect of mindset interventions in large studies", "source": "Mindset intervention meta-analyses" },
     { "value": "Weak", "label": "Evidence that boosting self-esteem directly improves achievement or behavior", "source": "Self-esteem literature reviews" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The type of praise seems to matter more than the amount: process praise tends to support persistence a little better than praising fixed ability.",
+    "In the Mueller and Dweck experiments, children praised for intelligence later avoided harder tasks and coped worse with failure than those praised for effort.",
+    "The effect is modest, and the broader 'mindset' research it connects to has been contested and not always replicated at the size first reported.",
+    "The 1990s self-esteem movement oversold itself: reviews found self-esteem is mostly a result of doing well, not a cause of it.",
+    "No single 'you're so clever' harms a child — this is a low-cost lean toward process praise, not a transformation."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Two ways to praise the same success",
+      "body": [
+        "A child finishes a hard puzzle. 'You're so smart' points at a trait the next task can only confirm or threaten. 'You kept trying different approaches until it worked' points at something the child controlled and can repeat.",
+        "In the studies, that second framing tracks slightly better persistence after a later failure — because fixed-ability praise quietly teaches that a setback is a statement about the self rather than information about the task."
+      ]
+    },
+    {
+      "label": "On the bigger picture",
+      "title": "A low-cost lean, not a magic technique",
+      "body": "It is tempting to treat process praise as a guaranteed fix, but the mindset-intervention research shows small, inconsistent effects, clearer mainly among struggling students. The honest version is narrow and reassuring: leaning toward praising effort and strategy costs nothing and helps a little, while a warm relationship and honest feedback matter more than the exact wording."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'You're so smart' points at a trait they can only have or lack; 'you kept trying different approaches' points the child toward what they can repeat.",
+      "source": "On process versus person praise"
+    },
+    {
+      "text": "High self-esteem is mostly a consequence of competence and good relationships, not a lever that reliably produces them.",
+      "source": "On the self-esteem movement"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it bad to tell my child they're smart?",

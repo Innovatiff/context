@@ -40,6 +40,50 @@
     { "value": "No fixed cap", "label": "AAP hour limit for school-age kids — replaced by a family media plan", "source": "American Academy of Pediatrics" },
     { "value": "Very small", "label": "Typical effect size linking screen time to lower wellbeing once confounders are controlled", "source": "Large dataset re-analyses" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "There is no scientifically established 'safe' number of screen hours for older kids — guidance deliberately moved away from one.",
+    "Content, context, co-use, and what screens displace matter more than the raw hour count.",
+    "The evidence that screen time causes harm is mixed and generally modest; re-analyses shrink the effects to very small once confounders are controlled.",
+    "The firmer harms run through displacement — especially screens cutting into sleep — rather than screen exposure itself.",
+    "The clearest hard limits are at the youngest ages: avoid screens other than video-chat under about 18 months."
+  ],
+  "tables": [
+    {
+      "title": "AAP screen-media guidance by age",
+      "caption": "The strongest guidance is at the youngest ages; for school-age children the numeric cap is deliberately replaced by a family media plan, reflecting how weak the case for a universal threshold turned out to be.",
+      "columns": ["Age", "General guidance"],
+      "rows": [
+        ["Under ~18 months", "Avoid screen media other than video-chatting"],
+        ["Ages 2–5", "About 1 hour/day of high-quality programming, ideally co-viewed"],
+        ["School-age & teens", "No single hour cap — a family media plan prioritising content, co-use, sleep and activity"]
+      ],
+      "highlightColumn": 1,
+      "source": "American Academy of Pediatrics"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "High hours, intact sleep",
+      "body": "A ten-year-old logs a screen-time number that looks alarming on the usage dashboard, but still sleeps well, plays outside, keeps up at school, and sees friends in person. On the current research, that raw number matters less than it feels like it should — because the variables that reliably move the needle, sleep and displacement, are intact. A high hour count that doesn't eat into those is a different situation from a lower count that wrecks sleep."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A screen at bedtime",
+      "body": "A phone or tablet in the bedroom, used in the hour before sleep, sits on one of the firmest findings in this literature: screens close to bedtime and in the bedroom are fairly consistently linked to shorter, worse sleep — which then affects mood, attention, and learning. This is why timing and where a screen lives can matter more than the total tally."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A high hour count that doesn't eat into sleep, activity, school, and in-person time is a different situation from a lower count that wrecks sleep.",
+      "source": "On why the raw number misleads"
+    },
+    {
+      "text": "The evidence does not support treating ordinary, sensible screen use as a moral failing.",
+      "source": "On parental guilt"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a recommended number of screen-time hours for kids?",

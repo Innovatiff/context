@@ -34,6 +34,36 @@
     "This is a domain of patterns more than precise figures, and that itself is worth stating plainly. The headline finding from behavioural genetics is qualitative: the shared family environment explains far less of adult personality variation than most people assume, while genetics and non-shared environment together explain most of it. Researchers often summarise this as roughly half of personality variation being linked to genes, with most of the remainder traced to non-shared rather than shared experience.",
     "The practical takeaway is that siblings raised in the same home are usually about as different in personality as you would expect unrelated people to be, once shared genes are accounted for. Their influence on you is genuine but specific and individual, not a uniform force — which is the opposite of the common intuition that a shared upbringing produces shared personalities."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Siblings raised in the same home usually turn out strikingly different in personality — the reverse of what most people expect.",
+    "Behavioural-genetics research finds the shared family environment explains surprisingly little of adult personality variation.",
+    "Genetics and the non-shared environment — experiences unique to each individual — explain most of it.",
+    "Siblings actively push each other apart through 'de-identification', carving out distinct niches and identities.",
+    "Sibling influence on personality is modest; their influence as long-term relationships is substantial."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "'The studious one' and 'the athlete'",
+      "body": "When one sibling becomes 'the studious one,' another often leans away from that role and stakes out a different niche. Researchers call this de-identification or differentiation. It means part of sibling influence works not by making each other similar but by pushing each other to be different — and from the inside it feels like natural difference rather than mutual influence."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two kids, same house, two strangers",
+      "body": "A parent is puzzled that their two children — same home, same rules, same rituals — turned out so unlike each other. In personality terms that is the norm, not a sign something went wrong. Once you set aside the genes they share, siblings raised together are often almost as different as two unrelated people, because each child is also living a unique, non-shared life inside the same family."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Two children raised together are often almost as different from each other as two strangers, once you set aside the genes they share.",
+      "source": "On shared upbringing"
+    },
+    {
+      "text": "Part of sibling influence is not making each other similar, but pushing each other to be different.",
+      "source": "On de-identification"
+    }
+  ],
   "faqs": [
     {
       "question": "Why are my siblings and I so different despite the same upbringing?",

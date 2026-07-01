@@ -39,6 +39,36 @@
     { "value": "Medium–large", "label": "Average effect of if-then implementation intentions on goal attainment", "source": "Gollwitzer & Sheeran, meta-analysis 2006" },
     { "value": "Situation > willpower", "label": "Behaviour is shaped more by environment than by in-the-moment resolve", "source": "Self-control and habit research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Intention is only a weak predictor of action — the intention-behaviour gap is a normal state, not a personal defect.",
+    "Specific 'if-then' implementation intentions show a medium-to-large effect on actually reaching goals.",
+    "Situation tends to beat willpower: much self-control is really arranging life so less self-control is needed.",
+    "Vague goals like 'be healthier' specify no cue or action, so they're especially weak.",
+    "Anticipating the likely obstacle in advance and pre-loading a response helps close more of the gap."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'This time I really mean it'",
+      "body": "Someone resolves, again, to start exercising — and feels the resolve strongly. Weeks later nothing has changed. That isn't weak character; it's the intention-behaviour gap in action. Strengthening the resolve without changing the plan or the surroundings tends to produce a stronger feeling and roughly the same behaviour."
+    },
+    {
+      "label": "Illustrative",
+      "title": "An if-then plan instead of a vague goal",
+      "body": "Rather than 'I'll be more active,' the plan becomes 'if it's 7am and I've finished breakfast, then I'll put on my shoes and walk.' When the cue arrives, the decision is already made — you're executing, not negotiating under pressure. Laying the shoes by the door the night before lets the situation carry part of the load that willpower usually gets asked to bear alone."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The plan and the situation do much of the work that motivation is usually asked to do.",
+      "source": "On closing the intention-action gap"
+    },
+    {
+      "text": "People who appear to have strong self-control are often just people who arranged their lives so fewer acts of self-control are required.",
+      "source": "On situation vs willpower"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I keep failing to do things I genuinely want to do?",

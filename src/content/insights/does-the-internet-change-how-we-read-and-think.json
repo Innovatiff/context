@@ -34,6 +34,36 @@
     "This is a topic where precise numbers should be treated with real caution, because the strongest claims are interpretive rather than the product of clean, settled experiments. What is reasonably well supported is qualitative: online reading tends toward skimming, scanning, keyword-spotting, and non-linear movement, with less sustained deep reading than on paper, as documented in Ziming Liu's research.",
     "On comprehension, meta-analytic work suggests a modest tendency for paper to outperform screens on demanding or time-pressured reading — the screen inferiority effect — but the gaps vary widely and are not always found. The fair takeaway is that the medium and your reading habits matter somewhat, that deep reading is a practised and protectable skill, and that anyone claiming the internet has definitively rewired the human brain is reaching well beyond what the evidence can currently bear."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Online reading behaviour clearly skews toward skimming, scanning, and non-linear jumping.",
+    "That behavioural shift is better established than the claim that the internet has rewired our brains.",
+    "Comprehension can be modestly better on paper for demanding texts — the screen inferiority effect — but the gaps are inconsistent.",
+    "Deep reading appears to be a practised, trainable skill, not something permanently lost.",
+    "The honest position sits between panic and dismissal: behaviour has shifted, deep reading is worth protecting."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Built for movement",
+      "body": "Online text comes wrapped in hyperlinks, headings, snippets, and an endless next thing, so the fast, fragmented style gets reinforced thousands of times a day while deep reading is rarely prompted by anything. You drift toward the behaviour the environment keeps rewarding — and then experience that drift as a change in yourself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The book that feels harder than it used to",
+      "body": "Sitting with a long, dense book can feel more effortful than it once did, and the pull toward checking, clicking, and switching is real. That felt experience is genuine — but it doesn't prove your attention is permanently broken. Deep reading appears trainable: setting aside uninterrupted time for sustained, linear reading is the most direct way to exercise and maintain it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Behaviour has shifted, deep reading is worth protecting, and the strong brain-change claims remain unproven.",
+      "source": "On the honest middle position"
+    },
+    {
+      "text": "The fast mode and the slow mode are different tools — it helps to choose deliberately rather than always defaulting to the scannable one.",
+      "source": "On matching medium to goal"
+    }
+  ],
   "faqs": [
     {
       "question": "Has the internet rewired our brains?",

@@ -39,6 +39,35 @@
     { "value": "Near zero", "label": "Well-designed studies supporting the 'meshing' hypothesis", "source": "Pashler et al., Psychological Science in the Public Interest, 2008" },
     { "value": "Strong", "label": "Evidence for spacing and retrieval practice across learners", "source": "Cognitive psychology of learning" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Format preferences are real, but matching teaching to a preferred 'style' has not been shown to improve learning.",
+    "Around 90% of educators and the public endorse learning styles — one of the most durable education 'neuromyths.'",
+    "The 2008 Pashler review found almost no well-designed studies supporting the 'meshing' hypothesis.",
+    "Better-supported methods — spacing, retrieval practice, mixing topics — help most learners regardless of style.",
+    "Matching the format to the material, not the person, is the more useful move."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The self-labelled 'visual learner'",
+      "body": "Someone decides they are a visual learner and starts avoiding text and lectures. Liking a format and learning more from it are separate things, and they often come apart. Restricting how you study to one channel is the part the evidence specifically warns against — it can cut you off from formats that would have helped."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Rereading that feels productive",
+      "body": "A learner rereads and highlights before an exam and feels well prepared. Those comfortable defaults are among the least effective study methods in the research, despite feeling productive — the fluency they create is easily mistaken for actual learning. Spacing study over time and self-testing have far stronger support."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest summary is not 'styles don't exist' but 'matching teaching to style has not been shown to work, and several other methods clearly have.'",
+      "source": "On the state of the evidence"
+    },
+    {
+      "text": "Liking a format and learning more from it are separate things, and they often come apart."
+    }
+  ],
   "faqs": [
     {
       "question": "So learning styles are completely fake?",

@@ -40,6 +40,36 @@
     { "value": "Switching tax", "label": "Interruption and task-switching are slower and more error-prone than focused work", "source": "Attention research (Mark; switch-cost literature)" },
     { "value": "Mixed", "label": "Overall verdict: tools help, distraction erodes, net effect depends on use", "source": "Synthesis of the above" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Specific tools genuinely raise output — that part isn't seriously in doubt.",
+    "The same connected devices supply constant interruption, and task-switching carries a real cost.",
+    "The productivity paradox: heavy IT investment long didn't clearly show up in the productivity figures.",
+    "Gains arrived with delay and only once organisations reorganised how they worked.",
+    "Net effect depends on use — capture the tool benefits while limiting the distraction that erodes them."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The tool that helps and the tab that leaks",
+      "body": "You notice the document that drafts faster with the right tool — the benefit is visible and immediate. You don't notice the twenty minutes leaking out of a fragmented afternoon of checking and switching. The helpful half of the ledger is the salient half, which is exactly why the overall impression skews more optimistic than the measured reality."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The new app that was supposed to fix focus",
+      "body": "Someone stacks another productivity app on top of the last three, expecting the next one to finally make them efficient. Each new channel is another source of notifications and switching, so beyond a point the added interruption costs more than the added capability. The better-evidenced move is fewer, well-integrated tools used deliberately — and protecting blocks of single-task work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The gains are real and the leakage is real — the net effect depends heavily on how the tools are used.",
+      "source": "On the mixed verdict"
+    },
+    {
+      "text": "You could see the computer age everywhere except in the productivity figures.",
+      "source": "Paraphrasing Solow's 1987 observation"
+    }
+  ],
   "faqs": [
     {
       "question": "So does technology make us more productive or not?",

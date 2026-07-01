@@ -40,6 +40,36 @@
     { "value": "Review flattens it", "label": "Each spaced recall slows the subsequent forgetting", "source": "Spaced-repetition research" },
     { "value": "Relearning is faster", "label": "Recovering 'forgotten' material takes less time than first learning", "source": "Ebbinghaus savings effect" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Forgetting unreviewed material is the normal default of memory, not a malfunction — recall drops fast at first, then slows.",
+    "Much of what feels 'forgotten' is retrieval failure, not erasure: the trace is often still there but hard to access.",
+    "Review changes the curve — each spaced, active recall slows the subsequent forgetting.",
+    "Retrieving material (self-testing) beats rereading, which only refreshes a fragile sense of familiarity.",
+    "Relearning is usually much faster than first learning, thanks to the 'savings' from the partial trace that remains."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Understood it perfectly — gone by Thursday",
+      "body": "You finish a lesson feeling you fully grasp it, and by a few days later most of it won't come back on demand. That steep early drop is the forgetting curve doing exactly what it does, even to material you understood well at the time. The clear feeling of knowing at the moment of learning is temporary, which is why single-exposure learning is reliably followed by rapid loss without review."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The name that returns with one small cue",
+      "body": "A word or a name feels completely gone, then a single prompt brings it straight back. That's the tell that much forgetting is retrieval failure rather than deletion — the memory was still there, just temporarily unreachable. The same thing shows up when 'forgotten' material relearns far faster than it was first learned."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Forgetting is the normal, default behaviour of memory, not a malfunction of it.",
+      "source": "On the forgetting curve"
+    },
+    {
+      "text": "Much of what feels 'forgotten' isn't erased — it's temporarily unreachable. That reframes forgetting as a problem of retrieval, not deletion.",
+      "source": "On retrieval failure"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to forget most of what I learn?",

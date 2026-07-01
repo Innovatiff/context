@@ -39,6 +39,35 @@
     { "value": "Contested", "label": "Current status of the 'willpower depletes' claim", "source": "Replication literature" },
     { "value": "Beliefs matter", "label": "Depletion appeared mainly in people who believed willpower is limited", "source": "Job, Dweck et al." }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The 'willpower is a fuel tank' idea — ego depletion — is now contested, not settled.",
+    "Large pre-registered replications failed to find the effect or found one too small to distinguish from noise.",
+    "Some research suggests depletion appears mainly in people who believe willpower is limited.",
+    "Self-control still clearly varies with fatigue, mood, and situation, regardless of the depletion debate.",
+    "The sturdier lever is environment and habits: arrange your life to need less willpower rather than summon more."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The lapse blamed on an empty tank",
+      "body": "You give in to a temptation at the end of a long day and conclude you 'ran out of willpower.' But fatigue, hunger, low mood, a strong cue, or simply an environment full of temptation can produce the same difficulty without any depleting resource. Reading every slip as spent willpower points you at the wrong fix."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Designing the situation instead",
+      "body": "Rather than trying to hoard resolve for the hard moment, you reduce exposure to the temptation, build a helpful routine, and remove friction from the behaviour you want. Across self-control research, people who reach their goals tend to be the ones who arranged their lives to need less willpower — not the ones with heroic reserves of it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People who succeed at their goals tend not to be those with heroic willpower but those who arrange their lives to need less of it.",
+      "source": "On environment over resolve"
+    },
+    {
+      "text": "The metaphor outlived the strength of its support."
+    }
+  ],
   "faqs": [
     {
       "question": "So does willpower actually run out or not?",

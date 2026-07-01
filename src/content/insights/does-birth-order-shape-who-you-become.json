@@ -34,6 +34,36 @@
     "The personality effects are essentially zero. The large modern studies (Rohrer and colleagues, 2015; Damian and Roberts, 2015) found birth-order associations with the major personality traits that were either undetectable or so small as to be practically meaningless — even when sample sizes ran into the hundreds of thousands, which makes even trivial effects technically visible.",
     "The intelligence effect is real but tiny: roughly a one-to-two-point average difference in IQ between earlier- and later-born children in the studies that find it. To put that in context, individual IQ scores vary by far more than that from day to day and from test to test, so the birth-order gap is undetectable in any single person. The headline is that birth order is one of the weakest predictors of who you become that popular psychology takes seriously."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Large modern studies find no meaningful birth-order effect on the major personality traits.",
+    "The one effect that holds up is small and narrow: a very slight average edge in measured intelligence and education for earlier-born children.",
+    "That edge is roughly a point or two of IQ on average — invisible in any individual and unrelated to personality.",
+    "Within-family differences are real, but they reflect siblings carving out distinct roles, not stable personality laws across the population.",
+    "For understanding your own personality, birth order is one of the least useful lenses available."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'I'm the irresponsible youngest'",
+      "body": "Someone might explain a habit through their birth position — the classic 'spoiled baby' or 'overlooked middle.' The research suggests this is a self-limiting story with no real basis: the personality effects large studies can find are essentially negligible, so the label carries far more explanatory weight than the evidence can support."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A parent worried about a firstborn",
+      "body": "A parent may fear that being the eldest is quietly fixing a child's personality. The evidence is reassuring: there is no need to compensate for birth order, because the personality effects researchers can find are essentially negligible. Warmth, stability, and attention matter far more than where a child falls in the sibling line."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When an effect is statistically present but vanishingly small, the honest summary is that it barely exists.",
+      "source": "On birth order and personality"
+    },
+    {
+      "text": "A difference of a point or two of IQ on average is invisible in any individual — a population-level curiosity, not a useful fact about anyone you know.",
+      "source": "On the intelligence edge"
+    }
+  ],
   "faqs": [
     {
       "question": "Are firstborns really more responsible or successful?",

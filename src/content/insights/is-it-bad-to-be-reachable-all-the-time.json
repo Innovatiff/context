@@ -34,6 +34,36 @@
     "There is no single clean statistic for how 'bad' constant reachability is, and anyone offering one should be treated with caution — the research is about mechanisms, not a tidy number. What is reasonably well established is the direction: across recovery studies, greater psychological detachment from work during off-hours is associated with lower fatigue and higher wellbeing, while telepressure is associated with more burnout symptoms and worse sleep.",
     "It is worth holding the nuance that availability is not uniformly harmful. For some roles and some people, being reachable carries little cost or even provides a sense of control. The honest reading is that the danger lies specifically in losing the ability to detach — and that this loss is common enough, in an always-on environment, to be worth taking seriously rather than assuming you are the exception."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The cost isn't the messages themselves — it's the difficulty of psychologically detaching from work.",
+    "Psychological detachment is one of the more consistent predictors of feeling recovered.",
+    "Telepressure — the urge to reply quickly — is linked to more burnout symptoms, cognitive fatigue, and worse sleep.",
+    "Predictability appears to matter more than total disconnection: reliable off periods let the mind stand down.",
+    "Reachability is largely a shared norm, so team-level boundaries tend to outperform individual willpower."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The tally that never looks alarming",
+      "body": "A single message takes seconds to read, so the running total never looks worrying in the moment. What accumulates isn't the time spent replying but the background vigilance — a low hum of monitoring that never lets the mind fully stand down, and that you only notice as a vague, end-of-week tiredness."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Clearing the inbox to relax",
+      "body": "Replying immediately to clear your head feels like relief, but it usually backfires: it trains the very expectation of instant response that fuels telepressure — in others and in yourself — and converts every off-hours moment into a potential work moment. The short relief of an empty inbox is bought with longer-run vigilance."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Reachability itself is neutral; what matters is whether you can detach from work when you are not working.",
+      "source": "On the real cost"
+    },
+    {
+      "text": "Uncertainty about whether a message will arrive can be as taxing as the message itself.",
+      "source": "On why predictability matters"
+    }
+  ],
   "faqs": [
     {
       "question": "What is telepressure?",

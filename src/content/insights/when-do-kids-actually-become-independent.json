@@ -39,6 +39,35 @@
     { "value": "Later", "label": "Direction milestones like leaving home have shifted over recent decades", "source": "National statistical agencies / OECD" },
     { "value": "Common", "label": "Prevalence of young adults moving back home ('boomeranging')", "source": "Census and survey data, multiple countries" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no fixed age of independence; researchers describe a long in-between stage, 'emerging adulthood.'",
+    "Milestones like leaving home and financial self-sufficiency have drifted later over recent decades.",
+    "The shift is structural — longer education, housing costs, a changed labor market — not a weaker generation.",
+    "Boomeranging is common and often strategic, not a marker of arrested development.",
+    "Living arrangement is a weak proxy for the real markers of maturity: judgment, responsibility, self-direction."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The parent measuring by their own memory",
+      "body": "A parent left home cleanly at 20 and reads their adult child's slower launch as falling behind. But they left home in a cheaper, different economy. The same forces — longer education, higher housing costs relative to incomes, a more uncertain early-career labor market — are pushing on nearly the whole cohort, which is the opposite of an individual failing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The boomerang return",
+      "body": "A young adult moves back home after college or a job loss and it feels like a verdict. In the research it is a common, often strategic response to costs and transitions. Where families set out clear, mutual expectations — about contributions, timelines, and shared space — co-residence is commonly a practical bridge rather than a sign something has gone wrong."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The maturity that matters develops gradually and invisibly, often well before the external milestones are met.",
+      "source": "On living arrangement as a weak proxy"
+    },
+    {
+      "text": "On-time, normal lives can feel late — because the yardstick is a schedule that stopped describing most people's reality long ago."
+    }
+  ],
   "faqs": [
     {
       "question": "At what age do kids become independent?",

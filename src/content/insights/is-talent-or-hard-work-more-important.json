@@ -40,6 +40,36 @@
     { "value": "No magic number", "label": "Status of the '10,000 hours' rule, disputed by Ericsson himself", "source": "Ericsson et al.; popularised separately" },
     { "value": "Modest", "label": "Typical predictive strength of grit, overlapping with conscientiousness", "source": "Duckworth and colleagues" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Both talent and hard work matter; the popular all-effort and all-talent stories are each oversold.",
+    "Deliberate practice reliably improves performance but explains only part of the difference between people.",
+    "How much practice explains depends on the field — more in chess and music, less in less-structured domains.",
+    "The '10,000 hours' rule doesn't hold up: there's no magic number, and equal hours don't produce equal results.",
+    "Grit predicts outcomes only modestly and overlaps heavily with conscientiousness — an ingredient, not a master key."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Same hours, different terrain",
+      "body": "Two people each log a thousand focused hours — one on chess, one in a loosely structured profession. The chess player's improvement tracks the practice closely, because the field is one where structured practice explains a large share of performance. In the less-structured domain, the same hours buy a smaller, less predictable gain. It isn't that one person tried harder; the payoff to practice simply differs by field."
+    },
+    {
+      "label": "The trap",
+      "title": "The expert who looks 'gifted'",
+      "body": "We meet a finished expert and see the skill, not the years of invisible, effortful practice behind it — so it reads as innate. At the same time, survivorship bias hides everyone who worked just as hard and never reached the top. Both distortions make whichever factor we're looking at, talent or effort, seem more decisive than the evidence supports."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Effort is closer to a necessary condition than a sufficient one — the same amount of work does not produce the same result in everyone.",
+      "source": "On what the evidence actually shows"
+    },
+    {
+      "text": "There is no magic number of hours that produces expertise; Ericsson himself disputed the '10,000 hours' rule.",
+      "source": "On the 10,000-hours myth"
+    }
+  ],
   "faqs": [
     {
       "question": "So is talent or hard work more important?",

@@ -34,6 +34,36 @@
     "The pattern in the raw data is striking, which is exactly why it is easy to over-read: across many adolescent surveys, teens who eat frequently with family report consistently better outcomes than those who rarely do. But these are largely cross-sectional correlations, and when studies adjust for family income, structure, schedules, and involvement, the family-meal effect typically shrinks — sometimes substantially. Treat the large headline gaps as inflated by selection.",
     "Family-meal frequency has also declined in many households over recent decades, often blamed for assorted social ills. The selection research is the useful corrective here: the families eating together less are frequently those under more time and economic pressure, so the meal is partly a symptom of those pressures, not just a cause of outcomes. The connection behind the meal is what the evidence keeps pointing back to."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Frequent family meals correlate reliably with better adolescent wellbeing — but much of that link is selection, not the meal itself.",
+    "When studies hold family income, structure, schedules, and involvement constant, the family-meal effect typically shrinks.",
+    "The active ingredient is probably connection — warm, regular, low-distraction attention — for which dinner is one convenient container among many.",
+    "Quality plausibly matters more than frequency; a tense or rushed dinner is not obviously protective.",
+    "For families whose schedules don't allow regular dinners, the same warmth can be built into the time they do have."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The parent who feels guilty about missed dinners",
+      "body": "A parent working shifts may feel they are failing because the family rarely eats together. The selection research reframes this: the dinner table is not a unique source of connection, and much of the raw correlation reflects the kinds of families who can eat together rather than the meal itself. Warm, attentive time built into a car ride or bedtime routine appears to do similar work."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Hitting a dinner 'quota' without the warmth",
+      "body": "A household that forces a daily but tense, phone-filled meal to tick the box is unlikely to get the benefit the correlation seems to promise. If the active ingredient is connection, a conflict-filled or distracted dinner is not obviously protective — a relaxed, phone-free meal where people actually talk is a better candidate for whatever modest benefit exists."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The connection seems to matter more than the dinner. A shared meal is a convenient container for it, not the active ingredient.",
+      "source": "On what the meal is doing"
+    },
+    {
+      "text": "The dinner is a marker and a modest contributor — not a powerful independent cause of good outcomes.",
+      "source": "On reading the correlations"
+    }
+  ],
   "faqs": [
     {
       "question": "Do family dinners actually improve children's outcomes?",

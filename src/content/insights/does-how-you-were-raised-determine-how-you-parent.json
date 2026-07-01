@@ -34,6 +34,36 @@
     "This is a domain of tendencies rather than precise figures, and the honest framing is important. The intergenerational continuity of parenting and attachment is real but modest — the correlations across generations are meaningful but far from total, which is precisely why so many people parent differently from how they were raised. There is no reliable percentage that says 'X% of people repeat their upbringing,' and any such number should be treated with suspicion.",
     "The most load-bearing finding is qualitative: a difficult childhood does not, by itself, predict repeating it. What the research links to breaking the cycle is making coherent sense of your own history — the 'earned secure' pathway. The continuity is the baseline tendency; reflection, supportive relationships, and therapy are the documented routes to revising it. Destiny is the wrong word; predisposition is the right one."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Parenting and attachment patterns show real intergenerational continuity — but the correlations are modest, not overwhelming.",
+    "Continuity is a probabilistic tendency across groups, not a fixed script any individual is locked into.",
+    "'Earned secure' attachment shows the cycle can be broken: people who make coherent sense of a hard childhood can parent securely.",
+    "It is not the hard childhood itself that predicts repeating it, but not having processed it.",
+    "Change rarely comes from willpower alone; it happens within supportive relationships, and repair matters more than perfection."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The phrase you swore you'd never say",
+      "body": "In a hard moment, a parent hears their own parent's words come out of their mouth and takes it as proof they are fated to repeat everything. The research suggests the opposite: those automatic moments are exactly the ones awareness can interrupt. They feel inevitable, but the data describes a tendency that can be revised, not a sentence."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Making sense of a difficult upbringing",
+      "body": "Someone who grew up with insecure early relationships but has reflected on that history — through a stable partnership or therapy — can go on to parent in secure, warm ways. This is the 'earned secure' pathway: the capacity to reflect on and make sense of your own upbringing is one of the better-supported routes to not simply repeating it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Continuity is the default tendency; conscious change is a well-documented exception.",
+      "source": "On breaking the cycle"
+    },
+    {
+      "text": "Destiny is the wrong word; predisposition is the right one.",
+      "source": "On how upbringing carries forward"
+    }
+  ],
   "faqs": [
     {
       "question": "Am I destined to parent the way I was raised?",

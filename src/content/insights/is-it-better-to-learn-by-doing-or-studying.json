@@ -39,6 +39,32 @@
     { "value": "Higher scores", "label": "Exam performance in active-learning vs lecture-only conditions in the same meta-analysis", "source": "Freeman et al., PNAS 2014" },
     { "value": "Both", "label": "What the research supports rather than choosing doing or studying", "source": "Learning research, general pattern" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Framed as either-or, the question misleads: the research supports combining doing and studying, not choosing.",
+    "Active learning generally beats passive study — in Freeman et al. (2014), it raised exam scores and lowered failure rates.",
+    "Doing works best on a foundation of real knowledge; 'pure discovery' with no guidance works poorly for novices.",
+    "Passive study feels productive because it creates fluency, a weak predictor of what you can actually recall or use.",
+    "Let hands-on doing reveal the gaps a sense of fluency hides, then study those — the two modes reinforce each other."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The re-read that feels learned",
+      "body": "You re-read and highlight a chapter and it all looks familiar, so it feels mastered. That comfortable fluency is a weak predictor of whether you can actually use or recall the material later. Shifting even part of that time to retrieval and application — testing yourself, solving problems, explaining ideas in your own words — is one of the better-supported changes you can make."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Learning enough to act, then acting",
+      "body": "A novice benefits from instruction and worked examples early, then increasingly from doing it themselves as knowledge grows. So the practical sequence is often: learn enough to act, then act, then return to study the gaps the doing exposed. The doing surfaces the step you cannot perform or the concept you cannot explain — and that becomes the map of what to study next."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Active learning often feels worse while it works — the struggle you read as 'not learning' is frequently the sign of learning happening.",
+      "source": "On why our judgments run backwards"
+    }
+  ],
   "faqs": [
     {
       "question": "So is doing better than studying?",

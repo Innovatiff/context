@@ -39,6 +39,36 @@
     { "value": "Cue-driven", "label": "What triggers habits — context, not ongoing decision", "source": "Wood, habit research" },
     { "value": "Disruption helps", "label": "Habits loosen when the surrounding context changes", "source": "Habit discontinuity research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Habits run automatically in response to familiar cues, so willpower fights the behaviour after the cue has already fired.",
+    "Studies of daily behaviour suggest roughly 40% or more of everyday actions are performed habitually (an approximate, much-cited estimate).",
+    "Strong intentions are only weakly linked to actually breaking an entrenched habit — the environment does much of the work.",
+    "Changing the cues and environment tends to work better than resolving to resist.",
+    "Moments of disruption — a move, a new job, a new routine — are unusually good windows for changing habits, because the old cues are gone."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The invisible cue you never fight",
+      "body": "You resolve to stop, then do the thing anyway when the familiar trigger appears — the specific chair, the time of day, the mood, the preceding action. You notice the behaviour but not the cue that summons it, so you attack the visible action while leaving the hidden trigger fully intact. Attacking the behaviour without touching the cue is a setup for repeated relapse."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The move that broke a habit by accident",
+      "body": "Someone struggles for years to change a routine, then changes jobs or moves house and finds the old habit suddenly easier to drop. This is habit discontinuity: when the usual cues disappear, the automatic link is interrupted and the window for different behaviour widens. The habit was being held in place by the environment more than by any ongoing decision to do it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Once the cue-behaviour link is strong, the cue tends to call up the behaviour before deliberate intention gets a vote.",
+      "source": "On why habits are automatic"
+    },
+    {
+      "text": "A slip isn't proof of a character flaw — it's more accurate to say the environment won that round, which points to changing the environment.",
+      "source": "On relapse"
+    }
+  ],
   "faqs": [
     {
       "question": "Why can't I break a habit just by deciding to?",

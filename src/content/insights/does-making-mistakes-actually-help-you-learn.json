@@ -39,6 +39,35 @@
     { "value": "Long-term", "label": "When 'desirable difficulties' pay off — later retention, not the moment", "source": "Bjork, desirable difficulties" },
     { "value": "Often reversed", "label": "How learners rate easy vs. hard methods vs. how well they work", "source": "Metacognition studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Mistakes can improve learning — but mainly when they're followed by feedback that corrects them.",
+    "Kapur's 'productive failure': struggling before being taught often deepens later understanding.",
+    "Bjork's 'desirable difficulties': conditions that slow learning now can improve retention later.",
+    "Smooth study produces fluency that feels like learning but often collapses on a later test.",
+    "The honest claim is narrower than 'mistakes help' — it's 'effortful attempts plus correction help.'"
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Attempting the problem before you're shown how",
+      "body": "In productive-failure studies, students who first wrestle with a problem they haven't been taught to solve — and usually get it wrong — often understand the underlying concept better once the method is explained than students taught the method up front. The early struggle seems to prepare the mind so the eventual explanation lands on ready ground."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Guessing wrong, then seeing the answer",
+      "body": "Someone tries to recall an answer, gets it wrong, then checks the correct one. That errorful attempt followed by correction can produce better memory than simply studying the right answer from the start — as long as the loop is closed. The same wrong guess with no correction just risks reinforcing the error."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The methods that work best often feel like the ones that are going wrong.",
+      "source": "On why struggle feels like failure"
+    },
+    {
+      "text": "Do not trust the feeling of ease as a sign of learning, and always close the loop with feedback."
+    }
+  ],
   "faqs": [
     {
       "question": "Do mistakes really help, or is that just motivational talk?",

@@ -40,6 +40,35 @@
     { "value": "Hippocampus", "label": "Memory and reward circuitry more active during curious states", "source": "Gruber, Ranganath et al., 2014" },
     { "value": "Sustained effort", "label": "Interest supports deeper engagement and persistence over time", "source": "Research on interest in learning" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Being in a curious state is linked to stronger memory for the answer you're curious about.",
+    "Curiosity can even improve memory for incidental, unrelated information encountered in that moment.",
+    "Gruber, Ranganath and colleagues linked this to heightened activity in memory and reward circuitry.",
+    "Curiosity is more cultivable than it feels — framing material as a question can spark it.",
+    "It's a strong entry point, not a replacement for retrieval practice, spacing, and sleep."
+  ],
+  "examples": [
+    {
+      "label": "The finding",
+      "title": "The face you happened to see while waiting for an answer",
+      "body": "In the curiosity research, people made curious about a trivia answer remembered that answer better — and also remembered incidental information, like a face shown during the wait, that they had no reason to focus on. A curious state seems to prime the brain for whatever you encounter in that window, not just the thing you were curious about."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Turning dry material into a question worth answering",
+      "body": "Faced with a topic that feels flat, you generate a question you'd genuinely like the answer to, or tie it to a problem you already care about, and learn into that gap. Assuming you simply 'aren't curious' about a subject usually just means you haven't yet found the angle that makes it a question worth answering."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Information absorbed when you genuinely wanted to know it tends to stick, while information you were indifferent to slides off.",
+      "source": "On why curiosity helps memory"
+    },
+    {
+      "text": "Curiosity is a powerful entry point, not a replacement for the practices that turn an encoded memory into a lasting one."
+    }
+  ],
   "faqs": [
     {
       "question": "Does curiosity really improve memory?",

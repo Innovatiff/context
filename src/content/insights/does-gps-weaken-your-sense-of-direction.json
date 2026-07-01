@@ -34,6 +34,36 @@
     "The brain findings are real but should not be over-read. Demanding real-world navigation has been associated with greater hippocampal engagement and, in the London taxi-driver studies, with larger posterior hippocampal volume — striking, but in an unusually extreme group. Dahmani and Bohbot (2020) found heavier lifetime GPS use associated with worse spatial memory and steeper decline, which is suggestive but correlational and cannot establish that GPS is the cause.",
     "The most reliable, least surprising finding is about attention: people navigating under GPS tend to remember routes and surroundings less well afterward, because they engage with them less. Whether years of GPS use produce a lasting, meaningful drop in your unaided sense of direction — as opposed to a skill that's simply out of practice and can be rebuilt — remains genuinely unsettled. Treat the whole area as plausible-but-not-proven."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Active, map-building navigation engages the hippocampus in a way passive route-following does not.",
+    "Heavier lifetime GPS use has been linked to worse spatial memory — but the evidence is correlational, not proof of cause.",
+    "The clearest finding is about attention: you remember less of a route you didn't have to work out.",
+    "Where a decline exists, it's more plausibly an unpracticed skill than physical damage — and spatial skills are trainable.",
+    "Using GPS as a check rather than a crutch keeps the map-building system engaged."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Driving somewhere a dozen times and still needing the app",
+      "body": "You've followed GPS to the same place many times but still can't get there unaided. That vivid experience feels like proof the tool has rotted your sense of direction. More likely, you simply never engaged the map-building system — you outsourced it — rather than the system having withered. Forming your own route and using the app only to confirm keeps that work in play."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Swearing off GPS entirely to 'protect' the skill",
+      "body": "Worried about decline, you decide to stop using GPS altogether. But quitting a genuinely useful tool trades getting lost, wasted time, and stress for an uncertain benefit — an overcorrection the evidence doesn't support. The better-supported move is occasional active practice: studying the map first, navigating familiar trips without prompts, and orienting by landmarks."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "GPS shifts effort away from a trainable skill, and skills that go unpracticed tend to fade — but the size and permanence of any effect remain genuinely uncertain.",
+      "source": "On the most defensible reading"
+    },
+    {
+      "text": "It is tempting to leap from 'this skill uses the hippocampus' and 'GPS bypasses the skill' straight to 'GPS shrinks your brain.' The evidence supports the first two steps far more confidently than the third.",
+      "source": "On overstating the brain findings"
+    }
+  ],
   "faqs": [
     {
       "question": "Does using GPS make your sense of direction worse?",
