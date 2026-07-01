@@ -40,6 +40,60 @@
     { "value": "~half", "label": "U.S. adults meeting the aerobic guideline alone", "source": "U.S. CDC" },
     { "value": "Some > none", "label": "Activity–health relationship is a gradient, with no hard threshold", "source": "U.S. Physical Activity Guidelines for Americans" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The guideline is 150 minutes of moderate aerobic activity a week plus strength work on two or more days.",
+    "Only about 1 in 4 U.S. adults (~24%) meet both parts — so falling short is the norm, not the exception.",
+    "Roughly half of adults meet the aerobic guideline on its own; fewer meet the strength component.",
+    "The activity–health link is a gradient: any increase helps, and the biggest gains come from very little to a little.",
+    "This is educational context only, not medical advice — check with a clinician before starting something new."
+  ],
+  "tables": [
+    {
+      "title": "U.S. adult adherence to the physical-activity guidelines",
+      "caption": "The guideline is at least 150 minutes of moderate aerobic activity a week plus muscle-strengthening on two or more days. Meeting some or none is more common than meeting all of it.",
+      "columns": ["What people meet", "Share of U.S. adults"],
+      "rows": [
+        ["Both aerobic and strength guidelines", "≈ 24% (about 1 in 4)"],
+        ["Aerobic guideline alone", "≈ half"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. CDC; U.S. Physical Activity Guidelines for Americans"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How many adults meet the guidelines",
+      "caption": "The same CDC figures as bars. Meeting the full guidelines is the minority pattern — most adults meet part or none of it.",
+      "source": "U.S. CDC",
+      "bars": [
+        { "label": "Meet aerobic guideline alone", "value": 50, "display": "≈ half" },
+        { "label": "Meet both aerobic + strength", "value": 24, "display": "≈ 24%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 20-minute walk that 'doesn't count'",
+      "body": "Someone who walks 20 minutes most days but never gets to the gym often files that as 'not really exercising.' But the guidance is explicit that some is better than none, and the steepest gains come from moving from very little to a little — so those walks are doing real work, even though they fall short of the full 150-minute-plus-strength target."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling like the only one who skips workouts",
+      "body": "It can feel like everyone else is fit and consistent while you fall behind. The data runs the other way: roughly three in four adults do not meet the full guidelines. The runners and gym regulars you notice are a visible, self-selecting slice, not a representative sample of how most people actually live."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If you are not hitting the full guidelines, you are in the large majority — this is genuinely common.",
+      "source": "On what 'normal' activity looks like"
+    },
+    {
+      "text": "Any increase in activity is associated with benefits, and the biggest gains come from moving from doing very little to doing a little.",
+      "source": "On the activity–health gradient"
+    }
+  ],
   "faqs": [
     {
       "question": "How much do most people actually exercise?",

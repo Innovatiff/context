@@ -40,6 +40,36 @@
     { "value": "Normal vs. pathological", "label": "Mild gradual change differs from persistent, worsening loss", "source": "Cognitive aging and dementia research" },
     { "value": "See a clinician", "label": "If memory loss is persistent, worsening, or disrupts daily life", "source": "Educational guidance, not a diagnosis" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Some memory change with age is normal and is not the same thing as dementia.",
+    "Processing speed and quick recall ('fluid' functions) tend to slow gradually from early adulthood.",
+    "Vocabulary, knowledge, and well-learned skills ('crystallized' functions) are largely preserved and can keep improving.",
+    "The basics — sleep, exercise, managing cardiovascular risk, staying engaged, less chronic stress — are the best-supported supports.",
+    "Persistent, worsening memory loss that disrupts daily life is different and warrants evaluation by a clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why the losses feel louder than the gains",
+      "body": "Blanking on a word is a vivid, frustrating event you remember; the steady accumulation of vocabulary, judgment, and expertise is invisible and easy to take for granted. So the experience of aging memory skews toward what is slipping, even when much is being preserved or built — which is part of why an ordinary lapse can feel more alarming than the data warrants."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A forgotten name on a tiring day",
+      "body": "Someone stressed, tired, or distracted who blanks on a familiar name can read it as evidence of decline. But a lot of everyday recall depends on attention and state rather than memory machinery, which is why forgetting varies so much day to day. This kind of lapse is common at every age; it is persistent, worsening loss that interferes with daily life — not the occasional blank — that warrants a clinician. (Educational only; not medical advice.)"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The aging brain is better described as shifting its profile — trading some speed and quick recall for accumulated knowledge — than as simply getting 'worse.'",
+      "source": "On fluid vs crystallized abilities"
+    },
+    {
+      "text": "The line to watch is persistent, worsening memory loss that disrupts daily life — that warrants a clinician, not reassurance from an article.",
+      "source": "On when to seek help"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal for memory to get worse as you age?",

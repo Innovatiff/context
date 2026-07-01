@@ -40,6 +40,36 @@
     { "value": "Earlier vs later", "label": "Math and physics tend to peak earlier; history and philosophy later", "source": "Dean Simonton, age and creative productivity research" },
     { "value": "Two types", "label": "Conceptual innovators peak young (Picasso); experimental innovators peak late (Cézanne)", "source": "David Galenson, conceptual vs experimental innovators" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no single peak age for creativity — the timing depends heavily on the field and the kind of creator.",
+    "Simonton finds output often peaks in the late 30s to 40s on average, earlier in math and physics, later in history and philosophy.",
+    "Galenson splits creators into conceptual innovators (peak young) and experimental innovators (peak late).",
+    "The decline in output later in a career is gradual and averaged — not a cliff, and partly reflects changing roles.",
+    "Sustained total output, more than perfect timing, is associated with producing standout work."
+  ],
+  "examples": [
+    {
+      "label": "Two paths",
+      "title": "Picasso young, Cézanne late",
+      "body": "Galenson's contrast makes the point concrete. The young Picasso arrived with radical new ideas early — a 'conceptual' innovator whose defining work came fast. Cézanne worked by gradual trial and error over decades, and his most valued work came in his later years — an 'experimental' innovator. Same question, opposite answers, because age of peak turns on how a person creates, not the calendar."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Worried you've missed your window at 45",
+      "body": "For experimental work that builds through revision and accumulated experience, maturing late is a feature of the path, not a sign of being behind — so patience and sustained practice are exactly what it rewards. Since significant creative work demonstrably happens across the lifespan, treating a particular birthday as a cutoff isn't supported by the data; your most important work could plausibly still be ahead of you."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The data does not support 'too old to be creative.' It supports a picture of many different peaks, with significant work happening at every stage of life.",
+      "source": "On the plurality of peaks"
+    },
+    {
+      "text": "Age of peak is less about the calendar and more about how a person creates.",
+      "source": "On Galenson's two types"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a single age when creativity peaks?",

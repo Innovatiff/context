@@ -39,6 +39,34 @@
     { "value": "Maturity trend", "label": "Average rise in conscientiousness, agreeableness, and emotional stability with age", "source": "Roberts et al., meta-analyses" },
     { "value": "Largest in young adulthood", "label": "When most mean-level personality change occurs", "source": "Roberts et al., meta-analyses" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Core personality traits show strong rank-order stability across adulthood — your standing relative to others changes slowly.",
+    "Stable is not frozen: on average people mature gently toward more conscientiousness, agreeableness, and emotional stability.",
+    "Rank-order stability rises with age and peaks in midlife, but never reaches a ceiling — some room for change always remains.",
+    "The 'end of history illusion' makes people feel they've changed a lot up to now but will change little going forward."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'I'm a completely different person now'",
+      "body": "Looking back, it can feel like you've changed entirely — but usually it is circumstances, roles, and surface behaviour that shifted a great deal while the underlying disposition stayed relatively constant. The visible packaging changes far more than the trait beneath it, so the amount of real change is easy to overestimate."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Betting on a wholesale reinvention",
+      "body": "Planning around a dramatic personality overhaul — expecting willpower or one decisive event to make you fundamentally different — tends to set up disappointment. Change in traits is real but modest and slow, following sustained shifts in roles and repeated behaviour. Choosing environments that fit how you actually are usually works better than a fast self-rewrite."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The core melody stays recognisable while the arrangement matures.",
+      "source": "On stability alongside the maturity trend"
+    },
+    {
+      "text": "Two trends at once — a durable rank-order core plus a gentle, near-universal drift toward greater maturity — rather than either total fixedness or constant reinvention."
+    }
+  ],
   "faqs": [
     {
       "question": "Does my personality stay the same as I get older?",

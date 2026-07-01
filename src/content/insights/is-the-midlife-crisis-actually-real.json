@@ -40,6 +40,35 @@
     { "value": "U-shaped", "label": "Shape of average life satisfaction across adulthood (debated)", "source": "Blanchflower & Oswald" },
     { "value": "Often event-driven", "label": "What midlife distress tends to be triggered by, rather than age itself", "source": "MIDUS study" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The dramatic, cinematic midlife crisis is largely a myth — only a minority report anything like it (MIDUS).",
+    "Where a midlife crisis is reported, it is often triggered by specific events, not by reaching an age.",
+    "A gentle U-shaped dip in average life satisfaction around midlife is real but modest — and debated.",
+    "The label can turn an ordinary hard year into 'my midlife crisis,' making circumstances feel like fixed fate."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A hard year at 47",
+      "body": "A difficult stretch at 47 gets reframed as 'my midlife crisis' rather than simply a hard year. But the MIDUS findings point toward concrete triggers — work, health, relationships, caregiving load — that respond to concrete attention. The label can lend a sense of inevitability to struggles that are really about circumstances, and that often resolve."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The sandwich of compounding demands",
+      "body": "Midlife often stacks career pressure, financial obligations, raising children, and caring for aging parents into the same years. The strain is real — but it is load from compounding responsibilities, which the research treats differently from an age-triggered psychological crisis. Lightening, sharing, or sequencing those demands tends to do more than a dramatic reinvention."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It's a dip, not a breakdown. The cinematic crisis is rare and oversold; the mild midlife low is real on average, but shallow.",
+      "source": "On what the data actually shows"
+    },
+    {
+      "text": "Strain from compounding responsibilities is not the same thing as an age-triggered psychological crisis — and the research distinguishes the two.",
+      "source": "On why midlife feels hard"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the midlife crisis real or a myth?",

@@ -39,6 +39,34 @@
     { "value": "Often positive", "label": "Average wellbeing change after retirement, with wide variation", "source": "Research on retirement and wellbeing" },
     { "value": "More leisure", "label": "How retiree time shifts — more leisure, rest, and household time; less paid work", "source": "American Time Use Survey (ATUS)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Retirement is an adjustment with wide variation — often better than feared, but not a simple switch into ease.",
+    "A commonly described arc is honeymoon, possible disenchantment, then reorientation — not a path everyone follows.",
+    "Wellbeing leans positive on average, but a real minority struggle, especially those who retire involuntarily.",
+    "Freed time does not organize itself — the retirees who fare best deliberately rebuild purpose, routine, and connection."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Past the honeymoon, feeling flat",
+      "body": "Retirement can feel great at first — relief and novelty — and more complicated a few months in, as the loss of routine and identity sets in. That dip is the disenchantment phase some retirees pass through and out of. Expecting uninterrupted happiness is what makes this normal middle stage feel like failure rather than a common step toward a stable new rhythm."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'Who am I now?' after a work-defined career",
+      "body": "For someone whose identity was bound up in their job, the question arrives unexpectedly hard — not because anything is wrong with them, but because a central source of meaning and self-definition has been removed and not yet replaced. Research on work-identity loss points to this as one of the strongest predictors of a difficult adjustment, and to building other sources of meaning beforehand as protective."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The freedom is obvious in advance; the scaffolding you are also giving up — structure, contact, a sense of competence — is not.",
+      "source": "On what work quietly supplies"
+    },
+    {
+      "text": "The freed-up hours are real, but they do not organize themselves."
+    }
+  ],
   "faqs": [
     {
       "question": "Does retirement make people happier or less happy?",

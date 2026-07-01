@@ -31,6 +31,51 @@
     "The structural shift in milestones is the clearest number to anchor to. The US median age at first marriage is now in the range of the late twenties to around 30 (US Census Bureau), up substantially over recent decades, with first births and homeownership similarly later. Median job tenure of roughly four years (US Bureau of Labor Statistics) means the typical worker changes jobs many times, so a single-track career — the backbone of many 22-year-old plans — is now the exception rather than the assumption.",
     "The psychological numbers reinforce it. In Quoidbach, Gilbert, and Wilson's 2013 study, people across the age range underestimated their future change even though they could clearly see how much they'd already changed — an effect found consistently across a large sample. The precise size of anyone's future change can't be predicted, but the direction of the error is robust: we expect to stay the same and don't. Put together, a plan made at 22 is built on a self that will shift and a timetable that already has."
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Almost no one ends up living the specific life they planned at 22 — diverging from it is statistically normal, not failure.",
+    "The self that made the plan keeps changing in ways it underestimates (the End of History Illusion), strongest when young.",
+    "The milestones plans assume have moved: first marriage now lands in the late twenties to around 30, and first births and homeownership come later.",
+    "Careers are less linear — median job tenure is about four years, so a single-track career is now the exception.",
+    "Affective forecasting is unreliable, so even the parts of a plan that come true often don't land the way they were imagined."
+  ],
+  "tables": [
+    {
+      "title": "How the milestones a 22-year-old plan assumes have shifted",
+      "caption": "The old cultural timetable was written for an era when these milestones happened earlier. Anchoring to where people actually are now reframes 'off-plan' as roughly on pace with the data.",
+      "columns": ["Milestone", "Where it now tends to fall"],
+      "rows": [
+        ["US median age at first marriage", "Late twenties to around 30"],
+        ["First births", "Later than for previous generations"],
+        ["Homeownership", "Later than for previous generations"],
+        ["Median job tenure", "About 4 years"]
+      ],
+      "highlightColumn": 1,
+      "source": "US Census Bureau; US Bureau of Labor Statistics"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Holding your life to a stranger's wishes",
+      "body": "Because the End of History Illusion makes your current self feel permanent, you assume the 22-year-old who made the plan should still be authoritative. But that person had different information, different priorities, and a different idea of what mattered. Holding your present life to their plan is, in a real sense, comparing yourself to a stranger's wishes."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'Off-plan' at 30",
+      "body": "Someone at 30 feels behind their 22-year-old blueprint — not married, renting, already on a third job. Measured against the actual distribution, that is close to typical: first marriage now commonly lands in the late twenties to around 30, homeownership and first births come later, and median job tenure is only about four years. Being 'off-plan' usually just means being roughly where the data says people now are."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Holding your present life to a 22-year-old's plan is comparing yourself to a stranger's wishes.",
+      "source": "On the End of History Illusion"
+    },
+    {
+      "text": "Between a changing self, shifting milestones, and forecasting errors, divergence from the plan isn't the exception. It's close to the rule.",
+      "source": "On why plans rarely hold"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal that my life looks nothing like I planned at 22?",

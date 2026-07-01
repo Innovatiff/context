@@ -39,6 +39,36 @@
     { "value": "~ Smoking", "label": "Comparable effect size of social connection to a major mortality risk factor", "source": "Holt-Lunstad et al., PLoS Medicine 2010" },
     { "value": "Public-health concern", "label": "How a national advisory now frames loneliness and isolation", "source": "U.S. Surgeon General Advisory, 2023" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "A landmark meta-analysis found people with stronger social ties had roughly a 50% greater likelihood of survival over follow-up.",
+    "The researchers placed that effect on a par with quitting smoking, and larger than obesity and physical inactivity.",
+    "The evidence is largely observational, so it shows a strong, consistent association rather than airtight proof of cause.",
+    "Depth and reliability of a few close ties appear to matter more than the sheer number of contacts.",
+    "This is educational information only, not medical advice — see a qualified clinician for any specific health concern."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The standing weekly call",
+      "body": "Regular, low-stakes contact appears to do real work — a standing call, a shared meal, simply showing up. Because connection erodes quietly by default rather than by decision, the protective move is usually to make it a routine rather than to wait for big occasions."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A big following, no one to rely on",
+      "body": "A high follower count or constant low-quality online interaction is not the same as the close, supportive ties the survival research is built on. The data points to depth and reliability over breadth, so collecting contacts while having no one to truly count on does little for the health-relevant pathways."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Social connection is a physical-health factor in its own right, not just a matter of mood or emotional comfort.",
+      "source": "On what the evidence indicates"
+    },
+    {
+      "text": "Connection erodes by default rather than by decision — waiting until you 'have time' tends to mean it quietly decays.",
+      "source": "On why routine matters"
+    }
+  ],
   "faqs": [
     {
       "question": "Can loneliness really affect physical health, not just mood?",

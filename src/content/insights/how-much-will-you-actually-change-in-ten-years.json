@@ -39,6 +39,36 @@
     { "value": "Every age", "label": "Ages at which the end-of-history illusion appears", "source": "Quoidbach, Gilbert & Wilson, 2013" },
     { "value": "Gradual", "label": "Pace of personality change across adulthood (maturity principle)", "source": "Roberts, personality change research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "You will probably change more in the next ten years than your current self predicts.",
+    "The 'end of history illusion' shows people see past change clearly but underestimate future change — at essentially every age.",
+    "The maturity principle adds the underlying trend: average personality drifts gradually toward more conscientiousness, stability, and agreeableness.",
+    "The change is gradual and cumulative, not sudden reinvention — you notice the distance only after it opens up.",
+    "The rational response is flexible, revisable plans that leave room for a future self who may want different things."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why the future self looks like the present one",
+      "body": "Remembering is easier than imagining. You can look back and see concretely how your tastes, opinions, and relationships shifted, but you cannot vividly picture changes you have not lived yet — so the future self defaults to looking a lot like the present one. That asymmetry between recalled change and imagined change is exactly what produces the illusion."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I'll always feel this way'",
+      "body": "Someone justifies a permanent, hard-to-reverse commitment with the conviction that they will always feel the same. The end-of-history finding suggests that intuition is unreliable in a predictable direction — they will probably feel differently about at least some of it. Building in the option to revisit big choices respects how much people are likely to change."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People treat the present as the endpoint of their development when it is just a waypoint.",
+      "source": "On the end of history illusion"
+    },
+    {
+      "text": "The current version of you is not the final one.",
+      "source": "On continued change"
+    }
+  ],
   "faqs": [
     {
       "question": "Will I really change much in the next ten years?",

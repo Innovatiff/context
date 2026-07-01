@@ -40,6 +40,36 @@
     { "value": "Relatively small", "label": "Portion of population health explained by medical care", "source": "Social-determinants-of-health research" },
     { "value": "Protective", "label": "Effect of strong social connection on physical health and longevity", "source": "Research on social connection and health" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The social-determinants-of-health framework holds that the conditions people live in shape a large share of health outcomes.",
+    "Clinical medical care, while important, explains a comparatively small portion of overall population health.",
+    "The built environment — walkability, green space, food access — and pollution quietly shape behavior and biology.",
+    "Strong social connection is one of the most consistently health-protective factors within personal reach.",
+    "This is educational context, not medical advice — and 'Blue Zones' claims are best held loosely against the broader framework."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The skipped workout you can see, the food desert you can't",
+      "body": "You can watch someone skip a workout and read it as a willpower failure. You cannot see the long commute, the lack of a nearby grocery with fresh food, the unsafe streets, the chronic financial stress, or the polluted air that made the healthy option harder. The page's point is that the visible choice gets the attention while the structural condition — often the larger lever — gets ignored."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two neighbors, two defaults",
+      "body": "One person lives where a safe walking route, daylight, green space, and an affordable grocery are minutes away; another has none of these. Their 'willpower' may be identical, yet the first person's healthy path is the default and the second's is an uphill effort. When the first succeeds, it can look like proof that discipline is decisive — when much of it reflects an environment that made the healthy path easy."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Choices are made inside circumstances that heavily shape what is easy, possible and likely.",
+      "source": "On willpower vs environment"
+    },
+    {
+      "text": "Because so much of health is set by conditions beyond individual control, improving it at scale depends on circumstances — not just on persuading people to try harder.",
+      "source": "On compassion and policy"
+    }
+  ],
   "faqs": [
     {
       "question": "Isn't health mostly about diet and exercise?",

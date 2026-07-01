@@ -39,6 +39,35 @@
     { "value": "Positivity effect", "label": "Age-related tilt toward positive information in attention and memory", "source": "Carstensen and colleagues" },
     { "value": "U-shaped", "label": "Often-cited shape of life satisfaction across adulthood (debated)", "source": "Blanchflower and others" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On average, emotion regulation and emotional stability tend to improve with age, not decline.",
+    "The 'positivity effect' tilts older adults' attention and memory toward positive information.",
+    "The grumpy-old-person stereotype sticks because irritability is visible and calm contentment isn't.",
+    "When mood does dip in later life, it usually traces to specific, treatable causes — not age itself."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why one cranky exchange becomes 'the rule'",
+      "body": "An older person snapping at a slow queue is memorable and confirms what we already expect, so it lodges as evidence. The far more common older person who is calm and content in the same queue registers as nothing at all. We quietly file the exceptions as the pattern — which is how a stereotype survives data that mostly points the other way."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'sour' relative who is actually in pain",
+      "body": "A parent who has grown short-tempered can read as 'just getting old and grumpy,' when the real driver is often chronic pain, hearing loss that makes conversation effortful, poor sleep, grief, or low mood. Looking past the stereotype for a cause tends to be both more accurate and more useful than attributing the irritability to age, and it points toward things that can actually be addressed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The broad pattern researchers describe is one of emotional steadiness improving with age, not eroding.",
+      "source": "On the direction of the evidence"
+    },
+    {
+      "text": "We notice the exceptions and quietly file them as the rule.",
+      "source": "On why the stereotype sticks"
+    }
+  ],
   "faqs": [
     {
       "question": "Do people actually get grumpier as they get older?",

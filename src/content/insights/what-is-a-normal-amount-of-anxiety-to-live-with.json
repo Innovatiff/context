@@ -37,6 +37,47 @@
     { "value": "Most worries", "label": "Did not come true in a small worry-tracking study", "source": "LaFreniere & Newman, 2020, Behavior Therapy (small study)" },
     { "value": "988", "label": "U.S. crisis line — call or text if you are in crisis", "source": "988 Suicide & Crisis Lifeline (U.S.)" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Some anxiety is normal and adaptive — the brain's threat-detection system doing its job.",
+    "The clinical line is drawn at persistence, proportion, and impairment, not the presence of anxiety.",
+    "Anxiety disorders are among the most common conditions: roughly 19% past year, around 31% lifetime.",
+    "Worry's felt certainty tends to overstate real risk — most tracked worries did not come true in one small study.",
+    "This is educational context, not medical advice — persistent or impairing anxiety warrants a clinician; in a U.S. crisis, call or text 988."
+  ],
+  "distributions": [
+    {
+      "title": "How common clinically significant anxiety is (U.S. adults)",
+      "caption": "Approximate prevalence of an anxiety disorder in the past year versus at some point in life. Figures vary by survey and definition, so treat them as approximate. The point is context, not a self-test: clinically significant anxiety affects a very large share of people, which is a reason to seek help without shame — not a reason to self-diagnose.",
+      "source": "NIMH / National Comorbidity Survey Replication; Kessler et al.",
+      "bars": [
+        { "label": "Past-year anxiety disorder", "value": 19, "display": "≈ 19%" },
+        { "label": "Lifetime (at some point)", "value": 31, "display": "≈ 31%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Nervous before something that matters",
+      "body": "A degree of anxiety before a deadline, a hard conversation, or a real risk is expected rather than a problem — it is the threat-detection system preparing a response. Feeling anxious is not, by itself, a sign that anything has gone wrong. What would shift the picture is the pattern: anxiety that is persistent, out of proportion to the situation, and interfering with daily life."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling like the only anxious one in the room",
+      "body": "Anxiety is loud from the inside and invisible from the outside, so it is easy to conclude you are uniquely anxious while everyone else looks calm. With something like a fifth of adults affected in a given year, a great many of the composed-looking people around you are managing anxiety you cannot see. None of this replaces a professional assessment, which is the right step when anxiety is persistent or impairing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Some anxiety is not only normal — it is the brain doing its job.",
+      "source": "On adaptive anxiety"
+    },
+    {
+      "text": "Anxiety tends to make its predictions feel like facts — the dread feels like evidence that the feared thing will happen.",
+      "source": "On worry's felt certainty"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel anxious every day?",

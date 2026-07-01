@@ -40,6 +40,34 @@
     { "value": "Not a diagnosis", "label": "Quarter-life crisis is a popular and research term, not a clinical condition", "source": "Research framing" },
     { "value": "Late teens–20s", "label": "Span of Arnett's \"emerging adulthood\" identity-exploration stage", "source": "Jeffrey Arnett, emerging adulthood" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A quarter-life crisis is a common, widely reported episode of doubt in the mid-20s to early 30s — not a clinical diagnosis.",
+    "Robinson describes a recognizable arc: feeling trapped, then separation and exploration, then rebuilding on firmer ground.",
+    "It overlaps with Arnett's 'emerging adulthood' — an extended, in-between stage of identity exploration and instability.",
+    "Research frames it as often developmentally productive rather than only distress — a turning point, not just a breakdown."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Feeling trapped at 27",
+      "body": "Someone who feels locked into a job or a life path they chose a few years earlier is describing the first phase Robinson identifies. In the phase model, the way out is not forcing a decision while still feeling trapped, but a period of stepping back and testing alternatives — treating the uncertainty as information to act on, gradually, rather than waiting for clarity to simply arrive."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Everyone else looks settled",
+      "body": "The mid-20s to early 30s is when peers' lives appear to diverge — promotions, relationships, homes — mostly seen through curated, outside-in glimpses. Measuring private, in-progress uncertainty against other people's visible milestones reliably makes a common experience feel like a solitary failure."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The separation-and-exploration phase is part of how the crisis does its work, not a detour from it.",
+      "source": "On Robinson's phase model"
+    },
+    {
+      "text": "It is real as a common episode, not as a medical condition — and for many people, often growth-promoting rather than only distress."
+    }
+  ],
   "faqs": [
     {
       "question": "Is a quarter-life crisis a real thing?",

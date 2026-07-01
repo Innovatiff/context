@@ -40,6 +40,36 @@
     { "value": "Suppressed", "label": "Effect of evening / screen light on the sleep hormone melatonin", "source": "Research on light at night and melatonin" },
     { "value": "Below awareness", "label": "Level at which noise stress effects can persist after you 'get used to' it", "source": "Environmental noise research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Chronic ambient noise is linked to disrupted sleep, higher stress, and modestly higher cardiovascular risk at the population level.",
+    "'Getting used to' noise is mostly a perceptual change — the underlying stress and sleep effects can continue below awareness.",
+    "Light is the strongest cue setting the body clock: evening light can suppress melatonin, while daytime light supports mood and sleep timing.",
+    "The effects are modest and cumulative for any one person, so this is a low-cost lever, not a cause for alarm.",
+    "Educational information only, not medical advice — see a qualified clinician for anything persistent."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The flat on a busy road you 'stopped hearing'",
+      "body": "After a few months on a busy street, you genuinely stop noticing the traffic. That feels like the problem solved — but the research suggests the stress and sleep-fragmentation responses can carry on beneath awareness. Feeling unbothered is not strong evidence the exposure is harmless, which is why reducing it at the source (sleeping in the quietest room, earplugs, insulation) is more useful than trying to ignore it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Dim days and bright evenings",
+      "body": "A typical modern day can invert the natural light pattern: dim indoor light while you work, then bright screens and lamps at night — close to the reverse of the intense-day, dark-night rhythm the body clock evolved to expect. Getting more daylight earlier and dimming light before bed nudges that pattern back toward what supports mood and sleep."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Habituation is largely a perceptual change; the stress and sleep effects can continue below the level of awareness.",
+      "source": "On why 'getting used to it' doesn't fully cancel the effect"
+    },
+    {
+      "text": "Quieter and darker at night, more daylight by day — a directional habit, not a number to hit.",
+      "source": "On the practical takeaway"
+    }
+  ],
   "faqs": [
     {
       "question": "If I've gotten used to street noise, is it still affecting me?",

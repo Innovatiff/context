@@ -40,6 +40,36 @@
     { "value": "Gradual", "label": "Pace of personality change (years, not weeks)", "source": "Longitudinal Big Five studies" },
     { "value": "Underestimated", "label": "How much future change people predict for themselves", "source": "Quoidbach, Gilbert & Wilson, 2013" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Personality is not fixed: on average adults grow more conscientious and agreeable and less neurotic across adulthood.",
+    "The shifts are most pronounced from the twenties through midlife, and they are gradual rather than sudden.",
+    "The 'maturity principle' names the direction; conscientiousness, agreeableness, and emotional stability move most reliably.",
+    "The 'End of History Illusion' means people see past change clearly but underestimate how much they will keep changing.",
+    "Life roles and sustained effort can nudge traits, but the effects are modest and slow — not overnight reinvention."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why you feel like the same person",
+      "body": "Traits shift over years, not weeks, and you are always inside the change — so on any given day you feel constant. The drift only becomes visible when you hold today against who you were a decade ago. The slowness of the change is exactly what makes it easy to miss."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Overpaying to preserve today's tastes",
+      "body": "Someone locks in a long commitment on the assumption that their current preferences are permanent — the classic End of History Illusion. Because people routinely underestimate how much they will keep changing, decisions built on 'this is just who I am' can age poorly. Treating the current self as a stage rather than a final state tends to fit the evidence better."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People recognise how much they have changed in the past while underestimating how much they will keep changing in the future.",
+      "source": "On the End of History Illusion"
+    },
+    {
+      "text": "Total fixedness is the exception, not the rule.",
+      "source": "On the maturity principle"
+    }
+  ],
   "faqs": [
     {
       "question": "Does personality really change, or is it fixed?",

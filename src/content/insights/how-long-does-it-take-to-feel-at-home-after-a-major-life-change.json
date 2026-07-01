@@ -31,6 +31,63 @@
     "The honest numbers are ranges and averages, not precise rules. Adaptation research using the German Socio-Economic Panel (Lucas and colleagues) finds the marriage satisfaction bump tends to fade within about two years, widowhood recovery averages roughly seven years, and some events produce only partial return to baseline — illustrating that adjustment runs from months to years and depends heavily on the event. These are population averages; individual paths vary widely.",
     "On the friendship side, Hall's 2019 estimates — roughly 50 hours to a casual friend, about 90 to a friend, and 200-plus to a close friend — are approximate figures from a single study, not fixed laws, but they explain why feeling at home commonly takes many months. Common experience points to a rough 6-to-12-month range to feel settled after a big move, which we present as a loose pattern consistent with the slow adaptation and slow friendship-building the research describes — not as an established number."
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "There is no single reliable number — anyone quoting an exact week or month count is overstating the evidence.",
+    "The realistic pattern is many months, often 6 to 12 or more, and it arrives unevenly rather than on a smooth schedule.",
+    "Adaptation to major events runs from months to years and is event-specific (a marriage bump fades in ~2 years; widowhood recovery averages ~7).",
+    "Local friendships take real accumulated time — roughly 50 hours to a casual friend, ~90 to a friend, 200+ to a close friend (Hall, 2019).",
+    "The most actionable lever is repeated, low-stakes contact with the same people; the popular U-curve is contested, not a reliable timeline."
+  ],
+  "tables": [
+    {
+      "title": "Roughly how much shared time friendship takes",
+      "caption": "Approximate averages from a single study (Hall, 2019), not fixed thresholds — but they put a concrete floor under intuition: the local connections that make a place feel like home don't form in weeks.",
+      "columns": ["Level of closeness", "Approximate shared hours"],
+      "rows": [
+        ["Acquaintance → casual friend", "≈ 50 hours"],
+        ["Casual friend → friend", "≈ 90 hours"],
+        ["Friend → close friend", "200+ hours"]
+      ],
+      "highlightColumn": 1,
+      "source": "Hall, J. A. (2019), Journal of Social and Personal Relationships"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Shared hours needed to deepen a friendship",
+      "caption": "The same rough estimates as bars. Depth of connection roughly tracks accumulated time together, which is why local friendships — and the feeling of belonging — take many months to build.",
+      "unit": "hours",
+      "source": "Hall, J. A. (2019), Journal of Social and Personal Relationships",
+      "bars": [
+        { "label": "Casual friend", "value": 50, "display": "≈ 50 hrs" },
+        { "label": "Friend", "value": 90, "display": "≈ 90 hrs" },
+        { "label": "Close friend", "value": 200, "display": "200+ hrs" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why the in-between feels like nothing is happening",
+      "body": "The things that make somewhere feel like home are invisible and cumulative: familiar routes, recognised faces, inside knowledge, and relationships that have crossed Hall's rough hour-thresholds. There's no single day you 'become local,' so the in-between period can feel like nothing is progressing even when it quietly is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Six months in and still unsettled",
+      "body": "Feeling unsettled half a year after a big move sits well within the normal range. Adaptation to major events plays out over months to years, and each close local friendship takes hundreds of accumulated hours to form. The most reliable way to speed things up is repeated, low-stakes contact with the same people — hours, stacked up consistently, rather than grand gestures."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Belonging is built through hours, not simply endured until it appears.",
+      "source": "On waiting passively"
+    },
+    {
+      "text": "Anyone who gives you an exact week or month count is overstating what the data can support.",
+      "source": "On tidy timelines"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a set amount of time it takes to feel at home somewhere?",

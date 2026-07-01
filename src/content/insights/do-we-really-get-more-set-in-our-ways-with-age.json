@@ -39,6 +39,36 @@
     { "value": "Automatic", "label": "What repeated behaviour in stable contexts tends to become over time", "source": "Habit research (Wood)" },
     { "value": "Lifelong", "label": "Period over which the brain retains meaningful plasticity", "source": "Neuroplasticity in adulthood" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Openness to experience tends to decline modestly from young adulthood on — a gentle drift, not a hardening.",
+    "Long-repeated behaviours in stable contexts become automatic, which can look like rigidity but is just how habits form.",
+    "The adult brain stays plastic: older adults clearly can and do learn new things and change their minds.",
+    "The stereotype is partly self-fulfilling — expecting rigidity can lead people to seek less novelty and become less flexible.",
+    "Changing your context works better than willpower for reshaping deeply grooved habits."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Grooved habits look like rigidity from the outside",
+      "body": "Someone's decades-old routines — the same breakfast, the same route, the same order of doing things — are highly visible, while the new skills they have picked up or the views they have quietly revised are not. We notice the grooves and miss the growth, so ordinary automaticity gets read as a closed mind."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I'm just set in my ways now'",
+      "body": "Treating a modest, average decline in Openness as a hard personal limit tends to become a self-fulfilling prediction: expecting rigidity, you try fewer new things, and the flexibility you assumed you'd lost quietly erodes. The more accurate frame — that the brain stays plastic and change is still possible with more repetition — works with the evidence rather than against it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest picture is a gentle drift, not a hardening — and one that is far from inevitable.",
+      "source": "On what the evidence supports"
+    },
+    {
+      "text": "Change may come with more friction, but the capacity for it persists across the lifespan.",
+      "source": "On neuroplasticity in adulthood"
+    }
+  ],
   "faqs": [
     {
       "question": "Do people actually become less open-minded with age?",

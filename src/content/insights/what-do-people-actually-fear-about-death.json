@@ -40,6 +40,34 @@
     { "value": "The unknown", "label": "Nonexistence and uncertainty about what comes after", "source": "Death anxiety research" },
     { "value": "Lower in older age", "label": "Death anxiety often eases rather than rises with age", "source": "Reviews of death anxiety across the lifespan" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People usually fear the process of dying, leaving loved ones, and the unknown more than death as an end-state.",
+    "Death anxiety tends to be higher in younger and middle-aged adults and lower in older adults, not the reverse.",
+    "Terror Management Theory holds that mortality awareness quietly shapes behaviour, often beneath conscious notice.",
+    "Addressing the specific fear — through planning, agency, and connection — tends to help more than avoiding the subject."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Naming the fear instead of 'death' in general",
+      "body": "Someone dreading death who sits with the question often finds it resolves into concrete worries: pain and loss of control, the people they would leave, and the uncertainty of what comes next. Naming the specific fear tends to open addressable steps — talking about end-of-life wishes, advance planning, good information about pain and palliative care — where a vague dread of 'death' offers nowhere to start."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Expecting dread to grow — and being wrong",
+      "body": "It is common to assume the fear will intensify as death nears. Yet older adults often report less death anxiety, not more — through acceptance, perspective, and life review rather than denial. We picture our older selves through today's anxieties, which is why the expectation and the data point in opposite directions."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The word 'death' collapses several distinct fears into one; when people sit with it, the dread usually resolves into the manner of dying, the people left behind, and the unknown.",
+      "source": "On what the fear actually is"
+    },
+    {
+      "text": "The intuition that dread steadily grows toward the end of life is not well supported."
+    }
+  ],
   "faqs": [
     {
       "question": "Do most people fear death itself or something else?",

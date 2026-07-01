@@ -40,6 +40,36 @@
     { "value": "Within > between", "label": "Variation within a generation exceeds the average gap between generations", "source": "Generational-difference research" },
     { "value": "Debated", "label": "Some argue certain cohort differences are real (counterview)", "source": "Twenge, cohort research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Sharp 'generational' personality gaps are largely overstated and poorly supported.",
+    "Age, period, and cohort effects are entangled, so a single snapshot survey can't separate them.",
+    "Reviews find work-attitude differences tend to be small, inconsistent, or better explained by age.",
+    "Within-generation variation is far larger than the average difference between generations.",
+    "Some real cohort shifts exist — mostly concrete, environmental ones like growing up with smartphones."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Mistaking an age difference for a generation",
+      "body": "The gap you notice between a 22-year-old and a 60-year-old feels like a generational trait, but much of it is age: the 60-year-old was once 22 and may have held similar views, and the 22-year-old will likely change. Reading a stable 'generational personality' into a difference that is really about life stage is one of the most common ways the stereotype gets confirmed."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A snapshot survey read as a generational trait",
+      "body": "A single survey finds younger and older people differ today, and it's reported as proof of a generational difference. But that finding can't separate cohort from age or from current events affecting everyone at once. Asking whether the same trait might have described older people when they were young — or reflects a period effect on everyone now — dissolves many such claims."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Within any generation the variation between individuals dwarfs the average difference between generations.",
+      "source": "On why labels mislead"
+    },
+    {
+      "text": "The accurate stance is neither 'generations explain everything' nor 'generations explain nothing.'",
+      "source": "On the honest middle ground"
+    }
+  ],
   "faqs": [
     {
       "question": "Are generational differences real?",

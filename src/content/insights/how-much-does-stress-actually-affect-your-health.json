@@ -40,6 +40,36 @@
     { "value": "Mindset matters", "label": "Beliefs about stress are associated with different responses to it", "source": "Crum, stress-mindset research" },
     { "value": "Very common", "label": "Most adults report meaningful stress in a typical year", "source": "Large national stress surveys" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Chronic, long-term stress is genuinely linked to worse health through cumulative wear (allostatic load) — not the ordinary stress of a hard week.",
+    "The relationship is slower and more complex than the 'stress kills' slogan implies, and much of the evidence is associational.",
+    "One large study found elevated risk mainly among people who also believed their stress was harming them — perception seems to be part of the picture.",
+    "Most adults report meaningful stress in a typical year, so chronic stress is common rather than a personal anomaly.",
+    "This is educational context, not medical advice — persistent stress or symptoms are a question for a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A hard week vs a hard decade",
+      "body": "The racing heart and poor sleep of a stressful week are the short-term response the body is built to absorb and recover from. The allostatic-load framework is about something slower: stress systems switched on chronically, for months and years, producing cumulative wear across cardiovascular, metabolic, and immune function. The page's point is that it is the sustained version, not the ordinary spike, that the health research is about."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two people, the same deadline",
+      "body": "Two people face the same relentless workload. One reads every tense moment as proof their stress is silently destroying them; the other treats the same pressure as a normal, sometimes useful response. The Keller (2012) and stress-mindset research suggests their appraisals may track with different outcomes — not because stress is 'all in the head', but because perception appears tangled up with the effect. It is context, not a prescription, and not a reason to ignore serious or chronic stress."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Chronic stress genuinely matters for health, but appraisal, coping, and belief shape its effects rather than being passive bystanders.",
+      "source": "On the layered causal picture"
+    },
+    {
+      "text": "The slogan 'stress kills' is too blunt to be accurate and too alarming to be calming — and the fear it creates may itself be part of the problem.",
+      "source": "On why the headline misleads"
+    }
+  ],
   "faqs": [
     {
       "question": "Does stress really damage your health?",

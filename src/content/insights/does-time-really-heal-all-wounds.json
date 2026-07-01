@@ -39,6 +39,36 @@
     { "value": "Overestimated", "label": "How long and how intensely we predict bad events will hurt", "source": "Gilbert & Wilson, affective forecasting" },
     { "value": "Partial", "label": "Hedonic adaptation after some losses (not always a full return to baseline)", "source": "Adaptation/wellbeing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Resilience — real pain followed by a relatively quick return to functioning — is the most common response to major loss.",
+    "People systematically overestimate how long and how intensely emotional pain will last.",
+    "Time is not the active ingredient on its own; connection, support, and meaning-making do the healing.",
+    "For deep losses, the realistic outcome is integration — carrying it more lightly — rather than total erasure.",
+    "Recovery is normally non-linear, arriving in waves rather than a steady climb."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "'This will always hurt this much'",
+      "body": "From inside the acute phase, it is hard to picture adapting, so the current intensity gets projected forward indefinitely. Research on affective forecasting shows this is a predictable error — people reliably overestimate how long bad events will hurt — which is why, in the moment, healing feels far less possible than it later turns out to be."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Grief that returns on an anniversary",
+      "body": "Someone who has healed substantially can still be hit by a wave of grief on an anniversary or from a stray reminder, and read it as relapse or proof that time didn't work. But grief is typically non-linear, and lasting traces of a major loss are normal — the common pattern is that the loss becomes lighter and integrated, not that it disappears."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What does the healing is the ordinary work of adaptation, support, and meaning-making over time — not the passage of time by itself.",
+      "source": "On the active ingredient"
+    },
+    {
+      "text": "'Healed' more often means the loss has become bearable and part of who you are than that it has vanished.",
+      "source": "On integration vs erasure"
+    }
+  ],
   "faqs": [
     {
       "question": "So does time actually heal wounds or not?",

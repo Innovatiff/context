@@ -40,6 +40,50 @@
     { "value": "U-shaped", "label": "Common shape of average life satisfaction across adulthood", "source": "Blanchflower and related wellbeing research" },
     { "value": "40s–50s", "label": "When earnings typically peak", "source": "U.S. Bureau of Labor Statistics" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "There is no single best age — different capacities peak at different times across the whole lifespan.",
+    "Physical and athletic ability crest early; vocabulary and accumulated knowledge often peak decades later.",
+    "Life satisfaction tends to follow a U-shape: a midlife dip followed by a rise into older age.",
+    "Because peaks are spread out, no age exists at which all your best years are behind you."
+  ],
+  "tables": [
+    {
+      "title": "When different things tend to peak",
+      "caption": "Physical, cognitive, financial, and emotional peaks rarely line up in the same decade — which is why 'the best age' has no single answer. Treat these as broad averages with wide individual variation.",
+      "columns": ["What is peaking", "Typical peak", "Source"],
+      "rows": [
+        ["Physical and athletic ability", "20s–30s", "Cognitive aging and sports performance research"],
+        ["Raw processing speed", "Late teens–20s", "Hartshorne & Germine (2015)"],
+        ["Vocabulary and accumulated knowledge", "40s–60s or beyond", "Hartshorne & Germine (2015)"],
+        ["Earnings", "40s–50s", "U.S. Bureau of Labor Statistics"],
+        ["Life satisfaction (after the U-shape low)", "Later life", "Blanchflower and related work"]
+      ],
+      "highlightColumn": 1,
+      "source": "Hartshorne & Germine (2015); U.S. Bureau of Labor Statistics; Blanchflower and related wellbeing research"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "38, no longer the fastest in the room",
+      "body": "Someone who once measured themselves by physical performance can feel past their peak in their late thirties — and on that one metric, they are. But the same years are often when vocabulary, expertise, and judgment are still climbing. The data suggests leaning into the abilities that are rising rather than scoring yourself against a younger self on a metric that was always going to fade."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Sitting in the midlife dip",
+      "body": "Feeling flat in midlife can read like proof the best is behind you. But the same research that shows the dip shows the recovery: for many people, average life satisfaction climbs again afterward. From inside the trough, it is easy to mistake a U-shape for a downward slide."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The gains that accumulate with age are quiet — a sharper vocabulary, steadier judgment — while the losses are vivid and easy to count.",
+      "source": "On why later peaks go unnoticed"
+    },
+    {
+      "text": "There is no age at which all of your best years are behind you."
+    }
+  ],
   "faqs": [
     {
       "question": "So what's actually the best age to be?",

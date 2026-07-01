@@ -34,6 +34,35 @@
     "This is a topic of psychological concepts rather than population statistics, and it's worth being honest about that: there isn't a clean prevalence figure for 'grieving a past self.' What the research offers instead is recognition — that identity changes over time (self-continuity research), that people commonly grieve not just what was but an imagined future (ambiguous loss, associated with Pauline Boss), and that nostalgia is largely a meaning-making rather than a harmful emotion (Sedikides and Wildschut).",
     "The most useful takeaway is qualitative, not numerical: this kind of grief is normal and recognized in the research literature, it is easy to dismiss precisely because it lacks a clear object, and acknowledging it tends to help more than denying it. As an educational resource, this page is not a substitute for professional support — if the grief is persistent or overwhelming, a qualified clinician can help."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Grieving a past self, an abandoned identity, or an imagined future is real, common, and tied to normal identity change.",
+    "It feels illegitimate because it has no funeral and no clearly recognized object — the ambiguous-loss framing (Boss).",
+    "The grief can sit inside a genuine gain: you can value where you are and still mourn who you were.",
+    "Naming the grief and using nostalgia to build continuity tends to help more than forcing a clean break."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Glad to be a parent, and still grieving",
+      "body": "Someone can be genuinely glad to have become a parent and still mourn the freer, earlier version of themselves — two true things at once. The presence of the gain can make the grief feel like ingratitude, when in fact both can coexist. Holding them together fits the research better than forcing yourself to feel only one."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Mourning a future that never arrived",
+      "body": "A career you assumed, the health you took for granted, a life plan you'd organized yourself around — losing the version of the future you'd quietly counted on is a recognizable form of loss even though it only ever existed as a picture. Because it never actually happened, the feeling can seem irrational, but the ambiguous-loss literature treats it as legitimate."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The grief is not for a person who died but for a self that has been outgrown or left behind — which is part of why it can be hard to name.",
+      "source": "On grieving a past self"
+    },
+    {
+      "text": "You can value where you are while still mourning who you were. Both can be true at once.",
+      "source": "On the grief wrapped inside a gain"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to grieve who I used to be?",

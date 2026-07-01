@@ -40,6 +40,47 @@
     { "value": "~1 in 4", "label": "U.S. adults meeting both aerobic and strength guidelines", "source": "U.S. CDC" },
     { "value": "Treatable", "label": "Some persistent fatigue (e.g. anaemia, thyroid) — needs a clinician", "source": "General medical guidance" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Fatigue is one of the most common complaints adults bring to primary care — closer to normal than rare.",
+    "Most everyday tiredness traces to ordinary, overlapping causes: short sleep, stress, and low activity.",
+    "Roughly a third of U.S. adults regularly sleep under 7 hours; only about a quarter meet activity guidelines.",
+    "A minority of persistent fatigue reflects treatable conditions like anaemia or thyroid problems.",
+    "This is educational context, not medical advice — persistent or unexplained fatigue warrants a clinician."
+  ],
+  "distributions": [
+    {
+      "title": "Two common contributors, by how widespread they are",
+      "caption": "The most frequent drivers of everyday tiredness are also two of the most common gaps in adult life — which is part of why the experience is so widely shared. These are population figures for the drivers, not a diagnosis of any individual's fatigue.",
+      "source": "U.S. CDC — adult sleep and physical-activity statistics",
+      "bars": [
+        { "label": "Regularly sleep under 7 hours", "value": 33, "display": "≈ 1 in 3" },
+        { "label": "Meet both activity guidelines", "value": 25, "display": "≈ 1 in 4" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Tired most days, nothing obviously wrong",
+      "body": "The confusing part is often that no single thing explains it: a bit less sleep, a bit more stress, a bit less movement, a heavier season at work. None alone accounts for the tiredness, so it can feel mysterious or serious when it is really the accumulation of ordinary loads. That is common rather than a red flag — but if it is persistent, unexplained, or worsening, that is exactly when a clinician can check for treatable causes an article cannot."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reaching for another coffee",
+      "body": "Leaning on escalating caffeine or energy drinks tends to mask a sleep or stress deficit while disrupting sleep further, which deepens the underlying problem rather than fixing it. Counterintuitively, gentle, consistent movement is associated with raising daytime energy rather than draining it — a lower-risk lever than another stimulant to paper over a sleep gap."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Tiredness feels like a personal failing, but it is one of the most widely shared experiences in adult life.",
+      "source": "On why it feels isolating"
+    },
+    {
+      "text": "Ordinary tiredness is the common case and serious causes are the less common one — but only a proper evaluation can tell them apart for you.",
+      "source": "On when to see a clinician"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel tired all the time?",

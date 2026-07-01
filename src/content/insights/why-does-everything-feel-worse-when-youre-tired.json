@@ -41,6 +41,50 @@
     { "value": "~1 in 3", "label": "U.S. adults who report under 7 hours of sleep on a typical night", "source": "CDC" },
     { "value": "7+ hours", "label": "Sleep many adult guidelines suggest as a minimum", "source": "CDC / sleep guidelines" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "When you are tired, the same situation genuinely feels worse — it is not weak willpower.",
+    "Fatigue turns up the emotional alarm (amygdala) and turns down the brain's regulating brakes.",
+    "There is a negativity tilt: tiredness pulls attention and memory toward the bad over the good.",
+    "The reliable correction is rest, not reasoning — defer big emotional decisions until you are slept.",
+    "A large share of adults regularly fall short of recommended sleep, so this state is close to baseline."
+  ],
+  "tables": [
+    {
+      "title": "The figures behind the effect",
+      "caption": "The ~60% comes from one small laboratory study using a single night of total sleep deprivation, so read it as the rough direction and magnitude of the effect, not a precise dose for a normal short night.",
+      "columns": ["Figure", "What it refers to"],
+      "rows": [
+        ["≈ 60% stronger", "Amygdala reaction to negative images after sleep loss (one small study)"],
+        ["Reduced", "Amygdala–prefrontal connectivity under sleep deprivation"],
+        ["≈ 1 in 3", "U.S. adults reporting under 7 hours of sleep on a typical night"],
+        ["7+ hours", "Sleep many adult guidelines suggest as a minimum"]
+      ],
+      "source": "Yoo, Gujar, Hu, Jolesz & Walker (2007); CDC"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 3 a.m. version of a problem",
+      "body": "A worry that feels manageable at 10 a.m. can feel like a crisis at 3 a.m. on no sleep — usually when you are most sleep-deprived, alone, and without daytime feedback to balance the picture. Nothing about the problem has changed; the emotional brakes are temporarily working at half strength. It tends to look different after rest, not because you argued yourself out of it but because the underlying machinery recovered."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The midnight message you'd regret",
+      "body": "Sending the message, making the decision, or having the confrontation while exhausted is the move most likely to be regretted, because the emotional read was distorted upward in negativity at the time. Naming the state — 'I'm exhausted, so this will feel worse than it is' — and deferring the decision until rested is a low-cost way to put distance between the feeling and the judgement."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A feeling that looks like a crisis at 1 a.m. on no sleep is often just a feeling running without its usual brakes.",
+      "source": "On the emotional effect of fatigue"
+    },
+    {
+      "text": "Fatigue turns up the emotional signal and turns down the system that keeps that signal in check.",
+      "source": "On the brain mechanism"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually true that problems feel worse when I'm tired, or am I just being dramatic?",

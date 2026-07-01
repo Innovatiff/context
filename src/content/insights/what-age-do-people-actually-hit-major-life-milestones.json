@@ -40,6 +40,62 @@
     { "value": "40s–50s", "label": "When median earnings tend to peak over a career", "source": "U.S. Bureau of Labor Statistics" },
     { "value": "Later & wider", "label": "Long-term direction of milestone timing", "source": "Census fertility & marriage data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "There is no fixed 'on time': the real milestone ages are later and far more spread out than the cultural script.",
+    "U.S. median age at first marriage is now roughly 28–30, and the median first-time homebuyer is in their late thirties.",
+    "Earnings tend to peak in the forties or fifties, not early in a career.",
+    "Every median is the middle of a wide range — by definition, roughly half of people reach each milestone later."
+  ],
+  "tables": [
+    {
+      "title": "When U.S. milestones actually tend to land",
+      "caption": "Each figure is the middle of a wide distribution, not a deadline — roughly half of people reach the milestone later, and a meaningful share never do. The timing has also drifted later for decades.",
+      "columns": ["Milestone", "Typical age (U.S.)", "Source"],
+      "rows": [
+        ["First marriage (median)", "≈ 28–30", "U.S. Census Bureau"],
+        ["First-time homebuyer (median)", "Late 30s", "National Association of Realtors"],
+        ["Peak earnings over a career", "40s–50s", "U.S. Bureau of Labor Statistics"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Census Bureau; National Association of Realtors; U.S. Bureau of Labor Statistics"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "The milestone timeline lands later than the script assumes",
+      "caption": "Approximate typical ages plotted on one axis. Marriage tends to come first, then first homeownership, with peak earnings arriving later still — each the middle of a broad, later-than-expected range.",
+      "unit": "age",
+      "source": "U.S. Census Bureau; National Association of Realtors; U.S. Bureau of Labor Statistics",
+      "bars": [
+        { "label": "First marriage (median)", "value": 29, "display": "≈ 28–30" },
+        { "label": "First-time homebuyer (median)", "value": 38, "display": "Late 30s" },
+        { "label": "Peak earnings", "value": 50, "display": "40s–50s" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Unmarried and no house at 34",
+      "body": "This can feel like being behind, yet it sits comfortably inside the normal range: the median first marriage is now roughly 28–30 and the typical first-time homebuyer is in their late thirties. Being later than a median is, by definition, extremely common — roughly half of people reach each milestone afterward."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Waiting for peak income in your twenties",
+      "body": "The sense that you should already be earning your most in your twenties or thirties runs against the typical curve: BLS data show median earnings tend to climb through the working years and crest somewhere in the forties or fifties. The 'behind on money' feeling is often measured against an earnings shape that does not exist."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A median age is simply the middle of a wide range; roughly half of people reach the milestone after it — yet it gets remembered as a deadline.",
+      "source": "On why milestones feel like a schedule"
+    },
+    {
+      "text": "The variation around the median is the real story, not the median itself.",
+      "source": "On reading milestone data"
+    }
+  ],
   "faqs": [
     {
       "question": "What age do most people get married?",

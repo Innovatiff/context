@@ -39,6 +39,35 @@
     { "value": "~20% younger", "label": "Approximate felt-age gap reported in some older-adult samples (varies by study)", "source": "Subjective-age research (various)" },
     { "value": "Later & spread out", "label": "Trend in median ages of marriage, first child, and home ownership", "source": "Census / demographic data, wealthy countries" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling too old and too young at once is a common, documented feature of modern adulthood, not a timing error.",
+    "From the late twenties onward, most adults report feeling younger inside than their chronological age, and the gap tends to widen.",
+    "The milestones that once marked 'a proper adult' now arrive later, in no fixed order, and for many not at all.",
+    "The result is a less linear, more individualised life course — there is no single schedule to be off.",
+    "Feeling moderately younger than your age is linked with better wellbeing, so the youthful half isn't a problem to fix."
+  ],
+  "examples": [
+    {
+      "label": "The clash",
+      "title": "An outdated clock against a current inner life",
+      "body": "Measured against the inherited timeline — established, partnered, housed by a certain age — you can feel late, and therefore old. Measured against your own internal sense of being unfinished and still becoming, you feel young. The two readings don't contradict each other; they're a clash between an outdated external schedule and a very current internal experience. Both feelings are real at once."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Squeezed from both sides",
+      "body": "You see peers who look settled and feel behind — 'too old to still be figuring this out.' You see younger people moving fast and feel out of step — 'too old for that scene too.' Neither comparison reflects the full distribution, but together they squeeze you into feeling stranded between stages whose edges are, statistically, far blurrier than they appear."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can feel youthful and unfinished while the calendar, and the people around you, treat you as someone who should be settled. Both feelings are real at once.",
+      "source": "On the in-between feeling"
+    },
+    {
+      "text": "The two halves are not a contradiction that needs resolving — they're a normal pairing: internal openness alongside an external clock that has lost its grip on how lives unfold."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually normal to feel both too old and too young?",

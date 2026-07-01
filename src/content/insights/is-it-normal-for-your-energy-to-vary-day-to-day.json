@@ -41,6 +41,41 @@
     { "value": "Afternoon", "label": "A common, well-documented circadian energy dip", "source": "Circadian rhythm research" },
     { "value": "~1 in 3", "label": "U.S. adults reporting under 7 hours of sleep on a typical night", "source": "CDC" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Energy naturally rises and falls with your body clock, chronotype, sleep, stress, food, and hormones.",
+    "Built-in dips — like the well-documented early-afternoon lull — are part of the design, not a malfunction.",
+    "There is no single correct energy pattern; morning types and evening types are both normal.",
+    "Consistent, sufficient sleep is the strongest lever — and about a third of U.S. adults get under 7 hours.",
+    "A persistent, unexplained, or worsening drop is the signal to see a clinician — this is not medical advice."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Sharp on Monday, sluggish on Tuesday",
+      "body": "A day where you feel focused and a day where you feel flat can both be perfectly ordinary. Energy is moved by how you slept, what you ate, your stress load, and where you are in your rhythms — with that many inputs, some variation from day to day is close to guaranteed. Steady, unchanging energy would actually be the more unusual finding."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 3pm crash",
+      "body": "Most people have a built-in early-afternoon dip driven by the circadian clock — a normal feature, not a personal weakness. A heavy lunch or a short night can deepen it, but the dip itself is expected. Working with it — a short break, a walk, lighter tasks — tends to beat forcing focus through it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same schedule, different peaks",
+      "body": "Two people on an identical nine-to-five can genuinely peak at different times, because chronotype is partly genetic and shifts with age. Feeling most alert in the evening while a colleague is sharpest at 8am is not a discipline problem — it is two different clocks meeting the same timetable."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Sustained, unbroken peak energy is not the natural state — periodic dips are expected.",
+      "source": "On ultradian and circadian rhythms"
+    },
+    {
+      "text": "Before treating variable energy as a mystery, the most common explanation — uneven or insufficient sleep — is also the most likely one.",
+      "source": "On the usual driver"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel great one day and drained the next?",

@@ -39,6 +39,32 @@
     { "value": "Global issue", "label": "WHO has identified ageism as a widespread worldwide problem", "source": "World Health Organization, on ageism" },
     { "value": "Double-edged", "label": "Many also report relief from appearance-based judgment alongside the loss", "source": "Research on aging, appearance, and social attention" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling socially invisible with age is widely reported and documented, especially among women in midlife and beyond.",
+    "It largely reflects ageism and a youth-focused culture — external bias, not personal decline.",
+    "The WHO has identified ageism as a widespread global problem across workplaces, healthcare, media, and daily life.",
+    "The experience is double-edged: many also report relief at no longer being judged on appearance.",
+    "Investing in relationships and roles where you're seen for what you do tends to help more than chasing lost attention."
+  ],
+  "examples": [
+    {
+      "label": "How it's experienced",
+      "title": "One interaction at a time",
+      "body": "A gaze that slides past, a comment directed to someone younger, a little less attention in a room. Each moment reads as if it's about you specifically. But the pattern is a broad cultural bias playing out at individual scale — which is exactly why it feels personal even though the research locates most of it outside you."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The same shift, felt two ways",
+      "body": "A woman in midlife notices she's addressed less, looked at less, taken in less than she once was — a real loss of social notice. The same person also describes a genuine relief: freedom from constant appearance-based scrutiny, and more room to act on her own terms. Both are commonly reported, often by the same person at once, and neither cancels the other."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The invisibility reflects societal bias far more than it reflects anything about you — a response to age in a youth-focused culture, not evidence of personal decline.",
+      "source": "On where the feeling comes from"
+    }
+  ],
   "faqs": [
     {
       "question": "Is feeling invisible as you age a real, common thing?",

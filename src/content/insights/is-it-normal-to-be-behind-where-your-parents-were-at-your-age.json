@@ -40,6 +40,35 @@
     { "value": "Higher", "label": "Home price-to-income ratio versus the previous generation", "source": "Harvard JCHS / federal housing data" },
     { "value": "Mixed", "label": "Overall generational economic comparison — better on some measures, worse on key costs", "source": "Pew Research Center / Federal Reserve" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The milestone timeline has moved: marriage, first birth, and homeownership all now happen later across the population.",
+    "Reaching those markers later than your parents did is typical for your generation, not a delay.",
+    "Some of the gap is genuinely structural — housing and higher education have risen faster than wages in many places.",
+    "The generational comparison is mixed: better on some measures, harder on key costs, and it varies a lot by place.",
+    "Compare against today's distribution and your own values, not your parents' personal age-for-age schedule."
+  ],
+  "examples": [
+    {
+      "label": "The comparison trap",
+      "title": "Your in-progress life vs a tidy memory",
+      "body": "You measure your real, unfinished life against a remembered snapshot of your parents at the same age — and memory smooths their debts, struggles, and uncertainties into a picture that was never that tidy at the time. Held side by side, your messy middle looks like falling short of a settled version of them that didn't actually exist yet."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Renting at 32, and feeling behind",
+      "body": "Someone whose parents had bought a house by 30 can feel they've failed at the same age while still renting. But home prices have risen faster than incomes in many markets, so a deposit and mortgage represent a larger share of typical earnings than a generation ago. The milestone that got economically harder — housing — is also the most visible marker of 'making it,' which is why it sharpens the feeling of being behind even when the difficulty is largely structural."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If you feel behind your parents' timeline, you are usually not measuring effort or competence — you are measuring a shifted schedule and a changed economy.",
+      "source": "On why the comparison misleads"
+    },
+    {
+      "text": "The reference point, not your pace, is what changed."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to be behind where my parents were at my age?",

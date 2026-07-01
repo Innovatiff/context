@@ -39,6 +39,36 @@
     { "value": "Mostly non-shared", "label": "The environmental influence on personality comes largely from unique, not shared-home, experience", "source": "Behavioral-genetics research" },
     { "value": "Modest", "label": "Typical parent–child correlations for values, habits, and leanings", "source": "Intergenerational-transmission research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Roughly 40–60% of the variation in major personality traits is associated with genetics — an estimate, not a blueprint.",
+    "Much of the environmental influence is 'non-shared,' which is why siblings raised together can differ markedly.",
+    "Parent–child correlations for values, habits, and leanings are real but modest, leaving room for divergence.",
+    "Heritable temperament is durable; learned habits and values are more open to deliberate change.",
+    "The resemblance is real but partial — recognisable family resemblance, not replication."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The phrase that snaps you back to a parent",
+      "body": "Catching yourself using a parent's exact phrase or gesture feels uncanny and sudden — but that's partly a memory effect. The vivid matches lodge in memory while the countless everyday ways you differ go unremarked. Once the idea 'I'm becoming my parent' is in your head, confirmation bias makes you scan for hits and discount the misses, inflating the felt degree of resemblance."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A habit you'd rather not repeat",
+      "body": "If there's a specific parental pattern you want to avoid, the useful split is between heritable temperament, which is harder to override, and learned habits and values, which are more amenable to change. The behavioural literature favours reshaping the concrete behaviour and its surrounding context — sustained change over time and supportive surroundings — over willpower alone, which puts your effort where it can actually move the needle."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We tend to resemble our parents in meaningful ways while remaining distinct individuals — recognisable family resemblance, not replication.",
+      "source": "On what the evidence supports"
+    },
+    {
+      "text": "Heritability describes probabilities across a population, not individual destiny.",
+      "source": "On reading the genetics"
+    }
+  ],
   "faqs": [
     {
       "question": "Do we actually turn into our parents?",

@@ -41,6 +41,36 @@
     { "value": "Rises with amount", "label": "How alcohol-related health risk scales", "source": "GBD 2016, The Lancet" },
     { "value": "Walked back", "label": "Status of the older 'moderate drinking is protective' claim", "source": "GBD 2016; WHO 2023" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Risk rises with how much you drink, and the level that minimises overall health loss appears to be zero.",
+    "The old 'moderate drinking is protective' idea has been substantially walked back, largely because of study-design flaws like the 'sick quitter' effect.",
+    "Light drinking is not the same as heavy drinking — the harms climb steeply as the amount goes up.",
+    "What matters for health is the amount of alcohol, far more than whether it's wine, beer, or spirits.",
+    "This is educational information only, not medical advice — raise any concern about your own drinking with a clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'glass of red is good for my heart' habit",
+      "body": "Choosing to drink because you believe it benefits your heart leans on a claim the most careful recent evidence no longer supports. Much of the apparent benefit in older studies is now attributed to the 'sick quitter' effect — non-drinker comparison groups that quietly included people who had stopped because they were already ill, making moderate drinkers look healthier than they were."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Saving it all for the weekend",
+      "body": "Averaging a weekly total down on paper — a few 'dry' days offsetting heavy weekend sessions — does not neutralise the harm of concentrated heavy drinking. The binge pattern carries its own distinct risks, and the evidence tracks the actual amount and pattern, not the tidy weekly average."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The safest level for health, taken purely as a number, is none — though very light drinking carries far smaller risks than heavy drinking.",
+      "source": "On where the evidence now points"
+    },
+    {
+      "text": "Cultural messages that flatter a habit tend to outlive the evidence that briefly supported them.",
+      "source": "On why 'red wine is good for you' stuck"
+    }
+  ],
   "faqs": [
     {
       "question": "Is a glass of wine a day actually good for you?",

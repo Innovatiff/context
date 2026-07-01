@@ -40,6 +40,49 @@
     { "value": "Possibly <10%", "label": "Suggested lifespan heritability once assortative mating is accounted for (contested)", "source": "Research on assortative mating and heritability estimates" },
     { "value": "~10+ years", "label": "Difference in life expectancy at 50 associated with several low-risk lifestyle factors vs none", "source": "Li et al., Circulation, 2018" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "There is no single percentage for 'your health' — the genetic-versus-lifestyle split depends heavily on what you are measuring.",
+    "For lifespan itself, twin studies commonly estimate heritability at roughly 20–30%, leaving a large role for environment and behaviour.",
+    "Accounting for assortative mating pushes that estimate lower, possibly under 10%, though it remains contested.",
+    "Several low-risk lifestyle factors together were associated with a decade or more of life expectancy at 50 (Li et al., 2018) — an association, not a guarantee.",
+    "Much of health is set by circumstances outside personal control, and this is educational context, not medical advice."
+  ],
+  "tables": [
+    {
+      "title": "What the numbers do and don't say",
+      "caption": "Population statistics about variation and association, not statements about any one person. Heritability of lifespan is modest and contested; lifestyle carries a large, graded association. A clinician is better placed than any general figure to speak to your situation.",
+      "columns": ["Figure", "What it refers to", "How to hold it"],
+      "rows": [
+        ["~20–30%", "Commonly estimated heritability of human lifespan (twin/population studies)", "Most variation in how long people live is not explained by inherited genes"],
+        ["Possibly <10%", "Suggested lifespan heritability once assortative mating is accounted for", "Contested and active area — earlier estimates may be overstated"],
+        ["~10+ years", "Life-expectancy difference at 50 with several low-risk lifestyle factors vs none (Li et al., 2018)", "An association across populations, not a guarantee for an individual"]
+      ],
+      "source": "Twin and population studies on lifespan heritability; Li et al., Circulation (2018)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The uncle who smoked to ninety",
+      "body": "The relative who smoked for decades and lived to ninety — or the careful person who fell ill young — are real, and they stick in memory. But they are individual outcomes drawn from a distribution. Population data describes the odds across millions of people, not what will happen to any one of them. The page's point is that both can be true at once: genes load the dice, and behaviour and environment roll them."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'Heritability is 25%' is not '25% of me is fixed'",
+      "body": "A heritability figure is a population statistic about variation, not a statement that a quarter of your personal health is predetermined. It is one of the easiest numbers to flatten and misread. This is exactly why careful sources hedge — and why a clinician, not a general figure, is the right person to interpret your own family history and risks."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Genes load the dice, and behaviour and environment roll them. Neither pure genetics nor pure willpower describes how health actually works.",
+      "source": "On holding both at once"
+    },
+    {
+      "text": "'Heritability is 25%' is a population statistic about variation, not a statement that a quarter of your personal health is fixed.",
+      "source": "On flattened headline numbers"
+    }
+  ],
   "faqs": [
     {
       "question": "Is health mostly genetic or mostly lifestyle?",

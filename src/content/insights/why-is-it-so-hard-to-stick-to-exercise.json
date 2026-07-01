@@ -40,6 +40,36 @@
     { "value": "Immediate cost", "label": "Exercise's costs come now; rewards come later — present bias discounts them", "source": "Present-bias research" },
     { "value": "Consistency", "label": "Repeated cues make behavior automatic — longer than the '21 days' myth", "source": "Wood; Lally et al., habit-formation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Struggling to stick with exercise is normal and structural, not a character flaw.",
+    "The intention-behavior gap means wanting to exercise is a weak predictor of actually doing it.",
+    "Present bias pulls toward skipping: exercise's costs come now, its rewards come later.",
+    "Design beats discipline — habits, enjoyment, if-then plans, and social commitment work best.",
+    "Extreme all-or-nothing starts predict dropout; starting small builds consistency that compounds."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Waiting for the motivation to come back",
+      "body": "Someone remembers how powerful the burst of motivation felt when they last started, so they keep waiting for that feeling to return and carry them. But motivation is naturally fleeting, and the people who sustain exercise mostly stopped depending on it. Attaching a walk to a fixed cue — same time, same trigger — lets the behavior become more automatic and less dependent on how they feel that day."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The ambitious program that collapses in week two",
+      "body": "A demanding, all-or-nothing plan looks impressive but tends to backfire, because research on adherence associates intense starts with higher dropout. Lowering the bar — a short, enjoyable activity tied to an if-then plan like 'if it's Monday at 6pm, then I walk the same route' — builds the consistency that actually lasts, rather than an impressive routine that gets abandoned."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If you struggle to keep it up, you are not weak-willed — you are running into well-documented features of how people actually behave.",
+      "source": "On why it's hard"
+    },
+    {
+      "text": "The difference is often design, not character: a fixed routine, an activity you enjoy, a partner — rather than superior willpower.",
+      "source": "On what sustains exercise"
+    }
+  ],
   "faqs": [
     {
       "question": "Why can't I stick to exercise even though I want to?",

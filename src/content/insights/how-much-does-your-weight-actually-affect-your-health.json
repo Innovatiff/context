@@ -40,6 +40,36 @@
     { "value": "Worse", "label": "Health outcomes associated with experienced weight stigma", "source": "Tomiyama, Puhl, et al." },
     { "value": "Real risk", "label": "Elevated risk associated with severe obesity for several conditions", "source": "General medical evidence" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Weight is genuinely associated with some health outcomes — and severe obesity carries real, well-documented risks — but it is one factor among many.",
+    "Cardiorespiratory fitness and activity appear to predict outcomes partly independently of weight ('fitness versus fatness').",
+    "BMI is a crude population screen: it cannot separate muscle from fat or capture where fat is stored.",
+    "Weight stigma itself is associated with worse health — shame as a motivator appears to backfire.",
+    "This is educational context, not medical advice — and not a verdict on anyone; a clinician looks at the full picture."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The fit person at a higher weight",
+      "body": "The 'fitness versus fatness' research suggests an active, fit person at a higher weight often has better outcomes than a sedentary person at a lower weight. It is one reason the page treats fitness as carrying benefits not fully explained by the number on the scale — and why building activity is supported even where weight changes little. The exact size of the effect is contested, and this is context, not a personal assessment."
+    },
+    {
+      "label": "The counterintuitive part",
+      "title": "Why shame backfires",
+      "body": "It is easy to assume pressure or shame about weight would motivate healthier behaviour. The research on weight stigma points the other way: it is linked to higher stress, healthcare avoidance, and disordered eating — outcomes that work against health, apparently in part independently of body weight. The intuition that 'feeling bad about it should help' appears to be wrong."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Weight is part of the picture, not the whole of it.",
+      "source": "On reading health off body size"
+    },
+    {
+      "text": "The data does not support reading character or even overall health off body size — but the cultural framing makes that leap feel automatic.",
+      "source": "On why weight feels like the master variable"
+    }
+  ],
   "faqs": [
     {
       "question": "Is BMI an accurate measure of my health?",

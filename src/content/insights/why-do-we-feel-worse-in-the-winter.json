@@ -40,6 +40,36 @@
     { "value": "Minority", "label": "Share of people experiencing clinical SAD, versus a larger group with milder 'winter blues'", "source": "Research on Seasonal Affective Disorder" },
     { "value": "Rises with latitude", "label": "Reported seasonal mood problems tend to increase with distance from the equator", "source": "Latitude and seasonal mood studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling lower in winter is common and largely about light — shorter days disrupt the body clock.",
+    "It runs on a spectrum: milder 'winter blues' are widespread; clinical SAD affects a smaller group.",
+    "Reported seasonal mood problems tend to rise farther from the equator, where winter light is scarcest.",
+    "More daylight (especially morning), regular routines, and daytime activity are the best-supported steps.",
+    "Persistent, severe, or worsening low mood is a reason to see a clinician, not to wait it out."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The gradual, invisible slide into a winter dip",
+      "body": "As the days shorten, someone notices their mood, energy, and motivation slipping, with more sleep and stronger carbohydrate cravings. Because the change is gradual and invisible, it is easy to read as a discipline problem rather than a physiological response to less light. Getting outside in the morning and keeping a steady sleep and activity schedule target the likely driver directly."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Real but mild — the middle of the spectrum",
+      "body": "Many people sit in the mild-but-real middle: their winter dip is genuine but falls short of clinical depression, so 'it's just winter blues' can feel dismissive while 'maybe it's SAD' can feel alarming. The honest framing is that both are legitimate and differ in severity — and that severity, not the label, is what should guide whether to try more light and routine or to see a clinician."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Winter lows can feel like a personal failing, when they are more plausibly a physiological response to a changed light environment.",
+      "source": "On why it feels like discipline"
+    },
+    {
+      "text": "Many people sit in the mild-but-real middle, and a smaller number experience something clinical that deserves treatment.",
+      "source": "On the winter-mood spectrum"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel so low and tired in winter?",

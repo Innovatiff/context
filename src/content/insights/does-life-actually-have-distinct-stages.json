@@ -39,6 +39,35 @@
     { "value": "Seasons", "label": "Levinson's framing of adult life as alternating stable and transitional periods", "source": "Daniel Levinson, The Seasons of a Man's Life" },
     { "value": "Weak", "label": "Empirical support for strict, age-locked life stages", "source": "Critiques of stage-theory universality and rigidity" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Stage models like Erikson's and Levinson's name real developmental themes — identity, intimacy, contribution, integrity.",
+    "The evidence does not support those stages being universal, strictly ordered, or locked to fixed ages.",
+    "Themes are typically revisited across a life, not completed once in a single window.",
+    "Empirical support for a rigid, age-locked timetable is weak — the themes are real, the schedule is not."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why the clean diagram spreads faster than the caveats",
+      "body": "A numbered chart with approximate ages is easy to remember and easy to share, so the simplified, age-locked version travels far more widely than the careful qualifications the original theorists attached. The map gets mistaken for a timetable — and then an ordinary out-of-sequence life reads as falling behind a schedule that was never really there."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reworking your identity at 50",
+      "body": "Someone who changes careers, returns to study, or rethinks who they are in their fifties can feel they have regressed to a question they were 'supposed' to have settled decades ago. But lifespan research increasingly treats identity, purpose, and intimacy as recurring rather than resolved once — so revisiting them late is consistent with how development actually works, not a sign of arrested development."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Stage models are helpful maps of common terrain, not a schedule you are failing to follow.",
+      "source": "On reading the stage theories"
+    },
+    {
+      "text": "The themes are real; the timetable is not.",
+      "source": "On age-locked stages"
+    }
+  ],
   "faqs": [
     {
       "question": "So are life stages real or not?",

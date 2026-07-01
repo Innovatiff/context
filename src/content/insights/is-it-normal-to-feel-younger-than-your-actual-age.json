@@ -40,6 +40,48 @@
     { "value": "Flips with age", "label": "Children feel older; the felt-younger pattern emerges in early adulthood", "source": "Studies on felt age across the lifespan" },
     { "value": "Linked, not proven", "label": "Younger felt age associated with better health and longevity in observational studies", "source": "Longitudinal subjective-age studies" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "From midlife onward, most adults report feeling younger than their actual age — commonly around 20% younger.",
+    "The gap flips across life: children feel older, the lines cross in early adulthood, then the felt-younger pattern widens.",
+    "A younger felt age is linked to better health and longevity, but the associations are correlational and bidirectional.",
+    "Feeling younger than your age is the statistical norm, not vanity or denial — and it does not need external proof."
+  ],
+  "tables": [
+    {
+      "title": "What a ~20% felt-age gap looks like by age",
+      "caption": "Applying the often-cited 'about 20% younger' rule of thumb. These are approximate central tendencies from subjective-age research, not fixed figures — individual variation is large, and a minority feel about their age or older.",
+      "columns": ["Chronological age", "Roughly how old you might feel"],
+      "rows": [
+        ["50", "≈ 40"],
+        ["60", "≈ 48"],
+        ["70", "≈ 56"]
+      ],
+      "highlightColumn": 1,
+      "source": "Subjective-age research (approximate central tendency)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "60, but feels about 48",
+      "body": "The number on the documents says 60; the person narrating the inner life feels closer to 48. Far from being denial or vanity, this roughly 20% gap is the typical report from midlife onward — a widely populated norm rather than a private quirk. There is nothing to justify or hide."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The teenager who feels older",
+      "body": "The felt-age gap runs the other way early in life: children and teenagers commonly report feeling older than they are. The lines cross in early adulthood, and only from roughly the late twenties does the felt-younger pattern emerge and steadily widen. So 'how old do you feel?' has a fairly predictable answer that depends on where you are in the lifespan."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The 'you' narrating your inner life does not obviously age year to year, so the number can feel like it belongs to someone older than the person you experience yourself as being.",
+      "source": "On why the gap is so common"
+    },
+    {
+      "text": "Feeling younger than your age is the statistical norm from midlife on — not vanity, not denial, and not something you have to prove."
+    }
+  ],
   "faqs": [
     {
       "question": "How much younger do most people feel than their actual age?",

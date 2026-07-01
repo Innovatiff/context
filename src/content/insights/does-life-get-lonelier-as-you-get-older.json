@@ -39,6 +39,36 @@
     { "value": "Young adults", "label": "Often report more loneliness than older adults in many studies", "source": "Loneliness-prevalence research" },
     { "value": "Fewer, closer", "label": "Older adults tend toward smaller but closer networks — not necessarily lonelier", "source": "Carstensen — socioemotional selectivity theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Loneliness across adulthood tends to follow a U-shape, not a steady rise with age.",
+    "It is often high in young adulthood, lower through midlife, and rises again among the oldest old.",
+    "The late-life rise is usually tied to bereavement, health decline, and shrinking networks — not age itself.",
+    "Quality of relationships matters more than quantity; smaller, closer circles are not necessarily lonelier.",
+    "In many studies young adults report more loneliness than older adults."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Lonely in a crowded life",
+      "body": "A twenty-something with a full calendar, plenty of contacts, and constant online connection can still feel unseen. Loneliness is the gap between the relationships you want and the ones you have, not the raw number of people around you — so it can be intense precisely when life looks most socially busy, which is part of why young-adult loneliness stays hidden."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A smaller circle later in life",
+      "body": "An older adult who has narrowed their social world to a few close relationships is not automatically lonelier for it. Consistent with Carstensen's work, people often shift toward fewer but closer, more emotionally rewarding ties as they age — and many report relatively low loneliness despite smaller networks, because closeness matters more than count."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The lonely young adult is as real, and often more common, than the lonely elder.",
+      "source": "On the U-shape"
+    },
+    {
+      "text": "Loneliness is about the gap between the relationships you want and the ones you have — not the number of people around you.",
+      "source": "On what loneliness measures"
+    }
+  ],
   "faqs": [
     {
       "question": "Does loneliness increase steadily as you get older?",

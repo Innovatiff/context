@@ -39,6 +39,35 @@
     { "value": "Decades", "label": "Length of follow-up linking midlife relationship quality to healthier aging", "source": "Harvard Study of Adult Development (Waldinger & Schulz)" },
     { "value": "Connection", "label": "Recurring predictor of healthier, happier later life", "source": "Research on social connection and healthy aging" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Aging well is shaped more by relationships, activity, and purpose than by genes or luck alone.",
+    "Rowe and Kahn's 'successful aging' model: avoiding disease, maintaining function, and staying engaged.",
+    "The Harvard Study found relationship quality around midlife was among the better predictors of healthier, happier aging.",
+    "Much of what supports aging well is within reach — but this is general context, not personal medical advice."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'never exercised and lived to 95' story",
+      "body": "The dramatic exceptions — the very long-lived, the person who supposedly did everything wrong and thrived — get the attention and make aging well feel like genetic luck. Those vivid cases can crowd out the steadier finding that everyday connection, activity, and engagement matter for the typical person. The unglamorous predictors are easy to overlook precisely because they are ordinary."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Investing in a friendship at 45",
+      "body": "Tending to close connections at midlife rather than letting them quietly erode is one of the better-supported things the evidence points toward — but its benefit shows up decades later, so it lacks immediate feedback. That slow-acting payoff is easy to underrate in the moment, even though the long-run data points to relationship quality strongly."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Much of what seems to support aging well is within reach rather than fixed by luck at birth.",
+      "source": "On what the research suggests"
+    },
+    {
+      "text": "The benefit of relationship quality at midlife shows up decades later — which is exactly why it is so easy to underrate.",
+      "source": "On the slow-acting relational finding"
+    }
+  ],
   "faqs": [
     {
       "question": "Is aging well mostly down to genetics?",

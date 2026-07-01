@@ -39,6 +39,35 @@
     { "value": "Perception, not age", "label": "What actually triggers the shift in priorities toward meaning", "source": "Carstensen and colleagues" },
     { "value": "Toward meaning", "label": "Direction priorities shift when time feels limited", "source": "Socioemotional selectivity theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling like time is running short is common and developmentally normal, intensifying as your future time perspective narrows.",
+    "In the research it's not just anxiety — it's a cue that shifts priorities toward emotionally meaningful goals and close relationships.",
+    "It's the perception of limited time, not age itself, that drives the shift — younger people made to feel time is short reprioritise the same way.",
+    "Milestone birthdays and reminders of mortality sharpen the feeling by making time concrete.",
+    "The feeling can be channelled toward what matters; if it becomes persistently overwhelming, it's worth talking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "From 'how much have I done' to 'how much is left'",
+      "body": "Early in adulthood, time feels effectively open-ended, so the question is what to start. Later, the same life starts to be measured against a horizon — and that reframing alone can make time feel scarce even when a great deal remains. Socioemotional selectivity theory describes what tends to follow: a pull toward close relationships and present experience over open-ended striving."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A round-number birthday that lands hard",
+      "body": "A milestone age, a child leaving home, or a parent's illness can make the passage of time suddenly concrete, and the 'running out of time' feeling spikes. Read as a verdict, it becomes 'I've wasted time.' Read as information — what relationships, experiences, or unfinished things actually matter most right now — the same feeling tends to clarify priorities rather than only distress. For many people it is both at once."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When people sense their time is limited, they tend to reprioritise toward what is emotionally meaningful — the feeling is a cue, not a malfunction.",
+      "source": "On socioemotional selectivity theory"
+    },
+    {
+      "text": "It answers a question about meaning with a strategy about speed."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel like you're running out of time?",

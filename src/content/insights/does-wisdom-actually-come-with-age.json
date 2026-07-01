@@ -40,6 +40,36 @@
     { "value": "Improves", "label": "Emotion regulation and meaningful-goal focus with age", "source": "Carstensen, socioemotional selectivity" },
     { "value": "Reflection", "label": "What turns experience into wisdom — more than years alone", "source": "Wisdom research, general pattern" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Age enables wisdom but does not automatically confer it — on formal measures, gains are modest and uneven.",
+    "On the Berlin Wisdom Paradigm, wisdom tended to plateau, with older adults scoring similarly to younger ones.",
+    "Wise reasoning varies widely from situation to situation within the same person — it is not a fixed, accumulating trait.",
+    "The clearest age-related benefit is emotional: emotion regulation and focusing on what matters tend to improve.",
+    "Reflection on experience, not the passage of years, is what turns experience into wisdom."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Calm read as wise",
+      "body": "Because emotion regulation tends to improve with age, older adults often come across as calmer and more measured, which can read as wisdom even when their reasoning about a novel problem is no sharper. The emotional steadiness is real — it is just not the whole of what we usually mean by wisdom."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Advising yourself as if you were someone else",
+      "body": "Faced with a hard personal decision, stepping back and reasoning about it from a third-person view — as if advising a friend — tends to produce wiser reasoning than staying immersed in the first-person perspective. Grossmann's work finds this 'self-distancing' is one of the more practical routes to wiser judgment, and it does not require having lived longer."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Wisdom in the fuller sense is earned through how you engage with life, not conferred by birthdays.",
+      "source": "On age and wisdom"
+    },
+    {
+      "text": "The raw years are an opportunity, not a guarantee.",
+      "source": "On experience vs reflection"
+    }
+  ],
   "faqs": [
     {
       "question": "So does wisdom come with age or not?",

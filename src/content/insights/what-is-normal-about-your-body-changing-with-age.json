@@ -40,6 +40,50 @@
     { "value": "Stable ~20–60", "label": "Total daily energy expenditure, after adjusting for body size", "source": "Pontzer et al., Science 2021" },
     { "value": "Largely a myth", "label": "The idea that metabolism slows sharply in your 30s", "source": "Pontzer et al., Science 2021" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Gradual muscle and strength loss, declining aerobic capacity, and slower recovery are normal, not malfunctions.",
+    "Muscle loss is commonly estimated at roughly 3–8% per decade after about age 30, accelerating later.",
+    "The 'metabolism slows in your 30s' story is largely a myth — energy expenditure looks stable from about 20 to 60.",
+    "Midlife weight change is better explained by activity, diet, sleep, and circumstance than by a slowing engine.",
+    "These are population averages, not personal predictions — and this is educational context, not medical advice."
+  ],
+  "tables": [
+    {
+      "title": "What the research says about common age-related changes",
+      "caption": "Broad population averages with wide individual variation, not personal predictions. Much of this trajectory is partly modifiable — activity blunts the change rather than abolishing it. For anything that feels sudden, severe, or worrying, see a qualified clinician.",
+      "columns": ["Change", "What the data suggests", "Partly modifiable?"],
+      "rows": [
+        ["Muscle mass (sarcopenia)", "≈ 3–8% loss per decade after ~age 30, accelerating later", "Yes — resistance training, adequate protein"],
+        ["Aerobic capacity (VO2 max)", "Gradual decline with age; recovery slows", "Yes — regular aerobic activity"],
+        ["Metabolism (energy expenditure)", "Relatively stable ~age 20–60, then slow decline after 60", "Not a driver of midlife weight change"]
+      ],
+      "highlightColumn": 1,
+      "source": "Sarcopenia and VO2 max research; Pontzer et al., Science (2021)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Gaining weight in your 40s and blaming metabolism",
+      "body": "The timing lines up with real life, so metabolism feels like the obvious culprit. But the Pontzer data suggest energy expenditure is relatively stable from about age 20 to 60 after adjusting for body size — pointing instead to less visible, more mundane drivers: less movement, more sitting, changing sleep, stress, and eating patterns over a busy decade. The convenient story and the actual cause point in different directions."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A slower mile than five years ago",
+      "body": "Reading a slower time or an achier morning as a small defeat makes ordinary biology feel like something going wrong. Set against the real population pattern, gradual change is the norm, not a personal failing — and the parts people most dislike, muscle and fitness loss, are among the most responsive to activity, which slows rather than stops the underlying trajectory."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The 'metabolism slows in your 30s' story is largely a myth — the data point to activity and circumstance, not a downshifting engine.",
+      "source": "On the Pontzer findings"
+    },
+    {
+      "text": "The realistic goal is slowing and offsetting change, not undoing it to a 20-year-old baseline.",
+      "source": "On what exercise can and can't do"
+    }
+  ],
   "faqs": [
     {
       "question": "Does your metabolism really slow down in your 30s?",

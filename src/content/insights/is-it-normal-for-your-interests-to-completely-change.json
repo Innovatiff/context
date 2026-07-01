@@ -39,6 +39,35 @@
     { "value": "Adolescence", "label": "Life stage when musical taste tends to crystallise", "source": "Research on the formation of musical preference" },
     { "value": "Young adulthood", "label": "When Openness to experience tends to peak before a gentle decline", "source": "Big Five Openness across the lifespan" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Interests, values, and tastes keep evolving across life — outgrowing old loves is closer to the rule than the exception.",
+    "People at every age underestimate how much they'll change next — the 'End of History Illusion'.",
+    "Not all tastes are equally fluid: musical taste tends to set young while broader interests keep shifting.",
+    "Openness to novelty is highest in young adulthood and declines gently on average, but change continues at every age.",
+    "Expecting your interests to keep changing is more accurate than assuming you've finally settled."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Feeling you've 'arrived' — at every age",
+      "body": "Ask people how much they've changed in the last ten years and they report a lot; ask how much they'll change in the next ten and they say little. Both the 25-year-old and the 55-year-old give that answer. That's the End of History Illusion: at any age we feel we've essentially become who we'll stay, which is exactly why a later shift in what we care about feels like a deviation rather than the continuation it usually is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The hobby that once defined you",
+      "body": "Someone spends a decade building an identity around a hobby — the gear, the community, the weekends — then slowly notices the pull has gone. It can feel like a loss or even a betrayal of a past self. But the research on changing preferences frames dropping an old interest not as quitting or flakiness, but as a normal feature of a developing life. The sunk cost is real; the obligation to keep feeling the old pull is not."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "At any age, we feel we have essentially arrived — which makes a later shift in what we care about feel like a deviation rather than a continuation.",
+      "source": "On the End of History Illusion"
+    },
+    {
+      "text": "The same illusion that made you think the old self was final will tend to make the current self feel final too."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to lose interest in hobbies I used to love?",

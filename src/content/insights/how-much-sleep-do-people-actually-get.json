@@ -40,6 +40,50 @@
     { "value": "~1 in 3", "label": "U.S. adults regularly getting under 7 hours", "source": "U.S. CDC" },
     { "value": "Overstated", "label": "Self-reported and time-in-bed figures vs. actual sleep", "source": "American Time Use Survey / self-report literature" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The guidance is a 7–9 hour range for most adults, not a fixed 8 — with real individual variation.",
+    "Average self-reported sleep sits near 7 hours, and about a third of U.S. adults regularly get under 7.",
+    "Time in bed overstates time asleep and self-reports run high, so true sleep is often a little lower.",
+    "This is educational context, not medical advice — persistent trouble sleeping is worth a clinician's look."
+  ],
+  "tables": [
+    {
+      "title": "The adult sleep picture, at a glance",
+      "caption": "Recommendation and typical reality side by side. Being around or just under 7 hours places you in the most common band, not outside the norm — but 'common' is not the same as 'harmless,' and chronic shortfalls are worth taking seriously.",
+      "columns": ["Measure", "Figure"],
+      "rows": [
+        ["Recommended nightly range (most adults)", "≈ 7–9 hours"],
+        ["Health floor for ongoing good health", "7+ hours"],
+        ["Approximate average self-reported sleep", "≈ 7 hours"],
+        ["U.S. adults regularly getting under 7 hours", "≈ 1 in 3"]
+      ],
+      "highlightColumn": 1,
+      "source": "AASM / National Sleep Foundation (recommendations); U.S. CDC (short-sleep prevalence)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Averaging about 6½ hours on weeknights",
+      "body": "This can feel like failing an 8-hour rule, but it sits squarely inside the most common band: average self-reported sleep is near 7 hours, and roughly one in three U.S. adults regularly gets less than 7. That makes it common rather than unusual. Common is not the same as harmless, though — if the short nights are persistent and daytime tiredness is interfering with life, that is a reason to raise it with a qualified clinician rather than to read it off a population average."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Your tracker says less than you thought",
+      "body": "Feeling that you sleep less than the number in your head is expected: time in bed is not time asleep, lying awake still counts as 'in bed,' and self-reports tend to run high. Consumer trackers also estimate rather than directly measure sleep. If checking a nightly 'score' is making you more anxious about sleep, that anxiety can itself worsen rest — a pattern clinicians have informally labelled orthosomnia."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'8 hours' is repeated so often that the actual guidance — a 7-to-9-hour range with real individual variation — gets lost.",
+      "source": "On the flattened ideal"
+    },
+    {
+      "text": "Feeling worse about your sleep after checking an app does not mean your sleep got worse.",
+      "source": "On sleep trackers"
+    }
+  ],
   "faqs": [
     {
       "question": "How many hours of sleep do most people actually get?",

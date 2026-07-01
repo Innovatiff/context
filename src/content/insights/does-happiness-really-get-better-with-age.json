@@ -40,6 +40,45 @@
     { "value": "Positivity effect", "label": "Older adults' tendency to favour positive information and regulate emotion better", "source": "Carstensen, socioemotional selectivity theory" },
     { "value": "Declines", "label": "Direction of stress and anger across much of adulthood in a large survey", "source": "Stone et al., PNAS 2010" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For many people later life is emotionally better than midlife — the opposite of the standard decline story.",
+    "Average life satisfaction often traces a rough U-shape, dipping around the late 40s and rising afterward (debated).",
+    "The 'positivity effect' — better emotion regulation and a tilt toward positive information — is the more robustly replicated finding.",
+    "Emotional wellbeing and physical health are only loosely linked and can move in opposite directions.",
+    "These are population averages, not personal forecasts; serious illness, loss, or hardship can override the pattern."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "In the midlife dip at 48",
+      "body": "Feeling flat in your late 40s can seem like proof that it's downhill from here. The data offers a different frame: for many people this is a low point on a curve that tends to rise afterward, not a permanent new baseline. Knowing the average trajectory won't fix a hard year, but it can take some of the catastrophic weight off the feeling that things only get worse."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Health declining, mood holding up",
+      "body": "It seems paradoxical that happiness could rise as the body slows, but emotional wellbeing and physical health are only loosely linked. The positivity-effect research suggests that as people sense time is more limited, they prioritise emotionally meaningful goals and close relationships and regulate emotion better — which can hold up or even improve even as health declines."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The emotional ledger is more mixed, and often more positive, than the standard 'decline' story assumes.",
+      "source": "On what the surveys show"
+    },
+    {
+      "text": "Bracing for misery on the basis of physical aging is forecasting from the wrong variable.",
+      "source": "On separating health from happiness"
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Why we mispredict our own later years",
+      "body": [
+        "Part of the surprise here is a forecasting error. Younger people are notably bad at predicting their own future wellbeing and tend to assume older adulthood will be sadder than older adults actually report it to be. We picture later life through the lens of visible decline — looks, capability, relevance — rather than through the emotional skills and perspective that often come with it.",
+        "The cultural story about aging is overwhelmingly about loss, and it is loud and one-directional. That is why the quieter finding — that many people become more emotionally settled, less reactive, and more selective about what matters — tends to get drowned out, even though it is the pattern the research keeps describing."
+      ]
+    }
+  ],
   "faqs": [
     {
       "question": "So does happiness really improve with age?",

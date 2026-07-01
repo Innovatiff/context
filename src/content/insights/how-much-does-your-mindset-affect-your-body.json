@@ -41,6 +41,36 @@
     { "value": "Ghrelin shifted", "label": "Hunger-hormone response to an identical milkshake framed differently", "source": "Crum et al., milkshake/mindset study" },
     { "value": "Bounded", "label": "Mindset's reach — it shifts symptoms and some physiology, not disease cures", "source": "Limits emphasised across the research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Expectation and belief genuinely reach into the body — the placebo effect is one of the most reliable findings in medicine.",
+    "Crum's studies show mindset acting as its own variable: reframing everyday work as exercise, or a milkshake as indulgent, tracked with real change.",
+    "The effects are strongest for how you feel and some physiology — not for curing the underlying disease process.",
+    "'Think yourself well' as a standalone cure has no good evidence and can curdle into harmful self-blame.",
+    "This is educational context, not medical advice — mindset is at most a complement to proper care, never a replacement."
+  ],
+  "examples": [
+    {
+      "label": "The evidence",
+      "title": "The housekeepers who were told their work counts",
+      "body": "In Crum and Langer's study, hotel housekeepers who were told their daily cleaning already counted as good exercise showed health improvements over the following weeks compared with a group who were not told — despite no reported change in their actual activity. The reframe itself appeared to track with measurable change: a concrete instance of expectation reaching into the body."
+    },
+    {
+      "label": "The limit",
+      "title": "The same milkshake, two stories",
+      "body": "Participants drank an identical milkshake described once as a rich, indulgent treat and once as a sensible low-calorie option; their ghrelin — a hunger-related hormone — responded differently depending on which story they believed. It is a vivid proof that the channel exists. But the page is careful about scale: this shows expectation shifting physiology at the margins, not belief overriding what is physically happening or curing disease."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Mindset is a real biological input, not just a feeling — and it is not magic either.",
+      "source": "On expectation and the body"
+    },
+    {
+      "text": "The same true statement can become cruel when aimed at someone whose outcome was never within their mental control.",
+      "source": "On the emotional charge of 'your mindset affects your body'"
+    }
+  ],
   "faqs": [
     {
       "question": "Can my mindset really change my body?",

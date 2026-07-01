@@ -40,6 +40,36 @@
     { "value": "~150 min/week", "label": "Baseline moderate activity in common public-health guidance", "source": "Physical activity guidelines (general)" },
     { "value": "Overstated", "label": "Accuracy of 'sitting is the new smoking'", "source": "Research consensus" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Prolonged sitting is a real risk factor, but 'sitting is the new smoking' overstates it — smoking is a large, hard-to-offset risk; sitting is modest and modifiable.",
+    "A meta-analysis of over a million people found roughly 60–75 minutes of moderate activity a day offset much of the sitting-related mortality risk.",
+    "How much you move across the day matters more than the chair itself.",
+    "Breaking up long sitting bouts appears to help metabolic markers independent of total sitting time, though the effects are modest and still being studied.",
+    "A standing desk alone does little — standing is not the same as moving. Educational only, not medical advice."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The office worker who moves enough",
+      "body": "Someone who sits at a desk all day but gets on the order of an hour of moderate activity — a walk, not necessarily the gym — showed little of the excess mortality risk linked to long sitting hours in the Lancet analysis. The practical message is reassuring: not 'panic about your desk,' but 'move enough, and break up the sitting.'"
+    },
+    {
+      "label": "Illustrative",
+      "title": "The standing desk that changed little",
+      "body": "Buying a standing desk and expecting it to cancel the risk overstates both the danger of sitting and the benefit of merely standing. Standing is not the same as being active; the signal in the data is movement, not posture. Short walks and regular movement breaks do more of the work people hope the desk will do."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The chair is a risk factor, not a fixed sentence — and how much you move during the rest of your day matters more than the chair itself.",
+      "source": "On putting sitting in perspective"
+    },
+    {
+      "text": "Sitting matters, movement matters more, and neither claim should be pushed to its extreme.",
+      "source": "On the honest middle position"
+    }
+  ],
   "faqs": [
     {
       "question": "Is sitting really as bad as smoking?",

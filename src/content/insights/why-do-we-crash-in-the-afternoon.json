@@ -41,6 +41,36 @@
     { "value": "~10–20 min", "label": "Nap length often suggested to boost alertness without grogginess", "source": "Research on short naps and alertness" },
     { "value": "Biggest amplifier", "label": "Effect of accumulated sleep debt on the afternoon trough", "source": "Sleep debt and alertness research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The early-to-mid afternoon dip is largely a built-in circadian rhythm, not a personal failing.",
+    "It appears even without lunch — the body clock, not just the meal, is the main driver.",
+    "Sleep debt is the biggest amplifier: it turns a mild, normal dip into a serious slump.",
+    "Light, movement, a short 10–20 minute nap, and lighter balanced meals can ease the trough.",
+    "A mild dip is normal; persistent or worsening daytime sleepiness is worth a clinician's check."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 2 pm wall after a heavy lunch",
+      "body": "Alertness sags around 1 to 3 pm as part of the normal circadian rhythm, and a large, fast-carbohydrate lunch can deepen it — so a slump right after eating feels like a digestion problem. But much of the dip would have arrived anyway. A lighter, more protein-balanced meal, some water, and stepping outside for light and movement tend to blunt it more than blaming the food."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The same dip after three short nights",
+      "body": "The trough that is barely noticeable when you are well-rested can feel overwhelming after several nights of short sleep, because you are subtracting from an already-depleted baseline. The most useful lever here is not an afternoon fix at all — it is protecting sleep the nights before, since sleep debt is the biggest amplifier of the crash."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The afternoon crash is largely a normal rhythm, not evidence that something is wrong with you.",
+      "source": "On the post-lunch dip"
+    },
+    {
+      "text": "The dip appears even in people who haven't eaten — which is the key evidence the body clock, not just lunch, is driving it.",
+      "source": "On the circadian cause"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the afternoon crash caused by lunch?",
