@@ -39,6 +39,35 @@
     { "value": "Default mode", "label": "Brain network active during mind-wandering and idea generation", "source": "Neuroscience of mind-wandering" },
     { "value": "Signal", "label": "How boredom researchers describe its core function", "source": "Eastwood; Elpidorou" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Boredom is uncomfortable by design — it works as a signal that your situation isn't engaging you.",
+    "In Mann and Cadman's 2014 study, people bored first generated more creative ideas afterward.",
+    "Undemanding, low-stimulation time is when default-mode processing — mind-wandering, planning, ideas — happens.",
+    "Reflexively filling every dull moment with a phone ends the discomfort but short-circuits the benefit.",
+    "The useful version of boredom is occasional and acted upon; chronic, unrelieved boredom is genuinely unpleasant."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The boring task that primed better ideas",
+      "body": "In Mann and Cadman's 2014 study, people first copied numbers out of a phone book — a deliberately dull task — and then produced more, and more creative, ideas on a divergent-thinking test than people who hadn't been bored first. The proposed mechanism: boredom pushes the mind to wander and hunt for stimulation, which surfaces novel associations it wouldn't reach while focused."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The queue you no longer sit in",
+      "body": "A few quiet minutes in a queue used to be low-stimulation time; now the phone fills it in seconds. The relief is instant, but the gap between feeling a flicker of boredom and escaping it has collapsed to almost nothing — so the mind rarely reaches the wandering or the prompting-to-act that gives boredom its function. Letting an occasional dull stretch run, screen-free, is what leaves room for that background work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is uncomfortable by design, in the way hunger or restlessness is, because discomfort is what makes a signal effective.",
+      "source": "On boredom as a functional signal"
+    },
+    {
+      "text": "Fill every dull moment instantly and you get relief without the benefit."
+    }
+  ],
   "faqs": [
     {
       "question": "Is boredom actually good for creativity?",

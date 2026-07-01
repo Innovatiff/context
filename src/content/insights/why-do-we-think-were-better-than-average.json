@@ -34,6 +34,35 @@
     "The signature finding is a clean statistical contradiction. In Svenson's (1981) study, a large majority of drivers rated themselves more skilful and safer than the median driver — far more than the 50% that is logically possible — which is why the better-than-average effect is such a durable demonstration that self-perception is systematically biased rather than merely noisy.",
     "The effect is strong but bounded. It is largest for desirable, ambiguous, easy traits and reverses on genuinely difficult ones (Kruger & Dunning, 1999), where people tend to underestimate themselves. So the honest takeaway is not 'everyone is arrogant' but that self-assessment is distorted in predictable directions — inflated on easy and vague qualities, deflated on hard and well-defined ones."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Most people rate themselves above average on common positive traits — the better-than-average effect — which cannot all be true.",
+    "The bias is strongest for easy, vague, socially desirable traits, because everyone can define them in their own favour.",
+    "It reverses on genuinely hard skills: people tend to underrate themselves, and the least skilled often can't see their limits (Kruger–Dunning).",
+    "It coexists with opposite biases — impostor feelings, underestimating how much others like you — so we're biased in patterned ways, not uniformly self-flattering.",
+    "The useful correction is concrete external feedback, not harsh self-criticism, which the evidence doesn't support as helpful."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Everyone is a good driver",
+      "body": "Ask a room of drivers whether they're above average for skill and safety, and a large majority say yes — far more than the 50% that is logically possible (Svenson, 1981). Each quietly defines 'good driving' around their own strengths: the careful one emphasises caution, the fast one emphasises skill. Almost everyone rates themselves above average on a yardstick they've privately bent in their favour."
+    },
+    {
+      "label": "The reversal",
+      "title": "Most confident on the thing you've just started",
+      "body": "On a genuinely difficult, unfamiliar skill, early confidence is exactly where overrating is most likely — the Kruger–Dunning pattern, where lacking the skill also means lacking the ability to judge it. Treating early confidence as provisional, and competence on hard skills as something to verify with outside feedback, is the safer default."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Your above-average self-rating doesn't feel like a bias; it feels like a fair reading of the evidence — which is exactly why a statistical impossibility can be so sincerely held.",
+      "source": "On illusory superiority"
+    },
+    {
+      "text": "Confidence is a feeling, not a measurement."
+    }
+  ],
   "realNumbers": [
     { "value": "Large majority", "label": "Drivers who rated themselves above the median for skill and safety", "source": "Svenson, 1981" },
     { "value": "Above average", "label": "How most people rate themselves on desirable, vague traits", "source": "Alicke et al., better-than-average effect" },

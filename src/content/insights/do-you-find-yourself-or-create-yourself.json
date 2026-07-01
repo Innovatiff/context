@@ -34,6 +34,36 @@
     "This is mostly a conceptual question rather than a numerical one, so be wary of anyone attaching a precise figure to it. The closest the research comes to numbers is in trait studies, where twin and family studies broadly estimate that something like roughly 40–60% of the variation in major personality traits is associated with genetic differences — a wide, approximate range, not a fixed fraction, and one that says nothing about any single person.",
     "The more useful 'number' is qualitative: personality traits are both meaningfully stable and meaningfully changeable across adulthood at the same time. Stability and change are not opposites here, which is exactly why the find-versus-create framing misleads."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Find-versus-create is a false binary: a self is partly inherited disposition and partly an authored, revisable life story.",
+    "Narrative identity (McAdams) frames part of who you are as an evolving story you tell about your own life.",
+    "'Possible selves' (Markus & Nurius) — the futures you imagine becoming — can guide motivation, not just predict.",
+    "Broad traits are partly heritable and fairly stable, yet still shift gradually across adulthood.",
+    "Treating 'who I am' as a working draft fits the evidence better than searching for a single fixed answer."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "After a big change, authoring a new story",
+      "body": "When a major life change breaks the old story, someone can feel they're 'making it up' as they consciously author a new account of who they are. That effort can feel inauthentic — but in narrative-identity terms, composing and revising your story is exactly how identity normally works, not a departure from it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The trait that feels like a discovery",
+      "body": "Because you experience your dispositions from the inside as simply 'how I am', the inherited, given part of the self tends to feel like a discovery, while the chosen part feels like work. Both processes are happening together — a layered self of relatively stable raw material underneath and an authored, revisable story on top — but they register very differently in the moment."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You do not so much find or create yourself as continually compose yourself out of materials you were handed.",
+      "source": "On the false binary"
+    },
+    {
+      "text": "Stability and change are not opposites here, which is exactly why the find-versus-create framing misleads.",
+      "source": "On personality across adulthood"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there one true self to discover?",

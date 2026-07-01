@@ -39,6 +39,36 @@
     { "value": "Higher wellbeing", "label": "Associated with intrinsic aims: relationships, growth, community", "source": "Kasser & Ryan, goal content research" },
     { "value": "Modest", "label": "Typical size of these correlations — real but not deterministic", "source": "Kasser, 'The High Price of Materialism'" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Ambition is optional, not mandatory — a chosen smaller life is legitimate, not a failed bigger one.",
+    "Strong status-and-achievement-driven goals are associated with lower wellbeing; intrinsic aims with higher.",
+    "These correlations are real but modest — direction and association, not deterministic rules or scores.",
+    "Defining a deliberate level of 'enough' is treated as wellbeing-protective, not a lack of drive.",
+    "The evidence singles out extrinsic, status-driven striving — not effort or aspiration itself."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Content in the same role for a decade",
+      "body": "Someone who has stayed in a job they like, near people they love, without chasing the next rung can feel they are 'wasting potential' next to peers who keep climbing. On the wellbeing data that is not a diagnosis of a wasted life: a life organised around relationships, everyday competence, and a sense of enough lines up with exactly the intrinsic sources the research associates with feeling good. The reframe here is permission, not a prescription to start striving."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The manufactured ambition",
+      "body": "Taking on a stretch goal mainly because it is expected — a bigger title, a higher number to quote — can feel like maturity. But if the drive is chiefly about status and image rather than mastery or meaning, that is the extrinsic orientation the research links to lower wellbeing, and the felt deficit tends to migrate to a new, higher target rather than resolve. Adopting a goal because it is yours reads very differently from adopting one because it is owed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Ambition is optional, not mandatory. If you are not especially ambitious, the research does not suggest you are doing life wrong.",
+      "source": "On permission rather than prescription"
+    },
+    {
+      "text": "Choosing a ceiling is treated less as a lack of drive and more as a wellbeing-protective decision.",
+      "source": "On defining 'enough'"
+    }
+  ],
   "faqs": [
     {
       "question": "Is being unambitious a sign that something is wrong with me?",

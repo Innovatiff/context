@@ -39,6 +39,39 @@
     { "value": "Late 40s+", "label": "Roughly when vocabulary and accumulated knowledge tend to peak", "source": "Hartshorne & Germine, 2015" },
     { "value": "Persists", "label": "Adult neuroplasticity and capacity to learn across the lifespan", "source": "Research on adult learning and neuroplasticity" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no single age at which the mind peaks — different abilities crest from the late teens to the fifties and beyond.",
+    "Adult neuroplasticity persists across life; learning some things takes longer, but the capacity does not switch off.",
+    "Midlife career change is common rather than exceptional, and many people report satisfaction afterward.",
+    "The real barrier to starting over is usually risk tolerance and circumstance, not a biological cutoff.",
+    "Honest encouragement names the rising costs — time, money, security — rather than waving them away."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Retraining at forty-five, building on what's already there",
+      "body": [
+        "Someone in their mid-forties changes fields and worries their brain is past its best. But the abilities that tend to be strongest in midlife — accumulated knowledge, vocabulary, judgment, experience-based reasoning — are exactly the ones a reinvention can lean on.",
+        "Building on existing expertise rather than starting from absolute zero tends to be more workable than a fully blank-slate leap, and allowing more time for the parts that are genuinely slower is a plan, not a defeat."
+      ]
+    },
+    {
+      "label": "Illustrative",
+      "title": "Testing the change before committing to it",
+      "body": "Rather than waiting for a moment that feels risk-free — which rarely arrives — the practical move the evidence points to is reducing the downside: building a financial buffer, trying the new direction part-time, or retraining while still earning. That addresses the actual binding constraint, which is risk and circumstance, not the capacity to learn."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Age itself is rarely the real obstacle, while practical constraints often are.",
+      "source": "On what actually blocks starting over"
+    },
+    {
+      "text": "The research points toward reducing and testing the risk, not eliminating the feeling of risk, which rarely goes away on its own.",
+      "source": "On managing the downside"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there an age where it becomes genuinely too late to start over?",

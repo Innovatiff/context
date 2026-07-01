@@ -40,6 +40,36 @@
     { "value": "Common & ordinary", "label": "How widespread everyday sources of meaning appear to be", "source": "King & Hicks, research on everyday meaning" },
     { "value": "Not required", "label": "Status of a single grand purpose for a good life, per the overall evidence", "source": "Composite of cited research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Purpose is a strong, consistent contributor to wellbeing, health, and even longevity — but it isn't strictly required for a good life.",
+    "Happiness has multiple routes: hedonic (pleasure) and eudaimonic (meaning, growth) ingredients both matter.",
+    "'Purpose' can be modest and plural — small commitments and ordinary things that matter, not one dramatic mission.",
+    "'I have no purpose' often really means 'no single grand purpose', which is very different from having no meaning.",
+    "Dismissing purpose as overrated isn't supported either; the accurate position is that it helps a lot without being mandatory."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A full life that feels 'purposeless'",
+      "body": "Someone with close relationships, work they're engaged in, and small projects they care about can still feel they have 'no purpose' — because the cultural script treats purpose as one big defining mission. That is usually a measurement error rather than a real absence: the everyday sources of meaning the research points to are already present; they just don't feel dramatic enough to register as 'purpose'."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Building purpose from the small stuff",
+      "body": "Rather than waiting to discover a grand calling, a person can build a sense of purpose from concrete commitments — things they're working toward, people and causes they contribute to, roles that matter to them. A modest, plural sense of purpose appears to carry real benefits, not only a singular life mission, and leaning on several routes to a good life is more robust than betting everything on one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Purpose is a powerful ingredient in flourishing, not a mandatory one — and it can be much smaller than the culture implies.",
+      "source": "On shrinking the word"
+    },
+    {
+      "text": "'I have no purpose' often really means 'I have no single, dramatic purpose', which is a very different and much more common situation.",
+      "source": "On the measurement error"
+    }
+  ],
   "faqs": [
     {
       "question": "Do you actually need a sense of purpose to be happy?",

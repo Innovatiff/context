@@ -36,6 +36,35 @@
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged", "source": "Gallup, 2023" },
     { "value": "Underestimated", "label": "How often people think others have setbacks", "source": "Jordan et al., 2011, PSPB" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "You compare your full inner experience to other people's edited outer surface, so they reliably look more composed.",
+    "People systematically underestimate how often others struggle — so you feel more alone in it than the data justifies.",
+    "Pluralistic ignorance: most privately feel like they're winging it while assuming everyone else is fine.",
+    "Even objectively high achievers privately doubt whether they belong; outward markers don't switch the question off.",
+    "Honest conversation and real data narrow the gap more reliably than out-performing it or positive self-talk."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Your director's cut versus their trailer",
+      "body": "You experience your own life with every outtake — the anxiety, the unresolved worry, the moments of faking it. You experience other people only in their composed, public moments. Matching your full director's cut against their trailer, you look like the mess and they look sorted. It isn't a measurement; it's an artefact of how little access you have to anyone else's interior."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The room where everyone thinks they're the exception",
+      "body": "A room full of people each privately feel uncertain and assume everyone else is fine. Each one scans for signs of struggle, sees only composed surfaces, and quietly files themselves as the odd one out. The shared private doubt produces no public signal, so the very thing nearly everyone has in common stays invisible to all of them — pluralistic ignorance in a single room."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are matching your director's cut, with all the outtakes, against their trailer.",
+      "source": "On the inside-vs-outside asymmetry"
+    },
+    {
+      "text": "The people who look most put together to you are often asking the same thing about themselves."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true that most people feel like they're just winging it?",

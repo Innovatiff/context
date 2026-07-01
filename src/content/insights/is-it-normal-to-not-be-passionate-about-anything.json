@@ -34,6 +34,35 @@
     "There is no clean statistic for 'what share of people have a burning passion', and any precise figure should be treated with suspicion. What the research offers is more about mechanism than counts: O'Keefe, Dweck and Walton's work indicates that how you think about interests — as found versus developed — shapes whether you stick with new ones, which means the felt absence of passion is partly a product of expectation, not just temperament.",
     "The practical takeaway is that lacking a grand passion is common and compatible with a full life, and that passion is usually grown rather than found. The one number-free signal worth watching is the difference between 'no single passion' (very common, fine) and a persistent, across-the-board loss of interest or enjoyment (anhedonia), which can accompany depression and is worth raising with a qualified professional rather than measuring against any benchmark."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Many people never have one defining passion and still live full, meaningful lives.",
+    "Passions are usually developed through sustained investment, not found fully formed — so 'find your passion' can be unhelpful advice.",
+    "A 'find it' mindset makes people quit new interests when they get hard, reading difficulty as proof it 'isn't their passion'.",
+    "A spread of moderate interests, plus relationships and everyday enjoyment, is a well-supported basis for a good life.",
+    "A persistent inability to enjoy anything at all (anhedonia) is a separate matter and can be worth raising with a clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Bouncing off hobby after hobby",
+      "body": "You try a language, then guitar, then running — each feels awkward at first, so you conclude it 'isn't your thing' and move on, and after a dozen of these you decide you have no passions. This is the 'find it' trap the O'Keefe, Dweck and Walton research describes: the normal friction of learning anything new gets misread as proof it wasn't your true passion, so you leave before interest has had a chance to develop."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A good life without a calling",
+      "body": "No consuming passion, no grand mission — just work that is fine, a few people you love, and a handful of things you moderately enjoy. Against the 'everyone has a calling' story this can feel like a deficiency, but it is a perfectly ordinary and well-supported basis for a contented life. Reframing the goal from 'my one true passion' to 'things I find worthwhile' removes pressure that the evidence never justified."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Passions are not lying around fully formed waiting to be discovered — they are more often grown through sustained investment.",
+      "source": "On develop-it vs find-it"
+    },
+    {
+      "text": "Waiting to feel passionate before you commit gets the order backwards; commitment and growing skill are often what produce the passion."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to not be passionate about anything?",

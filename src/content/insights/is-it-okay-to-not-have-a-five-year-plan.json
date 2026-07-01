@@ -39,6 +39,36 @@
     { "value": "All ages", "label": "Age groups in which people underestimated their future change", "source": "Quoidbach, Gilbert & Wilson, 2013" },
     { "value": "Direction > script", "label": "What flexible-goal and happenstance research tends to favour", "source": "Krumboltz; goal-flexibility research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A five-year plan assumes you can predict both the world and the person you'll be — the second is shakier than it feels.",
+    "The End of History Illusion (≈19,000 participants, all ages) found people underestimate how much they'll keep changing.",
+    "Krumboltz's planned happenstance treats openness to chance as a skill, not indecision to be cured.",
+    "Flexible goal pursuit — adjusting or disengaging when a goal stops fitting — tends to track with better wellbeing than rigid persistence.",
+    "The evidence-consistent stance is a rough direction held loosely, with short revisable plans for the near term."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The interview question with no real answer",
+      "body": "Asked 'where do you see yourself in five years?', someone can freeze because they genuinely don't know — and read that as a personal gap. Being asked the question often doesn't mean a detailed answer predicts anything; it mostly signals you can speak fluently about the future. A clear direction plus a willingness to revise is a defensible answer, not an evasion."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Honouring a past self's plan",
+      "body": "Locking in a five-year arc at 25 and executing it rigidly at 29 can mean serving the wishes of a person whose values and preferences have quietly shifted — exactly the case the End of History Illusion warns about. Treating the plan as a living document you expect to update fits the evidence on flexibility better than honouring it at all costs."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A five-year plan written by today's self is, in effect, written for a person who will not quite exist when it comes due.",
+      "source": "On the End of History Illusion"
+    },
+    {
+      "text": "People who benefit from chance are not luckier so much as more prepared to move when chance arrives.",
+      "source": "On planned happenstance"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it a red flag to not have a five-year plan?",

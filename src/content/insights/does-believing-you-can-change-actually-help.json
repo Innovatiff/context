@@ -34,6 +34,35 @@
     "Be cautious with precise numbers here, because this is one of the areas where the popular figures outrun the evidence. The self-efficacy literature is large and fairly consistent in direction, but it is not summarised by a single headline statistic. For growth mindset specifically, recent large meta-analyses and registered studies have generally found small average effects, with some null or near-null results — which is why 'mixed and contested' is the accurate description rather than any clean percentage.",
     "The more honest takeaway than any number is the shape of the finding: belief reliably helps a little, mainly by keeping effort going, and its size depends heavily on context and on what else is in place. Where you see large, guaranteed claims about belief or mindset, the evidence does not back the size of the promise."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Believing you can change helps modestly — mostly by sustaining the effort that actually produces change.",
+    "Self-efficacy (Bandura) reliably tracks with more effort, persistence, and recovery after setbacks.",
+    "Growth mindset's effects are genuinely mixed: recent large studies find small, inconsistent averages.",
+    "Earned belief from mastery — small, achievable steps — holds up better than affirmations or pep talks.",
+    "Pairing 'I can' with a concrete plan for when and how you'll act beats either one alone."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The affirmation that quietly backfires",
+      "body": "Repeating \"I can change\" each morning without a plan or any evidence behind it tends to produce weak, short-lived effects, and can rebound for someone who doesn't really believe it. The research frames belief as a driver of action, not a replacement for it — self-talk alone is the part with the least support."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Belief earned one small step at a time",
+      "body": "Someone who strings together a few small, achievable wins builds a track record their belief can rest on — which, in the self-efficacy research, is a far stronger source of confidence than being told to believe in themselves. Adding a specific plan for when and where they'll act converts that belief into behaviour, and the combination survives setbacks better because it never depended on belief being magic."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Belief helps; it is not a substitute for the conditions, skills, and effort that actually drive change.",
+      "source": "On keeping expectations calibrated"
+    },
+    {
+      "text": "The truth sits in the unglamorous middle: self-belief is a useful enabler of sustained effort, not the cause of change itself."
+    }
+  ],
   "faqs": [
     {
       "question": "Does believing you can change actually cause change?",

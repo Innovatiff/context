@@ -39,6 +39,36 @@
     { "value": "Returns to baseline", "label": "What hedonic adaptation does to most wellbeing gains over time", "source": "Hedonic adaptation research" },
     { "value": "Actual vs. ideal gap", "label": "Self-discrepancy linked to dejection and low mood", "source": "Higgins, 1987" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A few specific practices help, but the broader industry oversells and rests on weak or non-replicating research.",
+    "Hedonic adaptation pulls most wellbeing gains back toward baseline, so upgrades stop feeling like upgrades.",
+    "Self-discrepancy theory (Higgins, 1987) links the actual-versus-ideal gap to dejection — constant upgrading can manufacture it.",
+    "The best-supported predictors of wellbeing are unglamorous: relationships, sleep, movement, relief from financial strain, therapy for real distress.",
+    "'Enough' is a legitimate stance — deliberately accepting a good-enough self protects contentment in a way endless striving does not."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The upgrade that became ordinary",
+      "body": "A new routine, app, or programme produces a real burst of motivation and hope at the start. That initial lift is easy to mistake for lasting change — but adaptation tends to pull wellbeing back toward baseline once the novelty fades, and the next book or method implies the last effort was insufficient. The format is structurally incapable of telling you that you are fine as you are."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The success story you hear from",
+      "body": "You hear from the people for whom a method appeared to work, almost never from the larger number for whom it did nothing — so the apparent hit rate looks far higher than the average effect. This survivorship distortion inflates the marketed claim, while the quieter, better-supported moves (sleep, movement, relationships, therapy where distress is real) rarely make for a viral story."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The gap between what reliably helps and what the industry sells is the real story here.",
+      "source": "On the evidence base"
+    },
+    {
+      "text": "If the goalposts always move and the ideal is never reached, the pursuit can become a treadmill rather than a path to a better life.",
+      "source": "On perpetual self-optimisation"
+    }
+  ],
   "faqs": [
     {
       "question": "Does self-improvement actually make people happier?",

@@ -39,6 +39,35 @@
     { "value": "Intrinsic", "label": "Type of motivation the benefit consistently depends on", "source": "Self-determination / flow research" },
     { "value": "Mastery", "label": "Form of off-work activity that best predicts recovery", "source": "Sonnentag, recovery research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "No one strictly needs a hobby, but freely chosen, absorbing leisure is a well-supported, low-cost input to wellbeing.",
+    "The benefit comes from the ingredients — engagement, recovery, mastery, identity, connection — not the label.",
+    "Flow (Csikszentmihalyi) and recovery research (Sonnentag) explain much of why absorbing leisure helps.",
+    "Effects are moderate and mostly correlational — a well-supported tendency, not a certainty for any one person.",
+    "Monetising a hobby can shift motivation from intrinsic to extrinsic and erode the very thing that made it restorative."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The hour of scrolling that leaves you unrestored",
+      "body": "Spending a whole evening 'relaxing' through passive, half-watched consumption can feel like rest and still leave you flat. Scrolling produces little of the flow or mastery the wellbeing benefits seem to rest on — which is why the same hours spent on something absorbing and freely chosen tend to do more for recovery than the same hours spent unwinding passively."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The passion that stopped feeling good once it paid",
+      "body": "Someone whose favourite activity becomes a side hustle — an audience, a metric, an income — often reports it stopped feeling good around the time they started taking it seriously in that sense. Adding external goals can crowd out the intrinsic motivation the benefit depends on, so the 'monetise your passion' advice quietly removes the passion."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The value lies in the ingredients rather than the label — challenging, freely chosen, done for its own sake, and ideally shared.",
+      "source": "On what actually carries the benefit"
+    },
+    {
+      "text": "'Do you need a hobby?' is better asked as 'do you have enough freely chosen, absorbing time?'"
+    }
+  ],
   "faqs": [
     {
       "question": "Is something wrong with me if I don't have a hobby?",

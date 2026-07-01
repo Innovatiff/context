@@ -40,6 +40,36 @@
     { "value": "Openness ↓", "label": "Openness-to-change values tend to ebb with age", "source": "Schwartz-values age research" },
     { "value": "Underestimated", "label": "How much people expect their future values to change", "source": "Quoidbach, Gilbert & Wilson (End of History Illusion)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Changing values is closer to the rule than the exception — ordinary development, not inconsistency or self-betrayal.",
+    "The pattern is slow drift, not sudden conversion: priorities carry different weight over decades without one dramatic moment.",
+    "Across adulthood, openness-to-change values tend to ebb while security, conservation, and benevolence tend to rise — as population averages.",
+    "Life events and role changes — parenthood, loss, illness, career change — reshape priorities, not just the passage of time.",
+    "The End of History Illusion means people of every age underestimate how much their future values will keep moving."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The priorities that quietly shifted",
+      "body": "What someone weighted heavily at twenty-five — novelty, independence, stimulation — carries different weight at forty-five, often with no single decisive event to point to. Because the drift is gradual and mostly invisible while it happens, they tend to notice it only in retrospect, which can make a slow, normal change feel like an abrupt break."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Holding to a value you've outgrown",
+      "body": "Someone keeps to a priority out of loyalty to their past self — because changing it would feel like admitting the old them was wrong. But the developmental picture reads a values shift as evidence you have lived through things and integrated them, not as proof the earlier you was a fraud. Anchoring to a self that no longer exists is the less natural state, not the more virtuous one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A values shift is usually evidence that you have lived through things and integrated them, not evidence that the earlier you was a fraud.",
+      "source": "On consistency and self-betrayal"
+    },
+    {
+      "text": "Whatever you currently believe about how settled your values are, the base rate says they will keep moving more than you think.",
+      "source": "On the End of History Illusion"
+    }
+  ],
   "faqs": [
     {
       "question": "Does changing my values mean I was being fake before?",

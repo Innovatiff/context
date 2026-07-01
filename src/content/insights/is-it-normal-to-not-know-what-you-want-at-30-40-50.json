@@ -36,6 +36,35 @@
     { "value": "~late 40s", "label": "Typical low point of the life-satisfaction U-shape (contested)", "source": "Blanchflower & Oswald" },
     { "value": "Built, not found", "label": "How people most often arrive at meaning", "source": "King & Hicks; Steger" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Not knowing what you want is common at every adult age — identity exploration continues well past the 20s.",
+    "Reappraisal continues through midlife; the idea it should be settled by 30 is a cultural script, not a developmental fact.",
+    "Meaning is more often built through engagement and ordinary life than found by introspecting until an answer arrives.",
+    "Average life satisfaction tends to follow a gentle U-shape, dipping around the late 40s before recovering — though this pattern is contested.",
+    "Waiting for certainty before acting tends to prolong the not-knowing, because engagement is what usually clarifies direction."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Comparing your uncertainty to their commitment",
+      "body": "Everyone around you looks committed to a job, a place, a path — so you assume they know what they want and you're the one who's lost. But commitment and certainty are not the same thing, and many of those same people are quietly reappraising too. You are comparing your visible uncertainty to their visible commitment, which are not the same measurement."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Waiting for clarity that was supposed to come from doing",
+      "body": "You put off acting until you feel sure what you want, and years pass without the certainty arriving. King and Hicks's work suggests meaning more often shows up in the doing than in the thinking — so trying something concrete and noticing how it feels is usually more informative than another round of reflection. The clarity was meant to come from the acting."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The script, not your experience, is the thing that is out of date.",
+      "source": "On the 'settled by 30' expectation"
+    },
+    {
+      "text": "Waiting to feel certain before acting can leave you stuck precisely because the certainty was supposed to come from the acting."
+    }
+  ],
   "faqs": [
     {
       "question": "Shouldn't I know what I want by 30?",

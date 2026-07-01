@@ -39,6 +39,36 @@
     { "value": "Mostly mechanism", "label": "Share of the effect attributed to connection, support and meaning rather than belief alone", "source": "Diener and colleagues, religion and wellbeing research" },
     { "value": "Context-dependent", "label": "Link is stronger in more religious or more difficult societies", "source": "Cross-national wellbeing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Actively religious adults report modestly higher wellbeing on average — a real but generally small gap, clearer for participation than nominal affiliation.",
+    "Much of the advantage appears to flow from community, social support and meaning rather than from belief alone.",
+    "The effect is context-dependent: larger in more religious or harder settings, smaller or absent in highly secular, comfortable ones.",
+    "Non-religious people reliably find the same ingredients elsewhere — and in some secular societies report wellbeing as high or higher.",
+    "The honest read is 'these ingredients help, and religion is one common way of delivering them', not a verdict on belief itself."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The congregation that showed up",
+      "body": "When someone in a tight congregation faces a crisis, the community rallies — meals, visits, practical help — and it is easy to attribute the comfort to belief. But the measurable benefit clusters around the connection and support itself, the same goods many people find through friends, family or secular community. The mechanism gets credited to the label rather than to the thing the label happened to deliver."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same tradition, two very different doses",
+      "body": "One person identifies with a faith but never takes part; another attends regularly, contributes, and builds relationships through it. The wellbeing differences in the data are clearer for the active participant, because the relational and habitual ingredients are the ones doing the work — nominal affiliation without engagement does little."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "These ingredients help, and religion is one common way of delivering them — not a verdict on belief itself.",
+      "source": "On reading the evidence"
+    },
+    {
+      "text": "The measurable benefits cluster around community, support and meaning, which are human needs rather than the property of any one worldview.",
+      "source": "On what actually drives the effect"
+    }
+  ],
   "faqs": [
     {
       "question": "Does being religious make you happier?",

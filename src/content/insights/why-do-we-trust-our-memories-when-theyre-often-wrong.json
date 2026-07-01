@@ -39,6 +39,34 @@
     { "value": "Misinformation", "label": "Post-event suggestion reshapes what people recall (the misinformation effect)", "source": "Loftus and colleagues" },
     { "value": "Weak link", "label": "Relationship between a memory's confidence/vividness and its accuracy", "source": "Research on confidence-accuracy mismatch" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Memory is reconstructive — rebuilt from fragments each time, not played back like a recording.",
+    "Vividness and confidence are weak guides to accuracy; you can be completely sure and still be wrong.",
+    "Post-event suggestion and leading questions can reshape recall (the misinformation effect).",
+    "The calibrated response is to hold even vivid memories loosely and lean on external records where it matters."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The car that 'smashed' versus 'hit'",
+      "body": "In Loftus's studies, simply asking how fast cars were going when they 'smashed' into each other — rather than 'hit' — led people to report higher speeds, and later to recall broken glass that was never there. The wording of a single question quietly edited the memory. That is reconstruction in miniature: the detail was generated from suggestion, not retrieved intact, yet it felt like something the person had seen."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two people, one dinner, two honest versions",
+      "body": "A couple disagree about what was said at a dinner months ago, each completely certain. Neither is lying. Each reconstructed the evening through their own attention, expectations, and everything they heard afterward, so the two confident versions genuinely diverge. Assuming the other must be lying misreads how normal honest divergence is — and reaching for a message sent that night is a better witness than either recollection."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can be completely confident and still be wrong, and there is usually no internal signal to tell the two apart.",
+      "source": "On the confidence-accuracy mismatch"
+    },
+    {
+      "text": "We trust memories because they feel true — and that feeling is largely independent of whether they are."
+    }
+  ],
   "faqs": [
     {
       "question": "Is memory really that unreliable?",

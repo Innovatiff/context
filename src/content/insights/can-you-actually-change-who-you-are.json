@@ -39,6 +39,34 @@
     { "value": "Maturity principle", "label": "Average rise in conscientiousness, stability, agreeableness across adulthood", "source": "Roberts and colleagues" },
     { "value": "Weeks–months", "label": "Timescale over which intentional trait change was measurable", "source": "Hudson & Fraley" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Personality is partly stable and heritable — the kernel of truth in 'people don't change' — but traits genuinely shift over a lifetime.",
+    "The maturity principle: across adulthood people on average become somewhat more conscientious, emotionally stable, and agreeable.",
+    "Deliberate change is behaviour-led: in Hudson and Fraley's studies, shifts tracked doing the new behaviour, not just wanting it.",
+    "Change is real but gradual — a slow-moving average to bend over time, not a switch to flip — and easier in some traits than others."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "One off day that feels like proof",
+      "body": "Someone trying to act more calmly slips up once and concludes the old self is the 'real' one. But the research treats lapses as a normal part of a slow trend rather than a verdict. Because real change is gradual and behaviour-led, the all-or-nothing 'new me' framing is exactly what sets the first lapse up to feel like failure."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Wanting to change vs doing it differently",
+      "body": "Wishing to be more organised does relatively little on its own. What moved traits in the studies was a concrete if-then plan — 'when X happens, I will do Y' — performed repeatedly. Insight without repeated action is a weak lever; the change tracks the behaviour, not the desire."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Who you are is neither fixed nor a switch you can flip. It is closer to a slow-moving average that consistent action can bend over time.",
+      "source": "On the pace of change"
+    },
+    {
+      "text": "Wanting to be different did far less work than doing things differently, repeatedly."
+    }
+  ],
   "faqs": [
     {
       "question": "Can people really change, or is that a myth?",

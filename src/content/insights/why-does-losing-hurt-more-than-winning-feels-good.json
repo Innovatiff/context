@@ -39,6 +39,35 @@
     { "value": "Steeper for losses", "label": "Shape of the value function for losses vs. gains", "source": "Kahneman & Tversky, Econometrica 1979" },
     { "value": "Endowment effect", "label": "People demand more to give up an item than they'd pay to get it", "source": "Kahneman, Knetsch & Thaler (1990)" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "In prospect theory, losses tend to feel about twice as intense as equivalent gains — a rule of thumb, not a fixed constant.",
+    "The asymmetry is part of a broader negativity bias: bad tends to outweigh good in attention, memory, and felt impact.",
+    "Once something is yours, giving it up registers as a loss (the endowment effect), so people cling past usefulness.",
+    "Chasing more wins to offset a loss disappoints, because wins fade to baseline while the loss lingers.",
+    "Awareness and reframing — weighing the actual stakes, not the felt sting — lead to steadier decisions."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The surprise $100 versus losing $100",
+      "body": "Finding an unexpected $100 gives a lift that fades by the next day. Losing $100 you already had stings, and the sting lingers. The amounts match exactly, but ownership has moved the baseline: the loss is measured from where you now stand, so it registers as a real loss rather than a return to neutral. That gap is loss aversion in everyday form."
+    },
+    {
+      "label": "The trap",
+      "title": "Holding on past the point it helps",
+      "body": "Because parting with something you own registers as a loss, the endowment effect can keep you in a role, a possession, or a commitment long after it stops serving you — simply to avoid the pain of letting go. Checking 'how much will this loss actually matter in a year?' against the vivid present sting is what tends to loosen the grip."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The sting of losing is doing exactly what it evolved to do; the problem is that in modern life it often makes losses feel disproportionate to their actual stakes.",
+      "source": "On why the asymmetry misfires"
+    },
+    {
+      "text": "Because the scales are tilted, you can't reliably win your way back to feeling even."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true that losses hurt twice as much as wins feel good?",

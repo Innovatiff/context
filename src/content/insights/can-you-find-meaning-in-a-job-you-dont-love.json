@@ -40,6 +40,34 @@
     { "value": "Job / career / calling", "label": "Orientations people hold even within the same occupation", "source": "Wrzesniewski, work orientations research" },
     { "value": "Built", "label": "Meaning at work is often constructed, not just matched", "source": "Job-crafting research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Job-crafting research suggests meaning at work is often built rather than simply matched to the perfect role.",
+    "Three levers: task crafting (what you do), relational crafting (who you interact with), and cognitive crafting (how you frame the work).",
+    "People in identical work split across job, career, and calling orientations — evidence a calling is partly constructed, not only stumbled into.",
+    "Crafting has real limits: where pay, autonomy, safety, or respect are genuinely lacking, the job — not your framing — is the problem."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The hospital cleaner who joined the care",
+      "body": "In the often-cited study, some cleaners described their work narrowly as cleaning tasks. Others framed it as part of patient healing — talking to patients and families, timing their work around the unit's needs, seeing themselves as part of the team — and reported far more meaningful, skilled work. The role was the same on paper; the experienced meaning was not."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When crafting hits its ceiling",
+      "body": "Someone in a role with exploitative pay, no autonomy, or a toxic environment can try to reframe toward contribution, but the research recognises a ceiling here. Relabelling chronic disrespect as 'meaningful' is more likely to mask a situation you should change than fix it — the honest reading is that the job, not your attitude, is the limiting factor."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A job you don't love is not the same as a job you can't find meaning in.",
+      "source": "On built versus matched meaning"
+    },
+    {
+      "text": "Asking 'who is better off because I do this well?' is closer to the mechanism the research describes than 'do I love this?'."
+    }
+  ],
   "faqs": [
     {
       "question": "Can I really find meaning in a job I don't enjoy?",

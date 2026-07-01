@@ -34,6 +34,35 @@
     "There is no single headline figure here; the illusion of control is a robust, repeatedly demonstrated pattern rather than one statistic. Langer's lottery-ticket studies are the best-known illustration: people consistently demanded more to give up a ticket they had chosen than one they were handed, despite the draw being identical chance either way. The effect is small to moderate but reliable, and stronger when skill-like cues are present.",
     "The honest framing is that this is a near-universal bias with a built-in upside. A sense of control is linked to lower anxiety and better coping, which is part of why the illusion is so persistent — it is doing a job. The cost is misplaced credit and, more painfully, misplaced blame. Knowing the bias exists lets you keep the motivational benefit while easing the self-judgment that does not belong to you."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People routinely overestimate their influence over outcomes that are partly or wholly down to chance — the illusion of control.",
+    "It strengthens when a situation carries skill-like cues: choice, familiarity, competition, or practice.",
+    "The bias is partly protective — a sense of agency is linked to lower anxiety and better coping, which is why it persists.",
+    "Its main cost is misplaced blame: turning bad luck into a story about personal failure.",
+    "The fix is calibration — judge yourself on inputs you controlled, not outcomes you didn't."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The lottery ticket you picked yourself",
+      "body": "People consistently demand more to give up a lottery ticket they chose than one they were handed, even though the draw is identical chance either way (Langer). The act of choosing adds a skill-like cue, and the mind infers influence that isn't there. It's the same instinct behind throwing dice harder when aiming for a high number — treating a random event as if effort could sway it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A sound plan, an unlucky result",
+      "body": "Someone prepares well, makes reasonable choices, and still the outcome goes badly — a market turn, another person's decision, plain chance. The illusion of control tempts them to read it as a personal failure. But good decisions can have bad outcomes, and judging yourself on the inputs you controlled rather than the result you didn't is both more accurate and less punishing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Recognising where your actual influence ends is less about giving up and more about putting your self-blame where it belongs.",
+      "source": "On the illusion of control"
+    },
+    {
+      "text": "Good decisions can have bad outcomes, and the reverse, far more often than it feels."
+    }
+  ],
   "realNumbers": [
     { "value": "Higher value", "label": "Worth people place on lottery tickets they chose vs. ones assigned to them", "source": "Langer, illusion of control studies" },
     { "value": "Skill cues", "label": "What inflates the sense of control in games of pure chance", "source": "Langer and related research" },

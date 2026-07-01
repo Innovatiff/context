@@ -34,6 +34,36 @@
     "Be cautious with precise figures here; estimates vary widely by how the experience is defined and measured. The broad, repeatable findings are qualitative: mind-wandering studies suggest people spend a large share of waking life with attention away from the present, and surveys suggest that brief experiences of depersonalisation or derealisation are common, with a substantial share of people reporting at least a fleeting episode at some point. Persistent, impairing forms are much less common.",
     "The grounding takeaway is the spectrum rather than any single number: occasional, transient disconnection is widely reported and generally normal, while chronic, distressing detachment is a recognised clinical experience that warrants professional care. Where you fall on that spectrum is something only a qualified clinician, not a statistic or a web page, can properly assess."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Mild, occasional detachment — going through the motions, feeling muted or on autopilot — is common and generally within the normal range.",
+    "The key distinction is a spectrum: transient disconnection is ordinary; persistent, intense, or distressing detachment is a recognised clinical experience.",
+    "Brief depersonalisation and derealisation are surprisingly common as passing states, especially under stress, fatigue, or anxiety.",
+    "Addressing the drivers — rest, less chronic overload, novelty and chosen activity — often matters more than fighting the feeling directly.",
+    "If detachment is persistent, frightening, or impairing — or comes with low mood or thoughts of self-harm — it is worth raising with a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The autopilot stretch during a hard season",
+      "body": "During a run of overload — burnout-adjacent work, grief, a big transition — someone notices they are moving through their days with attention elsewhere, feeling muted and going through the motions. These are exactly the periods when the mind spends most on autopilot, and because they are also when people are most depleted, the detachment can feel like something is deeply broken rather than a familiar response to strain. In mild, transient forms this is generally considered within the normal range."
+    },
+    {
+      "label": "When to seek help",
+      "title": "When it crosses from ordinary to worth assessing",
+      "body": "The threshold is not about how strange the feeling is but about persistence, intensity, and impairment. If the detachment is chronic, frightening, or interfering with work, relationships, or daily functioning — or if it comes with low mood, anxiety, or thoughts of self-harm — that is the appropriate point to speak with a qualified clinician, not an overreaction. This page is educational only and cannot diagnose anything."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The data supports a spectrum: from common, brief, harmless detachment to a persistent form that needs clinical attention — with most people's experience sitting near the common end.",
+      "source": "On the range of the experience"
+    },
+    {
+      "text": "Where you fall on that spectrum is something only a qualified clinician, not a statistic or a web page, can properly assess.",
+      "source": "On seeking assessment"
+    }
+  ],
   "faqs": [
     {
       "question": "Is feeling detached from my life normal?",

@@ -34,6 +34,35 @@
     "This is an area where mechanisms matter more than precise numbers, and any single statistic about meaning should be treated cautiously. The core finding from Baumeister and colleagues (2013) is directional: happiness and meaningfulness overlap but diverge, and the meaningful life was associated with more stress and struggle rather than less — effort and difficulty track meaning in a way pure pleasure does not.",
     "Post-traumatic growth research adds an important caveat in the same spirit: some people report meaning and growth after serious adversity, but this is one outcome among several, sits alongside real and lasting harm, and is not a prescription. The defensible summary is that voluntary, worthwhile difficulty tends to deepen meaning, comfort alone rarely does, and none of this implies that suffering is required or good."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Happiness and meaning overlap but diverge — Baumeister's work linked a meaningful life to more stress and struggle, not less.",
+    "Meaning tracks with effort, contribution, and growth (eudaimonic wellbeing) more than with pleasure and comfort.",
+    "The link is to voluntary, worthwhile difficulty — not to imposed hardship or suffering for its own sake.",
+    "Post-traumatic growth is one possible outcome of adversity, not a guaranteed or required one, and not a reason to seek it.",
+    "Connecting present effort to something beyond the moment is part of what turns strain into meaning."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The frictionless life that still feels empty",
+      "body": "Someone who has optimised for ease — fewer hassles, more relaxation, smoother days — can be genuinely more comfortable and still feel like something is missing. In the research, comfort raises momentary happiness but does little for the sense that life is meaningful, because the ingredients of meaning usually involve some worthwhile difficulty that ease removes."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Hard work that becomes meaningful in hindsight",
+      "body": "In the middle of a demanding, self-chosen project, the effort mostly just feels unpleasant — evaluated moment to moment, difficulty registers as a cost. The meaning often becomes visible only later, once the work is connected to an outcome, to people it served, or to who you became. Framing the effort as part of a larger purpose while you're in it is part of what turns strain into meaning rather than just hardship."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A meaningful life was linked with more stress and struggle, not less.",
+      "source": "On the Baumeister findings"
+    },
+    {
+      "text": "Worthwhile difficulty tends to deepen meaning — which is different from romanticizing pain."
+    }
+  ],
   "faqs": [
     {
       "question": "Does doing hard things really make life more meaningful?",

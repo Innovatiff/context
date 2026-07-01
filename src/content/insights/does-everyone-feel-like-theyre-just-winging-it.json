@@ -39,6 +39,35 @@
     { "value": "High achievers", "label": "The group most likely to report impostor-style 'winging it' feelings", "source": "Clance & Imes, 1978" },
     { "value": "Ongoing", "label": "How adult identity and direction develop, rather than as a one-time achievement", "source": "Arnett, adult development research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling like you're improvising while everyone else has a plan is close to the universal default.",
+    "Pluralistic ignorance: almost everyone hides the same uncertainty, so each person assumes they're the exception.",
+    "Impostor feelings are reported most by high achievers — the feeling tracks inner experience, not real competence.",
+    "Adult direction is an ongoing process across decades, not a milestone you cross once and settle.",
+    "The distress eases most when you learn the feeling is shared, not when you finally feel certain."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Everyone hiding the same feeling",
+      "body": "A room full of people each quietly assumes the others have it figured out, while privately improvising. Because everyone conceals the same uncertainty, the only signal anyone receives is uniform confidence — so each person reasonably but wrongly concludes they're the odd one out. That's pluralistic ignorance: the concealment itself is what makes each person feel uniquely behind."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The accomplished colleague who feels like a fraud",
+      "body": "Someone demonstrably competent — visibly good at the job, trusted by others — still feels they're winging it and may be found out. That the impostor feeling shows up most in high achievers is the tell: it's an internal weather pattern, not a verdict on ability or evidence that a plan is missing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The very act of everyone concealing the same feeling is what makes each person believe they are alone in it.",
+      "source": "On pluralistic ignorance"
+    },
+    {
+      "text": "Feeling like you are winging it is, by the best available picture, close to the normal condition of being an adult."
+    }
+  ],
   "faqs": [
     {
       "question": "Does everyone really feel like they're winging it, or just some people?",

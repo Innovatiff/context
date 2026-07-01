@@ -34,6 +34,35 @@
     "There is no clean statistic showing that bucket lists make people happier, and it would be dishonest to invent one — the evidence here is indirect, drawn from research on anticipation, on experiences versus possessions, and on reflecting about priorities and mortality. The effects in that underlying research are real but generally modest, not transformative.",
     "What the data does support is the shape of a useful list rather than its length: a small number of looked-forward-to, experience-weighted, personally meaningful items tends to align with the findings, while a long inventory chased for completion does not. The honest takeaway is that a bucket list is a lightweight tool that can help at the margins if it clarifies values and builds anticipation, and can quietly hurt if it becomes another source of should."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The bucket-list format is neutral; the function is what matters — reflection tool or scoreboard of shoulds.",
+    "Anticipation is a documented source of happiness, especially for looked-forward-to experiences.",
+    "Experiences tend to deliver more durable satisfaction than possessions, though the effects are modest.",
+    "Novelty adapts: chasing ever bigger items hits the same hedonic treadmill as material consumption.",
+    "A short, experience-weighted list held loosely aligns with the evidence better than a long one chased for completion."
+  ],
+  "examples": [
+    {
+      "label": "Helps",
+      "title": "A few things you genuinely look forward to",
+      "body": "A short list weighted toward experiences you actually care about keeps a handful of looked-forward-to moments in view, so the anticipation itself extends the enjoyment forward in time rather than only after the fact. Used this way — to clarify what you value and hold a few meaningful items loosely — it lines up with the mechanisms the research supports."
+    },
+    {
+      "label": "Hurts",
+      "title": "The list as a scoreboard",
+      "body": "The same list turns into a checklist of obligations: unfinished items read as personal failings, and the experiences get rushed in service of ticking them off — which undercuts the savoring that made experiences satisfying in the first place. Padding it with impressive-sounding items copied from others adds status goals subject to the same comparison and adaptation traps as buying things to keep up."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The format is neutral; the function is what matters.",
+      "source": "On how a bucket list is used"
+    },
+    {
+      "text": "The list that was meant to enrich life can, when held too tightly, turn it into logistics."
+    }
+  ],
   "faqs": [
     {
       "question": "Do bucket lists actually make people happier?",

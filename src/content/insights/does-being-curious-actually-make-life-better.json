@@ -34,6 +34,35 @@
     "This is a topic better captured by patterns than by precise figures, and it is worth being explicit that the bulk of the evidence is correlational — curiosity and wellbeing tend to co-occur, which does not prove one causes the other. The anchoring research is Todd Kashdan's body of work linking curiosity with life satisfaction, meaning, positive emotion, and relationship closeness, plus the broader Big Five literature placing curiosity within the trait Openness.",
     "What the studies reasonably support is a consistent direction: people higher in curiosity tend to report richer engagement, learn more deeply, and connect more easily, and novelty-as-interesting appears to be cultivable. Read these as well-supported tendencies of moderate strength, not as large or guaranteed effects."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Curiosity is consistently associated with greater life satisfaction, meaning, learning, and warmer relationships.",
+    "Most of the evidence is correlational and the effects are moderate — a contributor to wellbeing, not a proven cure.",
+    "Curiosity appears cultivable: reframing novelty as interesting rather than threatening is a learnable stance.",
+    "It helps relationships mainly through a simple mechanism — asking genuine questions and actually listening.",
+    "Passive novelty-seeking like doomscrolling is not the engaged, effortful curiosity the research links to wellbeing."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "\"I'm just not a curious person\"",
+      "body": "Someone who assumes curiosity is a trait they lack tends to wait for spontaneous interest that never quite arrives. The research treats it more as a stance than a fixed feature: walking into an unfamiliar situation asking \"what's interesting here?\" rather than \"what could go wrong?\" is the same learnable move, and it tends to expand engagement over time regardless of where you started."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The question that deepens a conversation",
+      "body": "At a dinner where it would be easy to perform — waiting for your turn to talk — treating the other person as genuinely interesting and following your questions where they lead is the low-cost building block the research links to closeness. Curiosity here is not a personality; it is the choice to attend and actually listen to the answers."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Curiosity is a well-supported, low-cost, cultivable contributor to wellbeing — not a guaranteed fix.",
+      "source": "On what the evidence actually supports"
+    },
+    {
+      "text": "Whether you experience newness as interesting or as threatening is itself somewhat malleable — which is the main lever for becoming more curious."
+    }
+  ],
   "faqs": [
     {
       "question": "Is curiosity actually linked to happiness?",

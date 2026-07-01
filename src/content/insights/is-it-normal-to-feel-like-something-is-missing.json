@@ -39,6 +39,35 @@
     { "value": "Arrival fallacy", "label": "Why reaching a goal often underwhelms", "source": "Hedonic adaptation research" },
     { "value": "Connection", "label": "One of the strongest correlates of a sense of meaning", "source": "Wellbeing and meaning literature" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The vague sense that something is missing is common and, on its own, not a sign that anything is wrong.",
+    "Psychology separates having meaning from searching for it — the restless searching is widespread and normal.",
+    "The feeling reliably spikes after a big achievement (the arrival fallacy) and during transitions.",
+    "It often points at an unmet need — connection, growth, or contribution — rather than a need to overhaul your life.",
+    "Persistent emptiness, numbness, or lost pleasure over weeks is a different signal and worth taking to a professional."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The let-down after the thing you were chasing",
+      "body": "You finally land the promotion you worked years for, and within weeks the glow fades and the old restlessness is back. This is the arrival fallacy, not a sign you chose wrong: expectations rise to meet the new situation, so the satisfaction is smaller and shorter than you pictured. The feeling isn't proof the goal was empty — it is the ordinary way goals settle."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Comfortable, stable, and quietly flat",
+      "body": "Nothing is wrong on paper — steady work, a good relationship, no crisis — and yet a low hum of 'is this it?' persists. When the feeling clusters around comfortable-but-flat stretches, it often points at a need for challenge or novelty rather than a need to tear anything down. Treated as information, it is asking what might be missing, not declaring your life a mistake."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Having meaning and searching for meaning are two different things — and the restless, searching feeling is widespread and not a problem.",
+      "source": "On presence vs. search"
+    },
+    {
+      "text": "The more useful stance is neither alarm nor avoidance, but gentle curiosity about what, if anything, the feeling is asking for."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel like something is missing even when life is good?",

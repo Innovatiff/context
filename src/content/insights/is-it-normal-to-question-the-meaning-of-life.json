@@ -40,6 +40,35 @@
     { "value": "Transitions", "label": "When existential questioning tends to spike (loss, milestones, change)", "source": "Research on meaning across life events" },
     { "value": "See a clinician", "label": "If questioning comes with persistent hopelessness or loss of interest", "source": "Educational guidance, not a diagnosis" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Questioning the meaning of life is one of the most common human experiences, not a symptom of something broken.",
+    "Psychology separates the presence of meaning from the search for it — searching is a normal, widespread dimension.",
+    "How the search relates to wellbeing is mixed and context-dependent, not simply good or bad.",
+    "Questioning tends to spike around transitions and milestones — a normal response to a genuinely new situation.",
+    "Persistent emptiness, hopelessness, or loss of interest lasting weeks can signal depression and is worth raising with a clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The questions that arrive with a transition",
+      "body": "A loss, a big birthday, a job change, or a child leaving home, and suddenly the 'what's the point of all this?' questions get loud. It can feel like a symptom, but usually it is the transition, not your mind, that changed — the questioning is a normal response to a genuinely new chapter, not evidence something is failing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Everyone else looks settled",
+      "body": "From the outside other people seem sure of their purpose, so your own open questions feel like lagging behind. But much of that outward certainty is the part people show; the questioning is common and the visible confidence is the performance. Meaning is something most people revise repeatedly across life, so ongoing questioning is closer to the rule than the exception."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The questioning is common; the visible confidence is the performance.",
+      "source": "On why it feels like a private failure"
+    },
+    {
+      "text": "Ordinary existential questioning is healthy; when it sits alongside persistent hopelessness or loss of interest, that specific cluster is the thing to watch."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to wonder what the point of everything is?",

@@ -34,6 +34,36 @@
     "There is no single statistic that resolves whether prioritizing your happiness is selfish, and it would be misleading to manufacture one — this is a question the research informs rather than settles with a number. What the evidence consistently shows is a positive association between wellbeing and prosocial behavior, and between self-compassion and concern for others, with effects that are real but modest in size.",
     "The practical upshot is that the 'self versus others' framing the question assumes is largely false. Within ordinary life, tending to your own wellbeing tends to support rather than compete with your care for others. The genuine exceptions — pursuing happiness at others' real expense, or chasing it so hard that it backfires — are different behaviors from healthy self-care, and worth keeping distinct."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wellbeing and generosity tend to reinforce each other — the 'self versus others' framing is largely a false choice.",
+    "Happier, less depleted people are, on average, more helpful; self-neglect erodes the capacity to care.",
+    "Self-compassion is associated with more concern for others, not less — being kind to yourself expands care.",
+    "Chasing happiness too directly can backfire; tending to needs and relationships works better than monitoring a score.",
+    "The real exception is pursuing happiness at others' genuine expense — that's selfishness, not self-care."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The oxygen mask",
+      "body": "Guarding your own sleep, rest, and recovery can feel like taking something from the people who depend on you. But the costs of self-care are visible and immediate — the time taken, the 'no' said — while the benefits show up later as more patience, energy, and goodwill. Self-neglect runs the opposite way: generous-looking in the short term, quietly eroding your capacity to care over time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Gripping too hard for happiness",
+      "body": "Monitoring how happy you feel and trying to maximise it — treating happiness as a score to raise — can paradoxically reduce it by setting unrealistic standards and turning attention inward. Investing in relationships, contribution, and meaningful activity tends to do more, and caring for others is itself one of the indirect routes that reliably raises your own wellbeing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Selfishness is pursuing your interests at others' expense; self-care is maintaining the resources that let you function and connect.",
+      "source": "On the distinction the words blur"
+    },
+    {
+      "text": "Looking after your own basic needs is often the thing that makes sustained care for others possible — not a competitor to it.",
+      "source": "On the false zero-sum"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it selfish to put my own happiness first?",

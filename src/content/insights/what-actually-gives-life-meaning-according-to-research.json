@@ -40,6 +40,52 @@
     { "value": "Work, friends, health", "label": "Other top sources frequently mentioned, ranking varying by country", "source": "Pew Research Center (~2021)" },
     { "value": "Everyday life", "label": "Where meaning is mainly built, per psychological research", "source": "King & Hicks; Baumeister" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "When Pew asked people across 17 advanced economies in their own words, family and children were the most cited source in most countries.",
+    "Work, material wellbeing, friends, and health also featured prominently, though the ranking varied by country and income.",
+    "The variation is itself a finding — material wellbeing was mentioned more where economic security was less assured.",
+    "Psychologists describe meaning as built from belonging, purpose, coherence, and mattering — mostly in ordinary daily life.",
+    "King and Hicks found meaning doesn't require struggle or grand revelation; everyday positive experience is reliably tied to it."
+  ],
+  "tables": [
+    {
+      "title": "Most commonly mentioned sources of meaning (Pew, ~2021)",
+      "caption": "Open-ended, self-reported answers across 17 advanced economies. Family and children were the most common source in most countries; the sources below it featured prominently but their ranking varied by country and income, so this is a consistent shape rather than a fixed global order.",
+      "columns": ["Source of meaning", "How it ranked"],
+      "rows": [
+        ["Family and children", "Most commonly mentioned in most countries"],
+        ["Occupation / career", "Frequently mentioned; ranking varied by country"],
+        ["Material wellbeing", "Prominent, more so where economic security was less assured"],
+        ["Friends", "Frequently mentioned; ranking varied by country"],
+        ["Health", "Frequently mentioned; ranking varied by country"]
+      ],
+      "highlightColumn": 0,
+      "source": "Pew Research Center, 'What Makes Life Meaningful' (~2021)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Steeped in meaning while still searching for it",
+      "body": "Someone surrounded by family, friends, and steady work can still feel they haven't 'found their purpose,' because belonging and routine are the constant background of life rather than its highlights. They rarely register as 'meaning' in the moment — yet they are exactly what people name when a survey asks them to reflect. You can be immersed in your main sources of meaning and still feel you are looking for it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Waiting for the grand revelation",
+      "body": "Holding out for one big, dramatic purpose can lead someone to overlook the everyday relationships and commitments that actually supply most of their meaning. The research suggests meaning is assembled from ordinary, plural sources rather than revealed in a single answer — and treating the mundane as too minor to count discards the very thing the data keeps surfacing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can be steeped in your main sources of meaning and still feel you are searching for it.",
+      "source": "On why everyday meaning is easy to overlook"
+    },
+    {
+      "text": "Relationships and everyday commitments, not grand revelation, are where most people report finding meaning.",
+      "source": "On the honest takeaway"
+    }
+  ],
   "faqs": [
     {
       "question": "What do people say gives their life meaning?",

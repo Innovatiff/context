@@ -39,6 +39,48 @@
     { "value": "≈ 0", "label": "Average choice-overload effect when many studies are pooled", "source": "Scheibehenne et al., meta-analysis, 2010" },
     { "value": "Conditional", "label": "Whether more choice hurts — depends on complexity, comparability, and stakes", "source": "Choice-overload literature" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Beyond a point, more options can raise the effort of deciding, increase deferral, and lower satisfaction with what you pick.",
+    "The effect is real but modest and conditional — a 2010 meta-analysis found the average effect near zero, with wide swings by context.",
+    "It bites hardest in big, hard-to-reverse life domains — careers, partners, where to live — and for 'maximizers' who hunt for the single best option.",
+    "Narrowing the field to a few criteria and aiming for 'good enough' is the pattern most associated with higher satisfaction.",
+    "'Fewer choices are always better' overstates the evidence; in many ordinary situations more options help."
+  ],
+  "distributions": [
+    {
+      "title": "The jam experiment: browsing vs buying",
+      "caption": "In Iyengar and Lepper's (2000) supermarket study, the large display drew more interest but far fewer purchases. This is one striking result from a single store and product — read it as illustrative, not a fixed law.",
+      "unit": "% of samplers who bought a jar",
+      "source": "Iyengar & Lepper, 2000",
+      "bars": [
+        { "label": "Small selection", "value": 30, "display": "≈30%", "highlight": true },
+        { "label": "Large selection", "value": 3, "display": "≈3%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The career search that never closes",
+      "body": "A big life choice combines every condition that makes choice overload worst: many options, hard to compare on one scale, costly to reverse, and tied to identity. Someone weighing every possible path at once can stall for years — not because no option is good, but because the menu stays permanently open and each alternative keeps its pull. Setting a few criteria that genuinely matter and screening against them shrinks the menu to a comparable few."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The maximizer who chose well and still regrets it",
+      "body": "A person who searches exhaustively for the single best option can end up with an objectively good outcome yet feel less satisfied than someone who settled for 'good enough' — because the large set of attractive alternatives they considered stays vivid as counterfactuals to measure their actual life against. Committing, and not relitigating the discarded options, is what tends to raise satisfaction."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest number to carry is not a percentage but a shape: choice overload strengthens with complexity, difficulty of comparison, and stakes.",
+      "source": "On reading the evidence"
+    },
+    {
+      "text": "Choosing a jam is trivial; choosing a career or a partner is the opposite of trivial, so the same mechanism hits much harder.",
+      "source": "On why big decisions paralyse"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the paradox of choice actually real?",

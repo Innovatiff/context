@@ -34,6 +34,35 @@
     "There is no single clean statistic for how much more a criticism weighs than a compliment, and any precise 'it takes five compliments to undo one criticism' style ratio should be treated with caution — such ratios are popular but not well established as universal constants. What the research supports is the direction and the robustness of the asymmetry, not an exact multiplier.",
     "What is well documented is breadth: the 'Bad Is Stronger Than Good' review found the same negative-outweighs-positive pattern across many separate areas of psychology, which is part of why it is taken seriously. The honest summary is that the effect is real and wide, the survival explanation is plausible, and the precise size varies by person and situation."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Negative feedback tends to be encoded more deeply and recalled more easily than equivalent praise — the negativity bias.",
+    "One lingering criticism among many compliments is a default of memory, not a sign the criticism was uniquely true.",
+    "Criticism is usually more specific and surprising than praise, so it gets rehearsed and re-encoded for days.",
+    "The fix is reweighting, not suppressing: discount the criticism toward its real size and keep a written tally of the good.",
+    "The popular fixed ratios ('five compliments per criticism') are not well established as universal constants."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Ten 'nice work's and one objection",
+      "body": "A presentation draws ten warm comments and one pointed criticism. By evening, the ten have dissolved into a faint glow while the one replays word for word. That is not a verdict on the work; it is the negativity bias at play — the critical remark was more specific and more surprising, so it was encoded more deeply and is recalled more easily. The kind words registered faintly and left no counterweight."
+    },
+    {
+      "label": "The trap",
+      "title": "Turning one note into a whole self-assessment",
+      "body": "'This paragraph is unclear' quietly becomes 'I am bad at writing.' Globalising a specific critique is the move that does the most damage and the least good: the bias already inflates the weight of the comment, and generalising it inflates the scope too, with no gain in accuracy. The useful step is to extract the one concrete instruction — clarify this paragraph — and let the rest go."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "One criticism lingering while ten kind words fade is not a flaw in you — it is the default setting of human attention and memory.",
+      "source": "On the negativity bias"
+    },
+    {
+      "text": "A single critique usually contains at most one useful instruction and a great deal of noise your memory will otherwise preserve in full."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to dwell on one criticism for days?",

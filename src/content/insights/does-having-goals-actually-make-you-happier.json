@@ -40,6 +40,36 @@
     { "value": "Progress > rewards", "label": "Progress on meaningful work was the strongest day-to-day driver of positive inner work life", "source": "Amabile, the progress principle" },
     { "value": "Fades", "label": "The mood lift from attainment, as expectations reset (hedonic adaptation)", "source": "Hedonic adaptation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Goals are not automatically good for happiness — the kind of goal and the felt progress matter more than reaching it.",
+    "Intrinsic goals (growth, relationships, contribution) tend to support wellbeing; strongly materialistic ones are linked to lower wellbeing, even when achieved.",
+    "Steady, visible progress on meaningful work lifts day-to-day mood more reliably than the moment of attainment.",
+    "The lift from reaching a goal fades as expectations reset — the striving is renewable in a way the prize is not.",
+    "Choose goals whose day-to-day process you actually value, not ones you only want to have completed."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The promotion that felt flat by Tuesday",
+      "body": "Someone lands the title they chased for two years. The first days feel great, then the new state becomes the baseline and the lift quietly drains away — the ordinary Tuesday two weeks later feels much like the old one. That is hedonic adaptation doing exactly what the research describes: the satisfaction is real but temporary, which is why attainment so often disappoints."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two goals, same effort, different payoff",
+      "body": "One person aims to earn enough to look successful; another aims to get genuinely good at something they care about. The materialistic aim tends to track with lower wellbeing even once reached, while the growth-and-mastery aim, valued for the process, keeps supplying a renewable sense of forward motion. The difference is not the ambition — it is which kind of goal, and whether the striving itself is valued."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The right kind of goal, valued for the process, beats the goal valued only for the prize.",
+      "source": "On intrinsic vs. extrinsic goals"
+    },
+    {
+      "text": "We are good at imagining the moment of achievement and bad at imagining how quickly we will get used to it.",
+      "source": "On why attainment disappoints"
+    }
+  ],
   "faqs": [
     {
       "question": "Do goals make you happier or not?",

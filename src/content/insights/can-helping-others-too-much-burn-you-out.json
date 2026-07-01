@@ -34,6 +34,34 @@
     "This is a topic carried by patterns and well-defined concepts rather than precise statistics, and the underlying evidence is substantially observational, so the conclusions are best read as well-supported tendencies. The anchoring ideas are Adam Grant's distinction between selfless and 'otherish' givers, and the documented phenomena of compassion fatigue and caregiver burden in the helping professions and family caregiving.",
     "What the research reasonably supports is that giving generally benefits the giver, but that benefit depends on the giving being sustainable: boundless, unreplenished giving is associated with burnout, exhaustion, and — in caregiving contexts — measurable strain and sometimes worse care. The practical conclusion is consistent across these strands: generosity with boundaries is more durable than generosity without them."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Helping generally benefits the giver — but the benefit is not unconditional and inverts when giving outstrips your resources.",
+    "Grant's 'selfless' givers who never say no are prone to burnout; 'otherish' givers who set boundaries are the most sustainable.",
+    "In the helping professions the cost of unbounded giving shows up as documented compassion fatigue and caregiver burden.",
+    "Because an exhausted giver has nothing left to give, self-care is not in competition with helping — it is what makes it last."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The colleague who never says no",
+      "body": "Someone who treats every request as obligatory feels good saying yes in the moment, but the depletion accrues quietly over months until it surfaces as burnout. This is the exact pattern Grant links with selfless givers: not less generous, but less sustainable — and, on the evidence, eventually a less effective helper too."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The family caregiver running on empty",
+      "body": "A person providing sustained care to a relative can carry real physical, emotional, and financial strain — the caregiver burden the research describes. Accepting outside support and respite is associated with lower burden even though it can feel like a failure to do so. Treating capacity as a resource to maintain, rather than spend to zero, is what keeps the care going."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest framing is not 'help less.' It is that helping helps the helper too — but only when it is sustainable.",
+      "source": "On generous but bounded giving"
+    },
+    {
+      "text": "Self-sacrifice carried to exhaustion is not a more virtuous form of helping; it is a less sustainable one."
+    }
+  ],
   "faqs": [
     {
       "question": "Can you really burn out from helping people?",

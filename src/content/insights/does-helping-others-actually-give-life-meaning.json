@@ -40,6 +40,41 @@
     { "value": "Correlational", "label": "Much of the volunteering–wellbeing and mortality evidence", "source": "Volunteering and wellbeing research" },
     { "value": "Midlife", "label": "Life stage Erikson tied most closely to meaning through contribution", "source": "Erikson, generativity vs. stagnation" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Helping others is one of the more reliable sources of meaning research has found — but the direction is better supported than the exact size.",
+    "The strongest causal evidence is for small acts: people randomly assigned to spend on others reported more happiness than those who spent on themselves.",
+    "Much of the volunteering–wellbeing link is correlational — healthier, more connected people also help more — so read it as 'reliably associated with', not 'proven to cause'.",
+    "Scale isn't the active ingredient: directing resources and attention toward another person is, which makes it unusually accessible.",
+    "Helping supports meaning most when it feels chosen and sustainable; obligation and burnout can carry the costs without the benefit."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The $5 that beat the $5 on yourself",
+      "body": "Handed a small sum, one person buys themselves a coffee and another buys it for a colleague. By the end of the day the one who gave reports feeling better — not because the amount was large but because the act was directed outward. That is the prosocial-spending finding in miniature: it is the giving, not the price, that does the work."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Waiting for the perfect cause",
+      "body": "Someone keeps meaning to volunteer once they have more time, more money, and have found exactly the right organisation — so the contribution, and the meaning that comes with it, keeps getting deferred. The evidence points the other way: small, ordinary, present-tense acts carry much of the effect, so the perfect-conditions plan mostly postpones the benefit."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Helping that turned into strain",
+      "body": "A carer gives past their limit, month after month, without support — and finds exhaustion and resentment where the upbeat version promised meaning. The research is most positive about voluntary, autonomous helping; protecting limits and getting support is what keeps helping a source of meaning rather than a source of strain."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The direction of the effect is well-supported; the size and certainty are more modest than the inspirational version suggests.",
+      "source": "On the honest reading of the evidence"
+    },
+    {
+      "text": "Chosen and sustainable beats large and depleting in the data.",
+      "source": "On avoiding burnout"
+    }
+  ],
   "faqs": [
     {
       "question": "Does helping others really make you happier, or is that just a feel-good idea?",

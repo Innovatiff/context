@@ -34,6 +34,35 @@
     "There isn't a single headline number for the optimism bias; it is a direction that shows up reliably across studies rather than a fixed percentage. The consistent finding is comparative: when large samples rate their own risk of negative events against the average person's, the majority place themselves below average — a statistical impossibility if everyone is right, which is the whole point.",
     "Treat any precise 'people underestimate risk by X%' figure with caution, since the size varies by event and population. What is robust is the shape: optimism about one's own future is widespread, appears across cultures, is reinforced by asymmetric updating from good versus bad news, and is strong enough that researchers describe it as a default rather than an exception."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Most people rate their own risk of bad events below average — a statistical impossibility if everyone were right.",
+    "The brain updates readily from good news but resists bad news (asymmetric updating), tuning risk downward over time.",
+    "A mild optimism bias is largely adaptive — linked to lower anxiety, more planning, and the motivation to act.",
+    "The cost appears only when it tips into ignoring real, addressable risks like insurance, savings, or screening.",
+    "Awareness alone rarely shifts the tilt; pre-committed, automatic safeguards work better than resolving to 'be realistic'."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'I'll deal with insurance later'",
+      "body": "Someone skips renters' or income insurance because a break-in or a lost job feels like the kind of thing that happens to other people. This is the optimism bias doing its quiet work: their own risk feels controllable, everyone else's abstract. The research doesn't say to swap the optimism for dread — it says to make the protective step automatic and decided in advance, so acting doesn't depend on first feeling personally at risk."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Good news sticks, bad news slides off",
+      "body": "Told a screening lowers their risk, a person adjusts their outlook happily and remembers it. Told a habit raises their risk, they find reasons to discount it and it fades. That asymmetric updating is why certain risks are so hard to take seriously even when the odds are known — not wishful thinking so much as a brain that learns more eagerly from reassurance than from warnings."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'It won't happen to me' is not a personal quirk or a failure of imagination — it is a default setting of human cognition.",
+      "source": "On the optimism bias"
+    },
+    {
+      "text": "The feeling of relative safety is doing a real job — it just isn't a measurement."
+    }
+  ],
   "realNumbers": [
     { "value": "Below average", "label": "Where most people rate their own risk of bad events versus others", "source": "Weinstein, unrealistic optimism research" },
     { "value": "Asymmetric", "label": "We update beliefs more from good news than bad news", "source": "Sharot, optimism bias research" },

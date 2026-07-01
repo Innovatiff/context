@@ -40,6 +40,35 @@
     { "value": "Optional", "label": "The formal written statement, versus the underlying clarity", "source": "Skepticism on formal mission statements" },
     { "value": "Action", "label": "Consistent aligned behaviour, the part that does the work", "source": "Goal-setting and self-concordance research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The useful part is clarity of values and choosing goals that fit them — the written document is optional.",
+    "Goal-setting research supports clear, specific direction over vague intentions like 'do your best.'",
+    "Self-concordant goals — chosen because they fit you, not from pressure — are pursued more persistently.",
+    "A polished statement often becomes a forgotten artifact, admired once and disconnected from daily choices.",
+    "Consistent, aligned action over time is the part that actually does the work."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The framed statement that changed nothing",
+      "body": "Someone crafts a crisp mission statement, feels resolved, frames it — and then daily choices carry on unchanged. That satisfying sense of completion is easy to mistake for the actual work of clarifying values and shifting behaviour. This is the classic 'forgotten artifact': written once, rarely consulted, and inert on its own."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Clarity plus aligned action, no manifesto required",
+      "body": "Another person skips the polished sentence and instead gets specific about what they value, translates it into a few self-concordant goals, and uses them to make real decisions over time. On the evidence, that's where the benefit lives — clear, value-fitting goals pursued consistently — whether or not any document ever gets written."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Clarity of values plus consistent, aligned action is the part that does the work.",
+      "source": "On what a mission statement gestures at"
+    },
+    {
+      "text": "The research locates the value upstream of the words, in whether your goals genuinely fit you, and downstream of them, in whether you act — not in the sentence in between."
+    }
+  ],
   "faqs": [
     {
       "question": "Is writing a personal mission statement a waste of time?",

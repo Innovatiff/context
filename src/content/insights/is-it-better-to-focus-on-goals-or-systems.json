@@ -39,6 +39,36 @@
     { "value": "Specific > vague", "label": "Goals that are specific and challenging tend to beat 'do your best'", "source": "Locke & Latham, goal-setting theory" },
     { "value": "Automatic, cue-based", "label": "How established habits run with little ongoing willpower", "source": "Habit research (Wood, Lally)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Goals and systems do different jobs: the goal sets direction, the daily system produces the result.",
+    "Goal-setting research supports that specific, challenging goals beat vague 'do your best' ones for directing effort.",
+    "Durable results come from automatic, cue-based routines that run when motivation fades — not from willpower.",
+    "The '66 days to a habit' figure was an average with a very wide range, not a fixed deadline.",
+    "The two unhelpful extremes are 'goal only' and 'no goal at all'; the balance is goal for direction, system for delivery."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The goal that stalled at 'declared'",
+      "body": "Someone sets an ambitious target — write a book, run a marathon — and feels a real surge of motivation just from naming it. But nothing is built to run on an ordinary Tuesday, so once the initial enthusiasm fades there is no routine to carry the behavior. The goal pointed the direction; without a system, it mostly generated pressure rather than pages or miles."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Quitting a routine that was actually on track",
+      "body": "A new habit still feels effortful after a few weeks, so it reads as failure and gets abandoned. But the habit-formation evidence suggests automaticity takes a widely variable stretch — from a few weeks to several months depending on the person and behavior. Expecting effortlessness quickly is one of the more common reasons people drop a system that was working exactly as it should."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The goal by itself doesn't do anything until the process does.",
+      "source": "On why the system carries the weight"
+    },
+    {
+      "text": "Goals set the target and systems hit it — but treat sweeping 'systems always beat goals' claims with some caution.",
+      "source": "On reading the evidence honestly"
+    }
+  ],
   "faqs": [
     {
       "question": "So which is better, goals or systems?",

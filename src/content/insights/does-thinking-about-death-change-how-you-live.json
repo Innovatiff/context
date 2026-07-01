@@ -39,6 +39,36 @@
     { "value": "More gratitude", "label": "Pattern linked to deliberate mortality reflection", "source": "Cozzolino; Frias et al." },
     { "value": "Toward connection", "label": "Common direction of end-of-life and near-death priority shifts", "source": "End-of-life priority research (self-report)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Thinking about death changes how people live, but the direction is not fixed — it depends on how the thought arrives.",
+    "Fleeting, fearful reminders (mortality salience) tend to trigger defensiveness — more status-seeking, in-group rigidity, attachment to consumption.",
+    "Deliberate, sustained reflection is associated with the opposite: gratitude, prosociality, and a tilt toward relationships and meaning.",
+    "The reflective 'memento mori' route is the one people encounter least, because culture mostly keeps death out of sight.",
+    "This is educational context, not therapy — persistent or distressing thoughts about death deserve a qualified professional."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The flinch that feels like proof",
+      "body": "A sudden reminder of death — a near-miss on the road, a grim headline — triggers an anxious flinch, and the instinct is to push the thought away. That fleeting, fearful contact is exactly the kind the research links to defensiveness, and the discomfort feels like evidence that thinking about death is simply distressing. The reflective version, which points elsewhere, is rarely the one people meet by accident."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Perspective without the crisis",
+      "body": "People often assume the shift toward what matters — connection over status, relationships over achievement — only arrives with a diagnosis or a wake-up call. The death-reflection research suggests that perspective is available through deliberate, conscious contemplation, without requiring the crisis. Because the dramatic stories are the visible ones, the everyday reflective route stays largely invisible."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "How you think about death matters more than whether you do.",
+      "source": "On avoidance vs. reflection"
+    },
+    {
+      "text": "The same underlying fact can push people toward fear and self-protection or toward perspective and reprioritising.",
+      "source": "On the two directions"
+    }
+  ],
   "faqs": [
     {
       "question": "Is thinking about death good or bad for you?",

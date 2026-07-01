@@ -38,6 +38,35 @@
     { "value": "Everyday", "label": "Where meaning research locates most of its signal — relationships, care, routine", "source": "King & Hicks; Steger" },
     { "value": "Built", "label": "Meaning tends to be built through engagement, not found in a revelation", "source": "Meaning-in-life research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Meaning comes mostly from ordinary sources — relationships, useful daily care, small moments of connection and competence.",
+    "'A life must be remarkable to be meaningful' is a cultural story, not a research finding.",
+    "Across 17 countries, family and everyday domains top what people say makes life meaningful — ahead of career or wealth.",
+    "Meaning is more often built through repeated engagement than found in a single revelation.",
+    "Waiting to feel meaningful until you achieve something impressive doesn't work — meaning isn't tied to achievement."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "An ordinary Tuesday, spent well",
+      "body": "A day of useful work, a real conversation, and time with people you love leaves no trophy and makes no feed — so it's easy to discount. Yet by the measures psychologists actually use, that is close to the form a meaningful life takes for most people. The quiet, unrankable Tuesday is not a lesser version of meaning; it is where the research locates most of the signal."
+    },
+    {
+      "label": "The trap",
+      "title": "Waiting for the milestone to make it count",
+      "body": "Someone postpones feeling their life matters until they achieve something impressive. The research doesn't tie meaning to achievement, so the milestone tends to arrive and leave the sense of meaning roughly where it was — while the everyday sources that actually supply most of it went unattended in the waiting. Chasing one grand 'purpose' as the only valid source can crowd out exactly what fills a life."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "An ordinary life is not a lesser version of a meaningful one — for most people it is the form a meaningful life takes.",
+      "source": "On what the measures actually show"
+    },
+    {
+      "text": "Meaning is more often built than found — it accrues through engagement and contribution rather than arriving as a revelation."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it a problem if my life feels small?",

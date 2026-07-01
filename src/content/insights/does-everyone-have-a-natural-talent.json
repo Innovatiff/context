@@ -40,6 +40,35 @@
     { "value": "Years", "label": "Typical timescale over which deliberate practice builds expertise", "source": "Ericsson, deliberate-practice research" },
     { "value": "Contested", "label": "Scientific standing of 'multiple intelligences' as distinct intelligences", "source": "Gardner; critics of the theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Most of what looks like talent is developed skill built from aptitude, interest and opportunity — not a pre-installed gift.",
+    "Deliberate practice explains a meaningful but limited share of performance, and how much varies by domain.",
+    "We only see talent after it's developed, so finished skill looks innate and effortless.",
+    "Gardner's 'multiple intelligences' is popular and intuitive but scientifically contested — a frame, not settled science.",
+    "Build rather than search: sustained, feedback-rich practice is where ability actually develops."
+  ],
+  "examples": [
+    {
+      "label": "The distortion",
+      "title": "You never saw the practice",
+      "body": "By the time someone is visibly good at something, the years of practice, false starts and lucky exposures are invisible — so their ability looks innate. You end up comparing your undeveloped, uncertain starting point to their finished, polished output, which makes your own lack of an obvious gift feel like an exception when it is the norm."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two people, similar potential, different circumstances",
+      "body": "Give two people similar raw aptitude and only one the instrument, the coach, the free time and the early encouragement. Years later they look very different in 'talent' — not because of a hidden gift, but because opportunity quietly did the work the word usually gets credit for. It's a reminder that a poor fit in one area, tried briefly, says little about what you could build elsewhere."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Skills are mostly built, not found — and the building takes practice and circumstance many people never get the chance to apply to any one thing.",
+      "source": "On what 'talent' really is"
+    },
+    {
+      "text": "Opportunity quietly does a lot of the work the word 'talent' usually gets credit for."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true that everyone is born with a natural talent?",

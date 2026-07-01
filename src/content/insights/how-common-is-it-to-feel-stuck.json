@@ -36,6 +36,36 @@
     { "value": "Minority", "label": "Adults meeting criteria for full 'flourishing'", "source": "Keyes, 2002, JHSB" },
     { "value": "~late 40s", "label": "Typical low point of the life-satisfaction U-shape (contested)", "source": "Blanchflower & Oswald" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "There's no clean statistic for 'feeling stuck', so the honest picture leans on adjacent measures — languishing, engagement, the midlife dip.",
+    "Only a minority of adults meet the criteria for full flourishing at a given time; a flat, not-thriving middle is closer to the norm.",
+    "Only about 21% of workers worldwide feel actively engaged, so a workforce running below full engagement is common.",
+    "Stuck is usually a signal of misalignment or a plateau, not a pathology — though persistent, worsening low mood deserves professional attention.",
+    "The research leans toward re-engagement over waiting: small amounts of meaningful, slightly challenging activity and real social contact move people off the plateau."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Flat when nothing is wrong",
+      "body": "Someone has a stable job, decent relationships, no crisis — and still feels quietly stuck. Because there's no obvious cause to point to, they read it as a personal failing. But that quiet, no-crisis quality is characteristic of languishing: a low-grade, not-flourishing state that the population data suggests is closer to the norm than the exception."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Everyone else looks like they're moving",
+      "body": "The people around you appear to be advancing while you're standing still — but much of that motion is invisible commitment rather than visible progress, and many who look unstuck are quietly languishing too. The contrast is partly an artifact of seeing your own stagnation in full and everyone else's only in summary."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling stuck is usually a signal of misalignment or a plateau rather than something wrong with you.",
+      "source": "On reading the feeling"
+    },
+    {
+      "text": "The not-flourishing state is closer to the norm than the exception.",
+      "source": "On the languishing research"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a statistic for how many people feel stuck?",

@@ -34,6 +34,35 @@
     "This is a topic where the honest picture is a pattern, not a precise statistic. Research on overconfidence and status (associated with Cameron Anderson and colleagues) consistently finds that overconfident people tend to attain higher social standing because confidence is read as competence — a robust direction, even if exact effect sizes vary by study and setting.",
     "The confidence heuristic — weighting confident advisors and statements more heavily (associated with Price and Stone and related work) — is similarly best understood as a reliable tendency rather than a fixed number. The key quantitative point is the weak one: the link between how confident someone is and how accurate they are is loose, which is exactly why the shortcut, useful as it is on average, misleads in the cases that matter most. Treat any single figure in this area with caution."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We use confidence as a fast, cheap shortcut for competence — and it's an exploitable one.",
+    "Overconfident people tend to gain higher social status because confidence is read as competence (Anderson and colleagues).",
+    "The confidence heuristic leads groups toward the most assertive voice rather than the most accurate one.",
+    "Confidence and accuracy are only loosely linked — people can be very sure and wrong, or accurate and tentative.",
+    "The fix is a verification step: check claims against track record and reasoning, not tone."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The most certain voice sets the direction",
+      "body": "In a meeting, the person who states a view with the most certainty tends to pull the group along, while the carefully hedged voice is discounted — even when the hedged one turns out to be right. That's the confidence heuristic: expressed certainty gets treated as a proxy for accuracy. Making space for less assertive voices, and soliciting independent judgements before discussion, blunts the pull of the loudest voice."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Confidence as evidence of confidence, not accuracy",
+      "body": "An advisor sounds completely sure. Before following the advice on something that matters, the useful move isn't to dismiss them for sounding sure — it's to ask how calibrated they've been before, and to ask for reasoning, base rates, and uncertainty ranges rather than just the conclusion. Treat confidence as evidence of confidence, and let track record decide the rest."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Confidence is worth noticing but worth checking — ideally against track record rather than tone.",
+      "source": "On the confidence heuristic"
+    },
+    {
+      "text": "When the cue we rely on does not track the thing we care about, the heuristic quietly misleads — and the most assertive voice can pull a group toward a worse decision."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do we equate confidence with competence?",

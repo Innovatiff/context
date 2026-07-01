@@ -39,6 +39,35 @@
     { "value": "Winner-take-all", "label": "Fields where small differences plus luck produce huge outcome gaps", "source": "Frank, Success and Luck" },
     { "value": "Real but bounded", "label": "Effect of grit and persistence on major outcomes", "source": "Research on grit's limits" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Chasing a dream pays off for some, but survivorship bias makes the odds look far better than they are.",
+    "In winner-take-all fields, small differences plus luck and timing produce enormous gaps in outcomes.",
+    "Passion and grit have real but bounded effects — they improve your chances without erasing long base rates.",
+    "The clear-eyed move is to pursue meaningfully while hedging: keep options, skills, and a buffer.",
+    "Defining success broadly — not only the rare top prize — turns a long-odds bet into a more reasonable one."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The returning planes",
+      "body": "Abraham Wald's wartime insight is the whole trap in miniature: the planes you can inspect are the ones that made it back, so reinforcing where they were hit gets the lesson backwards. Applied to dreams, we study the people who succeeded and infer the path that 'works' — while the equally dedicated people who took the same path and failed are simply absent from the sample."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Aiming at the whole band, not just the jackpot",
+      "body": "A musician who only counts arena-filling stardom as success is betting on the rare top prize of a winner-take-all field. The working musician, the mid-list author, the steady founder of a small company occupy a much wider band of decent, related outcomes. Aiming there — while keeping transferable skills and a financial buffer — lets you commit without staking your whole life on beating base rates that stay long no matter how hard you work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The stories that reach us are, by construction, the ones that worked — the failures rarely write the memoir.",
+      "source": "On survivorship bias"
+    },
+    {
+      "text": "Clear eyes about base rates is realism, not discouragement — and a dream is more worthwhile when you're honest about the numbers."
+    }
+  ],
   "faqs": [
     {
       "question": "Does following your dream actually pay off?",
