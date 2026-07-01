@@ -40,6 +40,63 @@
     { "value": "~1.5–2 hrs", "label": "Average daily household activities (cooking, cleaning, chores)", "source": "American Time Use Survey, BLS" },
     { "value": "~1 hr", "label": "Average daily time eating and drinking", "source": "American Time Use Survey, BLS" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Sleep is the single biggest block of the average day — roughly 8.8 hours including naps.",
+    "Leisure runs to about 5 hours, and watching television is its largest single slice.",
+    "The 'work' figure looks low because the all-adult average is diluted by everyone not working that day.",
+    "These are population means; a day that looks nothing like the average is the rule, not the exception."
+  ],
+  "tables": [
+    {
+      "title": "The average adult's day, by category",
+      "caption": "Approximate U.S. population averages across all adults and all days. The 'work' figure is diluted because retirees, students, and anyone off that day are all averaged in — so any single real day rarely matches this composite.",
+      "columns": ["Activity", "Approx. hours per day"],
+      "rows": [
+        ["Sleep (including naps)", "≈ 8.8"],
+        ["Leisure and sports (much of it TV)", "≈ 5"],
+        ["Household activities", "≈ 1.5–2"],
+        ["Eating and drinking", "≈ 1"]
+      ],
+      "highlightColumn": 1,
+      "source": "American Time Use Survey, U.S. Bureau of Labor Statistics"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Where the average day's hours go",
+      "caption": "The same figures as bars. Sleep dwarfs everything else; leisure — much of it television — is the next largest measurable block once paid work is averaged down across the whole population.",
+      "unit": "hours per day",
+      "source": "American Time Use Survey, U.S. Bureau of Labor Statistics",
+      "bars": [
+        { "label": "Sleep", "value": 8.8, "display": "≈8.8 hrs" },
+        { "label": "Leisure & sports", "value": 5, "display": "≈5 hrs" },
+        { "label": "Household", "value": 1.75, "display": "≈1.5–2 hrs" },
+        { "label": "Eating & drinking", "value": 1, "display": "≈1 hr" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The day nobody actually lives",
+      "body": "The 'average' 24 hours blends a retiree, an employed parent of a toddler, and a night-shift nurse into one composite. Each is real; the blended day is not. That is why the breakdown can feel unrecognisable — it is a map of where a society's hours go in aggregate, not a schedule for any single person."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'My work block looks bigger than the survey's'",
+      "body": "If your working day dwarfs the average's, that is usually because the all-adult figure is diluted by everyone who did not work that day — retirees, students, people on a day off. Among those who actually worked, time on the job is much higher. The gap is a measurement artefact, not a sign you are overworking relative to peers."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The composite is statistically true and individually fictional at the same time.",
+      "source": "On the 'average' day"
+    },
+    {
+      "text": "Five hours of leisure in fifteen-minute fragments feels nothing like five continuous hours — even though the survey records them identically."
+    }
+  ],
   "faqs": [
     {
       "question": "What does the average person spend the most time on each day?",

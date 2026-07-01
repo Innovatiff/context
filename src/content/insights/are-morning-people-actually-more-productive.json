@@ -40,6 +40,39 @@
     { "value": "Shifts with age", "label": "Latest in late teens, earlier through adulthood", "source": "Chronobiology research" },
     { "value": "Social jetlag", "label": "Mismatch of biological and social time, linked to worse functioning", "source": "Roenneberg" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Morning people are not inherently more productive — performance tracks your chronotype, not the clock.",
+    "Chronotype is substantially genetic, sits on a wide spectrum, and shifts predictably with age.",
+    "People do best on demanding tasks near their own biological peak — the documented 'synchrony effect.'",
+    "Forcing a night owl into an early schedule tends to cause 'social jetlag,' linked to worse mood and functioning.",
+    "The goal is fit between your tasks and your peak, not converting yourself into a morning person."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The night owl asked to peak at 9am",
+      "body": "Society runs on morning-friendly time — school, most jobs, business hours — so an evening type is asked to perform during their biological low, then often stays up to do their real best work. From the outside that can look like poor time management, but it is a scheduling mismatch: the same person operating at their own peak would do the demanding work far more easily."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Copying the 5am club",
+      "body": [
+        "Someone adopts a high-profile early riser's pre-dawn routine expecting the same results. For an evening type it tends to backfire — chronically shortening sleep and creating social jetlag, which is associated with worse mood and functioning, the opposite of the intended effect.",
+        "Those routines fit their owner's chronotype and circumstances, not necessarily yours. Knowing chronotype is largely genetic reframes a 'discipline problem' as a scheduling problem — far more solvable, because the fix is aligning tasks to your peak rather than converting your clock."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Alignment matters more than the hour on the clock.",
+      "source": "On chronotype and performance"
+    },
+    {
+      "text": "A night owl can get the same uninterrupted focus late at night; the benefit is the quiet, not the clock.",
+      "source": "On why mornings feel productive"
+    }
+  ],
   "faqs": [
     {
       "question": "Are morning people more productive than night owls?",

@@ -34,6 +34,39 @@
     "Precise figures here vary by survey and country, so they are best treated as directional rather than exact. The robust, repeated pattern is that salary and debt rank among the least discussable topics in surveys of conversational taboos — frequently ranked as harder to raise than weight, age, or politics — while subjects long considered private often rank as more shareable than pay.",
     "On the consequences, the literature on pay transparency points in a consistent direction even where exact effect sizes differ: greater openness about salaries is associated with narrower pay gaps, and secrecy is associated with it being harder for workers to detect underpayment. The honest summary is that the size of the effect is debated, but the direction — transparency tends to favour employees, secrecy tends to favour employers — is well supported."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Money is taboo mostly because we treat it as a proxy for personal worth, so disclosing it feels like inviting judgment.",
+    "Salary and debt rank among the least discussable topics — often harder to raise than weight, age, or politics.",
+    "The taboo is learned and culturally specific, not inevitable: younger adults tend to report more openness than older ones.",
+    "Salary secrecy mainly benefits employers, because individuals cannot tell when they are underpaid relative to colleagues.",
+    "The benefit comes from targeted, trust-based comparison with relevant peers — not from broadcasting every financial detail."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why a salary figure feels like a verdict",
+      "body": "When income is treated as a measure of how hard you work or how much you are worth, stating a number stops being an exchange of information and starts feeling like submitting yourself for ranking. That is a far heavier act than describing your weekend — which is why people will sooner discuss subjects long considered private than reveal what they earn."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Who the silence actually serves",
+      "body": [
+        "Two colleagues in similar roles never discuss pay, assuming it is simply good manners. Because neither can see the other's number, neither can tell if they are underpaid — and the information advantage sits entirely with the employer, who knows both figures.",
+        "The research on pay transparency points the other way from the fear of awkwardness: comparing salaries with trusted peers, or using published pay data, helps people spot underpayment and gives them a realistic anchor for negotiation. The information itself is the lever."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The taboo feels like good manners; in practice it is closer to a structural advantage for the side that already knows the numbers.",
+      "source": "On who the silence serves"
+    },
+    {
+      "text": "The taboo protects itself by ensuring you have almost no normal examples to compare against.",
+      "source": "On why the silence is self-reinforcing"
+    }
+  ],
   "faqs": [
     {
       "question": "Why is talking about money considered rude?",

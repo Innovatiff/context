@@ -39,6 +39,53 @@
     { "value": "Flat or falling", "label": "Long-run price trend for many goods like electronics and clothing", "source": "BLS Consumer Price Index" },
     { "value": "Wages lagged", "label": "Median wage growth relative to productivity growth over recent decades", "source": "Economic Policy Institute" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Part of the squeeze is real: housing, healthcare, childcare, and college have risen far faster than overall inflation.",
+    "Many goods — electronics, clothing, appliances — have stayed flat or fallen, making the picture feel uneven.",
+    "Median wage growth has lagged productivity growth, so essential costs outran typical pay for many households.",
+    "Perception amplifies it: we notice frequent purchases far more than slow, quiet gains in income.",
+    "The levers that move the needle are the large, infrequent commitments — housing, transport, fixed bills — not the daily coffee."
+  ],
+  "tables": [
+    {
+      "title": "The uneven split — what rose and what didn't",
+      "caption": "Price growth has been anything but uniform. The necessities you can't opt out of climbed faster than overall inflation, while many discretionary goods grew slower or fell. That split is why the squeeze feels arbitrary rather than a clean across-the-board rise.",
+      "columns": ["Category", "Long-run price trend vs overall inflation"],
+      "rows": [
+        ["Housing", "Faster than overall inflation"],
+        ["Healthcare", "Faster than overall inflation"],
+        ["Childcare", "Faster than overall inflation"],
+        ["College", "Faster than overall inflation"],
+        ["Electronics", "Flat or falling"],
+        ["Clothing", "Flat or falling"]
+      ],
+      "highlightColumn": 1,
+      "source": "BLS Consumer Price Index (category-level trends)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The loud costs and the silent raise",
+      "body": "You buy groceries, gas and coffee constantly, so every uptick registers as a small shock, again and again. A raise arrives once and then quietly becomes the new normal. The cost side of your life feels loud and the income side feels silent — even when both are moving."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A cheaper TV next to a higher rent",
+      "body": "A television that costs less than it used to, sitting beside a rent increase or a medical bill, is the lived version of the uneven split. The affordable things make the unaffordable ones feel more arbitrary and frustrating — which is part of why the squeeze feels so disorienting rather than like a clean, across-the-board rise."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Both things are true at once: the squeeze in the categories that matter most is real, and our sense of it is amplified by how we register prices.",
+      "source": "On perception and reality"
+    },
+    {
+      "text": "The necessities you can't opt out of have gotten relatively more expensive, while the discretionary goods you notice on a shelf have gotten cheaper.",
+      "source": "On the uneven split"
+    }
+  ],
   "faqs": [
     {
       "question": "Is everything actually more expensive, or does it just feel that way?",

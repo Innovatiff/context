@@ -38,6 +38,36 @@
     { "value": "Looked less", "label": "How often investors checked portfolios when markets were falling", "source": "Karlsson, Loewenstein & Seppi (ostrich effect)" },
     { "value": "~2 in 3", "label": "Adults recently reporting money as a significant source of stress (varies by year)", "source": "APA, Stress in America (approx.)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Avoiding your balance is the ostrich effect — a documented pattern, not laziness or a moral failing.",
+    "People look away precisely when they expect bad news, which is when looking would help most.",
+    "The relief of not knowing is immediate; the cost — missed payments, drift — is delayed and invisible.",
+    "Small, scheduled, low-stakes glances beat forcing yourself into a single all-at-once reckoning.",
+    "Treating the number as neutral information, not a verdict on your worth, is what eases the avoidance."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Looking away when money is tight",
+      "body": "When finances feel threatening, the dread of checking is highest — so the urge to avoid is strongest exactly when a look would help most. Each avoidance is rewarded with a small hit of relief, which quietly trains the habit until you're surprised by how long it's been since you last looked."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The scheduled glance that lowers the stakes",
+      "body": "Instead of a dreaded open-ended audit, a brief look at a set time — with bills, minimum payments, and transfers automated in the background — keeps the account working even during an avoidant stretch. The number becomes neutral data guiding a next step rather than a grade on your worth, and the dread that drove the avoidance shrinks."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A low balance can feel like a verdict on the person, not just the account.",
+      "source": "On why money triggers avoidance"
+    },
+    {
+      "text": "Because looking away genuinely works as anxiety relief, the behaviour quietly trains itself.",
+      "source": "On how the habit grows"
+    }
+  ],
   "faqs": [
     {
       "question": "Is avoiding my bank account a sign of a bigger problem?",

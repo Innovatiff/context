@@ -39,6 +39,54 @@
     { "value": "Lower wellbeing", "label": "Effect of neighbours earning more, holding own income constant", "source": "Luttmer, 2005" },
     { "value": "Roughly flat", "label": "Average national happiness despite decades of rising income", "source": "Easterlin paradox" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Money reads as a scorecard because it's the most visible, quantifiable marker of standing available.",
+    "People weigh relative income heavily — many say they'd earn less absolutely to out-earn those around them.",
+    "The score never settles: reference points rise with you, so financial milestones give a satisfaction that fades.",
+    "Once needs are met, absolute wealth is only weakly tied to happiness — much of the pull is comparison, not money.",
+    "Comparison-resistant uses of money — experiences, time, spending on others — tend to outlast status spending."
+  ],
+  "tables": [
+    {
+      "title": "The positional-income choice",
+      "caption": "In the Solnick and Hemenway survey, a substantial share preferred World A — less money in absolute terms, but more than the people around them. Choosing away from higher absolute income shows how much relative position, not just amount, can matter. Treat the exact figures as illustrative of the choice, not a claim about your own trade-off.",
+      "columns": ["", "Your income", "What others earn"],
+      "rows": [
+        ["World A (many preferred this)", "$50,000", "$25,000"],
+        ["World B (higher absolute income)", "$100,000", "$200,000"]
+      ],
+      "highlightColumn": 1,
+      "source": "Solnick & Hemenway (1998)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The one area that hands you numbers",
+      "body": "You can't easily score how good a friend, parent or person you are — those don't come with a figure. Income, titles and possessions do, and they can be displayed. So money quietly becomes the default answer to 'how am I doing,' not because it measures a good life but because it's the metric that's legible."
+    },
+    {
+      "label": "The trap",
+      "title": "The level that reveals the next level",
+      "body": "Hitting a financial milestone tends to deliver a brief satisfaction that fades as the reference point climbs with you. Each tier reveals a higher one, so 'enough to feel like you're winning' keeps receding — which is why more points so rarely produces the closure people expect."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading wealth off a driveway",
+      "body": "Comparing your real finances to a neighbour's new car compares your inside knowledge to their outward signal. Visible spending — often debt-financed — is a poor proxy for net worth, so the score you're keeping runs on bad data and tends to feel worse than any honest comparison would."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The scorecard feeling is genuine — but the game it implies, that more points means a better life, is not well supported by the evidence.",
+      "source": "On money and wellbeing"
+    },
+    {
+      "text": "Money is a positional good: its felt value depends partly on where it places you against others — which is exactly why the score keeps feeling unsatisfying.",
+      "source": "On relative income"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does money feel like a measure of how I'm doing?",

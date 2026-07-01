@@ -40,6 +40,36 @@
     { "value": "Decoy effect", "label": "A worse option steers choice by reshaping the comparison set", "source": "Dan Ariely" },
     { "value": "Actual price", "label": "The honest test: would you want it at the price you'd really pay?", "source": "Behavioral pricing logic" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Anchoring makes the struck-through 'original' price your reference point, so the sale price reads as a gain.",
+    "Framing swaps 'should I spend?' for 'should I capture this saving?' — and we act more readily to secure a saving.",
+    "The honest test: with no anchor and no countdown, would you want it at the price you'd actually pay?",
+    "A bigger 'percent off' is a bigger anchor, not a better decision — it intensifies the saving frame.",
+    "Track total spent, not total 'saved' — money leaves based on what you spent, not what you avoided."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'Was $200, now $100'",
+      "body": "The $200 anchor becomes the number your mind measures against, so $100 reads as a $100 gain rather than a $100 expense. The object hasn't changed value — only the comparison point has. Strip the anchor away and ask whether you'd buy it at $100 on an ordinary day with no discount showing. If not, the sale didn't help you; it sold you."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The countdown that skips the question",
+      "body": "A 'only a few left' banner and a ticking timer compress the time available to deliberate, and deliberation is exactly what reveals whether you actually wanted the item. The decision lands in the window where the saving feels most real and 'do I even want this?' has least time to surface. Adding a short waiting period — a list you revisit later — usually drains the appeal that only existed under urgency."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The discount doesn't change the object; it changes the comparison.",
+      "source": "On anchoring"
+    },
+    {
+      "text": "A saving on something you would not otherwise have bought is not a saving — it is spending you were steered into.",
+      "source": "On the 'I saved money by spending money' illusion"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does a discount feel like such a good deal?",

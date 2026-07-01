@@ -39,6 +39,36 @@
     { "value": "Most underperform", "label": "Share of active funds beaten by low-cost index funds after fees, long term", "source": "Long-run active-vs-index research" },
     { "value": "Active traders lag", "label": "Frequent individual traders tend to earn lower returns", "source": "Barber & Odean, individual-investor research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Boring habits work because they remove the moments where human judgment does the most damage.",
+    "Automation beats willpower: people save far more when saving is the default than a monthly choice.",
+    "After fees, most active funds trail low-cost index funds over long periods.",
+    "Frequent traders tend to underperform — buying after rises and selling after falls costs money.",
+    "Consistency and low cost beat cleverness and activity for most people, not because they're sophisticated but because they take the decision out of your hands."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The contribution you never have to decide on",
+      "body": "A fixed amount routes to savings automatically the day pay lands, before it's ever available to spend. There's no monthly willpower test and no chance to skip it, so it quietly compounds in the background. It feels like doing nothing — which is exactly why it works."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'clever move' that behaves like a fee",
+      "body": "Someone moves in and out of the market trying to catch highs and lows. The activity feels like skill, but the decisions tend to be wrong in predictable ways — buying after prices rise, selling after they fall. Meanwhile a person who automated and left things alone, with no story to tell, quietly comes out ahead. Activity feels like skill but usually behaves like a fee."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The 'strategy' is mostly the absence of one.",
+      "source": "On low-cost, leave-it-alone investing"
+    },
+    {
+      "text": "Activity feels like skill but usually behaves like a fee.",
+      "source": "On frequent trading"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does automating my money work so well?",

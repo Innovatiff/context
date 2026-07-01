@@ -39,6 +39,35 @@
     { "value": "Daily > annual", "label": "Everyday psychological detachment predicts wellbeing and performance more durably than rare big breaks", "source": "Sonnentag et al., recovery research" },
     { "value": "Diminishing returns", "label": "Output per hour falls as weekly hours rise past a point", "source": "Research on overwork and performance" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Recovery is an input to performance, not the reward you earn after it.",
+    "A single vacation gives a real but short-lived boost that usually fades within days to weeks.",
+    "Everyday psychological detachment — genuinely switching off after work — matters more than rare big breaks.",
+    "Past a point, longer hours bring diminishing and eventually negative returns.",
+    "Frequent, genuinely restorative recovery fits the evidence better than banking it all into one trip."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The annual reset that never lasts",
+      "body": "Someone saves all their leave for one two-week holiday, comes back genuinely refreshed, and finds the calm gone within a fortnight. It can feel like proof that rest 'doesn't work' — but the fade is exactly what the vacation research predicts: a single large dose doesn't last. Expecting one trip to undo months of strain sets up an unfair test."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Off the clock, still tethered",
+      "body": "A weekend spent physically at home but mentally on — checking messages, replaying Monday's meeting — barely recovers anything, because it is the psychological detachment, not the location, that restores you. The same two days spent genuinely absorbed in something else do far more, even though the calendar looks identical."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Rest is not lost productive time — it is the maintenance that keeps the productive time productive.",
+      "source": "On recovery as an input to performance"
+    },
+    {
+      "text": "The rest that compounds is the everyday kind, not the once-a-year kind."
+    }
+  ],
   "faqs": [
     {
       "question": "Does taking a vacation actually make you more productive when you get back?",

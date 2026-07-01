@@ -39,6 +39,49 @@
     { "value": "Left digit", "label": "Where attention disproportionately lands when reading a price", "source": "Thomas & Morwitz, left-digit effect" },
     { "value": "Ends in 9", "label": "Common pricing convention learned as a 'discount' cue", "source": "Research on charm / psychological pricing" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "We read prices left to right and over-weight the first digit, so $9.99 files as 'nine-something,' not 'basically ten.'",
+    "The one-cent difference registers as far larger than it is — that gap is the whole point (the left-digit effect).",
+    "A 9-ending has become a learned 'discount' cue through repetition, even when nothing is on sale.",
+    "Knowing the trick doesn't switch it off; rounding the price up in your head is what neutralises it.",
+    "On any single item the penny is trivial — the technique works because it's applied to almost every price you see."
+  ],
+  "tables": [
+    {
+      "title": "Why the same one-cent drop feels different",
+      "caption": "In Thomas and Morwitz's work, the identical one-cent reduction felt larger when it crossed the leftmost digit than when it didn't. The saving is a penny in both rows — the difference is entirely in perception.",
+      "columns": ["Price drop", "Amount saved", "Crosses the left digit?"],
+      "rows": [
+        ["$3.00 → $2.99", "1¢", "Yes — felt larger"],
+        ["$3.49 → $3.48", "1¢", "No — felt smaller"]
+      ],
+      "highlightColumn": 2,
+      "source": "Thomas & Morwitz (2005), left-digit effect"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The glance that rounds down",
+      "body": "Scanning a shelf quickly, your attention front-loads onto the first digit or two. That first glance sets an anchor — 'nine dollars' — and the cents that follow get rounded down in your mind rather than up. The result is a price that feels meaningfully cheaper than the round number a penny above it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading $9.99 as $10",
+      "body": "The simplest research-aligned habit is to mentally cross the boundary the price was built to avoid: read $9.99 as $10 and $19.99 as $20. That restores the magnitude your quick glance shaved off — and because the effect runs fast and below deliberate attention, the habit matters more than simply knowing the trick exists."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The actual saving is one cent. The difference is entirely in perception.",
+      "source": "On the left-digit effect"
+    },
+    {
+      "text": "A price ending in 9 tells you almost nothing about whether something is actually discounted.",
+      "source": "On the 'deal' cue"
+    }
+  ],
   "faqs": [
     {
       "question": "Why is $9.99 so much more appealing than $10.00?",

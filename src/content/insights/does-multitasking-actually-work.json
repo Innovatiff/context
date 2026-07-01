@@ -40,6 +40,41 @@
     { "value": "Reconfiguration", "label": "What each task switch requires the mind to do, taking real time", "source": "Meyer & Kieras, task-switching research" },
     { "value": "Automatic + demanding", "label": "The one pairing that genuinely works (e.g., walking while talking)", "source": "Cognitive psychology of dual tasks" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For two attention-demanding tasks, 'multitasking' is really fast switching — and switching reliably adds time and errors.",
+    "Each switch forces the mind to reconfigure, dropping one set of rules and loading another, which takes real time.",
+    "Ophir, Nass & Wagner (2009) found heavy media multitaskers were worse, not better, at filtering distraction and switching.",
+    "The one pairing that works is one automatic task with one demanding task, like walking while talking.",
+    "It feels productive because switching is fast and invisible and busyness reads as accomplishment — but throughput lags."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The switch you never feel",
+      "body": "Toggling between an email and a meeting feels like doing both at once, but each switch quietly makes the mind drop one set of rules and load another. Those reconfiguration costs are fractions of a second you don't perceive — which is exactly why the toggling feels like simultaneity even as the actual output falls behind."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'This slows other people down, but not me'",
+      "body": "The person most confident in their multitasking is often doing it most — and that's the intuition the evidence most directly undercuts. Ophir, Nass and Wagner found heavy media multitaskers were worse at filtering distraction and switching, not better. Confidence in the skill and actual performance don't reliably move together."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Automatic plus demanding, not demanding plus demanding",
+      "body": "Folding laundry while listening to a podcast works because folding is automatic and leans on spare capacity. Writing an email while following a meeting doesn't, because both compete for the same limited attention. The honest rule is to pair one automatic task with one demanding one — never two demanding ones."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What people experience as multitasking is usually fast switching between tasks — and each switch carries a cost in time and errors.",
+      "source": "On switch cost"
+    },
+    {
+      "text": "The people who multitasked the most were not the most skilled at it.",
+      "source": "On Ophir, Nass & Wagner (2009)"
+    }
+  ],
   "faqs": [
     {
       "question": "So is multitasking ever actually possible?",

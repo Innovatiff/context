@@ -39,6 +39,31 @@
     { "value": "Switch cost", "label": "Measurable loss in speed and accuracy each time you change tasks", "source": "Research on task-switching" },
     { "value": "Fewer, deeper", "label": "Direction favoured by essentialism and deep-work arguments", "source": "McKeown; Newport" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Focus and prioritization tend to beat sheer volume — 'doing less' means cutting low-value busywork, not lowering ambition.",
+    "The 80/20 split is a rough heuristic, not a precise law: returns are often uneven, but the exact ratio rarely holds.",
+    "The firmer evidence is the cost of the opposite — task-switching imposes measurable switch costs that accumulate across a fragmented day.",
+    "Busyness is visible and prioritization is not, so adding more feels safer even when it produces less."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A full calendar that produces little",
+      "body": "Clearing a dozen easy, low-value tasks delivers quick hits of completion and looks like productivity, while the few high-value tasks — larger, slower, more uncomfortable — keep getting deferred. The drift toward the trivial is rewarding in the moment, which is exactly why a busy day can leave the things that matter undone."
+    },
+    {
+      "label": "The move",
+      "title": "Protecting one uninterrupted block",
+      "body": "Because switching between tasks carries a real cost each time, batching similar work and shielding a focused block from interruption tends to raise both the quality and quantity of output more than squeezing extra small tasks into the gaps. The active skill is saying no to the merely good to make room for the genuinely important — a habit of editing commitments back down, not a one-off decision."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Doing fewer things, more deliberately, usually gets more of the things that matter done.",
+      "source": "On focus over volume"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the 80/20 rule actually true?",

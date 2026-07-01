@@ -39,6 +39,39 @@
     { "value": "Bandwidth tax", "label": "How financial strain itself degrades decision-making", "source": "Mullainathan & Shafir, 'Scarcity'" },
     { "value": "Save More Tomorrow", "label": "Pre-commitment program that sharply raised saving rates", "source": "Thaler & Benartzi" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Saving is hard for structural and psychological reasons, not weak willpower.",
+    "Present bias means the brain overweights an immediate reward over a larger future one, so spending now routinely beats saving for a distant self.",
+    "Scarcity itself taxes mental bandwidth — being short on money makes the very decisions that could ease it harder.",
+    "The interventions that work remove the moment of temptation: automation and pre-commitment, not more discipline.",
+    "Treating saving difficulty as a moral failing adds shame, which drains the bandwidth strain has already reduced."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A real coffee now vs. abstract security later",
+      "body": "When you choose to spend, your brain is comparing a concrete, immediate reward to a distant, uncertain, unfelt one. Present bias means that comparison is not a fair fight — the pull toward now is the default setting, not a lapse in character. You experience the individual decision to spend, but not the invisible forces stacked behind it, so the natural (and mistaken) conclusion is that you simply lack discipline."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The budget that collapses under strain",
+      "body": [
+        "Someone under financial pressure sets up an elaborate, high-effort budgeting system that demands constant attention. It works for a week or two, then quietly falls apart — because it assumes a surplus of cognitive bandwidth that scarcity has already spent.",
+        "The research points to the opposite design: reduce reliance on willpower rather than demand more of it. Moving money into savings automatically, before it reaches the spending account, removes the repeated moment of temptation and lets the default work in your favour instead of against it."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The interventions that succeed remove the moment of choice rather than win it.",
+      "source": "On why willpower alone fails"
+    },
+    {
+      "text": "The pull toward now is not weakness; it is the default setting.",
+      "source": "On present bias"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to find saving really hard?",

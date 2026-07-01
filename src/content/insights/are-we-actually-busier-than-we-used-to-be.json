@@ -39,6 +39,32 @@
     { "value": "Relatively stable", "label": "Average shares of the day across work, chores and leisure", "source": "American Time Use Survey" },
     { "value": "Time famine", "label": "Documented rise in perceived time pressure even where hours held steady", "source": "Time-use research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "By the clock, average leisure has held up better than the 'busier than ever' story implies.",
+    "By the felt sense of rush and fragmentation, the 'time famine' is real — the gap between the two is the finding.",
+    "Scattered, interrupted free time feels far less restful than the same hours in solid blocks.",
+    "Busyness has become a status signal, so 'I'm so busy' gets broadcast regardless of the clock.",
+    "Busyness varies enormously by job and caregiving load — 'we're all busier' isn't a flat fact."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Two hours of leisure that don't feel like two hours",
+      "body": "An evening that holds roughly the same free time as a decade ago can still feel like none, because it arrives in scraps between chores and messages rather than in one unbroken block. The hours are on the diary; the restfulness isn't. That mismatch — quality, not just quantity — is much of what 'busier than ever' is describing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The badge of being busy",
+      "body": "Asked how they are, two people both answer 'so busy' almost reflexively — one genuinely stretched by caregiving and a demanding job, the other running a fairly ordinary week. Because visible busyness now reads as importance, the same script fits both. Telling apart a real hour shortage from a perception-and-quality problem is the practical step, since they call for different responses."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "By the clock, on average, not as much as it feels. By the felt sense of being rushed and never caught up, yes — and that gap is the most interesting finding.",
+      "source": "On 'are we busier?'"
+    }
+  ],
   "faqs": [
     {
       "question": "Are people actually busier than they used to be?",

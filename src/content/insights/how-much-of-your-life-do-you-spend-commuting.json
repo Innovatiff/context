@@ -40,6 +40,63 @@
     { "value": "~200+ hrs/yr", "label": "Rough commuting time per working year (estimate)", "source": "Illustrative arithmetic from average commute" },
     { "value": "Lower wellbeing", "label": "Average association between longer commutes and life satisfaction", "source": "Stutzer & Frey, 2008" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The average U.S. one-way commute is roughly 27 minutes, so a typical round-trip is about 50–55 minutes a day.",
+    "At the average, that lands a little over 200 hours a year — and plausibly a year or more of waking time across a career.",
+    "Every lifetime total is an illustrative estimate that swings widely with remote days, schedule, and trip length.",
+    "The time isn't neutral: longer commutes are linked, on average, to lower life satisfaction, and often aren't offset by pay or cheaper housing."
+  ],
+  "tables": [
+    {
+      "title": "Building the commute total from the average",
+      "caption": "Transparent arithmetic from the Census mean travel time, not a single dramatic headline. Every step past the one-way average is an illustrative estimate that shifts with your own days, schedule, and route.",
+      "columns": ["Step", "Typical figure"],
+      "rows": [
+        ["One-way commute (U.S. mean)", "≈ 27 min"],
+        ["Round-trip per day", "≈ 50–55 min"],
+        ["Working days per year (assumed)", "≈ 230"],
+        ["Commuting time per year", "≈ 200+ hrs"],
+        ["Across a multi-decade career", "≈ a year or more of waking time"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Census Bureau mean travel time to work; illustrative arithmetic from the average"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How the daily minutes stack into a year",
+      "caption": "The same figures as bars. The one-way average doubles for the return trip, and the daily total accumulates into a large annual figure that almost no one counts.",
+      "unit": "minutes per day",
+      "source": "U.S. Census Bureau mean travel time to work; illustrative round-trip derived from the average",
+      "bars": [
+        { "label": "One-way commute", "value": 27, "display": "≈27 min" },
+        { "label": "Round-trip per day", "value": 54, "display": "≈50–55 min" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A 55-minute round-trip, five days a week",
+      "body": "At roughly the U.S. average, this is about 50–55 minutes of travel a day. Across roughly 230 working days that lands a little over 200 hours a year — one of the largest single uses of waking time that almost no one counts, precisely because it arrives in small daily pieces rather than one visible block."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The cheaper house an hour out",
+      "body": "Trading a shorter commute for a lower rent or mortgage feels like a clear win when the numbers are lined up one at a time. But the commuting-paradox research suggests the extra money or space often fails, on average, to fully compensate for the daily cost in wellbeing — which is why weighing commute length explicitly, not just rent and salary, is a reasonable correction."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Commuting is one of the largest single uses of waking time that almost no one counts — because it hides in small daily pieces.",
+      "source": "On why the cost stays invisible"
+    },
+    {
+      "text": "The time matters twice: once as hours, and again as some of the lower-rated hours you spend.",
+      "source": "On the wellbeing evidence"
+    }
+  ],
   "faqs": [
     {
       "question": "How much time does the average person spend commuting?",

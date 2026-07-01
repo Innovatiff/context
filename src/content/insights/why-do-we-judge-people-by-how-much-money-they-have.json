@@ -34,6 +34,36 @@
     "There are no clean headline statistics for a phenomenon this much about perception, and it would be dishonest to invent precise figures. What the research converges on is a pattern rather than a number: money cues reliably raise perceived competence and status (the warmth-competence model), the just-world bias nudges us to read outcomes as deserved, and visible consumption is consistently a poor proxy for actual wealth.",
     "The honest takeaway is that these judgments are fast, automatic, and frequently wrong. Wealth is heavily shaped by luck and starting point, and the visible signals we lean on — the car, the clothes, the holidays — are often debt-financed and disconnected from real net worth. Judging a person by their money is a common cognitive shortcut, not an accurate read of who they are."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wealth works as a fast, automatic shortcut for competence, status, and worth — and it is often wrong.",
+    "The warmth-competence model finds money cues raise perceived competence but can lower perceived warmth.",
+    "The just-world bias nudges us to read wealth as earned and hardship as deserved — a distortion, not fairness.",
+    "Visible spending is one of the least reliable indicators of actual wealth; much of it is debt-financed.",
+    "Keeping luck and starting point in view produces a more accurate and more generous read of others."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The confident-looking signal that reads as data",
+      "body": "The car, the clothes, the holidays arrive as a constant stream of status signals, and we read them at a glance as evidence of wealth and success. But conspicuous consumption is a poor proxy for actual finances — much of it is debt-financed, and research on the genuinely wealthy finds many spend modestly. The people who look the most financially successful are not dependably the ones with the most money."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading an outcome as a verdict",
+      "body": "Assuming someone wealthy must have earned it, and someone struggling must deserve it, feels like simple realism rather than prejudice. That is the just-world bias at work: it turns financial outcomes into moral verdicts and ignores how much is shaped by luck, timing, and starting point. Keeping the role of circumstance in view counters the automatic judgment."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Judging someone by their money tells you very little reliable about them.",
+      "source": "On wealth as a proxy for worth"
+    },
+    {
+      "text": "The judgment is common and human; it is just not an accurate read of a person.",
+      "source": "On automatic status inferences"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do we assume rich people are more competent?",

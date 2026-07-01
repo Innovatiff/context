@@ -40,6 +40,40 @@
     { "value": "Maintained or improved", "label": "Productivity reported by most firms in the UK four-day-week pilot", "source": "4 Day Week Global / UK pilot, 2022 (self-selected)" },
     { "value": "Promising, early", "label": "Strength of four-day-week evidence so far", "source": "Self-selected, uncontrolled pilots" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Output rises with hours only up to a threshold, then flattens and eventually declines.",
+    "Past roughly 50 hours a week, extra time adds almost nothing to total output (Pencavel, 2015).",
+    "Four-day-week pilots are encouraging, but early, self-selected, and uncontrolled — not settled proof.",
+    "Where shorter weeks worked, the gains came largely from removing waste, not just from the day off.",
+    "Simply cutting hours without cutting low-value work tends to compress stress rather than raise output."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "55 hours versus 70",
+      "body": "Two weeks look very different on a timesheet, but Pencavel's analysis implies the actual output gap between them is far smaller than the fifteen extra hours suggest — most of that added time is tired, low-value work. The hours past roughly 50 a week are the ones most worth questioning."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The two-hour evening that should have been forty minutes",
+      "body": "A task drags on for two hours late in a long week when it would have taken forty minutes fresh. You see the two hours you spent, not the productivity fatigue quietly took. The decline past the threshold is real but largely invisible from the inside — which is why long weeks still feel productive."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A shorter week that just compressed the stress",
+      "body": "A team cuts to four days but changes nothing else — same meetings, same interruptions, same workload crammed into less time. It tends to fail, because the successful pilots paired the shorter schedule with cutting low-value meetings and protecting focus. Shortening the week without removing waste is the version least likely to work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Past a point, you are mostly adding tired, low-value time.",
+      "source": "On diminishing returns to long hours"
+    },
+    {
+      "text": "The four-day-week pilots are arguably as much about removing waste as about the day off."
+    }
+  ],
   "faqs": [
     {
       "question": "Do fewer hours really make you more productive?",

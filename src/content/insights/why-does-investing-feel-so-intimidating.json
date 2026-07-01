@@ -39,6 +39,39 @@
     { "value": "A minority", "label": "Adults answering the basic financial-literacy questions fully correctly", "source": "Lusardi & Mitchell" },
     { "value": "Tends to lag", "label": "Performance of frequent individual trading vs. a low-cost hold approach", "source": "Investor-behaviour research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Investing feels harder than it is because of jargon, literacy gaps, and loss aversion — not because the core ideas are genuinely difficult.",
+    "Losses feel roughly twice as painful as equal gains feel good, so normal market dips register as alarming.",
+    "The fundamentals a long-horizon saver needs are few: compounding, diversification, the impact of fees, and volatility vs. long-term return.",
+    "Automating contributions and looking less often during downturns are the best-supported ways to make investing feel manageable.",
+    "Trying to become an expert before starting, or trading frequently to beat the market, tends to deepen paralysis or lag a simple hold approach."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why a 10% dip feels like an emergency",
+      "body": "Because losses register roughly twice as sharply as equivalent gains, a paper loss during a normal dip feels disproportionately alarming — while the slow compounding that does the real work stays abstract and easy to discount. The emotional weight of investing ends up skewed toward its scariest moments rather than its dominant long-run pattern, which is exactly what makes staying invested feel harder than the numbers suggest."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Waiting to feel 'ready' before starting",
+      "body": [
+        "Someone reads market commentary for months, waiting to feel fully confident before opening an account. Because the field is effectively bottomless and most of it is irrelevant to a basic long-horizon plan, the confidence never arrives — the studying deepens the paralysis instead of resolving it.",
+        "The pattern the research describes runs the other way: confidence tends to follow simple action rather than precede comprehensive study. Learning a few fundamentals and automating a regular contribution reduces the decisions that make investing feel overwhelming. This is general context, not personal advice."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The intimidation is a reasonable response to confusing presentation and real emotional discomfort, not evidence that you are missing some specialist competence.",
+      "source": "On the perception gap"
+    },
+    {
+      "text": "For long-horizon money it is usually the impulse, not the dip, that does the damage.",
+      "source": "On reacting to volatility"
+    }
+  ],
   "faqs": [
     {
       "question": "Is investing actually as complicated as it seems?",

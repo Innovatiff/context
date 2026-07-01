@@ -34,6 +34,34 @@
     "The effect is real but should be held as a tendency rather than a fixed quantity. Studies of mood spillover and the start-of-day-mood research describe a meaningful but partial influence — the morning explains some of the variation in how the day feels, alongside the actual events of the day, not all of it. There is no credible 'a bad morning costs you the whole day' figure.",
     "Sleep is the clearer, more measurable upstream input: research reliably links worse sleep the night before with lower next-day mood and energy. So if mornings often start badly, the most evidence-backed place to look is frequently the night before, not the first hour of the day itself."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Morning mood tends to carry over into the day — it's real momentum, but partial, not a verdict on the whole day.",
+    "One workplace study found start-of-day mood influenced mood and performance partly independent of the day's actual events.",
+    "Reappraisal — naming a rough start as 'a bad morning', not 'a bad day' — is one of the better-supported ways to break the spillover.",
+    "Sleep is upstream of morning mood, so a good start often begins the evening before."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The morning as a tinted lens",
+      "body": "Start out irritated or rushed and the early mood acts like a lens, making later neutral events read as slightly more negative — which seems to confirm the whole day is going badly. That's a self-reinforcing loop, not a fixed outcome. The carryover is modest, so a reset or an ordinary good event later can break the chain."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A bad morning that wasn't a bad day",
+      "body": "Someone spills coffee and misses a bus and decides the day is already ruined — then, believing it's lost, skips the small resets that would have interrupted the slump. Renaming it as 'a bad morning' rather than 'a bad day' is exactly the reappraisal the research supports, and it's often enough to stop the early state from tinting everything that follows."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The spillover is real and modest — momentum, not fate. A good start has a small head start; a bad one a small drag you can interrupt.",
+      "source": "On morning mood carryover"
+    },
+    {
+      "text": "Part of what looks like a 'bad morning' is really the previous night showing up — which is why a good start often begins the evening before."
+    }
+  ],
   "faqs": [
     {
       "question": "Does a bad morning really ruin the whole day?",

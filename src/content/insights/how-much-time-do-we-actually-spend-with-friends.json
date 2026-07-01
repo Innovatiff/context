@@ -39,6 +39,36 @@
     { "value": "Midlife low", "label": "When direct time with friends tends to bottom out across adulthood", "source": "American Time Use Survey" },
     { "value": "~2 decades", "label": "Period over which time with friends fell substantially, esp. for young adults", "source": "U.S. Surgeon General Advisory, 2023" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Direct time with friends appears to peak in the late teens — on the order of an hour or more a day — then decline steeply through adulthood.",
+    "It tends to bottom out in midlife as work, partners, children and chores take over the day, recovering modestly later in life.",
+    "Read the figures as a shape, not a fixed schedule — 'time with friends' is measured in different ways.",
+    "The decline shows up for nearly everyone, so it's a life-course pattern, not a personal failing.",
+    "Consistency beats intensity: small, regular contact sustains closeness better than rare, elaborate occasions."
+  ],
+  "examples": [
+    {
+      "label": "The shift",
+      "title": "When shared structure does the scheduling",
+      "body": "In your late teens, school, first jobs and living nearby quietly arrange the daily, effortless contact that friendships run on. When that structure dissolves in adulthood, the time doesn't transfer to friendships automatically — it gets absorbed by everything else, which is why the drop can feel sudden even though the data shows it as gradual and near-universal."
+    },
+    {
+      "label": "What tends to work",
+      "title": "The standing arrangement that survives a full day",
+      "body": "A weekly call, a regular walk, or a fixed monthly dinner tends to outlast open-ended intentions to 'catch up soon,' which rarely convert into time on the calendar. Pairing friendship with something you already do — a commute, an errand, a meal — lets it ride along with existing routines instead of competing for scarce free hours."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Spending less time with friends as you age is ordinary — most adults are quietly experiencing the same shift at the same time.",
+      "source": "On the life-course pattern"
+    },
+    {
+      "text": "Friendships that depend on found time tend to fade; those that get scheduled tend to last.",
+      "source": "On what actually helps"
+    }
+  ],
   "faqs": [
     {
       "question": "When do people spend the most time with friends?",

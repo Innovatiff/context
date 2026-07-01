@@ -39,6 +39,36 @@
     { "value": "Predicts wellbeing", "label": "Feeling time-affluent (unhurried), sometimes more than material affluence", "source": "Kasser & Sheldon, time affluence" },
     { "value": "Sweet spot", "label": "Both too little and too much free time linked to lower wellbeing", "source": "Free-time research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Savoring — deliberately attending to and prolonging good moments — is linked to higher happiness from the same experiences.",
+    "Feeling time-affluent (unhurried) predicts wellbeing, in some studies as well as or better than material affluence.",
+    "The effects are modest and largely correlational — a consistent lean, not a settled law — and 'hurry sickness' is a soft construct.",
+    "There is a sweet spot: too little engagement lowers wellbeing too, so the aim is less rush with meaningful activity, not idleness.",
+    "The freedom to slow down is unevenly distributed, so slow living is not a one-size-fits-all prescription."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The same meal, rushed or savored",
+      "body": "The same pleasant event yields more wellbeing when you slow down and attend to it than when you rush past it. Savoring is a practice rather than a circumstance — noticing and prolonging a meal, a walk, time with someone — which is why the research suggests it's available even on a full schedule."
+    },
+    {
+      "label": "Illustrative",
+      "title": "An emptied calendar that feels worse, not better",
+      "body": "Someone clears their schedule expecting relief and instead feels flat. That fits the free-time research: both too little and too much unstructured time are linked to lower wellbeing. The gains come from reducing hurry and savoring while engaged — not from minimizing activity, which beyond a point can lower wellbeing rather than raise it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The same pleasant event yields more wellbeing when you slow down and attend to it than when you rush past it.",
+      "source": "On savoring"
+    },
+    {
+      "text": "Slowing down and savoring tend to help, the ability to do so is not equally available, and the goal is less rush with enough meaningful engagement — not idleness.",
+      "source": "The fair summary"
+    }
+  ],
   "faqs": [
     {
       "question": "Does slowing down actually improve wellbeing?",

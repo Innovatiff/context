@@ -40,6 +40,63 @@
     { "value": "Purpose matters", "label": "What kept abundant free time from lowering wellbeing", "source": "Sharif, Mogilner & Hershfield, JPSP 2021" },
     { "value": "~5 hours/day", "label": "Average U.S. leisure and sports time (much of it television)", "source": "American Time Use Survey" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "There appears to be a sweet spot: wellbeing rose with free time up to about two hours a day, then flattened.",
+    "With much more free time — roughly five-plus hours a day — wellbeing tended to level off or decline.",
+    "The decline mostly appeared when the extra time felt unproductive or was spent alone; purpose and connection held its value.",
+    "The steepest gains are at the low end — recovering a little un-rushed time matters most when you have almost none.",
+    "Beyond enough to feel un-rushed, what you do with free time matters as much as how much you have."
+  ],
+  "tables": [
+    {
+      "title": "The free-time sweet spot, in rough figures",
+      "caption": "Approximate patterns from Sharif, Mogilner & Hershfield (2021), with everyday context from the American Time Use Survey. The wellbeing figures rest largely on one body of work, so read them as a rough direction, not a precise rule.",
+      "columns": ["Amount of free time per day", "What the research associates with it"],
+      "rows": [
+        ["Very little", "Lower wellbeing"],
+        ["≈ 2 hours", "Most of the wellbeing benefit"],
+        ["≈ 5+ hours", "Levels off or declines, especially if aimless or alone"],
+        ["≈ 5 hours (U.S. average leisure)", "Broad leisure measure, much of it television"]
+      ],
+      "highlightColumn": 1,
+      "source": "Sharif, Mogilner & Hershfield, JPSP (2021); American Time Use Survey"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Where the wellbeing benefit sits",
+      "caption": "The approximate hour figures from the research as bars. Wellbeing climbs steeply at the low end, captures most of its benefit by around two hours, and can slip past roughly five — depending on how the time is used.",
+      "unit": "hours/day",
+      "source": "Sharif, Mogilner & Hershfield (2021)",
+      "bars": [
+        { "label": "Most of the benefit", "value": 2, "display": "≈2 hrs", "highlight": true },
+        { "label": "Levels off / declines", "value": 5, "display": "≈5+ hrs" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The time-poor parent who reclaims an hour",
+      "body": "For someone with almost no un-rushed time, the biggest gains are at the low end of the curve: going from nearly zero to a couple of genuinely free hours is where the research associates the largest improvement. The more useful lever isn't overhauling the whole schedule — it's recovering a modest amount of un-rushed time, which matters far more here than adding hours would once free time is already plentiful."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The newly retired week with too much shapeless time",
+      "body": "A sudden abundance of free time can feel emptier than expected. The research points to why: the same hour is restorative or aimless depending on what fills it. Free time that's social or carries a sense of purpose holds its value even in large amounts, while passive, solitary, aimless time is the version most linked to lower wellbeing — so building in some structure or connection is what the data associates with avoiding the decline at the top."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Having very little free time is associated with lower wellbeing, but so, somewhat surprisingly, is having a great deal of it.",
+      "source": "On the sweet spot"
+    },
+    {
+      "text": "'Too much free time' is less about the clock than about a sense of purpose.",
+      "source": "On what fills the hours"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there really such a thing as too much free time?",

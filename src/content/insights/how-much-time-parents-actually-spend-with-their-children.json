@@ -40,6 +40,34 @@
     { "value": "~1–2 hrs/day", "label": "Dedicated childcare averaged across all days (varies by survey and child's age)", "source": "American Time Use Survey" },
     { "value": "Weak on its own", "label": "Link between sheer quantity of parental time (ages 3–11) and children's outcomes", "source": "Milkie, Nomaguchi & Denny, 2015" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Parents today spend more hands-on time with children than in the 1960s — mothers more, and fathers' time up several times over.",
+    "The common feeling of doing too little runs against the trend, largely because the 'intensive parenting' bar has climbed.",
+    "For ages 3–11, the sheer quantity of parental time is, on its own, only weakly tied to how children fare (Milkie et al., 2015).",
+    "Parental stress and feeling rushed showed links to worse outcomes — so a guilt-driven push for more hours can backfire."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Doing more than your own parents did",
+      "body": "A working parent who feels they are never present enough is often, by the time-diary numbers, logging more hands-on childcare than a stay-at-home parent did in the 1960s. The felt shortfall is measured against a standard that has climbed, not against the actual hours going in."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The frazzled push for one more hour",
+      "body": "A parent trims their own sleep to squeeze in extra time, sure the hours are what count. The research points the other way: for children aged 3 to 11 the raw quantity of time was weakly tied to outcomes on its own, while parental stress and a sense of being rushed were not. Protecting your own rest can be the more evidence-based choice."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The widespread feeling that you are not giving your children enough is running against the actual trend, not with it.",
+      "source": "On parental guilt"
+    },
+    {
+      "text": "What children most need is a stable, responsive, low-conflict relationship — not a maximised hour count."
+    }
+  ],
   "faqs": [
     {
       "question": "Do parents really spend more time with kids now than in the past?",

@@ -40,6 +40,62 @@
     { "value": "~12–13%", "label": "Share of spending on food", "source": "U.S. BLS, Consumer Expenditure Survey" },
     { "value": "~4–5%", "label": "Recent U.S. personal saving rate (of disposable income)", "source": "U.S. Bureau of Economic Analysis" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Housing alone takes roughly a third of household spending — the single largest category by far.",
+    "Transportation (~16–17%) and food (~12–13%) are next, so three necessities dominate the paycheck.",
+    "The large majority of income is committed before any discretionary or saving choice is made.",
+    "The personal saving rate sits around 4–5% — a thin slice left over is the normal result, not a failing.",
+    "The big committed categories, not small daily luxuries, are where budgets are actually decided."
+  ],
+  "tables": [
+    {
+      "title": "Where the average paycheck goes",
+      "caption": "Approximate shares of total household spending. Housing, transportation, and food are the three largest categories; healthcare and the insurance-and-pensions category make up much of the remainder. Necessities dominate before any discretionary choice.",
+      "columns": ["Spending category", "Approx. share of spending"],
+      "rows": [
+        ["Housing", "≈ 33%"],
+        ["Transportation", "≈ 16–17%"],
+        ["Food", "≈ 12–13%"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Bureau of Labor Statistics, Consumer Expenditure Survey"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "The three biggest bites of the paycheck",
+      "caption": "The same shares as bars, using the midpoint of each range. Housing dwarfs the rest, which is why changes to the largest committed categories move a budget far more than trimming small discretionary items.",
+      "source": "U.S. Bureau of Labor Statistics, Consumer Expenditure Survey",
+      "bars": [
+        { "label": "Housing", "value": 33, "display": "≈33%" },
+        { "label": "Transportation", "value": 16.5, "display": "≈16–17%" },
+        { "label": "Food", "value": 12.5, "display": "≈12–13%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The paycheck that 'disappears'",
+      "body": "A household feels like the money vanishes each month, yet nothing has been wasted. Housing takes roughly a third, transportation another sixth, and food an eighth — so the large majority is committed before a single discretionary decision. What feels like leakage is mostly the fixed cost of an ordinary life."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Cutting the coffee vs cutting the commute",
+      "body": "Trimming a daily coffee targets a minor share of spending and rarely changes the picture. The numbers point elsewhere: because housing and transportation together claim close to half the budget, a smaller rent or a cheaper way to get around moves the needle far more than any micro-frugality on small luxuries."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The sense that there is rarely much 'left over' is an accurate reading of the data, not a sign of overspending.",
+      "source": "On the ~4–5% saving rate"
+    },
+    {
+      "text": "The spending that gets blamed for 'where the money went' is usually the smallest part of it.",
+      "source": "On visible vs committed costs"
+    }
+  ],
   "faqs": [
     {
       "question": "What does the average household spend the most on?",

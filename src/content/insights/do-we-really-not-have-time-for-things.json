@@ -40,6 +40,45 @@
     { "value": "Several hours/day", "label": "Average time spent on screens and media", "source": "Time-use and media-use surveys" },
     { "value": "Estimate ≠ actual", "label": "People misjudge their own time use in time diaries", "source": "Time-diary research (incl. Laura Vanderkam)" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "On average, U.S. adults report roughly five hours a day of leisure and free time — more than the feeling of busyness suggests.",
+    "People consistently underestimate their discretionary time in diaries: estimate and actual diverge.",
+    "That free time is fragmented and often defaults to screens — several hours a day on average — rather than to stated priorities.",
+    "For carers, multiple-job holders, and others with heavy fixed obligations, time scarcity is genuinely real — the reframe distinguishes the two cases."
+  ],
+  "tables": [
+    {
+      "title": "Where the average U.S. day's discretionary time goes",
+      "caption": "Averages from time-use data conceal wide variation by employment, gender, and caregiving — some people have far less. The point is not that everyone is awash in time, but that the typical day holds more uncommitted time than the feeling of busyness implies, and much of it defaults to screens.",
+      "columns": ["Measure", "Typical amount"],
+      "rows": [
+        ["Leisure and free time reported by U.S. adults", "≈ 5 hours/day"],
+        ["Time spent on screens and passive media", "Several hours/day"],
+        ["Gap between estimated and actual time use", "People underestimate discretionary time"]
+      ],
+      "highlightColumn": 1,
+      "source": "American Time Use Survey (BLS); time-diary and media-use research"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'No time to read' — and three hours on a phone",
+      "body": "Someone certain they have no time for a book can keep a rough diary for a few days and find the roughly five hours of daily leisure the data predicts — arriving in scattered ten- and twenty-minute pieces, most of it spent on a phone because those fragments are easiest to pick up and put down. The time exists; it just doesn't feel like usable blocks until it's seen and reallocated."
+    },
+    {
+      "label": "The reframe",
+      "title": "'I don't have time' vs 'it isn't a priority right now'",
+      "body": "Swapping the first phrase for the second is an accuracy correction, not a productivity trick: it moves the situation from something happening to you to something you are choosing, which tends to restore agency. Sometimes the honest answer is that a thing genuinely isn't a priority — and that is fine to admit. The exception matters: for people with heavy non-negotiable obligations, the scarcity is real and the reframe doesn't apply."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The hours exist; they just don't feel like usable blocks. The issue is frequently not the absence of time but how the available time gets allocated — often automatically rather than deliberately.",
+      "source": "On fragmented free time"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true that most people have more free time than they think?",

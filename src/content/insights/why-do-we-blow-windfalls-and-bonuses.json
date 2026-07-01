@@ -40,6 +40,36 @@
     { "value": "Spent more freely", "label": "How windfall money is treated versus equivalent earned income", "source": "Research on windfall vs earned money spending" },
     { "value": "Pre-commit", "label": "Deciding a windfall's job before it arrives counters the effect", "source": "Behavioural economics / mental accounting" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We mentally tag money by its source and treat 'extra' money as more spendable than earned salary.",
+    "Bonuses, refunds, and gifts feel like winnings, triggering the looser 'house money' spending Thaler described.",
+    "This is a predictable mental-accounting quirk that affects careful spenders too — not weak willpower.",
+    "Pre-committing a windfall's job before it arrives is the most reliable counter to the effect.",
+    "Unassigned 'extra' money is the most spendable kind, so an undecided lump tends to leak away."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The bonus that felt like 'spare' money",
+      "body": "A careful saver who never touches their emergency fund spends a work bonus freely within weeks. The salary was already pre-spoken for — rent, bills, the usual life — but the bonus arrived unattached, read as 'spare,' and carried an emotional permission slip that ordinary earnings don't. The same amount saved monthly would likely have stayed saved."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Deciding the refund's job before it lands",
+      "body": "Before a tax refund arrives, someone assigns a set share to debt, a share to savings, and a named portion to guilt-free spending — then automates the split so the money is routed the moment it lands. The labelling happens on their terms rather than defaulting to 'fun money,' so the enjoyment is bounded and intentional rather than the whole sum quietly drifting into discretionary use."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It's just as much your money as any other, but it doesn't feel that way.",
+      "source": "On the mental-accounting illusion"
+    },
+    {
+      "text": "Money without a designated job is the most spendable kind.",
+      "source": "On leaving a windfall unassigned"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I spend a bonus or refund when I'd save the same amount from my paycheque?",

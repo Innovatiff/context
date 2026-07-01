@@ -40,6 +40,35 @@
     { "value": "We underestimate", "label": "People systematically underestimate how long tasks take", "source": "Kahneman & Tversky; Buehler et al., planning fallacy" },
     { "value": "Flexible > rigid", "label": "Rough, adaptable plans tend to beat minute-by-minute ones", "source": "Research on goal-setting and follow-through" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The best-supported form of planning is the implementation intention: deciding the specific when, where, and how of an action.",
+    "The planning fallacy means we systematically underestimate how long tasks take, so realistic, padded estimates hold up better.",
+    "Rigid, minute-by-minute schedules are brittle — one disruption cascades — and tend to backfire versus flexible plans.",
+    "Rough, intention-based plans that stay flexible tend to beat both no plan and over-controlled ones."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'I'll write more' vs 'if it's 9am, I'll write at my desk'",
+      "body": "A vague goal dissolves the moment a competing option appears. Turning it into an if-then intention — 'if it's 9am, I'll write for thirty minutes at my desk' — links a concrete cue to a concrete response, so you don't have to re-decide in the moment. That specificity is the single best-supported move for turning intention into action."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The color-coded schedule that breaks by mid-morning",
+      "body": "A day packed to the minute feels productive to build and gives a satisfying sense of control — which is exactly why over-planning is tempting. But with no slack, a single disruption cascades through the whole schedule, and the collapse can be more demoralising than not planning at all. Fixing a few key intentions and leaving room to adapt survives contact with reality."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What usually failed was the brittle, optimistic plan — not planning as such.",
+      "source": "On why planning feels useless"
+    },
+    {
+      "text": "Rough, intention-based plans tend to beat both no plan and over-controlled ones.",
+      "source": "On flexible vs. rigid planning"
+    }
+  ],
   "faqs": [
     {
       "question": "Does planning my day really make a difference?",

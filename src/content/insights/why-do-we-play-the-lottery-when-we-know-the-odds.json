@@ -39,6 +39,41 @@
     { "value": "Negative", "label": "Expected monetary value of a typical lottery ticket over time", "source": "Lottery economics" },
     { "value": "Regressive", "label": "Lottery spending takes a larger income share from poorer households", "source": "Research on lottery spending by income" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A ticket is bought as permission to imagine, not as an investment — days of hope for a small fixed cost.",
+    "Minds weight a vivid imagined jackpot far more heavily than its near-zero probability (probability neglect).",
+    "Publicised winners and unreported losses make winning feel far closer than the odds allow.",
+    "Buying more tickets and using lucky-number systems barely move a probability that starts effectively negligible.",
+    "The honest case for playing, if any, rests on treating it as capped entertainment spending, not a strategy."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "What the two dollars actually buys",
+      "body": "A ticket bought on Monday pays out all week — in the daydreaming it licenses before Saturday's draw. Most of the pleasure is consumed in that anticipation, which is why the eventual loss doesn't feel like the point. The imagining does the work, and it barely requires the ticket at all."
+    },
+    {
+      "label": "The trap",
+      "title": "The winners you see, the losses you don't",
+      "body": "Every jackpot has a name, a photo and a story; the millions of quiet losses are never reported. So the mental sample you draw on is made almost entirely of winners, and winning starts to feel attainable in a way the raw odds flatly contradict."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reciting the odds, then buying anyway",
+      "body": "Someone can state the odds correctly — one in hundreds of millions — and still feel the pull, because the pull was never driven by the probability. A math argument leaves the motivation untouched. What changes the behaviour is reframing the spending as entertainment and capping it, not out-arguing the daydream."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A ticket reliably buys hope and reliably loses money. The case for playing, if there is one, rests entirely on the former.",
+      "source": "On the honest summary"
+    },
+    {
+      "text": "Knowing the odds and being moved by them are two different things.",
+      "source": "On probability neglect"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do people play the lottery if they know they'll probably lose?",

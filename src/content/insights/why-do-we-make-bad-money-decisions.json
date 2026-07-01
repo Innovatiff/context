@@ -39,6 +39,36 @@
     { "value": "Present bias", "label": "Why distant saving feels weak and spending now feels easy", "source": "Behavioral economics research" },
     { "value": "Mental accounting", "label": "Why labeled 'buckets' of money get treated as non-interchangeable", "source": "Thaler" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Money mistakes are systematic and predictable, not evidence of being careless or unintelligent.",
+    "Loss aversion means a loss hurts roughly twice as much as an equivalent gain feels good.",
+    "Mental accounting files money into arbitrary buckets, so 'found' money like bonuses gets spent loosely.",
+    "Present bias weights rewards now far above larger rewards later, which is why saving feels hard.",
+    "The reliable fix is to design around the biases — automate, use defaults, add friction — not out-discipline them."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Debt in one bucket, savings in another",
+      "body": "Carrying a high-interest credit-card balance while keeping cash in a low-interest savings account looks irrational on paper — paying the debt down would clearly come out ahead. But the two sit in different mental accounts, so they don't feel interchangeable. That is mental accounting, not a lack of intelligence, and naming it is the first step to letting the buckets work in your favour instead of against you."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The bonus that felt like free money",
+      "body": "A bonus or tax refund gets spent far more loosely than identical money labelled 'salary,' because 'found' money lands in a looser mental bucket. And skipping this month's saving feels like a reasonable response to a busy month, not present bias — the future self who benefits is abstract while the present self who wants to spend is vivid. Automating the transfer converts a repeated act of willpower into a single decision made once."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are running normal cognitive software on a problem it handles poorly, in exactly the ways the research predicts.",
+      "source": "On why money mistakes are systematic"
+    },
+    {
+      "text": "The point is not to become perfectly rational — no one is — but to put the structure where the willpower would otherwise have to be.",
+      "source": "On designing around the biases"
+    }
+  ],
   "faqs": [
     {
       "question": "Does making bad money decisions mean I'm bad with money or not smart?",

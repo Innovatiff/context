@@ -40,6 +40,34 @@
     { "value": "Weak correlation", "label": "Link between self-reported and objectively logged screen time", "source": "Parry et al., Nature Human Behaviour, 2021" },
     { "value": "Understated", "label": "Direction of the typical error when people report their own use", "source": "Parry et al., Nature Human Behaviour, 2021" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Many adults spend on the order of 4 to 5 hours a day on their phones — but every figure is approximate and method-dependent.",
+    "Pickups run from dozens to well over a hundred a day; use is fragmented across short check-ins, not a few long sessions.",
+    "People systematically underestimate their own use: self-reports correlate weakly with logged usage and usually understate it.",
+    "The most accurate number for you is your device's own usage screen, not a survey average or your gut sense."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The fifteen-second check, a hundred times over",
+      "body": "A brief glance at a notification leaves almost no trace in memory, yet repeated across the day it adds up to real time. We remember the few long sessions and forget the swarm of micro-checks — which is a large part of why self-reports come in low."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Checking the actual log",
+      "body": "Someone confident they 'barely use' their phone opens the built-in usage screen and finds several hours and dozens of pickups they never registered. The research on self-report inaccuracy is precisely why the device's own log is more informative than any estimate — it tends to reveal both more total time and far more pickups than people expect."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The most accurate number for you is the one on your own device's usage screen — not a survey average, and not your own estimate.",
+      "source": "On measuring your own use"
+    },
+    {
+      "text": "When behaviour is this habitual, introspection is a poor measurement tool."
+    }
+  ],
   "faqs": [
     {
       "question": "How many hours a day does the average person spend on their phone?",

@@ -40,6 +40,64 @@
     { "value": "21 days", "label": "The popular figure — a myth with no direct research basis", "source": "Misattributed to Maxwell Maltz (1960s)" },
     { "value": "1 missed day", "label": "Did not meaningfully derail habit formation", "source": "Lally et al., 2010" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The '21 days' figure is a myth — it descends from a 1960s observation about adjusting to a changed appearance, not habit research.",
+    "The best direct study found a median of about 66 days for a behavior to feel automatic.",
+    "The range was enormous: roughly 18 days for the fastest to about 254 days for the slowest.",
+    "Simpler habits locked in faster than complex ones, and an occasional missed day didn't reset progress.",
+    "Treat two to three months of repetition as a realistic working assumption, held loosely."
+  ],
+  "tables": [
+    {
+      "title": "How long it took, in the best direct study",
+      "caption": "From Lally et al. (2010), who tracked everyday habit formation. There was no single 'magic number' — only a median and a very wide spread. The popular 21-day figure has no direct research basis.",
+      "columns": ["Figure", "Days"],
+      "rows": [
+        ["Fastest habit to become automatic", "≈ 18 days"],
+        ["Median time to automaticity", "≈ 66 days"],
+        ["Slowest habit to become automatic", "≈ 254 days"],
+        ["Popular '21-day' rule", "No research basis"]
+      ],
+      "highlightColumn": 1,
+      "source": "Lally et al., European Journal of Social Psychology (2010)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "The spread around the 66-day median",
+      "caption": "The same three figures as bars. The gap between the fastest and slowest habit is what the single '21 days' rule hides — time to automaticity varied widely by person and habit.",
+      "unit": "days",
+      "source": "Lally et al. (2010)",
+      "bars": [
+        { "label": "Fastest", "value": 18, "display": "≈18 days" },
+        { "label": "Median", "value": 66, "display": "≈66 days", "highlight": true },
+        { "label": "Slowest", "value": 254, "display": "≈254 days" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Still takes effort at day 22",
+      "body": "You've done the new habit for three weeks and it still takes conscious willpower. Against the '21 days' rule that reads as failure — but with a median near 66 days, you're squarely on the normal timeline, not behind it. Full automaticity, when the behavior runs without a deliberate decision, typically takes considerably longer than three weeks."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A glass of water vs a set of sit-ups",
+      "body": "Adding a glass of water after breakfast tended to become automatic faster than doing a set number of sit-ups. Simpler behaviors locked in sooner, so starting small and specific — and anchoring it to a consistent cue like breakfast — is a better bet than a demanding routine you're timing against a fixed deadline."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If it still takes willpower after three weeks, you are squarely on the normal timeline, not behind it.",
+      "source": "On the 21-day myth"
+    },
+    {
+      "text": "A single lapse did not reset progress to zero — consistency over time mattered more than perfection.",
+      "source": "On missing a day"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the 21-day rule for building a habit true?",

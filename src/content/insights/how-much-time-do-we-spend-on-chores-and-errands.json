@@ -39,6 +39,34 @@
     { "value": "Women > men", "label": "Persistent gender gap in average daily household work", "source": "American Time Use Survey (ATUS), BLS" },
     { "value": "Years", "label": "Approximate lifetime total of household work and errands", "source": "Derived from ATUS daily averages" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Adults average roughly 1.5 to 2-plus hours a day on household activities, with shopping and errands on top.",
+    "A persistent gender gap runs through the data: women do more on average, and it has narrowed but not closed.",
+    "The daily pieces are scattered and small, so the total is easy to underestimate — over a lifetime it runs to years.",
+    "Where affordable, offloading genuinely disliked tasks is one of the better-evidenced levers for time-related wellbeing."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Ten minutes here, twenty there",
+      "body": "A load of laundry, a wiped counter, a quick tidy before bed — none of it feels like 'two hours,' because it never happens in one visible block. That scattering is exactly why chores are so easy to underestimate even though the survey adds the small pieces up plainly."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The mental load nobody logs",
+      "body": "One person quietly tracks what is running low, when the dentist is due, and whose turn it is — the remembering and coordinating that keeps a household running. A time diary captures the doing far better than the managing, which is why the person carrying the planning often feels busier than their logged hours suggest."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Domestic upkeep quietly consumes a large, often invisible share of adult time — and that share is not distributed equally.",
+      "source": "On the household-labour gap"
+    },
+    {
+      "text": "Much of this work is invisible by design: it's most noticeable when it is not done."
+    }
+  ],
   "faqs": [
     {
       "question": "How many hours a day do people spend on chores?",

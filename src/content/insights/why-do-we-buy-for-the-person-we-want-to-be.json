@@ -39,6 +39,36 @@
     { "value": "Self-signaling", "label": "Buying as evidence to ourselves of who we are becoming", "source": "Identity-based consumption research" },
     { "value": "Underused", "label": "Common fate of purchases bought for an idealized future self", "source": "Gym-membership behavioural studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Much spending is aspirational — aimed at an idealized future self rather than the person who actually uses it.",
+    "Purchases double as identity: buying the gear can feel like evidence, to ourselves, of who we're becoming.",
+    "We equip our 'possible selves,' but buying the equipment is easy while the behaviour change is hard.",
+    "Gym memberships are the clearest documented case of paying for far more than we end up using.",
+    "Testing the behaviour first and checking your own track record beats trusting each buy's best-case story."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The running shoes bought by a future runner",
+      "body": "Someone who isn't yet running buys quality shoes, and the purchase delivers a small, real hit of the future identity right away — imagining themselves fit and disciplined feels good without any of the work. The honest signal, though, is whether they're already running, not whether they own the shoes. Bought by the self they picture, the gear is often left unused by the self they are."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Judging the buy by its story, not your record",
+      "body": "Each aspirational purchase has a plausible tale — the course really could make you fluent, the equipment really could support the habit. What's hard to see in the moment is the base rate: how often the imagined use fails to materialise. Looking honestly at how much you actually used your last few such buys forecasts the next one better than its best-case narrative."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is easier and faster to acquire the symbol of a self than to become it.",
+      "source": "On aspirational buying"
+    },
+    {
+      "text": "We are unusually good at buying for who we want to be, and unusually bad at predicting whether that self will show up to use the purchase.",
+      "source": "On possible selves"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I buy things I never end up using?",

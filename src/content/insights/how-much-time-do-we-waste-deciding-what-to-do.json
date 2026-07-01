@@ -39,6 +39,46 @@
     { "value": "Maximisers", "label": "Spend more time deciding and report less satisfaction than satisficers", "source": "Schwartz, The Paradox of Choice" },
     { "value": "Contested", "label": "Strong 'decision fatigue' / ego-depletion claims have faced replication problems", "source": "Replication research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no reliable figure for time lost to deciding — distrust anyone who offers a precise one.",
+    "More options often make choosing slower and less satisfying, not easier (the choice-overload effect).",
+    "Maximisers, who chase the best option, spend more time deciding and are less satisfied than satisficers.",
+    "The strong 'decision fatigue' claim is contested; reducing the number of decisions beats rationing willpower."
+  ],
+  "distributions": [
+    {
+      "title": "The jam study: a bigger display, but fewer buyers",
+      "caption": "In Iyengar and Lepper's 2000 experiment, the 24-jam display drew more initial interest but far fewer actual purchases than the 6-jam display — a striking illustration that more choice can reduce action. Later replications of choice overload have been mixed, so treat the effect as real but context-dependent.",
+      "unit": "jams on display",
+      "source": "Iyengar & Lepper, 2000",
+      "bars": [
+        { "label": "Larger display", "value": 24, "display": "24 jams" },
+        { "label": "Smaller display", "value": 6, "display": "6 jams" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The fridge, the menu, the watchlist",
+      "body": "Standing in front of the fridge, re-reading the menu, scrolling for something to watch — none of these read as tasks, so the minutes and mental effort slip by unattributed. No single 'what should I do now?' is expensive, but dozens across a day quietly draw down the same attention you need for everything else."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The maximiser at the checkout",
+      "body": "Someone determined to find the single best option keeps looking for a few more alternatives, sure the perfect pick is on the list. Schwartz's work suggests this mostly buys more deliberation and a nagging sense that something better was missed — more time spent, and less satisfaction with what they finally choose."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The abundance that feels like freedom often quietly becomes a tax on time and on contentment.",
+      "source": "On choice overload"
+    },
+    {
+      "text": "Reducing the number of decisions helps more than deciding faster."
+    }
+  ],
   "faqs": [
     {
       "question": "Do we really lose much time just deciding what to do?",

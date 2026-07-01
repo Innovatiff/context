@@ -40,6 +40,51 @@
     { "value": "Understated", "label": "How self-reported screen time compares to logged use", "source": "Parry et al., 2021, Nature Human Behaviour" },
     { "value": "Very small", "label": "Average association between screen use and wellbeing", "source": "Orben & Przybylski, 2019, Nature Human Behaviour" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Several hours a day of screen time is now typical — smartphone use commonly lands around 3 to 4.5 hours.",
+    "People systematically underestimate their own screen time, so the logged figure usually beats the guess.",
+    "The average association between screen use and wellbeing is real but very small — the raw number explains little.",
+    "What matters more than the total is whether the time displaces sleep, movement, or in-person contact.",
+    "Active, social use tends to fare better than passive, comparison-heavy scrolling — quality over quantity."
+  ],
+  "tables": [
+    {
+      "title": "What the typical adult screen figures look like",
+      "caption": "The commonly cited ranges, plus the two caveats the research attaches to them. Note that self-report tends to understate use, and the average link to wellbeing is small — so the raw number is a weak measure on its own.",
+      "columns": ["Measure", "What the research reports"],
+      "rows": [
+        ["Daily smartphone / device use (adults)", "≈ 3 to 4.5 hours"],
+        ["Total daily media exposure, all screens", "Higher still"],
+        ["Self-reported vs logged use", "Self-report understates it"],
+        ["Association between screen use and wellbeing", "Real but very small"]
+      ],
+      "highlightColumn": 1,
+      "source": "DataReportal / GWI; Nielsen Total Audience Report; Parry et al. (2021) and Orben & Przybylski (2019), Nature Human Behaviour"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The usage-dashboard shock",
+      "body": "You'd have guessed maybe two hours a day on your phone, then the built-in screen-time report says four. The jolt feels like proof you're an outlier — but a logged four hours sits close to the typical 3-to-4.5-hour range, and the shock is really the gap between your low guess and the real figure, not evidence that you're unusual."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two hours that aren't equal",
+      "body": "Two hours of absorbing video calls with distant friends and two hours of anxious late-night scrolling both add the same amount to your total, yet the research treats them very differently: active, social use tends to fare better than passive, comparison-heavy scrolling. The total alone can't tell them apart, which is why chasing a lower number for its own sake is poorly supported."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "If you feel your screen time is high, you are probably close to typical rather than unusual.",
+      "source": "On how your number compares"
+    },
+    {
+      "text": "The number itself explains little; what the time displaces — sleep, movement, in-person contact — is the part worth examining.",
+      "source": "On what actually matters"
+    }
+  ],
   "faqs": [
     {
       "question": "How much screen time is normal for an adult?",

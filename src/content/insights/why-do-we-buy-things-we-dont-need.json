@@ -40,6 +40,36 @@
     { "value": "Status signal", "label": "Purchases that function to display standing rather than meet a need", "source": "Veblen, conspicuous consumption" },
     { "value": "Engineered", "label": "Impulse buying prompted by one-click checkout, targeted ads, and scarcity cues", "source": "Research on impulse buying and choice architecture" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Buying is driven mostly by emotion, identity, and an engineered environment — not by need.",
+    "Hedonic adaptation makes the thrill of a new thing fade fast, which sets up the chase for the next.",
+    "Compensatory purchases meant to soothe insecurity tend not to fix the underlying feeling.",
+    "The most reliable fix is adding friction back into the moment of temptation, not more willpower.",
+    "It is normal psychology being exploited by design, not a personal weakness."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'limited time' cart at 11pm",
+      "body": "A frictionless checkout, a targeted ad that surfaced the item at the right moment, and a countdown clock combine to convert a passing want into a purchase before deliberation catches up. The obvious culprit afterwards feels like your own lack of willpower — but the timed offer and one-click flow that did most of the work are invisible by design. Removing saved payment details and stepping away for a day is what actually interrupts the loop."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The purchase that was really about a bad day",
+      "body": "Buying something after a rough week can feel like a deserved treat, but the real motive is often to soothe insecurity or repair a threatened sense of self. Because compensatory purchases don't fix the underlying feeling, the satisfaction fades and the impulse returns — which is how one purchase quietly leads to the next. Pausing to ask what the purchase is actually for can defuse it before checkout."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The anticipation of having something often beats the experience of actually having it.",
+      "source": "On hedonic adaptation"
+    },
+    {
+      "text": "This is normal psychology being exploited by design, not a personal weakness.",
+      "source": "On self-blame vs. engineered environments"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I keep buying things I don't need?",

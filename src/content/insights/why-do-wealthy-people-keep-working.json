@@ -39,6 +39,41 @@
     { "value": "Treadmill", "label": "Pattern by which aspirations climb to meet rising income", "source": "Easterlin, aspirations research" },
     { "value": "Beyond pay", "label": "Work's non-financial functions: identity, structure, status, purpose, connection", "source": "Research on work, unemployment and retirement wellbeing" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Work supplies a bundle money can't replace — identity, daily structure, status, usefulness and connection.",
+    "The 'enough to feel secure' number tends to rise with wealth, so the financial finish line keeps receding.",
+    "Research on unemployment and retirement links losing the worker role to wellbeing drops beyond lost wages.",
+    "Defining 'enough' concretely and in advance works better than waiting for a feeling that reliably moves.",
+    "Neither working forever nor stopping is a guaranteed answer — the value is in choosing it deliberately."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The question a job answers for you",
+      "body": "A job quietly answers 'who am I and what am I for today' every morning, without you having to ask. Remove the paycheck and that prop is still doing its work — which is why financial freedom can feel less like relief than like an open-ended void, and why so many who could stop don't."
+    },
+    {
+      "label": "The trap",
+      "title": "The bar that rises with the balance",
+      "body": "Each new tier of wealth brings a new reference group and new things that now look normal to want, so the felt distance to 'secure' stays roughly constant even as the bank balance grows. People rarely experience this as their goalposts moving — they experience it as still not quite being there yet."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Planning what you'll lose, not just the income",
+      "body": "Someone who wants to step back fares better planning for the structure, contribution and community they'll lose than planning the finances alone. Those needs can often be met another way — part-time work, projects, teaching, volunteering — so the choice becomes deliberate rather than automatic."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Work was never only about the money, and 'enough' is a moving target — that two-sided answer is most of the story.",
+      "source": "On why people keep going"
+    },
+    {
+      "text": "People rarely experience the finish line moving as their goalposts shifting; they experience it as still not quite being there yet.",
+      "source": "On the moving target"
+    }
+  ],
   "faqs": [
     {
       "question": "If they have enough money, why don't wealthy people just stop?",

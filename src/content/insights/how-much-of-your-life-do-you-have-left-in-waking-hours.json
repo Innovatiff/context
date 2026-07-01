@@ -40,6 +40,49 @@
     { "value": "~220,000", "label": "Illustrative waking hours left at age ~40", "source": "Estimate: ~38 yrs × 365 × ~16" },
     { "value": "~4,000", "label": "Weeks in a full ~80-year life (a framing)", "source": "Burkeman, Four Thousand Weeks" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Years left × 365 × about 16 waking hours a day gives a rough estimate of the waking hours you have remaining.",
+    "For someone around 40, that lands near 220,000 waking hours; around 60, closer to 100,000–110,000.",
+    "It's an estimate of scale, not a personal countdown — life expectancy is a population average with wide variation.",
+    "Reframed as weeks, a full ~80-year life is only about 4,000 — a 40-year-old has spent roughly half.",
+    "The time left with specific people is far more finite than the raw years suggest — measured in dozens of occasions."
+  ],
+  "tables": [
+    {
+      "title": "The waking-hours arithmetic, by age",
+      "caption": "Illustrative estimates using U.S. life expectancy (~77–79 years) and about 16 waking hours a day. A single year contains on the order of 5,800 waking hours. These are estimates of scale, not forecasts for any individual.",
+      "columns": ["Current age", "Rough years left", "Illustrative waking hours left"],
+      "rows": [
+        ["≈ 40", "≈ 38 years", "≈ 220,000"],
+        ["≈ 60", "≈ 18–19 years", "≈ 100,000–110,000"]
+      ],
+      "highlightColumn": 2,
+      "source": "Estimate: years left × 365 × ~16 waking hours; CDC/NCHS life expectancy; American Time Use Survey"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "220,000 hours that don't feel evenly available",
+      "body": "A 40-year-old with roughly 38 years left has something on the order of 220,000 waking hours ahead — a number that sounds enormous. But most of it is already committed to work, sleep-adjacent routines, chores, and obligations. The genuinely discretionary hours are a fraction of the total, which is why the raw figure can feel abstract while the day feels full."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'tail end' of visits with a parent",
+      "body": "If you see aging parents a handful of times a year, the comfortable 'years left' figure quietly conceals that you may have only a few dozen visits remaining. This is a framing rather than a measured statistic, but the multiplication is real — and it's usually the version of the calculation that changes behaviour, prompting someone to see people more often while the visits remaining are still many rather than few."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The exact figure is unknowable for any individual; the order of magnitude is not.",
+      "source": "On the waking-hours estimate"
+    },
+    {
+      "text": "The time remaining with specific people is far more finite than the years suggest.",
+      "source": "On the 'tail end' framing"
+    }
+  ],
   "faqs": [
     {
       "question": "How do you calculate waking hours left?",

@@ -39,6 +39,35 @@
     { "value": "Often morning", "label": "When analytical, focus-heavy tasks tend to go best", "source": "Time-of-day performance research" },
     { "value": "Restores focus", "label": "Effect of brief, genuine 'vigilance breaks'", "source": "Research on restorative breaks" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Performance and mood follow a fairly predictable daily curve: a peak, a trough, and a recovery.",
+    "Analytical, focus-heavy work often suits the peak; some creative or insight work can do better in the trough or recovery.",
+    "Genuine breaks meaningfully restore performance, while powering through tends to degrade it.",
+    "Chronotype shifts the whole curve earlier or later, so there is no single universal 'best hour'.",
+    "The win is matching task type to your own rhythm — not copying someone else's schedule."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 3 p.m. spreadsheet",
+      "body": "Someone schedules their most demanding analytical work for mid-afternoon and experiences it as 'I just can't focus today.' From the inside the trough looks like a bad day; in fact it's the predictable low phase of the daily curve. The same task at their morning peak would feel markedly easier — effort doesn't fully compensate for the timing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The evening type on a morning routine",
+      "body": "An evening person copies a famous 6 a.m. routine and finds it actively counterproductive, because their peak falls hours later. The research argues for finding your own peak and trough by tracking a week or two, then arranging your hardest work around your actual high period — whenever that lands."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Many people schedule their hardest work into their worst hours and then push through without breaks — roughly the opposite of what the research supports.",
+      "source": "On the common mismatch between task and time"
+    },
+    {
+      "text": "The right schedule is yours, not a generic one."
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a best time of day to work?",

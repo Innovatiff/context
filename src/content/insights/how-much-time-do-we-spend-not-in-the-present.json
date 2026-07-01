@@ -39,6 +39,36 @@
     { "value": "Lower mood", "label": "Tended to follow mind-wandering, even toward pleasant topics", "source": "Killingsworth & Gilbert, 2010" },
     { "value": "Double-edged", "label": "Mind-wandering also aids planning and creativity", "source": "Mind-wandering research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "By one major estimate, people's minds are not focused on the present about 47% of the time.",
+    "Lower mood tended to follow mind-wandering rather than precede it — even when the mind drifted somewhere pleasant.",
+    "The cost seems to come from leaving the present itself, not from where the mind goes.",
+    "The 47% figure is correlational and from one study — a strong estimate, not a universal constant.",
+    "The aim isn't zero wandering — it also aids planning and creativity — but to recover some presence, gently."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "Attending versus attending to",
+      "body": "You can sit through a meal, an event or a conversation while mentally rehearsing something else entirely, and afterward feel as though you were there. The gap between physical attendance and actual presence is wide — and the data suggests being mentally elsewhere is the norm rather than the exception."
+    },
+    {
+      "label": "What the research supports",
+      "title": "Noticing, then softly returning",
+      "body": "The core mechanism isn't forcing the mind to stay still — it's noticing where your attention has gone and gently bringing it back to what you're actually doing, without self-criticism. Anchoring to a current sensory experience, an activity or another person tends to restore presence more reliably than white-knuckling it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The cost seems to be in the leaving of the present moment itself, not in where the mind goes.",
+      "source": "On the wandering-mind finding"
+    },
+    {
+      "text": "The aim is not to spend zero time out of the present — it is to recover some of the roughly half of life that currently passes elsewhere.",
+      "source": "On what presence practice is for"
+    }
+  ],
   "faqs": [
     {
       "question": "How much of the time are our minds not in the present?",

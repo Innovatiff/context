@@ -39,6 +39,40 @@
     { "value": "Stronger", "label": "Link to wellbeing (lower stress, higher satisfaction) than to output", "source": "Aeon, Faber & Panaccio, PLOS ONE 2021" },
     { "value": "No fix", "label": "Effect of time management on structural overload and low control", "source": "Research on autonomy and workload" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Time management genuinely helps — but more modestly for output than for wellbeing.",
+    "Its strongest, most reliable payoff is lower stress and higher satisfaction, not raw productivity.",
+    "It cannot overcome being structurally overloaded; that is a workload problem, not a scheduling one.",
+    "Specific skills — prioritising, planning, limiting multitasking — beat elaborate all-in-one systems.",
+    "Building the 'perfect' system can become its own form of busywork."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The perfect planner that never earns its keep",
+      "body": "Someone spends a weekend building an elaborate app-and-planner system, feels a real burst of progress, then abandons it within a fortnight. That sense of momentum came before any actual work — and the upkeep the system demanded ate the very time it promised to save. Research consistently finds rigid, complex methods fail to stick."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A calmer day mistaken for a bigger one",
+      "body": "After planning the day, the felt chaos drops and everything feels more under control — genuinely valuable, and the best-supported benefit. The trap is reading that relief as proof of dramatically more output. The data suggests the calm is the larger, more reliable win; the productivity gain is real but smaller."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When no system can help",
+      "body": "A person drowning in too much work with little control over it tries technique after technique and nothing lands. That isn't a scheduling failure — with excessive workload and low autonomy, individual time-management skill has almost no room to operate. The honest move is to address the load or the control directly."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It genuinely helps, it is oversold, and it is not a cure for having too much to do.",
+      "source": "On what time management can and can't fix"
+    },
+    {
+      "text": "The calm is the bigger, more reliable payoff; the output gain is smaller."
+    }
+  ],
   "faqs": [
     {
       "question": "Does time management actually make you more productive?",

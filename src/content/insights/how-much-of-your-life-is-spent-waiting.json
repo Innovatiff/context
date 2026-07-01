@@ -40,6 +40,36 @@
     { "value": "Approximate", "label": "Reliability of popular 'years of your life spent waiting' totals", "source": "Popular lifetime-waiting estimates (unverified)" },
     { "value": "Occupied < unoccupied", "label": "Occupied waits feel shorter than empty ones", "source": "Maister, psychology of waiting" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The one dependable figure is the commute: roughly 27 minutes each way, about 54 minutes a day for a typical commuter.",
+    "The viral 'years of your life spent waiting' totals are loosely sourced — treat them as rough illustrations, not facts.",
+    "How long a wait feels depends heavily on how it's experienced, not just on the minutes it lasts.",
+    "Maister's principles: occupied, certain, explained and fair waits all feel shorter than their opposites.",
+    "For fixed waits, improving the experience often does more for your day than shaving off a few minutes."
+  ],
+  "examples": [
+    {
+      "label": "The principle",
+      "title": "Fifteen minutes that feel like five — or fifty",
+      "body": "The same fifteen-minute wait can feel completely different depending on the conditions Maister describes. Occupied, with a clear endpoint and an explanation, it passes quickly. Empty, open-ended and unexplained, it drags — which is exactly why our intuitive sense of 'how much time we waste waiting' is so unreliable."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The known wait versus the mystery wait",
+      "body": "A queue that shows your position, or a hold that estimates the delay, feels shorter and less frustrating than an open-ended one even when the actual minutes are identical. That's why progress indicators and estimated wait times improve the experience without changing the clock at all."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The same fifteen minutes can feel like five or like fifty — which is why our sense of how much we wait is unreliable.",
+      "source": "On the psychology of waiting"
+    },
+    {
+      "text": "The well-measured piece is commuting; the broad lifetime 'years spent waiting' figures are best read as rough estimates.",
+      "source": "On the soft numbers"
+    }
+  ],
   "faqs": [
     {
       "question": "How many years of my life will I spend waiting?",

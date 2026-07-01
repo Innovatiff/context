@@ -34,6 +34,34 @@
     "The evidence here is more about pattern and mechanism than headline statistics. Research associates regular routines and stable social rhythms with better mood and mental health, with effects that are modest, largely correlational, and most pronounced under stress — so the honest takeaway is a reliable direction, not a precise figure.",
     "This page is educational only and not medical advice. Social rhythm therapy is a clinical intervention used for mood disorders under professional care; if you are dealing with persistent low mood, sleep disruption, or a mood disorder, the routine-stabilisation evidence is best applied with a qualified clinician rather than self-directed."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Regular routines and stable daily rhythms are linked to better mood — the effects are real but modest and largely correlational.",
+    "The benefit is often clearest under stress, when a predictable internal structure steadies mood the environment isn't.",
+    "Routines also conserve mental energy by automating small repeated decisions, freeing attention for what matters more.",
+    "The best version is a scaffold, not a cage: stable anchors with room to move, since rigid routines can add stress."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The steadiness you never notice",
+      "body": "A good routine works mostly by preventing problems — the decision you never had to agonise over, the bad night's sleep that didn't happen. Prevented problems leave no trace, so the calm a routine produces is easy to take for granted and hard to credit to the routine itself. Its value tends to become obvious only when it breaks, during travel or illness, and mood quietly wobbles."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A few anchors, not a scripted day",
+      "body": "Someone under stress fixes just a handful of timed basics — roughly regular wake time, meals, some movement, a bit of social contact — and leaves the rest of the day loose. Social rhythm research suggests much of the mood benefit lives in stabilising the timing of those few activities, so a small stable framework often does more than trying to schedule every hour."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The best version is a stable framework with room to move, not a rigid script — a scaffold, not a cage.",
+      "source": "On structure vs. rigidity"
+    },
+    {
+      "text": "A good routine works by preventing problems, and prevented problems leave no trace — which is why its help is so easy to overlook."
+    }
+  ],
   "faqs": [
     {
       "question": "Does having a daily routine really improve mental health?",

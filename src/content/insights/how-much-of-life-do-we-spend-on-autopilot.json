@@ -38,6 +38,61 @@
     { "value": "~40%+", "label": "Estimated share of daily behavior that is habitual (varies by measure)", "source": "Wendy Wood, habit research" },
     { "value": "~47%", "label": "Share of time minds wander from the present activity", "source": "Killingsworth & Gilbert, 2010" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "By one widely cited estimate, around 40% or more of daily behavior is habitual — automatic rather than freshly chosen.",
+    "Real-time sampling found minds wander from the present activity about 47% of the time.",
+    "Running on autopilot is efficient, not a flaw — it frees limited attention for what genuinely needs it.",
+    "The trade-off is that much of life passes with little awareness, and unhelpful habits run unchecked alongside helpful ones.",
+    "The reliable way to change an automatic habit is to change the context and cues, not to rely on willpower."
+  ],
+  "tables": [
+    {
+      "title": "Two measures of life on autopilot",
+      "caption": "The two figures measure different things — automatic action versus absent attention — but point the same way: a large share of ordinary life runs without much conscious involvement. Both are rough estimates and deserve hedging.",
+      "columns": ["What is measured", "Rough figure"],
+      "rows": [
+        ["Daily behavior that is habitual", "≈ 40% or more"],
+        ["Time minds wander from the present", "≈ 47%"]
+      ],
+      "highlightColumn": 1,
+      "source": "Wendy Wood (habit research); Killingsworth & Gilbert (2010)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How much of the day runs automatically",
+      "caption": "The two rough percentages as bars. They measure different things and shouldn't be added together, but each independently suggests a large share of ordinary life goes by without much conscious engagement.",
+      "unit": "%",
+      "source": "Wendy Wood; Killingsworth & Gilbert (2010)",
+      "bars": [
+        { "label": "Behavior that is habitual", "value": 40, "display": "≈40%+" },
+        { "label": "Time minds wander", "value": 47, "display": "≈47%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The commute you can't remember",
+      "body": "You arrive at work with no real recollection of the drive — the route ran on a familiar routine while your attention was elsewhere. This is autopilot doing exactly what it's for: a habit you aren't noticing doesn't announce itself, and the very efficiency that makes it useful is what hides it from view. Normal and useful, but it means large stretches of the day go by unobserved."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Changing the context, not the willpower",
+      "body": "Trying to break a phone-checking habit by sheer resolve tends to disappoint, because the cue that triggers it is still in place. The research favors changing the surroundings — making the good default easy and the automatic one harder to trigger. Natural windows like a move or a schedule change are when habits loosen and can be re-set."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Even when we are awake and doing something, our attention is frequently somewhere else entirely.",
+      "source": "On mind-wandering"
+    },
+    {
+      "text": "Much of life passes with relatively little awareness, which is normal and useful — but means good habits run on their own and bad ones do too.",
+      "source": "On why autopilot matters"
+    }
+  ],
   "faqs": [
     {
       "question": "How much of our behavior is actually habitual?",

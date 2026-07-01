@@ -34,6 +34,31 @@
     "A large majority of smartphone owners check their phones within the first few minutes of waking — surveys repeatedly put this in the region of a half to two-thirds of users reaching for the phone almost immediately, though exact figures vary by study and country, so treat any single number as approximate. The habit is close to universal, which is worth knowing if you feel singled out by it.",
     "The honest size of the effect is small and centred on attention and mood, not catastrophe. Attention-residue effects on task performance are measurable but modest, and the comparison effect depends heavily on what you happen to open. There is no credible evidence that one morning phone check reliably 'ruins' a day; the realistic claim is a gentle nudge toward reactivity that a short, intentional start can offset."
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "'Ruin' overstates it: the better-supported effect is a nudge toward a reactive, comparison-heavy morning, not an all-day catastrophe.",
+    "Opening email or a feed first leaves attention residue on unresolved threads, and primes upward social comparison before you have context of your own.",
+    "The 'cortisol spike' claim is largely overstated — cortisol rises after waking anyway, regardless of your phone.",
+    "Changing the cue (charging the phone out of reach) beats willpower, and delaying the first check by 10–20 minutes captures much of the benefit."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Opening email before your feet hit the floor",
+      "body": "The first 'task' of the day becomes a stream of other people's unfinished, unresolved requests — so attention residue hangs over whatever you turn to next, and the day can feel like it started on someone else's terms even when nothing objectively bad happened. The tone-setting is real; the size of it is easy to overestimate."
+    },
+    {
+      "label": "The fix",
+      "title": "Move the phone, not your willpower",
+      "body": "Because the reach is cue-driven — a phone on the nightstand is about as reliable a trigger as exists — charging it across the room removes the automatic prompt far more reliably than resolving to 'just not check it.' If a phone-free morning is unrealistic, delaying the first check by even ten to twenty minutes lets you set your own frame first. The point is sequence — yourself first, the feed second — not total abstinence."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "There is no credible evidence that one morning phone check reliably 'ruins' a day; the realistic claim is a gentle nudge toward reactivity that a short, intentional start can offset.",
+      "source": "On the size of the effect"
+    }
+  ],
   "faqs": [
     {
       "question": "Does checking my phone first thing actually ruin my day?",

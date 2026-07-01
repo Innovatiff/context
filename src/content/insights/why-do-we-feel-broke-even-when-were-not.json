@@ -39,6 +39,36 @@
     { "value": "Top ~10–15%", "label": "Where U.S.-median household income sits globally", "source": "World Bank / Our World in Data" },
     { "value": "Logarithmic", "label": "Way wellbeing tends to track income — each raise relieves less than the last", "source": "Income-and-happiness research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Feeling broke and being broke come apart far more often than people assume.",
+    "Scarcity captures attention and can outlast the actual shortage rather than switching off when the balance recovers.",
+    "Expectations rise with income, so a raise quickly becomes the new baseline and the felt margin barely moves.",
+    "Comparison runs upward against visible spending — a poor proxy for wealth — which keeps the goalposts moving.",
+    "Converting a vague sense of strain into concrete numbers narrows the gap between the felt and real picture."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The raise that changed nothing",
+      "body": "A salary that would have thrilled you a few years ago becomes the new baseline within months, and spending expands to meet it, so the subjective sense of margin barely changes. People frequently report feeling just as stretched after a raise as before it — not because the raise wasn't real, but because the reference point for 'normal' climbed to match it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Secure on paper, exposed in feeling",
+      "body": "Roughly 37% of U.S. adults say they couldn't cover a $400 emergency from cash, so feeling financially exposed is closer to the norm than the exception. And median U.S. household income sits in roughly the richest 10–15% of people worldwide. Both facts can be true while the feeling of shortage persists — because the feeling is fed by attention, comparison, and rising expectations, not just the balance."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The feeling is real; it is just not a measurement of your balance.",
+      "source": "On feeling broke vs. being broke"
+    },
+    {
+      "text": "You are not comparing your finances to last year's standard of living — you are comparing them to a constantly updated picture of what 'enough' looks like.",
+      "source": "On the moving reference point"
+    }
+  ],
   "faqs": [
     {
       "question": "What is 'money dysmorphia'?",

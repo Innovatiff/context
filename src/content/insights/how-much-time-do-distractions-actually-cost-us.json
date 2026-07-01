@@ -39,6 +39,36 @@
     { "value": "Attention residue", "label": "Part of focus stays on the previous task after a switch", "source": "Leroy, 2009" },
     { "value": "Switching tax", "label": "Each toggle between tasks is slower and more error-prone", "source": "Task-switching research, cognitive psychology" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "A distraction almost always costs far more than the seconds the interruption itself takes.",
+    "The often-cited ~23 minutes to refocus is a real-world average, not a fixed law — the durable point is the ratio, not the number.",
+    "Attention residue means part of your focus stays stuck on the task you just left, so you return below full capacity.",
+    "Reducing the number of switches helps more than working faster within them.",
+    "A heavily interrupted day isn't a slightly slower focused day — it's a structurally different, slower way of working."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The thirty-second check with a hidden bill",
+      "body": "The glance at a message feels free — thirty seconds, then back to work. But the expensive part happens after: rebuilding the mental context you had before the interruption. That reassembly is what the research keeps finding people underestimate, which is why a 'quick check' is rarely quick."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A day of small interruptions",
+      "body": "No single ping ruins a day. It's the steady drip of them — each followed by a slow climb back to focus and a residue of attention still idling on the last thing — that quietly consumes hours. Because the cost is paid in fragments rather than one obvious block, it's far harder to feel than it is to accumulate."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The thirty seconds you spend glancing at a message is rarely the whole bill — the larger cost is reassembling the context you had before.",
+      "source": "On the hidden cost of a 'quick check'"
+    },
+    {
+      "text": "A heavily interrupted day is not a slightly less efficient version of a focused one; it is a structurally different and slower way of working.",
+      "source": "On the cumulative cost"
+    }
+  ],
   "faqs": [
     {
       "question": "Does it really take 23 minutes to refocus after a distraction?",

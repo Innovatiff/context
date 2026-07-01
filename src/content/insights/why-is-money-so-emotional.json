@@ -39,6 +39,39 @@
     { "value": "Childhood", "label": "When core money beliefs typically form, often without our awareness", "source": "Research on financial attitudes" },
     { "value": "Top stressor", "label": "Money repeatedly ranks among the most-cited sources of stress for adults", "source": "American Psychological Association surveys" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Money is rarely just math — it stands in for security, status, control and identity, so a financial decision carries the weight of all of them.",
+    "Our core beliefs about money — Klontz's 'money scripts' — usually form in childhood and run unconsciously into adult life.",
+    "These scripts cluster into recurring patterns: money avoidance, money worship, money status, and money vigilance.",
+    "Money ranks year after year among the most-cited sources of stress for adults, so strong reactions are statistically ordinary.",
+    "The useful move is not to feel less but to notice and name your own patterns, which turns an automatic script into something you can question."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two people, one purchase, opposite feelings",
+      "body": "The same purchase can leave one person feeling guilty and another feeling free, depending on scripts neither of them chose or can see. When a belief was installed in childhood and runs automatically, it does not feel like a belief — it feels like plain common sense or just 'how I am.' That invisibility is what lets a learned pattern keep driving present-day reactions."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'When I earn more, this will stop'",
+      "body": [
+        "A common assumption is that a bigger income will dissolve the anxiety around money. But that assumption is itself one of the patterns Klontz describes — the 'money worship' script that treats more money as the thing that will finally fix it.",
+        "People tend to carry their scripts up the income ladder, so without examining the underlying beliefs, more money often just changes the numbers the same anxieties attach to. For persistent money-related distress, a qualified financial or mental-health professional is the right resource — this is context, not advice."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling anxious, defensive, guilty or excited about money is not a sign you are bad with it — it is the normal result of money standing in for things that matter to us deeply.",
+      "source": "On why money is emotional"
+    },
+    {
+      "text": "We are often acting out a relationship with money that was shaped before we had any money of our own.",
+      "source": "On the childhood origins of money scripts"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I get so anxious or emotional about money?",

@@ -39,6 +39,45 @@
     { "value": "Middle", "label": "Performance under self-imposed deadlines (better than none, worse than external)", "source": "Ariely & Wertenbroch, 2002" },
     { "value": "Worst", "label": "Performance with a single end-of-term deadline and no checkpoints", "source": "Ariely & Wertenbroch, 2002" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Deadlines help mainly as a commitment device against our own tendency to procrastinate.",
+    "External, evenly spaced deadlines beat self-imposed ones, which beat no deadline at all.",
+    "We set our own deadlines too loosely, which is why external structure usually outperforms good intentions.",
+    "A firm, realistic timeframe beats both a luxuriously long one and an impossibly short one — too-tight deadlines raise stress and errors."
+  ],
+  "tables": [
+    {
+      "title": "How the three deadline conditions compared",
+      "caption": "In Ariely and Wertenbroch's study, students were split into three groups. The result is an ordering, not a precise score: external, evenly spaced deadlines performed best; self-imposed came next; a single final due date performed worst.",
+      "columns": ["Deadline condition", "Relative performance"],
+      "rows": [
+        ["Evenly spaced deadlines set by the instructor", "Best"],
+        ["Deadlines students set for themselves", "Middle (better than none, worse than external)"],
+        ["One final deadline, no intermediate checkpoints", "Worst"]
+      ],
+      "highlightColumn": 1,
+      "source": "Ariely & Wertenbroch (2002), Psychological Science"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The one distant due date",
+      "body": "A project due in eight weeks with nothing in between leaves a long runway in which putting it off carries no immediate cost — the condition most associated with last-minute cramming and weaker results. Breaking it into several evenly spaced checkpoints removes that runway and turns one daunting endpoint into a series of manageable ones."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The promise you make to yourself",
+      "body": "Setting your own internal due date helps more than nothing, but a promise to yourself is easy to renegotiate, so people routinely set them too loosely and slip past them. Telling someone the date, scheduling a review, or attaching a real consequence makes the deadline harder to quietly move — manufacturing the external structure that tends to work better."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We know we procrastinate and try to protect ourselves against it — but imperfectly. We set ourselves looser deadlines than we should.",
+      "source": "On self-imposed deadlines"
+    }
+  ],
   "faqs": [
     {
       "question": "Do deadlines actually improve performance?",

@@ -39,6 +39,35 @@
     { "value": "Large gap", "label": "Difference commonly found between estimated and diary-recorded time use", "source": "Time-use diary research / American Time Use Survey methodology" },
     { "value": "Front-loaded", "label": "Tracking's nudge is strongest early and tends to fade", "source": "Self-monitoring literature" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Simply observing your own behaviour nudges it — but the effect is modest and fades as tracking's novelty wears off.",
+    "The bigger value is correction: people are surprisingly poor at estimating where their time goes.",
+    "Memory reconstructs time from salient blocks and loses the diffuse minutes scattered across the day.",
+    "A short, intensive week or two of logging usually surfaces the major estimate-versus-reality gaps.",
+    "Lightweight tracking paired with a specific goal outlasts and outperforms elaborate systems."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The week the diary surprised them",
+      "body": "Someone is sure they spend 'about an hour' scrolling and hours on focused work. A week of honest logging flips the picture — the scattered minutes add up far past the estimate, and the deep-focus time is thinner than remembered. That gap, not the logging itself, is what actually starts to change how they spend the day."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Tracking forever, changing nothing",
+      "body": "A person keeps a meticulous log for months expecting the measurement alone to fix things. The early nudge was real but front-loaded; once it faded, only fatigue was left. Without a concrete intention for the data to inform, perpetual tracking teaches little beyond what the first two weeks already showed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Tracking changes time mostly by changing what you know about it.",
+      "source": "On why the accurate picture is the durable asset"
+    },
+    {
+      "text": "A perfect tracker you stop using teaches you less than a rough one you keep."
+    }
+  ],
   "faqs": [
     {
       "question": "Will tracking my time actually make me use it better?",
