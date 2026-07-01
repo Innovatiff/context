@@ -40,6 +40,41 @@
     { "value": "Companionate love", "label": "What long-term satisfaction depends on more", "source": "Relationship satisfaction research" },
     { "value": "Shared novelty", "label": "One documented way couples sustain or rekindle the spark", "source": "Aron et al., shared-activity studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Passionate love — the intense early phase — typically cools over the first months to years.",
+    "Companionate love (deep affection, trust, attachment) can grow as the early intensity settles.",
+    "Long-term satisfaction tends to rest more on the companionate side than on sustained early intensity.",
+    "Some couples do keep genuine passion alive; it's linked to novelty, engagement, and how they treat each other.",
+    "A fading spark is better read as a phase change than as an automatic verdict on the relationship."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Mistaking a peak for the baseline",
+      "body": "The early phase is so vivid and absorbing that it can feel like the relationship's normal setting rather than its opening peak. So when passionate love naturally cools — the arc research describes for most couples — the change can register as a loss or a problem, even though what's often growing underneath it is the trust and closeness that long-term satisfaction leans on."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Measured against the highlight reel",
+      "body": "Films, songs, and feeds dwell on the intense beginning of love and almost never show the quieter, companionate phase. So people carry a vivid template for the spark and almost none for what healthy long-term love looks like. Against that highlight reel, ordinary deep affection can feel like it's missing something it isn't."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Doing something new together",
+      "body": "A couple whose weeks have settled into familiar routines tries new, stimulating activities together rather than the usual ones. Research associated with Arthur Aron suggests shared novelty can boost closeness and excitement, re-creating some of the arousal of the early phase — which is why sustaining the spark tends to take active, shared engagement rather than waiting for the feeling to return on its own."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It's a change in the kind of love, not simply love disappearing.",
+      "source": "On passionate vs companionate love"
+    },
+    {
+      "text": "A cooling spark is better understood as a phase change than as an automatic verdict on the relationship.",
+      "source": "The honest picture"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal for the spark to fade after a few years?",

@@ -39,6 +39,36 @@
     { "value": "Selection effect", "label": "Happier people are somewhat more likely to marry, inflating simple comparisons", "source": "Research on marriage and wellbeing" },
     { "value": "Quality > status", "label": "Marriage quality predicts wellbeing far more than marital status", "source": "Research on marital satisfaction and wellbeing" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Longitudinal studies find a happiness bump around the wedding that, for many people, fades back toward their earlier baseline over a few years.",
+    "A selection effect inflates simple comparisons: happier people are somewhat more likely to marry in the first place.",
+    "Relationship quality predicts wellbeing far more strongly than marital status does.",
+    "The variation between individuals is large — some stay happier, some less so.",
+    "This is descriptive context, not advice: being single, partnered, or married are all ordinary."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The hedonic treadmill, at a wedding",
+      "body": "The wedding is vivid and celebrated, so it's easy to imagine the joy of the milestone and hard to imagine how quickly a new normal becomes normal. The same drift back toward baseline that shows up with income and achievement shows up here: the panel data finds an average rise around marriage that, for many, partly fades over the following years."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same status, different lives",
+      "body": "Two people are both 'married,' but one is in a supportive bond and the other in a strained one — and their wellbeing can diverge sharply, sometimes leaving the unhappy marriage below being unpartnered. That's the whole point of 'quality over status': the label is a weak predictor, the quality of the bond a much stronger one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Does marriage make you happier?' depends heavily on the marriage — which is why a flat yes-or-no answer is misleading.",
+      "source": "On quality over status"
+    },
+    {
+      "text": "Marital status is a weak predictor of individual happiness; relationship quality is a stronger one.",
+      "source": "On what the research supports"
+    }
+  ],
   "faqs": [
     {
       "question": "Are married people actually happier than single people?",

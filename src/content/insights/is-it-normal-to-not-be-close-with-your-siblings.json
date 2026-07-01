@@ -39,6 +39,36 @@
     { "value": "Midlife dip", "label": "Common point where sibling closeness loosens before sometimes rising in later life", "source": "Lifespan sibling research" },
     { "value": "More common than assumed", "label": "How often family/sibling estrangement occurs (often hidden)", "source": "Family estrangement research (Pillemer)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Sibling closeness ranges from very close to fully estranged — wide variation is the rule, not the exception.",
+    "There is no correct level of closeness; a cordial-but-distant sibling relationship is a legitimate outcome, not a failure.",
+    "Bonds often loosen in early and middle adulthood and can strengthen again later — a midlife dip is a common pattern.",
+    "Estrangement is more common than people assume and frequently hidden because it carries stigma.",
+    "Comparing your siblings to the close families you see at gatherings measures you against a skewed, top-of-the-range sample."
+  ],
+  "examples": [
+    {
+      "label": "The pattern",
+      "title": "Close as kids, distant in your forties",
+      "body": "You and your brother were inseparable growing up, and now you exchange a few texts a year. That can read as a loss or a failure — but it is one of the most common patterns there is. Sibling bonds frequently loosen in early and middle adulthood as people are absorbed in their own partners, children, and careers, and often strengthen again in later life. A distant patch in midlife is usually a life-stage shift, not a permanent break."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The gathering where everyone else seems close",
+      "body": "At a family event, other people's siblings look warm and effortless, and yours feels strained by comparison. The visible sample is misleading: distance and estrangement are quietly stigmatised, so the people who aren't close to their siblings tend not to talk about it. The warm relationships are the ones on display, which makes an entirely normal level of distance feel uniquely yours."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Not being close is neither rare nor a sign that something has gone wrong with you.",
+      "source": "On the normal range of sibling bonds"
+    },
+    {
+      "text": "You rarely hear someone volunteer that they barely speak to their brother — so the distance you feel can seem uniquely yours.",
+      "source": "On why the visible sample skews close"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to not be close with my siblings?",

@@ -39,6 +39,36 @@
     { "value": "Reward circuits", "label": "Brain regions activated by early romantic love in imaging studies", "source": "Helen Fisher; brain-imaging research" },
     { "value": "Months to ~2 years", "label": "Rough span over which intense early love tends to shift toward attachment", "source": "Helen Fisher; Dorothy Tennov (limerence)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Falling in love is a real, distinctive brain state — Helen Fisher describes it as built from three separable systems: lust, attraction, and attachment.",
+    "Attraction is a dopamine-linked state of reward and craving; brain imaging points to reward and motivation circuitry rather than a single 'love center.'",
+    "The intense early phase — Dorothy Tennov's 'limerence' — is typically time-limited, easing toward calmer attachment over months to a couple of years.",
+    "The fading of the early rush is roughly what the research predicts, not a sign the relationship is failing.",
+    "Long-term love is framed less as keeping the initial high alive and more as the bonding system taking over from the craving one."
+  ],
+  "examples": [
+    {
+      "label": "The transition",
+      "title": "When the early rush starts to cool",
+      "body": "The obsessive, preoccupying intensity of new love feels like it should last forever while you are in it. But that attraction-driven phase is time-limited, tending to give way to steadier attachment over months to a couple of years. Read through a cultural story that treats the early rush as the whole of love, that shift can feel like the relationship failing — when the research describes it as a normal trajectory toward bonding."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Three systems pointing different ways",
+      "body": "Because lust, attraction, and attachment are separable systems, they can be felt in different combinations and even point in different directions at once. Recognising that can make a confusing emotional situation more legible — for instance, feeling calm, secure attachment without the early craving is not a malfunction. The research describes these patterns; it is not a substitute for working out what you actually want."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The fading of the early rush is not a sign something is wrong; it is roughly what the research would predict.",
+      "source": "On the shift from attraction to attachment"
+    },
+    {
+      "text": "Long-term love is framed less as keeping the initial high alive and more as the bonding system taking over from the craving one.",
+      "source": "On what lasting love is"
+    }
+  ],
   "faqs": [
     {
       "question": "Is falling in love really a brain state?",

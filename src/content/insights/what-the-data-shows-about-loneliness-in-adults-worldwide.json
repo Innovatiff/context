@@ -37,6 +37,50 @@
     { "value": "Higher mortality risk", "label": "Associated with weak social connection (effect likened to smoking)", "source": "Holt-Lunstad et al., 2010, PLoS Medicine" },
     { "value": "2023 advisory", "label": "U.S. Surgeon General on loneliness and isolation", "source": "U.S. Surgeon General, 2023" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Roughly one in four adults worldwide (about 24%) report feeling very or fairly lonely — common, not rare.",
+    "Loneliness does not rise neatly with age: young adults often report it at least as much as older adults.",
+    "Loneliness is subjective — the gap between wanted and felt connection — so it is not the same as being alone.",
+    "Weak social connection is associated with markedly higher mortality risk, an effect often likened to smoking (an association, not proof of cause).",
+    "Exact prevalence figures vary between surveys because definitions and methods differ, though the overall direction is settled."
+  ],
+  "tables": [
+    {
+      "title": "Key global figures on loneliness",
+      "caption": "Headline findings drawn from the sources cited on this page. Percentages are survey-dependent — definitions and methods vary between studies — so read them as rough indications rather than precise rates.",
+      "columns": ["Finding", "Figure", "Source"],
+      "rows": [
+        ["Adults worldwide (15+) feeling very or fairly lonely", "≈ 24% (about 1 in 4)", "Meta-Gallup, State of Social Connections (2023)"],
+        ["Social connection and health", "Weak connection linked to higher mortality risk (effect likened to smoking)", "Holt-Lunstad et al. (2010), PLoS Medicine"],
+        ["Public-health framing", "'Our Epidemic of Loneliness and Isolation' advisory", "U.S. Surgeon General (2023)"]
+      ],
+      "highlightColumn": 1,
+      "source": "Meta-Gallup (2023); Holt-Lunstad et al. (2010); U.S. Surgeon General (2023)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Lonely with a full calendar",
+      "body": "Someone can have plenty of company and still feel deeply lonely, because loneliness is a subjective gap between the connection you want and the connection you feel — not a headcount. This is why 'just see more people' so often misses the point, and why the feeling is about perceived closeness rather than how many people are around."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A young adult assuming they're the exception",
+      "body": "Loneliness tends to feel like a private failing, and because people rarely admit to it, a lonely young person can assume they are unusually isolated while everyone around them looks connected. The data cuts the other way: at roughly one in four adults — and with young adults often reporting it at least as much as older ones — their experience is statistically common, not anomalous."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "At roughly one in four adults, loneliness is a majority-adjacent experience that simply does not get said out loud.",
+      "source": "On how common loneliness is"
+    },
+    {
+      "text": "Loneliness is the gap between the connection you want and the connection you feel — which is why someone with a full calendar can feel deeply lonely.",
+      "source": "On why it isn't a headcount"
+    }
+  ],
   "faqs": [
     {
       "question": "How common is loneliness worldwide?",

@@ -40,6 +40,65 @@
     { "value": "~15", "label": "Approximate number of close friends", "source": "Robin Dunbar" },
     { "value": "~50", "label": "Approximate number of good friends", "source": "Robin Dunbar" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Dunbar's work suggests humans can actively maintain only a limited number of relationships — very roughly around 150.",
+    "Those relationships sit in nested layers: about 5 closest, ~15 close friends, ~50 good friends, ~150 meaningful contacts.",
+    "The constraint is time: closeness scales with contact, and inner-layer ties need disproportionately more upkeep.",
+    "The exact '150' is contested; the durable finding is the layered structure and the finite capacity, not the precise number.",
+    "A thinning circle as life fills up is the system working, not breaking — friends move to outer layers rather than being lost."
+  ],
+  "tables": [
+    {
+      "title": "Dunbar's layers of relationships",
+      "caption": "Each outer layer includes the ones inside it. These are averages with wide variation between people, not fixed quotas — and the exact figures are debated.",
+      "columns": ["Layer", "Approximate size", "What it holds"],
+      "rows": [
+        ["Closest / most intimate", "≈ 5", "The people you rely on most"],
+        ["Close friends", "≈ 15", "Close ties you see and confide in regularly"],
+        ["Good friends", "≈ 50", "People you would invite to a gathering"],
+        ["Meaningful contacts", "≈ 150", "People you recognise and have a real relationship with"]
+      ],
+      "highlightColumn": 1,
+      "source": "Robin Dunbar — layered structure of human relationships"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How Dunbar's relationship layers nest",
+      "caption": "The inner circles are small because closer ties cost disproportionately more time and contact to maintain. Each layer contains the ones inside it.",
+      "unit": "approximate number of people",
+      "source": "Robin Dunbar",
+      "bars": [
+        { "label": "Closest (~5)", "value": 5, "display": "≈5" },
+        { "label": "Close friends (~15)", "value": 15, "display": "≈15" },
+        { "label": "Good friends (~50)", "value": 50, "display": "≈50" },
+        { "label": "Meaningful contacts (~150)", "value": 150, "display": "≈150" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The contact list that holds thousands, and the circle that holds five",
+      "body": "Contact lists, follower counts, and group chats can carry thousands of names, which makes the shrinking set of people you actually talk to feel like a personal shortfall. But almost all of those sit far outside the active layers Dunbar describes — they are recognised contacts, not relationships you are maintaining. The genuinely close circle is small for everyone, subject to the same finite ceiling."
+    },
+    {
+      "label": "Illustrative",
+      "title": "An old friend who moved to an outer layer",
+      "body": "A close friend you now speak to a few times a year hasn't necessarily been lost — as life fills with work and family, ties naturally migrate toward outer, lower-maintenance layers. Letting an old friendship settle into staying-in-touch-occasionally, rather than treating it as a failure, fits how a finite social capacity actually distributes across a life."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Because the supply is fixed, closeness in one layer comes at the expense of others.",
+      "source": "On the finite-capacity constraint"
+    },
+    {
+      "text": "The people who drift out are not necessarily lost so much as moved to an outer layer.",
+      "source": "On why circles thin"
+    }
+  ],
   "faqs": [
     {
       "question": "Is Dunbar's number of 150 a hard limit?",

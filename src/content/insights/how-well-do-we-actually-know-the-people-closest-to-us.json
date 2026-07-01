@@ -34,6 +34,41 @@
     "There is no single tidy statistic for 'how well we know each other,' and it would be dishonest to invent one. What the research offers instead is a direction of error: in studies of the closeness-communication bias, people often performed no better at understanding close others than strangers, and sometimes worse, with the consistent driver being overconfidence rather than lack of care.",
     "Empathic-accuracy research adds the texture that reading another person's specific thoughts is genuinely hard for everyone, that scores are modest across the board, and that long-term couples do not reliably do it better than new ones. Taken together, the honest takeaway is qualitative, not numerical: the feeling of deeply knowing someone tends to exceed the measured ability to do it — which is an argument for curiosity, not for cynicism about your relationships."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Closeness tends to build confidence faster than it builds accuracy — the two come apart.",
+    "The closeness-communication bias: we sometimes read close others no better, or worse, than strangers.",
+    "Long-term couples feel more certain they understand each other, but don't reliably read each other better.",
+    "Asking (perspective-getting) beats guessing (perspective-taking), because guessing is where the overconfidence lives.",
+    "This is a normal cognitive pattern, not a verdict on your relationships — the fix is curiosity, not cynicism."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Fluency mistaken for knowledge",
+      "body": "Thoughts about a familiar person arrive quickly and easily, and that ease itself reads as proof you have them figured out. But quick isn't the same as accurate. The very smoothness of 'I know exactly what they'd say' is the feeling the closeness-communication bias runs on — it turns off the effort you'd spend actually decoding what they mean."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Responding to who they were",
+      "body": "A shared history gives you a large store of past examples to draw on — real information that can quietly become a substitute for present-tense attention. People change, moods shift, circumstances move, but a confident mental model built over years updates slowly, so you can end up answering the person they were rather than the one in front of you today."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The misread that never surfaces",
+      "body": "With close people we often stop spelling things out, assuming we'll be understood — and the other person, assuming the same, may not flag when we've misread them. Because both sides take mutual understanding for granted, an inaccurate read can sit undetected for a long time, missing exactly the feedback that would correct it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Closeness tends to create confidence faster than it creates accuracy — and the gap usually points the same way.",
+      "source": "On the illusion of insight"
+    },
+    {
+      "text": "Familiarity earns trust, but it does not earn mind-reading.",
+      "source": "On what closeness does and doesn't buy"
+    }
+  ],
   "faqs": [
     {
       "question": "Does this mean I don't really know my partner or best friend?",

@@ -34,6 +34,35 @@
     "The most important number here is not a percentage but a definition: loneliness is subjective. Cacioppo and Hawkley framed it as the distress that arises from a gap between desired and perceived closeness, which is why it does not map neatly onto relationship status. Being partnered shifts the average downward, but the spread is wide, and a meaningful share of partnered people report feeling lonely.",
     "Put in context, loneliness is common across the whole adult population, not just among people who live alone or are single. Large surveys consistently find substantial shares of adults reporting loneliness regardless of relationship status. So feeling lonely while in a relationship places you within a broad, normal range of human experience rather than outside it — the figures vary by survey and country, but the pattern is consistent."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Loneliness is subjective — the gap between the closeness you want and the closeness you feel, not a count of people around you.",
+    "Being partnered lowers loneliness on average but does not rule it out; the protective effect depends on felt closeness.",
+    "A relationship that has drifted into distance can feel lonelier than being single, because the closeness hoped for is right there and not landing.",
+    "The feeling is information about connection, not an automatic verdict on the relationship.",
+    "Persistent, distressing loneliness is worth taking seriously with a qualified clinician or counsellor."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Same social life, different loneliness",
+      "body": "Two people can have identical social lives — the same partner, the same friends, the same hours together — and feel very differently, because loneliness tracks the felt quality of connection rather than its quantity. This is why loneliness can persist inside a relationship: what matters is whether the closeness lands, not how much contact there is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Quiet loneliness with no obvious cause",
+      "body": "Someone partnered and outwardly settled notices a persistent sense of distance, but struggles even to name it — there is no external explanation, and mentioning it feels like a complaint about their partner. Often it is a description of an internal experience rather than a verdict on the other person, and staying silent is what tends to prolong it, because a partner may have no idea it is happening."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Loneliness is not the same as being alone — it is the gap between the closeness you want and the closeness you feel.",
+      "source": "On the definition of loneliness"
+    },
+    {
+      "text": "A relationship reduces the odds of loneliness; it does not remove the possibility."
+    }
+  ],
   "faqs": [
     {
       "question": "Does feeling lonely in my relationship mean it's failing?",

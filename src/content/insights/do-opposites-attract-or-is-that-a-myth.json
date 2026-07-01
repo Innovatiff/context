@@ -34,6 +34,35 @@
     "The headline pattern is consistency, not a single dramatic statistic. The Montoya, Horton and Kirchner meta-analysis combined many studies and found a reliable positive relationship between similarity and attraction across them — the kind of broad, repeated result that gives a finding weight, even though any one effect size is moderate.",
     "Large couple studies reinforce it. Horwitz and colleagues (2023) reported that across a long list of traits, partners resemble each other more often than chance would predict, while traits where opposites pair up are rare. The honest summary is that similarity is the rule and opposites attracting is, at best, the uncommon exception — closer to a memorable story than a measured pattern."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'Opposites attract' is mostly a myth — across decades of research, similarity predicts attraction and lasting relationships far more reliably.",
+    "Meta-analytic and large couple studies find partners resemble each other on most traits, and traits where opposites pair up are rare.",
+    "Where complementarity appears, it tends to be narrow and specific rather than a general principle.",
+    "Early novelty and difference can feel exciting, but that buzz is not the same as the deeper similarity linked to lasting fit.",
+    "Where differences exist, how a couple handles them matters more for the outcome than the number of things they differ on."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The couple whose clashes make the story",
+      "body": "A pair who differ sharply on temperament or habits makes a more memorable story than one who quietly agree on most things. That is part of why the myth persists: the vivid exceptions stick in the mind while the unremarkable similar pairings fade into the background, and it becomes easy to conclude the differences are what hold things together."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Mistaking novelty for long-term fit",
+      "body": "Dating someone very different can feel exciting precisely because they are unfamiliar. But that early spark of novelty tends to fade as the unfamiliarity wears off, and it is not the same thing as the shared values and outlook the research links to durable relationships. Reading the initial buzz as a sign of long-term fit can point people in the wrong direction."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When researchers actually measure who pairs up and who lasts, similarity wins by a wide margin.",
+      "source": "On what the data shows"
+    },
+    {
+      "text": "Similarity is the rule and opposites attracting is, at best, the uncommon exception — closer to a memorable story than a measured pattern."
+    }
+  ],
   "realNumbers": [
     { "value": "Similarity", "label": "What predicts attraction across decades of studies", "source": "Montoya, Horton & Kirchner meta-analysis" },
     { "value": "Across most traits", "label": "Couples resemble each other more than chance", "source": "Horwitz et al., 2023" },

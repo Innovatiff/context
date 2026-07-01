@@ -34,6 +34,36 @@
     "This is a topic where the strongest findings are about mechanisms rather than precise statistics, so it is worth being clear that clean numbers are limited. The robust, repeatedly observed point is qualitative: romantic rejection lights up reward, motivation, and craving regions of the brain in patterns that resemble withdrawal, and social rejection overlaps with physical-pain pathways. The pain has a real neural basis, even where exact figures are not the point.",
     "On recovery, the consistent direction from affective-forecasting research is that people overestimate how long they will feel bad and underestimate their own resilience, so the felt sense of 'this will never end' typically overshoots the actual course. Recovery is the normal trajectory for most people, even though the acute pain is genuine while it lasts. If distress is severe or persistent, support from a qualified professional is worth seeking."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Romantic rejection activates the brain's reward, motivation, and craving systems — patterns that resemble craving and withdrawal.",
+    "A partner is often a primary attachment figure, so a breakup is real grief: the loss of an attachment, a shared future, and a daily presence.",
+    "Social rejection overlaps with neural pathways involved in physical pain, which is why heartbreak can genuinely 'hurt' bodily.",
+    "People overestimate how long they'll feel bad; for most, recovery is the normal trajectory, often faster than expected.",
+    "If distress is severe, persistent, or affecting daily functioning, reaching out to a qualified professional is a reasonable step."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Craving someone you chose to leave",
+      "body": "Missing an ex, wanting to reach out, and knowing it isn't good for you can all arrive at once. That contradictory pull isn't a sign you made a mistake — it's the reward and craving system responding to lost love the way it would to any reward it was wired to seek. It's why the brain-imaging findings compare the pattern to withdrawal, and why repeatedly checking their messages tends to keep re-triggering it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'This will never get better'",
+      "body": "In the acute phase the pain can feel permanent. But the sense of 'this will never end' is itself a documented distortion: affective-forecasting research finds people overestimate how long and how intensely negative events will affect them. The pain is real while it lasts, and recovery is still the typical course — often sooner than predicted."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The pain is not a sign of weakness or overreaction; it is a normal, neurologically real response to losing a primary attachment.",
+      "source": "On why heartbreak hurts"
+    },
+    {
+      "text": "The feeling of 'this will never get better' is itself a documented distortion — the typical course is toward recovery.",
+      "source": "On affective forecasting"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does a breakup feel physically painful?",

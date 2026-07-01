@@ -39,6 +39,41 @@
     { "value": "Smaller than assumed", "label": "Wellbeing gap between married and single people, after selection effects", "source": "Research on marital status and wellbeing" },
     { "value": "Stereotyped", "label": "How single people are often perceived despite many thriving", "source": "Bella DePaulo, research on singlehood and 'singlism'" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A large and growing share of adults are unpartnered — singlehood is a mainstream adult status.",
+    "The wellbeing gap between married and single people is smaller and more conditional than assumed.",
+    "Much of that gap reflects selection (who tends to marry), and the boost around marriage often fades.",
+    "Single people frequently maintain broader friend and family networks — a robust source of wellbeing.",
+    "Relationship quality and fit with what you value matter far more for happiness than relationship status."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The lopsided visibility of coupled life",
+      "body": "Partnerships are publicly celebrated and announced; the quiet satisfactions of a full single life — friendships, freedom, solitude, chosen routines — don't come with weddings or anniversaries. So they're easy to overlook in the cultural tally of what counts as a good life, which makes being single feel like falling short of a milestone the population data shows huge numbers of people share."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Content, and tired of defending it",
+      "body": "Someone happily single fields a steady stream of well-meaning messaging — the assumption they must be looking, the pity, the 'you'll find someone.' DePaulo's concept of singlism captures how this stereotyping operates even when it's kind, and how it can make genuine contentment feel like something you have to justify rather than simply live."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Addressing loneliness directly",
+      "body": "When loneliness is the real concern — for some single people, and some partnered ones too — the evidence supports moving connection directly through friendship, community, and meaningful activity, rather than treating a partner as the only remedy. A relationship entered mainly to fix unhappiness frequently doesn't."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Being single is a normal life situation, not a failure state or a holding pattern.",
+      "source": "On singlehood as a status"
+    },
+    {
+      "text": "Relationship status is far less decisive for happiness than the quality of your connections and the fit between your life and what you value.",
+      "source": "The honest reading of the data"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually normal to be single and happy?",

@@ -39,6 +39,36 @@
     { "value": "Better earlier", "label": "Outcomes tend to improve when couples come sooner, not as a last resort", "source": "Couples therapy research" },
     { "value": "Strong base", "label": "Research support behind Emotionally Focused Therapy and Gottman-informed approaches", "source": "EFT (Sue Johnson) / Gottman Institute research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Meta-analyses are reasonably positive: a majority of couples improve, with an often-cited figure around 70%.",
+    "It helps many couples, not all — a minority don't improve and some who do later relapse.",
+    "Outcomes tend to be better when couples come earlier rather than as a last resort.",
+    "Both partners engaging actively predicts more benefit than one being dragged along.",
+    "Emotionally Focused Therapy and Gottman-informed approaches are among the better-studied. This is educational context, not a clinical recommendation."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'last resort' arrival",
+      "body": "A couple who books therapy only once years of resentment have hardened is starting from the hardest possible position. The evidence on timing suggests the very instinct to treat therapy as a final step works against what it's meant to fix — couples who come before distress deeply entrenches tend to do better. A qualified therapist is best placed to judge any specific situation."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Expecting a verdict",
+      "body": "One partner hopes therapy will confirm who's right or rule on whether to stay. The research-supported approaches aren't built to adjudicate blame — they're aimed at changing how partners interact and connect. That's less satisfying as a fantasy, but it's the part the evidence actually supports."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Good therapy raises the odds of meaningful improvement — it does not guarantee a particular outcome.",
+      "source": "On what the evidence supports"
+    },
+    {
+      "text": "The 'last resort' instinct works against the very thing it is meant to fix.",
+      "source": "On timing"
+    }
+  ],
   "faqs": [
     {
       "question": "Does couples therapy actually work?",

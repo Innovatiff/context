@@ -40,6 +40,35 @@
     { "value": "~2/3", "label": "Share of relationship problems that are 'perpetual' — managed, not solved", "source": "Gottman / The Gottman Institute" },
     { "value": "~once a week", "label": "Approximate average sexual frequency among U.S. adults (wide variation, declining trend)", "source": "Twenge et al., Archives of Sexual Behavior" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Conflict is normal — stable couples argue too; what stands out is the balance and tone, not the absence of friction.",
+    "In Gottman's work, stable, satisfied couples maintained roughly five positive interactions for every negative one during conflict.",
+    "About two-thirds of relationship problems are 'perpetual' — managed over years rather than solved.",
+    "Average sexual frequency sits on the order of about once a week, but with huge variation — an average is not a benchmark for any couple."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The fight that keeps coming back",
+      "body": "The same disagreement surfaces for the fifth time and it starts to feel like proof the relationship should have fixed this by now. But if roughly two-thirds of problems are perpetual by nature — rooted in enduring differences in personality or values — the recurrence is the norm, not a breakdown. The useful shift is from trying to solve it to finding a workable way to live alongside it without contempt."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Measuring the relationship against 'once a week'",
+      "body": "A couple reads that the average is about once a week and quietly treats it as a line to clear or fall short of. But that figure is a population average that flattens enormous variation by age, relationship length, health, and stress. Read as a target it inverts what the number actually is — a description of a wide spread. The question the research supports is not 'are we normal?' but 'does this work for both of us?'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Stable couples are not the ones who resolved their issues; they are the ones who found a way to live alongside them without contempt.",
+      "source": "On perpetual problems"
+    },
+    {
+      "text": "An average describes a population, not a couple. There is no number that means a relationship is working or not.",
+      "source": "On sexual frequency"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal for couples to argue a lot?",

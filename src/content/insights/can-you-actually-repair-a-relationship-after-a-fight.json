@@ -39,6 +39,35 @@
     { "value": "~5:1", "label": "Approximate positive-to-negative interaction ratio in stable relationships", "source": "John Gottman (approximate)" },
     { "value": "Repair > avoidance", "label": "What distinguishes lasting relationships, per the research", "source": "Gottman; rupture-and-repair research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Repair, not the absence of conflict, is what tends to distinguish relationships that last.",
+    "Essentially all couples fight; a fight on its own is not a sign of a failing relationship.",
+    "Stable relationships show a rough 5:1 balance of positive to negative interactions — an approximate pattern, not a precise law.",
+    "A rupture that is acknowledged and repaired can leave a bond as strong or stronger than before.",
+    "Repair attempts are often subtle — a joke, a softer word, a small concession — and easy to miss when flooded."
+  ],
+  "examples": [
+    {
+      "label": "The skill",
+      "title": "A repair attempt in the middle of a fight",
+      "body": "During a conflict, a bit of humour, a softened tone, an acknowledgement, or a step back can de-escalate it. Couples who can both send and receive these gestures tend to recover from fights better than those who can't. The skill that matters is not avoiding arguments but repairing them."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The loud rupture and the quiet repair",
+      "body": "The fight is vivid and memorable; the reconnection afterward can be undramatic enough to overlook. That makes it easy to weigh a relationship by its conflicts and underweight the recoveries — which, in the research, matter more. A break in connection that is repaired can show the bond can survive strain and be restored."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The skill that matters is not avoiding arguments but repairing them.",
+      "source": "On rupture and repair"
+    },
+    {
+      "text": "The rupture tends to be vivid while the repair is quiet — so it's easy to overweight the fights and underweight the recoveries that matter more."
+    }
+  ],
   "faqs": [
     {
       "question": "Does fighting mean a relationship is in trouble?",

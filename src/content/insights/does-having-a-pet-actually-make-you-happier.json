@@ -39,6 +39,36 @@
     { "value": "More active", "label": "Dog owners tend to be more physically active than non-owners (varies)", "source": "Research on dogs and physical activity" },
     { "value": "Depends on fit", "label": "What the evidence suggests most determines whether a pet helps", "source": "Mixed-findings literature" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Pets help many people through companionship, routine, reduced loneliness, and — with a dog — more activity and social contact.",
+    "But rigorous reviews find the overall evidence genuinely mixed: some studies show benefits, some none, and some show downsides.",
+    "The dog-and-activity link is one of the more consistent threads, though it varies by how much the dog is actually walked.",
+    "The effect depends heavily on the person, the pet, and the fit between them — not a guaranteed boost.",
+    "For persistent loneliness or low mood, research on social connection and professional support is more reliable than counting on a pet alone."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The dog that gets you outside",
+      "body": "For someone who values being active and running into people, a dog can be a structure that reliably delivers both — the wellbeing benefit here is partly downstream of getting outside and interacting. That's one of the more consistent findings, though it still depends on how much the dog is actually walked."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A pet to fix loneliness",
+      "body": "Getting an animal specifically to treat persistent loneliness or low mood isn't reliably supported by the evidence, and a poorly matched pet can add cost, stress, and responsibility at exactly the wrong time. The more useful question than 'will a pet make me happier?' is 'is this pet right for my life?' — because the mixed findings suggest fit matters more than ownership itself."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest reading is that pets help many people — depending on the person, the pet, and the fit.",
+      "source": "On the mixed evidence"
+    },
+    {
+      "text": "Fit matters more than ownership itself.",
+      "source": "On choosing a pet"
+    }
+  ],
   "faqs": [
     {
       "question": "Do pets really make you happier?",

@@ -39,6 +39,36 @@
     { "value": "Cohort-dependent", "label": "How the 'cohabitation effect' changed across generations", "source": "Manning and colleagues" },
     { "value": "The norm", "label": "Cohabitation before marriage across many countries today", "source": "Demographic research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Older studies found a 'cohabitation effect' — higher divorce among couples who lived together first — but the finding is genuinely contested.",
+    "Much of the original effect appears to be selection: who cohabits and when, rather than cohabitation itself causing divorce.",
+    "The association is cohort-dependent — it weakened or disappeared as cohabitation went from unusual to near-universal.",
+    "Recent work is split by time horizon and disputed, so any precise-sounding percentage should be treated with caution.",
+    "What predicts marital stability is mostly unrelated: marrying very young, financial strain, and communication and commitment."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Comparing two groups that were never alike",
+      "body": "Early studies compared the later divorce rates of couples who cohabited first against those who did not, and found a gap. But the two groups differed before anyone moved in — in age at marriage, economic resources, and certainty about the relationship. So the comparison was not like with like, and much of what looked like a cohabitation effect was really pre-existing difference between the groups."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Deciding versus sliding",
+      "body": "Two couples both move in together. One drifts in gradually, by convenience, without a clear shared sense of commitment; the other makes it a deliberate, mutual decision. Some research suggests the difficulty tracks how the transition happened rather than the fact of cohabiting — a distinction about the decision, not evidence that living together is inherently risky."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What looked like a stable fact turned out to be a moving one, tied to the era being studied.",
+      "source": "On the cohort dependence"
+    },
+    {
+      "text": "Population-level associations, even where real, say nothing reliable about an individual couple.",
+      "source": "On using the statistics to judge choices"
+    }
+  ],
   "faqs": [
     {
       "question": "Does living together before marriage increase the chance of divorce?",

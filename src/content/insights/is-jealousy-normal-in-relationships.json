@@ -40,6 +40,41 @@
     { "value": "Insecurity-driven", "label": "Jealousy often tracks attachment anxiety more than a partner's behaviour", "source": "Attachment and jealousy research" },
     { "value": "Intensity & behaviour", "label": "What separates normal jealousy from harmful or controlling jealousy", "source": "Research on normal vs pathological jealousy" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Occasional jealousy is a normal, near-universal emotion — feeling it does not mean something is wrong with you or your relationship.",
+    "The distinction that matters is between the feeling and the behaviour: noticing jealousy is ordinary; monitoring or controlling a partner is where it becomes corrosive.",
+    "Jealousy often tracks a person's own insecurity and attachment anxiety more than anything a partner actually did.",
+    "Chronic, intense, or controlling jealousy is the genuine concern and, at the extreme, is a feature of abuse that warrants support.",
+    "The workable goal is handling jealousy well, not eliminating a feeling with deep, near-universal roots."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "A flicker of jealousy versus checking the phone",
+      "body": "Noticing a pang when a partner mentions a coworker is ordinary — jealousy appears across cultures and most people feel it at some point. The problem begins when the feeling turns into behaviour: monitoring messages, restricting who they see, or repeated accusations. That is where jealousy erodes the very trust it was reacting to. The feeling is not the issue; acting on it covertly is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When the certainty is really insecurity",
+      "body": "Jealousy often presents as accurate information — a gut certainty that something is wrong. But attachment research suggests it frequently tracks a person's own insecurity and comparison rather than a partner's actual behaviour. Treating the feeling as information about your own state, rather than as a verdict on your partner, tends to be more constructive than acting on the intensity as if it measured a real threat."
+    },
+    {
+      "label": "When to seek support",
+      "title": "The line where it stops being ordinary",
+      "body": "Jealousy that is chronic, distressing, or driving control — surveillance, restriction, or fear — is a different matter from an occasional pang. At that end, possessive and controlling jealousy is recognised as a feature of abusive relationships. Support such as therapy can help address the insecurity behind it, and where there is control or fear, domestic-abuse services are the appropriate place to turn."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest distinction is between the feeling and the behaviour. Noticing a flicker of jealousy is ordinary; acting on it is where it becomes corrosive.",
+      "source": "On feeling versus behaviour"
+    },
+    {
+      "text": "The feeling's intensity is not a reliable measure of how real the threat is.",
+      "source": "On why jealousy feels convincing"
+    }
+  ],
   "faqs": [
     {
       "question": "Is feeling jealous normal?",

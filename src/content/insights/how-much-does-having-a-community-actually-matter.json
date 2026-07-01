@@ -40,6 +40,36 @@
     { "value": "Contested", "label": "Status of the 'Blue Zones' longevity-and-community claims", "source": "Blue Zones (popularised)" },
     { "value": "Buffer", "label": "How community appears to act against stress and life shocks", "source": "Social connection research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Belonging to a community is tied to both wellbeing and physical health, with the health link unusually strong for a social factor.",
+    "Holt-Lunstad's meta-analyses associate stronger social relationships with roughly a 50% greater survival likelihood — pooled and mostly observational, so a strong association rather than clean proof.",
+    "Community is built through repeated, low-stakes contact with the same people, not occasional big efforts.",
+    "The 'Blue Zones' longevity narrative points in the same direction but is popularised and contested — suggestive, not settled.",
+    "Connection acts as a buffer against life's shocks, so it is most valuable when maintained steadily, before you need it."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why community is easy to underrate",
+      "body": "A sense of belonging rarely produces a dramatic moment you can point to. It shows up as lower baseline stress, someone to call, and the feeling of being part of something — none of which announces itself the way a salary or a milestone does. That quietness is exactly why people tend to notice community only when they need it, during illness or crisis, by which point it is harder to rebuild."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Moving to a new city as an adult",
+      "body": "Someone who relocates and waits to feel ready, motivated, or 'not awkward' before showing up often ends up isolated. The research points the other way: community is built through repeated presence in shared settings rather than through feeling comfortable first, and the comfort generally follows the contact. A regular activity, a local group, or a volunteer commitment is the kind of structure recurring ties tend to grow from."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People often notice the absence of community only when they need it — during illness, change, or crisis — by which point it is harder to rebuild.",
+      "source": "On why community erodes quietly"
+    },
+    {
+      "text": "The useful version is unglamorous: repeated, low-stakes contact with the same people over time.",
+      "source": "On how belonging is built"
+    }
+  ],
   "faqs": [
     {
       "question": "Does community really affect physical health, or just mood?",

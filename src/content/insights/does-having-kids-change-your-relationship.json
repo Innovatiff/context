@@ -40,6 +40,36 @@
     { "value": "Often partial", "label": "Recovery in couple satisfaction as children grow more independent", "source": "Transition-to-parenthood research" },
     { "value": "Meaning vs daily mood", "label": "Parenthood linked to more meaning but not always more day-to-day happiness", "source": "Nelson, Kushlev & Lyubomirsky" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A dip in couple satisfaction in the early parenting years is one of the most common, well-documented patterns in relationship research.",
+    "The drivers are mundane — sleep loss, less couple time, and an often-unequal increase in invisible labour — not a loss of love.",
+    "The effect is an average with wide variation: a meaningful minority report stable or improved satisfaction.",
+    "Satisfaction often partially recovers as children grow more independent; the early years tend to be the hardest, not permanent.",
+    "Feeling more bonded as a family while feeling more distant as a couple is a normal combination, not a contradiction."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The first year with a newborn",
+      "body": "A couple who felt easy and connected before the baby now barely finish a conversation, argue over who did the last night feed, and can't remember their last evening alone. It reads like the relationship is breaking. In the research this is closer to a predictable response to a sudden jump in workload, fatigue, and competing demands — most common in exactly these early years, and for many couples it eases as the child grows more independent."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Bonded as parents, distant as partners",
+      "body": "One partner feels profoundly close to the other watching them care for their child, and at the same time feels more like a co-worker than a romantic couple. Both feelings are real at once. The romantic-satisfaction dip and the deeper sense of shared meaning are the two sides the data describes, and holding them together is not a sign something is wrong."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The strain is usually real, usually shared, and for many couples it eases as children grow older and more independent.",
+      "source": "On the shape of the dip"
+    },
+    {
+      "text": "Read as a normal, often temporary strain it can be worked on; read as a verdict it can drive distance and silence.",
+      "source": "On how couples interpret the dip"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal for our relationship to get harder after having a baby?",

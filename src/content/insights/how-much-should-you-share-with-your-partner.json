@@ -39,6 +39,36 @@
     { "value": "36 questions", "label": "Structured mutual disclosure that raised closeness in a study of strangers", "source": "Aron et al." },
     { "value": "Not required", "label": "Total transparency as a condition for a healthy relationship", "source": "Research on privacy/secrecy in relationships" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no fixed amount you are supposed to share, and the research does not support the idea that healthy couples tell each other everything.",
+    "The Reis and Shaver model links closeness to disclosure plus perceived responsiveness — feeling understood — not to the raw volume shared.",
+    "The '36 questions' study shows gradual, mutual disclosure can build connection quickly, but not that more sharing is always better.",
+    "Some privacy is normal and broadly compatible with a healthy relationship; privacy is not the same as concealing things that affect trust.",
+    "The question worth asking is less 'am I sharing enough?' and more 'when I share, do I feel heard — and is anything I hold back eroding trust?'"
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Sharing a lot but still feeling distant",
+      "body": "In the intimacy research, disclosure deepens closeness mainly when it is met with understanding and care. Someone who shares openly but whose disclosures are often received with distraction or dismissal may find that more sharing does not produce more closeness. The pattern points to responsiveness — feeling heard — rather than volume, which is why how a partner receives disclosure matters at least as much as how much each person shares."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Wanting some inner space",
+      "body": "Wanting unshared opinions, private thoughts, or time of your own can feel like a small betrayal if you have absorbed the message that love means having no secrets. But research on privacy and secrecy suggests holding some things back is common and broadly compatible with a strong relationship. The distinction worth keeping is between ordinary privacy and concealing things that genuinely affect trust — a different category."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'We tell each other everything' is more of a cultural ideal than a documented marker of relationship health.",
+      "source": "On the no-secrets myth"
+    },
+    {
+      "text": "The aim the evidence points to is trust and feeling understood, not a quota of confessions.",
+      "source": "On what actually builds closeness"
+    }
+  ],
   "faqs": [
     {
       "question": "Should couples tell each other everything?",

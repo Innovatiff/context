@@ -39,6 +39,62 @@
     { "value": "~15", "label": "Typical close-friend layer in the layered model", "source": "Dunbar, social-network research" },
     { "value": "~150", "label": "Often-cited rough limit on stable relationships ('Dunbar's number')", "source": "Dunbar, social-network research" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Friendships aren't self-sustaining — they decay without contact, so a transition that cuts contact erodes the bond even when the affection is intact.",
+    "Drift after a life change is usually structural, not personal: moves, new jobs, partners, and children remove the shared routines and proximity a friendship ran on.",
+    "In Dunbar's layered model, ties tend to slide into looser layers rather than vanish — drift is more often a change of intensity than an ending.",
+    "Frequent, low-effort contact maintains a friendship better than rare, high-production reunions.",
+    "Close ties are few and require upkeep, so being intentional about which few you actively maintain is realistic rather than cold."
+  ],
+  "tables": [
+    {
+      "title": "The layered structure of social relationships (Dunbar)",
+      "caption": "Nested layers of decreasing closeness. These are rough averages with wide individual variation, not targets. Keeping someone in an inner layer takes more frequent contact; when a life change cuts that contact, people tend to slide outward rather than disappear.",
+      "columns": ["Layer", "Approx. number of people"],
+      "rows": [
+        ["Innermost circle (closest friends)", "≈ 5"],
+        ["Close-friend layer", "≈ 15"],
+        ["Outer limit on stable relationships ('Dunbar's number')", "≈ 150"]
+      ],
+      "highlightColumn": 1,
+      "source": "Dunbar, social-network research"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How the layers grow outward",
+      "caption": "The same figures as bars. Close ties are few and require upkeep; the looser outer layers are much larger. When contact drops, a friendship tends to slip toward the wider layers rather than hold its place.",
+      "source": "Dunbar, social-network research",
+      "bars": [
+        { "label": "Innermost circle", "value": 5, "display": "≈ 5" },
+        { "label": "Close-friend layer", "value": 15, "display": "≈ 15" },
+        { "label": "Stable relationships limit", "value": 150, "display": "≈ 150" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The friend who moved away",
+      "body": "Nobody decided to end it. You simply no longer share a commute, a workplace, or a free Tuesday night — so the unplanned, repeated contact the friendship was quietly running on is gone, and you talk less. The mind fills that gap with a story about feelings or fault, but the more accurate explanation is structural: the scaffolding disappeared, not the affection."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Outcompeted by a new baby",
+      "body": "A new child absorbs the discretionary hours that used to go to friends. The friendship hasn't been judged and rejected — it's been outcompeted for a scarce resource, time and attention. Keeping a specific one alive through the transition means making contact deliberate: a standing call or frequent short messages that substitute for the encounters it used to get for free."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Drift after a life change is one of the most common and least personal things that happens to friendships.",
+      "source": "On reading drift as structural"
+    },
+    {
+      "text": "The friendship has not been judged and rejected; it has been outcompeted for a scarce resource.",
+      "source": "On why transitions disrupt friendships"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal for friends to drift apart after a big life change?",

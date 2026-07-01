@@ -40,6 +40,36 @@
     { "value": "Across families", "label": "Where the careful comparisons are made, weakening older claims", "source": "Large-sample birth-order research" },
     { "value": "Confirmation bias", "label": "A main reason the stereotypes feel true", "source": "Cognitive psychology" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Large, well-controlled studies find essentially no meaningful effect of birth order on broad adult personality.",
+    "The one real exception is tiny: firstborns average a point or two higher on measured intelligence — too small to say anything about an individual.",
+    "The stereotypes survive on confirmation bias — you notice the responsible firstborn and overlook the ones who aren't.",
+    "Older claims often came from within-family comparisons that can't rule out family size, age, and socioeconomic confounds.",
+    "Siblings differ for many reasons — genetics, timing, chance — not a built-in birth-order script."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "How the stereotype stays alive",
+      "body": "Once you believe firstborns are the responsible ones, every dutiful eldest sibling confirms it and every flaky one gets filed as an exception. That's confirmation bias: the belief quietly edits the evidence, so the stereotype feels more and more obviously true even as the large-sample data says the effect is essentially nil."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'We're so different — that's clearly birth order'",
+      "body": "Three siblings who turned out nothing alike can feel like living proof that rank shapes character. But within-family differences are exactly what the careful research can't attribute to birth order: siblings differ because of genetics, timing, chance, and changing family circumstances. The dividing line that's easiest to see is not the one the data supports."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The stereotypes are intuitive and widely repeated — but they considerably outrun the careful data.",
+      "source": "On birth-order myths"
+    },
+    {
+      "text": "An intuitive, widely repeated idea is not the same as a well-supported one.",
+      "source": "On weighing confident claims"
+    }
+  ],
   "faqs": [
     {
       "question": "Are firstborns really more responsible and lastborns more rebellious?",

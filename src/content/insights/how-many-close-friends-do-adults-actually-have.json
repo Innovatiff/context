@@ -37,6 +37,65 @@
     { "value": "~5 / ~15", "label": "Estimated intimate / close inner-circle ties", "source": "Dunbar, social brain hypothesis" },
     { "value": "Falling", "label": "Average in-person time with friends over two decades", "source": "American Time Use Survey" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The median adult reports only about three to four close friends, and roughly half report three or fewer.",
+    "The share of adults with no close friends rose from about 3% in 1990 to around 12% in 2021.",
+    "Dunbar's framework puts the inner circle at roughly five intimate and about fifteen close ties — a small circle is near the ceiling, not a shortfall.",
+    "Average in-person time with friends has fallen over two decades, thinning the conditions friendship needs.",
+    "Depth beats breadth: investing in a few close ties does more for wellbeing than expanding the count."
+  ],
+  "tables": [
+    {
+      "title": "The close-friends picture, in figures",
+      "caption": "Every number here is drawn from the same body of research the page cites. A 'close friend' means someone you would confide in or call in a crisis — not an acquaintance, follower, or contact.",
+      "columns": ["Measure", "Figure", "Source"],
+      "rows": [
+        ["Median close friends reported by adults", "≈ 3–4", "Survey Center on American Life, 2021"],
+        ["Adults reporting three or fewer close friends", "≈ half", "Survey Center on American Life, 2021"],
+        ["Adults reporting no close friends (1990)", "≈ 3%", "Survey Center on American Life"],
+        ["Adults reporting no close friends (2021)", "≈ 12%", "Survey Center on American Life"],
+        ["Estimated intimate inner-circle ties (Dunbar)", "≈ 5", "Dunbar, social brain hypothesis"],
+        ["Estimated close inner-circle ties (Dunbar)", "≈ 15", "Dunbar, social brain hypothesis"]
+      ],
+      "highlightColumn": 1,
+      "source": "Survey Center on American Life (2021); Dunbar, social brain hypothesis"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Adults reporting no close friends: 1990 vs 2021",
+      "caption": "A real and worth-noting shift — but one that still leaves the large majority with at least one close friend.",
+      "unit": "% of adults",
+      "source": "Survey Center on American Life, American Perspectives Survey (2021)",
+      "bars": [
+        { "label": "1990", "value": 3, "display": "≈3%" },
+        { "label": "2021", "value": 12, "display": "≈12%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two close friends, and a feeling of falling short",
+      "body": "Having one or two people you would call in a crisis can feel thin next to group photos and dense social feeds. But roughly half of adults report three or fewer close friends, and Dunbar's inner circle of about five intimate ties is close to the human ceiling. Counted honestly — confidants, not contacts — two close friends sits squarely within the ordinary range."
+    },
+    {
+      "label": "The mechanism",
+      "title": "The circle that quietly thinned after a move",
+      "body": "Friendships commonly thin after major transitions — moving, changing jobs, becoming a parent — because those changes remove the automatic, repeated contact that school and early work supplied. Time-use data shows in-person time with friends has fallen over two decades. The resulting smaller circle feels personal, but it is a structural pattern tied to life stage, not a personal failing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A small number of genuinely close friends is not a shortfall; it is close to the ceiling of what most people can maintain at once.",
+      "source": "On Dunbar's inner-circle layers"
+    },
+    {
+      "text": "You are comparing the size of your real circle to a curated impression of everyone else's.",
+      "source": "On why other people's friendships look effortless"
+    }
+  ],
   "faqs": [
     {
       "question": "How many close friends does the average adult have?",

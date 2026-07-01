@@ -39,6 +39,36 @@
     { "value": "Late 20s–30", "label": "Median age at first marriage in the U.S. today", "source": "U.S. Census Bureau" },
     { "value": "Wide range", "label": "Spread of reported partner counts across the population", "source": "General Social Survey / national surveys" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no normal number of relationships before settling down — the range is genuinely wide, with a long tail in both directions.",
+    "Self-reported medians for lifetime partners tend to sit in the low single digits; the average runs higher, pulled up by a minority.",
+    "Partner-count figures are among the noisiest survey data there is — shaped by recall and by what people are willing to disclose.",
+    "The firmer trend is timing: median age at first marriage has risen into the late 20s to around 30 (Census).",
+    "More dating before settling down has simply become typical, so any single count is a poor thing to hold yourself against."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Worrying about too few — and worrying about too many",
+      "body": "Someone who has had one or two relationships can worry they're inexperienced; someone who has had many can worry they're unstable. Both are reacting to an imagined standard rather than to the wide, flat distribution the survey data actually shows, where a large range of counts is entirely common. The number itself is a weak signal about how any future relationship will go."
+    },
+    {
+      "label": "The mechanism",
+      "title": "A timeline written for a different era",
+      "body": "Older ideas about meeting one person young and settling quickly still shape expectations — even though the median age at first marriage has moved years later, into the late 20s to around 30. Measuring your own history against a script from the mid-20th century reliably makes a perfectly ordinary path feel like an outlier, when it's the script, not the path, that's out of date."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The useful takeaway is not a target to match but the shape of the picture: wide variation, no single normal.",
+      "source": "On reading the partner-count data"
+    },
+    {
+      "text": "A past count is a weak signal about a future relationship.",
+      "source": "On what actually predicts whether relationships last"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the average number of relationships before settling down?",

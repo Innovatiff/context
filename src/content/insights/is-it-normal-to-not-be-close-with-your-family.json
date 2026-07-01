@@ -39,6 +39,35 @@
     { "value": "~1 in 4", "label": "Same figure, restated", "source": "Cornell estrangement survey" },
     { "value": "Far more", "label": "Adults who are distant or strained but not fully estranged", "source": "Family estrangement research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Distant, strained, or estranged family relationships are far more common than people assume.",
+    "Pillemer's Cornell survey estimated roughly 27% of U.S. adults — about one in four — are estranged from a relative.",
+    "Estrangement is only the sharper end; many more people are simply low-contact, cool, or distant without being cut off.",
+    "Distance is often a considered choice for real reasons, not automatically a problem to be fixed.",
+    "Where people do want less distance, small, repeated, low-pressure contact tends to work better than one dramatic conversation."
+  ],
+  "examples": [
+    {
+      "label": "The spectrum",
+      "title": "The large, unspoken middle ground",
+      "body": "Family closeness is not binary. Beyond those who are fully cut off, a great many families sit somewhere between very close and fully estranged — cordial but distant, low-contact, or emotionally cool. That middle is rarely talked about but is statistically ordinary, which is exactly why people who live in it can feel uniquely alone."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Guilt from the script, not the relationship",
+      "body": "Someone measures a distant relationship against the cultural idea that family closeness is obligatory and unconditional, and reads their own reasonable response to real history as a failure of duty. Often the script, not the relationship, is the source of the guilt — and distance is frequently the outcome of years of accumulated history rather than any single event or personal failing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Distance is not automatically a problem to be fixed — some distance is healthy and protective, and there is no single normal a family is supposed to look like.",
+      "source": "On family closeness"
+    },
+    {
+      "text": "The silence, not the situation, is much of what makes it feel lonely."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to not be close with your family?",

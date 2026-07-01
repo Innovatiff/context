@@ -34,6 +34,35 @@
     "There is no clean headline number here, and that is the honest finding. The Nelson, Kushlev and Lyubomirsky (2014) review describes a consistent direction rather than a magnitude: higher meaning and purpose for parents, alongside more stress and mixed-to-lower momentary happiness, concentrated in the years with young children. Effect sizes vary across studies and populations.",
     "What the cross-country work adds is that the daily-happiness gap is conditional. Glass, Simon and Andersson found the 'parenting happiness penalty' differs by country and shrinks where family policy is generous, which implies much of the measured cost reflects support and resources rather than children themselves. Read these as patterns with wide variation, not fixed figures."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Children tend to add meaning and purpose more than they add moment-to-moment happiness — the so-called parenthood paradox.",
+    "The effect is highly conditional: stress, finances, support, sleep, and relationship quality move the result more than parenthood itself.",
+    "Cross-country work suggests the daily-happiness gap shrinks or disappears where family policy is generous.",
+    "Wellbeing data cannot settle the choice — neither having children nor not having them is the reliably happier path."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A worthwhile life, an exhausting Tuesday",
+      "body": "A parent describes their life as deeply meaningful and would not undo it — and also finds many individual days draining, short on sleep, and stretched thin. This is not a contradiction. It is exactly the split the research describes between higher meaning and more mixed, sometimes lower, day-to-day happiness, concentrated in the years with young children."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same choice, different conditions",
+      "body": "Two people make the same decision to have a child, but one has paid leave, affordable childcare, a strong partnership, and financial stability, while the other has little support and constant money strain. The research suggests their day-to-day experience can diverge sharply — because much of the measured happiness cost tracks conditions and resources, not children as such."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Children tend to add meaning more than they add moment-to-moment happiness.",
+      "source": "On the parenthood paradox"
+    },
+    {
+      "text": "Neither path is the reliably happier one; it depends on values and circumstances.",
+      "source": "On what the wellbeing data can settle"
+    }
+  ],
   "faqs": [
     {
       "question": "Do parents end up happier than people without kids?",

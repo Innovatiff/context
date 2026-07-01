@@ -34,6 +34,36 @@
     "The headline numbers here are about prevalence rather than tidy effect sizes, so they are best read as context. The share of households consisting of one person has risen substantially across many developed countries over recent decades — Klinenberg's work documents living alone as one of the most significant demographic shifts of the modern era — which means it is now an ordinary, common arrangement rather than an unusual one.",
     "On loneliness itself, the precise figures vary widely by country, age group, and how surveys word the question, so they should be treated cautiously. The robust point is conceptual rather than numerical: loneliness is measured as a subjective, perceived gap in connection, which is why living alone and feeling lonely show only a loose relationship, and why some people in households feel lonelier than some people living solo."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Living alone and feeling lonely are two different things that often get treated as one.",
+    "Loneliness is a subjective, perceived gap between the connection you want and the connection you have — not a headcount.",
+    "Many solo dwellers are highly socially active and not especially lonely; some people in full households feel deeply isolated.",
+    "Living alone mainly raises loneliness risk when someone's wider network has also thinned — it depends on the person and their ties.",
+    "Connection quality, not household size, is what does the real work against loneliness."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The socially active solo dweller",
+      "body": "Someone lives alone in a city, invests heavily in friendships, civic life, and regular activity, and is not especially lonely — often more socially active than friends in shared households. This is the pattern Klinenberg documented: living alone is frequently a choice, not a sentence to isolation, and solo dwellers often maintain wider social lives than the stereotype assumes."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Lonely in a full house",
+      "body": "A person shares a home with a partner or family and still feels unseen and isolated, because the connection they want is not the connection they have. Because loneliness is invisible, they rarely say so — while solo living is visible and easy to point at. The floor plan is a weak predictor; the felt gap in connection is the thing worth addressing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Loneliness is fundamentally about the gap between the connection you want and the connection you have, not about how many people happen to share your address.",
+      "source": "On what loneliness actually measures"
+    },
+    {
+      "text": "Solo living does not doom anyone to loneliness, but it also does not protect against it; the connections you maintain are what do the work.",
+      "source": "On living alone"
+    }
+  ],
   "faqs": [
     {
       "question": "Are people who live alone lonelier than people who don't?",

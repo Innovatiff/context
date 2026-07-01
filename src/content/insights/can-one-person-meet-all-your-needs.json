@@ -34,6 +34,35 @@
     "This is a topic where the evidence is more conceptual and historical than numerical, so it is worth being honest that there is no single headline statistic. The strongest claims are about pattern and direction: expectations of marriage have shifted toward self-fulfilment over time (Finkel's historical analysis), and greater diversity in one's mix of relationships is associated with higher wellbeing (the social-portfolio research).",
     "Supporting context comes from population data on relationships more broadly — for example, that most adults report only a few genuinely close friends, which means the pool of ties available to share needs across is often smaller than people assume. Those figures vary by survey and country and should be read as rough indications rather than precise rates; the related insights on close friends and loneliness go into them further."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "No single relationship is well suited to meeting every emotional and social need.",
+    "Roles a partner now plays — confidant, best friend, co-parent, source of growth — were once spread across a whole community.",
+    "People who draw on a diverse mix of relationships for different needs tend to report higher wellbeing.",
+    "The least workable combination is high expectations of a relationship paired with little investment in it.",
+    "An unmet need is usually a normal limit of one tie, not proof you are with the wrong person."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The load one tie used to share",
+      "body": "Confidant, best friend, intellectual equal, co-parent, source of passion and growth — these roles were once spread across family, friends, and community. When they all route through one person, that relationship carries a load it was never built to hold alone, and falling short of it can look like a flaw rather than a normal limit."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A strong relationship that still leaves a need unmet",
+      "body": "Someone who is your steadying presence may not be the one who challenges you intellectually or shares a particular passion. Looking to a friend for that companionship, or to a wider circle for recreational connection, is not a failure of the primary relationship — it is closer to how the research suggests social needs are most sustainably met."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "One person can meet many of your needs, often very well — but expecting them to meet all of them tends to strain the relationship and the person.",
+      "source": "On the all-or-nothing expectation"
+    },
+    {
+      "text": "Looking to a friend or a wider circle for a need your partner doesn't fill is not a failure of the relationship — it's how social needs are most sustainably met."
+    }
+  ],
   "faqs": [
     {
       "question": "Should my partner be my best friend?",

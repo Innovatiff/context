@@ -34,6 +34,35 @@
     "This is an area where the honest answer is mostly qualitative rather than numerical — there is no reliable 'percentage of relationships that recover' figure, and you should be wary of anyone who quotes one. What the research offers instead is a direction and a shape: trust is slower to rebuild than to lose, integrity violations repair less readily than competence ones, and repair is set back sharply by repeat breaches.",
     "The broader context worth holding is that conflict and rupture are normal features of close relationships, not signs they are doomed; what tends to distinguish relationships that recover is the presence of repair attempts and follow-through, not the absence of breaches. Treat the timeline as months rather than moments, and treat the absence of a clean, guaranteed answer as the honest state of the evidence."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Trust can usually be rebuilt, but slowly and partially — it is conditional work, not a switch you flip back.",
+    "An apology opens the door; consistent, observable changed behaviour over time is what actually rebuilds trust.",
+    "Breaches read as integrity or character violations repair less readily than those read as honest mistakes.",
+    "Repair is fragile: a further breach after a promise of change can drop trust below where it started.",
+    "The two people run different clocks — the apology feels like the turning point to one and the start of a waiting period to the other."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The apology that felt like the finish line",
+      "body": "One partner apologises sincerely and expects the relationship to reset from there. The other hears the same apology as the start of a waiting period — a time to watch whether the behaviour actually changes. Neither is acting in bad faith; they are simply running different clocks, which is one of the most common and most structural sources of frustration in trust repair."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why the second slip lands so hard",
+      "body": "After a breach, an apology, and a promise to change, a single further violation tends to be treated not as a small setback but as confirmation that the change was never real. That is why repair is described as fragile: the injured person is scanning for whether the original pattern is still there, and a repeat breach can drop trust below its post-breach level."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "An apology opens the door; it is the consistent follow-through afterward that does the rebuilding.",
+      "source": "On what actually repairs trust"
+    },
+    {
+      "text": "Trust is slower to build than to break, and repair is easily set back — gradual and conditional, not fast or guaranteed."
+    }
+  ],
   "faqs": [
     {
       "question": "Can trust ever fully go back to how it was?",

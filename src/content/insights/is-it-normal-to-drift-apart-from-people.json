@@ -40,6 +40,41 @@
     { "value": "Mostly passive", "label": "Cause of drift — lost shared contexts and limited time, not conflict", "source": "Mollenhorst, Völker & Flap" },
     { "value": "Concentric layers", "label": "Structure of friendship people move in and out of across a life", "source": "Robin Dunbar — social network layers" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Constant turnover, not stability, is the natural state of personal networks.",
+    "A widely cited estimate: people lose touch with roughly half their close network over about seven years.",
+    "Most drift is passive — a shared workplace, neighbourhood, or life stage changes, not a falling-out.",
+    "Dunbar's layers model: a small close core takes real time and attention to maintain, so ties cycle in and out.",
+    "Because faded ties ended through lost contact, not conflict, many can be reactivated later."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The friendship with no ending",
+      "body": "A drift is so gradual there's no event to make sense of, so the mind supplies one — usually self-blame or the sense that the bond 'should' have lasted. The absence of a falling-out can paradoxically make the fading harder to interpret than an outright argument would. In the data, though, the dominant driver is structural: a lost shared context and the simple scarcity of time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When you change jobs",
+      "body": "Work friends you saw daily slowly fade after one of you moves on — not from any argument, but because the shared context that sustained the tie disappeared. To keep the ones you want, the research-aligned move is to manufacture a new reason for regular contact: a standing plan, a recurring activity, something that replaces the proximity the job used to provide."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reopening a door that was never shut",
+      "body": "A relationship that faded passively can often be picked back up, precisely because it ended through lost contact rather than conflict — there's no breach to repair, only a context to rebuild. Writing a drifted friend off as permanently over forecloses a reconnection the absence of any real rupture would otherwise allow."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People drift apart largely because the structures that kept them in regular contact dissolve — not because anything went wrong between them.",
+      "source": "On why ties fade"
+    },
+    {
+      "text": "Permanence is the exception; continuous replacement is the norm, even among close ties.",
+      "source": "What the network research suggests"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to drift apart from friends without any falling-out?",

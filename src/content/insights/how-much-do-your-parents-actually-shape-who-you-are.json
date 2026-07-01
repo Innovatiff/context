@@ -39,6 +39,41 @@
     { "value": "Relatively small", "label": "Role of the shared family environment in adult personality variation", "source": "Twin and adoption studies" },
     { "value": "Large", "label": "Portion explained by unique, non-shared individual experience", "source": "Behavioural genetics research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Twin and adoption studies suggest the shared family environment explains surprisingly little of adult personality variation.",
+    "Genetics and each person's unique, non-shared experiences appear to explain more of personality than the home environment does.",
+    "Parents clearly do shape values, religion, language, education, opportunity and early attachment — the claim is bounded to personality.",
+    "Severe experiences like abuse or neglect can leave lasting effects; personality also keeps shifting across adulthood.",
+    "The honest takeaway is security over optimisation: a stable, warm relationship over anxiously engineering a child's traits."
+  ],
+  "examples": [
+    {
+      "label": "The confound",
+      "title": "A calm parent, a calm child",
+      "body": "When a calm parent raises a calm child, it looks like upbringing did the work. But parents pass on genes and environment at the same time, so the child may have inherited the temperament rather than absorbed it. That confound is exactly what twin and adoption studies are built to untangle — and when they do, the shared home environment turns out to explain less of adult personality than the intuitive story assumes."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling defined by how you were raised",
+      "body": "Someone who feels their whole personality was set by their upbringing can find this research quietly freeing. The evidence that shared environment explains less of adult personality than assumed loosens the sense of being wholly determined by it, and personality keeps changing across adulthood — so early environment is not a fixed sentence. Where a difficult upbringing involved severe experiences like abuse or neglect, those can leave lasting marks worth taking seriously."
+    },
+    {
+      "label": "For parents",
+      "title": "The pressure to optimise every decision",
+      "body": "A parent agonising that each choice is finely sculpting their child's character is working from an assumption the data doesn't support. Parents matter a great deal for a child's safety, values, opportunities and their relationship — and somewhat less for engineering personality. That reframes the job as offering a stable, loving relationship rather than anxiously optimising, which is both more accurate and more freeing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Two children raised in the same home are often not much more alike in personality than two raised apart, once genetics is accounted for.",
+      "source": "On the shared-environment finding"
+    },
+    {
+      "text": "'Parents shape personality less than you think' coexists with 'parents matter enormously for many other things.'",
+      "source": "On keeping the claim bounded"
+    }
+  ],
   "faqs": [
     {
       "question": "Do parents shape your personality?",

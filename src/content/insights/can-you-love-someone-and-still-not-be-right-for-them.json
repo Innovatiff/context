@@ -34,6 +34,35 @@
     "This is a topic where precise statistics are less reliable than the conceptual findings, and it is worth resisting the urge to attach a number to something this individual. The durable, well-supported point is structural: Sternberg's triangular theory treats love as having distinct components (intimacy, passion, commitment) that vary independently, which is why \"we love each other\" underdetermines whether a relationship is workable.",
     "Similarly, the research on outcomes points to compatibility, shared values, life circumstances, timing, and conflict handling as mattering alongside love — and to Gottman's finding that how couples manage disagreement is more telling than whether they disagree. Rather than a single figure, the honest takeaway is that love is one input among several, not the whole equation."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Love and compatibility are related but distinct — love alone does not guarantee a workable relationship.",
+    "Sternberg's theory treats love as three components (intimacy, passion, commitment) that vary independently.",
+    "Compatibility in values, goals, life circumstances, and timing matters alongside love, not automatically from it.",
+    "How partners handle conflict tracks with how a relationship fares — and love does not automatically supply those skills.",
+    "The love can be entirely real and the fit can still be wrong; both can be true at once."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Vivid feeling, quiet mismatch",
+      "body": "Passion and intimacy are easy to feel in the moment; a mismatch in long-term values or life direction can stay invisible until a concrete decision tests it — about children, location, or how to live. That timing gap makes it feel as though strong feelings should be enough, right up until they are not."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two people who love each other and want different things",
+      "body": "Two people can feel deeply for each other while wanting fundamentally different lives, and that mismatch operates somewhat separately from how much they care. Naming fit as its own question — rather than a referendum on how much you love someone — is closer to what the research supports, and means parting can itself be a loving act."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Love appears closer to necessary-ish than to sufficient — which means parting, when it happens, can itself be a loving act rather than a sign that the love was not real.",
+      "source": "On love versus fit"
+    },
+    {
+      "text": "The love can be entirely real and the fit can still be wrong, and both things can be true at once."
+    }
+  ],
   "faqs": [
     {
       "question": "Can you really love someone and still not be right for them?",

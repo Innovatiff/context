@@ -34,6 +34,35 @@
     "The key point here is conceptual rather than numerical: across the loneliness research, the consistent finding is that subjective, perceived connection predicts loneliness far better than the objective size of someone's social network. That is the load-bearing fact, and it is well replicated, even though it is not a single percentage.",
     "Population data does suggest loneliness is widespread — many large surveys find a substantial share of adults report feeling lonely at least some of the time — but the figures vary widely by country, age group, and exactly how the question is asked, so any one number should be treated as a rough indication rather than a precise rate. For a fuller look at those population figures, see the related insight on loneliness in adults worldwide."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Loneliness tracks the perceived quality of your connections, not how many people are physically nearby.",
+    "Being among people who don't make you feel known can be lonelier than being alone.",
+    "Solitude and loneliness are distinct: you can have plenty of solitude with no loneliness, and very little while feeling deeply lonely.",
+    "Loneliness is better read as a signal of an unmet need — like hunger — than as a verdict on your worth."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Lonely in a full room",
+      "body": "You can be in a crowd, or a long-term relationship, and still feel lonely because the need is depth, not supply. Loneliness can bias attention toward signs of rejection and make you more guarded — so you may be both longing for connection and, without meaning to, holding back from it, which makes the people around you feel further away."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling unseen in a relationship",
+      "body": "Two people share a home and a daily routine, yet one feels quietly lonely because conversations rarely move past logistics. The headcount is beside the point: what's missing is felt understanding and responsiveness — the sense of being genuinely seen. Moving talk toward what actually matters to each person is one of the better-supported ways to turn proximity back into connection."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The headcount around you is almost beside the point. What matters is whether you feel understood, responded to, and able to be yourself.",
+      "source": "On quality over quantity"
+    },
+    {
+      "text": "Read as information rather than a verdict, loneliness points toward reaching for depth — not toward something being wrong with you.",
+      "source": "On loneliness as a signal"
+    }
+  ],
   "faqs": [
     {
       "question": "How can I feel lonely if I'm surrounded by people?",

@@ -40,6 +40,36 @@
     { "value": "Declining", "label": "Shares meeting through family, church, and school have fallen", "source": "Rosenfeld et al., PNAS 2019" },
     { "value": "From ~1995", "label": "Roughly when online meeting began its steady climb", "source": "How Couples Meet and Stay Together (Stanford)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "In the U.S., meeting online has become the single most common way couples find each other, overtaking introductions through friends.",
+    "As online rose, meeting through family, friends, church, and school all declined — online 'disintermediated' the social network.",
+    "The change happened fast, within a single generation, which is why different age groups describe genuinely different normals.",
+    "Research finds no large, consistent difference in satisfaction or stability between couples who met online and offline.",
+    "Treat any single percentage as approximate and U.S.-specific — the reliable finding is the trend, not the decimal point."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Finding someone your friends could never have introduced",
+      "body": "For most of the last century you met partners through people you already knew — a friend, a cousin, a colleague made the introduction. Online meeting removed that middleman: it lets you reach partners entirely outside your existing circle. For anyone whose offline network is small, scattered, or short on eligible partners, that widening of the pool is the main thing the technology changed."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two people, same city, describing different worlds",
+      "body": "Someone who came of age before smartphones may have met every partner through offline networks and assume that's still how it works. Someone a decade younger may have met partners almost entirely through apps. Both can look at the same dating landscape and describe genuinely different normals — because the ground shifted under them inside a single generation."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The route that statistically works most often can feel, from the inside, like the one that mostly does not.",
+      "source": "On the gap between aggregate outcomes and individual experience"
+    },
+    {
+      "text": "The meeting story, however it happens, is a starting point rather than a determinant.",
+      "source": "On what actually predicts a lasting relationship"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true most couples now meet online?",

@@ -40,6 +40,35 @@
     { "value": "Replayed", "label": "Social moments dwelled on afterward, biased toward the negative", "source": "Post-event processing research" },
     { "value": "~5–12%", "label": "Commonly cited lifetime prevalence range for social anxiety disorder (varies by study)", "source": "Epidemiological surveys" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling socially awkward is close to universal — the research suggests it is the norm, not a personal defect.",
+    "The spotlight effect: we overestimate how much others notice our slip-ups, often by roughly double.",
+    "The liking gap: after a conversation, people underestimate how much their partner actually liked them.",
+    "Post-event rumination replays our own missteps and is linked to more social anxiety, not less.",
+    "Persistent, impairing social anxiety is a distinct, treatable clinical condition worth a clinician's assessment."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The internal signal vs the external one",
+      "body": "You feel your own racing heart, fumbled sentence, and warm face directly and intensely. The other person sees only a small fraction of that — usually far less than you assume. The mismatch between the vivid internal signal and the muted external one is what makes ordinary awkwardness feel so exposing, even when almost none of it reaches anyone else."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Still wincing a week later",
+      "body": "Weeks after a conversation you may still be replaying one clumsy moment, while the other person forgot it within minutes. Because we rehearse our own embarrassing moments and others almost never do, the imbalance grows over time. The replay feels like proof the moment was as bad as feared, when it is mostly evidence of where your attention went."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The awkwardness we feel is usually more private and exaggerated than the version anyone else experienced.",
+      "source": "On the spotlight effect and the liking gap"
+    },
+    {
+      "text": "Others are running the same private commentary about themselves — the apparent ease is largely the same outside-view illusion in reverse."
+    }
+  ],
   "faqs": [
     {
       "question": "Is everyone secretly socially awkward?",

@@ -34,6 +34,35 @@
     "This is an area where precise universal numbers would be misleading, and the research is genuinely mixed rather than settled, so it is worth hedging openly. What the evidence supports is directional: online relationships can deliver real support, intimacy, and belonging; active, interactive use is associated with better wellbeing than passive scrolling; and in-person contact appears, on average, to retain some unique advantage for emotional closeness.",
     "The clearest structural finding is blending: rather than online life crowding out offline life, most people's online and offline networks overlap substantially, with many close online ties involving offline contact too. So the realistic frame is not 'online versus in-person' as rival categories but a single, mixed social world in which an online friendship can be entirely real and in-person time still adds something on top."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Online friendships can provide real intimacy, belonging, and support — the evidence for that is fairly solid.",
+    "Active, interactive use is linked to better wellbeing; passive scrolling is more consistently linked to worse.",
+    "In-person contact still appears to carry some unique advantage for emotional closeness.",
+    "Online and offline networks increasingly blend and reinforce each other rather than compete.",
+    "How you use the internet matters more than how much."
+  ],
+  "examples": [
+    {
+      "label": "Active vs passive",
+      "title": "Silent scrolling vs real back-and-forth",
+      "body": "Passively watching others' lives without interacting is the pattern more consistently linked to lower wellbeing. Exchanging messages, having conversations, and offering reciprocal support with specific people is the pattern associated with friendships people experience as real. Being online more is not the same as being more connected — and can cut the other way."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A friendship maintained mostly through a screen",
+      "body": "A relationship held together by messages, voice calls, or a shared online community can be emotionally central yet leave fewer visible markers than meeting for coffee — which can make even the person inside it underrate it. For someone isolated, distant, or sharing a niche interest, that friendship may be a primary source of connection, not a lesser substitute."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "An online friendship can be deeply real while in-person time still adds something the screen does not fully replace.",
+      "source": "On blended social worlds"
+    },
+    {
+      "text": "The friendship-building, conversation-having kind of online activity is the kind associated with better outcomes — not the silent-scrolling kind."
+    }
+  ],
   "faqs": [
     {
       "question": "Can an online friendship be a real, close friendship?",

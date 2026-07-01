@@ -40,6 +40,36 @@
     { "value": "Varies widely", "label": "How much touch people want, by person and culture", "source": "Affectionate-touch and cross-cultural touch research" },
     { "value": "Oversimplified", "label": "Status of the popular 'oxytocin love hormone' explanation", "source": "Cautions in oxytocin and bonding research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Everyday affectionate touch is associated with higher relationship satisfaction and lower stress, and often underrated.",
+    "Small, routine gestures — a hug on arrival, holding hands, sitting in contact — matter more in the research than grand gestures.",
+    "How much touch people want varies widely by person and culture; a mismatch is common, not a sign something is wrong.",
+    "Touch that is wanted and well-timed shows the positive effects; unwanted or mistimed touch does not — fit matters as much as frequency.",
+    "The 'oxytocin love hormone' story is an oversimplification; touch communicates care and reduces stress, whatever the mechanism."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A high-touch and a low-touch partner",
+      "body": "Two people can experience the same amount of affection very differently — one feeling close and reassured, the other feeling crowded or under-touched. That mismatch is a common, quiet source of friction rather than a sign something is wrong with either person. The research on responsive support points toward matching affection to what the other actually wants, so noticing and asking about a partner's comfort with touch tends to matter as much as the touch itself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Touch-deprived and living alone",
+      "body": "Someone living alone can register a real lack of wanted physical contact — sometimes called 'skin hunger' — which surveys during periods of isolation found was common, especially among people on their own. The broader literature suggests other forms of affectionate contact, from hugs with friends and family to contact with pets, may help. The evidence here is thinner than for partner touch, so these are plausible, low-risk options rather than proven prescriptions."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People often register the absence of touch long before they would have credited its presence.",
+      "source": "On why affection is easy to underrate"
+    },
+    {
+      "text": "The research points to fit between people, not a single correct amount.",
+      "source": "On mismatched touch preferences"
+    }
+  ],
   "faqs": [
     {
       "question": "Does physical affection really affect relationship satisfaction?",

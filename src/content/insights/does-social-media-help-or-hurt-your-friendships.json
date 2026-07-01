@@ -34,6 +34,36 @@
     "This is an area where it is wise to favour the direction of the findings over precise figures, because effects vary across studies and populations and the research is still evolving. The robust, repeated pattern is the active-versus-passive split: active, personalised use is associated with greater connection, while passive consumption is associated with lower wellbeing and more envy.",
     "Alongside that, the maintenance research consistently suggests social media is good at sustaining long-distance and weak-tie friendships that would otherwise fade — a real benefit — while passive use fuels comparison and can displace deeper contact. Rather than a single statistic, the honest summary is conditional: it helps or hurts your friendships depending mostly on whether you use it to interact or to scroll."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The deciding factor is how you use social media, not whether you use it — the behaviour matters more than the platform.",
+    "Active, personalised use (messages, real exchanges with people you know) tends to track with feeling more connected.",
+    "Passive scrolling and lurking tends to track with lower wellbeing and more envy, largely through comparison.",
+    "It is genuinely good at maintaining long-distance and weak-tie friendships that distance or busyness would otherwise let fade.",
+    "The pattern the research supports is shifting the mix from consuming to interacting, not necessarily logging off entirely."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Same app, two different hours",
+      "body": "One evening is spent replying to a friend's message, swapping voice notes, and making a plan to meet — direct, personal interaction. Another is spent silently scrolling a feed of acquaintances' highlights without a single exchange. Same platform, opposite behaviours: the first is the active pattern the research links to feeling connected, the second the passive pattern linked to lower mood and envy."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The long-distance friendship that survives",
+      "body": "A friendship that would quietly fade under distance and busy schedules stays warm through occasional messages, shared posts, and small check-ins. This is social media playing to its actual strength — a bridge that sustains weaker and long-distance ties a person could not easily maintain otherwise — rather than a substitute for the close friends they could see in person."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The same platform can do either, depending largely on the behaviour.",
+      "source": "On social media as a tool that cuts both ways"
+    },
+    {
+      "text": "Passively watching a friend's updates produces a sense of being in touch, but it is not the same as the back-and-forth that actually builds closeness.",
+      "source": "On feeling connected vs being connected"
+    }
+  ],
   "faqs": [
     {
       "question": "Is social media good or bad for friendships?",

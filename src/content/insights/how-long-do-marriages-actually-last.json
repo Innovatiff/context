@@ -40,6 +40,52 @@
     { "value": "~1980", "label": "Peak of U.S. divorce rates, generally declining since", "source": "Demographic analyses (Wolfers & Stevenson)" },
     { "value": "Falling fastest", "label": "Divorce-rate trend for college-educated couples", "source": "Demographic analyses of divorce by education" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The '50% of marriages end in divorce' line is an outdated projection, not a count of completed marriages.",
+    "U.S. divorce rates peaked around 1980 and have generally fallen since, so a number anchored to that peak overstates today's risk.",
+    "Demographers widely estimate lifetime divorce risk for recent marriages somewhat below 50% — and it varies enormously by group.",
+    "For marriages that do end in divorce, the median duration is roughly seven to eight years (Census / CDC-NCHS).",
+    "A flat average hides the variation that matters most: risk is far higher for very early marriages and lower for college-educated couples."
+  ],
+  "tables": [
+    {
+      "title": "What the marriage-and-divorce data actually says",
+      "caption": "The honest picture is a set of hedged, group-dependent figures — not the flat 50% slogan. Every number here is approximate and, for lifetime risk, genuinely contested.",
+      "columns": ["Measure", "What the data shows"],
+      "rows": [
+        ["Lifetime divorce risk (recent marriages)", "Widely estimated somewhat below 50%"],
+        ["Median duration of marriages that end in divorce", "Roughly 7–8 years"],
+        ["Peak of U.S. divorce rates", "Around 1980, generally declining since"],
+        ["Divorce-rate trend for college-educated couples", "Falling fastest"],
+        ["Divorce risk for very early marriages", "Substantially higher than average"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Census Bureau / CDC-NCHS and demographic analyses (Stevenson & Wolfers and others)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why the slogan outlived the facts",
+      "body": "The 50% figure came from comparing the number of divorces in a year to the number of marriages that same year — a rough projection, not a tally of completed marriages. Once 'half of marriages fail' entered common speech it stopped being checked, even as U.S. divorce rates rose to a 1980 peak and then generally declined. A memorable round number proved far stickier than a hedged, group-specific estimate."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The same headline, two very different couples",
+      "body": "'Half of marriages end in divorce' lands the same way on a couple who married at 19 and a college-educated couple who married at 30 — but the data does not. Marrying very young is associated with substantially higher divorce risk, while college-educated couples have seen their rates fall the most. The flat average erases exactly the variation that would actually be informative for either couple."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A marriage that simply continues generates no event, no announcement, and no story, while a divorce is a discrete, noticeable change.",
+      "source": "On why divorce feels more common than it is"
+    },
+    {
+      "text": "A lifetime-risk estimate describes a cohort, not a couple.",
+      "source": "On reading population statistics"
+    }
+  ],
   "faqs": [
     {
       "question": "Do half of all marriages really end in divorce?",

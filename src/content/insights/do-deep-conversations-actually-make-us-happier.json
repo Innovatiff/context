@@ -34,6 +34,35 @@
     "The headline numbers here are about miscalibration rather than tidy population statistics, so they should be read as directional. In Mehl and colleagues' recorded-conversation work, happier participants spent roughly a third more of their time in substantive conversation and about half as much in small talk compared with less happy participants — an association, not a proven cause.",
     "In the Epley and Kardas experiments, participants' predictions about deep conversations with strangers were reliably and substantially more negative than their actual experience: they expected more awkwardness, less enjoyment, and less mutual interest than they reported afterward. The precise figures vary by study and are best treated as a consistent pattern rather than fixed percentages."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Happier people spend relatively more time in substantive conversation and less in small talk — an association, not a proven cause.",
+    "People consistently underestimate how enjoyable deep conversation will be and overestimate how awkward it will feel.",
+    "Both people often assume the other prefers to keep things light, so both stay shallow — a mutual misreading, not real disinterest.",
+    "'Deep' means substantive rather than transactional — it doesn't have to be heavy or confessional.",
+    "Going one layer deeper than feels natural usually pays off more than the discomfort you predict."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The awkwardness that never arrives",
+      "body": "You hesitate to ask a more substantive question because you brace for a blank stare or an awkward silence. In the experiments, that forecast is systematically too pessimistic — the dreaded awkwardness rarely shows up, and when it does it passes quickly. The safe-feeling default of small talk quietly trades away the connection the deeper question would probably have produced."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Both waiting for the other to go first",
+      "body": "Two people meet and each privately assumes the other would rather keep things light, so both keep the conversation on logistics and weather even though both would welcome going deeper. The research suggests this mutual misreading — not a genuine lack of interest — is a large part of why so many conversations stall at the surface."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "By protecting ourselves from a small, unlikely awkwardness, we trade away the connection the deeper conversation would probably have produced.",
+      "source": "On why we default to small talk"
+    },
+    {
+      "text": "The awkwardness we brace for rarely arrives, and when it does it passes quickly."
+    }
+  ],
   "realNumbers": [
     { "value": "Correlational", "label": "Nature of the link between substantive talk and happiness", "source": "Mehl et al., recorded-conversation research" },
     { "value": "Less small talk", "label": "What happier people's days contained relatively more and less of", "source": "Mehl et al." },

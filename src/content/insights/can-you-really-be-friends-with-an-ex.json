@@ -40,6 +40,35 @@
     { "value": "Unresolved feelings", "label": "Motive associated with more negative outcomes", "source": "Mogilski & Welling, post-relationship friendship research" },
     { "value": "Ending & attachment", "label": "Other factors that shape how continued contact goes", "source": "Research on post-breakup adjustment and attachment" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Whether friendship with an ex works depends heavily on the reasons for staying in contact.",
+    "Friendship-based and practical motives tend toward more positive, lower-conflict outcomes.",
+    "Motives rooted in unresolved romantic or sexual hope are linked to more negative outcomes, including jealousy.",
+    "How the relationship ended and each person's attachment style also shape how contact goes.",
+    "The reason behind the contact appears to matter more than the mere fact of staying in touch."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Same arrangement, different why",
+      "body": "The label 'friends with an ex' can describe a friendship grounded in genuine liking, or one maintained partly in the hope of rekindling things — and from the outside, and even the inside, the two can look identical. That gap between the stated reason and the real one is part of why outcomes vary so widely."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Practical ties versus close friendship",
+      "body": "For co-parents or people with shared finances, a workable, lower-intimacy relationship focused on those responsibilities is a common and reasonable arrangement — and distinct from the closer friendships the research finds more contingent on both people having moved on emotionally. The right form of contact depends on what it is actually for."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The reason behind the contact appears to matter more than the mere fact of staying in touch.",
+      "source": "On why some ex-friendships work"
+    },
+    {
+      "text": "The honest answer is neither 'always fine' nor 'never works' — it depends largely on the why."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it healthy to stay friends with an ex?",

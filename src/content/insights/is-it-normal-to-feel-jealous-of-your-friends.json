@@ -34,6 +34,35 @@
     "There is no single clean statistic for how often people feel envious of friends, and we should be careful not to invent one — but the research framing is well established. Social comparison theory predicts that comparison concentrates on similar others, which is why friends, rather than distant or very different people, are such frequent triggers.",
     "The more reliable takeaway is qualitative: studies distinguishing benign from malicious envy suggest both are common and that the emotion itself is close to universal in close relationships. The meaningful variable is not whether you feel it but whether it stays in the motivating register or turns resentful — that distinction, not the presence of envy, is what the research treats as consequential."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Envy toward friends is common and stings more than envy of strangers because friends are our closest comparison group.",
+    "Research distinguishes benign envy (\"I want that too\") from malicious envy (\"I wish they didn't have it\").",
+    "The presence of envy is near-universal; what matters is whether it stays benign or curdles into resentment.",
+    "Naming the feeling honestly tends to ease the guilt that often does more damage than the envy itself.",
+    "Remembering you are seeing a friend's highlights, not their whole life, shrinks an inflated gap."
+  ],
+  "examples": [
+    {
+      "label": "The two kinds",
+      "title": "Benign vs malicious, same news",
+      "body": "A friend announces a promotion. One reaction is \"I want that too\" — attention turns to your own goals, and the friendship is untouched. The other is \"I wish they didn't have it\" — attention turns to the friend and their advantage. Same event, opposite pull. Researchers treat these as genuinely different feelings from the inside, and it is the second one, left unexamined, that tends to corrode the relationship over time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The guilt layer on top",
+      "body": "You feel a flash of envy when a close friend's news lands, and immediately a second feeling arrives: guilt for not being straightforwardly happy for them. That guilt spiral often does more damage than the envy itself. Acknowledging \"I feel envious and I am also glad for them\" reflects how these feelings genuinely coexist, rather than treating a normal reaction as evidence of being a bad friend."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest answer is less about whether you feel envy and more about which kind it becomes.",
+      "source": "On benign vs malicious envy"
+    },
+    {
+      "text": "A friend is about as similar a yardstick as exists — which is exactly why their success lands as a sharper comparison than a stranger's."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it bad to feel jealous of my friends?",

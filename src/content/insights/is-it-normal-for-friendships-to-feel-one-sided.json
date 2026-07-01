@@ -39,6 +39,41 @@
     { "value": "Much higher", "label": "Reciprocity people assume their friendships have vs. the ~50% measured", "source": "Almaatouq et al., PLOS ONE 2016" },
     { "value": "Varies over time", "label": "Friendship investment naturally fluctuates with circumstance and life stage", "source": "Research on social networks and friendship" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "In one network study, only about half of reported friendships were actually reciprocated.",
+    "People expect their friendships to be mutual at a far higher rate than they measurably are.",
+    "We're poor at telling which of our own friendships are one-sided, so imbalance often goes unnoticed.",
+    "Friendship investment naturally waxes and wanes with life stage, distance, and time — not just regard.",
+    "Occasional imbalance is common and ordinary, not automatically a verdict on the friendship or on you."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The invisible half of the effort",
+      "body": "You always know exactly how much you reach out, plan, and remember — and you only partly see what the other person does: their constraints, their other relationships, the small things you never witness. That visibility gap makes a friendship look more lopsided from the inside than it actually is, which is part of why sensing imbalance is so common."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The friend who went quiet after moving",
+      "body": "A close friend moves cities and the texts thin out; it starts to feel one-sided, as though you care more. But the research points to circumstance — a shared context lost, competing demands, finite time — rather than a change in how much you're valued. A quiet stretch is usually ordinary fluctuation, not a signal about your worth."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Keeping score of who texts first",
+      "body": "Tallying who initiates turns normal, fluctuating investment into a running grievance. Because effort is only partly visible and friendship has no agreed scorecard, the count distorts more than it clarifies. A calmer expectation — that some imbalance is normal — fits the data far better than a ledger."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When one person names another as a friend, the feeling is mutual only about half the time.",
+      "source": "On friendship reciprocity"
+    },
+    {
+      "text": "An imbalance you notice is usually a feature of how friendship actually works — not a reason to read suspicion into every relationship.",
+      "source": "Context, not a verdict"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it really normal for a friendship to feel one-sided?",

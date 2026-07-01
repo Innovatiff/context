@@ -40,6 +40,36 @@
     { "value": "~Half or more", "label": "Rough share of people classified as broadly secure (varies by study)", "source": "Adult attachment surveys" },
     { "value": "Can change", "label": "Whether insecure patterns can shift later in life ('earned security')", "source": "Research on attachment stability and change" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Childhood appears to shape how you relate as an adult, but the evidence points to tendencies rather than a fixed destiny.",
+    "Attachment style correlates with adult relationship patterns, but these are modest, group-level tendencies — not predictions about any individual.",
+    "Continuity from childhood to adulthood is partial: a substantial share of people change attachment category over the years.",
+    "'Earned security' describes people with insecure early bonds who develop a secure way of relating later, often through a trusting relationship.",
+    "Naming your own pattern creates a moment of choice; persistent distress is worth discussing with a qualified professional."
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "Treating a label as a fixed identity",
+      "body": "Once you have a label for your pattern, it is easy to notice every moment that fits it and overlook the many times you related differently — turning a partial, changeable tendency into what feels like an unchangeable core trait. Saying 'I'm just avoidant, that's who I am' misreads what the research actually says and forecloses the change it describes. The categories are approximations of continuous tendencies, with fuzzy boundaries and common movement between them over a lifetime."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Strained early bonds, a secure relationship later",
+      "body": "Someone whose early caregiving was insecure can still go on to form stable, secure relationships — the pattern researchers call 'earned security.' It often develops through a trusting relationship or sustained reflection on one's history, and it is one of the clearest signs in the research that a current relationship can revise the early template rather than simply repeat it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The actual research is more tentative and more hopeful: movement between attachment patterns over a lifetime is common.",
+      "source": "On the fixed-label myth"
+    },
+    {
+      "text": "Early bonds raise or lower the odds of certain patterns, but they do not set them in stone.",
+      "source": "On partial continuity"
+    }
+  ],
   "faqs": [
     {
       "question": "Does a difficult childhood mean I'll have bad relationships?",

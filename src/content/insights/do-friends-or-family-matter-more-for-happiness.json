@@ -34,6 +34,35 @@
     "The standout finding is qualitative rather than a single statistic: across very large samples, Chopik (2017) found that valuing friendships predicted better health and happiness in older adults, sometimes rivalling or exceeding family relationships. The likely mechanism is that friendships are chosen and built around shared enjoyment. Treat this as a robust pattern across hundreds of thousands of people rather than a precise effect size.",
     "Put in context, the Harvard Study of Adult Development — running for over 80 years — found that the quality of people's relationships overall was among the strongest predictors of long-term health and happiness, ahead of many things people assume matter more, like wealth or fame. So the most reliable answer is not 'friends' or 'family' but 'close, warm relationships' — with friendship being the underrated member of that pair, especially as we age."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Both friends and family matter — the evidence does not crown one as the key to happiness.",
+    "The quality and warmth of your relationships overall predicts wellbeing more than which category they fall into.",
+    "Chopik's large-sample work found valuing friendships predicted health and happiness in older adults, sometimes rivalling or exceeding family.",
+    "Friendships are chosen and built around shared enjoyment, which may make them especially good for day-to-day mood.",
+    "Because friendships lack built-in obligations, they fade without active upkeep — and appear to matter more, not less, later in life."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The friendships that quietly fell away",
+      "body": "Family and a partner come with built-in routines and obligations; friendships usually don't, so they are the first thing to slip when a decade gets busy. Many people discover the cost only later — which fits the research showing friendships becoming especially important to happiness in the second half of life, sometimes after they have already thinned out."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Wanting a ranking the data won't give",
+      "body": "It is tempting to want a clean verdict — 'family first' or 'friends are everything.' The honest version is less satisfying: both matter, quality matters more than category, and friendship is underrated relative to its weight. What the evidence backs is protecting the ties that actually feel warm and supportive, wherever they sit, rather than picking a winner."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The most reliable answer is not 'friends' or 'family' but 'close, warm relationships' — with friendship the underrated member of the pair.",
+      "source": "On what the research actually supports"
+    },
+    {
+      "text": "Quality matters more than category — a few genuinely close, rewarding ties do more than a large circle of shallow ones."
+    }
+  ],
   "realNumbers": [
     { "value": "Friends ≈ family", "label": "Friendship value rivalled or exceeded family in predicting wellbeing in older adults", "source": "Chopik, 2017 (friendship across the lifespan)" },
     { "value": "Hundreds of thousands", "label": "Approximate scale of the samples behind the friendship finding", "source": "Chopik, 2017" },

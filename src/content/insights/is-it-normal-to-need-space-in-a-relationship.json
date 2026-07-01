@@ -39,6 +39,35 @@
     { "value": "Balance, not fusion", "label": "What differentiation and self-expansion link to lasting closeness", "source": "Bowen (differentiation); Aron (self-expansion)" },
     { "value": "Varies", "label": "How much space people need, by personality and attachment style", "source": "Research on introversion and attachment differences" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wanting time alone or apart is a normal, generally healthy part of close relationships — not a warning sign.",
+    "Self-determination theory treats autonomy as a basic psychological need that does not switch off inside intimacy.",
+    "Self-expansion theory and Bowen's differentiation both point to balance between togetherness and a separate self, not fusion.",
+    "How much space a person needs varies by temperament and attachment style — that is normal variation, not a defect.",
+    "The one pattern worth watching is when space stops being space and consistently replaces connection."
+  ],
+  "examples": [
+    {
+      "label": "The mismatch",
+      "title": "One person's space, the other's rejection",
+      "body": "One partner asks for an evening alone to recharge; the other, who seeks closeness under stress, reads it as withdrawal. The need is normal on both sides — the friction comes from the mismatch and the meaning each person attaches to it, not from one person being wrong. Framing space as being about your own needs rather than about the other person tends to make the same behaviour less likely to land as rejection."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Recharging alone isn't distance",
+      "body": "A more introverted partner recharges with solitude and has a different baseline for how much contact, even loving contact, feels sustainable. Because that need is invisible from the outside, it is easy to misread as coldness when it is closer to a different setting on the same dial — a different amount of room, not a smaller amount of love."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Wanting space is not a crack in the relationship — it is part of what keeps it sustainable.",
+      "source": "On autonomy and closeness"
+    },
+    {
+      "text": "The genuine warning sign is narrower than 'wanting space' — it is when distance consistently replaces connection rather than coexisting with it."
+    }
+  ],
   "faqs": [
     {
       "question": "Is needing space a sign my relationship is in trouble?",
