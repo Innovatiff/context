@@ -39,6 +39,71 @@
     { "value": "~$247,200", "label": "Median net worth, ages 45–54", "source": "Federal Reserve SCF, 2022" },
     { "value": "~37%", "label": "Adults who couldn't cover a $400 emergency from cash", "source": "Federal Reserve SHED, 2023" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The real median net worth is far below the 'you should have X by 30' targets at every age.",
+    "By definition, half of all households fall below the median — so 'below average' is normal.",
+    "Net worth is not cash: accessible savings are usually much smaller, especially when young.",
+    "A small automated buffer reduces financial stress more reliably than chasing a big number."
+  ],
+  "tables": [
+    {
+      "title": "Median household net worth by age (U.S.)",
+      "caption": "Net worth is everything a household owns minus what it owes. Means (averages) are several times higher at each age because wealth is concentrated at the top — the median is the honest 'middle household' benchmark.",
+      "columns": ["Age of head of household", "Median net worth"],
+      "rows": [
+        ["Under 35", "≈ $39,000"],
+        ["35–44", "≈ $135,600"],
+        ["45–54", "≈ $247,200"],
+        ["55–64", "≈ $364,500"],
+        ["65–74", "≈ $409,900"],
+        ["75+", "≈ $335,600"]
+      ],
+      "highlightColumn": 1,
+      "source": "Federal Reserve, Survey of Consumer Finances (2022)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How median net worth builds with age",
+      "caption": "The same figures as bars. Wealth accumulates slowly and unevenly — most of it late, and much of it as home equity and retirement accounts rather than spendable cash.",
+      "source": "Federal Reserve, Survey of Consumer Finances (2022)",
+      "bars": [
+        { "label": "Under 35", "value": 39000, "display": "$39k" },
+        { "label": "35–44", "value": 135600, "display": "$136k" },
+        { "label": "45–54", "value": 247200, "display": "$247k" },
+        { "label": "55–64", "value": 364500, "display": "$365k" },
+        { "label": "65–74", "value": 409900, "display": "$410k" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "34, about $2,000 in the bank",
+      "body": "This feels alarming next to 'have one year's salary saved by 30,' but it sits squarely inside the normal range: median net worth under 35 is roughly $39,000, and for many that is tied up in a car or a small retirement balance, not cash. The most useful next step is rarely a bigger target — it is automating a small, regular transfer so the buffer grows without a monthly decision."
+    },
+    {
+      "label": "Illustrative",
+      "title": "41, a house, and 'nothing saved'",
+      "body": "A homeowner at 41 can feel behind because the current account is near zero, yet have a net worth close to the ≈$135,600 median once home equity and a workplace pension are counted. The 'saved' number people carry in their heads usually means cash — which is why so many feel poorer than the balance sheet says they are."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Half of all households fall below the median. That isn't a warning sign — it's simply what 'median' means.",
+      "source": "On reading the Federal Reserve figures"
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Why the 'multiply your salary' targets mislead",
+      "body": [
+        "The popular rules — 'one times your salary saved by 30, three times by 40' — are not descriptions of what people have. They are reverse-engineered from what a high, steady earner would need for a comfortable retirement, then presented as a universal yardstick. Measured against them, a completely normal balance reads as failure.",
+        "That framing quietly assumes an uninterrupted career, rising income, and no major shocks. Most real financial lives include gaps, caregiving, moves, and lean years — which is exactly why the median sits where it does, and why comparing yourself to the target rather than the middle manufactures a sense of falling behind that the data does not support."
+      ]
+    }
+  ],
   "faqs": [
     {
       "question": "How much should I have saved by 30 / 40 / 50?",

@@ -1,0 +1,60 @@
+---
+/**
+ * Scannable "the short version" summary — 3–5 one-line takeaways. Gives the
+ * reader the gist before the prose and adds visual variety near the top.
+ */
+export interface Props {
+  items: string[];
+  heading?: string;
+}
+const { items, heading = 'The short version' } = Astro.props;
+---
+
+<aside class="takeaways" aria-label={heading}>
+  <p class="takeaways__kicker">{heading}</p>
+  <ul class="takeaways__list">
+    {items.map((t) => <li>{t}</li>)}
+  </ul>
+</aside>
+
+<style>
+  .takeaways {
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: var(--space-m) var(--space-l);
+    margin-block: var(--space-l);
+  }
+  .takeaways__kicker {
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--teal-dark);
+    margin: 0 0 var(--space-s);
+  }
+  .takeaways__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  .takeaways__list li {
+    position: relative;
+    padding-left: 1.5rem;
+    line-height: 1.5;
+    color: var(--text);
+  }
+  .takeaways__list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.62em;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: var(--amber);
+  }
+</style>

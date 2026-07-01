@@ -3,8 +3,12 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import KeyFindingBox from '../../components/KeyFindingBox.astro';
-import RealNumbersBlock from '../../components/RealNumbersBlock.astro';
+import KeyTakeaways from '../../components/KeyTakeaways.astro';
 import ResearchCallout from '../../components/ResearchCallout.astro';
+import PullQuote from '../../components/PullQuote.astro';
+import DistributionChart from '../../components/DistributionChart.astro';
+import InsightNumbers from '../../components/InsightNumbers.astro';
+import ExampleBlock from '../../components/ExampleBlock.astro';
 import DataSources from '../../components/DataSources.astro';
 import FaqAccordion from '../../components/FaqAccordion.astro';
 import RelatedInsights from '../../components/RelatedInsights.astro';
@@ -13,6 +17,9 @@ import AdSlot from '../../components/AdSlot.astro';
 import { getCategory } from '../../data/categories';
 import { toParagraphs } from '../../utils/prose';
 import { SITE } from '../../consts';
+
+const slugify = (s) =>
+  s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
 export async function getStaticPaths() {
   const insights = await getCollection('insights');
@@ -25,6 +32,21 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const d = entry.data;
 const cat = getCategory(d.category);
+
+// Optional rich modules (composed per page for variety and depth).
+const layout = d.layout ?? 'standard';
+const numbersFirst = layout === 'data-forward';
+const dists = d.distributions ?? [];
+const leadDist = dists[0];
+const restDists = dists.slice(1);
+const tables = d.tables ?? [];
+const pulls = d.pullQuotes ?? [];
+const extraSections = (d.extraSections ?? []).map((s) => ({
+  id: s.id ?? slugify(s.heading),
+  heading: s.heading,
+  body: toParagraphs(s.body),
+}));
+const numbersIntro = toParagraphs(d.realNumbersInContext);
 
 const sections = [
   { id: 'data', heading: 'What the data actually shows', body: toParagraphs(d.whatDataShows) },
@@ -43,6 +65,18 @@ const sections = [
     heading: 'What the research says does not help',
     body: toParagraphs(d.whatDoesNotHelp),
   },
+];
+
+// Build the "on this page" nav from the sections/modules actually present.
+const navItems = [
+  { href: '#data', label: 'What the data shows' },
+  ...(numbersFirst ? [{ href: '#numbers', label: 'Real numbers' }] : []),
+  { href: '#why', label: 'Why it feels different' },
+  { href: '#do', label: 'What helps' },
+  { href: '#doesnt', label: "What doesn't help" },
+  ...extraSections.map((s) => ({ href: `#${s.id}`, label: s.heading })),
+  ...(d.examples && d.examples.length ? [{ href: '#examples', label: 'Real-life examples' }] : []),
+  ...(!numbersFirst ? [{ href: '#numbers', label: 'Real numbers' }] : []),
 ];
 
 const reviewedLabel = (() => {
@@ -81,7 +115,7 @@ const jsonLd = {
   ogType="article"
   jsonLd={jsonLd}
 >
-  <article class="insight">
+  <article class:list={['insight', `insight--${layout}`]}>
     <div class="container insight__head">
       <Breadcrumbs
         items={[
@@ -99,32 +133,75 @@ const jsonLd = {
         <!-- The honest answer first. No preamble. -->
         <KeyFindingBox text={toParagraphs(d.honestAnswer).join(' ')} />
 
-        <div class="article-body">
-          {
-            sections.map((s, i) => (
-              <Fragment>
-                <section id={s.id}>
-                  <h2>{s.heading}</h2>
-                  {s.body.map((p) => (
-                    <p>{p}</p>
-                  ))}
-                </section>
-                {i === 0 && (
-                  <ResearchCallout kicker="The key finding">
-                    <p>{d.keyFinding}</p>
-                  </ResearchCallout>
-                )}
-                {i === 1 && <AdSlot slot="" format="horizontal" />}
-              </Fragment>
-            ))
-          }
+        {d.keyTakeaways && d.keyTakeaways.length > 0 && <KeyTakeaways items={d.keyTakeaways} />}
 
-          <!-- Real numbers in context -->
-          <section id="numbers">
-            <h2>Real numbers in context</h2>
-            {toParagraphs(d.realNumbersInContext).map((p) => <p>{p}</p>)}
+        <div class="article-body">
+          {/* What the data shows */}
+          <section id="data">
+            <h2>{sections[0].heading}</h2>
+            {sections[0].body.map((p) => <p>{p}</p>)}
           </section>
-          {d.realNumbers && d.realNumbers.length > 0 && <RealNumbersBlock stats={d.realNumbers} />}
+
+          {/* A chart to break up the prose (standard/narrative); data-forward pulls all numbers up next. */}
+          {leadDist && !numbersFirst && <DistributionChart dist={leadDist} />}
+
+          <ResearchCallout kicker="The key finding">
+            <p>{d.keyFinding}</p>
+          </ResearchCallout>
+
+          {numbersFirst && (
+            <InsightNumbers
+              intro={numbersIntro}
+              stats={d.realNumbers}
+              distributions={dists}
+              tables={tables}
+            />
+          )}
+
+          {/* Why it feels different */}
+          <section id="why">
+            <h2>{sections[1].heading}</h2>
+            {sections[1].body.map((p) => <p>{p}</p>)}
+          </section>
+
+          {pulls[0] && <PullQuote text={pulls[0].text} source={pulls[0].source} />}
+
+          <AdSlot slot="" format="horizontal" />
+
+          {/* What helps */}
+          <section id="do">
+            <h2>{sections[2].heading}</h2>
+            {sections[2].body.map((p) => <p>{p}</p>)}
+          </section>
+
+          {/* What doesn't help */}
+          <section id="doesnt">
+            <h2>{sections[3].heading}</h2>
+            {sections[3].body.map((p) => <p>{p}</p>)}
+          </section>
+
+          {pulls[1] && <PullQuote text={pulls[1].text} source={pulls[1].source} />}
+
+          {/* Page-specific sections for unique structure and extra explanation */}
+          {extraSections.map((s) => (
+            <section id={s.id}>
+              <h2>{s.heading}</h2>
+              {s.body.map((p) => <p>{p}</p>)}
+            </section>
+          ))}
+
+          {/* Concrete worked examples */}
+          {d.examples && d.examples.length > 0 && <ExampleBlock examples={d.examples} />}
+
+          {/* Real numbers in context (standard/narrative: near the end) */}
+          {!numbersFirst && (
+            <InsightNumbers
+              intro={numbersIntro}
+              stats={d.realNumbers}
+              distributions={restDists}
+              tables={tables}
+            />
+          )}
         </div>
 
         <AdSlot slot="" format="horizontal" />
@@ -147,11 +224,7 @@ const jsonLd = {
         <div class="aside-sticky">
           <p class="aside-label">On this page</p>
           <nav class="aside-nav">
-            <a href="#data">What the data shows</a>
-            <a href="#why">Why it feels different</a>
-            <a href="#do">What helps</a>
-            <a href="#doesnt">What doesn't help</a>
-            <a href="#numbers">Real numbers</a>
+            {navItems.map((n) => <a href={n.href}>{n.label}</a>)}
           </nav>
           <AdSlot slot="" format="sidebar" desktopOnly={true} />
           <div class="aside-cta">
@@ -266,5 +339,24 @@ const jsonLd = {
   }
   .aside-cta .btn {
     width: 100%;
+  }
+
+  /* ---- Layout variants -------------------------------------------------- */
+  /* Narrative: prose-led, roomier rhythm, examples feel primary. */
+  .insight--narrative .insight__title {
+    max-width: 24ch;
+  }
+  .insight--narrative .article-body :global(section > p) {
+    font-size: 1.03rem;
+  }
+  .insight--narrative .article-body :global(.examples .example) {
+    border-left-width: 4px;
+  }
+  /* Data-forward: the numbers cluster leads; give it a touch more presence. */
+  .insight--data-forward .article-body :global(.insight-numbers) {
+    scroll-margin-top: 88px;
+  }
+  .insight--data-forward .article-body :global(.insight-numbers > h2) {
+    color: var(--teal-dark);
   }
 </style>

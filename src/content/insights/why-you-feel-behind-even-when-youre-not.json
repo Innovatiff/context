@@ -39,6 +39,43 @@
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged", "source": "Gallup, 2023" },
     { "value": "Top ~10–15%", "label": "Where U.S.-median household income sits globally", "source": "World Bank / Our World in Data" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling behind is one of the most common human experiences — and mostly a comparison error, not a status report.",
+    "We compare our inside (doubts, unfinished things) to everyone else's outside (their composed surface).",
+    "Your reference group is filtered twice: your social circle skews higher, and feeds surface the top slice.",
+    "Correcting the comparison set eases the feeling more reliably than changing your circumstances does."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Your blooper reel vs their highlight reel",
+      "body": "You experience your own life with the sound on — every worry, every loose end. You experience other people on mute, edited, at their most presentable. Held side by side, your unglamorous middle looks like falling short of everyone else's best moments. It isn't; you're just comparing two things that were never comparable."
+    },
+    {
+      "label": "The trap",
+      "title": "The finish line that keeps moving",
+      "body": "People who finally hit the milestone they were chasing — the salary, the title, the house — often report the 'behind' feeling simply relocating to a new, higher benchmark within months. That's the tell that the feeling was never about your actual pace. When the reference point moves with you, working harder can't close a gap that regenerates."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are comparing your blooper reel to everyone else's highlight reel — and then concluding something is wrong with you.",
+      "source": "On the inside-vs-outside distortion"
+    },
+    {
+      "text": "People who feel behind are very often at or above the real median. The gap they feel is against an outlier, not the middle."
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "A quick way to sanity-check the feeling",
+      "body": [
+        "When the sense of being behind shows up, name the specific thing — savings, friendships, career stage — and then look up the actual median for it rather than trusting the imagined standard. The felt benchmark is almost always drawn from an unrepresentative top slice; the real distribution is wider and more forgiving.",
+        "This is not positive thinking, and it is not lowering your standards. It is swapping a fictional reference point for a real one. In studies where people are shown where they actually fall in a genuine distribution, the gap between 'where I am' and 'where I should be' tends to shrink — because the standard they were measuring against never existed."
+      ]
+    }
+  ],
   "faqs": [
     {
       "question": "Is it bad to compare yourself to others?",

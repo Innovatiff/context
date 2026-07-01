@@ -1,0 +1,39 @@
+---
+/**
+ * A large, quiet pull quote — an honest, sourced statement lifted from the
+ * argument for emphasis and rhythm. Distinct from ResearchCallout (which is a
+ * bordered box); this is typographic.
+ */
+export interface Props {
+  text: string;
+  source?: string;
+}
+const { text, source } = Astro.props;
+---
+
+<figure class="pullquote">
+  <blockquote>{text}</blockquote>
+  {source && <figcaption>{source}</figcaption>}
+</figure>
+
+<style>
+  .pullquote {
+    margin: var(--space-xl) 0;
+    padding-left: var(--space-l);
+    border-left: 3px solid var(--amber);
+  }
+  .pullquote blockquote {
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    line-height: 1.3;
+    font-weight: 500;
+    color: var(--text);
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .pullquote figcaption {
+    margin-top: var(--space-s);
+    font-size: 0.82rem;
+    color: var(--footnote);
+  }
+</style>

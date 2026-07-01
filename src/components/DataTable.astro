@@ -1,0 +1,114 @@
+---
+/**
+ * A real, sourced data table. Keeps figures scannable and honest — every table
+ * carries an attribution line. Purely presentational; data comes from the page.
+ */
+type Table = {
+  title?: string;
+  caption?: string;
+  columns: string[];
+  rows: string[][];
+  highlightColumn?: number;
+  source?: string;
+};
+export interface Props {
+  table: Table;
+}
+const { table } = Astro.props;
+const hc = table.highlightColumn;
+---
+
+<figure class="datatable">
+  {table.title && <figcaption class="datatable__title">{table.title}</figcaption>}
+  {table.caption && <p class="datatable__caption">{table.caption}</p>}
+  <div class="datatable__scroll">
+    <table>
+      <thead>
+        <tr>
+          {table.columns.map((c, i) => (
+            <th scope="col" class={i === hc ? 'is-hl' : undefined}>{c}</th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {table.rows.map((row) => (
+          <tr>
+            {row.map((cell, i) =>
+              i === 0 ? (
+                <th scope="row">{cell}</th>
+              ) : (
+                <td class={i === hc ? 'is-hl num' : 'num'}>{cell}</td>
+              )
+            )}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  {table.source && <cite class="datatable__source">Source: {table.source}</cite>}
+</figure>
+
+<style>
+  .datatable {
+    margin: var(--space-l) 0;
+  }
+  .datatable__title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 0.35rem;
+  }
+  .datatable__caption {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    margin-bottom: var(--space-s);
+  }
+  .datatable__scroll {
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.94rem;
+  }
+  thead th {
+    background: var(--surface);
+    text-align: right;
+    font-weight: 600;
+    color: var(--text-muted);
+    padding: 0.7rem 0.9rem;
+    border-bottom: 1px solid var(--border-strong);
+    white-space: nowrap;
+  }
+  thead th:first-child { text-align: left; }
+  tbody th {
+    text-align: left;
+    font-weight: 600;
+    color: var(--text);
+    padding: 0.65rem 0.9rem;
+  }
+  tbody td {
+    text-align: right;
+    padding: 0.65rem 0.9rem;
+    color: var(--text);
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+  }
+  tbody tr + tr th,
+  tbody tr + tr td {
+    border-top: 1px solid var(--border-color);
+  }
+  .is-hl { background: color-mix(in srgb, var(--amber) 9%, transparent); }
+  th.is-hl { color: var(--amber); }
+  td.is-hl { color: var(--amber); font-weight: 600; }
+  .datatable__source {
+    display: block;
+    margin-top: 0.6rem;
+    font-size: 0.76rem;
+    font-style: normal;
+    color: var(--footnote);
+  }
+</style>

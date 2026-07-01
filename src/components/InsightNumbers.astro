@@ -1,0 +1,27 @@
+---
+import RealNumbersBlock from './RealNumbersBlock.astro';
+import DistributionChart from './DistributionChart.astro';
+import DataTable from './DataTable.astro';
+/**
+ * The "real numbers in context" cluster: intro prose + optional stat grid,
+ * distribution charts, and data tables. Grouped so the page template can place
+ * the whole numeric block high (data-forward layout) or low (standard).
+ */
+export interface Props {
+  intro: string[];
+  stats?: { value: string; label: string; source?: string }[];
+  distributions?: any[];
+  tables?: any[];
+  heading?: string;
+}
+const { intro, stats, distributions = [], tables = [], heading = 'Real numbers in context' } =
+  Astro.props;
+---
+
+<section id="numbers" class="insight-numbers">
+  <h2>{heading}</h2>
+  {intro.map((p) => <p>{p}</p>)}
+  {stats && stats.length > 0 && <RealNumbersBlock stats={stats} />}
+  {distributions.map((d) => <DistributionChart dist={d} />)}
+  {tables.map((t) => <DataTable table={t} />)}
+</section>

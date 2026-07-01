@@ -1,0 +1,76 @@
+---
+import { toParagraphs } from '../utils/prose';
+/**
+ * Concrete worked examples / scenarios that make the data tangible — "what this
+ * looks like for a real person." Rendered as labelled cards.
+ */
+type Example = { label?: string; title: string; body: string | string[] };
+export interface Props {
+  examples: Example[];
+  heading?: string;
+}
+const { examples, heading = 'What this looks like in real life' } = Astro.props;
+---
+
+<section class="examples" id="examples">
+  <h2>{heading}</h2>
+  <div class="examples__grid">
+    {
+      examples.map((ex) => (
+        <article class="example">
+          {ex.label && <span class="example__label">{ex.label}</span>}
+          <h3 class="example__title">{ex.title}</h3>
+          {toParagraphs(ex.body).map((p) => (
+            <p class="example__p">{p}</p>
+          ))}
+        </article>
+      ))
+    }
+  </div>
+</section>
+
+<style>
+  .examples {
+    margin-block: var(--space-l);
+  }
+  .examples__grid {
+    display: grid;
+    gap: var(--space-m);
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 640px) {
+    .examples__grid[data-cols='2'],
+    .examples__grid {
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+  }
+  .example {
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-left: 3px solid var(--teal);
+    border-radius: var(--radius);
+    padding: var(--space-m);
+  }
+  .example__label {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--teal-dark);
+    margin-bottom: 0.4rem;
+  }
+  .example__title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    margin-bottom: 0.5rem;
+  }
+  .example__p {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: var(--text-muted);
+  }
+  .example__p + .example__p {
+    margin-top: 0.6rem;
+  }
+</style>
