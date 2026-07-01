@@ -34,6 +34,35 @@
     "This is a psychological literature, so the honest 'numbers' are about effects and direction rather than headline statistics. Vohs and colleagues' money-cue experiments consistently produced a self-sufficiency cluster — people primed with money worked longer before seeking help, helped others less, gave less, and preferred more distance and solitary activity. The symmetry, leaning on others less while also helping less, is what makes 'independent' a better description than 'selfish.'",
     "The effects are modest and require hedging. They derive largely from priming studies, the effect sizes are small to moderate, and money-and-behaviour and social-priming research more broadly has faced replication questions since the original work. The reliable conclusion is qualitative: money appears to nudge people toward self-sufficiency and distance — a tendency worth knowing about, not a strong or settled law of behaviour."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The evidence leans toward 'self-sufficient' more than 'selfish' — the shift is toward distance, not malice.",
+    "Money cues made people ask for help less AND offer it less; that symmetry is why 'independent' fits better.",
+    "Only half of the shift is visible: declining to help is public, needing help less is private.",
+    "The effects are modest, come largely from priming experiments, and this area has faced replication scrutiny."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The half you can see and the half you can't",
+      "body": "When someone with money declines to help, others notice. When that same person also quietly stops asking anyone for help, no one does. So an even-handed turn toward independence gets read as a one-sided turn toward coldness — simply because the helping half is public and the needing-less half is private."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Paying for the problem instead of asking a neighbour",
+      "body": "A person who can solve a problem by paying for it genuinely needs other people less — so the situations where mutual help used to happen quietly disappear. That reduced reliance can look like not caring, when it may just be that money has removed the occasions for it. The research points at something mechanical, not a verdict on anyone's character."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A purely selfish shift would take help from others while still accepting it readily; the money cue instead pushed people away from interdependence in both directions.",
+      "source": "On why 'self-sufficient' fits better than 'selfish'"
+    },
+    {
+      "text": "It is easy to dress up as a verdict on someone's soul what is closer to a shift in how connected they need to be.",
+      "source": "On moralising wealth"
+    }
+  ],
   "realNumbers": [
     { "value": "Self-sufficiency", "label": "The cluster money cues produced: asking for and offering help less", "source": "Vohs et al., money and behaviour research" },
     { "value": "Both directions", "label": "Primed people relied on others less AND helped less — fits 'independent'", "source": "Vohs et al." },

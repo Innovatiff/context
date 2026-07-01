@@ -39,6 +39,41 @@
     { "value": "Below means", "label": "Pattern Stanley & Danko found among many high-net-worth households", "source": "Stanley & Danko, 'The Millionaire Next Door'" },
     { "value": "Rises steeply", "label": "How net worth tracks income across U.S. households", "source": "Federal Reserve, Survey of Consumer Finances" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "At a given income, spending less than you earn and saving the difference is a real driver of wealth.",
+    "The savings rate — the share you keep — is mathematically one of the strongest levers on accumulation.",
+    "Income, big fixed costs, inheritance, and starting position usually carry more weight than thrift.",
+    "You cannot save your way out of a too-low income, and 'skip the latte' targets the smallest lever.",
+    "Frugality is a financial lever, not a virtue test — and it works best paired with rising income."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two earners, two savings rates",
+      "body": "One person saves a large share of a moderate income; another saves only a sliver of a much larger one. Over time the moderate earner can out-accumulate the high earner — the kernel of truth in every frugality story. It is the rate you keep, not the size of the paycheck alone, that drives how fast a nest egg grows."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Doing everything right on too small an income",
+      "body": "Someone who lives modestly and never wastes money can still fail to get ahead when income barely covers necessities — because no amount of discipline manufactures a surplus that is not there. This is the equally common story we rarely hear, and the single most important limit on the frugality narrative."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Where to point the frugality",
+      "body": "Housing and transport dominate most budgets, so trimming a commute or right-sizing rent moves the savings rate far more than policing dozens of small purchases — and it takes the decision only once. Concentrating on a few big fixed costs tends to do more than a running war on lattes and subscriptions."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Frugality changes the slope at a given income; it does not set the starting level.",
+      "source": "On the limits of thrift"
+    },
+    {
+      "text": "The research describes a financial lever, not a verdict on character.",
+      "source": "On frugality as a 'virtue test'"
+    }
+  ],
   "faqs": [
     {
       "question": "So does being frugal actually make you richer?",

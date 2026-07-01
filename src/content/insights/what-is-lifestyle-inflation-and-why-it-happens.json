@@ -39,6 +39,35 @@
     { "value": "Aspirations rise", "label": "How expectations track income, chasing a moving target", "source": "Easterlin (relative income and rising expectations)" },
     { "value": "Reference-dependent", "label": "What anchors how much people spend", "source": "Research on reference-dependent consumption" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Lifestyle inflation is the tendency for spending to rise as income rises, so a raise often fails to bring the breathing room you expected.",
+    "It's driven by automatic processes — hedonic adaptation, social comparison, and the quiet normalization of new 'needs' — not a lack of willpower.",
+    "As income rises, aspirations and reference points rise too, so material gains chase a moving target.",
+    "Directing part of a raise to saving before it reaches everyday spending sidesteps adaptation; money you never start spending has no standard of living to defend.",
+    "Higher earners can still feel stretched because their sense of what they need rose alongside what they make."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The raise that vanished within a year",
+      "body": "A pay rise arrives, imagined against current spending, so it looks like obvious relief. But the upgrades it buys quickly become the new ordinary — hedonic adaptation absorbing them — and the gap you expected to open between income and outflow closes almost on its own. Within a year or two the larger income can feel just as stretched as the smaller one did."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Directing the next raise before it lands",
+      "body": "The research-aligned move is to treat a raise deliberately rather than letting it be absorbed by default: route some portion toward saving or fixed goals before it reaches everyday spending, since money you never start spending has no standard of living to defend. Spending the rest on what genuinely changes your days — rather than the next tier of status purchases, which fade fastest — tends to hold its value better. The aim is intentionality, not deprivation."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Money you never started spending doesn't have a standard of living to defend.",
+      "source": "On directing raises before they're absorbed"
+    },
+    {
+      "text": "Higher earners can still feel financially stretched, because their sense of what they need rose alongside what they make."
+    }
+  ],
   "faqs": [
     {
       "question": "What exactly is lifestyle inflation?",

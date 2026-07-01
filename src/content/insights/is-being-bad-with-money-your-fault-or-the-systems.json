@@ -40,6 +40,49 @@
     { "value": "Poverty premium", "label": "Being poor is expensive: higher fees and costlier credit", "source": "Poverty premium research" },
     { "value": "Scarcity", "label": "Financial strain consumes mental bandwidth, degrading decisions", "source": "Mullainathan & Shafir" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "It's both — but the popular 'just budget better' story badly understates the structural side.",
+    "Habits like present bias and impulse spending are real and do affect outcomes; they just aren't the whole story.",
+    "Across recent decades, essential costs have in many cases risen faster than typical wages, so strain is built into the arithmetic.",
+    "Financial literacy is low largely because it's rarely taught, and a 'poverty premium' makes being poor expensive.",
+    "Scarcity itself consumes mental bandwidth, producing the very behaviours that then get blamed on the person."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "When needs already exceed income",
+      "body": "If housing, healthcare, and childcare together outrun the paycheck, no amount of skipping coffee closes that gap. Budgeting helps where there is slack to manage; it cannot manufacture slack the cost structure has removed. Telling someone in this position to economise harder reframes an arithmetic problem as a discipline problem — producing guilt without changing the math."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The scarcity loop",
+      "body": "Being short on money consumes mental bandwidth, which makes it genuinely harder to plan and decide well. From the outside and the inside, that looks like a character flaw — so the very condition of financial strain produces the behaviours that get blamed on the person, completing a loop that feels like personal failure but is partly structural."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Blaming the latte",
+      "body": "Shaming small discretionary purchases is largely a distraction: the amounts are tiny next to the structural costs — housing, healthcare, childcare — that dominate most budgets. Focusing blame there misallocates attention and energy while the large variables go unaddressed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When essential costs outpace income, financial strain is a feature of the arithmetic, not of weak willpower.",
+      "source": "On the structural squeeze"
+    },
+    {
+      "text": "The mind gravitates to the lever it can pull, even when it is far smaller than the one it can't."
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Why honest attribution is itself useful",
+      "body": [
+        "Accurately naming the part of the strain that is structural — lagging wages, expensive essentials, the poverty premium — is not an excuse; it is a form of clearing mental bandwidth. The scarcity research suggests that the corrosive self-blame produced by the 'just willpower' story makes decisions worse, not better.",
+        "The accurate, useful frame is neither pure willpower nor pure system. Present bias and avoidance are real, and the moves that help most — automating saving and bills, protecting a small buffer, closing specific knowledge gaps just in time — do require personal action. It is both, with the structural side larger and less acknowledged than the culture admits. That is context, not blame."
+      ]
+    }
+  ],
   "faqs": [
     {
       "question": "So is being bad with money my fault or not?",

@@ -40,6 +40,62 @@
     { "value": "Rate + purpose", "label": "What actually determines whether debt helps or harms", "source": "Research on debt types and outcomes" },
     { "value": "Triple-digit", "label": "Annualized rates payday loans can reach — the most dangerous tier", "source": "Cost-of-credit data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The honest frame isn't 'debt is bad' but 'what is the interest rate, and what is the debt buying?'",
+    "Low-rate debt tied to an appreciating or income-producing asset can be a reasonable tool; high-interest consumer debt is the dangerous kind.",
+    "Credit cards commonly carry rates around 20% or higher, and payday loans can reach triple-digit annualized rates.",
+    "Mortgages — typically the lowest-rate, asset-backed kind — make up the large majority of U.S. household debt.",
+    "Prioritise clearing high-interest debt first, and keep a small buffer so shocks don't push you onto costly credit."
+  ],
+  "tables": [
+    {
+      "title": "Why the rate and purpose matter more than the existence of debt",
+      "caption": "The emotional weight of owing money doesn't distinguish by rate, but the math does. Rate ranges are broad and shift over time — read them as the structure, not fixed figures.",
+      "columns": ["Debt type", "Typical rate", "What it buys", "Character"],
+      "rows": [
+        ["Mortgage", "low-to-high single digits", "a home that may hold or grow in value", "Can leave you ahead"],
+        ["Credit card balance", "≈ 20% or higher", "consumption that loses value", "Reliably erodes wealth"],
+        ["Payday loan", "up to triple-digit APR", "immediate cash at a steep price", "Most dangerous tier"]
+      ],
+      "highlightColumn": 1,
+      "source": "Cost-of-credit data; Federal Reserve Bank of New York household debt data"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "The rate gap that separates a tool from a trap",
+      "caption": "Representative annualized rates from the page's ranges — mortgages in the single digits, cards around 20%+, payday loans into triple digits. It's this gap, not the existence of a balance, that decides whether debt builds or erodes wealth.",
+      "unit": "approx. annual interest rate (%)",
+      "source": "Cost-of-credit data",
+      "bars": [
+        { "label": "Mortgage", "value": 5, "display": "single digits" },
+        { "label": "Credit card", "value": 20, "display": "≈ 20%+" },
+        { "label": "Payday loan", "value": 100, "display": "triple-digit" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A 3% mortgage vs. a 25% card balance",
+      "body": "Both create the same feeling of owing money, but they are worlds apart financially. The low-rate mortgage is tied to an asset that may hold or grow in value and can leave you ahead; the card balance compounds against you faster than typical investment returns, which is why it so reliably destroys wealth. The emotional ranking is often the inverse of the financial one."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Rushing to clear a low-rate loan while carrying a high-rate balance",
+      "body": "Treating all debt as equally bad can lead someone to throw spare money at a low-rate student loan or mortgage while a 20%+ card balance keeps compounding — or while they hold no emergency buffer. Sorting debt by feeling rather than by interest rate optimises the wrong thing and leaves the genuinely expensive debt in place."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The distinction that matters is the rate and the purpose, not the mere fact of owing money.",
+      "source": "On what makes debt help or harm"
+    },
+    {
+      "text": "The emotional ranking of debt is frequently the inverse of the financial one."
+    }
+  ],
   "faqs": [
     {
       "question": "Is there really such a thing as 'good' debt?",

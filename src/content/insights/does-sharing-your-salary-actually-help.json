@@ -40,6 +40,36 @@
     { "value": "Favors employers", "label": "Who pay secrecy mainly benefits, by shifting information power", "source": "Cullen & Pakzad-Hurson" },
     { "value": "Some compression", "label": "Documented trade-off: transparency can compress overall wages", "source": "Pay-transparency research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "On balance, sharing pay tends to help workers by removing the employer's information advantage.",
+    "Greater transparency is generally linked to narrower pay gaps, including the gender pay gap.",
+    "The main trade-off: transparency can compress overall wages, sometimes by restraining large discretionary raises.",
+    "Learning where you stand can sting even when your pay is reasonable — useful is not the same as comfortable.",
+    "In many places, discussing your own pay with coworkers is a legally protected right."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Negotiating blind vs negotiating informed",
+      "body": "When pay is secret, the employer knows the full salary range and what your colleagues earn, and you are guessing. That information gap is bargaining power, and it sits on one side of the table. Gathering real comparison data — trusted peers, published ranges, required disclosures — replaces an imagined market rate with an actual one, which is the whole point: the imagined rate is usually shaped by the party paying you."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Learning a peer earns more — and feeling worse anyway",
+      "body": "Someone paid fairly for their role can still feel resentment on discovering a colleague earns more. That reaction is well documented, and it does not mean the transparency 'didn't help.' The information can still lead to a better outcome; it is simply rarely emotionally neutral. Treating the discomfort as proof it failed misreads what the effect is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "When pay is secret, you are negotiating against a party that knows the full range and what your colleagues make, while you are guessing.",
+      "source": "On the information asymmetry"
+    },
+    {
+      "text": "Transparency tends to make pay fairer and more equal — which is not always the same as making it higher for everyone.",
+      "source": "On the wage-compression trade-off"
+    }
+  ],
   "faqs": [
     {
       "question": "Will sharing my salary get me a raise?",

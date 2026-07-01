@@ -39,6 +39,36 @@
     { "value": "Mental accounting", "label": "Why money pre-labelled 'for fun' is spent with less guilt", "source": "Thaler, mental accounting research" },
     { "value": "Flexible > rigid", "label": "Pattern from restriction research most likely to be sustained", "source": "Behaviour-change / dieting literature" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "A planned 'fun' allowance tends to be more sustainable and produce less guilt than cutting enjoyment out entirely.",
+    "What you spend on matters more than how much — spending aligned with your values supports wellbeing (Dunn & Norton).",
+    "Money pre-labelled 'for fun' is spent with far less guilt than the same amount taken unplanned (mental accounting).",
+    "As with diets, rigid all-or-nothing restriction is hard to sustain; built-in flexibility lasts longer.",
+    "There's no research-backed 'correct' percentage — the evidence is about structure, not a magic ratio."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The impulse buy vs the 'fun' allowance",
+      "body": "The same meal out feels very different depending on where the money comes from. Pulled unplanned from money meant for something else, it carries a sense of transgression; spent from a defined 'fun' allowance, it carries almost none — because the permission was granted in advance. The guilt is largely about the absence of a plan, not the money itself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The budget that zeroes out fun",
+      "body": "Under financial pressure, enjoyment feels like the obvious first thing to cut because it's the most visibly optional. But an all-restriction plan is precisely the move that tends not to last — much like a crash diet, it's prone to abandonment and rebound. A budget you can actually live with usually beats a stricter one you give up on."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The relief comes from a boundary, not from the absence of one.",
+      "source": "On why unplanned spending produces guilt"
+    },
+    {
+      "text": "A budget you can actually live with usually beats a stricter one you abandon.",
+      "source": "On flexible vs rigid budgets"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it irresponsible to budget money for fun?",

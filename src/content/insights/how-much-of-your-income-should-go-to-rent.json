@@ -39,6 +39,57 @@
     { "value": "~Half", "label": "U.S. renter households that are cost-burdened (over 30%)", "source": "Harvard Joint Center for Housing Studies / Census" },
     { "value": "~A quarter", "label": "U.S. renter households severely burdened (over 50%)", "source": "Harvard Joint Center for Housing Studies / Census" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The '30% on rent' figure is a U.S. housing-policy threshold for being 'cost-burdened,' not a personal-finance law.",
+    "Roughly half of U.S. renter households now spend more than 30% — so exceeding it is common, not a personal failing.",
+    "Around a quarter of renters are 'severely cost-burdened,' spending more than 50% of income on housing.",
+    "The line reflects rents rising faster than wages more than individual choices, and runs higher in expensive metros.",
+    "Above the line, the more useful questions are whether you can cover essentials and build a small buffer."
+  ],
+  "tables": [
+    {
+      "title": "The U.S. housing-cost-burden thresholds and how common they are",
+      "caption": "The 30% and 50% lines are administrative affordability definitions used to track the population, not targets tuned to any one person. Shares are approximate, vary year to year, and tend to run higher in expensive metros.",
+      "columns": ["Housing share of income", "Policy label", "Approx. share of U.S. renter households"],
+      "rows": [
+        ["Over 30%", "Cost-burdened", "≈ half"],
+        ["Over 50%", "Severely cost-burdened", "≈ a quarter"]
+      ],
+      "highlightColumn": 2,
+      "source": "Harvard Joint Center for Housing Studies / U.S. Census Bureau"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Share of U.S. renter households over each cost-burden line",
+      "caption": "Being over the 30% line is close to the middle of the renter distribution, not the exception. Read these as approximate shares that shift year to year.",
+      "unit": "% of renter households",
+      "source": "Harvard Joint Center for Housing Studies / U.S. Census Bureau",
+      "bars": [
+        { "label": "Cost-burdened (over 30%)", "value": 50, "display": "≈ half" },
+        { "label": "Severely burdened (over 50%)", "value": 25, "display": "≈ a quarter" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Rent at 40% of income in an expensive city",
+      "body": "Spending 40% of your paycheck on rent trips the 30% 'cost-burdened' line, which can feel like a budgeting failure. But it sits in the company of roughly half of all U.S. renter households, and in a high-cost market the cheapest responsible unit may already eat that much. The more informative questions are whether essentials are still covered and whether even a small buffer is possible — not whether you've crossed a single line."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Trying to get under 30% by trimming small costs",
+      "body": "Rent is usually the largest fixed cost and the one least responsive to small economising, so cutting everything except rent rarely moves the percentage much. Where it is realistic, the big levers — sharing space, unit size, location — shift the share far more than budgeting at the margins does."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A flag that roughly half of renters now trip is describing the housing market more than it is describing you.",
+      "source": "On the 30% cost-burden line"
+    }
+  ],
   "faqs": [
     {
       "question": "Where does the '30% on rent' rule actually come from?",

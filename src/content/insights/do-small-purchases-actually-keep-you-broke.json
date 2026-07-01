@@ -39,6 +39,36 @@
     { "value": "Top 2", "label": "Where transportation usually ranks among household spending categories", "source": "U.S. BLS Consumer Expenditure Survey" },
     { "value": "Mostly myth", "label": "Standing of the 'latte factor' as an explanation for being broke", "source": "Critiques of the latte-factor framing" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The 'latte factor' is mostly a myth as an explanation for why people are broke.",
+    "Budgets are dominated by large fixed costs — housing alone takes roughly a third, with transport usually next.",
+    "Small daily purchases are real money but a thin slice on top of those big categories.",
+    "A single change to a large fixed cost — rent, a car payment, an interest rate — can outweigh years of small sacrifices.",
+    "Automating saving beats policing daily spending, because it works on structure rather than willpower."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A year of daily coffees vs one rent change",
+      "body": "Cutting a daily coffee is real money over a year — worth being aware of, especially for recurring buys you don't value. But it is dwarfed by even a modest change in a large fixed cost: renegotiating rent, rethinking a car or commute, reviewing insurance, or lowering an interest rate. The comparison worth keeping in mind is one of scale, not virtue — most of the budget, and most of the leverage, lives in the big fixed categories."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The off-target advice",
+      "body": "For someone whose rent and transport already consume most of their income, being told the problem is their coffee can feel both off-target and faintly blaming. The latte framing quietly recasts a structural cost-of-living problem as a personal discipline failure — which is comfortable to sell, but leaves the dominant fixed costs unexamined while the guilt lands on a thin slice of the budget."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The comparison worth keeping in mind is one of scale, not virtue.",
+      "source": "On small cuts vs big fixed costs"
+    },
+    {
+      "text": "People can deprive themselves daily and see little change, because the change was never going to come from there.",
+      "source": "On misdiagnosing the budget"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the 'latte factor' real?",

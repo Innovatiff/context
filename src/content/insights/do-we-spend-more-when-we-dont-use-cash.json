@@ -39,6 +39,34 @@
     { "value": "~1 in 5", "label": "Share of U.S. payments still made in cash (by number)", "source": "Federal Reserve, Diary of Consumer Payment Choice" },
     { "value": "Weaker", "label": "Memory of what you spent when paying digitally vs cash", "source": "Pain-of-paying research (Soman; Zellermayer)" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "People tend to spend a little more freely with cards and digital payment than with cash.",
+    "The driver is the 'pain of paying': cash feels tangible and slightly unpleasant, which acts as a brake.",
+    "Frictionless payment also leaves a weaker memory, so people lose track of what they spent.",
+    "The fix isn't more willpower but changing the moment — re-introducing friction and restoring visibility."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The tap that barely registers",
+      "body": "Handing over cash means watching a physical thing leave your hand and your wallet get thinner — a small, slightly uncomfortable moment that makes you pause. A card or phone collapses that into a beep, so the same purchase simply feels lighter. The convenience that makes it pleasant is the same property that makes it forgettable."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Cash only for the categories that leak",
+      "body": "Rather than abandoning cards, some people use cash or a set prepaid amount just for the categories they tend to overspend on — eating out, impulse buys — so the act of paying becomes tangible again there, while cards stay convenient for everything else. It's a deliberate speed bump in front of the spending you actually want to slow, not blanket avoidance."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The convenience that makes digital payment pleasant is the same property that makes it forgettable.",
+      "source": "On why we lose track"
+    },
+    {
+      "text": "None of this requires more discipline in the moment — it works by changing the moment itself."
+    }
+  ],
   "faqs": [
     {
       "question": "Do I really spend more just because I use a card?",

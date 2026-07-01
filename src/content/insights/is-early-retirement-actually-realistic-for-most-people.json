@@ -40,6 +40,66 @@
     { "value": "~50%+", "label": "Share of income FIRE typically requires saving — feasible mainly for high earners", "source": "Savings-rate math behind FIRE" },
     { "value": "~$80,610", "label": "Median U.S. household income, for context on what 50%+ saving implies", "source": "U.S. Census Bureau" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "FIRE works by saving enough to reach roughly 25x your annual expenses, then living on about 4% of it a year.",
+    "Reaching that target decades early generally requires saving around half of income or more.",
+    "Against a median U.S. household income near $80,610, a 50%+ savings rate is out of reach for most.",
+    "The habits behind FIRE — high savings rate, low fixed costs, early investing — help almost anyone, even without early retirement.",
+    "The 4% rule is a historical rule of thumb, not a guarantee, and is best treated cautiously over a multi-decade horizon."
+  ],
+  "tables": [
+    {
+      "title": "The FIRE math, in plain terms",
+      "caption": "The 25x and 4% figures come from the same research on safe withdrawal rates (Bengen; the Trinity Study). The binding constraint is the savings rate needed to reach 25x expenses decades early.",
+      "columns": ["Element", "Approximate figure", "What it means"],
+      "rows": [
+        ["Retirement pot target", "≈ 25x annual expenses", "The size of portfolio the approach aims for"],
+        ["Annual withdrawal", "≈ 4% a year", "Historical rule of thumb, not a guarantee"],
+        ["Savings rate required", "≈ 50%+ of income", "Feasible mainly for high earners with low fixed costs"],
+        ["Median U.S. household income", "≈ $80,610", "Context for what saving 50%+ implies"]
+      ],
+      "highlightColumn": 1,
+      "source": "Bengen; Trinity Study (4% / 25x rule); U.S. Census Bureau (median income)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How much a household earning the U.S. median would keep vs. save under FIRE",
+      "caption": "At the ≈50% savings rate FIRE typically requires, roughly half of a median income would fund current life and half would go to investing — after typical living costs, that split is out of reach for most households.",
+      "unit": "% of income",
+      "source": "Savings-rate math behind FIRE; U.S. Census Bureau (median income context)",
+      "bars": [
+        { "label": "Saved / invested under FIRE", "value": 50, "display": "≈50%+" },
+        { "label": "Left to fund current life", "value": 50, "display": "≈50% or less" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two high earners, low fixed costs",
+      "body": "A dual-income couple with a large combined salary and modest housing and no childcare costs can plausibly save around half of their take-home pay. For them the 25x target comes into range decades early — which is exactly the profile most visible FIRE case studies fit. It is a real path, but a narrow one built on high income and low obligations, not on unusual willpower."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A median-income household doing everything right",
+      "body": [
+        "A household earning near the U.S. median of about $80,610, after typical housing, transport, childcare, and debt costs, simply does not have a 50%+ savings rate available to give — no matter how carefully the rest is managed. The ceiling here is arithmetic, not discipline.",
+        "That same household can still capture most of the benefit: automating a smaller, regular contribution, keeping fixed costs down, and investing early builds a real buffer and more options over time, even though 'retire at 40' stays out of reach."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "No amount of frugality turns a savings rate the budget can't support into one it can.",
+      "source": "On why FIRE is an arithmetic ceiling, not a willpower one"
+    },
+    {
+      "text": "The data argues against the literal early-retirement target for most people — not against high savings, low fixed costs, and early investing.",
+      "source": "On separating the math from the principles"
+    }
+  ],
   "faqs": [
     {
       "question": "What is FIRE in simple terms?",

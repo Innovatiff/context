@@ -34,6 +34,47 @@
     "Chetty and colleagues (2016) estimated a gap in life expectancy between the richest and poorest Americans of roughly 10 to 15 years for men, and somewhat less for women — and found the relationship was a continuous gradient, with longevity rising steadily across the whole income distribution, not just a cliff at the bottom. Treat the exact years as approximate; the robust point is that the gap is large and graded.",
     "Marmot's Whitehall studies showed the same shape inside a single employer: each step down the civil-service hierarchy carried higher mortality than the step above, even among people who were all employed and not poor. The honest summary across both is that money and status are among the strongest predictors of health we have — with effects that taper at the top and causes that are tangled, not single."
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Higher income and status track with better health and longer life — one of public health's most robust findings.",
+    "It is a gradient, not a switch: health improves at each rung up the ladder, not just rich versus poor.",
+    "The gains taper above a comfortable, secure level — the steepest relief is at the lower end.",
+    "The link is largely correlational: income is tangled with education, environment, stress and behaviour."
+  ],
+  "tables": [
+    {
+      "title": "Two landmark findings on income, status and health",
+      "caption": "Both point the same way: health improves step by step up the ladder, not just at the extremes. The exact life-expectancy figures are approximate — the robust point is that the gap is large and graded.",
+      "columns": ["Study", "What it measured", "Finding"],
+      "rows": [
+        ["Chetty et al. (JAMA, 2016)", "Income linked to mortality across the U.S. distribution", "≈ 10–15 year life-expectancy gap, richest vs poorest men (less for women); a continuous gradient across the whole income range"],
+        ["Marmot, Whitehall studies", "Health and mortality by civil-service grade", "Worse health and higher mortality at each step down the hierarchy — even among people all employed and not poor"]
+      ],
+      "source": "Chetty et al., JAMA 2016; Marmot, Whitehall studies"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Already comfortable, and more money buys little health",
+      "body": "Once basic needs are met, an extra raise often does not feel like it is buying health — because at that part of the curve it largely isn't. The steepest health gains sit lower down, where money relieves strain you may not be experiencing. Above a secure, comfortable level, the marginal health return from additional income is small."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Rank tracks with health, even among the not-poor",
+      "body": "The Whitehall finding is uncomfortable because it holds among people who are all employed office workers: each step down the hierarchy carried worse health than the step above. That points beyond material deprivation toward status, a low sense of control, and chronic stress — a relative, hierarchical component that rarely shows up in how we usually talk about staying healthy."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Money does not buy health the way it buys a car; it buys a lower-stress environment, a bit more control, a safer job and easier access to care — and those compound quietly over decades.",
+      "source": "On the slow, indirect mechanisms"
+    },
+    {
+      "text": "The gradient runs rung by rung, not just rich versus poor — which is what makes it so striking.",
+      "source": "On the social gradient in health"
+    }
+  ],
   "realNumbers": [
     { "value": "~10–15 yrs", "label": "Approximate life-expectancy gap, richest vs poorest U.S. men (less for women)", "source": "Chetty et al., JAMA 2016" },
     { "value": "Gradient", "label": "Health and mortality worsened at each step down the ranks, even among the employed", "source": "Marmot, Whitehall studies" },

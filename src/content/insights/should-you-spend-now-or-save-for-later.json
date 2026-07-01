@@ -39,6 +39,36 @@
     { "value": "Future self", "label": "Feeling connected to your future self predicts saving more", "source": "Hershfield, future-self continuity research" },
     { "value": "Both sides", "label": "Over-saving and under-living is a real cost too, not only overspending", "source": "Research on over-saving / under-consumption" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The honest answer is a sustainable balance, not maximum thrift or spending it all now.",
+    "Present bias (hyperbolic discounting) makes us overvalue rewards now and steeply discount the future.",
+    "Feeling connected to your future self predicts saving more — a remote future self gets treated like a stranger.",
+    "Automating saving beats willpower, because the bias reasserts itself every time a tempting purchase appears.",
+    "Over-saving and under-living is a real cost too: you can postpone a life that isn't guaranteed to arrive."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The purchase you can feel today vs the saver you can't picture",
+      "body": "A tempting buy is vivid and immediate; the future self who'd benefit from setting the money aside is faint and easy to discount. That asymmetry is exactly what present bias describes — and it's why the reliable fix is to route money to savings automatically, sidestepping the in-the-moment decision rather than trying to win it with resolve each time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "On track for the future, but afraid to spend a cent of the present",
+      "body": "The other side of the ledger: someone accumulating well beyond what their future plausibly needs while denying themselves a reasonable present, sometimes reaching retirement reluctant or unable to spend what they saved. The research-aligned move here is to define what 'enough' future security looks like and give yourself explicit permission to spend on a meaningful present once you're on track."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can over-save and under-live, postponing a life that isn't guaranteed to arrive.",
+      "source": "On the cost of extreme thrift"
+    },
+    {
+      "text": "People who experience their future self as a near-stranger tend to save less — treating retirement savings as money handed to someone they don't quite identify with.",
+      "source": "On future-self continuity"
+    }
+  ],
   "faqs": [
     {
       "question": "Should I prioritise spending now or saving for later?",

@@ -40,6 +40,35 @@
     { "value": "Local terms", "label": "The only honest way to compare a salary across regions", "source": "Cost-of-living data" },
     { "value": "Arbitrage", "label": "Earning high, living low (or remote) can outpace years of frugality", "source": "Geographic wage/cost research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Location is one of the largest financial variables — often bigger than budgeting or saving.",
+    "Housing is the biggest household spending category (roughly a third) and the one that varies most by region.",
+    "A salary only has meaning in local terms, after housing, taxes, childcare, and transport.",
+    "Geographic arbitrage is a powerful lever, but not a free one — cheaper areas often pay and offer less."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The same salary, two very different lives",
+      "body": "An identical paycheck can mean comfort in one region and constant strain in another, because the fixed costs it has to cover — housing above all, plus taxes, childcare, and transport — vary so much by place. This is why comparing two cities' salaries by their raw numbers points the wrong way: a 'higher' offer in an expensive area can leave less real spending power than a lower one somewhere cheaper."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The coffee you feel vs the rent you don't",
+      "body": "You notice the coffee you bought and feel the small win of skipping it; you don't feel your rent as a daily decision, even though it dwarfs the coffee many times over. The biggest lever is the one we're least likely to experience as a choice — which is exactly why aggressive discretionary frugality rarely closes the gap created by a high-cost location."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The number on your paycheck means little until you know what it costs to live where you are.",
+      "source": "On judging a salary locally"
+    },
+    {
+      "text": "The biggest lever is the one we are least likely to experience as a choice.",
+      "source": "On why location feels invisible"
+    }
+  ],
   "faqs": [
     {
       "question": "Does where I live really matter more than how much I save?",

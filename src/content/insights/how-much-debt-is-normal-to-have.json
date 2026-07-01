@@ -40,6 +40,51 @@
     { "value": "Low-mid thousands", "label": "Typical credit card balance per person (approx.)", "source": "Experian, average consumer balances" },
     { "value": "Middle age", "label": "Life stage at which total debt typically peaks, then declines", "source": "Federal Reserve, Survey of Consumer Finances (2022)" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Carrying debt is statistically normal — most U.S. households have some.",
+    "Mortgages are the large majority of total household debt; revolving credit-card debt is a small share.",
+    "The type and interest rate matter far more than the total: high-interest revolving debt drives the most strain.",
+    "Whether payments are manageable relative to income tracks financial distress better than the headline amount.",
+    "Debt typically peaks in middle age and declines later — carrying more in your working years is the normal arc."
+  ],
+  "tables": [
+    {
+      "title": "Rough scale of common individual debt balances",
+      "caption": "Approximate per-person or per-borrower figures, not household totals. These are averages pulled upward by a minority with very large balances, so the typical person often owes less than the average implies.",
+      "columns": ["Debt type", "Rough typical scale", "Nature"],
+      "rows": [
+        ["Mortgage", "Large majority of total household debt", "Secured, lower-rate"],
+        ["Student loan", "≈ $35,000–$40,000 per borrower (average)", "Fixed-term"],
+        ["Auto loan", "Larger than a typical credit-card balance", "Secured"],
+        ["Credit card", "Low-to-mid thousands of dollars", "Unsecured, high-interest"]
+      ],
+      "highlightColumn": 1,
+      "source": "Federal Reserve Bank of New York (composition of household debt); Experian (average consumer balances)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "40 with more total debt than a 70-year-old",
+      "body": "A 40-year-old carrying a mortgage, a car loan, and the costs of raising a family often owes more in total than someone at 70 — and that is following the normal life-cycle arc, not falling behind it. Borrowing typically rises through early and middle adulthood, then declines later as mortgages are paid down. More debt in your working years than your retirement years is the pattern, not a warning sign."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same balance, opposite situations",
+      "body": "Two people each 'owe the same amount.' One holds a large low-rate mortgage with comfortable payments; the other has a high-interest credit-card balance they are struggling to service. The headline total is identical, but the data on financial distress tracks affordability and missed payments far more closely than the raw amount owed — so the more useful question is what kind, at what rate, and are the payments manageable."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The more useful question than 'how much' is 'what kind, at what rate, and are the payments manageable?'",
+      "source": "On reading your own debt"
+    },
+    {
+      "text": "The households that look the most financially settled are frequently the ones carrying the largest mortgages and auto loans.",
+      "source": "On the visible-signals trap"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to have debt at my age?",

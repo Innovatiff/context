@@ -39,6 +39,36 @@
     { "value": "Rarely taught", "label": "How often personal finance is a standard part of schooling", "source": "Financial-literacy research" },
     { "value": "Present bias", "label": "Why saving is hard for everyone, not just some people", "source": "Behavioral economics" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Being 'bad with money' is common — only about a third of adults answer a few basic financial-literacy questions correctly.",
+    "Personal finance is rarely taught in school, so the knowledge gap is a predictable outcome, not a personal deficiency.",
+    "Present bias makes saving hard for everyone, regardless of how financially literate they are.",
+    "The reliable fix is structural — automation and simple rules — not more willpower or self-criticism.",
+    "Closing a few targeted gaps (compound interest, inflation, diversification) covers most practical ground."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Knows the facts, still can't save",
+      "body": "Someone who understands compound interest and knows they 'should' save can still find the future feels abstract next to a vivid purchase today. That is present bias, not a lack of intelligence or resolve — and it is exactly why the behavioral research favours removing the in-the-moment decision over trying harder to make it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'disciplined' friend",
+      "body": "The person who seems effortlessly good with money is usually not a more disciplined human. More often they have systems doing the work willpower can't reliably do — an automatic transfer to savings, a default retirement enrollment, a simple split of income — so the right action happens without a monthly decision."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Bad with money' is better read as a description of missing tools than of character.",
+      "source": "On reframing the problem"
+    },
+    {
+      "text": "The people who handle money well more often have systems and automation doing the work willpower cannot.",
+      "source": "On what actually separates good and bad money habits"
+    }
+  ],
   "faqs": [
     {
       "question": "Is being bad with money normal?",

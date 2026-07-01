@@ -34,6 +34,36 @@
     "The most dependable figure-based pattern is about proportion, not amount: analyses of giving data repeatedly find that lower-income households tend to donate a higher percentage of their income to charity than wealthier ones, even though wealthier households give far more in total dollars and account for the bulk of large philanthropy. Both statements are true at once, which is precisely why the question feels contradictory.",
     "The psychological side resists clean numbers and should be hedged hard. The Piff and colleagues studies reported that higher-status participants behaved less generously or prosocially in specific tasks, but these effects were modest, context-dependent, and have faced replication difficulties. So the reliable takeaway is qualitative: there is some evidence wealth can dampen certain forms of generosity, the share-of-income gap is the strongest part of it, and the broader 'rich are less generous' claim remains genuinely disputed."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "It's genuinely contested — a confident yes or no overstates the evidence.",
+    "The most robust strand: lower-income households often donate a larger share of their income than wealthier ones.",
+    "By absolute dollars, the wealthy give far more and dominate large-scale philanthropy — both facts are true at once.",
+    "The famous 'higher status, lower prosociality' lab studies have faced replication difficulties and mixed follow-ups.",
+    "Group-level, disputed averages say nothing reliable about whether any particular person is generous."
+  ],
+  "examples": [
+    {
+      "label": "Two measures, two answers",
+      "title": "Share of income vs absolute dollars",
+      "body": "Ask 'who gives more?' and the answer depends entirely on the measure. Lower-income households tend to donate a larger percentage of their income, while wealthier households give far more in total dollars and fund most large philanthropy. Both statements are true — which is precisely why the question feels contradictory, and why people tend to reach for whichever measure fits what they already believe."
+    },
+    {
+      "label": "How to read the claim",
+      "title": "'The stingy rich' as contested, not settled",
+      "body": "When you meet the confident version — 'research proves rich people are less generous' — the honest move is to note which measure it leans on and to treat the lab-based findings as contested rather than proven. The Piff and colleagues studies raised a real hypothesis, but replication difficulties and mixed results mean they are best cited as an open question, not a verdict on how wealthy people behave."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A neat story tends to outrun a messy one — the contested lab findings get repeated as fact while the caveats drop away.",
+      "source": "On why the 'stingy rich' story spreads"
+    },
+    {
+      "text": "Even where a population pattern holds, it cannot predict whether any particular person is generous.",
+      "source": "On group averages vs individuals"
+    }
+  ],
   "faqs": [
     {
       "question": "Do poorer people really give more to charity?",

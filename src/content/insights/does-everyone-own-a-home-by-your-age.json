@@ -40,6 +40,65 @@
     { "value": "~61%", "label": "Homeownership rate, ages 35–44", "source": "U.S. Census Bureau" },
     { "value": "Late 30s", "label": "Median age of a first-time buyer (recent, approx.)", "source": "National Association of Realtors, Profile of Home Buyers and Sellers" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The overall U.S. homeownership rate is only about 65–66% — roughly a third of households rent.",
+    "Ownership rises steeply with age: about 38–39% under 35, around 61% at 35–44, roughly 75–79% at 65+.",
+    "The median first-time buyer is now around the late 30s — buying later is closer to typical than exceptional.",
+    "At younger ages, renting is closer to the majority experience than owning.",
+    "The evidence frames later renting as a response to affordability, not a personal failure."
+  ],
+  "tables": [
+    {
+      "title": "U.S. homeownership rate by age of householder",
+      "caption": "Ownership is a gradient that builds with age, not a milestone almost everyone clears by 30 or 40. About a third of all households rent at any given time.",
+      "columns": ["Age of householder", "Homeownership rate"],
+      "rows": [
+        ["Under 35", "≈ 38–39%"],
+        ["35–44", "≈ 61%"],
+        ["65 and older", "≈ 75–79%"],
+        ["All ages (overall)", "≈ 65–66%"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Census Bureau, Housing Vacancies and Homeownership"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How homeownership climbs with age",
+      "caption": "The same Census figures as bars. Most people reach ownership eventually and gradually, rather than on a fixed schedule — which is why renting in your 20s or 30s is ordinary, not behind.",
+      "unit": "% of households owning",
+      "source": "U.S. Census Bureau, Housing Vacancies and Homeownership",
+      "bars": [
+        { "label": "Under 35", "value": 38, "display": "≈38–39%" },
+        { "label": "35–44", "value": 61, "display": "≈61%" },
+        { "label": "All ages", "value": 65, "display": "≈65–66%" },
+        { "label": "65 and older", "value": 77, "display": "≈75–79%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "32 and still renting",
+      "body": "This can feel like falling short of a milestone everyone supposedly clears, but among households under 35 only about 38–39% own — so renting is closer to the majority experience at that age than owning is. With the median first-time buyer now around the late 30s, renting in your early 30s tracks the data rather than lagging it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The friend who bought at 28",
+      "body": "One relative or friend who bought young can quietly become 'the standard' in your head. But at every age below retirement a large share of households rent — the person who bought at 28 is a data point, not the norm. Owners announce purchases; long-term renters never announce a renewed lease, so ownership looks more universal than the age-specific numbers show."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Homeownership is a gradient, not a milestone everyone clears at once.",
+      "source": "On reading the Census figures"
+    },
+    {
+      "text": "When you feel late to ownership, you are often comparing yourself to a schedule built for housing costs and wages that no longer exist.",
+      "source": "On the outdated timeline"
+    }
+  ],
   "faqs": [
     {
       "question": "What percentage of people own a home by 30 or 40?",

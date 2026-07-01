@@ -41,6 +41,59 @@
     { "value": "~$135,600", "label": "Median net worth, ages 35–44 (mostly illiquid)", "source": "Federal Reserve SCF, 2022" },
     { "value": "3 months", "label": "Emergency savings many households still lack", "source": "Federal Reserve SHED, 2023" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Security is defined more by stability, a liquid buffer, and low high-interest debt than by any total net worth.",
+    "Roughly 37% of U.S. adults couldn't cover a $400 emergency from cash — fragility is near the middle of the distribution.",
+    "Median net worth (≈$39,000 under 35; ≈$135,600 at 35–44) is mostly illiquid home equity and retirement accounts.",
+    "A small, reachable emergency buffer is the most protective single move; reducing high-interest debt is the close second.",
+    "Above a moderate income, financial stress tracks your buffer and predictability more than your raw earnings."
+  ],
+  "tables": [
+    {
+      "title": "Median household net worth by age (U.S.)",
+      "caption": "Net worth is everything a household owns minus what it owes. Much of it is home equity and retirement accounts — not cash you can spend next week — which is why two households at the same net worth can feel very differently secure.",
+      "columns": ["Age of head of household", "Median net worth", "Liquidity"],
+      "rows": [
+        ["Under 35", "≈ $39,000", "Mostly illiquid"],
+        ["35–44", "≈ $135,600", "Mostly illiquid"]
+      ],
+      "highlightColumn": 1,
+      "source": "Federal Reserve, Survey of Consumer Finances (2022)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Median net worth: under 35 vs 35–44",
+      "caption": "Net worth rises with age, but much of both figures is home equity and retirement balances rather than reachable cash — so a larger total does not automatically mean more day-to-day security.",
+      "source": "Federal Reserve, Survey of Consumer Finances (2022)",
+      "bars": [
+        { "label": "Under 35", "value": 39000, "display": "$39k" },
+        { "label": "35–44", "value": 135600, "display": "$136k" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Modest income, a $3,000 buffer, no credit-card balance",
+      "body": "This household often reports more day-to-day security than a higher earner living paycheck to paycheck, because it can absorb a normal shock — a car repair, a medical bill, a few lost weeks — without it cascading into crisis. A boring cash cushion and no high-interest debt buys more real peace of mind than a much larger but fully illiquid net worth."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A large net worth, but nothing reachable this month",
+      "body": "A household with meaningful net worth held in a home and a retirement account can still be among the roughly 37% who couldn't cover a $400 emergency from cash. Net worth and security are related but not the same thing: liquidity — cash you can actually reach — is what determines whether a surprise expense turns into a crisis."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A modest income with a small cash cushion and no credit-card balance often buys more felt security than a higher income with no buffer.",
+      "source": "On what security actually depends on"
+    },
+    {
+      "text": "Net worth and security are related but not the same thing."
+    }
+  ],
   "faqs": [
     {
       "question": "How much money do I need to feel financially secure?",

@@ -39,6 +39,47 @@
     { "value": "20%+ APR", "label": "Common interest rate on credit card debt", "source": "Personal-finance interest-rate data" },
     { "value": "Snowball vs avalanche", "label": "Motivation (smallest first) vs lowest cost (highest rate first)", "source": "Gal & McShane, debt-snowball research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The common ordering is: build a small emergency buffer first, then weigh high-interest debt against low-yield saving.",
+    "Paying down 20%+ APR debt is a guaranteed, tax-free return that usually beats saving or uncertain investing.",
+    "Without any buffer, a surprise expense often becomes new high-interest debt and undoes progress.",
+    "The math-optimal method (avalanche) isn't always the one you'll finish — the snowball's early wins can sustain motivation.",
+    "The right balance depends on your rates, your buffer, your income stability, and what you'll actually stick to."
+  ],
+  "tables": [
+    {
+      "title": "Two debt-repayment methods, compared",
+      "caption": "Both are legitimate; they optimise for different things. Which fits depends on whether your obstacle is cost or follow-through.",
+      "columns": ["Method", "Pay first", "Best for", "Trade-off"],
+      "rows": [
+        ["Avalanche", "Highest interest rate", "Lowest total interest cost", "Fewer visible early wins, so easier to abandon"],
+        ["Snowball", "Smallest balance", "Sustaining motivation and follow-through", "Usually costlier in total interest"]
+      ],
+      "source": "Gal, D., & McShane, B. B. (2012), debt-snowball research"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A credit-card balance at 20%+ APR and no buffer",
+      "body": "The common framework says the money is doing the most good in two stages: first a small emergency cushion so the next surprise expense doesn't become fresh high-interest debt, then extra repayment against the card — because clearing a 20%+ APR balance is a guaranteed, tax-free return that usually beats what the same money would earn in low-yield savings. This isn't a verdict for everyone; it's the trade-off the frameworks weigh."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Several debts, and the plan keeps stalling",
+      "body": "When the obstacle is follow-through rather than cost, the debt-snowball research (Gal and McShane) points to a wrinkle: paying the smallest balance first and closing accounts can sustain motivation and improve the odds of paying debt down overall — even though the avalanche, paying the highest rate first, is usually cheaper in pure interest. The best plan is often the one you'll actually complete."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Paying down debt at 20%+ APR is a guaranteed saving that usually beats what low-yield savings or uncertain investments return.",
+      "source": "On why high-interest debt tends to be prioritised"
+    },
+    {
+      "text": "The optimal-on-paper choice and the one most likely to be completed are not always the same."
+    }
+  ],
   "faqs": [
     {
       "question": "Should I pay off debt or save first?",

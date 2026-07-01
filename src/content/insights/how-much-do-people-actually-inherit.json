@@ -39,6 +39,36 @@
     { "value": "Low tens of thousands", "label": "Roughly the median inheritance among those who receive one (approximate)", "source": "Federal Reserve Survey of Consumer Finances" },
     { "value": "Concentrated at the top", "label": "Where the largest dollar transfers go", "source": "Research on wealth-transfer concentration" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Most people inherit little or nothing — only a minority of households ever receive an inheritance.",
+    "Among recipients, the median amount is modest, often in the low tens of thousands of dollars.",
+    "Averages look far larger because a small number of very large transfers pull the mean up.",
+    "The largest inheritances are concentrated among families that are already wealthy.",
+    "The data supports planning as if an inheritance will not arrive — because for most people it won't."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The windfall you hear about vs the one you don't",
+      "body": "A relative who received a transformative sum becomes a story that circulates. The far larger number of people who inherited nothing, or a few thousand dollars in a modest estate, generate no story at all. The sample you hear about is skewed toward the windfall — which quietly resets expectations toward an outcome the data says is rare."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Help that arrives early vs a lump sum late",
+      "body": "Where transfers are part of a family's situation, research on intergenerational wealth suggests earlier, smaller help — with education, a first home, or ordinary costs during the years money is tightest — often does more for a recipient's trajectory than a lump sum arriving late in life, when both parties are older. The timing of support can matter as much as the amount, though every family's situation differs."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Inheritance tends to widen existing gaps more than it spreads windfalls around.",
+      "source": "On the concentration at the top"
+    },
+    {
+      "text": "For most people, the answer to 'how much will I inherit?' is, realistically, little or nothing.",
+      "source": "On the base rate"
+    }
+  ],
   "faqs": [
     {
       "question": "How much does the average person inherit?",

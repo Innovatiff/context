@@ -40,6 +40,39 @@
     { "value": "Varies widely", "label": "Cultural expectations around multigenerational financial support", "source": "Research on intergenerational transfers" },
     { "value": "Real trade-off", "label": "Link between ongoing family support and strain on saving and retirement", "source": "Research on caregiver financial strain" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Giving or receiving family financial help is common across adulthood — a substantial share of middle-aged adults support both a parent and a grown child.",
+    "Whether it feels normal depends heavily on the cultural script you grew up with, which ranges from 'unusual' to 'assumed.'",
+    "There is no single correct arrangement — supporting family can be reasonable and can strain the supporter's finances at once.",
+    "Ongoing support is linked to budget strain and, in some cases, lower retirement saving — a real trade-off worth planning around.",
+    "Deliberate, bounded support and open conversation tend to reduce stress and resentment more than open-ended help."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The sandwich generation",
+      "body": "A middle-aged adult helping an aging parent with bills while also covering an adult child's rent is supporting family in both directions at the same stage of life. Pew's research shows this is a substantial and recognised pattern, not an unusual predicament — even though, from the inside, it can feel like a private, singular burden."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A cultural mismatch",
+      "body": [
+        "Someone raised where supporting parents in later life is simply assumed can feel out of step when living among people who treat adult financial independence as the default — or the reverse.",
+        "The situation is entirely ordinary within their own tradition; what creates the sense of doing it wrong is comparing across two different norms rather than any actual failing."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "What the data does not support is a single correct arrangement — where the balance falls is a personal and cultural question, not a matter of doing it right or wrong.",
+      "source": "On the absence of a universal norm"
+    },
+    {
+      "text": "Securing your own emergency buffer and retirement first is not selfishness but a way to avoid becoming a future financial burden yourself.",
+      "source": "On protecting your own baseline"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to financially support my parents or adult children?",

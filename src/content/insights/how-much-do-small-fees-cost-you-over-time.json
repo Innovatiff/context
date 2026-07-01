@@ -39,6 +39,35 @@
     { "value": "Every year", "label": "How often fees are charged — the reason they compound", "source": "Compounding math" },
     { "value": "Adds up", "label": "Small recurring subscriptions accumulating over years", "source": "Subscription-creep research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Fees are charged every year on your whole balance, so their cost compounds just as returns do.",
+    "Each pound paid in fees also forfeits all the growth it would have earned in later years.",
+    "Higher fees don't reliably buy higher net returns — cost is one of the few things you can control.",
+    "Small silent subscriptions add up the same way; the risk is structural recurrence, not any single charge."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why a 1% fee isn't a 1% problem",
+      "body": "A 1% fee looks like it costs 1% — a slice of a single year. But it is levied again every year on a growing balance, and every pound it removes also gives up all the growth that pound would have earned in every year after. Over decades, that compounding turns a small annual percentage into a large share of the final balance. This is the same math that makes compound growth feel surprising, only pointed the wrong way."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The subscriptions you barely notice",
+      "body": "A handful of small monthly charges, each easy to ignore because it's 'only a few pounds,' are designed to renew silently with no visible bill. Judged one statement at a time, each looks reasonable. Totalled over a full year — and then measured against what that money could have grown into if invested — the same charges look very different. The danger was never any single month; it's that they recur and compound."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The danger of small fees is structural — they recur and they compound — rather than dramatic in any single month.",
+      "source": "On why small fees mislead"
+    },
+    {
+      "text": "The percentage looks small precisely because it hides the multi-decade total.",
+      "source": "On judging a fee by its annual rate"
+    }
+  ],
   "faqs": [
     {
       "question": "How can a 1% fee matter that much?",

@@ -40,6 +40,45 @@
     { "value": "Behavioral coaching", "label": "Where good advisors appear to add the most value, not stock-picking", "source": "Vanguard 'Advisor's Alpha'" },
     { "value": "Fee-only fiduciary", "label": "Model that avoids key conflicts of interest in advice", "source": "Fiduciary vs. commission models" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Where good advisors add value, it's mostly behavioral coaching, tax efficiency, and planning — not beating the market.",
+    "Vanguard's 'Advisor's Alpha' put potential value at up to ~3 points of net return a year, but called it illustrative, contested, and lumpy.",
+    "A common ~1%/year fee, or commission products, compounds against you and can consume a large share of lifetime returns.",
+    "For many people, low-cost index funds or robo-advisors capture much of the value at a fraction of the cost.",
+    "Fee structure and fiduciary status often matter as much as the advice — the case for a human advisor strengthens with complexity."
+  ],
+  "tables": [
+    {
+      "title": "The two sides of the trade-off",
+      "caption": "The value figure is an illustrative, contested estimate concentrated in moments like a downturn; the fee is a near-certain, compounding cost. The honest comparison is always net of fees over your full investing horizon.",
+      "columns": ["Factor", "Rough magnitude", "How certain it is"],
+      "rows": [
+        ["Potential value good advice may add", "up to ~3 pts/year", "Illustrative, contested, lumpy, situation-dependent"],
+        ["Common advisory fee", "~1% of assets/year", "Near-certain, compounds against you over decades"]
+      ],
+      "highlightColumn": 1,
+      "source": "Vanguard 'Advisor's Alpha'; research on advisory fees and net returns"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The investor who has sold in past crashes",
+      "body": "For someone who has actually panic-sold in a downturn and then missed the recovery, paying for an advisor to prevent the next one can be worth real money — this is the behavioral coaching the evidence supports most. The value is invisible precisely when it works, because you never see the loss you avoided."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The disciplined, straightforward saver",
+      "body": "With a steady income, a long horizon, and a willingness to leave a diversified portfolio alone, a low-cost index fund or robo-advisor captures most of the documented value at a fraction of the cost. Here a ~1%/year fee mostly buys a benefit — staying the course — that this investor already has, so it compounds against returns without adding much."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The most visible part of the job is the part the evidence supports least; the genuinely valuable part is invisible precisely when it works.",
+      "source": "On what advisors are really paid for"
+    }
+  ],
   "faqs": [
     {
       "question": "Is a financial advisor worth the cost?",

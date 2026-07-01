@@ -39,6 +39,36 @@
     { "value": "Strong predictor", "label": "Financial disagreements as a predictor of later divorce", "source": "Dew, Britt & Huston, Family Relations 2012" },
     { "value": "Leading stressor", "label": "Money's standing among reported sources of personal stress", "source": "American Psychological Association" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Money is reliably near the top of what couples fight about — recurring tension here is ordinary, not a sign something is uniquely wrong.",
+    "Financial disagreements are among the strongest predictors of later divorce (Dew, Britt & Huston, 2012).",
+    "The fights are usually about what money means — values, fear, power, security — not the dollars themselves.",
+    "Avoiding the topic to keep the peace tends to backfire; silence lets mismatched expectations harden.",
+    "Treating it as a values conversation, plus regular low-stakes money talk, helps more than optimizing the budget alone."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Same math, opposite meanings",
+      "body": "Two partners agree exactly on what's in the account and still clash hard over a single purchase — because for one, spending represents enjoyment and generosity, and for the other, saving represents safety and responsibility. The argument stops being about the item almost immediately; what they're really negotiating is what money means to each of them."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The peace that isn't agreement",
+      "body": "A couple who never argue about money because they simply avoid the subject can mistake silence for harmony. But not fighting about money is not the same as agreeing about it — unspoken, mismatched expectations tend to accumulate into quiet resentment, which is the pattern the research links to worse outcomes over time."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Two people can agree on the math and still clash hard, because what they are actually negotiating is what money means to each of them.",
+      "source": "On why money fights aren't about the numbers"
+    },
+    {
+      "text": "Not fighting about money is not the same as agreeing about it.",
+      "source": "On avoiding the topic"
+    }
+  ],
   "faqs": [
     {
       "question": "Is money really the number one thing couples fight about?",

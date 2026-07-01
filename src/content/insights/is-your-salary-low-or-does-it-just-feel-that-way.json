@@ -40,6 +40,61 @@
     { "value": "~$60,000", "label": "Median full-time individual earnings", "source": "U.S. Census / BLS" },
     { "value": "Top ~10–15%", "label": "Where U.S.-median household income sits globally", "source": "World Bank / Our World in Data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "U.S. medians are higher than many assume: roughly $80,610 per household and about $60,000 for full-time individual earners.",
+    "Being near the median is, by definition, the middle of the distribution — not behind.",
+    "Income satisfaction is strongly relative: higher local earnings lower how you feel about your own pay (Luttmer, 2005).",
+    "A U.S.-median household income sits in roughly the richest 10–15% of people on earth.",
+    "Where pay genuinely is below market, benchmark against real salary data for your title and region — the relative-income effect isn't a reason to ignore real underpayment."
+  ],
+  "tables": [
+    {
+      "title": "Where U.S. incomes actually sit",
+      "caption": "Median means the literal middle — half of households fall below the household figure and half above. Being near these figures is ordinary rather than behind.",
+      "columns": ["Measure", "Figure"],
+      "rows": [
+        ["Median U.S. household income", "≈ $80,610"],
+        ["Median full-time individual earnings", "≈ $60,000"],
+        ["Where U.S.-median household income sits globally", "Top ≈ 10–15%"]
+      ],
+      "highlightColumn": 1,
+      "source": "U.S. Census Bureau (2023); U.S. BLS; World Bank / Our World in Data"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Median U.S. income: household vs individual",
+      "caption": "Both figures are the middle of their distribution, not a target. The household figure typically reflects more than one earner, which is part of why it sits above the individual one.",
+      "source": "U.S. Census Bureau (2023); U.S. BLS",
+      "bars": [
+        { "label": "Median household income", "value": 80610, "display": "≈ $80.6k" },
+        { "label": "Median full-time individual earnings", "value": 60000, "display": "≈ $60k" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The person two desks over earns more",
+      "body": "A salary that places you among the richest ~10–15% of people on earth can still feel inadequate simply because the colleague nearby earns more. The brain anchors on the people physically and socially close by — never on the global distribution — so local, upward comparison does most of the work behind the feeling, exactly as Luttmer's 'Neighbors as Negatives' finding describes."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The raise that fades",
+      "body": "Reaching a higher salary often feels like 'enough' only briefly. Spending and expectations rise with income and the comparison set moves up too, so the felt gap reappears against a new, higher peer group — which is why chasing a bigger number rarely resolves the feeling on its own."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Being near the median is, by definition, ordinary rather than behind — that is simply what 'median' means.",
+      "source": "On reading the income figures"
+    },
+    {
+      "text": "Your salary is probably more normal than it feels, and the feeling is doing most of the work.",
+      "source": "On relative income"
+    }
+  ],
   "faqs": [
     {
       "question": "What counts as a low salary in the US?",

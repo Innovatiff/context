@@ -39,6 +39,36 @@
     { "value": "High margin", "label": "Why retailers push warranties at the register", "source": "Consumer / economics research on warranties" },
     { "value": "Loss aversion", "label": "The bias the pitch relies on (losses loom larger than gains)", "source": "Kahneman & Tversky" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "For most products an extended warranty is negative expected value — the average buyer pays more in than they get back.",
+    "They sell so well because of loss aversion: right after a purchase, the imagined pain of it breaking feels larger than the certain premium.",
+    "Coverage often overlaps what you already have — the manufacturer's warranty, and sometimes credit-card protection — so you can pay twice.",
+    "The legitimate exceptions are narrow: high-failure-rate items, or a repair you genuinely could not absorb.",
+    "For most purchases, self-insuring — keeping the money and absorbing the occasional repair — usually wins."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The laptop plan pitched at the register",
+      "body": "You've just decided on the laptop and the salesperson offers a plan for 'only a little more.' In that moment a vivid image of the screen dying makes the small, certain premium feel like cheap protection. But 'a little more' is exactly how the plan is priced to be profitable, and the manufacturer's warranty already covers the early failures the pitch is describing. Declining and keeping the money is the expected-value move for a product like this."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When paying the premium is reasonable",
+      "body": "Now imagine an appliance with a known high failure rate, or a repair bill large enough that it would be a real financial blow you couldn't easily cover. Here the logic flips: you are buying insurance against a loss you cannot self-fund, which is the legitimate use of a warranty even at a negative expected value. The point is transferring a risk you can't absorb — not chasing a good average return."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The small, certain payment is the seller's edge — not a sign the coverage is cheap relative to the risk.",
+      "source": "On why the premium feels small"
+    },
+    {
+      "text": "You remember the friend whose laptop died just out of warranty; you do not tally the many devices that simply worked.",
+      "source": "On the availability of the bad outcome"
+    }
+  ],
   "faqs": [
     {
       "question": "Are extended warranties ever worth buying?",

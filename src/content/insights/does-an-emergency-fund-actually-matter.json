@@ -39,6 +39,48 @@
     { "value": "$400", "label": "Common emergency-expense benchmark for financial fragility", "source": "Federal Reserve SHED" },
     { "value": "3–6 months", "label": "Standard emergency-fund target most households don't meet", "source": "Common financial guidance" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "A liquid emergency cushion is one of the strongest protectors against financial stress — arguably more than net worth.",
+    "In the Fed's 2023 SHED survey, roughly 37% of U.S. adults couldn't cover a $400 emergency entirely from cash.",
+    "The size matters less than the existence: the first dollars deliver the steepest drop in fragility.",
+    "The protective effect comes specifically from liquid, accessible cash — not from illiquid wealth like home equity or retirement accounts."
+  ],
+  "tables": [
+    {
+      "title": "The emergency-fund benchmarks that matter",
+      "caption": "A basic buffer is built to clear the $400 shock; clearing it alone moves a household out of the most fragile group. The three-to-six-month target sits far above this — a reasonable long-term goal most households do not reach.",
+      "columns": ["Benchmark", "Figure", "What it means"],
+      "rows": [
+        ["Adults who couldn't cover a $400 emergency from cash", "≈ 37%", "How thin many households' liquid margins are (Fed SHED, 2023)"],
+        ["Common emergency-expense benchmark for fragility", "$400", "The threshold a basic emergency fund is built to clear"],
+        ["Standard emergency-fund target", "3–6 months of expenses", "A long-term goal most households do not reach"]
+      ],
+      "highlightColumn": 1,
+      "source": "Federal Reserve, Report on the Economic Well-Being of U.S. Households (SHED, 2023); common financial guidance"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A few hundred dollars, automated",
+      "body": "A modest standing transfer to a separate account you don't see day-to-day builds a starter buffer without a monthly decision. Crossing even a $400-or-so threshold moves you out of the most fragile category — the roughly 37% who couldn't cover that shock from cash — and is associated with lower financial stress. It's a real milestone, not a failure to reach three to six months."
+    },
+    {
+      "label": "Illustrative",
+      "title": "High net worth, no accessible cash",
+      "body": "A household can look wealthy on paper — home equity, a retirement balance — and still be fragile when a shock hits, because reaching that wealth means penalties, taxes, or selling at a bad moment. The research links resilience specifically to liquid savings, so the balance sheet can be healthy while the buffer that actually protects against a crisis is missing."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Most financial crises are not caused by being low on paper wealth; they are caused by an unexpected expense colliding with no accessible cash.",
+      "source": "On what an emergency fund is really for"
+    },
+    {
+      "text": "Any cushion is better than none, and the first dollars do the most work."
+    }
+  ],
   "faqs": [
     {
       "question": "How much should an emergency fund actually be?",

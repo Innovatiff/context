@@ -40,6 +40,34 @@
     { "value": "Mental accounting", "label": "Why scattered small spending slips out of our mental total", "source": "Richard Thaler" },
     { "value": "Underestimated", "label": "How much people predict they'll spend in the future", "source": "Research on prediction of future spending" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People misestimate their own spending in a patterned way — not at random.",
+    "Small, routine, recurring costs get underestimated; large or unusual purchases get over-remembered.",
+    "The error runs forward too: people underestimate what they'll spend in future months.",
+    "Because the gap comes from memory, a brief tracking audit and automated saving beat 'staying aware'."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The month that didn't add up",
+      "body": "You'd have sworn the month was quiet — no big purchases, nothing memorable. Then the statement shows the total is higher than expected. The gap isn't one dramatic buy; it's the dozens of small, forgettable transactions that never attached to a memory. That's the surprise living in the space between the story and the statement."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The subscriptions you forgot you had",
+      "body": "Listing every recurring payment tends to surface charges that renewed silently — the forgotten subscription, the creeping renewal. Each is small enough to slip out of the mental tally, but repeated across a month they can add up to more than the purchases you do remember. Auditing the recurring layer catches what a one-time mental review never would."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Memory undercounts the past and prediction undercounts the future — and both lean the same way.",
+      "source": "On why estimates go wrong"
+    },
+    {
+      "text": "The gap between the story we tell about our spending and the bank statement is usually where the surprise lives."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I always spend more than I think I do?",

@@ -40,6 +40,39 @@
     { "value": "Length of stay", "label": "The single variable that most often decides the comparison", "source": "Rent-vs-buy framework" },
     { "value": "Common, not universal", "label": "U.S. homeownership, which varies widely by age, region, and income", "source": "U.S. Census Bureau" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Buying is not automatically the better financial move — the result genuinely depends on your inputs.",
+    "Length of stay is usually decisive: heavy transaction costs mean owning often needs several years to break even.",
+    "The honest comparison is rent-and-invest versus own-and-maintain, not rent versus 'throwing money away.'",
+    "A home is a large, illiquid, undiversified asset, so counting on appreciation is a bet, not a certainty.",
+    "Weigh non-financial trade-offs — stability, control, flexibility — separately from the money question."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A likely two-year stay",
+      "body": "Someone expecting to move again in a couple of years faces the full weight of buying's one-time transaction costs with little time to earn them back. Because owning generally needs several years to break even, a short horizon like this often tips the math toward renting and investing the down payment — even in a rising market."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'Renting is throwing money away'",
+      "body": [
+        "The slogan compares rent to nothing. But an owner over the same period pays mortgage interest, property taxes, insurance, maintenance, and eventual selling costs — none of which build equity — while the down payment sits in the house instead of earning a return elsewhere.",
+        "Set the two side by side honestly and neither is obviously wasteful. Which comes out ahead depends on the length of stay, price growth, rates, and what the freed-up capital could have earned."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest comparison is rent-and-invest versus own-and-maintain — not rent versus free.",
+      "source": "On the 'throwing money away' slogan"
+    },
+    {
+      "text": "Which is 'better' is a function of your inputs and your priorities, not a fact that holds in general.",
+      "source": "On why there is no universal answer"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it always better to buy than to rent?",

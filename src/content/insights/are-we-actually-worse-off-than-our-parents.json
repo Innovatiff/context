@@ -40,6 +40,47 @@
     { "value": "Starts later", "label": "When wealth-building tends to begin for younger households", "source": "Federal Reserve wealth data" },
     { "value": "Longer", "label": "Life expectancy versus previous generations", "source": "Public health / mortality data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "The honest answer is mixed, not a simple yes — harder to get ahead in key areas, not uniformly worse.",
+    "Out-earning your parents fell from near-certain (~90%, born 1940) to roughly a coin flip (~50%, born 1980).",
+    "Housing, college, and healthcare have risen substantially faster than wages, so wealth-building tends to start later.",
+    "Some things genuinely improved: lifespans are longer and many goods, especially technology, are cheaper or new.",
+    "The visible milestones people compare on — a house, a paid-off degree — are exactly the costs that shifted the most."
+  ],
+  "distributions": [
+    {
+      "title": "Share of children who out-earned their parents, by birth year",
+      "caption": "'Absolute income mobility' — the share of children earning more than their parents did at the same age. It fell from near-certain to roughly a coin flip across four decades of birth cohorts.",
+      "source": "Chetty et al. (2017), The Fading American Dream, Science",
+      "bars": [
+        { "label": "Born ~1940", "value": 90, "display": "≈90%" },
+        { "label": "Born ~1980", "value": 50, "display": "≈50%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The one figure to remember",
+      "title": "From near-certain to a coin flip",
+      "body": "For children born around 1940, out-earning your parents was close to a given — roughly 90% did. For those born around 1980, it was about 50%, a coin flip. This is the single strongest piece of evidence that getting ahead in the specific way earlier generations could has become genuinely harder, and it is measured, not imagined."
+    },
+    {
+      "label": "The full ledger",
+      "title": "Harder to get ahead, not worse across the board",
+      "body": "The same body of evidence that shows falling mobility and housing, college, and healthcare rising faster than wages also shows lifespans lengthening and many goods — especially technology — getting cheaper or appearing for the first time. Holding both at once is more accurate than a one-way decline: it has become harder to get ahead in several key areas, while other parts of life quietly improved."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Out-earning your parents went from near-certain to roughly a coin flip.",
+      "source": "On the fall in absolute mobility"
+    },
+    {
+      "text": "The headline comparison most people reach for is the one the data says has changed the most.",
+      "source": "On judging yourself by visible milestones"
+    }
+  ],
   "faqs": [
     {
       "question": "Are younger generations really worse off than their parents?",

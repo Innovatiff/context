@@ -39,6 +39,61 @@
     { "value": "~Half or more", "label": "U.S. adults who self-report living paycheck to paycheck (approximate, varies)", "source": "Self-reported survey data" },
     { "value": "Across incomes", "label": "Living paycheck to paycheck is reported by higher earners too, not only low earners", "source": "Self-reported survey data" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "Living paycheck to paycheck is extremely common — self-reported surveys often land around half of U.S. adults or higher.",
+    "The self-reported figure is fuzzy: it is self-reported, wording-sensitive, and includes plenty of higher earners.",
+    "A firmer measure: roughly 37% of U.S. adults could not cover a $400 emergency entirely from cash (Federal Reserve SHED).",
+    "The driver is structural — the cost of essentials relative to wages — far more than personal discipline.",
+    "A small emergency buffer reduces financial stress more reliably than trimming small discretionary items."
+  ],
+  "tables": [
+    {
+      "title": "Two measures of thin margins in the U.S.",
+      "caption": "The self-reported 'paycheck to paycheck' share is high but fuzzy; the Federal Reserve's $400-emergency question is a firmer, repeatable anchor. Both point the same way.",
+      "columns": ["Measure", "Approximate share", "How firm it is"],
+      "rows": [
+        ["Self-report living paycheck to paycheck", "≈ half or more", "Approximate — self-reported, wording-sensitive, includes higher earners"],
+        ["Could not cover a $400 emergency from cash", "≈ 37%", "Firmer — concrete, repeatable Federal Reserve measure"]
+      ],
+      "highlightColumn": 1,
+      "source": "Federal Reserve SHED (≈37%); self-reported survey data (≈half or more)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Could U.S. adults cover a $400 emergency from cash?",
+      "caption": "The Federal Reserve's SHED survey finds roughly 37% could not fully cover a $400 emergency from cash — needing to borrow, sell something, or carry it on a card. Thin margins are widespread, not exceptional.",
+      "unit": "% of adults",
+      "source": "Federal Reserve, Report on the Economic Well-Being of U.S. Households (SHED)",
+      "bars": [
+        { "label": "Could not cover it from cash", "value": 37, "display": "≈37%", "highlight": true },
+        { "label": "Could cover it from cash", "value": 63, "display": "≈63%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A good salary, still no slack",
+      "body": "A higher earner can still report living paycheck to paycheck: as income rises, fixed costs — housing, childcare, cars, lifestyle — often rise alongside it, so a bigger paycheck does not automatically leave more at the end of the month. This is part of why the self-reported figure spans income levels and should be read as approximate."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The $400 that has to go on a card",
+      "body": "When an unexpected $400 bill lands, roughly 37% of U.S. adults could not cover it entirely from cash — borrowing, selling something, or carrying it on a card instead. That is not a discipline failure; it is what a thin margin between essential costs and wages looks like in a single concrete moment."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Financial fragility is widespread — and it tracks the cost of essentials relative to wages far more than it tracks anyone's discipline.",
+      "source": "On what drives the pattern"
+    },
+    {
+      "text": "'Just budget better' misreads the situation and adds guilt on top of strain.",
+      "source": "On mistaking a structural squeeze for a willpower problem"
+    }
+  ],
   "faqs": [
     {
       "question": "Is living paycheck to paycheck actually normal?",

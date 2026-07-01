@@ -40,6 +40,51 @@
     { "value": "Tens of thousands", "label": "Typical (median) retirement account balance near retirement age", "source": "Federal Reserve Survey of Consumer Finances" },
     { "value": "Largest income source", "label": "Role Social Security plays for many retirees", "source": "U.S. Social Security Administration" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "There's no single number — what you need depends mainly on spending, location, and Social Security.",
+    "The '4% rule' and '25x spending' target are debated rules of thumb, not guarantees.",
+    "Median retirement balances near retirement age are in the tens of thousands, not seven figures.",
+    "Social Security is the largest income source for many retirees, which lowers the private savings needed.",
+    "Being well short of '25x' is closer to normal than to a crisis."
+  ],
+  "tables": [
+    {
+      "title": "The popular target vs the typical reality",
+      "caption": "The '4% rule' and its '25x annual spending' corollary are historical rules of thumb from Bengen (1994) and the Trinity Study (1998), based on past U.S. returns over a fixed horizon — not guarantees. What people actually hold looks very different.",
+      "columns": ["Figure", "What it means"],
+      "rows": [
+        ["~4% withdrawal rate", "The debated rule-of-thumb first-year withdrawal, adjusted for inflation thereafter"],
+        ["~25x annual spending", "The savings target derived from the 4% rule — aspirational, not universal"],
+        ["Tens of thousands", "Typical (median) retirement account balance even near retirement age"],
+        ["Largest income source", "The role Social Security plays for a large share of retirees"]
+      ],
+      "highlightColumn": 0,
+      "source": "Bengen (1994) / Trinity Study (1998); Federal Reserve Survey of Consumer Finances; U.S. Social Security Administration"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Two households, same balance, different positions",
+      "body": "Two households can hold identical savings and be in completely different places depending on their annual spending, their location, and whether they still carry housing debt. That's why anchoring on realistic spending — then subtracting expected Social Security and any pension — gives a far more honest target than any one-size headline number."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Short of '25x' but not in crisis",
+      "body": "Being below the popular '25x' or seven-figure targets is closer to the norm than the exception, because those numbers describe a comfortable, above-median plan. For many, Social Security replaces a meaningful share of pre-retirement income, so the more useful question isn't 'do I have 25x saved?' but 'can my realistic spending be met by savings plus Social Security and any pension combined?'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The gap between the popular number and the typical reality is enormous — and being well short of '25x' is closer to normal than to a crisis.",
+      "source": "On the retirement targets"
+    },
+    {
+      "text": "The realistic question is rarely 'do I have 25x saved?' but 'what does my spending look like once Social Security and any pension are counted?'",
+      "source": "On reframing the target"
+    }
+  ],
   "faqs": [
     {
       "question": "How much do I actually need to retire?",

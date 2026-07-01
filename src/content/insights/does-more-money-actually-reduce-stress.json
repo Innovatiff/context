@@ -34,6 +34,35 @@
     "The distinction worth holding onto is between money stress and stress in general. Surveys like the American Psychological Association's 'Stress in America' repeatedly rank money among the top reported stressors, and the wellbeing research (Kahneman and Deaton, 2010; Killingsworth, 2021; the 2023 joint re-analysis) consistently finds the largest relief at the lower end of income, where money lifts people out of strain. Higher up, the same dollars do less.",
     "Stability is the underrated variable. Federal Reserve research on financial fragility finds that income volatility and the inability to cover a modest emergency expense are major sources of financial stress — and a large share of adults report they could not absorb a relatively small unexpected cost from cash. That fragility, more than any particular income level, is what keeps money stress running. An unstable higher income can be more stressful than a steady lower one, which is why a buffer and predictability often buy more peace than a raise does."
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Money reliably reduces the stress of financial hardship — which is not the same as making you calm in general.",
+    "The relief is steepest at the lower end, where income lifts people out of strain; it flattens higher up.",
+    "Stability and predictability matter about as much as the amount — much of money stress is uncertainty.",
+    "A modest emergency buffer tends to cut financial stress out of proportion to its size."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Earning more, no calmer",
+      "body": "Someone gets a raise but keeps a volatile income and no buffer — and finds the money stress largely intact. The number changed; the predictability didn't. Because fragility, the sense that one shock could tip things over, is a major driver of money stress, the amount addresses only part of the picture."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A small cushion, outsized relief",
+      "body": "Building even a modest emergency cushion — enough to absorb an ordinary shock — tends to reduce financial strain out of proportion to its size, because it removes the fragility that carries much of the stress. A steady lower income with a buffer can feel calmer than a higher but erratic one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Money buys relief from money stress more than it buys calm in general.",
+      "source": "On what the research actually shows"
+    },
+    {
+      "text": "Much of money stress comes from uncertainty rather than from any particular number.",
+      "source": "On why stability matters as much as the amount"
+    }
+  ],
   "realNumbers": [
     { "value": "Top stressor", "label": "Where money repeatedly ranks among reported sources of stress", "source": "American Psychological Association, 'Stress in America'" },
     { "value": "Lower end", "label": "Where added income relieves the most day-to-day stress", "source": "Kahneman & Deaton 2010; Killingsworth 2021" },

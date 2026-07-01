@@ -39,6 +39,36 @@
     { "value": "Lower", "label": "Time stress reported by people who buy time vs those who don't", "source": "Whillans et al., PNAS 2017" },
     { "value": "Minority", "label": "Share who regularly buy time, even among those who can afford it", "source": "Whillans et al., PNAS 2017" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Spending money to buy free time is linked to greater life satisfaction and less time stress.",
+    "The benefit held across income levels — it's not purely a rich-person strategy.",
+    "It comes from offloading tasks you genuinely dislike, not convenience for its own sake.",
+    "Even people who can afford it rarely do it — most default to material purchases instead.",
+    "The gain depends on the freed-up time landing somewhere restorative or connecting."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Paying for the chore you dread",
+      "body": "Paying someone to handle a cleaning task you actively dislike is the kind of purchase the research singles out: it offloads an aversive, time-draining chore and relieves the felt pressure of time scarcity. The trade tends to pay off in wellbeing even though it leaves nothing to show for the money — which is exactly why it feels wasteful and gets under-done."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The reclaimed hour that fills back up",
+      "body": "Buying back an hour and then handing it straight to more work, errands, or doomscrolling largely erases the effect the studies measured. The purchase only helps if the reclaimed time goes somewhere restorative or connecting — rest, relationships, something you value. Spending it on nothing you care about wastes the very thing you paid for."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "This is a case where the evidence points one way and ordinary behavior points another.",
+      "source": "On why so few people buy time"
+    },
+    {
+      "text": "Buying time forces you to price something most people leave unpriced.",
+      "source": "On treating your own hours as free"
+    }
+  ],
   "faqs": [
     {
       "question": "Does paying to save time actually make people happier?",

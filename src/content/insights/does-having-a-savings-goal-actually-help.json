@@ -39,6 +39,41 @@
     { "value": "Specific > vague", "label": "Specific, realistic goals outperform 'do your best' intentions", "source": "Locke & Latham, goal-setting theory" },
     { "value": "Automate", "label": "Automatic transfers raise saving rates by removing the decision", "source": "Research on default bias / automatic saving" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "A specific, labeled savings goal beats a vague intention to 'save more' — earmarked money is more likely kept.",
+    "Goal-setting theory finds specific, realistic goals outperform vague 'do your best' ones.",
+    "Automation is the structural multiplier: it raises saving by removing the recurring decision.",
+    "Visible progress toward a concrete target supports follow-through.",
+    "Goals set too rigidly or unrealistically high can backfire — achievable-and-kept beats ambitious-and-abandoned."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Labeled money vs. an unlabeled balance",
+      "body": "Money sitting in an account with no name has no claim on it, so a tempting purchase meets no resistance. The same amount earmarked as a named emergency fund feels already spoken for — dipping into it reads as a violation rather than a neutral choice. The label itself does real work."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'Save more' vs. a named target",
+      "body": "'Save more' gives you nothing to do, measure, or notice progress against, so it rarely turns into action. A specific target — a defined amount for a named purpose by a set date — tells you how much, by when, and whether you're on track, which is what converts an intention into a behaviour."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When a goal is set too high",
+      "body": "A target set far beyond what's realistically achievable can discourage people or prompt them to abandon the plan entirely — worse than a modest goal they actually keep. The research-aligned response to stress or repeated failure is to right-size the goal, not to drop goals altogether."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Earmarking works precisely because it converts neutral money into committed money.",
+      "source": "On why labeled savings stick"
+    },
+    {
+      "text": "Every saving decision you have to make is a decision you can talk yourself out of.",
+      "source": "On why automation matters"
+    }
+  ],
   "faqs": [
     {
       "question": "Does having a savings goal really make a difference?",

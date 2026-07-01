@@ -39,6 +39,35 @@
     { "value": "Neighbourhood-level", "label": "Scale at which upward mobility varies — areas miles apart differ sharply", "source": "Opportunity Insights" },
     { "value": "Falling", "label": "Share of children who grow up to out-earn their parents, across generations", "source": "Research on declining absolute mobility (Chetty et al.)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A child's eventual income is strongly predicted by their parents' income and the place they grew up.",
+    "Upward mobility varies at a fine grain — neighbourhoods only miles apart can differ sharply.",
+    "The share of children who out-earn their parents has fallen substantially across generations.",
+    "This is context, not fatalism: effort still matters, but starting position carries real weight."
+  ],
+  "examples": [
+    {
+      "label": "The distortion",
+      "title": "Why effort looks like the whole story",
+      "body": "The people we hear about are disproportionately the ones who moved up, and their narratives emphasise hard work because that's the part they lived from the inside. The much larger number of equally hard-working people who didn't move far rarely get told. The visible stories are survivorship stories, which is why effort seems like the main driver even when the data shows starting point carrying comparable weight."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two people, equal effort, different starts",
+      "body": "A stable home, a good local school, useful family connections, and not having to support relatives are easy to overlook — if you had them, they felt like the normal background of life rather than a leg up. Two people can work equally hard and end up far apart largely because of where they began. Naming that is accurate context, not a denial that their choices counted."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are running a race in which starting position carries real weight — and naming that is context, not fatalism or excuse-making.",
+      "source": "On how to read mobility data"
+    },
+    {
+      "text": "We tend to notice headwinds and take tailwinds for granted.",
+      "source": "On why starting advantages are invisible"
+    }
+  ],
   "faqs": [
     {
       "question": "Does where I grew up really affect how much I earn?",

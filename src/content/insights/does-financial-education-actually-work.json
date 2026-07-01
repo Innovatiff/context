@@ -40,6 +40,48 @@
     { "value": "Just-in-time", "label": "Timing of education that tends to outperform general courses", "source": "Research on just-in-time financial education" },
     { "value": "Defaults", "label": "Automatic enrolment / automation tends to beat teaching for changing behaviour", "source": "Thaler & Benartzi" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "A large meta-analysis found financial education explained only about 0.1% of the variance in behaviour.",
+    "That small effect faded toward zero within roughly 20 months as the knowledge was forgotten.",
+    "The bottleneck is knowing versus doing — passing a quiz on compound interest doesn't make people save.",
+    "'Just-in-time' guidance, delivered at the moment of a decision, outperforms general courses in advance.",
+    "Changing the default — automatic enrolment and saving — moves behaviour far more than teaching does."
+  ],
+  "distributions": [
+    {
+      "title": "Automatic enrolment vs. teaching: retirement-plan participation",
+      "caption": "Illustrative of the pattern rather than precise universal figures: switching the default so employees are enrolled automatically (and must opt out) lifted participation from roughly half of new hires to the high 80s or 90s percent in many workplaces — a far larger shift than financial-literacy courses produced.",
+      "unit": "% of new employees participating",
+      "source": "Thaler & Benartzi — research on automatic enrolment and defaults",
+      "bars": [
+        { "label": "Opt-in (choose to join)", "value": 50, "display": "≈50%" },
+        { "label": "Auto-enrol (opt out to leave)", "value": 90, "display": "high 80s–90s%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Passing the quiz, still not saving",
+      "body": "Someone can score perfectly on a compound-interest question and still not save a cent — because the bottleneck is rarely a missing fact, it is acting on it under real-world pressure, habit, and competing demands. A course taken years before a decision has often worn off by the time it would matter."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Learn it, then automate it the same day",
+      "body": "The research-aligned move is to attach any new knowledge to an immediate, concrete action: set up the account, change the contribution, or automate the transfer the same day. That encodes the lesson in a behaviour rather than leaving it as a fact that will fade within months."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Teaching financial literacy produced much weaker behavioural change than the field had assumed.",
+      "source": "On the 2014 meta-analysis"
+    },
+    {
+      "text": "The clearest wins in this literature come from changing the choice rather than the person.",
+      "source": "On defaults over education"
+    }
+  ],
   "faqs": [
     {
       "question": "So is financial education a waste of time?",

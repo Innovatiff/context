@@ -39,6 +39,62 @@
     { "value": "~10–15%", "label": "Of income suggested for retirement, often including employer match", "source": "Common retirement savings-rate guidance" },
     { "value": "~4–5%", "label": "Recent U.S. personal saving rate (share of disposable income)", "source": "U.S. Bureau of Economic Analysis" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "There is no single correct saving rate — the popular rules are starting points, not verdicts.",
+    "The 50/30/20 budget suggests roughly 20% of after-tax income toward savings and debt paydown.",
+    "Retirement guidance commonly suggests around 10–15% of income, often counting any employer match.",
+    "The U.S. personal saving rate has hovered around 4–5% — so the rules describe an aspiration most people don't hit.",
+    "A rate you can sustain, ideally automated and started early, beats a higher target you abandon."
+  ],
+  "tables": [
+    {
+      "title": "Common saving guidelines vs. what most people actually save",
+      "caption": "The percentages are heuristics built for a typical case, not thresholds that decide whether you're doing well. The gap to the national saving rate is a reminder that the rules describe an aspiration, not the middle.",
+      "columns": ["Reference point", "Share of income", "Basis"],
+      "rows": [
+        ["50/30/20 savings share", "≈ 20% (after-tax)", "Warren & Tyagi budget heuristic"],
+        ["Retirement guideline", "≈ 10–15%", "Common mainstream guidance, often incl. employer match"],
+        ["Actual U.S. saving rate", "≈ 4–5%", "Bureau of Economic Analysis, recent years"]
+      ],
+      "highlightColumn": 1,
+      "source": "Warren & Tyagi (50/30/20); common retirement guidance; U.S. Bureau of Economic Analysis"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Rule-of-thumb targets vs. the real saving rate",
+      "caption": "The same figures as bars. The distance between the ~20% target and the ~4–5% national saving rate is why measuring yourself against the rule can manufacture a sense of failure at a perfectly normal rate.",
+      "unit": "% of income",
+      "source": "Warren & Tyagi (50/30/20); common retirement guidance; U.S. Bureau of Economic Analysis",
+      "bars": [
+        { "label": "50/30/20 target", "value": 20, "display": "≈ 20%" },
+        { "label": "Retirement guideline (upper)", "value": 15, "display": "≈ 10–15%" },
+        { "label": "Actual U.S. saving rate", "value": 4.5, "display": "≈ 4–5%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Saving 5% and feeling like a failure",
+      "body": "Putting aside about 5% of income can feel far short of the 20% the budget rule implies. But it sits right around the recent U.S. personal saving rate of roughly 4–5%, so it is closer to the norm than the exception. The more useful move than chasing 20% is making that 5% automatic, so it happens without a monthly decision, and raising it gradually as income grows."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When needs already eat more than half your income",
+      "body": "The 50/30/20 split quietly assumes 50% of after-tax income covers your needs. When high rent or debt push needs well past half, the same 20% target produces a constant sense of shortfall against a number that was never calibrated for that situation. The honest read is that the rule doesn't fit the budget, not that you are failing it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The rules describe where many would like to be; the saving rate describes where most people actually are.",
+      "source": "On rule-of-thumb targets vs. reality"
+    },
+    {
+      "text": "A rate you can sustain beats a higher target you abandon."
+    }
+  ],
   "faqs": [
     {
       "question": "How much should I be saving each month?",

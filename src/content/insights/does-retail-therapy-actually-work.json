@@ -34,6 +34,35 @@
     "This is an area where the honest reporting is about direction rather than precise figures: the research, centered on Atalay and Meloy (2011), supports a real but small and short-lived mood boost from buying, with the notable finding that guilt and regret were uncommon in their studies. There is no clean, single statistic to quote for the size of the effect, so treat it as a modest, well-described phenomenon rather than a measured number.",
     "The two qualifiers that matter most are mechanism and decay. Part of the lift appears to come from a restored sense of control — which is why even window shopping or an imagined purchase can help — and the lift fades through hedonic adaptation. Set against cheaper, more durable mood-lifters like connection and movement, shopping reads as a costly, weak tool that genuinely works a little, briefly."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Retail therapy is not a myth — research suggests a real but small, short-lived mood boost.",
+    "In some studies it rarely produced guilt or regret afterward.",
+    "Part of the lift comes from a restored sense of control, so even window shopping can help.",
+    "The boost fades through hedonic adaptation, making shopping a costly, weak tool for managing mood."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The lift is choosing, not owning",
+      "body": "Because part of the effect comes from a restored sense of control rather than the object itself, even 'window shopping' or imagining a purchase appears to help — which is consistent with shopping working most when people feel low or powerless. That is a way to capture some of the small benefit without the cost."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Buying to fix a persistent low mood",
+      "body": "Leaning on shopping for an ongoing low mood is the wrong tool for the job. A brief, weak lift is not a substitute for cheaper, more reliable mood-lifters like connection and movement — and for anything ongoing or serious, this is educational context only, not a coping plan; a qualified professional is the appropriate step."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It works — just not strongly, and not for long.",
+      "source": "On the size of the effect"
+    },
+    {
+      "text": "We register the lift clearly and the adaptation quietly, so the felt 'it worked' impression sticks even as the effect dissipates.",
+      "source": "On why it feels more powerful than the data implies"
+    }
+  ],
   "realNumbers": [
     { "value": "Small & brief", "label": "Size and duration of the mood boost from buying", "source": "Atalay & Meloy, 2011" },
     { "value": "Rare", "label": "Guilt or regret reported after 'retail therapy' purchases in these studies", "source": "Atalay & Meloy, 2011" },

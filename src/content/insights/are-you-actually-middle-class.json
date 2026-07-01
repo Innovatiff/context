@@ -39,6 +39,50 @@
     { "value": "~Half", "label": "U.S. adults in the middle-income tier", "source": "Pew Research Center" },
     { "value": "~$80,610", "label": "Median U.S. household income (2023)", "source": "U.S. Census Bureau, 2023" }
   ],
+  "layout": "data-forward",
+  "keyTakeaways": [
+    "'Middle class' has a concrete definition — Pew's band is roughly two-thirds to double the national median household income, size-adjusted.",
+    "About half of U.S. adults fall in that middle tier, with the rest split between lower and upper income.",
+    "Median U.S. household income was around $80,610 in 2023 (Census), which anchors where the band falls.",
+    "Self-identification barely tracks the tiers — people across the income range call themselves middle class.",
+    "The tier locates you in a distribution; it is not a verdict on whether you're financially secure."
+  ],
+  "tables": [
+    {
+      "title": "Where Pew's middle-income band falls, anchored to the 2023 median",
+      "caption": "The band runs roughly from two-thirds to double the national median household income, before adjusting for household size. Figures below apply that ⅔-to-2× range to the ~$80,610 median; because the definition scales with household size, two households with the same income can land in different tiers.",
+      "columns": ["Income tier", "Approximate range (relative to the ~$80,610 median)"],
+      "rows": [
+        ["Lower income", "Below ≈ two-thirds of the median (roughly under ~$54,000)"],
+        ["Middle income", "≈ two-thirds to double the median (roughly ~$54,000 to ~$161,000)"],
+        ["Upper income", "Above ≈ double the median (roughly over ~$161,000)"]
+      ],
+      "highlightColumn": 1,
+      "source": "Pew Research Center definition applied to U.S. Census median household income (2023)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The same income, two different tiers",
+      "body": "Two households each earn the median-ish figure, but one is a single person and the other supports a family of four. Because Pew's definition adjusts for household size, that same dollar income can place them in different tiers — the money simply stretches differently across one person versus four. It's why comparing a single income across household sizes is misleading, and why the standard definitions adjust for it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Feeling 'middle' well above the middle",
+      "body": "Someone whose income sits comfortably in the upper tier can still feel squarely 'middle class,' because their neighbourhood, friends, and city all look similar to them. Social and geographic clustering makes almost any income feel normal and central — which is exactly why self-identification tells you far less about where you fall nationally than the numbers do."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The middle is large but not a majority — a sizeable share of the country sits above or below it.",
+      "source": "On the ~half of adults in the middle tier"
+    },
+    {
+      "text": "The tiers locate you in a distribution; they do not tell you whether you are doing well or badly.",
+      "source": "On reading the label"
+    }
+  ],
   "faqs": [
     {
       "question": "What income counts as middle class?",

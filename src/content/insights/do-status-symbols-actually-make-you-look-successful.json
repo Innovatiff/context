@@ -39,6 +39,34 @@
     { "value": "Conspicuous consumption", "label": "Veblen's term for buying to signal status, not for use", "source": "Veblen" },
     { "value": "Spending ≠ wealth", "label": "Visible spenders often have lower net worth", "source": "Stanley & Danko, The Millionaire Next Door" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Luxury signals do raise how others perceive your status — but the effect is shallow, context-dependent, and fades.",
+    "Visible spending measures consumption, not net worth; the two often diverge.",
+    "The most conspicuous spenders are frequently not the wealthiest, and are often debt-financed.",
+    "Debt-financing a status symbol pairs a fading signal with real interest — buying the look of wealth at the expense of its substance."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The new car in the driveway",
+      "body": "A neighbour's expensive car does shift how they're read in a passing moment — the luxury cue is a real signal. But it says nothing reliable about their net worth: the payment may be financed, and the balance sheet behind it is invisible. Reading the car as proof of wealth is the intuitive inference that's usually wrong in the same direction — overestimating the spender."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The millionaire who doesn't look like one",
+      "body": "The pattern Stanley and Danko documented runs the other way: many genuinely wealthy people live unremarkably and don't flaunt, while a lot of conspicuous consumption is done by people with modest or negative net worth. The unassuming lifestyle is, on average, the better indicator of actual wealth — the opposite of what the symbols imply."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The most visible spenders are often not the richest, and the richest are often not the most visible.",
+      "source": "On spending versus net worth"
+    },
+    {
+      "text": "Status symbols can change how you look in a passing moment without saying much about how successful, secure, or well-off you actually are."
+    }
+  ],
   "faqs": [
     {
       "question": "Do status symbols actually change how people see you?",

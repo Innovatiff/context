@@ -39,6 +39,34 @@
     { "value": "Saved less", "label": "Effect of higher visible peer spending on household saving", "source": "Bertrand & Morse" },
     { "value": "~4–5%", "label": "Recent U.S. personal saving rate (context, not proof)", "source": "U.S. Bureau of Economic Analysis (approx.)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On average, people spend more when the visible spending of those around them rises — and save less.",
+    "It rarely feels like keeping up; it works by quietly resetting what looks like a normal standard of living.",
+    "Because you see spending but not income or debt, the cues are skewed toward visible, often debt-financed consumption.",
+    "Earning more rarely settles it — the reference point rises with you; changing your inputs and rules works better than willpower."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "\"This is just what a family car costs now\"",
+      "body": "The upgraded baseline arrives without ever feeling like competition. Bigger cars, newer kitchens, and pricier holidays become visible in your circle, and your sense of what an ordinary life costs quietly moves up with them. The new normal feels like your own preference rather than a response to anyone — which is exactly why the pull is so easy to miss."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The raise that didn't close the gap",
+      "body": "Someone earns more expecting to comfortably keep pace, but their surroundings move up too — the visible spending around them rises with their income. So the gap between what they have and what looks normal persists at the new level rather than closing. Relative standing is a moving target, which is why earning more rarely settles the feeling."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The reference point shifts beneath you, so the upgraded baseline feels like your own preference rather than a response to others.",
+      "source": "On why keeping up doesn't feel like competition"
+    },
+    {
+      "text": "Matching the people who look the most successful often means matching their spending, not their security."
+    }
+  ],
   "faqs": [
     {
       "question": "Do people really spend more just because others around them do?",

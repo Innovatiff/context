@@ -39,6 +39,36 @@
     { "value": "Bidirectional", "label": "Debt can both cause and result from mental-health difficulties", "source": "Systematic review evidence" },
     { "value": "Unsecured / high-interest", "label": "Debt type most associated with psychological distress", "source": "Financial stress research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Debt and poor mental health are strongly linked, and the relationship runs in both directions.",
+    "A large systematic review found people in debt have substantially higher rates of depression, anxiety, and distress.",
+    "The strain is heaviest for unsecured, high-interest debt and payments that feel unmanageable — not debt as such.",
+    "The subjective sense of control matters as much as the headline amount owed.",
+    "Addressing both sides — clinical and financial — tends to help more than treating it as only one problem."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The loop that feels like a personal failing",
+      "body": "Distress makes it harder to open statements or call a lender; avoidance lets the balance grow; the growing balance deepens the distress. From the inside this can look like a lack of discipline, but it is a documented, two-way relationship between financial strain and mental health — not a character flaw. Naming it as a known pattern is itself part of an honest picture."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Same amount owed, very different weight",
+      "body": "A planned, low-rate mortgage and a high-interest credit-card balance of similar size sit very differently on mental health. The evidence points to unsecured, high-interest debt — and the feeling that payments are out of control — carrying far more of the psychological burden than manageable secured borrowing. The sense of unmanageability matters at least as much as the number."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Debt-related distress is common and is not a personal failing.",
+      "source": "On the shame that attaches to debt"
+    },
+    {
+      "text": "Turning an overwhelming, vague threat into a concrete, prioritized plan tends to relieve some of the distress even before the balance is gone.",
+      "source": "On why control matters"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there really a link between debt and mental health?",

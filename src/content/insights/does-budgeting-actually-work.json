@@ -39,6 +39,41 @@
     { "value": "Pay yourself first", "label": "Approach with the strongest behavioral support for saving", "source": "Thaler & Benartzi, Save More Tomorrow" },
     { "value": "Separate accounts", "label": "Using mental accounting to pre-commit money and make budgets stick", "source": "Thaler, mental accounting" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Detailed, track-every-expense budgets fail at high rates because they depend on sustained willpower.",
+    "Budgets collapse for a design reason, not a character one — effort fades, so effort-heavy plans erode.",
+    "Automation ('pay yourself first') has the strongest behavioral support: it removes the repeated decision.",
+    "Separate accounts for bills, saving, and spending pre-commit money so structure does the restraining.",
+    "A few simple rules you keep beat a meticulous ledger you abandon."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The spreadsheet that lasts three weeks",
+      "body": "A detailed budget starts strong, then a busy or stressful stretch arrives and the daily tracking slips — first a few uncategorised transactions, then the whole thing goes stale. The instinct is to blame yourself and restart, more strictly. But the method asked for ongoing willpower, and willpower is exactly the thing that runs out."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Saving that happens before you can spend it",
+      "body": "Instead of choosing to save whatever is left at month's end, a fixed amount moves to savings the moment income arrives, and fixed bills pay themselves automatically. The decision is made once rather than every month. It feels invisible and unsatisfying — and that lack of felt effort is precisely why it keeps working."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Three buckets instead of a ledger",
+      "body": "Separate accounts earmarked for bills, savings, and free spending pre-commit money to its job, so the structure restrains the spending rather than your self-control. A few clear pots plus a rough split of income tend to outlast a long, line-by-line spreadsheet."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Budgets don't fail because people are lazy — they fail because they're effortful, and effort fades.",
+      "source": "On why detailed budgets collapse"
+    },
+    {
+      "text": "The reliable lever is design — automation and pre-committed accounts — rather than discipline.",
+      "source": "On what actually works"
+    }
+  ],
   "faqs": [
     {
       "question": "Does budgeting actually work?",

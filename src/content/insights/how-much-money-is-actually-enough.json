@@ -40,6 +40,35 @@
     { "value": "No plateau", "label": "Finding from real-time sampling on income and experienced wellbeing", "source": "Killingsworth, 2021" },
     { "value": "Rising", "label": "Aspirations climb with income, so felt 'enough' keeps moving up", "source": "Easterlin / hedonic treadmill" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'Enough' is better understood as a comfortable, stable floor than as a fixed number.",
+    "Wellbeing rises steeply as you escape hardship, then with strongly diminishing returns above a comfortable level.",
+    "Aspirations rise with income, so the felt 'enough' keeps moving upward — the hedonic treadmill.",
+    "The practical levers are naming a concrete 'enough' in advance and resisting lifestyle creep."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The floor that keeps drifting upward",
+      "body": "You picture a fixed amount that would finally settle things — and you're very good at imagining the relief of reaching it, and very bad at imagining how fast you'll adjust. Once a higher income becomes your baseline, the comfort it brought fades into normal, and the same gap reopens at a higher level. That's why a salary that would have felt like plenty a few years ago can feel merely adequate now, even though little about your needs has changed."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Where money does the most work",
+      "body": "The research consistently shows the steepest wellbeing gains come from escaping financial strain and building a buffer against ordinary shocks. Above that comfortable floor, additional income still helps, but each increment does less. Prioritising the part of the curve where money matters most fits the evidence better than chasing income far above a comfortable level, where other factors increasingly outweigh it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The biggest wellbeing gains come from escaping strain; gains above a comfortable level are real but shrinking.",
+      "source": "On diminishing returns"
+    },
+    {
+      "text": "You rarely decide to want more; the standard simply rises as the people and options around you shift upward.",
+      "source": "On rising aspirations"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a specific income that counts as 'enough'?",

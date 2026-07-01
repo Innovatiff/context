@@ -40,6 +40,41 @@
     { "value": "Poverty premium", "label": "Tendency for those who can't buy durable to pay more over time", "source": "Poverty-premium research; Pratchett's boots theory" },
     { "value": "Veblen goods", "label": "Items where a high price is itself part of the appeal (signalling)", "source": "Veblen, conspicuous consumption" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "The honest test is cost-per-use — lifetime cost — not the sticker price.",
+    "Paying more can genuinely pay off for durable things you use often and that wear out.",
+    "Across many product categories, price is a weak signal of measured quality.",
+    "A share of premium pricing buys brand signalling, not durability — so 'expensive equals better' fails often.",
+    "The well-reviewed mid-range option is frequently the rational default."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The boots you replace every winter",
+      "body": "A cheap pair of boots that wears out each season and has to be rebought can cost more over several years than one durable pair bought once. Because you use them constantly and they wear out, dividing price by realistic years of wear — the cost-per-use — can reverse the apparent verdict and make the pricier pair the cheaper one. This is exactly the case the boots-theory and poverty-premium logic describe."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The premium gadget used twice a year",
+      "body": "For something you'll use rarely or briefly — a specialist tool, a one-off appliance — paying for durability you'll never exhaust is money spent on longevity you won't use. Here the cheap version is the sensible choice, and a brand premium buys mostly signalling rather than value you'll ever cash in."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The expensive thing that was no better",
+      "body": "Because a cheap item that breaks teaches a vivid, memorable lesson while an overpriced item that was no better simply blends in, the 'expensive equals better' belief rarely gets corrected by experience. Checking an independent review, the materials, and the warranty predicts durability better than the price tag does."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The right question isn't 'is it more expensive?' — it's 'what does it cost per use?'",
+      "source": "On the honest test"
+    },
+    {
+      "text": "'You get what you pay for' is true often enough to feel wise and false often enough to be a poor decision rule on its own.",
+      "source": "On price as a quality signal"
+    }
+  ],
   "faqs": [
     {
       "question": "Does a higher price mean better quality?",

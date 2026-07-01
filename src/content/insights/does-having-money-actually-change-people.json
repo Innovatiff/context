@@ -34,6 +34,35 @@
     "This is a topic where the honest answer is about the state of the evidence rather than a clean statistic. Paul Piff and colleagues (2012) reported across several studies that higher-status individuals behaved somewhat more self-interestedly, including the often-quoted finding about drivers of expensive cars yielding less — but several of these results have since faced replication challenges, so they are best read as suggestive, not settled.",
     "A separate body of work links wealth to greater independence and self-focus and, in some studies, less reliance on others. Taken together, the literature points to possible, subtle, non-deterministic shifts in attention and behaviour — not a reliable rule, and certainly not a verdict about any individual. Where the research is mixed or contested, the most accurate thing to say is exactly that."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The evidence is suggestive and contested, not settled — any effect appears subtle, not transformative.",
+    "Several headline findings, including Piff's expensive-car study, have faced replication challenges.",
+    "Where the research is steadier, it points to attention and reliance — not character or corruption.",
+    "Group-level averages describe tendencies across groups; they cannot predict any individual."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The luxury car that yields less",
+      "body": "The often-quoted image is a driver of an expensive car being less likely to yield to a pedestrian — the field observation reported by Piff and colleagues (2012). It became cultural shorthand for 'wealth erodes prosocial behaviour.' The honest footnote the retellings drop: findings like this have faced replication debate, so it is best read as suggestive, not conclusive."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading one rude wealthy person as proof",
+      "body": "A single memorable encounter with a rude wealthy person feels like it confirms the pattern, while the many counter-examples quietly fade from memory. That vividness is exactly why the effect feels stronger and more universal than the contested data supports — a striking case is not evidence about individuals, and group averages cannot tell you who any one person is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "At most, the studies describe modest average shifts in tendency — not a moral transformation, and not something that predicts any particular person.",
+      "source": "On what the research actually claims"
+    },
+    {
+      "text": "The accurate stance sits in the uncomfortable middle: mixed evidence, modest effects, real uncertainty.",
+      "source": "On holding the question loosely"
+    }
+  ],
   "faqs": [
     {
       "question": "Does money actually make people less ethical?",

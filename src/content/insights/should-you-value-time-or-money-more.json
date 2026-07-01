@@ -39,6 +39,35 @@
     { "value": "Time-preferrers", "label": "Group that tended to report greater happiness in the studies", "source": "Hershfield & Mogilner" },
     { "value": "Diminishing", "label": "Returns to extra income on wellbeing once needs are met", "source": "Income–happiness research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On average, people who say they value time over money report somewhat higher wellbeing — but it's a modest, correlational lean, not a rule.",
+    "The advantage seems to flow through what people do: time-preferrers direct time to relationships and rewarding activity.",
+    "The pattern is clearest once basic needs are met; under financial strain, money can be what buys time and security back.",
+    "Spending money to offload disliked tasks shows a small but fairly consistent wellbeing benefit.",
+    "Chasing money to 'free up time later' often stalls, because obligations tend to rise with income."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Past the financial floor, choosing the unhurried week",
+      "body": "For someone already past basic financial strain, the data leans toward protecting time for relationships and intrinsically enjoyable activity over directing the same effort at marginal extra income. Treating time as a resource worth defending — not just what's left over after work — is the practical version of the finding. Buying back hours by paying to offload a disliked task is one of the more defensible uses of money here."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Under strain, when money is time",
+      "body": "For someone whose finances are precarious, the honest guidance flips. More money can be precisely what buys security and options — the ability to take a sick day, decline overtime, or absorb a small shock. Building even a small buffer is, in practice, buying time back. The 'value time more' pattern is best read as advice for people already past financial pressure, not a substitute for covering the floor."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "For people under financial strain, money often is time and security — it buys the ability to stop worrying, to take a day off, to fix the car.",
+      "source": "On the income caveat"
+    },
+    {
+      "text": "This is correlational and modest in size: an association between valuing time and reporting more happiness, not proof that switching your preference will raise your wellbeing."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it really better to value time over money?",
