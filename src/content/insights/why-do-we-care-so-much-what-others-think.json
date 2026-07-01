@@ -38,6 +38,35 @@
     { "value": "Fundamental", "label": "Status of the 'need to belong' as a human motive", "source": "Baumeister & Leary, 1995" },
     { "value": "Pain", "label": "Social rejection overlaps with physical-pain brain regions", "source": "Social neuroscience research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Caring what others think is a built-in survival feature, not a personal weakness or a modern affliction.",
+    "Self-esteem appears to work as an internal gauge of how accepted or rejected you are (sociometer theory).",
+    "The need to belong is fundamental, and rejection registers so sharply because exclusion was once dangerous.",
+    "Modern life pushes the ancient gauge into overdrive by sampling a huge, unrepresentative audience.",
+    "The goal is recalibrating the gauge — not switching it off — by narrowing whose opinions actually count."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The gauge sampling the wrong crowd",
+      "body": "The instinct evolved for small, stable groups. Social media metrics, comments, and curated comparison expose it to far more people — and far more visible judgment — than it was ever designed for. The gauge keeps reading; it's just now sampling a huge, often hostile or unrepresentative audience, which is why the same instinct that once kept you safe can feel relentless."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The confident-seeming people who also care",
+      "body": "It's easy to experience your own self-consciousness vividly while assuming that confident-seeming others simply don't care what anyone thinks. In reality most people are running the same gauge and hiding it, so the sensitivity feels more unusual and shameful than it actually is. Recognising the instinct as near-universal takes some of the sting out of it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Being sensitive to approval is the gauge doing its job — self-esteem reads out how accepted or rejected you are.",
+      "source": "On sociometer theory"
+    },
+    {
+      "text": "The aim isn't to stop caring — it's to notice when the gauge is turned up too high, or pointed at people whose opinions shouldn't carry much weight."
+    }
+  ],
   "faqs": [
     {
       "question": "Is caring what others think a sign of weakness?",

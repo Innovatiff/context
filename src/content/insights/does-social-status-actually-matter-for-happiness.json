@@ -39,6 +39,36 @@
     { "value": "Tracks change", "label": "Wellbeing tended to move when people's local standing changed", "source": "Anderson et al." },
     { "value": "Relative", "label": "Humans are tuned to standing relative to their immediate circle", "source": "Social-rank and relative-standing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Sociometric status — respect in your face-to-face groups — predicts wellbeing more reliably than income or wealth does.",
+    "When people's local standing changed, their wellbeing tended to move with it.",
+    "Broad status gains reset the reference point, so you quickly start measuring against the next tier up.",
+    "Local respect is quiet and hard to quantify, which is part of why people keep aiming at the wrong target.",
+    "The durable version of status comes from competence, generosity, and reliability inside real groups — not from out-earning strangers."
+  ],
+  "examples": [
+    {
+      "label": "The comparison",
+      "title": "Same income, different wellbeing",
+      "body": "Picture two people with the same income. The one who feels more respected and valued in their actual groups — their team, their friends, their neighbourhood — tends to report higher wellbeing. It's a comparative finding rather than a precise number, but it points the same direction: the standing that registers day to day is the local, relational kind, not the abstract ladder."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A respected place in an ordinary circle",
+      "body": "Someone leaves a marginal spot in a high-prestige group for a community where their contributions are actually recognised. Because local standing tracks wellbeing and shifts when your group changes, a respected place in an ordinary circle may beat a low-status place in an impressive one. Buying status symbols to signal rank to acquaintances does little for the relational standing that seems to matter."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The version of status that tracks wellbeing is the local, relational one — not the high, distant kind that status-seeking usually targets.",
+      "source": "On sociometric vs socioeconomic status"
+    },
+    {
+      "text": "A respected place in an ordinary circle may beat a marginal place in an impressive one.",
+      "source": "On choosing your groups"
+    }
+  ],
   "faqs": [
     {
       "question": "Does social status really affect happiness at all?",

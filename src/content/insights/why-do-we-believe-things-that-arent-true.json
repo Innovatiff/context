@@ -34,6 +34,35 @@
     "This is a topic where the honest evidence is about robust, repeatedly replicated effects rather than a single headline statistic, so it's worth saying plainly: there's no meaningful percentage for 'how often people believe false things.' What the research strongly supports is that confirmation bias, the illusory truth effect, and motivated reasoning are pervasive, normal, and largely automatic features of human cognition — found across education levels and intelligence.",
     "The practical, non-numeric takeaway is that the feeling of certainty is not a reliable gauge of accuracy. Because the brain optimises for efficient prediction rather than truth, a belief can feel completely obvious and still be wrong — and that's the expected behaviour of a normal mind, not a sign of a defective one. The fact that this applies to everyone, including the most confident and the most informed, is itself the central finding."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The brain is built mainly to predict and act efficiently, not to track truth — so shortcuts stand in for evidence.",
+    "Confirmation bias makes us seek and remember what fits, largely before we're aware of it.",
+    "The illusory truth effect means repetition alone makes statements feel more true — even when we know better.",
+    "Motivated reasoning applies easier standards to what we want to believe while feeling fair.",
+    "More intelligence or information isn't a reliable fix; seeking disconfirming evidence is the habit that helps."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The claim that feels true because it's familiar",
+      "body": "A statement you've encountered many times arrives with a sense of obviousness that has nothing to do with evidence — familiarity gets mistaken for accuracy. Strikingly, the illusory truth effect can occur even when you actually know better, which is part of why repeated false claims are so sticky, and why repeating a myth in order to debunk it can quietly increase its felt truth."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Building a one-sided case while feeling fair",
+      "body": "When you want something to be true, you apply an easier standard of evidence to it and a harder one to what you'd rather reject — gathering support, discounting the counterpoints, and experiencing the whole process as clear-eyed reasoning. A sharper mind can make this worse, because it's better at constructing reasons for what it already wants to think."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "False beliefs don't feel false from the inside — the brain doesn't tag where a belief came from, so 'it feels true' isn't evidence that it is.",
+      "source": "On why the shortcuts stay invisible"
+    },
+    {
+      "text": "Being clever can make some biases worse, because a sharper mind is better at constructing reasons for what it already wants to think."
+    }
+  ],
   "faqs": [
     {
       "question": "Why does my brain believe things that aren't true?",

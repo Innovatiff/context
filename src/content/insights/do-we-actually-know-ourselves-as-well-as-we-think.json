@@ -34,6 +34,36 @@
     "This is a question about the structure of self-knowledge rather than a population statistic, so it would be misleading to attach a single accuracy percentage. What the research establishes is a pattern: self-accuracy tends to exceed observer accuracy for internal, low-evaluative traits, while observer accuracy tends to match or exceed self-accuracy for visible, evaluative ones. The size of the asymmetry varies by trait and study.",
     "On introspection, the honest summary is qualitative too: people reliably generate confident explanations for their behaviour that can diverge from the actual causes, a finding well replicated since Nisbett and Wilson's original work, though the exact extent depends on the situation. The takeaway is not a number but a correction — self-knowledge is real and useful, partial and biased, and meaningfully improved by combining your own view with how others see you."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Self-knowledge is real but partial and biased — not the complete picture it feels like from the inside.",
+    "By Vazire's SOKA model, you know your hidden inner traits (anxiety, private thoughts) better than others do.",
+    "Others can be more accurate about visible, ego-relevant traits — how funny, intelligent, or arrogant you come across.",
+    "We often confabulate reasons for our behaviour: Nisbett and Wilson showed people confidently report causes that didn't actually drive the choice.",
+    "Weight the source by the trait: trust your own report on inner states, and give observer input real weight on how you present."
+  ],
+  "examples": [
+    {
+      "label": "The pattern",
+      "title": "Who's the better judge — you or them?",
+      "body": "For a private inner state like your anxiety, your own report is usually the better guide; others can't easily see it. But for how arrogant or funny you come across, a relatively neutral observer can read the behaviour more clearly than you can, because your self-view is quietly shaped by the wish to see yourself favourably. The blind spot is concentrated exactly where the trait matters most to your self-image."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The reason that arrived too smoothly",
+      "body": "You explain why you made a decision and the reason feels obviously true — it arrives fluently and doesn't feel like guessing. The introspection-limits research suggests holding it a little more loosely: treat your stated reason as a plausible hypothesis, and check it against your actual patterns of behaviour over time rather than accepting the story as settled fact."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Introspection is a genuine but limited window, and feedback from others fills in parts of the picture we cannot see.",
+      "source": "On the limits of self-knowledge"
+    },
+    {
+      "text": "The very qualities others read more clearly are the ones you are most confident you already understand.",
+      "source": "On ego-relevant blind spots"
+    }
+  ],
   "faqs": [
     {
       "question": "Do other people really know me better than I know myself?",

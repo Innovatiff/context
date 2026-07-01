@@ -39,6 +39,36 @@
     { "value": "Character vs. situation", "label": "We judge others' acts as character, our own as circumstance", "source": "Ross — fundamental attribution error" },
     { "value": "Cognitive miser", "label": "The mind defaults to effort-saving shortcuts like stereotyping", "source": "Cognitive efficiency research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Impressions of a face can form in roughly a tenth of a second — more time mainly raises confidence, not accuracy.",
+    "Stereotyping is an effort-saving shortcut: the 'cognitive miser' mind trades precision for speed.",
+    "The fundamental attribution error makes us read others' acts as character and our own as circumstance.",
+    "Confirmation bias then makes a snap judgment feel confirmed, keeping it quick to form and slow to revise.",
+    "You can't stop the first read, but you can treat it as a hypothesis to check rather than a conclusion."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The driver who cuts you off",
+      "body": "Someone cuts across you in traffic and the instant read is 'what a jerk.' When you do the same thing, you were 'just having a bad day.' That asymmetry is the fundamental attribution error: you see their action but not their situation, and only your own context is visible from the inside — so the double standard feels perfectly fair."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The first impression that keeps 'proving itself'",
+      "body": "You meet someone briefly and file them as unfriendly. Afterwards you keep noticing the moments that fit — the short reply, the missed hello — and overlook the warm ones. The impression formed in a fraction of a second and then confirmation bias quietly curated the evidence, so a snap judgment built on almost nothing came to feel reliable."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Extra time mainly increases how sure you feel, not how right you are — confidence and correctness aren't the same thing.",
+      "source": "On snap judgments"
+    },
+    {
+      "text": "Having the impulse doesn't make you a bad person; it makes you a person with an ordinary brain.",
+      "source": "On self-blame"
+    }
+  ],
   "faqs": [
     {
       "question": "How fast do we actually judge people?",

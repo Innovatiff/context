@@ -39,6 +39,40 @@
     { "value": "Same game", "label": "Rival fans watching one event each saw the other side as the dirtier players", "source": "Classic perception study" },
     { "value": "Both biased", "label": "Opposing partisans each see identical neutral coverage as biased against them", "source": "Hostile media effect" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "What we perceive is a constructed, interpreted version of the world, not a direct readout of reality.",
+    "Naive realism (Ross & Ward) is the conviction that we see things plainly and that those who disagree must be biased.",
+    "The same ambiguous event is read differently depending on prior beliefs, expectations, and where attention falls.",
+    "Treating disagreement as a difference in construal — not bad faith — builds humility and tends to lower conflict."
+  ],
+  "examples": [
+    {
+      "label": "The classic demonstration",
+      "title": "One game, two dirtier teams",
+      "body": "Fans of two rival teams watch the same rough game and each side sincerely sees the other as the dirtier players. Nobody is lying: they are reading identical footage through their own commitments and attention. The shared input is the same; the perceived reality is not — and each viewer is confident theirs is the accurate one."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Why your view always feels like the objective one",
+      "body": "You only ever experience your own perception — vivid, immediate, already meaningful. Another person's view of the same scene is something you have to infer, out of reach. With your interpretation right in front of you and theirs unavailable, yours inevitably feels like plain fact rather than one construal among others."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A disagreement that isn't about bias",
+      "body": "Two people leave the same meeting with opposite readings of a colleague's tone — one heard sarcasm, the other heard stress. The quicker explanation is that the other person is biased or careless. The more accurate default is that they construed an ambiguous signal through different priors. Asking what they actually heard, and why, replaces the caricature with a real perspective you can engage."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The construction is invisible from the inside, which is exactly why it feels like plain seeing.",
+      "source": "On why perception feels objective"
+    },
+    {
+      "text": "The aim is not relativism but calibration: taking your own view seriously while remembering it is a view.",
+      "source": "On holding perception with humility"
+    }
+  ],
   "faqs": [
     {
       "question": "What is naive realism?",

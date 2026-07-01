@@ -40,6 +40,40 @@
     { "value": "Usually follows", "label": "Whether confidence tends to come before or after competence and action", "source": "Self-efficacy research" },
     { "value": "Small / can backfire", "label": "Measured effect of positive affirmations alone, especially at low self-esteem", "source": "Research on positive self-statements" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Confidence comes mostly from doing — mastery experiences are the strongest source in Bandura's self-efficacy theory.",
+    "The usual sequence is reversed: you act before you feel ready, gather evidence you can cope, and confidence forms afterward.",
+    "The four sources rank in strength — mastery, then vicarious experience, then social persuasion, then physiological state.",
+    "'Just believe in yourself' affirmations are among the weakest levers and can backfire for people with low self-esteem.",
+    "Nerves before a challenge are normal even for skilled people; the difference is how the arousal is interpreted, not whether it's present."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Graded mastery, one step at a time",
+      "body": "You break the thing into steps small enough to succeed at, do them — often before you feel ready — and let the wins accumulate. Each completed step is direct evidence that you can cope, which is the input the theory says matters most. Acting before the feeling arrives isn't a personality flaw; it's how the confidence gets built in the first place."
+    },
+    {
+      "label": "The trap",
+      "title": "Waiting at the starting line",
+      "body": "Treating confidence as a prerequisite, you defer starting until you feel ready — but the experience that would build the confidence is exactly the thing being postponed. Stuck at the input that matters least, you starve the one that matters most, and the feeling you're waiting for never quite comes."
+    },
+    {
+      "label": "Reappraising nerves",
+      "title": "A racing heart as readiness",
+      "body": "Before a presentation your heart races and your hands feel unsteady. Read as proof you're not cut out for it, that arousal becomes its own source of doubt. Read as readiness or excitement, the same signals can support performance — even experienced performers feel them; the difference is largely in the interpretation."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Confidence is largely the residue of accumulated experience, not a mindset you can install in advance by repeating affirmations.",
+      "source": "On where confidence comes from"
+    },
+    {
+      "text": "Waiting to feel confident before you begin reliably backfires, because the experience that would build confidence is the very thing being postponed."
+    }
+  ],
   "faqs": [
     {
       "question": "Does confidence come before or after success?",

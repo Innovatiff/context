@@ -34,6 +34,36 @@
     "This is a topic where the honest figure is 'it depends,' and the literature reflects that. Dispositional optimism shows consistent but modest associations with better coping and health outcomes across many studies — meaningful on average, but far from deterministic for any individual. We should resist turning these correlations into a precise number, because the effect sizes are small and vary by outcome and population.",
     "Defensive pessimism is documented as an effective strategy for a real subset of people rather than a universal one, and the depressive-realism effect is best described as weak and contested rather than established. The takeaway is not a statistic but a structure: optimism is a good default for most, a cautious problem-anticipating style fits a sizeable minority, and the worst move is forcing the wrong strategy onto either group."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On average, dispositional optimism is associated with better coping, persistence, and some health markers — but these are modest correlations, not guarantees.",
+    "Defensive pessimism genuinely helps a sizeable minority: expecting problems and rehearsing them channels anxiety into preparation.",
+    "Pushing positive thinking onto a defensive pessimist tends to lower their performance — the worry is the engine of their preparation.",
+    "The 'depressive realism' idea that pessimists see reality more clearly is weak and contested, not established.",
+    "The honest move is to match the strategy to the person rather than declare one universally superior."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The worrier who performs best prepared",
+      "body": "Someone who voices every worst-case scenario before a presentation can sound negative and self-defeating — but for a defensive pessimist that worry is the mechanism that drives the preparation. Talk them into 'just thinking positive' and their performance tends to drop, because you have removed what was helping. The visible behaviour and its actual function come apart."
+    },
+    {
+      "label": "The distinction",
+      "title": "Active optimism vs denial",
+      "body": "The optimism linked to good outcomes is closer to a flexible, active coping style than to denial: expecting things can work out and therefore engaging with problems. Assuming it will all be fine while doing nothing to make that likely is not the version the research supports — optimism helps when it sustains effort, not when it substitutes for it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The strategy that looks unhealthy from the outside is actually doing useful work for them.",
+      "source": "On defensive pessimism"
+    },
+    {
+      "text": "Optimism is a good default for most, a cautious problem-anticipating style fits a sizeable minority, and the worst move is forcing the wrong strategy onto either group.",
+      "source": "On matching strategy to person"
+    }
+  ],
   "faqs": [
     {
       "question": "Is being an optimist actually better for you?",

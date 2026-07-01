@@ -40,6 +40,36 @@
     { "value": "Similarity, not opposites", "label": "People generally pair with those who share values and background (homophily)", "source": "Homophily research" },
     { "value": "Familiar feels safe", "label": "Mere exposure makes the familiar register as comfortable and preferable", "source": "Mere-exposure research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Repeating a romantic 'type' is common — driven by attachment patterns, familiarity, and shared values, not bad luck.",
+    "Research (Park & MacDonald, 2019) finds past and current partners tend to resemble each other on some traits, so the pattern is real but partial.",
+    "The mere-exposure effect means a familiar dynamic reads as comfortable — which is not the same as it being healthy.",
+    "'Opposites attract' is largely a myth: people generally pair with those who share their values and background (homophily).",
+    "These are patterns, not fate; awareness of your own pulls is what the research most supports for changing them."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "When 'chemistry' is really recognition",
+      "body": "The pulls operate below conscious awareness, so you don't experience 'I'm seeking a familiar attachment dynamic' — you experience a spark. An anxiously attached person, for instance, may feel an instant draw to a more avoidant partner, recreating a familiar push-and-pull. What reads as instant connection is sometimes just the comfort of a dynamic you already know how to navigate, for better or worse."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'The same person in a different body'",
+      "body": "Someone looks back over a few relationships that ended in similar ways and concludes 'I always date the same type.' Given the consistency the research finds, that story is often partly accurate. But memory tends to emphasise the matches and quietly drop the relationships that didn't fit — so the pattern is usually real and recognisable, yet less absolute than it feels."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A dynamic feeling 'right' early on is not strong evidence that it is healthy — only that it is recognisable.",
+      "source": "On familiarity versus compatibility"
+    },
+    {
+      "text": "These are patterns, not fate, and patterns tend to be the kind of thing awareness can change.",
+      "source": "On whether a 'type' is destiny"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually true that people date the same type?",

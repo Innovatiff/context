@@ -34,6 +34,36 @@
     "This is an area where the honest answer is qualitative more than numerical: the core findings are about direction and pattern, not precise percentages. The most robust quantitative thread is that people consistently underestimate how likely others are to agree to a direct request for help — across several experiments, those asking expected far fewer yeses than they actually received.",
     "The reciprocity and self-image costs of accepting help are well documented in the help-seeking literature, but they are described as tendencies rather than fixed figures, and they vary a lot by culture, relationship, and the size of the favour. Treat the takeaway as a reliable general pattern — the cost of asking is usually smaller, and the willingness of others usually larger, than it feels — rather than a single statistic."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Accepting help is hard mainly because it triggers a sense of indebtedness and can feel like a threat to competence or independence.",
+    "We systematically underestimate how willing others are to help — people expect far fewer yeses than they actually get (Flynn & Bohns).",
+    "Helping tends to make the helper feel good, so the imposition we fear is often closer to a small gift they are glad to give.",
+    "The beautiful-mess effect: we judge our own vulnerable moments more harshly than observers, who often see them as relatable or brave.",
+    "Allowing others to help is part of how closeness is built — a loose, two-way flow of help feels more secure than a strictly balanced ledger."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The 'yes' you don't expect",
+      "body": "The cost of accepting is vivid and immediate — the awkwardness, the sense of owing something — while the benefit is spread out and easy to discount. So declining feels like the safe, self-protective choice in the moment. But across studies, people asked to make a direct request expected far fewer yeses than they actually received: the willingness of others is usually larger, and the imposition smaller, than it feels."
+    },
+    {
+      "label": "The reframe",
+      "title": "'I'm fine' as a reflex",
+      "body": "Because so much cultural messaging frames independence as a virtue and needing help as a deficit, saying 'I'm fine' can feel principled rather than costly. Yet refusing all help can read to others as keeping them at arm's length, quietly removing the moments of mutual reliance that research links to closeness. Asking can be a gift to the relationship rather than a drain on it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The imposition we fear is, for many helpers, closer to a small gift they are glad to give.",
+      "source": "On why others say yes"
+    },
+    {
+      "text": "Relationships with a loose, two-way flow of help feel more secure than strictly balanced ledgers.",
+      "source": "On indebtedness and reciprocity"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel guilty when someone helps me?",

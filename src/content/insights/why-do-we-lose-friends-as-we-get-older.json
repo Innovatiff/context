@@ -40,6 +40,36 @@
     { "value": "Gradual decline", "label": "Trajectory of network size after the mid-20s peak", "source": "Bhattacharya et al., 2016, Royal Society Open Science" },
     { "value": "Falls with age", "label": "Time spent with friends across adulthood", "source": "American Time Use Survey" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Social networks tend to peak in size around the mid-20s and decline gradually for the rest of life (Bhattacharya et al., 2016).",
+    "Part of the shrinkage is structural and unchosen — moves, careers, and parenthood quietly prune ties by reducing shared time.",
+    "Part is deliberate: as time horizons shorten, people prioritise fewer, deeper relationships (socioemotional selectivity theory).",
+    "Friendship is sustained more by frequency and proximity than by intensity, so recurring low-effort contact does more than grand gestures.",
+    "The peak-then-decline pattern shows up across whole populations, so a shrinking circle is the common trajectory, not a personal flaw."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "No falling-out, just fading",
+      "body": "Friendships rarely end with a clear event; they fade through missed messages and slowly diverging schedules after a move, a job change, or a new baby. Because there is no moment to point to, it is easy to read the accumulated quiet as something you did wrong — when it is mostly the ordinary structural pruning that time-use data shows across whole populations."
+    },
+    {
+      "label": "The reframe",
+      "title": "Less energy, or a chosen narrowing?",
+      "body": "Reprioritising toward a few close relationships does not feel like a strategy from the inside — it feels like having less energy for socialising or caring less about keeping up. Carstensen's research reframes that same experience as a normal reallocation toward what matters most, and links the narrower circle to high relationship satisfaction in later life rather than to loss."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The infrastructure changed; the comparison did not.",
+      "source": "On measuring midlife friendship against youth"
+    },
+    {
+      "text": "A narrowing circle in later life is partly chosen — and associated with high relationship satisfaction, not simply loss.",
+      "source": "On socioemotional selectivity"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to have fewer friends as you get older?",

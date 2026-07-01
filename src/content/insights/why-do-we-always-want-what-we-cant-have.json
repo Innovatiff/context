@@ -34,6 +34,35 @@
     "This is a topic of well-established psychological principles rather than headline statistics, so the honest framing is conceptual. Three robust effects converge: scarcity raising perceived value (Cialdini), reactance increasing desire for restricted options (Brehm), and hedonic adaptation dimming what we already have. Each is supported by a substantial body of research, even though precise effect sizes depend heavily on context.",
     "One specific caution is worth stating plainly: the famous 'Romeo and Juliet effect' — the claim that parental opposition strengthens a couple's attraction — is contested. The original finding has not replicated cleanly, and later work has found mixed or contrary results. So treat it as an illustrative idea, not a settled fact, while the broader principles of scarcity, reactance and adaptation are on much firmer ground."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wanting the unavailable is a predictable interaction of three forces, not a personal flaw.",
+    "Scarcity reads 'hard to get' as 'worth getting,' inflating a thing's perceived value.",
+    "Reactance makes a restricted option more attractive as we try to restore our freedom.",
+    "Adaptation dims what we obtain, so desire migrates to the next out-of-reach thing.",
+    "Naming the force in the moment eases the urgency, even though it won't switch the pull off."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "'Limited' and 'while supplies last'",
+      "body": "The reason these phrases sell so reliably is scarcity working as a cue for value. The item didn't get better when it became limited — its unavailability itself raised the appeal. Much of the extra pull is coming from 'hard to get,' not from the thing's actual merits, which is exactly why acting on that inflated value tends to overpay."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The goal that felt ordinary once reached",
+      "body": "You wanted a particular thing badly, got it, and within a while the shine had faded and attention had already drifted to the next out-of-reach thing. This feels like a mistake — as if you wanted the wrong thing — but it's largely adaptation doing its ordinary work. The pattern is in the wanting, not in the object, so the next thing is unlikely to feel as different, once obtained, as it does while it's still out of reach."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Much of the extra desire is coming from the thing's very unavailability, not from the thing itself.",
+      "source": "On the scarcity principle"
+    },
+    {
+      "text": "The pattern is in the wanting, not in the particular object — which is why the next thing rarely satisfies the way you expect."
+    }
+  ],
   "faqs": [
     {
       "question": "Why does something seem more attractive the moment I can't have it?",

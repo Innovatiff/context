@@ -34,6 +34,36 @@
     "This is a mechanism question rather than a population-statistics one, and it would be dishonest to attach a precise percentage to 'how much people hate being wrong.' What the research establishes is the existence and reliability of the machinery: cognitive dissonance, motivated reasoning, confirmation bias, and identity-protective cognition are well-replicated across many studies and many domains, from trivial preferences to deeply held political and group beliefs.",
     "Where the evidence is more tentative is on the fixes. Debiasing techniques like considering the opposite show real but modest effects, and they do not eliminate the bias — they reduce it. So the honest picture is a strong, well-documented tendency to defend our beliefs, paired with partial, imperfect tools for counteracting it."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Being wrong threatens more than a fact — it threatens your self-image and your picture of how the world works.",
+    "Cognitive dissonance and motivated reasoning are documented ways the mind defends existing beliefs.",
+    "When a belief is tied to your identity or group, contradicting evidence is processed more defensively.",
+    "Motivated reasoning feels exactly like ordinary reasoning from the inside, which is what makes it persuasive.",
+    "Treating error as updating rather than defeat is linked to more accurate beliefs over time."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why a small correction lands so hard",
+      "body": "A correction doesn't arrive as 'this fact is X.' It arrives as 'you, who believed not-X, were mistaken' — and that second message activates self-image and social standing. That's why a minor factual point can trigger a disproportionate defensive reaction: the threat isn't to the fact, it's to the self."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The rationaliser who feels like a reasoner",
+      "body": "Someone defending a shaky belief doesn't experience themselves as rationalising; they experience themselves as noticing the flaws in the other side's argument. Motivated reasoning runs below awareness and feels like ordinary clear thinking. Deliberately asking 'what evidence would change my mind?' is one of the few tools with support for partially counteracting that automatic pull."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Being wrong is not failure but information — and people who treat error as updating tend to think better than those who treat it as defeat.",
+      "source": "On the useful reframe"
+    },
+    {
+      "text": "Motivated reasoning feels exactly like ordinary reasoning from the inside, which is what makes it so persuasive to its owner.",
+      "source": "On why the bias is invisible"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does being wrong feel so personal?",

@@ -39,6 +39,35 @@
     { "value": "Availability", "label": "Our own perspective is most accessible, so it anchors our guesses about others", "source": "Research on availability and social projection" },
     { "value": "False uniqueness", "label": "The flip side — we think our abilities are rarer than they are", "source": "Social comparison research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We systematically overestimate how widely our own beliefs and choices are shared — the false consensus effect.",
+    "It's fed by availability: our own view is most accessible, so it anchors our guesses about others.",
+    "Our circle of similar others really does mostly agree with us, which makes the overestimate feel confirmed.",
+    "Its counterpart, false uniqueness, has us underestimate how common our abilities are.",
+    "'How could they think that?' is often your own consensus estimate being off, not the other person being odd."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The self-selected sample",
+      "body": "The people you spend time with disproportionately share your background, values, and outlook, so the evidence right in front of you really does suggest broad agreement. You're not inventing the consensus from nothing — you're over-generalising from a self-selected slice of the population to everyone. That's why the estimate feels so well supported even when it's off."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'How could they possibly think that?'",
+      "body": "A disagreement lands as genuinely baffling — the other person's view seems not just different but unreasonable. Ross, Greene and House found people judged those who chose differently as more unusual and revealing. Read the other way, the surprise is information about the real range of views, and a cue to update your estimate of what people believe — not evidence the other person is the outlier."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Our own perspective does not feel like a perspective — it feels like simply seeing what is reasonable.",
+      "source": "On why the bias is invisible"
+    },
+    {
+      "text": "The agreement of your immediate circle tells you little about the wider population, however convincing it feels."
+    }
+  ],
   "faqs": [
     {
       "question": "What is the false consensus effect?",

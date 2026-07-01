@@ -40,6 +40,36 @@
     { "value": "Pluralistic ignorance", "label": "Why hidden struggle makes everyone feel alone in it", "source": "Social psychology research" },
     { "value": "More isolated", "label": "Effect of overestimating others' happiness on the self", "source": "Jordan et al., 2011" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People systematically overestimate how happy others are and underestimate how often others struggle.",
+    "You compare your full inside view against everyone else's composed surface, so your struggles feel unusually rare.",
+    "Measured directly, worldwide average life satisfaction is moderate — roughly 5 to 6 on a 0-to-10 ladder, not near the top.",
+    "Pluralistic ignorance keeps the illusion alive: everyone privately struggles but publicly hides it.",
+    "Knowing others hide their struggles too, and having honest conversations, reduces the sense of isolation."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The 'fine' that everyone gives",
+      "body": "People learn early to answer 'how are you?' with 'fine,' saving their hardest moments for a trusted few or no one at all. So you walk through a world of people each presenting a calmer face than they feel — and each reading everyone else's calm face as the truth. Your own difficulties feel like the exception precisely because everyone else's are hidden the same way yours are."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The feed that looks like everyone's thriving",
+      "body": "Scrolling a feed of celebrations, milestones, and good days, it is easy to conclude that everyone else has it figured out and only you are wrestling with life. But feeds surface highlights and almost never the ordinary struggle in between, so the sample you see is heavily skewed. Reading social media as an honest emotional report inflates your estimate of others' wellbeing and deepens the feeling that you are the exception."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "There is no population of uniformly thriving people for the average person to be falling short of.",
+      "source": "On what the happiness data actually shows"
+    },
+    {
+      "text": "Happiness is moderate and unevenly spread, and the hard parts are hidden — so 'everyone else' looks far happier than they really are.",
+      "source": "On the illusion"
+    }
+  ],
   "faqs": [
     {
       "question": "Is everyone secretly happier than me?",

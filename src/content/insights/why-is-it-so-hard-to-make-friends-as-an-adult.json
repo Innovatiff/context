@@ -40,6 +40,63 @@
     { "value": "200+ hrs", "label": "Rough time together to become close friends", "source": "Hall, 2019 (approximate)" },
     { "value": "3", "label": "Core ingredients of easy friendship adulthood removes: proximity, repeated unplanned contact, shared vulnerability", "source": "Sociology of friendship formation" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Adult friendship is harder mainly for structural reasons, not personal ones — the conditions that made earlier friendships easy are gone.",
+    "Three ingredients do most of the work: proximity, repeated unplanned contact, and settings that invite some vulnerability.",
+    "Closeness is time-expensive: roughly 50 hours to become casual friends, ~90 to become friends, and 200+ to become close (Hall, 2019).",
+    "Frequency and consistency beat intensity — many modest, regular interactions add up faster than occasional grand ones.",
+    "Most adults report only a few close friends, so the slow build is the normal backdrop, not an experience peculiar to you."
+  ],
+  "tables": [
+    {
+      "title": "Rough hours together to reach each stage of friendship",
+      "caption": "Approximate averages that vary widely by setting, drawn from particular samples — a sense of scale, not a formula. Their lesson: closeness is time-expensive, and adult schedules ration exactly that resource.",
+      "columns": ["Friendship stage", "Rough hours together"],
+      "rows": [
+        ["Casual friend", "~50 hours"],
+        ["Friend", "~90 hours"],
+        ["Close friend", "200+ hours"]
+      ],
+      "highlightColumn": 1,
+      "source": "Hall, J. A. (2019), Journal of Social and Personal Relationships"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "How the hours scale with closeness",
+      "caption": "The same rough estimates as bars. Becoming a close friend takes on the order of four times the hours of a casual one — abundant in a shared classroom, scarce in a calendar full of work and family.",
+      "unit": "hours",
+      "source": "Hall, J. A. (2019), Journal of Social and Personal Relationships",
+      "bars": [
+        { "label": "Casual friend", "value": 50, "display": "~50 hrs" },
+        { "label": "Friend", "value": 90, "display": "~90 hrs" },
+        { "label": "Close friend", "value": 200, "display": "200+ hrs" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Plenty of acquaintances, few new close friends",
+      "body": "People commonly report warmth and plenty of acquaintances but few new close friendships forming. The reason is almost arithmetic: adulthood removes the settings that once generated unplanned hours together, and those hours are exactly what closeness requires. You are getting some contact — just not the sustained, repeated, low-effort contact that earlier life supplied for free."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The same person, a changed environment",
+      "body": "Someone who made friends easily at school finds it slow and effortful now and assumes something about them has gone wrong. But the thing that changed is the setting, not the person. The earlier ease was a feature of being placed among the same people every day — school, university, early jobs supply proximity and repeated daily contact by default; most of adult life supplies none of it automatically."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The earlier ease was a feature of being placed among the same people every day, not a skill you have since lost.",
+      "source": "On why it felt easier when you were younger"
+    },
+    {
+      "text": "Closeness is time-expensive, and adult schedules ration exactly that resource.",
+      "source": "On Hall's hours estimates"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to find it hard to make friends as an adult?",

@@ -34,6 +34,36 @@
     "The honest figure here is directional rather than a single clean percentage. The spotlight-effect studies show people substantially overestimate how much observers notice and recall about them — in the classic demonstrations, roughly only about half as many observers registered the embarrassing detail as the self-conscious person predicted. The exact ratio varies by study and situation, so the safe takeaway is the robust direction: you consistently overestimate your audience.",
     "Negativity bias is likewise well established as a general pattern rather than a precise number — across many studies, negative events are remembered more readily and weigh more heavily than comparable positive ones. So the cringe memory's stubborn persistence is a feature of normal memory, not a sign that the moment was as significant, or as widely witnessed, as it feels."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The brain flags social missteps as important, so it stores and retrieves them more readily than neutral memories.",
+    "Negativity bias makes negative memories stickier — cringe moments stick while smooth ones fade.",
+    "The spotlight effect means you overestimate how much anyone else noticed or remembers your blunder.",
+    "The intrusive, random timing is normal memory activity, not a sign the moment mattered as much as the wince implies.",
+    "Recalibrating the spotlight and treating the recall as mental noise deflate the cringe more than analysing it."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The wince arrives charged",
+      "body": "A cringe memory doesn't come back as a neutral record. Negativity bias means it returns with the original jolt of social-evaluative threat still attached, re-activating the emotion along with the content. That's why a years-old moment can still produce a real, physical wince — the feeling is being replayed, not just the facts."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The audience that had already moved on",
+      "body": "You replay an awkward comment from the centre of the scene, at full emotional intensity, and assume everyone present saw it that way too. In the spotlight-effect studies, observers registered a person's embarrassing detail far less than that person predicted — often only about half as often. The people you're picturing as an attentive audience were mostly preoccupied with their own equivalent worries."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Almost everyone has a private highlight reel of cringe that no one else is replaying.",
+      "source": "On the spotlight effect"
+    },
+    {
+      "text": "The intrusive recall is closer to normal background noise from a memory system that over-weights social negatives than a verdict on you.",
+      "source": "On why it feels like a malfunction"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do embarrassing memories pop up out of nowhere?",

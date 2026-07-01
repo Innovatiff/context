@@ -40,6 +40,35 @@
     { "value": "Small but real", "label": "Best summary of the average effect on wellbeing", "source": "Orben & Przybylski, 2019" },
     { "value": "Upward comparison", "label": "Mechanism most implicated in feeling worse", "source": "Chou & Edge, 2012" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Across the whole population the average effect on wellbeing is small but real — not the uniform disaster the headlines suggest.",
+    "The stronger, causal-looking effects are concentrated among heavy and passive users, not everyone.",
+    "The mechanism most implicated is upward comparison against a curated, above-average highlight reel.",
+    "The best-supported move is limiting and changing how you use it — not necessarily quitting entirely."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Comparing your inside view to their highlight reel",
+      "body": "Feeds surface a curated, above-average slice of other people's experiences. When you measure your full inside view — worries, dull stretches, unfinished things — against that edited top slice, you come away with a vague sense of being behind. As Chou and Edge found, heavier users tend to believe other people are happier and having better lives; the harm appears to come from the comparison, not the screen itself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A heavy, late-night, passive scroller",
+      "body": "Someone who scrolls a lot, mostly late at night, and mostly passively is exactly the subgroup where the effect looks larger than the tiny population average. For them, the research that calls the effect 'small on average' can genuinely feel wrong. Trying a deliberate limit — capping use at around 30 minutes a day, as in Hunt and colleagues' experiment — is a reasonable personal test rather than quitting outright."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Tiny on average, and meaningful for a subset — which is exactly why blanket claims in either direction tend to be wrong.",
+      "source": "On reading the evidence honestly"
+    },
+    {
+      "text": "You are seeing their highlight reel, not their full life.",
+      "source": "On the comparison mechanism"
+    }
+  ],
   "faqs": [
     {
       "question": "So does social media make you unhappy or not?",

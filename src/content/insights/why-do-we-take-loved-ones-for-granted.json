@@ -40,6 +40,36 @@
     { "value": "Best for strangers", "label": "Tendency to extend more courtesy to acquaintances than to loved ones", "source": "Research on politeness and familiarity" },
     { "value": "Reversible", "label": "Status of the drift, given deliberate appreciation", "source": "Gratitude and relationship research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Taking loved ones for granted is mostly adaptation and safety, not caring less.",
+    "We stop registering a reliable presence the way we stop noticing any constant.",
+    "We relax our guard — and save our best behaviour for strangers — precisely where we feel most secure.",
+    "Deliberate, specific appreciation is the most direct counter, and 'find-remind-bind' describes why.",
+    "Small, repeated attention beats grand occasional gestures, which people adapt to as well."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The presence that faded into the background",
+      "body": "A partner or friend who once felt remarkable becomes the new normal, and the brain gives a steady, expected presence less attention than a novel or uncertain one. Nothing dramatic happened — you simply stopped noticing a constant. That is why it reads as indifference to the person on the receiving end while barely registering as a change to the one doing it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Polite to the barista, short with your partner",
+      "body": "We tend to be more patient and accommodating with acquaintances and colleagues than with the people closest to us, because we assume a secure bond can absorb our irritability and unguarded moments. Consciously extending the same small courtesy we give a stranger to the person we love directly addresses the 'best behaviour for strangers' pattern."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It feels like indifference when it is usually adaptation. The signal just got quieter because it became constant.",
+      "source": "On why it feels like not caring"
+    },
+    {
+      "text": "The noticing often comes first and revives the feeling — not the other way around.",
+      "source": "On deliberate appreciation"
+    }
+  ],
   "faqs": [
     {
       "question": "Does taking loved ones for granted mean I love them less?",

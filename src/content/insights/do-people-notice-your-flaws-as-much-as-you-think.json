@@ -34,6 +34,61 @@
     "In the original spotlight studies, the headline pattern was a roughly two-to-one gap between predicted and actual noticing: participants expected on the order of half of observers to register an embarrassing shirt, while the real figure was closer to a quarter. The exact percentages vary by study and situation and should be read as illustrative rather than fixed constants.",
     "What generalises is the direction and the size of the error, not a single number. Across appearance, performance, and visible emotion, people overestimate how much they are noticed — and the gap is large enough that, as a rule of thumb, your honest estimate of 'how many people clocked that' is almost always too high."
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "We badly overestimate how much others notice our appearance, mistakes, and nerves — the spotlight effect.",
+    "In the classic study, people predicted roughly half of observers would notice an embarrassing shirt; the real figure was closer to a quarter or less.",
+    "The illusion of transparency is the companion effect: our nervousness and inner states feel far more visible than they actually are.",
+    "Naming the bias measurably shrinks it — people told about the effect make less inflated predictions.",
+    "Everyone else is under their own private spotlight, which leaves little attention left over for yours."
+  ],
+  "tables": [
+    {
+      "title": "Predicted vs actual noticing in the spotlight studies",
+      "caption": "Participants asked to wear an embarrassing shirt expected on the order of half of onlookers to register it; the share who could later identify it was closer to a quarter or less. Figures are illustrative, not fixed constants — they vary by study and situation.",
+      "columns": ["", "Share of observers who noticed"],
+      "rows": [
+        ["What participants predicted", "≈ 50%"],
+        ["What observers actually noticed", "≈ 25% or less"]
+      ],
+      "highlightColumn": 1,
+      "source": "Gilovich, Medvec & Savitsky (2000)"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "The spotlight gap: predicted vs actual",
+      "caption": "The same roughly two-to-one gap as bars: we feel about twice as conspicuous as we actually are.",
+      "unit": "% of observers who noticed",
+      "source": "Gilovich, Medvec & Savitsky (2000)",
+      "bars": [
+        { "label": "Predicted", "value": 50, "display": "≈50%" },
+        { "label": "Actual", "value": 25, "display": "≈25% or less", "highlight": true }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The stain you feel all evening",
+      "body": "You sense the mark on your shirt the whole night because your own gaze never leaves it — that constant internal signal is easy to mistake for an external one. In the original studies, though, only about a quarter of observers could later identify the very thing the wearer felt sure everyone had seen."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The stumble in the presentation",
+      "body": "You lose your place for a moment and replay it for hours, certain the room registered every second of it. But the people watching barely encoded the moment and have nothing to replay — of the few who noticed at all, most will have forgotten by tomorrow. The event that defines the evening for you may not survive in anyone else's memory."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Your flaw is the centre of your awareness, so you assume it is near the centre of theirs — but they are the centre of their own attention, not spectators of yours.",
+      "source": "On the spotlight effect"
+    },
+    {
+      "text": "The room is full of people each standing under their own private spotlight, which leaves very little attention left over for yours.",
+      "source": "On the quiet symmetry we miss"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the spotlight effect?",

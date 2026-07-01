@@ -38,6 +38,35 @@
     { "value": "~2×", "label": "How much people overestimate observers noticing them", "source": "Gilovich et al., spotlight effect" },
     { "value": "Weak", "label": "How well looks predict long-term relationship satisfaction", "source": "Relationship research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Appearance carries a real but modest 'beauty premium' in earnings — a few percentage points, varying heavily by occupation.",
+    "The halo effect means attractive people are assumed to have other good traits, an automatic first-impression bias.",
+    "The spotlight effect means people roughly double how much others actually notice their appearance.",
+    "Looks predict long-term relationship satisfaction only weakly; familiarity, warmth, and liking shift attraction over time."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The audience you imagine isn't watching",
+      "body": "Standing in a room convinced everyone is cataloguing a flaw, you feel scrutinised. In the spotlight-effect experiments, observers noticed something about a person roughly half as often as that person assumed — and forgot it faster. The felt scrutiny is real; the actual audience is mostly preoccupied with its own spotlight."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The colleague who 'grew on everyone'",
+      "body": "Someone unremarkable at first can become the person others find genuinely attractive within a team, because familiarity, warmth, and liking raise perceived attractiveness over time. This is the same reason looks predict long-term relationship satisfaction weakly: who you become to someone tends to outweigh the fixed features they first saw."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Appearance is not nothing, but it is a smaller and more situational factor than the amount of worry it attracts would suggest.",
+      "source": "On the honest picture"
+    },
+    {
+      "text": "The audience you imagine studying your appearance is mostly not watching.",
+      "source": "On the spotlight effect"
+    }
+  ],
   "faqs": [
     {
       "question": "Do attractive people really earn more?",

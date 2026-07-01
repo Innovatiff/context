@@ -34,6 +34,36 @@
     "This is a topic where the honest evidence is about robust patterns rather than clean headline statistics, so it's worth saying plainly: there is no single number for how much understanding 'beats' agreement. What the research does support reliably is the direction — that perceived responsiveness (feeling understood, valued, and cared for) is among the stronger correlates of closeness and relationship satisfaction across many studies, and that it is distinguishable from simple agreement.",
     "The practical, non-numeric takeaway is that a conversation can technically 'go well' — no conflict, plenty of nodding — and still leave you feeling unseen, while a conversation with open disagreement can leave you feeling deeply understood. If your interactions often end in agreement but not satisfaction, the research suggests the missing ingredient is responsiveness, not consensus."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Connection comes mostly from feeling understood, valued, and cared for — not from someone agreeing with you.",
+    "Perceived partner responsiveness is one of the more robust predictors of closeness, intimacy, and trust across many studies.",
+    "You can feel deeply understood by someone who gently disagrees, and oddly unseen by someone who simply nods along.",
+    "Validation means accurately reflecting and respecting what someone feels — which is different from agreeing they're right.",
+    "Speakers often feel less understood when a listener pivots quickly to solutions, skipping the step of showing they grasped the experience."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "Nodding along vs actually tracking you",
+      "body": "Someone who says 'you're completely right' instantly tells you that you're not alone, so in the moment it scratches the same itch as being understood — even though it's doing less. Understanding shows up in subtler cues: accurate reflection, good questions, the sense that the other person actually followed what you meant. Agreement is the louder, cruder proxy we reach for."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Asking to be heard, not fixed",
+      "body": "You bring up something you're upset about and the other person jumps straight to advice. Even good advice can miss what you wanted, because solving skips over the step of showing your experience was grasped. Saying 'I just want to feel understood here, not fixed or judged' tends to get you the more durable reward the research points to."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can feel deeply understood by someone who gently disagrees, and oddly unseen by someone who simply nods along.",
+      "source": "On agreement vs understanding"
+    },
+    {
+      "text": "Agreement can feel good, but it is a thinner and more fragile substitute for being understood.",
+      "source": "On why consensus can still leave you unsatisfied"
+    }
+  ],
   "faqs": [
     {
       "question": "What's the actual difference between being understood and being agreed with?",

@@ -39,6 +39,36 @@
     { "value": "Foot-in-the-door", "label": "A small 'yes' raises the odds of a larger later 'yes'", "source": "Cialdini, commitment & consistency research" },
     { "value": "Dissonance", "label": "Acting against a belief creates tension we reduce by rationalising", "source": "Festinger, cognitive dissonance" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Once we take a stance, especially publicly, we feel pulled to keep acting in line with it — often without noticing.",
+    "The foot-in-the-door effect: a small initial 'yes' raises the odds of a larger later 'yes'.",
+    "Cognitive dissonance makes reversal uncomfortable, so we often rationalise instead of updating.",
+    "Public commitments are stickier because abandoning them carries a social cost on top of the internal one.",
+    "Updating beliefs when the evidence changes is a strength, not a failure of character."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "How a small 'yes' becomes a larger one",
+      "body": "Agreeing to a small request establishes a stance you then feel pulled to honour, which makes you substantially more likely to agree to a larger related request later. That's the foot-in-the-door dynamic. Recognising the pattern lets you weigh the bigger ask on its own merits rather than out of a felt need to stay consistent with the first 'yes'."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Doubling down instead of backing down",
+      "body": "Someone who has stated a position out loud and then privately starts to doubt it often finds it easier to generate more reasons for the old stance than to sit with the tension of having been mistaken. That is dissonance being resolved in the wrong direction — rationalising rather than revising. Framing the view as 'what I currently think, given what I know' leaves room to update without it feeling like a personal reversal."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Updating your beliefs when the evidence changes is a strength, not a flaw.",
+      "source": "On changing your mind"
+    },
+    {
+      "text": "The discomfort you feel is dissonance, not a signal that you're being unprincipled.",
+      "source": "On reversing a stated position"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel pressure to stick to what I've already said?",

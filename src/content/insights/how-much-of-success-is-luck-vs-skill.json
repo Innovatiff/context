@@ -40,6 +40,36 @@
     { "value": "Bell-shaped vs skewed", "label": "Talent is roughly normally distributed; success is highly unequal", "source": "Pluchino, Biondo & Rapisarda (2018)" },
     { "value": "Win = skill, loss = luck", "label": "The asymmetry the self-serving attribution bias produces", "source": "Social psychology research on attribution" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Talent and effort are necessary but not sufficient — they get you into the game, and luck does much of the sorting from there.",
+    "In competitive, winner-take-all fields, luck's share of who ends up at the very top is large and routinely underestimated.",
+    "The self-serving bias makes us credit wins to skill and blame losses on luck, distorting the stories we tell about success.",
+    "Survivorship bias hides the equally capable people whom luck passed over, so visible winners look like proof that skill guarantees success.",
+    "Because chance plays a role, taking more shots and staying where luck can find you is the research-aligned strategy."
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "Studying the lottery winners' ticket numbers",
+      "body": "Copying a visible winner's specific choices assumes their outcome was a clean measure of merit. But survivorship bias means you only hear from the founder who made it, not the equally capable founders who hit a bad market and disappeared. The skill was usually real — but it wasn't the whole story, and the missing part is rarely reproducible."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two nearly equal people, worlds apart",
+      "body": "Two people of almost identical skill can end up in very different places, and the gap is frequently explained less by some hidden difference in merit than by accumulated good or bad luck. Read from the inside, the fortunate path looks chosen — you feel your own effort directly, and the thousand small contingencies that had to break your way only faintly."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Skill and effort are necessary rather than sufficient: they get you into the game, and then chance does a great deal of the sorting from there.",
+      "source": "On the role of luck"
+    },
+    {
+      "text": "A roughly symmetric input cannot, on its own, produce a wildly skewed output — which is part of why researchers conclude luck and circumstance are filling the gap.",
+      "source": "On the shape of the distributions"
+    }
+  ],
   "faqs": [
     {
       "question": "So is success mostly luck or mostly skill?",

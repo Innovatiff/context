@@ -34,6 +34,36 @@
     "Comparison is not a fringe habit but close to universal: social comparison theory has been one of the most studied ideas in social psychology for roughly seventy years, with hundreds of studies confirming that people routinely evaluate themselves against others, especially when objective standards are missing. There is no reliable 'normal amount' to quote, because the tendency is woven into ordinary cognition rather than being a discrete behaviour you can count.",
     "What can be quantified is how unrepresentative the modern comparison set is. The lives people measure themselves against are skewed sharply upward — feeds surface the most impressive fraction of outcomes, and heavy social media users tend to overestimate how happy and successful others are. So the issue the data points to is not that humans compare, which they always have, but that the sample now sits far above the real middle."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Comparison is a built-in way humans self-evaluate when there's no objective ruler — not a personal flaw.",
+    "Social-rank sensitivity is old and functional: monitoring relative standing plausibly had survival value.",
+    "The harm comes from the comparison set, not the act — an upward, curated slice gives a distorted read.",
+    "Correcting and widening the sample works better than trying to switch comparison off entirely.",
+    "Deliberate, specific comparison with someone slightly ahead can inform; vague, constant comparison distorts."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "An old system running on new inputs",
+      "body": "The drive to compare evolved in small groups, where you measured yourself against a handful of people you actually knew. Modern media hands the same machinery a near-infinite, filtered stream of strangers shown at their most impressive. The instinct hasn't changed; the sample has — an old system built for a village now runs on a global highlight reel."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Swapping the yardstick for your own past",
+      "body": "Someone who feels perpetually behind after scrolling through others' wins can point the same tendency somewhere kinder: comparing where they are now to where they were a year ago. The research treats this temporal comparison more gently than social comparison — it keeps the useful function of self-evaluation while removing the unrepresentative, upward crowd."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Comparison itself is neutral and often useful; the trouble starts when the sample you compare against stops resembling reality.",
+      "source": "On what actually goes wrong"
+    },
+    {
+      "text": "An old system built for a village now runs on an unrepresentative global highlight reel.",
+      "source": "On the modern comparison set"
+    }
+  ],
   "faqs": [
     {
       "question": "Is comparing yourself to others a bad thing?",

@@ -34,6 +34,35 @@
     "The foundational evidence is Forer's 1949 demonstration: students given an identical, generic personality profile rated it as highly accurate for them individually. The exact ratings come from a single classic study, so the precise number matters less than the robust, much-replicated finding that vague, flattering descriptions feel personally accurate to almost everyone.",
     "On the popular typologies, the research picture is critical: instruments like the MBTI are repeatedly faulted for low test-retest reliability — a notable share of people get a different type on retaking — and for weak predictive validity. The Big Five, by contrast, is the better-validated model. Where exact reliability figures are concerned, treat any single statistic with caution; the dependable conclusion is the gap between how accurate a test feels and how well it actually measures."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling accurate is often the Barnum (Forer) effect — vague, flattering statements feel personal to almost everyone.",
+    "Feeling accurate and being accurate are two different things: how convincing a test feels is roughly independent of how well validated it is.",
+    "Popular typologies like the MBTI are faulted for low test-retest reliability and weak predictive validity.",
+    "The Big Five has considerably stronger scientific support — better reliability and more consistent real-world links.",
+    "A simple check: would the description also fit almost anyone? If so, the accuracy you feel is probably the Barnum effect."
+  ],
+  "examples": [
+    {
+      "label": "The classic study",
+      "title": "One profile, everyone convinced",
+      "body": "In Forer's 1949 demonstration, students filled out a questionnaire and received what they believed were individual personality profiles. In reality everyone got the same generic, horoscope-style write-up — and rated it as highly accurate for them personally. The feeling of being 'seen' came entirely from how the statements were written, not from any measurement of the person reading them."
+    },
+    {
+      "label": "The self-check",
+      "title": "Would the opposite have felt true too?",
+      "body": "You read 'you can be outgoing but also value time alone' and it lands as uncannily you. Ask whether the reverse would also have fit, and whether it would fit almost anyone — most people contain both sides, so you supply the specifics while the test supplies a frame vague enough to catch everybody. That's the Barnum effect, not an insight about you specifically."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling accurate and being accurate are two different things.",
+      "source": "On the Barnum effect"
+    },
+    {
+      "text": "You supply the specifics; the test supplies the frame."
+    }
+  ],
   "faqs": [
     {
       "question": "What is the Barnum or Forer effect?",

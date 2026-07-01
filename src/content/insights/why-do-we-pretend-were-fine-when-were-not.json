@@ -34,6 +34,36 @@
     "This is a topic where the honest evidence is about pattern and mechanism more than clean statistics, so it is worth being upfront: there is no single reliable figure for 'what share of people are secretly not fine.' What the research robustly shows is the direction of the effect — that suppression is common and costly, that display rules push almost everyone toward a composed surface, and that pluralistic ignorance leads people to systematically overestimate how okay everyone else is.",
     "The practical takeaway from the data is comparative, not numeric. If nearly everyone is performing 'fine' to some degree, then the composed majority you measure yourself against is itself partly an illusion — the same illusion you are helping to create. The feeling of being the lone struggler in a room of people who have it together is, for most people most of the time, a predictable side effect of everyone reading everyone else's edited surface."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "'I'm fine' is often a display rule doing its job — an overlearned default about which feelings we may show.",
+    "Expressive suppression tends to be costly: the feeling doesn't drop, and it can add physiological and social strain.",
+    "Because nearly everyone performs 'fine,' each person concludes they're the exception — this is pluralistic ignorance.",
+    "The research favours selective, honest disclosure to people you trust over either blanket suppression or endless venting.",
+    "Simply knowing almost everyone is partly faking 'fine' is itself a documented corrective for feeling uniquely alone."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A room full of composed faces",
+      "body": "You look around and everyone seems to be coping effortlessly, so you conclude you're the unusual one who's struggling. But when someone tells you they're fine, you never see the effort behind it — you just see 'fine.' The evidence you collect all day is other people's edited surface, much of it the same suppression you're doing yourself. That's pluralistic ignorance in action."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The short-term math of 'fine'",
+      "body": "Saying 'actually, I'm not okay' risks an awkward pause and a worried look right now, while the cost of pretending — the isolation, the unshared weight — is slow and private. So the immediate math keeps tilting toward 'fine,' even though a selective, honest word to someone you trust tends to cost less over time than the reflexive mask."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The performance is near-universal, so the loneliness it produces is near-universal too.",
+      "source": "On pluralistic ignorance"
+    },
+    {
+      "text": "You are matching your unfiltered insides against everyone else's managed outsides — a comparison that can only make you look worse.",
+      "source": "On why it feels different"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I say I'm fine even to people I trust?",

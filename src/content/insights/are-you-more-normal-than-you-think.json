@@ -39,6 +39,35 @@
     { "value": "Overestimated", "label": "How much people think others notice and judge them, vs. reality", "source": "Spotlight effect (Gilovich et al.)" },
     { "value": "Inside vs. outside", "label": "The core mismatch driving false uniqueness — your unfiltered self vs. others' curated surface", "source": "Social comparison (Festinger, 1954)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On most measures your doubts and quirks are far more widely shared than they feel.",
+    "The feeling of being uniquely 'off' is itself one of the most common human experiences.",
+    "Pluralistic ignorance keeps shared struggles hidden — everyone hides the same thing.",
+    "The 'normal' you measure against is an illusion built from other people's curated surfaces.",
+    "Honest disclosure and real distributions correct the distortion better than positive self-talk."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The room where everyone feels like the exception",
+      "body": "You scan a calm-looking room and conclude you're the only one who feels anxious or out of place. But each person is reading the same calm exteriors and drawing the same conclusion about themselves. That's pluralistic ignorance in one sentence: everyone privately holds the doubt, everyone assumes they're alone in it, and the shared experience stays invisible because no one says it out loud."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The colleague who seems to have it together",
+      "body": "You assume the composed colleague never lies awake worrying, because you only ever see their polished, public side. You almost never learn that they do the same worrying you do — so you reasonably but wrongly conclude they don't. You are comparing your unfiltered inside to their curated outside, a mismatch that reliably makes ordinary struggles look unusual."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling uniquely off, far from marking you as an outlier, is itself one of the most common things a person can feel.",
+      "source": "On false uniqueness"
+    },
+    {
+      "text": "The 'normal' you measure against is usually an illusion built from other people's curated outsides, while your true position is closer to the middle than it feels."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel like the odd one out when others seem fine?",

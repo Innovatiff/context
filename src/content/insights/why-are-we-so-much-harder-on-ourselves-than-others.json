@@ -34,6 +34,35 @@
     "There is no single headline statistic for how much harder people are on themselves than on others, and we should be honest about that — this is a robust qualitative and experimental pattern in self-compassion research rather than a clean population percentage. What the studies show repeatedly is direction, not a precise figure: across samples, the typical response to one's own failure is harsher than the response to an identical failure in a friend.",
     "Where numbers do exist, they are about consequences rather than the gap itself. Self-criticism is consistently and moderately associated with higher anxiety, depression, and rumination across many studies, while self-compassion correlates with lower distress and greater resilience. These are correlations of moderate size, not guarantees, and they describe averages across people, not any one individual's outcome."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Most people are markedly kinder to a struggling friend than to themselves — a double standard the research treats as a near-default.",
+    "You judge your private worst against everyone else's visible best, because you only ever see other people's surfaces.",
+    "The belief that harsh self-criticism keeps you sharp is largely mistaken; it's linked to worse wellbeing, not better outcomes.",
+    "Self-compassion isn't letting yourself off the hook — it predicts more accountability and a stronger willingness to try again.",
+    "Suppressing self-critical thoughts backfires; changing how you relate to them works better than trying to delete them."
+  ],
+  "examples": [
+    {
+      "label": "The double standard",
+      "title": "What you'd say to a friend",
+      "body": "A friend fails at something and comes to you shaken; you respond with warmth, perspective, and encouragement to try again. Face the identical failure yourself and the inner voice turns contemptuous. Same event, two standards — and the kinder one you extend to others isn't lower standards, just a more effective way of relating to failure."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'That was a bad decision' vs 'I am a failure'",
+      "body": "After a mistake, naming the specific behaviour clearly — 'that was a bad decision' — leaves you correctable information you can act on. A global verdict on your worth — 'I am a failure' — is just damage: it doesn't point anywhere useful and tends to increase avoidance and fear of the very effort it was supposed to motivate."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You weigh your private worst against everyone else's visible best.",
+      "source": "On the unfair comparison"
+    },
+    {
+      "text": "Acknowledging a specific mistake is correctable information; a global verdict on your worth is just damage."
+    }
+  ],
   "faqs": [
     {
       "question": "Why am I so much nicer to my friends than to myself?",

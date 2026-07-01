@@ -40,6 +40,36 @@
     { "value": "Obesity, smoking, happiness", "label": "States reported to cluster and spread along social networks", "source": "Christakis & Fowler (2007–2008)" },
     { "value": "Contested", "label": "How much clustering is true contagion vs shared environment vs homophily", "source": "Network methodology debate" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The specific 'average of five people' line is unsourced folk wisdom, not a research finding.",
+    "The kernel underneath is real: who you spend time with shapes your norms, behaviour, and opportunities.",
+    "Christakis and Fowler found obesity, smoking, and happiness cluster along ties — out to friends of friends.",
+    "How much of that clustering is true contagion versus homophily versus shared environment is genuinely debated.",
+    "Much of what networks deliver flows through weak ties, not just your closest few."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Slang, habits, and the pull you can feel",
+      "body": "You pick up a group's phrases, its sense of how much is normal to spend or drink or work, and its ambitions — and it feels like proof that your circle made you who you are. That norm-setting pull is the part the research supports. What it can't tell you from the inside is how much your friends shaped you versus how much you gravitated toward them because you were already alike."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Auditing your friends as a spreadsheet",
+      "body": "Someone takes the maxim literally and starts scoring their friends as inputs that raise or lower their 'average,' cutting people who seem to drag the number down. The trouble is that the precise formula was never measured, and clustering partly reflects choosing similar people and sharing the same circumstances — not one-way influence. It's too crude a model to justify treating relationships as arithmetic."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The number in the famous phrase — five — has no research behind it. It's a memorable figure attached to a real but messier idea.",
+      "source": "On the 'average of five' maxim"
+    },
+    {
+      "text": "Who you're around matters; the tidy formula is invented, not measured.",
+      "source": "On separating the kernel from the folklore"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it true that you're the average of the five people you spend time with?",

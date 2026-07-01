@@ -34,6 +34,36 @@
     "The liking gap is a directional bias, not a precise figure — but its key feature is that it is consistent across studies and conversation types. In the original 2018 research, strangers paired for conversations reliably rated how much their partner liked them below how much the partner reported actually liking them, and the effect reappeared across follow-up samples and longer time frames.",
     "It is worth holding alongside its cousin, the spotlight effect: people also overestimate how much others notice and scrutinise them. Taken together, the research points the same way — others are paying less critical attention to you than you fear, and liking you somewhat more than you assume. The honest reading of most ordinary conversations is more generous than the one your own mind defaults to."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "After conversations, people consistently underestimate how much the other person liked them — a measured bias called the liking gap.",
+    "The gap runs in one direction (toward underestimating) and persisted for months among students living together, so it isn't just first-meeting jitters.",
+    "We partly use our own harsh self-assessment as a stand-in for what the other person thinks, and politeness keeps the warm signals quiet.",
+    "The calibrated default is the warmer interpretation — it is usually the more accurate one.",
+    "Because people under-read how much they're liked, following up after a good conversation is less risky than it feels."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The awkward pause only you remember",
+      "body": "You walk away replaying the joke that didn't land and the thing you wish you'd said better. What you can't hear is that the other person barely noticed any of it — they were attending to the content of the talk, not auditing your delivery. Your inner critic fills the silence with a verdict the other person never delivered."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The message you don't send",
+      "body": "A conversation felt merely okay, so you decide not to reach out again. But the liking gap says the other person likely enjoyed it somewhat more than you did and thought somewhat better of you than you assume. Taking the small risk of following up is, on the evidence, less risky than it feels — and it's the step people most often skip."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The other person walked away with a warmer impression than you assumed they did.",
+      "source": "On the liking gap"
+    },
+    {
+      "text": "We are harsher judges of our own social performance than the people in the room with us.",
+      "source": "On overly negative self-perception"
+    }
+  ],
   "realNumbers": [
     { "value": "Underestimated", "label": "How much people think a conversation partner liked them, vs. reality", "source": "Boothby, Cooney, Sandstrom & Clark, Psychological Science 2018" },
     { "value": "Persists", "label": "Whether the liking gap fades quickly or lingers over months of acquaintance", "source": "Boothby et al., 2018 (longitudinal follow-up)" },

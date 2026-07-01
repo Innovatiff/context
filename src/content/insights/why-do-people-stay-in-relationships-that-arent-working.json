@@ -39,6 +39,36 @@
     { "value": "Sunk cost", "label": "Tendency to keep investing because of what has already been put in", "source": "Research on sunk-cost effects in relationships" },
     { "value": "Fear of being single", "label": "Linked to settling for and staying in less satisfying relationships", "source": "Spielmann et al." }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Whether people stay depends on more than happiness — investment and perceived alternatives matter too.",
+    "The investment model names three drivers: satisfaction, quality of alternatives, and size of investment.",
+    "Sunk-cost thinking counts already-spent time as a reason to stay, though that time is gone either way.",
+    "Fear of being single is linked to settling for and staying in less satisfying relationships.",
+    "This is neutral context, not advice — staying and leaving can each be valid choices."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Unsatisfied, yet the sums still favour staying",
+      "body": "Someone can be unhappy and still feel, accurately, that leaving carries real costs. Two of the investment model's three drivers — how much has been invested and how good the alternatives seem — are independent of satisfaction. High investment and few perceived alternatives can keep a person committed even when the relationship itself is not working. The unhappiness is real; so is the pull to stay."
+    },
+    {
+      "label": "The trap",
+      "title": "\"After all these years\"",
+      "body": "Years of shared history can feel like a reason to stay — but that time is already spent and cannot be recovered by staying longer. That is the sunk-cost trap. The honest version of the question is not \"how much have I already put in?\" but \"how do I feel about what comes next?\" Naming the bias tends to loosen its grip."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Someone can be unsatisfied and still feel, accurately, that leaving carries real costs.",
+      "source": "On why staying is not weakness"
+    },
+    {
+      "text": "The honest question is not how much you've already put in — that is gone either way — but how you feel about what comes next.",
+      "source": "On the sunk-cost trap"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do people stay in relationships that aren't working?",

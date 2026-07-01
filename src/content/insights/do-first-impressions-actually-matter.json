@@ -39,6 +39,35 @@
     { "value": "Confidence, not accuracy", "label": "What extra viewing time mainly adds to a first impression", "source": "Willis & Todorov, 2006" },
     { "value": "Seconds", "label": "Length of behavioural 'thin slices' that predict some outcomes above chance", "source": "Ambady & Rosenthal, thin-slice research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "First impressions form astonishingly fast — trait judgments from a face in roughly 100 milliseconds.",
+    "Longer looks mainly raise confidence in the judgment, not its accuracy.",
+    "Brief 'thin-slice' observations of seconds predict some real outcomes above chance — so impressions carry signal.",
+    "But they are revisable: consistent new evidence updates them, and they lose weight as acquaintance grows.",
+    "The honest reading sits between the two myths — fast and influential, but not fixed."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A tenth of a second, then mostly confidence",
+      "body": "Shown a face for about 100 milliseconds, people already have a read on traits like trustworthiness and competence. Give them longer to look and the judgment barely moves — what grows is their confidence in it. The snap read runs on remarkably little information, which is exactly why fuller, consistent evidence can revise it later."
+    },
+    {
+      "label": "Illustrative",
+      "title": "One rough first meeting",
+      "body": "A single awkward introduction can feel like a sealed verdict. But because first impressions rest on thin information and lose weight as real acquaintance accumulates, repeated behaviour that points the other way tends to update the picture. Over-engineering a persona to 'win' that first meeting can backfire — an impression built on a performance you can't sustain invites exactly the downward revision it was meant to avoid."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Primacy is a strong opening bid, not the final word.",
+      "source": "On the revisability of first impressions"
+    },
+    {
+      "text": "Fast and influential, in other words, but not fixed."
+    }
+  ],
   "faqs": [
     {
       "question": "How fast do people form a first impression?",

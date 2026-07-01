@@ -39,6 +39,36 @@
     { "value": "Situation", "label": "Default explanation we reach for when judging our own behaviour", "source": "Jones & Nisbett, actor-observer asymmetry" },
     { "value": "Self-favouring", "label": "We credit successes to ourselves, blame failures on circumstances", "source": "Self-serving bias research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We tend to judge others by their actions but ourselves by our intentions — a built-in double standard.",
+    "The fundamental attribution error over-explains others' behaviour by character and under-weights their situation.",
+    "The actor-observer asymmetry follows from attention: on the situation when you act, on the person when you watch.",
+    "Self-serving bias tilts it further — crediting our successes to us and blaming failures elsewhere.",
+    "The documented corrective is remembering others have context too, and applying one standard to yourself."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The snapped reply",
+      "body": "A colleague answers you curtly and you think 'they're rude.' When you snap at someone, you know it was a terrible night's sleep and a looming deadline. Same behaviour, two explanations — because their bad night is invisible to you and yours is vivid. The gap in information quietly becomes a gap in fairness."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The uneven scorecard",
+      "body": "A project goes well and it was your effort and ability; it goes badly and it was bad luck, a difficult client, or someone else's mistake. That is the self-serving bias keeping a coherent, positive self-image — comfortable enough that it's exactly the kind of explanation we tend not to question."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We judge others by their actions and ourselves by our intentions. The double standard is built into the asymmetry of what you can see.",
+      "source": "On attribution bias"
+    },
+    {
+      "text": "The situational explanation is the one your viewpoint systematically leaves out — so asking for it is the correction.",
+      "source": "On judging more fairly"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the fundamental attribution error?",

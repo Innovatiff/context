@@ -39,6 +39,36 @@
     { "value": "Lower satisfaction", "label": "Link between social-media relationship comparison and how people rate their own relationship", "source": "Research on social media and relationship satisfaction" },
     { "value": "More jealousy", "label": "Associated effect of comparing relationships online", "source": "Research on social media and relationship jealousy" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Comparing relationships is a normal extension of ordinary social comparison, not a personal flaw.",
+    "What we see of other couples — especially online — is a curated highlight reel, not the full picture.",
+    "We measure our unfiltered reality against everyone else's edited best moments, which tilts the comparison against us.",
+    "Research links social-media relationship comparison to lower relationship satisfaction and more jealousy.",
+    "Correcting the comparison set eases the feeling more than trying to match an unreal standard."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Behind-the-scenes vs highlight reel",
+      "body": "You experience your own relationship in all its ordinary texture — the dull evenings, the unresolved arguments, the repair work. You experience other couples mostly through what they choose to show: affection, anniversaries, milestones. Held side by side, your complete reality looks deficient next to their edited best moments, even though nothing about your relationship has actually changed."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The frictionless couple who don't exist",
+      "body": "Scrolling past a couple's anniversary post, it can feel as though other relationships lack the friction yours has. But the disagreements and boredom are simply edited out — people rarely post the dull evening or the unresolved argument. The standard of a frictionless relationship is one no real relationship meets, including the ones on the other side of the screen."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We compare our own behind-the-scenes, frustrations and dull stretches included, against everyone else's edited best moments.",
+      "source": "On the highlight-reel distortion"
+    },
+    {
+      "text": "Other couples can look not just happier but frictionless — a standard that no real relationship meets, including the ones on the other side of the screen.",
+      "source": "On why comparison misleads"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I compare my relationship to other couples?",

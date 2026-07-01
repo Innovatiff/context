@@ -36,6 +36,36 @@
     { "value": "~21%", "label": "Workers worldwide who feel actively engaged", "source": "Gallup, 2023" },
     { "value": "Unfalsifiable", "label": "Why a 'potential' gap is almost always available", "source": "Higgins, 1987, self-discrepancy theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The feeling is very common and partly structural — 'potential' is an ideal with no ceiling, so a gap is almost always available.",
+    "Higgins's self-discrepancy theory places it on the actual-versus-ideal fault line, which tends to produce a deflated, low unease.",
+    "Progress rarely closes the gap: the ideal self updates upward as you achieve, so high-functioning people report it too.",
+    "It often overlaps with what Keyes called 'languishing' — not ill, but not flourishing either.",
+    "Engagement and connection quiet the feeling more reliably than introspecting about whether you're living up to yourself."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The ceiling that rises as you climb",
+      "body": "You hit a goal you once thought would settle the question — and within weeks your sense of what you 'should' be capable of has quietly ratcheted up, reopening the gap. That's why the feeling can coexist with real, ongoing achievement. Unlike a savings target or a deadline, potential is unfalsifiable: there's no point at which you can confirm you've reached it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Running in neutral on a fine-but-flat week",
+      "body": "Nothing is wrong, exactly — no crisis — but everything feels muted and stagnant, and a nagging voice says you're wasting what you've got. This is often the languishing state wearing a more accusatory name. The research leans toward action over reflection here: absorbing, slightly challenging activity and connection with others tend to quiet the gap more than measuring it does."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Potential' is an ideal version of yourself with no ceiling, so a gap is almost always available to feel — no matter what you've done.",
+      "source": "On why the feeling is structural"
+    },
+    {
+      "text": "Wasting-your-potential is often that languishing state wearing a more accusatory name.",
+      "source": "On languishing"
+    }
+  ],
   "faqs": [
     {
       "question": "Is feeling like I'm wasting my potential a sign something is wrong with me?",

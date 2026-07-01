@@ -34,6 +34,35 @@
     "This is a topic about psychological constructs rather than headline statistics, so it's worth being clear that there isn't a single number that captures it. The need for uniqueness (Snyder and Fromkin) and optimal distinctiveness theory (Brewer) are theoretical frameworks supported by experimental and survey research, describing motives that vary in strength across people rather than a fixed prevalence figure.",
     "The 'real number' that matters here is conceptual: two needs, belonging and distinctiveness, both present in most people, with wellbeing associated with the balance between them rather than the maximum of either. Effect sizes in this literature are modest and the constructs are still actively studied, so treat the framework as a well-established way of understanding the desire to feel special, not as a precise measurement of it."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wanting to feel special is a normal, well-documented human need for distinctiveness — not a flaw.",
+    "It sits in tension with an equally normal need to belong; wellbeing comes from the balance, not maximising either.",
+    "Problems arise only at the extremes: entitlement and grandiosity on one side, total self-suppression on the other.",
+    "Distinctiveness pursued through contribution and skill is healthy; pursued through dominance over others it turns corrosive."
+  ],
+  "examples": [
+    {
+      "label": "The balance",
+      "title": "Belonging and standing out at once",
+      "body": "A recognisable, valued role within a craft, a community of interest, or a team lets both needs be met together rather than forcing a choice. You belong to the group and your particular contribution is seen — which is the 'optimal' zone the theory describes, and it tends to support a stable identity better than either pure conformity or pure standing-apart."
+    },
+    {
+      "label": "The failure mode",
+      "title": "Specialness at others' expense",
+      "body": "Feeling special by putting people down or needing to be above them may produce a brief lift, but it undermines the belonging side of the balance, and the relational cost tends to outweigh the fleeting sense of superiority. The wish itself isn't the problem; expressing it as dominance is."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling the pull to belong and to stand out at the same time isn't a contradiction in you — it's the normal way identity is structured.",
+      "source": "On optimal distinctiveness"
+    },
+    {
+      "text": "The desire to feel special is healthy when it is expressed as developing genuine skills and contributions; it becomes corrosive mainly when it is expressed as needing to be above other people.",
+      "source": "On how you pursue it"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it selfish or arrogant to want to feel special?",

@@ -39,6 +39,35 @@
     { "value": "Relative", "label": "Basis on which people judge their own ability when standards are unclear", "source": "Festinger, social comparison theory (1954)" },
     { "value": "Dozens", "label": "Countries in which the big-fish-little-pond effect has been replicated", "source": "Marsh and colleagues, international studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "How capable you feel is shaped far more by the people immediately around you than by your absolute skill.",
+    "The big-fish-little-pond effect: equally able students report lower self-concept in more selective schools, replicated across dozens of countries.",
+    "The trade-off is real — a bigger pond usually offers more resources, stronger peers, and wider opportunity.",
+    "Choosing your pond deliberately, and comparing to your past self, are the practical levers the research points to."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The same person, two rooms",
+      "body": "A student of unchanged ability can feel capable in a modest school and mediocre in an elite one, because felt standing is a reading taken against whoever is nearby. The pond does this quietly and automatically — you never decide to measure yourself against your immediate peers, you simply notice who is ahead and who is behind, and your sense of ability settles around that without your permission."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Choosing the pond on purpose",
+      "body": "Starting something new or recovering from a setback, a setting where you can be genuinely above average can be protective for confidence and momentum. When growth and opportunity matter more, a tougher pond may be worth the predictable dip in day-to-day standing. The point is to pick the trade-off knowingly rather than treat the prestigious option as automatically better."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling average in an elite group is the expected effect of the comparison, not evidence of being behind.",
+      "source": "On the big-fish-little-pond effect"
+    },
+    {
+      "text": "Comparison against your past self is one of the few reference points that does not move just because the room changed.",
+      "source": "On a yardstick the pond can't distort"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the big-fish-little-pond effect?",

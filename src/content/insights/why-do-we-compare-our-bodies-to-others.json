@@ -34,6 +34,38 @@
     "This is an area where the honest framing matters more than a single statistic. The well-supported pattern is directional: greater appearance comparison, especially to idealized and edited images, is associated with greater body dissatisfaction, and exposure to such images in experimental studies tends to lower body satisfaction. Exact effect sizes vary across studies and populations, and individual susceptibility differs, so it's best treated as a robust pattern rather than a precise number.",
     "The most useful 'real number' is about the targets, not a percentage: a large and often invisible share of the appearance images people compare themselves to are edited, filtered or professionally produced. That means the standard being measured against is unrepresentative by construction. If body image concerns are causing serious or persistent distress, that is a sign to seek support from a qualified professional — this is general information, not medical or psychological advice."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Appearance comparison is a specific, largely automatic form of normal social comparison — not a personal flaw.",
+    "The targets are usually idealized, edited, or professionally produced images, so you measure yourself against a manufactured standard.",
+    "Editing and filtering are invisible, so the comparison registers as 'this is what people look like' when it isn't.",
+    "Changing the input — less idealized content, more varied real bodies — helps more than telling yourself to stop.",
+    "If body image is causing serious or persistent distress, that is a sign to reach out to a qualified professional."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The gap you feel is to an image, not a person",
+      "body": "A filtered, posed, well-lit photo looks like an everyday appearance because the editing happened invisibly. So the comparison lands as 'this is what people look like' rather than 'this is a manufactured image,' and you feel short of a standard that doesn't actually exist in daily life. The distortion is baked in before the comparison even begins."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Scrolling an appearance-focused feed",
+      "body": [
+        "Someone opens a feed heavy with fitness and beauty content, meaning to feel motivated. Instead they notice their mood dip and their attention snap to their own body. Nothing is wrong with them: appearance-focused imagery invites exactly the upward comparison that tends to lower satisfaction, and much of it is edited or professionally produced.",
+        "Because the comparison is largely automatic, the practical move isn't more willpower after the fact — it's curating the input toward varied, realistic bodies and recognising the idealized images as manufactured."
+      ]
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Body comparison is less an accurate read of how you measure up and more a comparison against a manufactured standard.",
+      "source": "On the comparison target"
+    },
+    {
+      "text": "The images look real, even when they are not — so the gap you feel is to a standard that doesn't exist in everyday life."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I compare my body to other people's even when I don't want to?",

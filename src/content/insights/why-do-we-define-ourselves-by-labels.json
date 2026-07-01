@@ -34,6 +34,36 @@
     "This is a topic where the honest picture is conceptual rather than numerical — there is no single statistic that captures it, and inventing one would misrepresent the research. The dependable findings are patterns: social identity theory (Tajfel and Turner) establishes that group labels become part of the self-concept and shape in-group and out-group behaviour, and self-categorisation theory frames labelling as a normal cognitive efficiency.",
     "On specific labels — diagnoses, types, roles — the research consistently finds effects in both directions rather than one clean number: labels can provide relief, community, and reduced self-blame, and can also become limiting, self-fulfilling scripts. The practical summary is that the same label can help or constrain depending on context and on how tightly it is held, so any single figure claiming a fixed effect should be treated with caution."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Labels do real work: they simplify a complicated self, signal belonging, and reduce the discomfort of not knowing who we are.",
+    "Self-categorisation is a normal cognitive efficiency, not a flaw — the mind sorts the self the way it sorts everything else.",
+    "The same label cuts both ways: it can bring relief and community, or narrow into a self-fulfilling script.",
+    "A label is a lens, not the whole person — how tightly you hold it matters more than which one you pick.",
+    "Holding several identities at once leaves more room to act outside any single script."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "A lens, not the whole picture",
+      "body": "A label brings part of you into focus while leaving the rest out of frame. Trouble starts when the lens is mistaken for the whole picture — when a useful description quietly becomes a complete script. Held loosely, the same label stays a tool you can use and update; held as an essence, it can set a ceiling on what you expect of yourself."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When relief hardens into a script",
+      "body": "A label can first arrive as relief — it names an experience, connects someone to community, and reduces self-blame, all documented benefits worth keeping. Over time, though, the same label can start narrowing what that person believes they can do. Noticing the shift from 'this helps me' to 'this limits me' is the first step to loosening it without losing the belonging it provided."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A label is a lens on the self, not the whole of it.",
+      "source": "On how to hold a label"
+    },
+    {
+      "text": "How tightly you hold a label tends to matter more than which one you pick.",
+      "source": "On labels that help vs. limit"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do we label ourselves at all?",

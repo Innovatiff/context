@@ -34,6 +34,36 @@
     "There is no clean single statistic that captures how loosely confidence tracks competence, and the precise magnitude of the Dunning-Kruger effect is genuinely contested — different analyses, correcting for measurement noise and regression to the mean, arrive at different and often smaller estimates. Any confident-sounding exact figure here should be treated with suspicion, which is itself fitting.",
     "What the evidence supports is qualitative and robust: self-rated ability and measured ability correlate only modestly, the least skilled tend to have the least accurate self-assessments, and outward confidence is therefore a noisy proxy for skill. The useful conclusion is not a number but a habit — discount confidence, and weigh evidence of actual performance instead."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Confidence and competence are linked only loosely, so self-assurance is a weak guide to real ability.",
+    "In Kruger and Dunning's work the least skilled tended to overestimate themselves the most, while top performers were more accurate and sometimes underrated themselves.",
+    "The Dunning-Kruger effect is real but debated — smaller and more contested than the popular version, partly due to statistical artefacts like regression to the mean.",
+    "Some self-doubt in an area you are genuinely skilled in can be a marker of insight, not inadequacy.",
+    "Track record, specificity, saying 'I don't know,' and how someone updates when wrong beat raw confidence as signals of competence."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The loudest voice in the meeting",
+      "body": "The most self-assured person in the room speaks without hedging and sounds authoritative, while the genuine expert — more aware of caveats — sounds cautious by comparison. We mistake the more audible signal for the more reliable one, even though confidence is largely independent of whether someone is right."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Doubting yourself in the thing you're good at",
+      "body": "Someone who is genuinely skilled at their craft keeps noticing everything they could have done better, and reads that discomfort as evidence they are behind. But the discomfort of seeing your own limitations is the same discomfort that less skilled, more confident performers are spared — it can be a mild marker of insight, not a verdict on your ability."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The confident-seeming people you compare yourself to may be no more skilled than you are. Their composure tells you about their manner, not their mastery.",
+      "source": "On confidence as a weak signal"
+    },
+    {
+      "text": "Confidence that is not anchored to evidence does not become competence; it just becomes harder to correct.",
+      "source": "On manufactured self-assurance"
+    }
+  ],
   "faqs": [
     {
       "question": "Does confidence mean someone is more competent?",

@@ -34,6 +34,34 @@
     "This is a topic where the honest evidence is conceptual and cross-cultural rather than a matter of clean headline numbers, so it's worth stating plainly: there is no single statistic for 'how much of our idea of success is inherited.' What the research robustly supports is the mechanism — that success is socially constructed, that comparison is reference-group-dependent, and that definitions of a worthy life vary systematically across cultures and class backgrounds.",
     "The practical, non-numeric takeaway is that the same objective life can read as success or shortfall depending entirely on the yardstick applied — and the yardstick is mostly assigned by your environment, not chosen by you. That variability is itself the finding: if success were an objective fact, it wouldn't shift so dramatically with the crowd, the country, and the era you happen to measure against."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Your idea of success is mostly inherited — from family, class, reference groups, and media — not deliberately chosen.",
+    "What counts as 'making it' is reference-group-dependent: the same salary can read as success in one circle and failure in another.",
+    "Definitions of a worthy life vary systematically across cultures and class backgrounds, which is evidence success is socially constructed.",
+    "Making the inherited metric visible lets you decide whether to keep it; chasing it harder rarely settles the question."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The same salary, two verdicts",
+      "body": "A salary that feels like clear success among one circle of friends can feel like falling short in another, with no change in the actual number. That flip is the point: the metric travels with the crowd you measure against, not with the achievement itself — which is exactly what a reference-group-dependent standard looks like in daily life."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The definition you never discussed",
+      "body": "Siblings raised in the same home often share a detailed idea of what a good life looks like — a certain career, income, or milestone — despite never sitting down to agree on it. That shared script is inherited cultural capital: installed early, it feels like a personal conviction rather than something handed down, which is why it so rarely gets questioned."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "By the time most people ask 'am I successful?', the definition of success they're using has already been installed by their environment.",
+      "source": "On inherited metrics"
+    },
+    {
+      "text": "The same objective life can read as success or shortfall depending entirely on the yardstick applied — and the yardstick is mostly assigned, not chosen."
+    }
+  ],
   "faqs": [
     {
       "question": "Is success objective or made up?",

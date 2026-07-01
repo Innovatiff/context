@@ -39,6 +39,35 @@
     { "value": "Hostile-leaning", "label": "How ambiguous social cues tend to be interpreted", "source": "Hostile attribution bias research" },
     { "value": "Amplified by anxiety", "label": "Anxious people read ambiguity as more threatening", "source": "Anxiety and interpretation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Ambiguity activates an over-cautious threat-detection system that fills gaps with the worst plausible story.",
+    "Negativity bias means one ambiguous cue can outweigh a long history of reassuring ones.",
+    "The hostile attribution bias reads neutral behaviour — a short reply, a flat tone — as anger or rejection.",
+    "Anxiety amplifies the tilt, pushing interpretation further toward threat.",
+    "Naming the reflex, generating the benign explanation, and seeking the actual data is what tends to help."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The unanswered text",
+      "body": "A message goes unanswered and the mind fills the silence with a verdict: they're upset, you did something wrong. But a short reply, a missed greeting, or a flat tone is far more often distraction, tiredness, or someone simply busy with their own life. The threatening reading arrives with urgency and certainty while the ordinary one feels like wishful thinking — even though it's usually the accurate one."
+    },
+    {
+      "label": "The mechanism",
+      "title": "One cue drowning out months of warmth",
+      "body": "Because negative information looms larger, a single ambiguous signal can outweigh a long history of reassuring contact. The relationship didn't change — bad signals are simply weighted more heavily than good ones. That asymmetry is exactly what the negativity-bias research describes, and it's why the silence feels so loud."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Mistaking a stick for a snake cost almost nothing; mistaking a snake for a stick could be fatal — so the system errs toward threat.",
+      "source": "On why we assume the worst"
+    },
+    {
+      "text": "The silence that feels like a verdict on you is far more often just someone busy with their own life."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I always jump to the worst-case scenario?",

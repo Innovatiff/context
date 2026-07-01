@@ -39,6 +39,36 @@
     { "value": "Little benefit", "label": "Effect of programmes that try to raise self-esteem directly", "source": "Baumeister et al., 2003" },
     { "value": "Better predictor", "label": "Self-compassion's link to wellbeing vs. self-esteem", "source": "Neff, self-compassion research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The 2003 Baumeister review found high self-esteem is mostly a result of success and good relationships, not a cause.",
+    "Programmes that try to raise self-esteem directly produced little benefit and occasionally backfired.",
+    "Self-esteem built on comparison is fragile — it rises and falls with each setback and each 'better than others' contest.",
+    "Self-compassion predicts wellbeing at least as well, without depending on outperforming anyone or on things going well.",
+    "Being kind to yourself in setbacks does not appear to reduce motivation, a common worry."
+  ],
+  "examples": [
+    {
+      "label": "The direction of causation",
+      "title": "Symptom mistaken for cause",
+      "body": "You notice that people who are thriving usually feel good about themselves, and conclude the good feeling came first. The review suggests it more often follows the thriving — success and good relationships tend to raise self-esteem rather than the reverse. Chasing the feeling directly, with affirmations, tends to do less than building the competence and connection that produce it as a byproduct."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Treating yourself like a friend after a failure",
+      "body": "After a setback, one response is harsh self-criticism; another is scrambling to defend an inflated self-image. Self-compassion is a third: responding the way you would to a friend in the same situation — with kindness, perspective, and a recognition that failure is part of being human. On current evidence this is steadier than self-esteem, because it doesn't hinge on coming out ahead."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "High self-esteem is more often a readout of how life is going than an engine that drives it.",
+      "source": "On the Baumeister review"
+    },
+    {
+      "text": "The better-supported aim is less 'feel superior' and more 'be kind to yourself regardless of how you are performing.'",
+      "source": "On self-compassion"
+    }
+  ],
   "faqs": [
     {
       "question": "Does high self-esteem actually make your life better?",

@@ -34,6 +34,34 @@
     "There is no clean statistic for how much temporal comparison 'beats' social comparison, and it would be misleading to invent one. Temporal comparison theory dates to the late 1970s and has been studied far less than Festinger's social comparison theory, so the honest position is that it is a recognised, useful alternative with a smaller and more nuanced evidence base, not a quantified prescription.",
     "What the surrounding research does establish is the contrast that makes past-self comparison appealing. Social comparison runs disproportionately upward and against an unrepresentative sample — feeds surface the most impressive fraction of outcomes, and heavy users overestimate how well others are doing. Your own past, by comparison, is a relevant and representative reference point, which is the main reason temporal comparison tends to distort less, even though it is no panacea."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Comparing to your own past tends to be a gentler default than comparing to a curated slice of other people.",
+    "The benefit is specific: noticing real progress helps; dwelling on an idealised 'better' past can deflate you like any upward comparison.",
+    "Progress is hard to see from the inside, so honest temporal comparison usually needs an external anchor — a note, photo, or record.",
+    "Switching reference points doesn't erase a harsh self-evaluation habit; the standard you hold matters as much as which comparison you use."
+  ],
+  "examples": [
+    {
+      "label": "The useful version",
+      "title": "Am I further along than a year ago?",
+      "body": "Instead of measuring against the people you see online, you look at an old note listing what you could do twelve months back — and notice concrete movement: skills gained, distance covered, a habit that stuck. Your past is a relevant, representative reference in a way a stranger's highlight reel never is, which is why this reads as encouraging rather than deflating."
+    },
+    {
+      "label": "The trap",
+      "title": "Measuring against a peak you can't reoccupy",
+      "body": "Comparing your present to a remembered 'better' self — younger, fitter, further ahead — can lower mood and motivation much as upward social comparison does. Memory makes it worse, tilting the past rosier or harsher than it was, so the felt gap may not even be real. Pointed backward at a vanished peak, temporal comparison loses the very quality that made it kinder."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Your past is a far more representative and relevant reference point than someone else's edited highlight reel.",
+      "source": "On why temporal comparison distorts less"
+    },
+    {
+      "text": "The benefit is specific to noticing real progress, not to comparing across time in general."
+    }
+  ],
   "faqs": [
     {
       "question": "Is comparing to your past self really better than comparing to others?",

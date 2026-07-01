@@ -34,6 +34,36 @@
     "There is no single headline statistic here; the honest summary is a pattern across studies rather than one number. Research on intellectual humility (associated with Leary, Krumrei-Mancuso and others) tends to report modest but fairly consistent positive associations with learning, openness to evidence, and more careful decision-making — useful as a direction, not as a precise effect size.",
     "On the other side, research on overconfidence and status (associated with Cameron Anderson and colleagues) finds that overconfident people reliably tend to attain higher social standing because confidence is read as competence. The two bodies of work are best read together: humility appears to help where time and relationships accumulate, while overt confidence has a real edge in brief, low-information first impressions. Where exact effects are concerned, the research is suggestive rather than precise, and it is worth treating any single number with caution."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Intellectual humility — knowing the limits of what you know — is linked to better learning, decisions, and relationships.",
+    "Confident self-promotion often wins the short game: brief, first-impression moments like interviews and introductions.",
+    "Humility's advantages tend to show up later, as people accumulate experience of you rather than a snapshot.",
+    "Confidence is read as competence even when the two come apart — so it's evidence of confidence, not of being right.",
+    "The constructive combination is calm confidence held alongside genuine openness to being wrong."
+  ],
+  "examples": [
+    {
+      "label": "The trade-off",
+      "title": "The meeting versus the year",
+      "body": "In today's meeting, the more self-promoting colleague gets noticed — confidence reads as competence in a brief, low-information moment. What you don't get to watch is the slower story: the credibility that overclaiming erodes over months, and the trust that admitting uncertainty and sharing credit quietly builds. Humility tends to lose the minute and win the year."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Confident and humble at once",
+      "body": "Someone states their view clearly and without excessive hedging, then genuinely updates it when better evidence appears. That's the combination the research favours — intellectual humility is about your relationship to your own knowledge, not about lowering your self-presentation. Calm uncertainty held alongside a willingness to act is different from both overclaiming and anxious self-doubt."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Humility tends to pay off over the long run and in close relationships, while overt confidence often wins the short game.",
+      "source": "On the visibility trade-off"
+    },
+    {
+      "text": "Confidence is evidence of confidence, not of being right.",
+      "source": "On confidence versus competence"
+    }
+  ],
   "faqs": [
     {
       "question": "What is intellectual humility, exactly?",

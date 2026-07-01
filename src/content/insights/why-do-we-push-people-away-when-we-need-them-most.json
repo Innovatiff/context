@@ -39,6 +39,35 @@
     { "value": "Withdrawal", "label": "Recognised feature of depression that can deepen isolation", "source": "Depression / social-withdrawal research" },
     { "value": "Self-protection", "label": "How fear of being a burden often functions — misfiring, not lack of need", "source": "Fear-of-being-a-burden research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Pulling away when you most need people is a common, well-documented pattern, not a character flaw.",
+    "It is usually self-protection misfiring — avoiding vulnerability, hiding shame, or not wanting to be a burden.",
+    "The need for connection stays intact underneath; what gets suppressed is the reaching out.",
+    "Naming the pattern and lowering the bar to reach out help more than waiting to feel ready.",
+    "Self-criticism tends to deepen the shame that fuels the withdrawal in the first place."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "\"I just want space\"",
+      "body": "From the inside, withdrawal rarely feels like a strategy — it feels like wanting space, not wanting to burden anyone, or simply not having the energy. For some people this is a deeply practised response to stress, automatic enough that it runs ahead of any decision to reach out. The need for support has not gone anywhere; the strategy has just quietly switched off the reaching out."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Staying quiet to protect them",
+      "body": "Believing your struggles will weigh on others, staying silent can feel like the kind thing to do — considerate rather than self-defeating. But the research on support suggests most people would rather be told, and connection generally helps more than it costs. What feels like protecting them is often the withdrawal that deepens the isolation it was meant to prevent."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The need for connection usually stays intact underneath. It is the reaching out that gets suppressed.",
+      "source": "On why withdrawal misleads"
+    },
+    {
+      "text": "This isn't a character flaw. It's a protective reflex that can backfire — pulling you away from the connection that tends to help."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I push people away exactly when I need them most?",

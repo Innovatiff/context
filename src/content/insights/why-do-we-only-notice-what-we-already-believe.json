@@ -39,6 +39,36 @@
     { "value": "Pervasive", "label": "How widely confirmation bias appears across perception, memory, and reasoning", "source": "Nickerson, confirmation bias review" },
     { "value": "Asymmetric", "label": "We scrutinise disliked evidence harder than liked evidence", "source": "Motivated reasoning research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Confirmation bias is the tendency to seek, notice, and remember what fits our beliefs and overlook what doesn't.",
+    "In Wason-style tasks, most people test a hunch by looking for confirmation rather than trying to falsify it.",
+    "Nickerson's review treats it as a default feature of reasoning, stacking selective search, interpretation, and recall.",
+    "Algorithmic feeds amplify it: the evidence in front of you is pre-sorted toward what you already believe.",
+    "The studied counters are deliberate — seek disconfirming evidence, 'consider the opposite,' diversify inputs."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "An afternoon of 'research'",
+      "body": "You spend hours reading up on a question and come away more certain than when you started. The trouble is that you searched for what supports your view and an algorithmic feed served more of the same, so almost everything you saw agreed with you. Feeling well-researched isn't the same as having looked at the disconfirming side."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Considering the opposite",
+      "body": "Before settling on a conclusion, you deliberately ask 'what would have to be true for me to be wrong, and is any of it true?' and try to see how a reasonable person could disagree. This runs against the natural search pattern, which is why it has to be done on purpose — and studies suggest it trims overconfidence, though the effect is modest and fades without practice."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are usually carrying a view and then noticing the world through it — quietly, without any sense of being closed-minded.",
+      "source": "On why it's hard to catch"
+    },
+    {
+      "text": "Don't ask 'what supports my view?' Ask 'what would have to be true for me to be wrong?'",
+      "source": "On countering the bias"
+    }
+  ],
   "faqs": [
     {
       "question": "What is confirmation bias, exactly?",
