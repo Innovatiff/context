@@ -34,6 +34,36 @@
     "There isn't a clean population statistic for how often people double down — escalation of commitment is studied mainly through controlled experiments and case studies rather than national surveys, so this is a robustly observed mechanism rather than a measured prevalence. What the studies establish is the direction and reliability of the effect, not a percentage of the public it applies to.",
     "The one number worth holding onto comes from loss aversion: across many studies, losses are felt roughly twice as strongly as equivalent gains. That asymmetry is the engine that makes 'I'll lose what I've spent' outweigh a level-headed look at future costs — and it's why walking away feels disproportionately painful even when it's the better move."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Doubling down is a structural trap — escalation of commitment — not a sign of unusual stubbornness.",
+    "Staw found people responsible for a failing choice add more resources, not less, to justify it.",
+    "The sunk-cost fallacy makes us factor past, unrecoverable spending into decisions that should ignore it.",
+    "Loss aversion means losses are felt roughly twice as strongly as equivalent gains, tilting us toward staying.",
+    "Kill criteria set in advance, a forward-only 'would I start this today?', and an outside view all help."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'would I start this today?' test",
+      "body": "Someone stays in a project because of the years and money already poured in. The clarifying question is what they'd choose today with no history and nothing already spent — which deliberately strips out the sunk cost the research says shouldn't be in the calculation. If they wouldn't start it now, that's information about whether to continue."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Not a quitter",
+      "body": "From the inside, continuing feels like persistence and loyalty rather than a bias. Abandoning a failing course threatens the self-image of someone who follows through more than the practical loss does — which is why the person who made the original choice escalates more than an outsider would. Borrowing an outside view from someone with no stake in having been right weighs the future costs more cleanly."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The thing keeping you in is rarely a clear-eyed bet that things will improve; it's the pull of what you've already put in, plus the discomfort of being wrong.",
+      "source": "On escalation of commitment"
+    },
+    {
+      "text": "Walking away crystallises the spent investment as a definite loss, which feels worse than the uncertain prospect of losing more by staying.",
+      "source": "On loss aversion"
+    }
+  ],
   "realNumbers": [
     { "value": "≈2×", "label": "How much more heavily losses are weighed than equivalent gains (loss aversion)", "source": "Kahneman & Tversky, prospect theory" },
     { "value": "More, not less", "label": "Resources people add to a failing course they chose themselves", "source": "Staw, escalation of commitment" },

@@ -40,6 +40,36 @@
     { "value": "Present bias", "label": "Immediate rewards and costs are systematically overweighted vs. future ones", "source": "Behavioural economics" },
     { "value": "If-then", "label": "Implementation intentions help close the gap between intention and action", "source": "Goal-implementation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Repetition is mostly cue-driven habit and poor learning from failure, not weak willpower.",
+    "Under stress or familiar triggers, the old response fires before a new intention can intervene.",
+    "People learn less from failure than from success, partly because failure is ego-threatening and easy to tune out.",
+    "Changing the cue or environment works better than resolving to try harder.",
+    "Harsh self-criticism raises the ego threat that makes the lesson harder to absorb."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The resolution that met the same trigger",
+      "body": "You promised yourself you'd stop the late-night scrolling, and meant it. But the cue — same couch, same time, same tired mood — reappears, and the old response fires before the resolution can. From the inside it feels like a failure of discipline, so you resolve to try harder, which leaves the actual trigger untouched. Changing the cue, like charging the phone in another room, targets the link that willpower keeps missing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Remembering the regret but not the reason",
+      "body": "The last time a project ran over, the stress was vivid — and yet the same crunch happens again. Remembering that something went badly isn't the same as extracting why it went badly, and the sting of failure often pushes us to stop thinking about the episode rather than analyse it. The emotional memory survives; the usable lesson frequently doesn't, which is why reframing failure as information rather than a verdict is what lets the lesson land."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "From the inside, a cue-driven slip is indistinguishable from a deliberate choice, so we blame the chooser rather than the cue.",
+      "source": "On why it feels like willpower"
+    },
+    {
+      "text": "Feeling bad is not a mechanism for change; redesigning the cue and extracting the lesson is.",
+      "source": "On what actually breaks the loop"
+    }
+  ],
   "faqs": [
     {
       "question": "Does repeating mistakes mean I lack willpower?",

@@ -34,6 +34,41 @@
     "This is a topic carried by mechanisms rather than precise statistics, so the honest anchors are two well-supported ideas: habituation, the nervous system's basic tendency to respond less to repeated stimuli, and Dacher Keltner's body of research on awe. Habituation explains the fading; the awe literature explains why getting wonder back is worth the effort.",
     "What Keltner's work reasonably supports is that experiences of awe are associated with higher wellbeing, greater humility, and stronger feelings of connection, and that they depend partly on novelty and vastness — which is why routine and screens, by reducing both, tend to reduce awe. These are well-supported tendencies rather than precise effect sizes, and wonder appears to be recoverable rather than permanently lost."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We lose wonder largely through habituation — the brain dials down its response to the familiar.",
+    "It can feel like the world got duller when what changed is your automatic response to it.",
+    "Awe is associated with higher wellbeing, greater humility, and stronger connection — so rekindling it is worth doing.",
+    "Children's wonder is driven substantially by newness, not a special capacity adults lack.",
+    "Wonder is recoverable through deliberate novelty, nature, art, and a 'fresh eyes' attention — not by waiting."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The sunset is the same; your brain stopped flagging it",
+      "body": "Habituation runs quietly and automatically, so when a familiar sunset, commute, or view stops stopping you, the fading registers as a property of the world rather than of your own attention. Nothing out there dimmed — the nervous system simply learned to respond less to what it has already seen."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The busy feed that hides what's missing",
+      "body": "Screens supply a constant stream of mild, manufactured novelty that feels like stimulation without producing the expansive, hard-to-categorise quality of real awe. Because the feed is busy, nothing feels absent — even as the deeper experience of wonder gets crowded out. Making room for real-world novelty and nature is the broad pattern the research supports."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Fresh eyes on the already-known",
+      "body": "Slowing down and attending to the familiar as if encountering it for the first time — savouring, or a deliberate awe walk that attends to the novel and vast — can partly reverse the automatic muting that routine has worn in. Recovering wonder tends to take some intention rather than returning on its own."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It can feel as though the world has become less wondrous — when what has actually changed is your response to it.",
+      "source": "On habituation"
+    },
+    {
+      "text": "Children's wonder is driven substantially by newness, not by some special capacity that adults lack.",
+      "source": "On why children feel more wonder"
+    }
+  ],
   "faqs": [
     {
       "question": "Why does the world feel less wondrous as I get older?",

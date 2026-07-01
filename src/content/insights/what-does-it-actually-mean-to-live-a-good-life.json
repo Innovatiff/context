@@ -39,6 +39,41 @@
     { "value": "Six dimensions", "label": "Ryff's factors: autonomy, mastery, growth, relationships, purpose, self-acceptance", "source": "Carol Ryff" },
     { "value": "Three lives", "label": "Happy, meaningful, and psychologically rich as distinct good lives", "source": "Oishi & Westgate" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "There is no single definition of a good life — philosophy and psychology offer several defensible versions.",
+    "A good life means more than pleasant feelings: flourishing, growth, and purpose are goods pleasure can't stand in for.",
+    "Ryff's six dimensions treat wellbeing as multidimensional, not one happiness score.",
+    "A life can be good by being interesting and perspective-changing, even when it isn't maximally happy or obviously meaningful.",
+    "'Good' is genuinely plural, so a good life can take more than one defensible shape."
+  ],
+  "examples": [
+    {
+      "label": "The three threads",
+      "title": "Same question, three defensible answers",
+      "body": "Asked what makes a life good, Aristotle points to eudaimonia — flourishing through virtue and realising your capacities over time, not mere pleasure. Ryff points to six measurable dimensions — autonomy, mastery, growth, relationships, purpose, self-acceptance. Oishi adds a third: a psychologically rich life of interesting, perspective-changing experiences. None is the definitive answer; each captures something real."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The life heavy on slow goods",
+      "body": "Someone deep in growth, relationships and purpose can feel like their life is missing something, because pleasure is the most legible signal and those goods unfold slowly and read faintly in the moment. By the eudaimonic and multidimensional accounts, that life may be doing well — it just isn't producing the instant good mood the culture treats as the scoreboard."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The interesting detour that wasn't a detour",
+      "body": "A stretch of varied, perspective-changing experience that is neither maximally happy nor obviously 'meaningful' can feel like time off the path to a good life. Oishi's work on psychological richness suggests that's a blind spot in the usual framing rather than a flaw in the life — for some people, novelty and breadth are a core part of what makes a life good."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The good life is best understood as a small family of credible accounts, not a single formula.",
+      "source": "On why there is no one answer"
+    },
+    {
+      "text": "A life can be strong on some dimensions and developing on others — that's what treating a good life as multidimensional means.",
+      "source": "On Ryff's six factors"
+    }
+  ],
   "faqs": [
     {
       "question": "Is there one definition of a good life?",

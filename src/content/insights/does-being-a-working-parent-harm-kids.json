@@ -39,6 +39,35 @@
     { "value": "Conditional", "label": "The small effects that appear — varying by timing, income, and family situation", "source": "Maternal-employment meta-analyses" },
     { "value": "Care quality", "label": "A far stronger predictor of children's outcomes than whether a parent works", "source": "Developmental childcare research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "On the weight of the evidence, being a working parent does not, by itself, harm children's development.",
+    "Meta-analyses of maternal employment find no reliable, broad negative effect; the small effects that appear are conditional and sometimes positive.",
+    "What matters far more is care quality, family stability and stress, financial security, and parental wellbeing.",
+    "Working mothers face a cultural narrative of harm the research doesn't support — scrutiny rarely applied to working fathers.",
+    "Guilt can be counterproductive, since chronic parental stress is itself linked to worse outcomes."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The felt arithmetic that leaves things out",
+      "body": "Every hour at work is an hour not with the child, and that subtraction is easy to feel and easy to count. What the felt math leaves out is what the work brings into the home — income, stability, a parent's sense of identity and wellbeing — and the fact that the alternative time is not automatically high-quality time."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Comparing real to imagined",
+      "body": "The mental picture is often a serene, fully-present at-home parent versus a frazzled working one. But the honest comparison is between real, imperfect versions of each. A stable, reasonably content working parent with good-quality, responsive care can serve a child as well as the imagined ideal — an ideal few households actually live."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The variables that reliably predict children's outcomes are not whether a parent works, but care quality, family stress, financial security, and parental mental health.",
+      "source": "On what the evidence tracks"
+    },
+    {
+      "text": "The small, conditional, sometimes opposing effects net out close to neutral — not a clear harm."
+    }
+  ],
   "faqs": [
     {
       "question": "Does having a working parent harm children's development?",

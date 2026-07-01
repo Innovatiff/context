@@ -40,6 +40,56 @@
     { "value": "Backfires", "label": "Likely effect of a non-apology like 'I'm sorry you feel that way'", "source": "Apology and trust-repair research" },
     { "value": "Behaviour", "label": "What ultimately rebuilds trust after the apology", "source": "Trust-repair research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Good apologies genuinely aid forgiveness and trust repair; hollow or defensive ones can leave things worse than silence.",
+    "Two components do the heavy lifting: acknowledging responsibility (most important) and offering to repair the harm (next).",
+    "'I'm sorry you feel that way' expresses no responsibility, so it does almost none of an apology's work.",
+    "Adding 'but' plus an explanation tends to relocate the blame and cancel the most important component.",
+    "The apology opens the door; changed behaviour over time is what actually rebuilds trust."
+  ],
+  "tables": [
+    {
+      "title": "What carries the weight in an apology",
+      "caption": "Lewicki, Polin and Lount broke apologies into components and found they don't carry equal weight. This is a ranking of influence, not a scored formula — and the two heavy lifters are also the ones most often skipped.",
+      "columns": ["Component", "Relative influence"],
+      "rows": [
+        ["Acknowledging responsibility", "Most important"],
+        ["Offering to repair the harm", "Next most influential"],
+        ["Expressing regret / explaining / declaring repentance", "Help less"],
+        ["Requesting forgiveness", "Among the least influential"]
+      ],
+      "highlightColumn": 1,
+      "source": "Lewicki, Polin & Lount (2016)"
+    }
+  ],
+  "examples": [
+    {
+      "label": "The trap",
+      "title": "The polished non-apology",
+      "body": "A fluent, well-delivered 'I'm sorry you feel that way' can sound convincing in the moment and get accepted — then the hurt stays unresolved. The words requested forgiveness without acknowledging responsibility or offering to make things right, so they did almost none of an apology's actual work, and can read as an evasion that damages trust further."
+    },
+    {
+      "label": "The mechanism",
+      "title": "'Sorry, but...'",
+      "body": "The apology starts well — a clear acknowledgment — and then a justification follows. The moment the 'but' arrives, it tends to relocate responsibility and signal you don't fully own the harm, quietly cancelling the most important component the research identifies. Naming what you did without the explanation creeping in to soften it does more than any other single element."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A sincere apology, then the same behaviour",
+      "body": "Someone owns the harm, offers to make it right, and means it — and then repeats the behaviour. Because trust repair runs through what follows, the words lose their force fast. An apology backed by a different pattern of action rebuilds trust; one contradicted by the same behaviour repeating tells the other person the words meant little, however well phrased."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "An apology is not a magic reset button; it is a specific act whose effect depends on what's actually in it.",
+      "source": "On why quality matters"
+    },
+    {
+      "text": "The apology opens the door; changed behaviour over time is what actually rebuilds trust.",
+      "source": "On follow-through"
+    }
+  ],
   "faqs": [
     {
       "question": "What actually makes an apology work?",

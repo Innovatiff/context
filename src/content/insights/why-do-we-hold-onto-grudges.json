@@ -34,6 +34,36 @@
     "This is a field built more on validated psychological scales and clinical trials than on tidy population statistics, so be wary of anyone quoting a precise figure for \"how much healthier forgivers are.\" The dependable findings are directional: more rumination tracks with more sustained anger and harder forgiveness, and forgiveness interventions produce modest average improvements in emotional wellbeing across trials, with results varying by person and by how deep the injury was.",
     "On physical health, claims are often overstated. Some studies link an unforgiving, hostile stance to higher stress-related markers, but the evidence for durable physical-health benefits from forgiveness specifically is thinner and more mixed than popular write-ups suggest. The honest position: holding a grudge has a real, recurring emotional cost that lands mostly on you, and letting go tends to ease that cost — while the bolder bodily claims remain suggestive rather than settled. This is general information, not therapy; for grievances tied to serious harm, a qualified clinician is the right place to work through it."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Grudges persist because rumination keeps replaying the offence, not because you keep choosing it.",
+    "The ongoing cost of a grudge falls mainly on the holder, while the offender is often unaware or unaffected.",
+    "In the research, forgiveness means reducing your own resentment — it does not require condoning or reconciling.",
+    "Negative events lodge and get rehearsed more readily than comparable positive ones, so offences stay vivid.",
+    "Interrupting rumination and separating forgiveness from reconciliation ease it more than venting or waiting for an apology."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The grudge the other person forgot",
+      "body": "You've replayed a slight from a colleague for months; they've likely forgotten it entirely. The replaying happens inside you, keeping the stress response switched on while the person it's aimed at goes about their day unaffected. That lopsidedness is why the studies frame letting go primarily as something done for your own benefit, not as a favour to the other person."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Forgiving without reconciling",
+      "body": "You can release the resentment toward someone who hurt you and still choose never to let them back in. Forgiveness in the research sense — reducing your own ill will — is a separate decision from trusting again or restoring the relationship. Naming those as distinct choices often removes the reason people felt they couldn't let go at all: keeping a firm boundary is fully compatible with putting down the bitterness."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The grudge runs inside you; the cost lands on you while feeling like it lands on them.",
+      "source": "On the asymmetry of resentment"
+    },
+    {
+      "text": "You can forgive someone you never speak to again — forgiveness and reconciliation are separate choices.",
+      "source": "On what forgiveness does and doesn't require"
+    }
+  ],
   "faqs": [
     {
       "question": "Doesn't forgiving someone mean letting them off the hook?",

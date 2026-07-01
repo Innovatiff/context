@@ -31,6 +31,36 @@
     "It's worth being precise about what the evidence does and doesn't claim. The core results are about direction, not magnitude: Gilovich and Medvec show inaction-regret tends to dominate in the long run, and Davidai and Gilovich (2018) show ideal-self regrets are more common and more enduring than ought-self or action regrets. None of this puts a number on how often the safe road 'goes wrong,' and it should not be read as one.",
     "The countervailing reality has no clean statistic either, but it is real. The safe road delivers stability, lower variance, and met responsibilities — and the bold-bet failures that would balance the picture are systematically underreported because of survivorship bias. So the honest summary is a tilt, not a landslide: a measurable long-run lean toward regretting the chances not taken, set against genuine, often-invisible benefits of having played it safe."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Over a lifetime, people tend to regret chances they didn't take more than risks they did — but it's a tendency, not a verdict.",
+    "Ideal-self regrets (unfulfilled dreams) are the most common and most enduring, and least likely to be resolved.",
+    "The safe road satisfies the 'ought self' while leaving the 'ideal self's' aspirations unaddressed.",
+    "Status-quo and omission bias make inaction feel safer and less blameworthy in the moment than the long-run math suggests.",
+    "Survivorship bias hides the bold bets that failed, so 'always take the leap' overshoots the evidence."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The dream tested cheaply on the side",
+      "body": "Rather than a strict either/or between the stable path and the leap, many aspirations can be tested at low cost — on the side, in small experiments, in reversible trials. This lets you act on the ideal self without betting everything, which is the version of risk-taking the evidence most comfortably supports: keeping the downside survivable while no longer leaving the dream untouched."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Naming which 'self' the safe choice serves",
+      "body": "If the safe road is genuinely honoring responsibilities you care about — providing for people, keeping real commitments — that is the ought self, and it is not regret-bait. The research flag is narrower: aspirations that go permanently unaddressed. The useful check isn't whether you were stable, but whether a dream is being quietly shelved forever."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Safe choices feel right precisely because their costs are invisible — the cost is an absence, and absences don't announce themselves.",
+      "source": "On why the safe road feels correct"
+    },
+    {
+      "text": "A measurable long-run lean toward regretting the chances not taken — set against genuine, often-invisible benefits of having played it safe.",
+      "source": "On the honest balance"
+    }
+  ],
   "faqs": [
     {
       "question": "Do people really regret playing it safe more than taking risks?",

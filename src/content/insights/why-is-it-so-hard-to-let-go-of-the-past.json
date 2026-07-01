@@ -40,6 +40,35 @@
     { "value": "Stickier", "label": "How negative memories register relative to positive ones", "source": "Negativity bias research" },
     { "value": "Self-distancing", "label": "Stepping back reduces rumination and emotional reactivity", "source": "Kross, self-distancing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The past sticks because the mind is built to revisit unfinished and emotionally charged events — not because of any weakness.",
+    "Rumination loops on distress, unfinished matters stay 'open tabs' (the Zeigarnik effect), and negativity bias makes painful memories stickier.",
+    "The looping is largely automatic and arrives unbidden, which is why it feels like a personal flaw when it isn't.",
+    "Suppression — 'just don't think about it' — tends to make the memory return more often, not less.",
+    "Processing and meaning-making, self-distancing, and a sense of closure work better than pushing the past away."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The skewed highlight reel of the past",
+      "body": "Because unfinished matters keep their charge and negative events carry extra weight, the past that stays vivid is disproportionately the difficult past. The argument, the loss, the regret keep their colour while the many ordinary, settled days blur together — so it feels like there is more to let go of than there really is."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Looping at 2am",
+      "body": "You are not choosing to replay the old conversation — it arrives on its own, uninvited. Reading that as a weakness of character, you try to force the thought out, and it returns more often. The effort to let go starts to feel like proof that you can't. In fact suppression is simply the wrong tool: stepping back to view the memory from an observer's distance, or working it into words, tends to loosen its grip where pushing it away does not."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You are working against default features of the brain, not a personal failing — and those defaults are not destiny.",
+      "source": "On why letting go is hard"
+    },
+    {
+      "text": "The very effort to let go can feel like proof that you cannot — when in fact suppression is the wrong tool, not evidence of failure."
+    }
+  ],
   "faqs": [
     {
       "question": "Why can't I stop thinking about something from the past?",

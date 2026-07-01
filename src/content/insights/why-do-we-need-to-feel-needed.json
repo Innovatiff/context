@@ -34,6 +34,41 @@
     "There is no single clean statistic that captures 'the need to feel needed,' and inventing one would be dishonest. What the research offers instead is a consistent pattern: across studies, a higher sense of mattering is associated with better mental health and a lower risk of depression and loneliness, while anti-mattering — feeling insignificant to others — is associated with greater distress. The direction is steady even though exact effect sizes vary by study and population.",
     "The broader context is that this need sits alongside some of the most robust findings in wellbeing research: that close relationships and a sense of contribution are among the strongest correlates of a meaningful, satisfying life. Feeling needed is one of the channels through which those larger forces operate — which is why the drive is so common and why its absence is felt so sharply."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Wanting to matter to others is a normal human drive, not a weakness or a sign of insecurity.",
+    "Psychologists call it 'mattering' — a higher sense of it tracks with better wellbeing; its absence, 'anti-mattering,' tracks with distress.",
+    "The need shows up loudest when it goes unmet — after a role ends, kids grow up, or retirement.",
+    "It turns unhealthy mainly in its all-or-nothing form: 'I only matter if I'm needed.'",
+    "It's best met by mutual connection and contribution spread across several relationships, not by being indispensable."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The ache is the absence, not the drive",
+      "body": "The pull to be useful often goes unnoticed until it isn't being met — and then it arrives as an ache, right after the thing that supplied it ends. That timing makes the need itself look like the problem. It usually isn't. The discomfort is the absence of something that was quietly doing real work for your wellbeing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The empty nest, and 'no one needs me now'",
+      "body": "A parent whose children have grown can feel suddenly untethered, as if their significance left with them. In the research, that gap is the loss of a major role through which they contributed and felt depended upon — not evidence they stopped mattering. Finding new avenues to contribute and connect, rather than trying to talk the need away, is what tends to help fill it."
+    },
+    {
+      "label": "The trap",
+      "title": "Indispensable, and quietly resentful",
+      "body": "Making yourself needed for everything looks like the safest way to matter, but it tends to backfire: over-functioning can produce burnout, resentment, and relationships that feel transactional, and it leaves you fragile the moment the need for you changes. Being needed for everything is not the same as mattering to someone."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Being needed for everything is not the same as mattering to someone.",
+      "source": "On over-functioning"
+    },
+    {
+      "text": "Wanting to matter is closer to a baseline human need than to a personal weakness.",
+      "source": "On the mattering research"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it unhealthy to need to feel needed?",

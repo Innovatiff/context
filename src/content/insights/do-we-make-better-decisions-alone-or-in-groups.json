@@ -40,6 +40,36 @@
     { "value": "Consensus pressure", "label": "The core driver of groupthink's poor decisions", "source": "Janis, groupthink research" },
     { "value": "More extreme", "label": "Direction groups often drift after discussion", "source": "Group polarization research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The real question isn't alone vs. groups — it's whether a group keeps its input independent and diverse or collapses into consensus.",
+    "Wisdom of crowds works when judgments are diverse, independent, and aggregated well; remove independence and the effect breaks down.",
+    "Groupthink and group polarization are the failure modes: consensus pressure suppresses dissent, and discussion often pushes a group more extreme.",
+    "Consensus feels like accuracy but can just be people influencing each other — a unanimous group can be unanimously wrong.",
+    "To decide better together: gather private judgments first, build in real dissent, then aggregate — rather than talking until everyone agrees."
+  ],
+  "examples": [
+    {
+      "label": "Wisdom of crowds",
+      "title": "Averaging ~800 independent guesses",
+      "body": "At a 1906 county fair, hundreds of people each guessed an ox's weight without conferring. No single expert was reliably right, yet the average of all those independent guesses came within about one percent of the true weight. The power came precisely from the fact that people didn't talk first — their individual errors, pointing in different directions, cancelled out when pooled."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The meeting that agrees too smoothly",
+      "body": "A team gathers, the most confident person speaks first, and within minutes everyone is nodding. It feels efficient and certain — but that certainty came from people anchoring to whoever spoke first, not from independent signals converging. The comfortable, unanimous room is exactly the setting where dissent feels disloyal and the correcting information never surfaces."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A unanimous group can be unanimously wrong, and it usually feels more certain than a lone thinker who is actually right.",
+      "source": "On why consensus feels like accuracy"
+    },
+    {
+      "text": "Size is not the lever; structure is. Without independence and diversity, a bigger group mainly amplifies whatever bias is already present.",
+      "source": "On what actually improves group decisions"
+    }
+  ],
   "faqs": [
     {
       "question": "So are groups smarter than individuals or not?",

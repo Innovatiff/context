@@ -39,6 +39,35 @@
     { "value": "Higher", "label": "Social connectedness and meaning after nostalgic reflection", "source": "Sedikides & Wildschut, experimental studies" },
     { "value": "Coping trigger", "label": "Nostalgia is prompted by loneliness, low mood, and stress", "source": "Nostalgia and coping research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The evidence largely reverses nostalgia's old reputation: it is mostly a positive, meaning-making emotion.",
+    "Nostalgic reflection tends to raise social connectedness, self-continuity, meaning, and even optimism.",
+    "It functions like a coping resource — recruited when connection or meaning runs short, and helps restore them.",
+    "The better question isn't good or bad, but which kind: reflective and reconnecting, or avoidant and dissatisfied."
+  ],
+  "examples": [
+    {
+      "label": "The healthy mode",
+      "title": "A memory as a bridge back to people",
+      "body": "Feeling lonely or unmoored, someone revisits a chapter that mattered — a person, a place. In the research this reliably restores a sense of connection and meaning, and the connection it surfaces can prompt reaching out to strengthen real present-day bonds. Used as a bridge back to people, rather than a substitute for them, is where the benefit concentrates."
+    },
+    {
+      "label": "The trap",
+      "title": "When the past becomes a comparison you can't win",
+      "body": "Memory smooths out the dull and difficult parts, so the remembered past can look better than the lived present almost by construction. When that hardens into a belief that things were simply better before, the same editing quietly fuels chronic dissatisfaction — the past becomes a comparison the present can never win, and looking back turns into a place to hide."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "There is a difference between visiting a memory and moving into it.",
+      "source": "On reflective vs avoidant nostalgia"
+    },
+    {
+      "text": "The better question is not whether nostalgia is good or bad, but which kind you are doing.",
+      "source": "On the bittersweet edge"
+    }
+  ],
   "faqs": [
     {
       "question": "Isn't nostalgia just escapism or living in the past?",

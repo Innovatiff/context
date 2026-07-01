@@ -40,6 +40,35 @@
     { "value": "Robust", "label": "Effect replicates across domains and resists simple warnings", "source": "Roese & Vohs review" },
     { "value": "Process > outcome", "label": "Fairer standard: judge the decision by what was known, not the result", "source": "Decision research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Once you know an outcome, your sense of how predictable it was beforehand quietly inflates — the 'I knew it all along' effect.",
+    "The bias operates on memory itself, so the inflated 'I should have seen it' feels like an accurate recollection.",
+    "Much self-blame comes from judging a past choice by its result rather than by the information you actually had.",
+    "It's robust and resists simple warnings; the working fix is reconstructing what you knew before the outcome was in.",
+    "The fair standard is the quality of the decision given what was known, not the quality of the outcome."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Rewriting your own prediction",
+      "body": "You record what you expect will happen, then learn the real result. Asked later to recall your original prediction, you remember it as much closer to what actually occurred than it was. You don't just think the outcome was predictable — you quietly rewrite your past judgment to match it, usually without noticing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A reasonable choice that turned out badly",
+      "body": "Looking back at a decision that went wrong, it can feel as though the bad result was obvious and you should have seen it coming. But given only the information available at the time, several futures were genuinely open and the choice was perfectly reasonable. The outcome, once known, makes the fork you faced look far simpler than it was."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A sound choice can have a bad result and a reckless choice a lucky one. Judge the process, not just the ending.",
+      "source": "On judging past decisions fairly"
+    },
+    {
+      "text": "Punishing your past self for an outcome they could not have known is grading a reasonable choice against information it never had."
+    }
+  ],
   "faqs": [
     {
       "question": "What is hindsight bias?",

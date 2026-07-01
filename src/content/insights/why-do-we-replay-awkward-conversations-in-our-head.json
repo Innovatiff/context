@@ -34,6 +34,36 @@
     "There is no single tidy statistic for how often people replay awkward moments, and any precise figure should be treated with caution — this is better understood through the consistent direction of the research than through one number. What the studies converge on is that post-event processing is common, that it is markedly stronger in people prone to social anxiety, and that it skews negative and self-focused.",
     "The clearest quantitative thread comes from spotlight-effect studies, where people reliably overestimated how much observers noticed and recalled about them, sometimes by a wide margin. The practical takeaway is directional rather than exact: the conversation you are still turning over almost certainly registered far less, and faded far faster, for everyone else involved."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Replaying social mishaps is common and has a name: post-event processing — not a sign something is broken.",
+    "The replay is a distortion: harsher, more self-focused, and more vivid than the moment anyone else experienced.",
+    "The spotlight effect means others noticed and remember far less than you fear.",
+    "The loop feels like problem-solving but usually circles the same painful frames without resolving anything.",
+    "Suppressing the thought backfires; shifting attention outward and naming the habit tend to weaken it."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The thing you said, on a loop",
+      "body": "Hours after a party you're still replaying one clumsy sentence, wincing each time. You have privileged access to your own embarrassment and every word you wish you'd chosen differently, so your internal account is unusually detailed — and unusually harsh. The other person had none of that interior access, was mostly attending to themselves, and, per the spotlight effect, almost certainly noticed and remembers far less than you fear."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Rehearsing the perfect version",
+      "body": "You mentally script the flawless thing you should have said — sharp, composed, exactly right. It feels productive, but rehearsing the ideal version tends to raise the standard you judge yourself against and sharpen the contrast with what you actually did, which extends the rumination rather than ending it. Naming it as post-event processing, reliably harsher than reality, does more than perfecting a version of a moment that has already passed."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The version you loop is more critical, more self-focused, and more vivid than the version anyone else experienced.",
+      "source": "On post-event processing"
+    },
+    {
+      "text": "The moment you are replaying loomed much larger for you than for anyone else in the room.",
+      "source": "On the spotlight effect"
+    }
+  ],
   "faqs": [
     {
       "question": "Is replaying awkward conversations normal?",

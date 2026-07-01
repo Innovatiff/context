@@ -39,6 +39,36 @@
     { "value": "Counterfactuals", "label": "'What if' thinking that reliably amplifies post-decision regret", "source": "Roese, counterfactual-thinking research" },
     { "value": "Reversible = more doubt", "label": "Open choices were second-guessed more than final ones", "source": "Gilbert & Ebert, 2002" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Second-guessing is a normal feature of how the mind evaluates choices, not a sign you decided badly.",
+    "Counterfactual 'what if' thinking pits your real, flawed choice against an imagined, flawless one.",
+    "Maximizers second-guess more and report less satisfaction — even when their outcomes are just as good.",
+    "Leaving a decision reversible keeps the alternatives alive and invites more doubt; closing it tends to quiet it.",
+    "It eases more from limiting reconsideration than from re-examining the decision until doubt disappears."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The rigged comparison",
+      "body": "After accepting a job, you keep weighing it against the offer you turned down — but that alternative stays frozen at its most appealing, never tested against reality, while the downsides of the job you took are vivid and yours to live with. The comparison is rigged: a real, flawed choice against an imagined, flawless one. That tilt is what makes the path not taken look better than it would actually have been."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The door left open just in case",
+      "body": "You keep a decision provisional 'to be safe,' telling yourself you can still change your mind. But an open door keeps the alternatives psychologically alive, and provisional choices get second-guessed more than committed ones. Gilbert and Ebert's work found reversible choices left people less satisfied and more focused on the alternatives — so the flexibility meant to reassure you is often what keeps the doubt running."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The mind treats the discomfort as a signal that something is unresolved, when often the only thing unresolved is the discomfort itself.",
+      "source": "On post-decision doubt"
+    },
+    {
+      "text": "A good decision is judged by what you knew at the time, not by how it happened to turn out.",
+      "source": "On judging your own choices fairly"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I keep second-guessing decisions I've already made?",

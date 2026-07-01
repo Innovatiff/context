@@ -34,6 +34,35 @@
     "There is no single tidy statistic for how often people avoid decisions, and any precise figure should be treated with caution — much of this work is experimental rather than population-level. What the evidence does establish is a direction, not a percentage: across many studies, adding options and raising stakes makes people more likely to defer, default, or decline to choose.",
     "The clearest pattern worth holding onto is about regret over time. Research on regret consistently finds that while action-regrets (\"I shouldn't have done that\") can be intense in the short term, inaction-regrets (\"I wish I had\") tend to be the ones that endure across a lifetime. So the feeling that not deciding is the safe option is real in the moment and unreliable in the long run."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Avoiding a decision is usually itself a decision — and a well-studied pattern, not a personal failing.",
+    "The main drivers are choice overload, anticipated regret, and a pull toward the status quo and default.",
+    "Doing nothing feels safer because a mistake you actively make stings more than a chance you let slip.",
+    "Over a lifetime, the regrets that linger most are usually the things people never did.",
+    "Separating reversible from irreversible choices, narrowing the options, and setting a deadline all help."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The job move left open for years",
+      "body": "A big, identity-shaping choice — whether to change careers — is exactly the kind where the fear of choosing wrong runs strongest, so it's the one left unresolved the longest. Staying put feels like the safe, neutral option, but it's an active selection of the current path with its own quietly accumulating costs. Naming the default as a choice puts inaction on the same footing as action."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'I just need to look into it more'",
+      "body": "Gathering more information feels like progress toward deciding, but past a point it mostly adds options and second-guessing. Waiting to feel certain rarely works either, because that confidence tends to follow action rather than precede it — so 'not ready yet' can quietly become a way of choosing the default indefinitely."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Choosing not to choose has no obvious moment of failure attached to it — so the running tab of inaction never lands the way a single bad call does.",
+      "source": "On why deferring feels safe"
+    },
+    {
+      "text": "The regrets that linger most are usually the things people never did, not the things they tried and got wrong."
+    }
+  ],
   "realNumbers": [
     { "value": "Reversible vs not", "label": "The distinction that most lowers the stakes of deciding", "source": "Decision-avoidance research" },
     { "value": "More options", "label": "Tends to increase deferral and 'choosing nothing'", "source": "Choice-overload research" },

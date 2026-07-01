@@ -34,6 +34,39 @@
     "Be cautious with the headline numbers here, because two of the three mechanisms are contested. Ego depletion — the basis of decision fatigue — has struggled in large replication efforts, so treat strong 'you make worse decisions after X choices' claims as unsettled. The lived experience that choices feel harder when you're taxed is real; the exact explanation is not pinned down.",
     "Choice overload is similarly conditional: Iyengar and Lepper's jam study found a large drop in purchasing with more options, but Scheibehenne and colleagues' 2010 meta-analysis put the average effect across studies near zero. The honest summary is that more options can cause paralysis in some situations and not others — there's no reliable universal figure. Maximizing, by contrast, shows a more consistent association with decision difficulty and lower satisfaction at the individual level."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Small choices getting hard usually reflects your situation — being taxed, over-optioned, or chasing the best — not a character flaw.",
+    "Decision fatigue rests on ego depletion, which has struggled to replicate, so treat strong claims about it with caution.",
+    "Choice overload is real in some contexts but averages near zero across studies — not a universal law.",
+    "Maximizing is the most individually predictive driver: seeking 'the best' links to more difficulty and regret.",
+    "Satisficing — setting a 'good enough' bar and taking the first option that clears it — targets the driver you can most control."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Frozen at the takeaway menu after a long day",
+      "body": [
+        "By evening you've made hundreds of small calls, and now a menu of near-identical options feels strangely paralysing. The stakes are trivial, which makes the struggle feel irrational — but being taxed and facing a wall of similar options has an external explanation that isn't about willpower.",
+        "The everyday pattern (choices feeling harder when you're depleted or over-optioned) is real even though the formal 'depletable willpower' mechanism is contested. Setting a 'good enough' bar and taking the first option that clears it removes most of the friction."
+      ]
+    },
+    {
+      "label": "Illustrative",
+      "title": "The maximizer picking a movie",
+      "body": "Someone scrolls for forty minutes trying to find the single best thing to watch, checking reviews and ratings for a two-hour, low-stakes choice. Wanting the best sounds like high standards, so the agonising feels like care — but it's the maximizing pattern the research links to more difficulty and lower satisfaction, because 'the best' is exhausting to verify."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The lived experience that choices feel harder when you're taxed is real; the exact explanation is not pinned down.",
+      "source": "On the replication debate"
+    },
+    {
+      "text": "The very trait that makes the decision hard can feel like a virtue.",
+      "source": "On maximizing"
+    }
+  ],
   "realNumbers": [
     { "value": "Contested", "label": "Replication status of ego depletion (basis of decision fatigue)", "source": "Multi-lab replication efforts" },
     { "value": "≈0 on average", "label": "Pooled choice-overload effect across studies", "source": "Scheibehenne et al., 2010 meta-analysis" },

@@ -34,6 +34,36 @@
     "It's worth being precise about what this evidence claims. These findings are about direction and mechanism, not magnitude: cognitive dissonance (Festinger) explains why we rationalize after deciding, choice-supportive bias (Mather and Johnson) describes the self-flattering slant in what we remember, and reconstructive-memory research (Loftus) explains why memory is editable enough for this to happen. None of them put a clean number on how much any given memory has been rewritten, and this shouldn't be read as one.",
     "The honest summary is a reliable tendency rather than a fixed quantity. Most people, most of the time, remember their chosen paths a little more kindly and their rejected ones a little more harshly than the original facts warranted — and the size of that slant varies by person and situation. It eases regret, which is a genuine benefit, while quietly costing accuracy about our own history, which is the part worth keeping in mind."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "After we choose, memory tends to quietly upgrade the option we picked and downgrade the one we passed up.",
+    "The engine is cognitive dissonance (Festinger); the pattern in memory is choice-supportive bias (Mather and Johnson).",
+    "It works because memory is reconstructive, not a recording (Loftus) — editable, with no 'before' copy left to check against.",
+    "It has an upside — it eases regret — but the cost is distorted self-knowledge about your own decisions.",
+    "You can't switch the bias off; the realistic move is skepticism about confident hindsight, and writing your reasoning down at the time."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'obviously right' choice that was a toss-up",
+      "body": "You picked one job over another after agonizing — it was genuinely close at the time. A year later you remember it as clear-cut: your job had all the upside, the one you turned down had all the red flags. That confident memory feels like solid recollection, but it may be choice-supportive bias tidying a close call into a clean story so the decision looks wiser than it was."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The written note that catches the rewrite",
+      "body": "Before deciding, you jot down what you expect and the trade-offs on both sides. Months later, when memory has quietly rearranged the story in your favor, that note is a 'before' copy the bias couldn't revise. Comparing it to your current recollection is often the only way to see how much the past has been edited to justify the choice."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You don't experience a revision; you experience a recollection — one that conveniently lines up with the choice you made. The seam doesn't show.",
+      "source": "On why the rewrite feels like memory"
+    },
+    {
+      "text": "The confidence you feel about a past choice is weak evidence that it was actually the better one.",
+      "source": "On reading your own hindsight"
+    }
+  ],
   "faqs": [
     {
       "question": "Do we really rewrite our memories to justify our choices?",

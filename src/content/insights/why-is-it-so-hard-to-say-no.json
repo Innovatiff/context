@@ -34,6 +34,35 @@
     "It's worth being clear about what this evidence does and doesn't claim. The core findings here are about direction and mechanism, not precise percentages: belonging appears to be a fundamental motivation (Baumeister and Leary, 1995), self-esteem tracks perceived social acceptance (Leary's sociometer theory), and we tend to overestimate the negative reactions a no will provoke. None of these put a clean number on how hard saying no 'should' feel, and they shouldn't be read as one.",
     "The honest summary is a well-supported pattern rather than a formula. Most people find no harder than the actual social stakes warrant, the difficulty is heavily driven by anticipated disapproval more than real consequences, and the gap between feared and actual reactions is exactly the space where the skill can be learned. That is a tendency, not a verdict on anyone who struggles with it."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Saying no triggers old wiring: a fundamental need to belong makes disapproval register as something close to a real threat.",
+    "The discomfort is front-loaded — a yes ends the awkward moment now and pushes the cost into the less-vivid future.",
+    "We tend to overestimate the negative fallout; people generally handle a polite decline better, and remember it less, than we fear.",
+    "Separating declining the request from rejecting the person — a brief, warm no — tends to preserve the bond people fear losing.",
+    "No is a learnable skill, not a fixed trait; confidence follows the practice rather than preceding it."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The catastrophe that's mostly in the bracing",
+      "body": "In the moment, a no feels like it will land far harder than it usually does. The other person's flicker of disappointment is immediate and concrete; your own depleted time and energy are abstract and deferred. So the felt math tilts toward yes — even when the honest math tilts the other way, because the feared reaction rarely arrives."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Testing a small, low-stakes no",
+      "body": "Rather than waiting to feel ready, you try a brief, warm decline on something minor: appreciation, a clear no, no long justification. The feared fallout doesn't materialize, which gives direct evidence that recalibrates the threat and makes the next one easier. The over-explaining you were tempted to add would only have signalled the no was negotiable and invited more pushback."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Yes makes the awkward moment go away now and pushes the cost into the future, where it feels less vivid — so yes becomes the path of least resistance.",
+      "source": "On why saying no is hard"
+    },
+    {
+      "text": "The realistic target is acting on a boundary despite the discomfort, not making the discomfort disappear."
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel guilty saying no even when the request is unreasonable?",

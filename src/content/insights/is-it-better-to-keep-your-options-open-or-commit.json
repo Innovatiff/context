@@ -39,6 +39,34 @@
     { "value": "Predicted wrong", "label": "Most people expect to prefer the reversible option, but don't", "source": "Gilbert & Ebert, 2002" },
     { "value": "Direction, not size", "label": "Lab findings show a robust tendency, not a fixed effect size", "source": "Post-decision rationalisation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For most decisions, committing tends to leave people more satisfied than keeping options open.",
+    "A final choice invites the mind to embrace it; a reversible one keeps the comparison running.",
+    "Keeping options open still makes sense under real uncertainty when useful information is arriving.",
+    "People systematically underestimate the satisfaction cost of reversibility — and most predict the opposite."
+  ],
+  "examples": [
+    {
+      "label": "The study",
+      "title": "The print you can't swap",
+      "body": "In Gilbert and Ebert's experiments, people who chose a photographic print they could not later exchange ended up liking it more than those given the option to swap. The reversible group kept their attention on the alternative and stayed less content. Tellingly, most people predicted the opposite — expecting the flexible option to feel better."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Waiting to feel fully certain",
+      "body": "Someone keeps a reasonable decision open because they are not '100% sure' yet. But the certainty they are waiting for often only arrives after committing, not before — it is the settling-and-rationalising process, interrupted while the door stays open. Treating 'I'm not sure' as a reason to keep hedging can postpone the very confidence being waited for."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The escape hatch itself becomes the problem: knowing you can still change your mind keeps the decision psychologically unfinished, so the relief you expected never fully arrives.",
+      "source": "On why keeping options open feels safer"
+    },
+    {
+      "text": "People systematically underestimate the satisfaction cost of reversibility — and overestimate how much keeping options open will protect them from regret."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it really better to commit than to keep my options open?",

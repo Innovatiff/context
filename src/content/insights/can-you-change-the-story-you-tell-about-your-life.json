@@ -34,6 +34,39 @@
     "This is a domain where honest numbers are scarce, and it is worth saying so plainly. Narrative-identity research is largely qualitative and correlational: it codes the stories people tell and relates them to wellbeing measures, rather than producing clean effect sizes you can quote. The reliable claim is directional — redemptive framing tends to accompany higher wellbeing, contamination framing lower — not a precise percentage.",
     "Expressive-writing studies, which are more quantitative, generally report small-to-moderate average benefits from writing that builds meaning, with wide variation between people and some null results. Treat the takeaway as \"a real but modest lever, unevenly effective\" rather than a guaranteed method. If a painful chapter feels genuinely stuck — not just unpleasant — that is a reasonable point to involve a qualified therapist rather than to keep re-editing it alone."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "You can't change what happened, but most lives support more than one true story of it.",
+    "Redemption framing (hard leads to growth) tracks with higher wellbeing; contamination framing (good turns bad and stalls) with lower — though cause isn't settled.",
+    "Reframing isn't denial: the wellbeing-linked stories integrate the hard parts rather than editing them out.",
+    "Specificity beats positivity — a credible 'this was hard, and here's what it set in motion' does more than an upbeat ending you don't buy.",
+    "It's a real but modest lever, unevenly effective; genuinely stuck chapters are a reason to involve a qualified therapist."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A job loss, told two true ways",
+      "body": [
+        "One person narrates a redundancy as the moment everything fell apart and never quite recovered — a story that stops at the loss. Another narrates the same event as the thing that forced a change that mattered later.",
+        "For many people both descriptions are literally true; the facts don't require one over the other. Which one you settle into is partly a matter of emphasis, sequencing, and the meaning drawn at the end — not fixed by what happened."
+      ]
+    },
+    {
+      "label": "The mechanism",
+      "title": "Why one telling feels like the only one",
+      "body": "You usually only hear a single version — your own, replayed until it stops sounding like a choice. Memory isn't stored like footage; it's reconstructed each time you recall it, and a chapter told as a failure gets re-encoded, each retelling, as more clearly a failure. That's why an interpretation comes to feel like a fixed record of what simply happened."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The same event can be told either way and both can be accurate.",
+      "source": "On redemption and contamination"
+    },
+    {
+      "text": "Specificity helps more than positivity — a believable account of cause, change, and meaning does more than a happy ending you don't buy.",
+      "source": "On what the studies actually find"
+    }
+  ],
   "faqs": [
     {
       "question": "Isn't reframing just lying to yourself?",

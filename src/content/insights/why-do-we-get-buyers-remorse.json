@@ -39,6 +39,36 @@
     { "value": "Maximizers", "label": "Who tends to feel buyer's remorse more sharply", "source": "Schwartz, paradox of choice" },
     { "value": "Fades to baseline", "label": "What hedonic adaptation does to a purchase's pleasure", "source": "Hedonic adaptation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Buyer's remorse is a normal post-decision process, not proof you chose badly.",
+    "Post-purchase dissonance follows commitment itself — the rejected options keep only their appeal in hindsight.",
+    "Maximizers and over-researchers feel it more sharply, because they're aware of every option they passed over.",
+    "The thrill fades toward baseline (hedonic adaptation) while the cost stays put, so flatness can read as regret.",
+    "Satisficing and resisting the urge to re-shop ease it more than another round of comparison."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The exhaustively researched laptop",
+      "body": "After weeks of comparison spreadsheets, you buy the laptop that scored best — and immediately notice the two rivals you rejected did one thing better each. That nagging isn't evidence you chose wrong; it's the exhaustive research working against you. The more options you examined, the more forgone possibilities there are to tug at you afterward, which is exactly why maximizers tend to feel sharper remorse than satisficers."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The thrill that quietly flattened",
+      "body": "The new phone felt exciting for a week, then simply became the phone. The pleasure drifted back toward baseline while the price on the statement stayed concrete. Nothing went wrong with the purchase — hedonic adaptation returned you to normal, and the flatness afterward can feel like regret even though it's just the novelty wearing off as it always does."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The discomfort is usually the decision settling, not proof of a mistake.",
+      "source": "On post-purchase dissonance"
+    },
+    {
+      "text": "The pleasure was always likely to fade; the cost just stayed put.",
+      "source": "On hedonic adaptation"
+    }
+  ],
   "faqs": [
     {
       "question": "What causes buyer's remorse?",

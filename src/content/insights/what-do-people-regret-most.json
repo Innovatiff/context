@@ -31,6 +31,51 @@
     "It's worth stating the evidence hierarchy plainly. Bronnie Ware's five regrets come from one nurse's qualitative observations — powerful as testimony, but with no sample size, controls, or population data behind them. The academic regret research (Gilovich and Medvec; Roese and Summerville) is built on controlled studies and surveys, and it independently arrives at similar themes, which is why the convergence is meaningful rather than the deathbed framing.",
     "Pillemer's Cornell Legacy Project drew on advice from more than a thousand older Americans — a far larger and more systematic sample than a single caseload — and reached the same broad conclusions: relationships and authenticity over money and status. When an anecdotal account, controlled experiments, and a large structured survey all point the same way, the theme deserves attention even if no single precise statistic does."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The famous 'top five regrets' is one palliative nurse's anecdotal account, not a controlled study.",
+    "Its credibility comes from lining up with stronger academic research, not from the deathbed setting.",
+    "Controlled research finds regrets of inaction — chances not taken — dominate over the long run.",
+    "Regret concentrates in high-opportunity domains: education, career, and romance.",
+    "The recurring theme across anecdote, experiment, and large survey: authenticity and connection over money and status."
+  ],
+  "tables": [
+    {
+      "title": "Bronnie Ware's 'top five regrets of the dying'",
+      "caption": "An anecdotal, qualitative account from one palliative-care nurse's caseload — no sampling or controls. Listed in the order Ware reported. It resonates and lines up with stronger research, but it is testimony, not data.",
+      "columns": ["Rank", "Regret Ware reported"],
+      "rows": [
+        ["1", "Wishing they'd lived true to themselves rather than to others' expectations"],
+        ["2", "Wishing they hadn't worked so hard"],
+        ["3", "Wishing they'd expressed their feelings"],
+        ["4", "Wishing they'd stayed in touch with friends"],
+        ["5", "Wishing they'd let themselves be happier"]
+      ],
+      "source": "Ware, B. (2011). The Top Five Regrets of the Dying — anecdotal, not a controlled study."
+    }
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The friendship that quietly faded",
+      "body": "You rarely notice the exact day you drifted from a friend or started living someone else's plan — both are slow, invisible processes. The losses accumulate quietly, which is precisely why regrets about connection and authenticity tend to surface all at once when people look back over a whole life, rather than announcing themselves along the way."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Torn between trying and playing it safe",
+      "body": "The research on inaction-regret implies that when you're genuinely torn and the downside is survivable, the version of you looking back will more often wish you had tried. A small, reversible step toward a long-deferred goal tends to age better than continued postponement — not because every bold bet pays off, but because the untaken chance leaves an open-ended 'what if.'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The regrets we fear most day to day are often not the ones that will matter most at the end.",
+      "source": "On short-term vs long-term regret"
+    },
+    {
+      "text": "When an anecdotal account, controlled experiments, and a large structured survey all point the same way, the theme deserves attention.",
+      "source": "On why the convergence matters"
+    }
+  ],
   "faqs": [
     {
       "question": "Are the 'top five regrets of the dying' a real scientific study?",

@@ -39,6 +39,36 @@
     { "value": "~1 in 3", "label": "Graduates who say they'd pick a different major (approximate, self-reported)", "source": "Graduate survey data (varies by survey)" },
     { "value": "Opportunity-driven", "label": "Why high-opportunity domains like education generate the most regret", "source": "Roese & Summerville, 2005" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Education is consistently one of the highest-regret life domains — Roese and Summerville (2005) ranked it #1.",
+    "We regret most where we perceive the most opportunity to have acted differently, and education feels wide open to second chances.",
+    "Around a third of graduates say they'd pick a different major — approximate and self-reported, not a precise measure.",
+    "Regret compares your real life to an idealised counterfactual, which reliably inflates how much you feel.",
+    "Regretting a degree is common and normal — not reliable evidence the original choice was a mistake."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The idealised alternative",
+      "body": "You can vividly picture the other major, the other school, the career you might have had — and the imagined version comes free of the frustrations, dead ends, and trade-offs the real path involved. Comparing a messy, complicated outcome to a clean, flattering counterfactual reliably makes the road taken look worse than it was. Filling in the alternative with its own likely difficulties tends to shrink the felt gap."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Three different regrets in one headline",
+      "body": "A survey headline that 'most graduates regret their degree' usually collapses distinct questions: some people regret the field or major, some regret the institution or the debt rather than the education itself, and a smaller group regret going at all. These have different answers — and treating the noisy 'about a third' figure as proof you personally chose wrong reads far more into a self-reported number than it can bear."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The domains we regret most are the ones we believe are still open. That belief is a resource — treat the regret as information about what you want next, not a verdict on a closed past.",
+      "source": "On Roese and Summerville's implication"
+    },
+    {
+      "text": "Regretting your degree is common and normal; it is not reliable evidence that the decision was a mistake.",
+      "source": "On reading degree regret"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to regret my degree or major?",

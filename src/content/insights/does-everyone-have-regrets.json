@@ -34,6 +34,36 @@
     "The headline finding is qualitative more than numerical: across surveys and reviews, reporting at least one significant regret is close to universal, and regret repeatedly ranks among the most commonly named emotions. Exact percentages vary by how the question is asked and should be treated as approximate rather than precise — the robust part is the direction, which points firmly toward 'nearly everyone.'",
     "Where the research is more specific is in the shape of regret rather than its frequency. Roese and Summerville found regrets concentrate in a handful of high-opportunity life domains — education, career, romance, and family recur most often — and Pink's large survey project found the same small set of categories appearing again and again. So the honest summary is: almost everyone has regrets, and most people's regrets look surprisingly alike."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Essentially yes — nearly everyone reports at least one significant regret, and regret ranks among the most common human emotions.",
+    "The confident 'no regrets' stance is rare, and is often a coping posture rather than a genuine absence of regret.",
+    "Regrets cluster in high-opportunity domains — education, career, romance, and family recur most often (Roese and Summerville; Pink).",
+    "Having regrets isn't a sign of a wasted life; the research frames regret as a signal about your values.",
+    "The constructive use is to read the signal and redirect — not to deny it or replay the same moment, which tends to deepen distress."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The friend who says 'no regrets'",
+      "body": "Someone states the 'no regrets' line with real conviction, and it can make you feel like the odd one out for carrying things you wish had gone differently. But you hear the slogan far more often than the honest inventory — and the research suggests that, asked carefully, most people can still name something they'd change. The stance is usually a way of having made peace with the past, not proof of its absence."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reading a regret as a signal, not a verdict",
+      "body": "A lingering regret about a path not taken in your career keeps resurfacing. Rather than treating it as evidence of a misspent life, the research points to using it as information: it's pointing at something you genuinely value. The useful move is to let it clarify what matters and inform future choices, then redirect — not to relitigate the same moment indefinitely."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Almost everyone has regrets, and most people's regrets look surprisingly alike.",
+      "source": "On how regrets cluster"
+    },
+    {
+      "text": "What seems to matter most is not whether you have regrets, but what you do with them.",
+      "source": "On regret as a signal about your values"
+    }
+  ],
   "faqs": [
     {
       "question": "Does literally everyone have regrets?",

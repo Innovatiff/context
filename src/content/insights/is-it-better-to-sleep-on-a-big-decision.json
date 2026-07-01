@@ -40,6 +40,34 @@
     { "value": "Cools emotion", "label": "Main reason a pause helps a heated decision", "source": "Decision-and-emotion research" },
     { "value": "Did not replicate", "label": "Claim that distraction beats deliberation for complex choices", "source": "Dijksterhuis unconscious thought theory" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A pause or a night's sleep can genuinely help — by cooling emotion and letting the mind keep working.",
+    "The bolder 'let your unconscious decide' claim has largely failed to replicate and shouldn't be leaned on.",
+    "Incubation works on a problem you've actually engaged with, not one you're avoiding.",
+    "Sleep supports memory consolidation and emotional regulation, improving the conditions for judgment."
+  ],
+  "examples": [
+    {
+      "label": "The right way",
+      "title": "Deliberate first, then sleep",
+      "body": "The strongest combination is to do the real thinking — lay out the options, gather information, sit with the tradeoffs — and then step away and sleep before committing. Incubation works on a problem you've genuinely engaged with; it does little for one you never thought about. The pause is for cooling and reframing, not switching your brain off."
+    },
+    {
+      "label": "The trap",
+      "title": "When 'sleeping on it' becomes procrastination",
+      "body": "Using the pause to avoid the decision entirely doesn't help. Indefinitely deferring a choice you never sat down to think through tends to produce procrastination and stress rather than clarity, and the delay stops paying off. The morning clarity people credit to a clever unconscious is usually just a cooler, rested version of their own conscious judgment."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Sleep improves the conditions for judgment; it does not make the decision for you.",
+      "source": "On what 'sleep on it' actually does"
+    },
+    {
+      "text": "Treat 'sleep on it because your unconscious decides better' as an overclaim, and 'sleep on it because emotion settles and the mind keeps working' as the part actually backed by evidence."
+    }
+  ],
   "faqs": [
     {
       "question": "So does sleeping on a decision actually help?",

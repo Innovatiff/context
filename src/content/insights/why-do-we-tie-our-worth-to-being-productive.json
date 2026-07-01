@@ -34,6 +34,41 @@
     "This is a cultural and psychological pattern rather than a single measurable quantity, so it's better described than counted, and precise figures here should be treated with caution. The research converges on a direction rather than a number: Thompson's 'workism' describes work becoming a primary source of identity (notably among the college-educated), Crocker's studies link contingent, achievement-based self-worth to greater stress and instability, and Weber's analysis explains why busyness carries a moral charge in the first place.",
     "The practical upshot is that 'productivity equals worth' is learned and reinforced from many directions at once, which is why it feels natural and is hard to shake. The honest, evidence-aligned summary is that staking self-esteem on output is a fragile foundation — not that productivity is bad, but that letting it be the measure of your value tends to come with stress and brittleness that a broader, less contingent basis for worth avoids."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Tying worth to productivity is learned and culturally reinforced, not innate.",
+    "Basing self-esteem on output makes it contingent — and, by the research, more fragile and stressful.",
+    "Guilt at rest is the residue of a moral framing of busyness, not accurate information about your value.",
+    "Being more productive doesn't fix it: it just raises the bar and keeps esteem hostage to performance.",
+    "The durable move is broadening your bases of worth — relationships, values, things done for their own sake."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The off day that feels like a verdict",
+      "body": "When self-worth is staked on output, an ordinary unproductive stretch stops reading as a normal off day and starts reading as evidence about your value as a person. That's the contingency Crocker's research describes: because esteem is pinned to the domain, a setback in it lands as a verdict on the self rather than a passing dip."
+    },
+    {
+      "label": "The trap",
+      "title": "Guilt on a day off",
+      "body": "You take a genuine day of rest and feel a low, nagging guilt — as if you're failing someone, though no one is actually owed anything. That feeling isn't a real obligation surfacing. It's the residue of a moral framing of busyness, absorbed from school grades, performance reviews, and 'what do you do?', that treats doing nothing as faintly shameful."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Resting only to recharge for more work",
+      "body": "Someone tries to fix the guilt by 'optimising' rest — scheduling it, tracking it, justifying it as fuel for the next sprint. It feels productive, but it keeps the same frame intact: value is still a function of future output. The underlying contingency that makes self-esteem brittle is untouched, because rest and worth were never allowed to stand on their own."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The point isn't to stop being productive; it's to stop letting output be the verdict on your value.",
+      "source": "On de-contingent-ing self-worth"
+    },
+    {
+      "text": "The fragility is in the contingency, not the quantity.",
+      "source": "On why more output doesn't help"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel guilty when I'm not being productive?",

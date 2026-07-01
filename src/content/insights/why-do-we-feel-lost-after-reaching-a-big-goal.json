@@ -39,6 +39,41 @@
     { "value": "Disengage + reengage", "label": "The adjustment pattern linked to wellbeing after a finished or blocked goal", "source": "Wrosch et al., goal-adjustment research" },
     { "value": "Returns to baseline", "label": "Typical course of mood after a major positive event", "source": "Hedonic adaptation research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling lost after a big achievement is a normal, well-recognized response — not a sign something is wrong.",
+    "The goal was doing two jobs: organizing your days and organizing your sense of who you are; attainment removes both at once.",
+    "The 'arrival fallacy' and hedonic adaptation explain why the happiness fades faster than you expected.",
+    "The healthy path is disengaging from the finished goal and reengaging with a new, meaningful one — even a small one.",
+    "The void is a cue to choose a next direction, not evidence the achievement was hollow."
+  ],
+  "examples": [
+    {
+      "label": "The pattern",
+      "title": "The morning after the finish line",
+      "body": "Athletes after the Olympics, graduates after a long degree, people after a hard-won promotion — the same deflation shows up. You spent the whole pursuit picturing the victory and none of it picturing the ordinary days that follow, so the emptiness arrives unannounced and gets read as personal failure rather than a predictable transition."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The scaffolding you didn't notice",
+      "body": "While you were chasing it, the goal quietly decided what you did each morning and how you described yourself. Reaching it removes that scaffolding, and the disorientation seems to come from nowhere — when in fact it came from losing the very thing that had been giving your days their shape. Deliberately rebuilding routine, not just purpose, is part of what eases it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The bigger goal that just moves the feeling",
+      "body": "Setting an even larger goal to outrun the flatness often backfires: if the slump came partly from the arrival fallacy, a bigger goal relocates the same expectation further down the road, and many people report the empty feeling simply migrating to the next finish line. A meaningful next direction matters more than a bigger one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The void is a normal signal that it's time to choose a new direction, not evidence the achievement was hollow or that you are broken.",
+      "source": "On the post-achievement slump"
+    },
+    {
+      "text": "You spent the whole pursuit picturing the finish line, not the morning after it.",
+      "source": "On why it feels different"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel empty after achieving something I worked hard for?",

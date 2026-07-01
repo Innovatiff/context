@@ -40,6 +40,36 @@
     { "value": "4 types", "label": "Core regret categories (foundation, boldness, moral, connection)", "source": "Pink, The Power of Regret 2022" },
     { "value": "Boldness", "label": "Regret type most tied to the career move not taken", "source": "Pink, American Regret Project 2022" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Career is one of the highest-regret areas of life because it is full of opportunity.",
+    "The regrets that linger are more often chances not taken than actions taken.",
+    "Roese and Summerville found regret concentrates where people perceive the most opportunity — career topped the list.",
+    "Pink's four regret types are foundation, boldness, moral, and connection; career shows up strongly in boldness.",
+    "Treat a career regret as information about what you value, not a verdict — and lower the bar for reversible bold moves."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The move you never made",
+      "body": "The role you didn't apply for, the venture left unstarted, the pay you didn't negotiate. A risk you took and that failed has a known outcome you can make peace with; a risk you never took leaves an open-ended 'what if' the imagination can keep inflating. That open-endedness is a big part of why the chances not taken tend to outlast the ones that went wrong."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Staying too long in the wrong role",
+      "body": "One of the most common specific career regrets is having stayed in a job that wasn't working long past the point of leaving. Because work is a domain where you can usually picture a plausible alternative — the earlier exit, the other offer — the sense that it could have gone differently stays vivid, which is exactly what keeps the regret sharp."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Where there is the most room to act, there is the most room to look back and wonder.",
+      "source": "On why career generates so much regret"
+    },
+    {
+      "text": "Treat regret as information rather than as a verdict — a signal about what matters that can still inform present choices.",
+      "source": "On what to do with a regret"
+    }
+  ],
   "faqs": [
     {
       "question": "What do people regret most about their careers?",

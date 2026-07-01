@@ -39,6 +39,35 @@
     { "value": "Inaction", "label": "Type of regret that tends to linger longest over a lifetime", "source": "Gilovich & Medvec, regret research" },
     { "value": "Observer view", "label": "Perspective shift linked to lower rumination and distress", "source": "Kross, self-distancing research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Regret is close to universal — only a small minority of people say they rarely or never feel it.",
+    "Peace tends to come from processing regret, not erasing it: distance, a lesson, and acceptance.",
+    "Self-distancing — viewing the memory as an observer rather than reliving it — lowers rumination and distress.",
+    "The test of healthy reflection is whether the thinking arrives somewhere; if it just circles, it's rumination.",
+    "Suppression and forced 'no regrets' positivity tend to keep regret unprocessed rather than resolve it."
+  ],
+  "examples": [
+    {
+      "label": "The technique",
+      "title": "Fly on the wall, not first person",
+      "body": "Kross's self-distancing work suggests revisiting a painful memory from an observer's vantage point — picturing it as a fly on the wall, or using your own name or 'you' instead of 'I' in self-talk — rather than reliving it through your own eyes. The aim is to analyze the event, not re-experience it, which tends to lower emotional reactivity while still letting you make sense of what happened."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Turning an 'if only' into one decision",
+      "body": "A deep career regret often points to something you actually value; a relationship regret to a connection you want to protect now. Pink's framework treats the regret as data, and Roese's counterfactual research adds the discipline: let the 'if only' name one concrete thing you'd do differently, make a decision about the present, then stop. Naming the lesson closes the loop that pure rumination leaves open."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The work is less about deletion and more about translation — regret faced honestly is a signal worth reading, not just an affliction to be cured.",
+      "source": "On Pink's view of regret"
+    },
+    {
+      "text": "The difference between reflection and rumination is whether the thinking ever arrives somewhere — a lesson, an acceptance, a decision — or just circles."
+    }
+  ],
   "faqs": [
     {
       "question": "Will the regret ever fully go away?",

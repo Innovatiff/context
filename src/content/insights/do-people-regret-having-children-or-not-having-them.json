@@ -40,6 +40,36 @@
     { "value": "More meaning", "label": "What parenthood adds more reliably than daily happiness", "source": "Nelson, Kushlev & Lyubomirsky, 2014" },
     { "value": "Circumstance-dependent", "label": "What shapes the parenting experience most", "source": "Nelson, Kushlev & Lyubomirsky, 2014" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Outright regret is the minority experience on both sides — most parents and most child-free adults report contentment.",
+    "A meaningful minority on each path does report regret; the data does not favour one choice over the other.",
+    "Parenthood tends to add meaning more reliably than day-to-day happiness — the 'parenthood paradox.'",
+    "Whether parents are happier than non-parents depends on circumstances like finances, partnership, and children's ages.",
+    "This is best understood as a values decision, not a data problem the research can solve for you."
+  ],
+  "examples": [
+    {
+      "label": "The distortion",
+      "title": "Why the regret stories feel typical",
+      "body": "Accounts of regret — 'I regret my kids,' 'I regret not having kids' — are striking, shareable, and emotionally vivid, so they surface far more often than the quieter, more common experience of contentment. That visibility makes regret feel more widespread than the surveys suggest it is on either side. Reading these accounts as a forecast for yourself inflates the perceived likelihood of regret well beyond what the data shows."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The meaning-versus-happiness split, in advance",
+      "body": "Someone weighing parenthood often pictures daily joy and is later surprised by how demanding the hardest years are; someone weighing a child-free life often weighs daily freedom and underweights meaning. Because the two measures can diverge, both paths can feel different from what was imagined — which the research treats as a trade-off to expect, not as evidence that either choice was a mistake."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "There is no honest version of this in which one choice clearly wins — the data does not support telling anyone they will or won't regret either path.",
+      "source": "On the limits of the evidence"
+    },
+    {
+      "text": "Parents tend to report more meaning and purpose, but not reliably more moment-to-moment happiness — and sometimes less during the most demanding years.",
+      "source": "On the parenthood paradox"
+    }
+  ],
   "faqs": [
     {
       "question": "Do most parents regret having children?",

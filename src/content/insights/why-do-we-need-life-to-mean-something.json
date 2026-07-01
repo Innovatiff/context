@@ -39,6 +39,41 @@
     { "value": "Coherence + purpose + mattering", "label": "The components researchers commonly use to define meaning in life", "source": "Meaning-in-life research" },
     { "value": "Reaffirm elsewhere", "label": "How people respond when a source of meaning is violated", "source": "Heine, Proulx & Vohs, Meaning Maintenance Model" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The need for life to mean something appears to be a deep, near-universal human drive, not a personal quirk.",
+    "Researchers describe meaning as coherence (life makes sense), purpose (something to move toward), and mattering (your existence counts).",
+    "Three very different methods converge — a Holocaust survivor's account, social-psychology experiments, and survey research — which is what makes the drive look real and shared.",
+    "Comfort and security don't switch the need off; a packed, successful life can still feel hollow.",
+    "It helps to lower the bar from 'the meaning of life' to reachable, plural sources of meaning in your life."
+  ],
+  "examples": [
+    {
+      "label": "The three components",
+      "title": "What 'meaning' actually breaks into",
+      "body": "When people say they need life to mean something, researchers who study it tend to hear three things: coherence (life makes sense and hangs together), purpose (there's a direction to move toward), and mattering (your existence counts for something). The practical implication is to tend to all three rather than wait for a single grand answer."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The quiet 'is this it?' when life is fine",
+      "body": "The need often surfaces as restlessness even when everything is objectively okay — which is easy to misread as being ungrateful or as depression. Meaning is usually invisible until it's missing: when the coherence breaks after a loss, a big change, or a goal that left a void, the need announces itself as a real lack rather than a luxury."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A 'why' that survives hard conditions",
+      "body": "Frankl's account, drawn from surviving the camps, located meaning in how a person responds, in care for others, and in commitment to something larger — not only in good fortune. It's an observational claim, but the broader research echoes it: people who find a reason that holds up under bad circumstances tend to weather them better."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Comfort and security do not switch the need off — people can have both and still feel the absence of meaning.",
+      "source": "On why a good life can still feel hollow"
+    },
+    {
+      "text": "Three very different methods pointing the same way is what makes the drive look near-universal rather than idiosyncratic.",
+      "source": "On the convergence of the evidence"
+    }
+  ],
   "faqs": [
     {
       "question": "Is needing life to mean something normal, or just me overthinking?",

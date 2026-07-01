@@ -34,6 +34,39 @@
     "The evidence here is mostly experimental and about cognitive patterns rather than population percentages, so it is best read as describing how these biases reliably work rather than how many people they affect. Fischhoff's hindsight-bias studies and Baron and Hershey's outcome-bias work both demonstrate the effects robustly across many participants and settings — strong, repeatable tendencies rather than precise prevalence figures.",
     "Similarly, the link between self-compassion and lower self-criticism (Neff and colleagues) is a consistent association rather than a guaranteed effect for everyone. The honest summary is that blaming yourself for the uncontrollable is a common and well-documented cognitive trap, and that the better-supported responses — judging yourself by what you knew then, and self-compassion — reduce the unfair part of self-blame without eliminating genuine accountability."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Self-blame can feel like control — 'if it was my fault, I can prevent it next time' — which is why it's so tempting.",
+    "Hindsight bias makes outcomes look more foreseeable than they were, feeding an unfair 'I should have known.'",
+    "Outcome bias grades a decision by its result rather than the information available at the time.",
+    "Judging yourself by what you knew then, not how it turned out, counteracts both biases.",
+    "Self-compassion is linked to lower self-criticism and, contrary to the worry about complacency, more accountability."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Carrying blame for an outcome you couldn't have foreseen",
+      "body": [
+        "After something goes wrong, the warning signs look obvious in retrospect and the off-ramps you 'missed' look clear — so concluding you should have acted differently feels like a fact rather than an illusion created by knowing the outcome. The version of events you're judging yourself against was never available to you at the time.",
+        "For people prone to depression or high self-criticism this tilt is amplified, and the feeling of being at fault can be intense and convincing even when the facts don't support it. If persistent self-blame or guilt feels overwhelming, support from a qualified professional can help; this page is general information, not a substitute for that."
+      ]
+    },
+    {
+      "label": "Illustrative",
+      "title": "Responsibility without blame",
+      "body": "You can take a clear-eyed look at what was genuinely within your control and learn from it, without assigning yourself fault for the parts that weren't. Distinguishing 'what could I reasonably do differently' from 'this is all my fault' keeps the useful part of reflection and drops the corrosive part."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Taking the blame and taking a fair share of responsibility are not the same thing.",
+      "source": "On self-blame vs accountability"
+    },
+    {
+      "text": "The version of events you're judging yourself against was never available to you at the time.",
+      "source": "On hindsight"
+    }
+  ],
   "realNumbers": [
     { "value": "Restores control", "label": "Why self-blame is so tempting after a bad outcome", "source": "Research on self-blame and control" },
     { "value": "Hindsight bias", "label": "Outcomes look more foreseeable than they were", "source": "Fischhoff, hindsight bias" },

@@ -34,6 +34,35 @@
     "It would be misleading to attach a precise number to how much these pointers reduce regret, and the research does not support one; the findings are about direction and tendency, not guarantees. Schwartz's maximizer–satisficer distinction and Gilovich and Medvec's action–inaction work describe reliable patterns across studies, but effect sizes vary and individual results differ.",
     "What the evidence supports stating plainly is the shape of the patterns. Maximizers, on average, report more regret and less satisfaction than satisficers. Short-term regret skews toward actions taken, while long-term regret skews toward inaction and the things people did not try. And treating reversible choices as reversible — quick, adjustable experiments — tends to lower the deliberation and the regret they generate. These are honest tendencies to lean on, not formulas."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "No method guarantees a regret-free decision — the aim is a process you can stand behind regardless of the outcome.",
+    "Satisficing ('good enough') tends to bring less regret and more satisfaction than exhaustively hunting for the best.",
+    "Sort decisions by reversibility: decide reversible ones quickly as experiments, reserve heavy deliberation for the rare irreversible ones.",
+    "Long-term regret skews toward inaction, so on reversible calls lean slightly toward trying.",
+    "Limiting the option set and stopping comparison after you decide both help protect satisfaction."
+  ],
+  "examples": [
+    {
+      "label": "Maximizer vs satisficer",
+      "title": "The 'best' choice that feels worse",
+      "body": "A maximizer exhaustively searches for the single best option; a satisficer sets criteria for 'good enough,' takes the first option that clearly meets them, and stops. Across studies maximizers tend to report more regret and lower satisfaction even when their objective outcomes are comparable — because optimising everything raises the standard you judge your choice against and keeps the unchosen alternatives vivid in your mind."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A reversible call, treated as an experiment",
+      "body": "For a choice you can undo or adjust, deciding quickly and treating it as an experiment is usually better than heavy deliberation. Because long-term regret tends to favour inaction, a passive 'no' can become a more durable regret than an active attempt that did not pan out. Reserve the slower, careful weighing for the genuinely irreversible decisions — which are less common than they feel."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The goal is not a regret-proof choice but a decision process you can stand behind regardless of how it turns out.",
+      "source": "On what's actually in your control"
+    },
+    {
+      "text": "Good enough, chosen and committed to, tends to outperform a perfect option endlessly pursued."
+    }
+  ],
   "faqs": [
     {
       "question": "Is there a way to make a decision you'll never regret?",

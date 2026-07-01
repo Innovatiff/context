@@ -39,6 +39,41 @@
     { "value": "Most rewarding", "label": "How people commonly rank flow experiences in experience-sampling studies", "source": "Csikszentmihalyi, experience-sampling research" },
     { "value": "Higher wellbeing", "label": "Association between more frequent flow and engagement and life satisfaction", "source": "Research linking flow to engagement and wellbeing" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Flow is complete, energised absorption in a challenging-but-doable activity — you lose track of time and self-consciousness.",
+    "It appears when challenge and skill are both high and matched, with clear goals and immediate feedback.",
+    "Too much challenge brings anxiety; too little brings boredom; flow lives in the band between them.",
+    "More frequent flow is associated with higher engagement and wellbeing — an association, not a guarantee.",
+    "It's a reliable ingredient of a good day, not the whole recipe or a cure for everything."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Anxiety, boredom, and the band between",
+      "body": "Set the challenge far above your skill and the activity tips into anxiety; set it well below and it slides into boredom. Flow sits in the narrow band where the two are aligned and stretched — which is why the same task can be absorbing one week and dull the next as your skill grows and the difficulty no longer keeps pace."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Absorbed at work, not just at play",
+      "body": "Flow isn't limited to hobbies. With a clear goal, immediate feedback, and a stretch of protected, uninterrupted attention, a demanding piece of work can tip into deep absorption — and many people report some of their most satisfying flow experiences on the job, not away from it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why you only notice afterward",
+      "body": "During flow the self-consciousness that would think 'I'm having a great time' switches off, so people often recognise the experience only once it's over. That's part of why flow is underrated next to more obvious, visible pleasures — and why passive scrolling, which is easy to notice enjoying, so often wins the moment despite being far less rewarding."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "One of the most rewarding states people report comes from effort and difficulty, not rest.",
+      "source": "On why flow feels counterintuitive"
+    },
+    {
+      "text": "Flow is one reliable ingredient of a good day, not the whole recipe.",
+      "source": "On the honest caveat"
+    }
+  ],
   "faqs": [
     {
       "question": "What exactly is 'flow'?",

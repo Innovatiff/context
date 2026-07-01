@@ -34,6 +34,36 @@
     "This is an area where honest reporting means resisting false precision: there is no figure for 'how long until closure,' because the research does not describe closure as a uniform endpoint that arrives on a schedule. What the literature offers instead is a shift in framing — away from termination and toward integration and continuing bonds — developed across decades of qualitative and clinical work rather than captured in a single headline statistic.",
     "Two points are reasonably well established. First, the rigid 'five stages' model is not an empirically supported description of how most people grieve, despite its cultural reach. Second, prolonged grief that remains severe and disabling well past the early period is recognised as a distinct, treatable condition rather than a normal stage everyone passes through — which is why persistent, debilitating grief is worth bringing to a professional rather than simply waiting out."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Closure as a single, final moment of resolution is more a cultural story than something the research on loss reliably describes.",
+    "Pauline Boss's work on 'ambiguous loss' argues that demanding closure can impede healing when a loss has no available answer.",
+    "The rigid 'five stages' model has little empirical support; it was originally about dying patients, not the bereaved.",
+    "What tends to help is adaptation, not termination — making meaning of a loss and maintaining a changed, ongoing bond with it.",
+    "Persistent, severe, disabling grief is a distinct, treatable condition — worth bringing to a qualified clinician, not waiting out."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Waiting for an answer that never comes",
+      "body": "After an estrangement with no explanation, someone puts life on hold — refusing to fully grieve, decide, or rebuild until they finally understand why. Because this is an ambiguous loss with no available answer, treating that resolution as a prerequisite can keep them fixed in place for years. The research points the other way: building a tolerance for the open question is what tends to let life continue around it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Carrying a loss rather than closing the door",
+      "body": "Years after losing someone, a person doesn't 'get over' it so much as carry it differently — the acute pain has softened, but the loss remains part of their story, and they still hold an evolving, ongoing connection to the person. Under the continuing-bonds model this is common and often healthy, not a sign of being stuck or of having failed to find closure."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People do not usually 'get over' a major loss so much as carry it differently over time — the acute pain softening while the loss itself remains part of their story.",
+      "source": "On adaptation rather than termination"
+    },
+    {
+      "text": "Because closure is described as something achievable, its absence can feel like a personal failure — as though you are grieving wrong.",
+      "source": "On the second layer of distress"
+    }
+  ],
   "faqs": [
     {
       "question": "What is closure, exactly?",

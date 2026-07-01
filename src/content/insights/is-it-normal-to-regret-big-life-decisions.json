@@ -34,6 +34,34 @@
     "It would be misleading to attach a precise prevalence figure to 'how many people regret big decisions,' and the research does not support a clean one; what it establishes is that regret is among the most commonly reported emotions and concentrates in major life domains like career, relationships, family, and education. The honest summary is 'near-universal,' not a specific percentage.",
     "The more quantified pattern is about timing and distortion. Short-term regret skews toward actions taken, while longer-term regret skews toward inaction and roads not tried. And affective-forecasting research consistently finds that people overestimate how intense and lasting their emotional reactions will be — the impact bias — which is why much regret fades faster than the person feeling it expects. The feeling is real and normal; its predicted severity tends to exceed its lived one."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Regretting big life decisions is near-universal — one of the most commonly reported emotions.",
+    "It concentrates in the domains people value most: career, relationships, family, education.",
+    "The imagined alternative stays perfect and untested, so the comparison is skewed against your real path.",
+    "People overestimate how bad outcomes will feel and adapt better than they expect, so much regret fades."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The road you never tested",
+      "body": "You compare the path you actually walked — with all its visible, ordinary friction — to a path that was never lived and so never had the chance to disappoint you. That asymmetry quietly stacks the comparison against your real decision. The alternative you regret is a simulation, not a record; you only ever know the road you took."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Judging a sound choice by an unlucky result",
+      "body": "Someone made a reasonable decision with the information they had, then hit a bad outcome, and now reads the outcome as proof they chose wrongly. That is outcome bias. A reasonable choice can meet an unlucky result — treating the result as a verdict manufactures regret over a decision that was sound when it was made."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The alternative you regret is a simulation, not a record.",
+      "source": "On counterfactual thinking"
+    },
+    {
+      "text": "The feeling is normal, and it also tends to be more intense and more lasting in anticipation than in reality."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to regret a major life decision?",

@@ -39,6 +39,36 @@
     { "value": "System 1 / System 2", "label": "Fast intuitive vs. slow deliberate modes of thinking", "source": "Kahneman, Thinking, Fast and Slow" },
     { "value": "Compressed expertise", "label": "What reliable expert intuition actually is", "source": "Klein, naturalistic decision making" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Neither gut nor deliberation is reliably better in general — it depends on the decision.",
+    "Trustworthy intuition needs two conditions: a predictable environment plus quick, honest feedback.",
+    "Intuition feels equally certain whether or not those conditions are met, so certainty is a poor guide to accuracy.",
+    "The useful question is not 'am I a gut person?' but 'what kind of decision is this?'",
+    "Where you can, do the analysis and cross-check it against your gut rather than choosing one."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The experienced nurse's fast call",
+      "body": "In a stable domain practised for years with quick, clear feedback, a skilled professional's rapid judgement is compressed expertise, not a guess — they are recognising a situation they have effectively seen many times before. Here the gut is trustworthy, and slowing down to laboriously analyse can make the decision worse rather than better."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A one-off, high-stakes, probability-driven choice",
+      "body": "A rare, expensive, hard-to-reverse decision involving probabilities is exactly where confident intuition tends to mislead — even when it feels just as certain as an expert call. This is the case for thinking it through: laying out the options, the probabilities, and the likely outcomes, ideally then cross-checked against your gut."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The strength of a gut feeling is not a reliable guide to its accuracy — especially outside your areas of genuine expertise.",
+      "source": "On why 'trust your gut' misleads"
+    },
+    {
+      "text": "The mode should track the decision, and the decision type is usually knowable in advance.",
+      "source": "On matching method to situation"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it better to trust my gut or think a decision through?",

@@ -40,6 +40,36 @@
     { "value": "Habit-driven", "label": "Stress shifts behaviour from deliberate choices to habitual ones", "source": "Schwabe & Wolf" },
     { "value": "Contested", "label": "How large and reliable decision-fatigue effects actually are", "source": "Decision-fatigue replication debate" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Acute stress tends to push decisions toward faster, more reward-focused, more habit-driven choices.",
+    "Stress tilts the weighing of upside versus downside rather than simply making everyone bolder or more cautious.",
+    "That fast, instinctive mode suits a genuine emergency but is a poor match for complex, slow-moving choices.",
+    "The stressed feeling of 'clarity' is mostly narrowed attention, not better weighing.",
+    "The reliable moves are structural: delay the decision, lower the decision load, or pre-commit to a plan made while calm."
+  ],
+  "examples": [
+    {
+      "label": "The illusion",
+      "title": "When 'I just knew what to do' was narrowed attention",
+      "body": "Under stress, the surge toward action can register as decisiveness — 'I just knew.' What actually happened is that your range of considered options shrank. The very thing that makes a stressed decision feel sharp is the part that drops the tradeoffs a complex choice needs, which is why people so often experience it later as 'what was I thinking.'"
+    },
+    {
+      "label": "Illustrative",
+      "title": "An 'if-then' plan set while calm",
+      "body": "For genuinely time-pressured situations, deciding in advance is the research-friendly move: setting rules or 'if-then' plans while calm so that the in-the-moment, stressed response is one you already endorsed. It borrows the strengths of fast, automatic action while letting the careful weighing happen ahead of time, when stress isn't tilting the scales."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Big decisions tend to come out better when made calm than when made under pressure.",
+      "source": "On separating decisions from acute stress"
+    },
+    {
+      "text": "Habit under stress feels like instinct — but defaulting to your usual move is only wise when the situation matches your usual situation.",
+      "source": "On why the familiar response can mislead"
+    }
+  ],
   "faqs": [
     {
       "question": "Does stress make people take more risks or fewer?",

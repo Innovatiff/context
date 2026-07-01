@@ -40,6 +40,36 @@
     { "value": "Most lapse", "label": "New Year's resolutions abandoned within weeks to months (approx.)", "source": "Resolution research" },
     { "value": "Systems > willpower", "label": "What the evidence says actually sustains change", "source": "Habit / behaviour-change research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Sustained change after a wake-up call is the exception, not the rule — even after serious health scares.",
+    "A jolt delivers a burst of motivation, and motivation fades; what lasts is structure, not feeling.",
+    "The dramatic-transformation stories are survivorship: the far larger number who slip back tell no story.",
+    "Change endures when the environment changes — supportive routines and accountability, not willpower alone.",
+    "Insight is not the finish line; the work that decides whether it sticks happens after the realisation."
+  ],
+  "examples": [
+    {
+      "label": "The pattern",
+      "title": "The scare that fades",
+      "body": "A frightening health event moves someone powerfully in the moment — the resolve feels total, and 'this time is different.' But that intensity is the part that reliably drains away, and studies of patients after serious cardiac events find a substantial share do not maintain the recommended changes long-term. The problem was rarely a lack of sincerity; it was that nothing in the surroundings changed to carry the new behaviour once the adrenaline was gone."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The resolution that lasts",
+      "body": "Where a wake-up call does catalyse durable change, it usually looks unglamorous: the jolt is paired with a specific routine, a changed environment that makes the new behaviour the easy default, and some form of ongoing support or check-in. The starting gun mattered, but a system was waiting to take over. That scaffolding — not the strength of the original feeling — is what the outcome actually rests on."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A wake-up call delivers a burst of motivation, and motivation fades. What predicts whether change sticks is much less glamorous: a changed environment.",
+      "source": "On why jolts rarely last"
+    },
+    {
+      "text": "Intensity is not durability. The feeling that 'this time is different' is itself a normal part of the cycle — including the cycles that do not last.",
+      "source": "On mistaking resolve for permanence"
+    }
+  ],
   "faqs": [
     {
       "question": "Don't big health scares make people change for good?",

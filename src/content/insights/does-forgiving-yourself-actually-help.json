@@ -39,6 +39,35 @@
     { "value": "More", "label": "Motivation to improve after a self-compassionate response to failure", "source": "Breines & Chen (2012)" },
     { "value": "No benefit", "label": "Reliable behavior improvement found from harsh self-criticism", "source": "Research on self-criticism and rumination" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Self-forgiveness is associated with lower anxiety and depression and better recovery from setbacks.",
+    "Contrary to the common fear, a self-compassionate response to failure tends to raise motivation to improve — not lower it.",
+    "Self-forgiveness keeps the accountability: it changes the tone toward the mistake, not the facts of it.",
+    "Harsh self-criticism and rumination feel like accountability but do not reliably improve behavior.",
+    "Self-compassion is not the same as self-esteem — it applies precisely when you fail, rather than depending on success."
+  ],
+  "examples": [
+    {
+      "label": "The double standard",
+      "title": "The friend you'd never speak to that way",
+      "body": "Most people would never talk to a struggling friend the way they talk to themselves after a mistake, yet the inner voice gets a pass it would never extend outward. Neff's practical move is to ask what you would say to someone you cared about who did the same thing — then offer that to yourself. It pairs honest acknowledgment of the mistake with a fair, non-contemptuous tone, which is the combination the studies link to better outcomes."
+    },
+    {
+      "label": "Illustrative",
+      "title": "'It mattered, I'm responsible, and I can still do better'",
+      "body": "Someone who let a friend down can spiral into 'I'm a bad person' — a verdict about the whole self that is far harder to move than a judgment about one choice. Self-forgiveness in the research is not 'it didn't matter'; it holds both accountability for the action and basic regard for the self. Where the wrong involved another person, making genuine amends tends to support that self-forgiveness rather than replace it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can only fix what you are willing to look at — and self-compassion is what makes a mistake safe enough to look at squarely.",
+      "source": "On why self-forgiveness increases responsibility"
+    },
+    {
+      "text": "Self-punishment feels like accountability, but in the data it more often functions as a brake on recovery than as an engine of change."
+    }
+  ],
   "faqs": [
     {
       "question": "Won't forgiving myself make me complacent?",

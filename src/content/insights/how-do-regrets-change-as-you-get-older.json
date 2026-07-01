@@ -34,6 +34,35 @@
     "The strongest finding here is a direction rather than a precise figure: studies of action versus inaction regret consistently find that action regrets dominate in the short term while inaction regrets dominate over the long run. Any exact split should be treated as approximate and study-dependent — the robust part is the crossover over time, not a specific percentage.",
     "Similarly, the claim that regret softens with age is a general tendency supported by research on improving emotion regulation across adulthood, not a universal rule, and it varies considerably between individuals. The honest summary is that the content of regret shifts with life stage, its long-run weight tilts toward chances not taken, and for many — though not all — people its emotional sting eases over time."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Short-term regret leans toward actions taken; over a lifetime, regrets of inaction tend to dominate and linger.",
+    "The domains shift with life stage: education and career earlier, family, health, and authenticity later.",
+    "For many people regret softens rather than sharpens with age, as emotion regulation improves — a general tendency, not a rule.",
+    "Time alone is not reliable: people who make peace with regret usually engage with it rather than outlast it.",
+    "Persistent, distressing regret that interferes with daily life is worth professional support."
+  ],
+  "examples": [
+    {
+      "label": "The crossover",
+      "title": "'I wish I hadn't' becomes 'I wish I had'",
+      "body": "In the moment, an action you took feels worse than a chance you skipped — it's concrete, visible, and clearly yours. But the road not taken stays imaginable, so you can keep picturing the version where you took the chance. That open-endedness is part of why, over the long run, inaction regrets come to dominate while a concrete action, once its consequences play out, can eventually be closed and set down."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A reversible chance, weighed for the long run",
+      "body": "Faced with a reversible opportunity, the research implies the action you skip is more likely to become a lasting regret than the action you take that goes imperfectly. That's a reason to give real weight to opportunities when the stakes can be undone — not a blanket endorsement of recklessness, but a counterweight to playing it maximally safe, which can quietly accumulate the kind of regret that lasts."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Over the long run, 'I wish I had' tends to outlast 'I wish I hadn't.'",
+      "source": "On action versus inaction regret"
+    },
+    {
+      "text": "The expectation that older age is heavier with regret is not well supported; for many people regret becomes more manageable, not less."
+    }
+  ],
   "faqs": [
     {
       "question": "Do regrets get worse or better with age?",

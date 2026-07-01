@@ -39,6 +39,36 @@
     { "value": "Tightwads ≥ spendthrifts", "label": "Under-spending is at least as common as over-spending", "source": "Scott Rick, tightwads & spendthrifts" },
     { "value": "Experiences > things", "label": "Experiential purchases yield more durable satisfaction", "source": "Van Boven & Gilovich, 2003" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Regret cuts both ways — reckless spending and over-saving at the cost of living are each regretted.",
+    "The research leans toward people regretting the meaningful experiences they didn't have more than money they spent.",
+    "People differ stably: 'tightwads' under-spend and 'spendthrifts' over-spend, and tightwads appear at least as common.",
+    "Experiential purchases tend to deliver more durable satisfaction than possessions, which are regretted more.",
+    "The honest position is where you direct the money and balance — not simply 'spend more' or 'save more.'"
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The natural tightwad",
+      "body": "Someone who feels genuine pain at spending, even when they can afford it, tends to pass things up and call it prudence. But over-saving to the point of self-denial is a documented source of late regret, and treating every dollar spent as a loss crowds out exactly the meaningful experiences people seldom regret. For this tendency, the research suggests the corrective is structured permission to spend on what matters — not treating restraint as automatically virtuous."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The impulse purchase versus the trip",
+      "body": "A material splurge bought to feel better delivers a fast thrill that fades, while the comparison with newer or better things does not — which is why impulsive purchases are among the most commonly regretted spending. A meaningful experience runs the other way: it resists comparison, becomes part of memory and identity, and tends to improve in hindsight. The pain of paying is immediate; the cost of the experience never taken is invisible and deferred."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You feel the money leave; you don't feel the trip you never took or the milestone you missed.",
+      "source": "On why saving feels safer in the moment"
+    },
+    {
+      "text": "Impulsive material purchases are commonly regretted, while spending on meaningful experiences rarely is.",
+      "source": "On where the money goes"
+    }
+  ],
   "faqs": [
     {
       "question": "Do people regret spending money or saving it more?",

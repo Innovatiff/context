@@ -34,6 +34,36 @@
     "This is a topic where the honest material is conceptual rather than a tidy statistic, and it is worth being upfront about that. The core claims — that people quit too late more often than too early, that sunk costs and loss aversion bias us toward staying, and that opportunity cost is the hidden bill — come from well-replicated behavioural-economics findings and from Duke's synthesis of them, not from a single headline number you should over-trust.",
     "The two reference points worth holding are the directions, not figures. Persistence (grit) has measurable value for well-chosen, long-term goals, per Duckworth's research. And the cost of staying too long is real but invisible, paid in forgone alternatives rather than obvious losses — which is precisely why it is so easy to ignore and why deciding on the merits, rather than by slogan, is the skill that matters."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The research suggests the more common mistake is quitting too late, not too soon.",
+    "Sunk costs, loss aversion, and 'not a quitter' identity keep people in things past the point of sense.",
+    "The honest question is not 'how much have I put in?' but 'knowing what I know now, would I start this today?'",
+    "Grit is valuable for a well-chosen goal and costly for a poor-fit one — the skill is telling them apart.",
+    "Set 'kill criteria' in advance, while you can still think clearly."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Three years into a project that isn't working",
+      "body": "The pull to keep going is 'I've already put three years in.' But those three years are sunk — they can't be recovered by spending a fourth. The only thing that should count is the future return compared to the best alternative you're forgoing by staying. When the real question ('would I start this today, knowing what I know?') gets a clear no, the past investment is simply irrelevant to the decision."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Deciding the kill criteria before you start",
+      "body": "Before you are emotionally entangled, you write down the signal that would tell you to walk: 'if by this date I have not reached X, I stop.' Made from a calm vantage point, that pre-commitment does the hard part for you later — when sunk costs, loss aversion, and identity would otherwise make honest reassessment almost impossible."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Quitting the wrong thing is what makes room for the right one — because your time, attention and energy are finite.",
+      "source": "On the case for strategic quitting"
+    },
+    {
+      "text": "Persistence is a tool, not a virtue to be maximised.",
+      "source": "On 'never give up' as a rule"
+    }
+  ],
   "faqs": [
     {
       "question": "Isn't quitting just giving up?",

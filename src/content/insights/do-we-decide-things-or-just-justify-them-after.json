@@ -34,6 +34,36 @@
     "This is a topic where the honest currency is experiments and case findings, not population statistics, and it's worth saying so rather than inventing a figure. The split-brain confabulation results come from a small number of rare patients, which makes them vivid and theoretically important but limited as a basis for precise quantification. They demonstrate that the explaining-self can fabricate reasons confidently; they don't tell you what share of everyday decisions work that way.",
     "Likewise, the moral-dumbfounding and choice-supportive-memory findings establish that the patterns exist and recur, not a clean percentage of decisions that are \"really\" post-hoc. Choice-supportive memory in particular has faced methodological challenges and partial replication concerns, so it belongs in the \"real but contested\" column. The defensible summary is qualitative: after-the-fact justification is a substantial, well-documented part of how we account for our choices — larger than it feels — without a trustworthy number attached."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For many decisions, a fast intuitive response comes first and the reasons arrive afterward — as explanation, not cause.",
+    "Haidt's 'elephant and rider': intuition moves first; reasoning mostly justifies where it was already going.",
+    "Split-brain confabulation shows the mind will confidently invent reasons for actions whose real causes it can't access.",
+    "You usually can't feel the seam where genuine reason ends and tidy after-the-fact justification begins.",
+    "This does not mean reasoning is powerless — deliberate thought genuinely shapes slow, high-stakes decisions."
+  ],
+  "examples": [
+    {
+      "label": "The evidence",
+      "title": "Morally dumbfounded",
+      "body": "In Haidt's moral-judgment studies, people frequently reached a firm verdict instantly and then struggled to produce reasons — sometimes ending up certain of the judgment, unable to justify it, and unwilling to drop it. The reasoning looked less like the decision-maker and more like a press secretary defending a decision already made. The conclusion and the justification arrive together, which is why the argument feels like the cause."
+    },
+    {
+      "label": "In practice",
+      "title": "Writing it down before you act",
+      "body": "If the worry is that your reasons are partly retrofitted, the most useful move is to commit your reasoning to the record before you decide, not after — the logic behind decision journals and pre-mortems. That gives you an account the interpreter can't quietly rewrite, and lets you compare your real prior reasoning to the tidier story you'd tell later. Deliberately arguing the case against your choice, and inviting people who'll push back, works the same way."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We are reliably better at justifying what we've decided than we are at watching ourselves decide.",
+      "source": "On the limits of introspection"
+    },
+    {
+      "text": "The confident story you tell about why you chose something is partly constructed after the fact — and you usually can't feel the seam.",
+      "source": "On the interpreter"
+    }
+  ],
   "faqs": [
     {
       "question": "So are all our reasons just made up afterward?",

@@ -34,6 +34,36 @@
     "It's worth being precise about what this evidence claims. The core result is about direction, not magnitude: Gilovich and Medvec (1995) show inaction-regret tends to dominate over the long run, while action-regret tends to be sharper in the short term. There's no clean statistic for how often a regretted statement outweighs an unspoken one, and this should not be read as one — it's a measurable lean, not a landslide.",
     "Ware's end-of-life observations add a human texture but carry their own caveat: they're qualitative reflections from one nurse's experience, not a representative survey, so they illustrate the pattern rather than prove its size. The honest summary is a tilt that both lines of evidence point toward — the words said in anger sting now, but over a lifetime the affection, gratitude, apologies, and honesty left unsaid tend to be what people regret most."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Both kinds of regret are real, but on different timescales — and in the long run, the unsaid usually wins.",
+    "Gilovich and Medvec (1995): action-regret is sharper in the short term; inaction-regret tends to dominate over a lifetime.",
+    "A regretted statement is a bounded event you can try to repair; an unspoken feeling stays open-ended and can harden.",
+    "This is a tendency, not a rule — cruel or careless words can leave deep, lasting regret of their own.",
+    "The workable move: say the warm or honest thing while the window is open, and repair rather than ruminate on what you regret saying."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The words blurted in anger",
+      "body": "Right after a fight, the thing you said replays on a loop — you can hear your own voice and see the other person's face. It genuinely feels like the bigger mistake, and for the short term it is. But that sharp, replayable sting tends to lose its charge over time, especially if you can offer an honest acknowledgment or apology to convert it into something resolved."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The gratitude never voiced",
+      "body": "You meant to tell someone what they meant to you, and kept waiting for a better moment. Nothing dramatic happened — there's no scene to cringe at — so at the time the silence felt almost free. Years later, especially once the chance has closed, that absence is exactly the kind of open-ended 'I wish I'd told them' that tends to grow heavier rather than fade."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The words said in anger sting now, but over a lifetime the affection, gratitude, apologies, and honesty left unsaid tend to be what people regret most.",
+      "source": "On the long-run tilt of regret"
+    },
+    {
+      "text": "The very thing that made the unsaid feel costless at the time — that nothing visible happened — is what lets it quietly accumulate.",
+      "source": "On why absences don't announce themselves"
+    }
+  ],
   "faqs": [
     {
       "question": "Do people really regret what they didn't say more than what they did?",

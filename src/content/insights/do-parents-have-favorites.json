@@ -34,6 +34,35 @@
     "Reliable hard numbers are scarce here because so much depends on how favoritism is defined and measured, and most findings come from in-depth interviews rather than large national surveys. In the research on mothers and their adult children, a clear majority can name a child they feel emotionally closest to — but 'closest to' is not the same as loving more, and the share saying they would treat children differently in practical matters is much smaller.",
     "Treat any precise percentage with caution. The honest summary the studies support is directional, not numerical: some differential treatment is the norm rather than the exception, children perceive more of it than parents intend, and the wellbeing effects are real but modest and concentrated where the treatment feels unfair."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Some degree of differential treatment between siblings is common rather than rare — not a sign of a broken family.",
+    "When asked carefully, a clear majority of parents can name a child they feel closest to — which is not the same as loving one more.",
+    "Children often perceive more differential treatment than parents intend or report.",
+    "What seems to matter most for wellbeing is not whether it exists but whether children experience it as unfair or unexplained.",
+    "The associated harms are modest and correlational; acknowledging and explaining difference tends to help more than denying it."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Equally is not identically",
+      "body": "The cultural ideal is that parents love their children equally and identically — but those are not the same thing. A parent can be deeply committed to every child and still find one easier to talk to, share more interests with another, or respond differently to a child's temperament. Children register those differences vividly, often more vividly than the parent does."
+    },
+    {
+      "label": "Illustrative",
+      "title": "More attention, for reasons that weren't preference",
+      "body": "The child who needed more help, was sick more often, or arrived during a harder year may have drawn more attention for reasons that had nothing to do with favoritism. From the inside, though, more attention can look a lot like being favored — or like being a burden — depending on the angle. A single remembered slight can come to stand in for a whole childhood, making the felt pattern stronger than the actual one."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Whether differential treatment harms a child seems to depend far less on whether it happens and far more on whether the child experiences it as unfair.",
+      "source": "On perceived fairness"
+    },
+    {
+      "text": "Naming how something felt — without requiring a parent to confess to a ranking that may not exist — tends to be more useful than litigating whether it was 'true.'"
+    }
+  ],
   "faqs": [
     {
       "question": "Do most parents actually have a favorite?",

@@ -39,6 +39,35 @@
     { "value": "Inactions > actions", "label": "What people regret more over the long run", "source": "Gilovich & Medvec" },
     { "value": "Small minority", "label": "Share of people who report having no regrets at all", "source": "American Regret Project (Pink)" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Regret is one of our most common and most useful emotions — a signal, not a defect.",
+    "The goal the evidence supports is using your regrets, not having none of them.",
+    "Over the long run, people tend to regret inactions more than actions taken.",
+    "The useful version is brief, clarifying reflection; the harmful version is rumination that goes nowhere."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "Making peace with a regret vs refusing to have any",
+      "body": "These sound similar but pull in opposite directions. Making peace means facing a regret, asking what it taught you, and letting the feeling recede. Refusing to have any can mean not looking at all — which forfeits the lesson rather than transcending it. The slogan overcorrects: right to avoid the looping rumination, wrong to reject the brief, clarifying twinge along with it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Treating a regret as data",
+      "body": "Someone regrets never having pursued a line of work they cared about. Held as rumination, it just replays. Used as a signal, it points to a value — and can be examined from a slight remove, as if advising a friend, to extract what it suggests for future decisions without drowning in the emotion. Faced this way, the regret does its job and recedes."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The aim the evidence supports is not having zero regrets but using the ones you have — which is close to the opposite of the bumper-sticker version.",
+      "source": "On 'no regrets' as a life philosophy"
+    },
+    {
+      "text": "The sting is what makes the lesson stick. Declaring you have no regrets can be a way of not looking.",
+      "source": "On why the discomfort is the mechanism"
+    }
+  ],
   "faqs": [
     {
       "question": "Isn't living with no regrets a sign of a life well lived?",

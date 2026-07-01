@@ -34,6 +34,34 @@
     "The evidence here is experimental rather than statistical, and the key result is qualitative: in Baron and Hershey's studies, identical decisions were rated differently based only on their outcomes, demonstrating outcome bias under controlled conditions. There is no clean population statistic for how often good decisions turn out badly — by their nature, that depends entirely on the odds of each individual decision.",
     "What the research robustly establishes is the principle, not a number: decision quality and outcome quality are separable, people systematically conflate them, and hindsight makes past outcomes look more predictable than they were. The practical takeaway is directional — a single bad outcome is weak evidence about the quality of the decision behind it, especially when real uncertainty was involved."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A decision and its outcome are two different things, with luck and uncertainty in between.",
+    "Judging a choice purely by how it turned out is a documented error Annie Duke calls 'resulting.'",
+    "Baron and Hershey found people rated identical decisions differently based only on the outcome.",
+    "The fair question is 'given what I knew then, was this a reasonable bet?' — not 'did it work out?'"
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The sound call that lost",
+      "body": "Someone takes a well-researched job at a stable company, then the firm folds a year later in a downturn nobody saw coming. Looking back, it feels like an obvious mistake — but on the information available at the time, it was a reasonable bet. The decision didn't change; only the outcome did, which is exactly what outcome bias latches onto."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The 'I should have known' that wasn't",
+      "body": "After a bad result, the warning signs suddenly look glaring: of course it was going to go wrong. But research on hindsight bias suggests that sense of obviousness is largely manufactured after the fact. At the time, the signals were genuinely ambiguous — the clarity only arrived once you knew the ending."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A high-quality decision can still lose and a low-quality one can still win — so outcome alone is an unreliable guide to whether you decided well.",
+      "source": "On 'resulting'"
+    },
+    {
+      "text": "A single bad outcome is weak evidence about the quality of the decision behind it, especially when real uncertainty was involved."
+    }
+  ],
   "faqs": [
     {
       "question": "Can a good decision really lead to a bad outcome?",
