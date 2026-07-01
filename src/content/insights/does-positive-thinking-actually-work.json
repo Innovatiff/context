@@ -35,6 +35,35 @@
     "This is an area where it is more honest to describe findings than to quote precise statistics, because the effects come from controlled experiments across varied domains rather than from population surveys, and their size varies by context. The robust, repeatable pattern is directional: positive fantasy alone tends to reduce effort, while mental contrasting and WOOP tend to improve goal pursuit relative to positive thinking on its own.",
     "Where someone wants a number, the careful answer is that no single figure captures 'how well positive thinking works,' because it depends entirely on which version you mean — grounded realistic optimism and obstacle-aware planning behave very differently from forced positivity and pure visualisation. The trustworthy takeaway is the distinction itself, not a percentage."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Positive thinking works in a narrower way than the slogans claim — realistic, grounded optimism helps; forced positivity often doesn't.",
+    "Oettingen's research finds pure positive fantasy can leave people feeling they've already arrived, which lowers effort.",
+    "Pairing a positive goal with a clear look at obstacles — mental contrasting and WOOP — tends to outperform positivity alone.",
+    "'Toxic positivity' names a real concern: pressure to feel only good feelings and suppress the rest is linked to worse outcomes.",
+    "This is educational context — positive thinking is not a treatment for persistent low mood, anxiety, or distress; professional support is the reliable step."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Fantasising vs planning",
+      "body": "You vividly picture the finished project, the praise, the relief — and feel great. But that pleasant feeling can be the problem: Oettingen's research suggests fantasising about success as if it were already real lets the mind 'enjoy' it in advance, which quietly drains the drive to work for it. WOOP grounds the same wish: name the outcome, then confront the real obstacle and make a concrete if-then plan for it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "\"Just think positive\" that lands wrong",
+      "body": "Someone genuinely struggling is told to stay positive, and it makes the feeling worse, not better — pressure to override the emotion rather than address it adds a layer of self-blame. That gap between how positivity is sold and how it lands is exactly what the 'toxic positivity' critique points at. Allowing and processing the difficult feeling tends to fare better than forcing it away."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Positivity helps when it is grounded, and can hurt when it is a substitute for facing reality.",
+      "source": "On positive thinking"
+    },
+    {
+      "text": "Positive fantasy lets your mind enjoy the success in advance, which reduces the felt urgency to work for it."
+    }
+  ],
   "faqs": [
     {
       "question": "Does positive thinking actually work?",

@@ -39,6 +39,35 @@
     { "value": "Bidirectional", "label": "Likely direction of the volunteering–wellbeing link", "source": "Observational reviews (e.g. Post)" },
     { "value": "Small but real", "label": "Size of experimental 'prosocial spending' happiness effect", "source": "Dunn, Aknin & Norton, Science 2008" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Volunteering is reliably associated with higher wellbeing, but the link is likely two-way — happier, healthier people also volunteer more.",
+    "The benefit tracks a curve: moderate, freely chosen helping does best, while overcommitment or obligation flattens or reverses it.",
+    "Experimental 'prosocial spending' effects are real but small nudges, and replication has been mixed.",
+    "Much of the payoff seems to flow through connection and purpose, so helping that builds relationships is worth favouring."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "One afternoon that didn't transform your mood",
+      "body": "A single session of volunteering that leaves you tired rather than uplifted can feel like the claim was false. But the research never promised a large or immediate effect — it points to a small, fairly reliable nudge that shows up most clearly across many acts over time. The conditions matter too: isolating or obligatory helping is associated with less benefit than freely chosen helping that connects you to others."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The small, frequent favour",
+      "body": "Spending a little on someone else, or doing a modest favour, is the everyday version of the prosocial-spending research: even small acts are associated with a mood benefit. You do not need a large formal commitment to test whether helping nudges your own wellbeing — small, frequent acts are a low-cost way to find what fits you."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Helping others is one of the more reliable small contributors to wellbeing, not a guaranteed fix.",
+      "source": "On the honest size of the effect"
+    },
+    {
+      "text": "The data describes a curve and a set of conditions, not a straight line.",
+      "source": "On dose and motivation"
+    }
+  ],
   "faqs": [
     {
       "question": "Does volunteering really make people happier, or are happier people just more likely to volunteer?",

@@ -35,6 +35,37 @@
     "Anger is a topic where honest context means being careful with numbers. There is no reliable single statistic for how often people 'should' feel angry, and any figure claiming a normal rate of anger should be treated with caution given how much it varies by person, culture, and circumstance. What the research offers is direction rather than precision.",
     "The qualitative pattern is the part worth holding onto: anger usually points to a blocked goal, a sense of unfairness, or a threat; the emotion is ordinary and functional; and the leverage lies in interpretation and expression rather than in trying to never feel it. Where anger is frequent, intense, or harmful, that is a reason to seek a clinician, not evidence that the feeling itself was the failure."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Anger is generally a functional response to a blocked goal, perceived unfairness, or threat — not an inherent flaw.",
+    "What helps or harms is mostly how anger is expressed; researchers distinguish the emotion from aggression, the behaviour.",
+    "Interpretation matters: the same setback reads as bad luck (sadness) or avoidable injustice (anger) depending on the appraisal.",
+    "Reading anger as information — naming the trigger — and reappraisal are among the better-supported strategies.",
+    "'Venting,' suppression, and rumination tend to maintain or worsen anger rather than resolve it.",
+    "Frequent, explosive, or harmful anger is a reason to consult a qualified clinician — this is educational, not clinical advice."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Same setback, two very different reactions",
+      "body": "Your project gets cancelled. Read as 'this is just bad luck,' it lands as sadness; read as 'this should not have happened and someone is responsible,' it lands as anger. The event is the same — the appraisal is what tips it into anger specifically. That is why the feeling is not caused entirely by the situation, even though the narrowed focus makes it feel that way."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The urge to vent",
+      "body": "You are furious and want to yell or hit something to 'let off steam.' The pressure-cooker model is intuitive, but the evidence on catharsis found venting tends to maintain or increase anger rather than drain it. The better-supported move is to read the anger as information — what goal was blocked, what felt unfair — and, where the situation can be changed, aim its energy deliberately at the underlying problem rather than at the person in front of you."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The pressure-cooker model of anger is intuitive but does not match the data.",
+      "source": "On venting and catharsis"
+    },
+    {
+      "text": "What determines whether anger helps or harms is mostly what you do with it.",
+      "source": "On expression vs the feeling"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to get angry?",

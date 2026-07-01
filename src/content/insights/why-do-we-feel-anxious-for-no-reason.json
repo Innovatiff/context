@@ -35,6 +35,36 @@
     "This is a topic where honest context means avoiding false precision. There is no credible single figure for how much anxiety is 'normal,' and prevalence numbers for anxiety conditions vary widely by definition, method, and country, so this page does not assign one. What the research offers is a mechanism, not a measurement: anxiety is built to over-predict threat, and some false alarms are expected.",
     "The qualitative takeaway is that reasonless-feeling anxiety is common and usually has hidden, diffuse causes rather than a single present danger. Occasional anxiety is part of the standard human range. Persistent or distressing anxiety is treatable and worth taking to a clinician — that is the responsible reading, not a number."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Anxiety works like a smoke detector, tuned to err toward false alarms because missing a real threat once cost far more than a needless scare.",
+    "Uncertainty, misread bodily arousal (caffeine, poor sleep, stress), and free-floating worry all feed reasonless-feeling anxiety.",
+    "The feeling is designed to be convincing and urgent, which is why 'this is just a false alarm' is hard to hold onto in the moment.",
+    "Relabelling the feeling, building tolerance for uncertainty, and checking physical contributors are where the research points.",
+    "This is educational, not clinical advice: persistent or interfering anxiety is treatable and worth taking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Arousal that arrives before the reason",
+      "body": "Too much caffeine, a short night, and a stressful week can leave your body already aroused — heart faster, muscles tighter. Because arousal is ambiguous, the mind reads it as evidence that something is wrong and goes looking for a cause, often fastening onto whatever worry is nearest. The anxiety feels reasonless, when it may simply have a cause that is hard to see."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Relabelling the false alarm",
+      "body": "Someone notices dread with no obvious trigger and, instead of fighting it, names it: 'this is my threat-detection system firing, possibly a false alarm.' That reframe can reduce the second layer of fear about the fear, and naming a feeling tends to slightly lower its intensity — an effect sometimes called affect labelling. It is a modest lever, not a cure."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A system that occasionally fires without a clear trigger is doing roughly what it was built to do.",
+      "source": "On the smoke-detector principle"
+    },
+    {
+      "text": "Occasional false alarms aren't a malfunction — they're the expected output of a threat-detection system doing what it evolved to do.",
+      "source": "On the cost asymmetry"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I feel anxious when nothing is wrong?",

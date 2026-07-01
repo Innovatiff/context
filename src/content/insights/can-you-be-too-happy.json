@@ -34,6 +34,35 @@
     "There is no clean number for 'too happy,' and it would be misleading to invent one. The relevant findings are about shape and condition, not thresholds: in some surveys, peak performance in achievement-related domains appeared among the highly-but-not-maximally happy, while the very happiest still reported strong relationships and life satisfaction. The differences between groups were modest, and every group sat well above the unhappy end.",
     "The honest summary is that almost everyone is in the range where more positive emotion is associated with better outcomes. The caveats apply to specific intensities, situations, and ways of pursuing happiness — not to being a generally happy person. If your moods feel persistently extreme or hard to regulate, that is a matter for a clinician, not for population statistics."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "For everyday purposes more positive emotion tracks with better health, relationships, and life satisfaction — the caveats sit at the edges.",
+    "Some research suggests an optimal level rather than a maximum: achievement outcomes sometimes peaked among the highly-but-not-maximally happy.",
+    "Happiness can misfire at the wrong intensity, the wrong time, or when chased directly — specific conditions, not a verdict against being happy.",
+    "Valuing happiness too intensely can lower wellbeing, apparently by making people grade ordinary good days against a high bar.",
+    "This is educational context — persistently extreme or distressing moods in either direction are worth taking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Grading a good day as a failure",
+      "body": "You place a very high value on being happy, so an ordinary pleasant afternoon feels like a letdown against the bar you've set. This is the pattern Mauss and colleagues describe: people who prize happiness most can end up monitoring and judging their own feelings, which sometimes lowers wellbeing. The finding is about the pursuit of happiness, not about happiness itself — holding it loosely tends to work better than chasing it."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Contentment counts as happiness too",
+      "body": "You assume you're not really happy unless you feel peak excitement, so calm, easy contentment doesn't register. But calmer, lower-arousal positive states suit many situations at least as well as high-arousal ones, and treating contentment as a legitimate form of happiness tends to be more sustainable and less prone to the downsides associated with very high-intensity positive affect."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The data does not suggest happy people should aim to be less happy. The caveats sit at the edges, not in the middle.",
+      "source": "On 'too happy'"
+    },
+    {
+      "text": "Constantly grading your own feelings against an ideal is a different activity from living in a way that tends to produce good feelings."
+    }
+  ],
   "faqs": [
     {
       "question": "Is it actually bad to be very happy?",

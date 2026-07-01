@@ -39,6 +39,36 @@
     { "value": "Dispersed", "label": "How religion's community, meaning, and ritual functions appear to have shifted", "source": "Sociology of religion / Pew" },
     { "value": "Mainly community", "label": "Channel through which much of the religion–wellbeing link appears to operate", "source": "Wellbeing research reviews" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "Formal religious affiliation and attendance have fallen for decades in many wealthy countries, and the 'nones' have grown substantially.",
+    "No single institution has cleanly replaced religion; its community, meaning, and ritual functions appear to have dispersed rather than been substituted.",
+    "Being unaffiliated is not the same as having no beliefs — many 'nones' still pray, believe in a higher power, or seek meaning.",
+    "Much of the religion–wellbeing link seems to run through community and social connection rather than belief alone.",
+    "The trend is concentrated in certain societies, not universal — religion remains central and in places growing elsewhere."
+  ],
+  "examples": [
+    {
+      "label": "How to read the trend",
+      "title": "Dispersal, not a clean swap",
+      "body": "It is tempting to declare that wellness movements, online communities, or intense political identities have 'replaced' religion, because they borrow its look — shared language, rituals, in-groups, belonging. But none carries the full combination a congregation did: regular face-to-face community, ritual, intergenerational mixing, and shared meaning in one place. The most defensible summary is dispersal across many smaller sources, not substitution by one."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Keeping the belief, missing the gathering",
+      "body": "Someone can drift from organised religion yet keep a private sense of spirituality — the meaning and belief questions can be answered alone. What is harder to reproduce solo is the regular, in-person gathering, so the part most easily lost is often the community and ritual function that mattered most for connection. That is why deliberately building regular, in-person belonging somewhere is a reasonable response, whatever one's beliefs."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The label marks a move away from institutions more cleanly than a move away from belief.",
+      "source": "On what 'no religion' means"
+    },
+    {
+      "text": "The part that is easiest to lose is often the part that mattered most for connection.",
+      "source": "On which functions disperse"
+    }
+  ],
   "faqs": [
     {
       "question": "Are fewer people really religious now?",

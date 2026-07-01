@@ -34,6 +34,34 @@
     "There is no single clean statistic for \"how much time disappears,\" but a consistent finding is worth knowing: self-reported screen and internet time tends to diverge meaningfully from objectively logged time, and people frequently underestimate. Reviews of studies comparing the two have found that self-estimates correlate only modestly with actual measured use — a reminder that the felt duration of online time is not a reliable guide to the real one.",
     "The design point is concrete even where the numbers are soft: infinite scroll and autoplay are relatively recent defaults, and they replaced interfaces that had natural endpoints. The mechanism — removing stopping cues so that continuing requires no decision — is well documented in how these products are built, even if the exact minutes lost vary enormously from person to person."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Deep absorption warps your sense of duration — captured attention has little spare capacity to monitor how long has passed.",
+    "Infinite feeds and autoplay remove the natural stopping cues older media had, so continuing takes no decision while stopping does.",
+    "Genuine flow (effortful, skilled) and passive 'pseudo-flow' both make time vanish, but only the first tends to leave you feeling restored.",
+    "External stopping cues — timers, app limits, turning off autoplay — beat willpower against an interface built to avoid decision points."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "'Just five minutes' that became an hour",
+      "body": "Opening a feed to fill a moment, then surfacing an hour later genuinely surprised at the clock, is the ordinary case. Absorption left little capacity to track duration, and the uniform scroll laid down few distinct memories to anchor the time to — so it felt short both while it happened and looking back, even though the logged figure disagrees."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Two kinds of lost time",
+      "body": "An evening lost to an absorbing craft or game can leave you feeling restored — that is closer to genuine flow. An evening lost to passive scrolling more often leaves the 'where did that go' feeling. Noticing which is which, rather than trying to eliminate absorption altogether, is the practical move the research points to."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A book ends, a TV episode ends, a phone call ends; a feed never does.",
+      "source": "On removed stopping cues"
+    },
+    {
+      "text": "'It only felt like a few minutes' is not evidence about how long it actually was."
+    }
+  ],
   "faqs": [
     {
       "question": "Is losing track of time online always a bad thing?",

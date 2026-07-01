@@ -34,6 +34,35 @@
     "Be cautious with any single prevalence figure: estimates of how many adults feel lonely vary widely between surveys because of differences in wording, scale, and stigma. What is robust is that a substantial share of adults report some loneliness, and that chronic loneliness is associated, in large meta-analyses, with meaningfully higher risks to physical health — the basis for the comparisons sometimes drawn to smoking.",
     "On the trend, the honest summary is that the long-run evidence is mixed. Some data shows broad stability with specific groups rising, especially younger adults in recent years and short spikes around the pandemic; other data shows little overall change over decades. The safest reading is that loneliness is common and harmful, and that the 'steadily rising epidemic' claim is more contested than the framing suggests."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Loneliness is common and genuinely linked to worse health — that part is well supported.",
+    "Whether it is a clean, rising 'epidemic' is contested: the long-run trend data is mixed.",
+    "Prevalence estimates vary widely between surveys because measurement and stigma differ.",
+    "The more effective interventions target the quality and perception of connection, not raw contact.",
+    "Both overstating ('unstoppable crisis') and dismissing ('overblown') the problem miss the evidence."
+  ],
+  "examples": [
+    {
+      "label": "How the numbers move",
+      "title": "Same feeling, different surveys",
+      "body": "Ask people directly \"are you lonely?\" and you get one figure; ask indirectly through a multi-item scale, or change the wording, and you get another. Stigma nudges some people away from the word entirely. That a substantial share of adults report some loneliness holds up across methods — but a single precise, comparable prevalence number does not, which is why headline figures disagree so much."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Adding activities, still lonely",
+      "body": "Someone joins three clubs and fills the calendar with people, yet the loneliness barely shifts. This is the pattern the research keeps finding: loneliness tracks perceived quality of connection, not the raw number of interactions. The more promising approaches work on the expectation of rejection and withdrawal that chronic loneliness feeds — not just on adding more contact."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Serious and common, yes; a clean, documented upward surge, less clearly.",
+      "source": "On the 'epidemic' framing"
+    },
+    {
+      "text": "The trend story being contested does not mean the problem is fake — the prevalence is high and the health links are real."
+    }
+  ],
   "faqs": [
     {
       "question": "So is loneliness an epidemic or not?",

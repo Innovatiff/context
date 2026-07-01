@@ -39,6 +39,34 @@
     { "value": "Perception gap", "label": "People overestimate how extreme the other side is", "source": "More in Common" },
     { "value": "Most engaged", "label": "Heaviest political-news consumers often hold the most distorted picture", "source": "Perception-gap research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Animosity across political lines (affective polarization) has measurably risen in the US and several other democracies.",
+    "People also systematically overestimate how extreme and hostile the other side is — a sizable 'perception gap.'",
+    "The most politically engaged often hold the most distorted picture of the other side, not the most accurate one.",
+    "So the felt division runs well ahead of the actual gap: perceived division has grown faster than real difference."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Judging 'the other side' from the loudest voices",
+      "body": "Building an impression of the opposing group from comment sections and the most heated coverage means sampling the angriest minority, who are unrepresentative of how most people think. The median person on either side is less extreme than the feed implies — which is exactly the perception-gap error the research documents."
+    },
+    {
+      "label": "Illustrative",
+      "title": "One disagreement that feels like a clash of worlds",
+      "body": "Because political identity now aligns with so many other identities — social, geographic, cultural — a disagreement really about a single issue can feel like a clash of entire ways of life. Sorting makes the divide feel more total than the underlying positions warrant, even where views on specifics have moved less."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The imagined opponent is more extreme, more hostile, and more numerous than the real one.",
+      "source": "On the perception gap"
+    },
+    {
+      "text": "Animosity has grown, while perceived division has grown even faster — leaving the gap between feeling and reality unusually wide."
+    }
+  ],
   "faqs": [
     {
       "question": "Are we actually more divided than we used to be?",

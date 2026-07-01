@@ -34,6 +34,36 @@
     "This is a topic where there is no meaningful single statistic, and inventing one would be dishonest. The evidence is theoretical and experimental rather than survey-based: optimal distinctiveness theory and the studies around it describe a structure of competing needs, supported by experiments showing that people gravitate toward identities balancing inclusion and differentiation. The contribution is a well-supported model, not a headline number.",
     "What is worth carrying away is the shape of the finding rather than any figure. The robust pattern is that belonging and distinctiveness operate as opposing motives at the same time, that satisfying one tends to activate the other, and that comfort comes from balance rather than from maximising either. The effect is best understood qualitatively, and overstating it with precise numbers would misrepresent the research."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We carry two opposing social needs at once — for inclusion and similarity, and for differentiation and uniqueness.",
+    "Optimal distinctiveness theory (Brewer): people gravitate to identities that satisfy both needs at the same time.",
+    "Satisfying one need tends to activate the other, so the balance keeps moving rather than settling.",
+    "There is no single correct balance — the optimal point is contextual and shifts with circumstances.",
+    "Wanting both isn't indecision or fakeness; it's a normal feature of human social identity."
+  ],
+  "examples": [
+    {
+      "label": "Both at once",
+      "title": "Joining a distinctive group or subculture",
+      "body": "People often express belonging and uniqueness through the same act — joining a team, a craft, or a subculture. Membership delivers inclusion on the inside, while the group's distinctiveness from outsiders delivers differentiation. Research in this tradition finds that identities which are inclusive internally and distinctive externally tend to be especially satisfying, precisely because they feed both needs at once."
+    },
+    {
+      "label": "Reading the discomfort",
+      "title": "Which need is currently underfed",
+      "body": "The tension is information. Feeling like a faceless part of the crowd usually signals the distinctiveness need; feeling isolated or too different usually signals the belonging need. Adjusting toward the under-satisfied side — rather than maximising either — is closer to what the theory predicts will feel comfortable. The same person may need more belonging in one setting and more distinctiveness in another."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The discomfort of holding both is the system working, not malfunctioning.",
+      "source": "On the two competing needs"
+    },
+    {
+      "text": "It is closer to a thermostat adjusting around a setpoint than to indecision or fickleness.",
+      "source": "On the moving balance"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to want to fit in and stand out at the same time?",

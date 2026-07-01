@@ -39,6 +39,35 @@
     { "value": "Shared goals", "label": "Cooperation on common goals eased group hostility at Robbers Cave", "source": "Sherif et al., 1950s" },
     { "value": "100s of studies", "label": "Intergroup contact studies pooled showing reduced prejudice", "source": "Pettigrew & Tropp, 2006" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "In-group favouritism forms remarkably easily — even between groups created moments earlier on a meaningless basis.",
+    "The lines are a default starting point, not a fixed destiny: which 'us' feels relevant shifts with the situation.",
+    "Contact reduces bias best when groups cooperate as equals toward shared goals, not from mere proximity.",
+    "Encouraging a shared, more inclusive identity — without erasing the original one — softens narrow favouritism.",
+    "The tendency is a broad human default, not a trait of a particular kind of person."
+  ],
+  "examples": [
+    {
+      "label": "The core experiment",
+      "title": "Favouring 'us' on a coin flip",
+      "body": "In the minimal group paradigm, people were sorted into groups on arbitrary grounds — a coin flip, or a meaningless preference between two painters — with no contact, no shared interest, and no conflict. Even then, participants tended to allocate more to anonymous members of their own group. Mere categorisation was enough to start in-group favouritism, before any real stakes existed."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Rivals who become teammates",
+      "body": "Two people are on opposing sides in one frame — different departments competing for budget — and firmly 'them' to each other. Widen the frame to the whole organisation facing an outside challenge, and the same two are suddenly 'us.' Nobody changed; the salient identity did. That flexibility is exactly what the recategorisation research and Robbers Cave point to: division forms easily, but it isn't the only stable state."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Us-and-them thinking is a built-in starting point, not a fixed destiny — its content depends on which identity a moment makes salient.",
+      "source": "On how movable the lines are"
+    },
+    {
+      "text": "The minimal group findings are unsettling precisely because they suggest the machinery runs on very little."
+    }
+  ],
   "faqs": [
     {
       "question": "Is dividing into us and them natural or learned?",

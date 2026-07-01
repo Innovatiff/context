@@ -35,6 +35,36 @@
     "This is a topic where honest context means being cautious with numbers. There is no single statistic that captures 'the right amount' of fear, and our intuitions about risk are exactly what fear tends to distort — the system reacts strongly to vivid, immediate threats and weakly to slow, statistical ones, so felt fear is a poor guide to actual probability. What the research offers is a direction rather than a figure: fear is broadly adaptive, fast, and conservative, and it is routinely miscalibrated to modern conditions.",
     "The most useful thing to internalise is qualitative. Fear is ordinary and near-universal, it is a protective signal rather than a defect, and the leverage is in checking whether the threat is real and, for outsized fears, gradually facing rather than avoiding it. Where fear or anxiety becomes persistent, overwhelming, or disabling, that is a reason to seek a qualified clinician — for whom well-evidenced treatments exist — not a sign that the emotion itself was the failure."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Fear is best understood as an evolved threat-detection and mobilization system — its point is protection.",
+    "It was built to be fast and conservative, so occasional false alarms are the system working, not malfunctioning.",
+    "The recurring problem is calibration: it overreacts to vivid, immediate threats and underreacts to slow, statistical ones.",
+    "For outsized fears, gradual, repeated exposure has the strongest support; avoidance tends to entrench fear.",
+    "This is educational information, not clinical advice; persistent or disabling fear is worth a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The stick that might be a snake",
+      "body": "A system that flinches at a stick in case it is a snake survives better than one that waits for certainty. Fear was shaped over a long evolutionary history in which fast, sometimes false-positive reactions were safer than slow, careful ones. That is why it can feel disproportionate in situations that are not actually dangerous: it is designed to be quick and cautious rather than perfectly accurate."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The racing heart before a presentation",
+      "body": "Public speaking can trigger machinery built for physical danger — pounding heart, tight chest, the urge to flee — because the brain's threat circuitry does not finely distinguish a social threat from a physical one. The feeling is real and the body is genuinely mobilised, even though there is nothing to fight or flee. Naming it ('this is my threat system firing, not evidence of actual danger') fits the finding that labelling an emotion can reduce its intensity."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is a fast, conservative alarm, and alarms sometimes go off when there is no fire.",
+      "source": "On why fear misfires"
+    },
+    {
+      "text": "The original alarm was doing its job; the fear of the alarm is what spirals.",
+      "source": "On becoming afraid of fear"
+    }
+  ],
   "faqs": [
     {
       "question": "What is fear actually for?",

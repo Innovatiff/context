@@ -40,6 +40,41 @@
     { "value": "By design", "label": "Infinite scroll, pull-to-refresh and notifications built to maximise engagement", "source": "Attention-economy critique (Tristan Harris and others)" },
     { "value": "Dozens–hundreds", "label": "Rough range of daily phone pickups in common estimates (varies by study)", "source": "Industry and academic screen-time estimates" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The pull is mostly intermittent rewards, habit cues, and deliberate design — not a lack of willpower.",
+    "A phone that occasionally pays off is a variable-ratio device, the same sticky pattern as slot machines.",
+    "Much phone use is cue-triggered habit that fires before deliberation gets a vote.",
+    "The popular 'dopamine' story overstates the evidence; intermittent reward, cues, and design explain it without it.",
+    "Changing the environment — removing cues, adding friction, substituting a response — beats fighting each urge."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The reach in the lift, the queue, the lull",
+      "body": "You pull the phone out in a lift or a queue not because you decided to but because the situation has become the trigger. Once a cue-response loop is established, the reach fires before deliberation gets a vote. That's why 'just deciding to check less' fights the mechanism at its weakest point — and why removing the cue works better than resisting it."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Mostly nothing, occasionally something",
+      "body": "Most checks deliver nothing; every so often one delivers a message, a like, an interesting post. That 'sometimes' is exactly the variable-ratio pattern that produces the most persistent behaviour — the occasional hit keeps the whole loop alive far past the point where the average return would justify it, which is what makes each next check feel rational in the moment."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A high pickup count isn't a discipline score",
+      "body": "Reading that you unlock your phone dozens or hundreds of times a day can feel like proof of a personal failing. It isn't a moral story — it reflects a device engineered around variable rewards meeting a day full of cues and lulls. The same person checks far less when the cues are removed, which is the strongest sign the behaviour lives in the loop and the environment, not in willpower."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is far less a failure of willpower than the predictable result of a powerful learning process meeting a device engineered to exploit it.",
+      "source": "On why we keep checking"
+    },
+    {
+      "text": "A force that is invisible per instance is easy to mistake for something you should be able to override at will.",
+      "source": "On why it feels like weakness"
+    }
+  ],
   "faqs": [
     {
       "question": "Is checking my phone constantly a sign of addiction?",

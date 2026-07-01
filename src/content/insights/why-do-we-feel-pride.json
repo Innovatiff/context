@@ -34,6 +34,36 @@
     "Pride research is largely about structure and function rather than prevalence, so there are few clean headline statistics, and it would be misleading to manufacture one. The most robust empirical points are qualitative-but-strong: the two-factor structure of authentic versus hubristic pride replicates across studies, and the pride display is recognised across a wide range of cultures, including ones with minimal exposure to Western media.",
     "The cross-cultural recognition work, including observations of the spontaneous pride posture in congenitally blind athletes, is the closest thing to a hard finding — strong evidence that pride is a basic, partly innate, status-signalling emotion rather than a cultural artefact. Anything framed as a precise figure for how much pride people feel should be treated with caution; this is a topic better described by its shape than by numbers."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Pride is a self-conscious status emotion that rewards valued achievement and motivates more of it.",
+    "Research distinguishes effort-based 'authentic' pride, which tends to be adaptive, from superiority-based 'hubristic' pride, which tends not to be.",
+    "The pride display — expanded posture, head tilted back — is recognised across cultures and appears even in congenitally blind athletes, pointing to something partly innate.",
+    "Anchoring pride to specific effort and actions, rather than to a fixed 'I'm just better,' is the form tied to motivation and good relationships.",
+    "This is descriptive context, not a judgement of character; persistent distress around achievement or self-worth is something a clinician can help with."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "'I worked hard and earned this' vs 'I'm better than everyone'",
+      "body": "Authentic pride credits controllable effort — the preparation, the persistence, the choices — and is associated with confidence, perseverance, and prosocial behaviour. Hubristic pride credits a fixed, global self and is linked to arrogance, aggression, and weaker relationships. They feel similar from the inside but point in very different directions, which is why the same word covers both 'take pride in your work' and 'pride goes before a fall.'"
+    },
+    {
+      "label": "Illustrative",
+      "title": "After finishing a hard project",
+      "body": "You feel good about work that took real effort, then reflexively play it down because modesty feels safer. But quietly acknowledging an earned accomplishment is the adaptive, effort-based form of pride — the one that reinforces the behaviour and helps you do more of it. Crediting what you actually did keeps it in that lane; converting it into 'I'm just the kind of person who wins' is what turns pride brittle when reality intrudes."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "'Take pride in your work' and 'pride goes before a fall' are talking about two different states that share a name.",
+      "source": "On authentic vs hubristic pride"
+    },
+    {
+      "text": "Pride built on 'I am the kind of person who always wins' is brittle, because a single failure threatens the whole self-concept.",
+      "source": "On fixed-self pride"
+    }
+  ],
   "faqs": [
     {
       "question": "Is pride a good emotion or a bad one?",

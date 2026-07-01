@@ -34,6 +34,36 @@
     "Estimates of how much of conversation is social in nature vary, and you should treat any single figure with caution, but multiple studies suggest a large share of everyday talk concerns social topics — people, relationships, and what others are doing. Within that, the recurring finding is that the clear majority of gossip is neutral or informational rather than negative; the purely malicious share is a minority.",
     "The honest framing is qualitative more than quantitative. The robust pattern across the research is directional: gossip is near-universal, mostly mundane, and serves real social functions around information, bonding, and norm enforcement. Precise percentages differ by study and method, so the safest claim is the direction, not a specific number."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Gossip is a near-universal social tool for sharing information, tracking reputation, and enforcing norms.",
+    "When conversations are actually recorded, most gossip is neutral or informational — not malicious.",
+    "Dunbar's account frames talking about others as 'social grooming' — possibly close to language's original purpose.",
+    "Feinberg's experiments show reputational information-sharing can make groups more cooperative.",
+    "Your reputation is shaped far more by consistent behaviour over time than by managing the talk."
+  ],
+  "examples": [
+    {
+      "label": "The label trap",
+      "title": "'Gossip' vs 'just catching up'",
+      "body": "The same behaviour gets different names depending on how it feels. We tend to call it 'gossip' only when it's negative or about someone we feel protective of, and 'catching up,' 'venting,' or 'just talking' when it's neutral or about ourselves. So the category we experience is skewed toward the unflattering cases, even though the behaviour researchers define is mostly mundane."
+    },
+    {
+      "label": "The prosocial side",
+      "title": "A warning that protects the group",
+      "body": "Passing on that someone has repeatedly let people down is a heads-up, not spite. In Feinberg's experiments, the chance to share reputational information and steer clear of untrustworthy people tended to make groups more cooperative — and people often reported that warning others, even at a small cost to themselves, felt good rather than vindictive. Framed around accuracy and protection rather than contempt, gossip stays in its useful range."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The everyday behaviour the word describes is closer to social bookkeeping than to spite.",
+      "source": "On what most gossip actually is"
+    },
+    {
+      "text": "The most reliable lever over what is said about you is, unglamorously, behaviour over time.",
+      "source": "On reputation"
+    }
+  ],
   "faqs": [
     {
       "question": "Is gossip always a bad thing?",

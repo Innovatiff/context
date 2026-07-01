@@ -35,6 +35,35 @@
     "This is a topic where honest context means resisting a tidy number. There is no credible statistic for how much of your feelings you can control, and any figure claiming a precise percentage should be treated with suspicion. What the research offers is a direction and a ranking of strategies, not a measurement: reappraisal and early intervention tend to help, suppression tends to cost, and full control is not on the menu.",
     "The qualitative takeaway is that influence is real but partial. You can meaningfully shift the odds and intensity of your feelings, especially by acting early and reappraising accurately, while accepting that some of the emotional response is automatic and out of reach. Where feelings are persistent or overwhelming, that is a reason to seek a clinician rather than to try harder to control them alone."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "You can't turn a feeling on or off by deciding to — emotions are largely automatic responses to how you appraise a situation.",
+    "The honest framing is influence, not control: you can shift the odds and intensity of feelings through indirect routes.",
+    "Earlier levers work better — situation selection, attention, and reappraisal — while suppression at the end tends to be costly.",
+    "Reappraisal lowers negative emotion with few downsides; expressive suppression is linked to strain and worse memory, with little relief.",
+    "This is educational context — persistent, overwhelming, or interfering feelings are worth taking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "\"Just decide to feel calm\"",
+      "body": "You try to order yourself to feel calm before a hard conversation and it doesn't work, so you conclude you're uniquely bad at managing emotions. In fact you're hitting a universal limit: feelings sit downstream of interpretation and bodily state, so commanding one directly tends to fail. The workable move is to change the inputs — where your attention goes, how you read the situation — rather than to will the feeling into being."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Reappraisal vs clamping down",
+      "body": "Stuck in a situation you can't change, you have two options. You can clamp down on the outward signs of the feeling — expressive suppression, which in Gross's work leaves the feeling persisting, adds bodily strain, and worsens memory, with little relief. Or you can look for an accurate alternative interpretation — genuine reappraisal, not a forced positive spin — which tends to lower the negative emotion with few costs."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest framing is influence, not control. You can tilt the odds and shift intensity, but you cannot guarantee a specific emotional state.",
+      "source": "On regulating feelings"
+    },
+    {
+      "text": "The most effective levers act earlier in the process — before a feeling fully forms — and the least effective act at the end, by suppressing it."
+    }
+  ],
   "faqs": [
     {
       "question": "Can you really control your emotions?",

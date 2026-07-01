@@ -34,6 +34,36 @@
     "This is a topic about mechanisms and individual differences rather than prevalence rates, so there is no honest single headline number to quote. People vary widely in how strongly they experience emotional contagion and empathy, and that variation is normal; it is shaped by temperament, context, fatigue, and relationship to the other person, among other things.",
     "The robust, well-replicated claims are qualitative: that rapid, largely automatic mimicry contributes to catching others' emotions, and that affective and cognitive empathy rely on partly distinct processes. The compassion-versus-distress distinction, while supported, is an active research area rather than settled fact. Any precise figure for 'how contagious' a given emotion is should be treated with caution, and any persistent difficulty managing absorbed emotion as a reason to seek support."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "We catch others' emotions through fast, largely automatic mimicry — emotional contagion — plus more deliberate empathy.",
+    "Affective empathy (feeling with someone) and cognitive empathy (understanding their state) rely on partly distinct processes.",
+    "Sharing distress is not the same system as compassion; the warmer, care-oriented response appears more sustainable and can be trained.",
+    "Simply recognising that a mood may be caught rather than generated gives you a real handle on it.",
+    "People vary widely in how strongly they absorb others' emotions, and that variation is normal — persistent overwhelm is worth a clinician's help."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Carrying tension out of a room",
+      "body": "You walk in feeling fine and leave carrying a tension you cannot fully explain. Because mimicry is automatic and happens in milliseconds — you copy a tense posture, and the bodily feedback nudges your own state — the caught mood arrives as a feeling rather than an obvious chain of cause and effect. Naming the source ('I felt fine walking in; this might be the room') is a modest but real way to check it rather than act on it as your own."
+    },
+    {
+      "label": "The distinction",
+      "title": "Feeling with someone vs helping them",
+      "body": "Drowning in another person's distress and being moved to help them are not the same system. Sharing distress without regulation can lead to exhaustion and withdrawal, which helps no one; shifting toward a warmer, care-oriented stance — feeling for someone rather than only with them — is associated with more positive states and more sustained helping. This is regulation, not coldness."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A meaningful share of a given day's mood is borrowed from the people around us.",
+      "source": "On emotional contagion"
+    },
+    {
+      "text": "The research points toward regulating and channelling empathy, not eliminating it.",
+      "source": "On empathy and burnout"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do I catch other people's moods so easily?",

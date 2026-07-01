@@ -34,6 +34,36 @@
     "There is no single clean statistic for \"feeling you don't belong,\" and it should not be invented. What the research offers is a structure: Baumeister and Leary (1995) frame belonging as a fundamental need requiring frequent, pleasant interaction plus stable mutual care; Oldenburg describes the decline of the informal \"third places\" where that interaction used to happen; and broader work on community life and mobility documents fewer of the repeated, embedded ties belonging grows from.",
     "Put together, the honest framing is qualitative rather than numeric. Belonging is a basic need; the conditions that meet it — repeated, accepting, in-person contact in shared spaces — have genuinely receded for many people; and contact without acceptance, which modern life supplies in abundance, does not substitute. The feeling tracks the missing conditions far more than any individual flaw."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Belonging is treated as a fundamental human need — close to hunger or safety in how strongly it pulls.",
+    "It is not the same as contact: it is a felt sense of being accepted and mattering to others.",
+    "The informal 'third places' that used to grow belonging have measurably thinned out.",
+    "Belonging accrues from repeated, low-stakes contact over time — it can't be scheduled quickly.",
+    "The feeling is usually information about missing conditions, not a verdict on your character."
+  ],
+  "examples": [
+    {
+      "label": "The mismatch",
+      "title": "Surrounded by people, still belonging nowhere",
+      "body": "Someone can have a full calendar, a busy group chat, and plenty of followers, and still feel they belong nowhere. That is not a contradiction: belonging is a felt sense of being accepted and mattering, and contact without acceptance doesn't produce it. The volume of interaction disguises the shortfall, which is why the person concludes they should feel fine and can't understand why they don't."
+    },
+    {
+      "label": "Illustrative",
+      "title": "New city, and it feels like a verdict",
+      "body": "After a move for work, the old repeated ties are gone and the new ones haven't accrued yet. The gap can read as 'something is wrong with me' rather than 'I don't yet have enough repeated, accepting contact in a shared place.' Reframed the second way, it points to something changeable — joining anything with recurring attendance rebuilds the third-place scaffolding that time and a move stripped away."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "You can be surrounded by people, or have a full calendar, and still feel you belong nowhere. Contact without acceptance does not produce the feeling.",
+      "source": "On belonging vs contact"
+    },
+    {
+      "text": "The feeling tracks the missing conditions far more than any individual flaw.",
+      "source": "On reading the feeling as information"
+    }
+  ],
   "faqs": [
     {
       "question": "Is it normal to feel like I don't belong anywhere?",

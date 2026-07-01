@@ -34,6 +34,34 @@
     "This is a question better answered with patterns than with a single number, and inventing a precise statistic would be dishonest. The robust findings are directional: across cooperation experiments and observations of everyday life, humans behave far more prosocially than narrow self-interest predicts, and the classic 'proof of human evil' studies have been reinterpreted toward situational and conditional explanations rather than fixed badness.",
     "It is worth holding the limits clearly. The Stanford prison experiment in particular faces serious methodological criticism and should not be cited as settled science; the Milgram results are real but more about framing and authority than blind cruelty. The honest summary is that people are strongly cooperative by default with a real, conditional capacity for harm — a picture the evidence supports far better than either 'basically good' or 'basically bad.'"
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The research doesn't crown 'good' or 'bad' — it points to humans being strongly cooperative by default, with a real capacity for harm under specific conditions.",
+    "Everyday life is full of low-level helping done without reward or surveillance — more prosocial than narrow self-interest predicts.",
+    "The classic 'proof of human evil' studies (Milgram, Stanford prison) have been substantially reinterpreted or criticised.",
+    "Harm tracks conditions — sanctioned authority, diffused responsibility, dehumanisation — so shaping situations matters more than sorting people."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The unremarkable held door",
+      "body": "Directions given to a stranger, a held door, a small favour returned — thousands of these fill an ordinary day and register as unremarkable background. They are exactly the cooperative baseline the research highlights and the reason a pure self-interest model underpredicts real behaviour. It is the rare act of cruelty, not the routine decency, that gets remembered."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Assuming the worst, and being wrong",
+      "body": "Expecting bad behaviour can feel safer than being caught off guard, but studies suggest this default is miscalibrated: people consistently underestimate how willing others are to help and how positively others regard them. A moderately trusting stance is often better matched to reality — while still taking seriously the conditions under which harm does emerge."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The accurate picture is a cooperative species with conditional capacities, rather than a moral scoreboard with one winning answer.",
+      "source": "On the shape of the question"
+    },
+    {
+      "text": "Harm is vivid and memorable while routine decency is invisible."
+    }
+  ],
   "faqs": [
     {
       "question": "So are people good or bad, in the end?",

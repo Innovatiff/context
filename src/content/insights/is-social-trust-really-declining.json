@@ -39,6 +39,60 @@
     { "value": "Mixed", "label": "Cross-national trend — some countries stable or rising, others falling", "source": "World Values Survey / OECD" },
     { "value": "Diverge", "label": "Generalized trust vs. institutional trust do not move together", "source": "General Social Survey / survey research" }
   ],
+  "layout": "standard",
+  "keyTakeaways": [
+    "US generalized trust has fallen over the long run — roughly half of adults in early surveys to about a third recently.",
+    "It is not a global law: several high-trust countries have stayed high or risen, so it isn't 'what modernity does.'",
+    "Generalized trust (in strangers) and institutional trust (government, media) don't move together.",
+    "Everyday cooperation stays high even among people who tell surveys 'you can't be too careful.'",
+    "The trend is firmer than the cause — no single villain has been shown to explain it."
+  ],
+  "tables": [
+    {
+      "title": "US interpersonal trust over the long run",
+      "caption": "The share of US adults choosing 'most people can be trusted' over 'you can't be too careful' in the General Social Survey. Figures are approximate and wobble survey to survey — read as a direction, not a precise number.",
+      "columns": ["Period", "Say 'most people can be trusted'"],
+      "rows": [
+        ["Early GSS surveys (from the 1970s)", "≈ half of adults"],
+        ["Recent years", "≈ a third of adults"]
+      ],
+      "highlightColumn": 1,
+      "source": "General Social Survey (NORC), long-run interpersonal trust items"
+    }
+  ],
+  "distributions": [
+    {
+      "title": "Share of US adults saying 'most people can be trusted'",
+      "caption": "The same approximate GSS figures as bars: from roughly half in the early decades to about a third in recent years. A sizable long-run drop, but the direction is the robust part, not the exact percentage.",
+      "unit": "% of adults",
+      "source": "General Social Survey (NORC), long-run trend (approximate)",
+      "bars": [
+        { "label": "Early surveys", "value": 50, "display": "≈50%" },
+        { "label": "Recent years", "value": 33, "display": "≈33%" }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "label": "The corrective",
+      "title": "Trust that held, or rose",
+      "body": "Several high-trust societies — several in northern Europe, for instance — have stayed high or climbed over the same decades the US slid. That single fact does a lot of work: if trust were simply eroded by modern life, it would fall everywhere. It doesn't, which points to national conditions — inequality, security, how even-handed institutions are — rather than an iron law."
+    },
+    {
+      "label": "The gap",
+      "title": "What people say vs. what they do",
+      "body": "Someone tells a survey that 'you can't be too careful,' then spends the day leaving packages on the porch, giving a stranger directions, and lending a neighbour a tool. Most everyday cooperation still runs at high rates even among the wary answerers. The abstract question captures a mood shaped by a threat-heavy information environment as much as a measured behaviour."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The data on the trend is much firmer than the data on the explanation.",
+      "source": "On distinguishing the fall from its cause"
+    },
+    {
+      "text": "Several countries have maintained or rebuilt high trust — which means the trend is a result of conditions, not an iron law."
+    }
+  ],
   "faqs": [
     {
       "question": "Is social trust actually declining or is that a myth?",

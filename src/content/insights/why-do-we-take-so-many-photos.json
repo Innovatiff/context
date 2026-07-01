@@ -34,6 +34,34 @@
     "There is no clean single statistic for the photo-taking impairment effect, and any precise number would overstate a finding that is real but still developing. What the research supports is a direction: in Henkel's work, objects that were photographed were recalled less accurately than objects only observed, while engaged photo-taking — such as zooming in on a detail — removed or reversed that disadvantage.",
     "The reason we take so many photos at all is easier to state in scale: smartphones turned photography from a scarce, costly act into a near-frictionless one, and the number of photos people take annually now runs into the trillions worldwide by industry estimates. Volume is not the problem the research identifies, though — engagement is. A handful of attentive photos and a stretch of simply being present may serve memory better than a thousand reflexive ones."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Passive, reflexive snapping to 'capture' a moment tends to weaken your own memory of it — the photo-taking impairment effect.",
+    "The same research shows engaged, intentional photography can preserve or even sharpen memory; the harm is in the disengagement, not the camera.",
+    "Photos work as memory cues only if you actually revisit them — offloading without retrieval is close to forgetting with a backup you never open.",
+    "The cost is deferred and hidden: capture feels like pure gain in the moment, and the thinner recall only shows up later."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "A hundred photos of a concert you barely remember",
+      "body": "Filming and snapping through a show to 'keep' it can leave you with a full camera roll and a surprisingly thin memory of actually being there. That fits the impairment effect: when attention is spent operating the camera and offloading the moment, less of the experience gets encoded firsthand. Watching for a stretch with the phone down protects the encoding a photo cannot fully replace."
+    },
+    {
+      "label": "Illustrative",
+      "title": "One deliberate shot of a detail",
+      "body": "Stopping to compose a single frame — zooming in on one feature, deciding what matters in the scene — is the kind of engaged, volitional photography the research found does not harm memory and can aid it. The difference from reflexive snapping is where your attention goes: into the scene, not just onto the device."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The camera is neither a memory machine nor a memory thief by default — it depends on what you are doing with your attention while you use it.",
+      "source": "On the photo-taking impairment effect"
+    },
+    {
+      "text": "Offloading without retrieval is close to forgetting with a backup you never open."
+    }
+  ],
   "faqs": [
     {
       "question": "Does taking photos actually hurt your memory?",

@@ -35,6 +35,36 @@
     "This is a topic where honest context means resisting precise numbers. There is no credible statistic that measures how much disgust a situation 'should' produce, and any percentage claiming to rank disgust should be treated with suspicion. What the research offers is a direction and a story of origin: disgust most likely evolved as a behavioural defence against pathogens — a 'behavioral immune system' — and later extended into moral and social judgement, where its effects are real but debated.",
     "The most useful thing to internalise is qualitative. Disgust is ordinary and near-universal, it is a protective signal rather than a defect, and the leverage is in recognising when it is doing its original job (avoiding genuine contamination) versus when it has over-extended to people or harmless differences. Where disgust becomes excessive or distressing — intense contamination fears or strong self-directed disgust — that is a reason to seek a qualified clinician, not a sign that the emotion itself was the failure."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Disgust most likely began as a 'behavioral immune system' — responses that steer us away from sources of disease and contamination.",
+    "That core function appears to have extended into moral and social judgement, borrowing the same visceral machinery.",
+    "The contamination intuition makes disgust feel absolute and resists logic, even after any real risk is gone.",
+    "Applied to people or harmless differences, disgust can masquerade as moral truth and has historically fed prejudice.",
+    "This is educational, not clinical advice: excessive contamination fears or self-directed disgust are worth taking to a clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The clean item you still won't touch",
+      "body": "People will refuse a perfectly clean item that briefly touched something repellent, even after the contaminant is gone. That is the contamination intuition Rozin studied — the sense that contact transfers an essence. It persists long after any real risk has passed and resists rational correction, which is why disgust feels like an objective property of things rather than a response in you."
+    },
+    {
+      "label": "The trap",
+      "title": "When 'wrong' is really just 'unfamiliar'",
+      "body": "Applied to people, groups, or unfamiliar customs, the disease-avoidance system can lend a visceral sense of 'wrongness' to things that are merely different. Because it feels bodily and certain, that gut reaction is easily mistaken for a moral verdict — the pathway through which disgust has historically become entangled with exclusion and prejudice. The research-informed move is to treat the reaction as data about your own response, not a verdict about the other party."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "A protective emotion can, misapplied, fuel exclusion and prejudice.",
+      "source": "On moral disgust"
+    },
+    {
+      "text": "Because it feels bodily and certain, disgust aimed at people is easily mistaken for justified judgement.",
+      "source": "On why disgust masquerades as moral truth"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the point of disgust?",

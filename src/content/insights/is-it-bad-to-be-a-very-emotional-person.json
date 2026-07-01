@@ -35,6 +35,36 @@
     "The most cited number in this area — the claim that roughly 15–20% of people are 'highly sensitive' — comes from Elaine Aron's work and should be read as an approximate estimate, not a precise measured prevalence. The figure depends on where you draw the cutoff on a continuous trait, and the construct itself is still debated, so it is more honest to say a substantial minority of people feel things especially strongly than to treat the percentage as exact.",
     "Beyond that, this field does not offer the kind of clean population statistics found in income or health data, partly because emotional intensity is measured by self-report and partly because the underlying traits overlap. The well-supported takeaway is qualitative rather than numerical: emotional intensity varies stably across people, sits within the normal human range, and carries advantages as well as costs."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Feeling things intensely is a normal dimension of temperament with tradeoffs, not a defect to be fixed.",
+    "High-intensity people tend to feel both highs and lows more strongly — intensity is not the same as negativity.",
+    "Aron estimates roughly 15–20% of people are 'highly sensitive,' a figure that is approximate and still debated.",
+    "The supported move is better regulation and a less overwhelming environment, not becoming a less feeling person.",
+    "This is educational information, not clinical advice; intensity that overwhelms or impairs is worth a clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The 'too much' reputation at work",
+      "body": "Someone who cries in a tense meeting and needs a quiet hour to recover can get read as unprofessional, while the same trait's upsides — catching a shift in a client's mood, responding deeply to the work — go unnamed. The costs are public and the benefits are quiet, so the temperament gets remembered by its friction. Measured against the actual range of human temperaments, it sits well inside the normal band."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Trying to 'shut it off' — and it backfiring",
+      "body": "A common instinct is to aim for unemotional: hide the reaction, suppress the feeling, will yourself flat. Research on chronic expressive suppression associates it with more effort and, in some studies, worse outcomes than working with the emotion. Reframing a situation early, allowing recovery time after high-stimulation periods, and shaping a calmer environment tend to help a system that simply runs warm."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is a different setting on a dial everyone has — the judgment is cultural; the trait is just a trait.",
+      "source": "On why intensity feels like a flaw"
+    },
+    {
+      "text": "Intensity is not the same as negativity — high-intensity people feel their highs more strongly too.",
+      "source": "On affect intensity research"
+    }
+  ],
   "faqs": [
     {
       "question": "Is being very emotional a sign that something is wrong with me?",

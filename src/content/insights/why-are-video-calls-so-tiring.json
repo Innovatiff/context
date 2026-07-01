@@ -34,6 +34,36 @@
     "This is a topic where hard numbers are scarce and should be treated cautiously, because the research is recent and the theory is still being tested. There is no reliable figure for 'how much' more tiring a video call is than an in-person one. What exists is a credible framework — Bailenson's four mechanisms of nonverbal overload — plus early survey work suggesting the fatigue is real, common, and linked to factors like prolonged self-view and back-to-back scheduling.",
     "One reasonably consistent early pattern worth naming with appropriate hedging: women tend to report higher videoconferencing fatigue on average, with self-view and mirror anxiety proposed as contributors. This is suggestive, not settled. The honest bottom line is that the exhaustion is genuine and has a coherent explanation, but the precise size and ranking of its causes are still being worked out — so the practical moves above are sensible bets rather than proven prescriptions."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The leading explanation is 'nonverbal overload' — video saturates and distorts cues we normally read effortlessly.",
+    "Bailenson names four strains: constant self-view, reduced mobility, unnaturally close intense faces, and harder cue-reading.",
+    "The fatigue is a plausible response to an unnatural setup, not laziness or a personal failing.",
+    "Early survey work links prolonged self-view and back-to-back calls to feeling more drained.",
+    "The mechanisms are credible and partly supported, but the evidence is recent, correlational, and still developing."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Wiped out after a day that 'should' be easy",
+      "body": "You sat down all day, no commute, just faces on a screen — yet you're exhausted, and it's easy to blame yourself. Much of the strain runs on systems you can't feel working: reading micro-expressions, coordinating eye contact, suppressing self-consciousness. In person these happen below awareness; on video they're degraded and effortful, so the brain works harder without you noticing until it surfaces as tiredness."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The mirror that follows you all day",
+      "body": "In ordinary conversation you never watch your own face react in real time for hours. On a call with self-view on, you monitor your own image constantly — one of the mechanisms the theory flags most strongly. Because we have no everyday equivalent, we rarely recognise it as a source of fatigue even while it's draining us. Hiding self-view once you know you're framed follows directly from the proposed cause."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The exhaustion is not laziness or a bad attitude — it is a plausible response to an unnatural communication setup.",
+      "source": "On nonverbal overload"
+    },
+    {
+      "text": "Seeing yourself constantly is like a mirror following you all day — and we have no everyday equivalent to recognise it as draining.",
+      "source": "On the self-view strain"
+    }
+  ],
   "faqs": [
     {
       "question": "What is 'Zoom fatigue'?",

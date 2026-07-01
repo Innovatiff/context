@@ -39,6 +39,36 @@
     { "value": "Task-dependent", "label": "Attention varies with task, difficulty, reward and motivation — not a fixed number", "source": "Cognitive science of attention" },
     { "value": "Under ~1 min", "label": "Average dwell time on a screen before switching in recent observational research (down from a couple of minutes)", "source": "Gloria Mark, attention research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The viral 'eight-second, shorter than a goldfish' figure has no credible source — treat it as a myth.",
+    "Attention isn't one fixed quantity: it varies with the task, difficulty, reward, and your motivation.",
+    "The documented change is fragmentation — more switching and shorter dwell times, not a shorter span.",
+    "Gloria Mark's research finds average screen dwell time before switching has fallen to under a minute.",
+    "The useful levers reduce interruptions and self-interruptions, not drills to 'rebuild' a fixed clock."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Binge a show for hours, can't read one chapter",
+      "body": "The same person concentrates for a whole absorbing evening yet stalls on a dull report after two minutes. That isn't a broken few-second clock — it's how task- and motivation-dependent attention works. The failures of focus feel salient and the successes feel unremarkable, so it's easy to conclude your capacity dropped when what really changed is what's competing for it."
+    },
+    {
+      "label": "The mechanism",
+      "title": "The report you keep leaving",
+      "body": "You sit down to write, then reach for the phone, open a tab, check a message — a run of switches, many of them self-initiated out of boredom or habit rather than any external ping. Mark's observational work found dwell time on a single screen has dropped from a couple of minutes to under one. Adding friction to the easy escape routes addresses the part of fragmentation that willpower alone tends to lose to."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The honest picture is not a shorter clock but a more interrupted, faster-switching pattern of attention.",
+      "source": "On what actually changed"
+    },
+    {
+      "text": "A number with no source outran the accurate finding because 'shorter than a goldfish' is vivid, self-deprecating, and shareable.",
+      "source": "On why the myth stuck"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the eight-second attention span real?",

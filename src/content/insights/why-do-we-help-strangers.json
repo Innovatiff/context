@@ -39,6 +39,36 @@
     { "value": "Empathy drives helping", "label": "Core claim of the empathy-altruism hypothesis", "source": "Batson, empathy-altruism research" },
     { "value": "Situational", "label": "Nature of the bystander effect — conditional, not a fixed law", "source": "Latané & Darley; later reviews" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Helping strangers runs on mixed motives — reciprocity, social norms, and genuine empathy together.",
+    "Batson's empathy-altruism work suggests some helping is genuinely aimed at the other person's welfare.",
+    "The bystander effect is real but situational — not proof that people are indifferent.",
+    "In one cross-national footage study, bystanders intervened in roughly nine in ten public conflicts.",
+    "People underestimate how willing others are to help — so cynicism is an overcorrection, not realism."
+  ],
+  "examples": [
+    {
+      "label": "Making help likelier",
+      "title": "Ask one named person, not the crowd",
+      "body": "Directing a request to a specific individual — 'you, in the blue jacket, can you call an ambulance?' — tends to make help far more likely than a general appeal to everyone. It removes the diffusion of responsibility that lets each bystander assume someone else will handle it. Reducing ambiguity about what's needed works the same way: a clearly visible need is acted on more readily than a vague one."
+    },
+    {
+      "label": "The reframe",
+      "title": "A situation, not a verdict on people",
+      "body": "The bystander effect gets remembered as proof that people don't care. But it describes how the presence of others changes any one person's behaviour, not that people are indifferent to those in need. Read as 'situations shape helping' — and set against footage showing bystanders intervene in most public conflicts — it points somewhere more useful and far less bleak than 'no one helps.'"
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Across a whole scene, help usually arrives — even though the presence of others can lower any one person's odds of acting.",
+      "source": "On the bystander effect"
+    },
+    {
+      "text": "Most people help more readily than a cynical view of human nature would predict.",
+      "source": "On the realistic baseline"
+    }
+  ],
   "faqs": [
     {
       "question": "Are people who help strangers just being secretly selfish?",

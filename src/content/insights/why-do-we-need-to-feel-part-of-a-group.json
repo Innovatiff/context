@@ -39,6 +39,36 @@
     { "value": "Trivial groups suffice", "label": "Condition needed to trigger in-group favouritism in experiments", "source": "Tajfel & Turner, minimal group studies" },
     { "value": "Survival-linked", "label": "Evolutionary account of why exclusion feels so threatening", "source": "Evolutionary social psychology" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The drive to belong appears to be a fundamental human motivation, not neediness or weakness.",
+    "Evolutionary accounts frame exclusion as an old alarm system from when group membership meant survival.",
+    "Social identity theory: people draw part of their self-concept and self-esteem from their groups.",
+    "Minimal-group experiments show in-group favouritism appears even when groups are trivial and arbitrary.",
+    "Contact and shared, cooperative goals across group lines soften out-group bias more than resolving to be fair."
+  ],
+  "examples": [
+    {
+      "label": "The trivial-groups finding",
+      "title": "Favouring 'us' over nothing at all",
+      "body": "In the classic minimal-group experiments, people were sorted into groups on arbitrary, meaningless grounds and gained nothing personally — yet they still allocated more to their own group than to the other. That a bias toward 'us' appears under such bare conditions is a strong hint that group identity is a default setting, not a response to real competition. It's a useful caution when group divisions feel like they must reflect deep differences."
+    },
+    {
+      "label": "Softening 'us versus them'",
+      "title": "Working toward a shared aim",
+      "body": "You don't have to abandon your own groups to reduce reflexive out-group bias. The social identity research suggests that contact and shared, cooperative goals across group lines do more than simply telling yourself to be fair. Working alongside people from other groups toward a common aim tends to loosen the 'us versus them' pull while leaving your own belonging intact."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The people who seem most self-contained are usually embedded in groups they simply do not have to think about.",
+      "source": "On why wanting to belong isn't weakness"
+    },
+    {
+      "text": "Strong belonging and rigid hostility to outsiders are not the same thing, and the second is not required for the first.",
+      "source": "On in-group loyalty"
+    }
+  ],
   "faqs": [
     {
       "question": "Is the need to belong a real psychological need or just a preference?",

@@ -34,6 +34,34 @@
     "There is no reliable single figure showing cities or towns as better for belonging, and that absence is itself the finding. Across large wellbeing surveys, differences between more and less dense areas tend to be small and inconsistent — sometimes favouring rural or small-town life, sometimes vanishing once factors like income, age, and family situation are controlled for. Any confident claim that one type of place makes people meaningfully happier should be treated with caution.",
     "What the evidence supports more firmly is the trade-off in network structure: smaller places tend toward denser, more overlapping ties, larger places toward looser, more numerous, more anonymous ones. Both bonding and bridging connections appear to support wellbeing, so the better question is usually not which place is best, but which kind of connection a given person most needs at their current stage of life."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Neither place is reliably better for belonging — small towns offer denser, familiar ties; cities offer more choice and anonymity.",
+    "Across wellbeing surveys the differences are modest and mixed, and often shrink once income, age, and life stage are controlled for.",
+    "Belonging follows from repeated, low-stakes contact and shared activity — not from headcount or the address itself.",
+    "Third places help only when actually frequented; regular use of a few spots matters more than how many exist nearby."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Lonelier in a crowded city",
+      "body": "Someone can move to a dense city expecting connection to follow the crowds, then feel more on the outside than before. Proximity to strangers is not familiarity, and in a city connection is optional and must be built. The population nearby did not deliver belonging on its own — repeated contact and a few regular spots would."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The move that carried the loneliness along",
+      "body": "Relocating purely to fix loneliness often disappoints, because geography changes faster than a social network does. Without rebuilding routines and regular ties, the feeling tends to travel with the person. A move can help when it improves fit and proximity to people, but the address alone rarely does the work."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The research on belonging points less to where you live and more to what you do there.",
+      "source": "On place versus participation"
+    },
+    {
+      "text": "A dense city can feel lonelier than a quiet town precisely because connection there is not automatic."
+    }
+  ],
   "faqs": [
     {
       "question": "Are people happier in cities or small towns?",

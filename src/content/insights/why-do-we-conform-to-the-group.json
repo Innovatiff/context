@@ -39,6 +39,35 @@
     { "value": "2 types", "label": "Informational vs normative influence — the standard distinction", "source": "Deutsch & Gerard, 1955" },
     { "value": "100+ studies", "label": "Asch-style experiments pooled in a major cross-cultural meta-analysis", "source": "Bond & Smith, 1996" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Conforming is a normal feature of social life, not a sign of weakness or bad character.",
+    "Two drivers: treating others as evidence about reality (informational) and wanting to be accepted (normative).",
+    "In Asch's line task the right answer was obvious, so the pressure was largely normative.",
+    "A single ally who breaks from the majority sharply reduces conformity — the situation matters more than willpower.",
+    "Conformity's strength varies by culture and era; it's real and well-replicated but not fixed."
+  ],
+  "examples": [
+    {
+      "label": "The classic study",
+      "title": "The obvious wrong answer",
+      "body": "In Asch's experiments people judged which line matched a reference — easy alone, almost everyone got it right. But surrounded by confederates who confidently gave the wrong answer aloud first, a meaningful share went along with the group at least some of the time. The task wasn't ambiguous, so this points to normative pressure: the pull to not be the lone dissenter."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The one who speaks up first",
+      "body": "You privately think a meeting's plan is wrong but stay quiet — until one other person voices a doubt, and suddenly saying so feels possible. That mirrors Asch's finding that a single dissenter dramatically lowers conformity. Becoming or seeking out that first voice changes the situation far more than trying to be braver alone."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Conformity feels less like a fixed trait and more like a situation people fall into.",
+      "source": "On why ordinary people conform"
+    },
+    {
+      "text": "The people in Asch's studies were not unusually weak; they were ordinary, and most of us would feel the same pressure in the same room."
+    }
+  ],
   "faqs": [
     {
       "question": "Does conforming mean I'm weak-willed?",

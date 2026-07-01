@@ -35,6 +35,36 @@
     "The mechanisms are well established even where exact magnitudes vary. The illusory truth effect — repetition raising perceived accuracy — has replicated across decades and even applies to claims people can recognize as questionable. The believe-versus-share gap is large in studies: people frequently share content they could have flagged as false if asked directly, which is why accuracy nudges, by simply redirecting attention, produce measurable improvements.",
     "On spread, the 2018 Science study of Twitter cascades found false news reaching more people and spreading faster than true news, with novelty and emotional content the likely drivers. Treat any single percentage with caution — this is an active, evolving field — but the qualitative pattern is consistent: repetition builds belief, sources are forgotten, reflection helps, and the platform rewards spread over accuracy."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Believing is the brain's default and checking is the effortful exception — the problem is ordinary, not unusual gullibility.",
+    "Repetition alone makes claims feel truer (the illusory truth effect), even implausible ones you know better than to trust.",
+    "We remember claims but forget where we heard them, so a flimsy source loses its warning label over time.",
+    "Susceptibility looks more like lazy, intuitive thinking than political bias — reflection improves discernment across the spectrum.",
+    "The single best move is boring: pause to consider accuracy before you share, which measurably improves what you share."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The claim that just feels known",
+      "body": "You can't recall where you first saw it, but a statement has shown up in your feed enough times that it now feels true. That's the illusory truth effect plus fragile source memory working together: repetition quietly does the work of credibility while the 'this is unreliable' label fades faster than the claim it was attached to. The claim detaches from its shaky origin and floats free as something that just seems known."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Knowing better, sharing anyway",
+      "body": "In a calm moment, asked directly, you could flag a lot of false headlines as false. But the feed isn't a calm moment — it nudges toward a quick reaction and the share button is right there. So the same person who 'knows better' shares something they'd have caught if the question had been put plainly. Briefly prompting yourself to consider whether it's true before sharing closes much of that gap."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "We fall for false things online because a few normal features of memory and attention are a poor match for a fast, repeated, decontextualized environment.",
+      "source": "On the real cause"
+    },
+    {
+      "text": "The highest-value move is the boring one — slowing down before you share — not elaborate theories about who is being manipulated.",
+      "source": "On what actually helps"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do false things online feel true after a while?",

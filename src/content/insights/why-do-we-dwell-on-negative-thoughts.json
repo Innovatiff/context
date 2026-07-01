@@ -35,6 +35,41 @@
     "This topic is better described by its findings than by precise statistics, because the evidence comes from controlled studies of attention, memory, and mood rather than from population counts. The well-supported patterns are qualitative: bad events and information tend to weigh more heavily and persist longer than comparable good ones, and ruminative looping is associated with prolonged and intensified low mood.",
     "Where a figure is wanted, the honest answer is that there is no meaningful single number for 'how negatively biased people are' — the bias varies by person and context, and rumination is a tendency, not a quantity. The trustworthy takeaway is the mechanism, not a statistic: negative thoughts stick because of how attention and memory are weighted, and because the mind loops on them, and both of those can be worked with."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "A built-in negativity bias means bad events, criticism, and threats tend to register more strongly and last longer than comparable good ones.",
+    "Rumination — looping on distress without moving toward a solution — keeps the negativity active rather than letting it fade.",
+    "Both are normal features of the human mind, not personal defects; the useful question is 'what changes the loop.'",
+    "Changing what you do with negative thoughts helps more reliably than trying to argue them away.",
+    "This is educational, not clinical advice: persistent, distressing rumination is worth taking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "One criticism outweighing several compliments",
+      "body": "A single piece of criticism can stay with you longer than several compliments, because the same wiring that made our ancestors attend hard to threats gives the negative extra weight. From the inside this asymmetry feels like the negative thought being more true or more important — when much of its grip is just the bias, not its accuracy."
+    },
+    {
+      "label": "The trap",
+      "title": "Looping that disguises itself as problem-solving",
+      "body": "Going over a problem again and again can feel like working on it — like you are being responsible or about to figure it out — which is exactly why it is hard to stop. In Nolen-Hoeksema's research the line is clear: reflection that leads to a concrete step is useful, while looping without resolution is the pattern most strongly linked to prolonged low mood. In the moment, the two feel almost identical."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Why it feels worse at 3 a.m.",
+      "body": "The same worry can feel more valid late at night, when you are tired and alone. More often that is simply when your capacity to redirect attention is lowest, so the thoughts loop more freely — the content feels more true without actually being more accurate."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The content can feel more valid at 3 a.m. without actually being more accurate.",
+      "source": "On why dwelling intensifies at night"
+    },
+    {
+      "text": "Reflection that leads to a concrete step is useful; reflection that just circles is the pattern most strongly linked to prolonged low mood.",
+      "source": "On rumination versus problem-solving"
+    }
+  ],
   "faqs": [
     {
       "question": "Why do negative thoughts stick more than positive ones?",

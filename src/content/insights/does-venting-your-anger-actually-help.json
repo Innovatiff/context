@@ -35,6 +35,36 @@
     "This is a topic where the honest answer is qualitative, not numerical. There is no credible statistic for how much venting 'releases' — the more accurate summary from the experiments is a direction: aggressive venting tends to maintain or increase anger, while calming, distraction, and reappraisal tend to reduce it. Any precise percentage promising relief from venting should be treated with suspicion.",
     "What is worth internalising is that the satisfying-in-the-moment feeling of venting is not evidence that it helped. The research repeatedly separates short-term sensation from actual reduction in anger, and on that measure the catharsis idea does not hold up. Where anger is frequent or harmful, that is a reason to seek a clinician, not to vent harder."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The 'pressure cooker' model of anger is one of the most studied and least supported ideas in this area.",
+    "In Bushman's work, aggressive venting tended to maintain or increase anger rather than discharge it.",
+    "Venting feels good for a moment, but brief relief is not the same as being less angry afterward.",
+    "Lowering arousal first — stepping away, distraction — then reappraising the situation has better support.",
+    "This is educational information, not clinical advice; frequent or harmful anger is worth a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The punching bag that fed the flame",
+      "body": "In Bushman's widely cited 2002 study, provoked people who were encouraged to vent by hitting a punching bag — especially while thinking about the person who angered them — went on to show more anger and more aggression than people who did nothing or sat quietly. The vigorous 'release' did not drain the anger; it rehearsed it. That is the clearest sign that letting off steam and reducing anger are not the same thing."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The car cut you off",
+      "body": "Someone swerves in front of you and you feel the surge. The catharsis script says shout it out and pound the wheel to get it out of your system. But rehearsing the grievance keeps the arousal high. Stepping the reaction down — a few slow breaths, letting attention move to something neutral — and then reappraising ('careless, probably not aimed at me') lines up better with what actually brings anger down over time."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Feeling better briefly is not the same as being less angry afterward.",
+      "source": "On the catharsis myth"
+    },
+    {
+      "text": "The more you vent, the more practised the anger becomes.",
+      "source": "On the feedback trap"
+    }
+  ],
   "faqs": [
     {
       "question": "Doesn't venting let off steam so I feel better?",

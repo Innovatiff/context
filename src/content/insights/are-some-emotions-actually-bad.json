@@ -35,6 +35,35 @@
     "This is a topic where honest context means resisting hard numbers. There is no credible statistic that ranks emotions as good or bad, and any percentage claiming to do so should be treated with suspicion. What the research offers instead is a direction of effect, not a precise figure: across studies, suppression tends to look costly and reappraisal tends to look helpful, with effect sizes that are real but modest and that vary by person and situation.",
     "The most useful thing to internalise is qualitative. Difficult emotions are ordinary and near-universal, they usually carry information worth reading, and the leverage is in how you respond rather than in whether you feel them at all. Where feelings are persistent or overwhelming, that is a reason to seek a clinician, not a sign that the emotion itself was the failure."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "The functional view in emotion research treats no emotion as inherently bad — unpleasant feelings carry useful information.",
+    "Fear flags threat, anger a blocked goal, sadness loss, guilt a crossed value; the discomfort is the signal working.",
+    "In Gross's research, expressive suppression tends to backfire; reappraisal tends to look more effective and less costly.",
+    "Trouble usually comes from what we do with a feeling — acting impulsively, ruminating, or shoving it away — not from feeling it.",
+    "This is educational context — persistent, overwhelming, or interfering emotions are worth taking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Anger as a blocked-goal signal",
+      "body": "A plan you cared about falls through and you feel a hot flash of anger. On the functional view, that anger is information — it flags a blocked goal or a sense of unfairness — not a defect. You can feel it intensely without lashing out; the leverage is in the response, not the feeling. Naming it accurately ('this is anger because a plan got blocked') is associated in some studies with a small drop in its intensity."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Being anxious about being anxious",
+      "body": "You notice worry, decide you shouldn't be feeling it, and start worrying about the worry. This second layer — meta-distress — is frequently more wearing than the original feeling and does nothing to make it pass faster. Treating the difficult emotion as an enemy to defeat tends to add distress on top of distress rather than resolving it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "It is more accurate to call these emotions unpleasant than bad. An unpleasant emotion can be doing exactly what it evolved to do.",
+      "source": "On unpleasant vs bad"
+    },
+    {
+      "text": "What tends to cause trouble is not the presence of a difficult feeling but what we do with it."
+    }
+  ],
   "faqs": [
     {
       "question": "If no emotion is bad, why do some feel so awful?",

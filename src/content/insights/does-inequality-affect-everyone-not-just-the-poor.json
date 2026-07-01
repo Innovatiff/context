@@ -34,6 +34,35 @@
     "There is no clean, agreed number for how much inequality affects everyone, and putting one forward would misrepresent the state of the evidence. What exists are cross-country correlations — more unequal rich nations tending to score worse on certain health and social measures — that are real but sensitive to which countries and outcomes are included, and that several researchers argue weaken or vary once other national differences are controlled for. The figures move depending on the analysis, which is the heart of the dispute.",
     "More firmly established is the narrower, related point about relative standing: studies such as Luttmer (2005) find that people's reported wellbeing falls when comparison others earn more, holding their own income constant. That supports the general role of comparison in wellbeing without settling the larger, society-wide claim. The honest bottom line is an influential, plausible, and actively debated hypothesis — better described in terms of an ongoing argument than a definitive figure."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "One influential thesis (Wilkinson and Pickett's The Spirit Level) links higher national inequality to worse social outcomes across whole societies — not only the poorest.",
+    "The evidence is largely correlational and genuinely contested; it is a serious hypothesis, not settled fact in either direction.",
+    "The proposed mechanism is partly psychosocial: more unequal societies may intensify status competition and anxiety.",
+    "More firmly supported nearby is the narrower point that relative standing — how you compare to others — shapes wellbeing."
+  ],
+  "examples": [
+    {
+      "label": "How to read the debate",
+      "title": "A correlation, not a verdict",
+      "body": "The cross-country pattern — more unequal rich nations tending to score worse on certain health and social measures — is real, but it is sensitive to which countries and outcomes are included, and several researchers argue it weakens once other national differences are controlled for. Treating it as either a proven law or a debunked myth misreads it; the accurate description is an active, unresolved argument."
+    },
+    {
+      "label": "Illustrative",
+      "title": "When comparison, not income, is doing the work",
+      "body": "The more solidly supported nearby finding is about relative standing: studies such as Luttmer (2005) find people report lower wellbeing when neighbours earn more, holding their own income constant. Noticing when your sense of how you are doing is being driven by comparison rather than your actual circumstances is consistent with that evidence and is something an individual can act on."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The strength of feeling around inequality tends to outrun the strength of the evidence — in both directions.",
+      "source": "On why the debate is charged"
+    },
+    {
+      "text": "Whether inequality has population-wide effects is, at bottom, a question for data — not for one's prior political views.",
+      "source": "On holding the question apart from politics"
+    }
+  ],
   "faqs": [
     {
       "question": "What is the main claim about inequality affecting everyone?",

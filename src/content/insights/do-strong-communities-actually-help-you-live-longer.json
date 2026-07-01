@@ -40,6 +40,35 @@
     { "value": "Major-risk scale", "label": "Estimated size of the connection effect relative to known health risks (approximate)", "source": "Holt-Lunstad et al., 2010" },
     { "value": "Observational", "label": "Nature of most evidence, so cause is suggested not proven", "source": "Longevity and social-tie research" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People with stronger social ties tend to live longer; a 2010 meta-analysis put the effect broadly alongside major health risks — but as an estimate, not an exact number.",
+    "Most evidence is observational, so it shows a robust association rather than clean proof, and some causation may run the other way.",
+    "Depth and regularity look more important than breadth: durable integration and a few reliable relationships over many shallow contacts.",
+    "Connection appears to matter alongside — not instead of — diet, movement, and medical care."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The standing weekly gathering",
+      "body": "A neighbour who shows up to the same recurring group each week — a shared meal, a walking club, an ongoing class — is doing the kind of thing the research points to: connection woven into daily living rather than scheduled occasionally. The Blue Zone and Roseto descriptions both emphasise exactly this steady, everyday integration over grand one-off events."
+    },
+    {
+      "label": "The reverse-causation caveat",
+      "title": "Is it the connection, or already being well?",
+      "body": "Because healthier, more energetic people often find it easier to stay socially active, it can look as though connection is just a marker of already being well. The research suggests it is partly that — but isolation still shows up as a risk in long-term studies, which is why researchers treat connection as a genuine contributor, not only a symptom."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Social ties sit closer to a health behaviour than a 'nice to have' — even though they are rarely filed that way.",
+      "source": "On how connection gets framed"
+    },
+    {
+      "text": "The reliable message is that connection clearly matters for longevity — not that it carries a fixed, guaranteed payoff.",
+      "source": "On reading the effect sizes"
+    }
+  ],
   "faqs": [
     {
       "question": "Does social connection really affect how long you live?",

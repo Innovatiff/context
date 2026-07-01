@@ -35,6 +35,36 @@
     "Guilt is not a topic with clean population statistics, and it would be misleading to attach precise percentages to it. The well-supported findings here are qualitative and come from experimental and survey research rather than national datasets: that guilt and shame are distinct, that guilt tends to motivate repair while shame tends to motivate hiding, and that guilt is bound up with empathy and social cooperation.",
     "What the evidence does support, without needing a number, is that the everyday experience of feeling guilty is normal and widely shared, and that its usefulness depends on staying focused on behavior rather than the self. Where someone wants a figure, the more honest move is to say the research measures patterns and effects, not prevalence, and to avoid implying a precision the data does not have."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Guilt is a largely adaptive social emotion that focuses on a specific behavior and motivates repair.",
+    "Guilt ('I did a bad thing') is distinct from shame ('I am a bad person') — and shame tends to be more corrosive.",
+    "Guilt is tied to empathy, which is why a complete absence of it is generally seen as a problem, not a strength.",
+    "Ordinary guilt eases most reliably when you act on what it points to, not when you suppress or ruminate on it.",
+    "Guilt that is constant, disproportionate, or attached to things you cannot control is worth taking to a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "The distinction",
+      "title": "'I made a mistake' vs 'I am a failure'",
+      "body": "Guilt keeps its focus on the specific thing you did and points you toward repair — an apology, a correction, a change. Shame slides to the whole self and drives hiding, defensiveness, and avoidance. Many people cross from the first to the second without noticing, which is why what gets experienced as 'too much guilt' is often shame wearing guilt's name — heavier, and far less useful."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Snapping at a friend",
+      "body": "You say something sharp and feel the discomfort of guilt. Its whole job is to grab your attention and nudge you to act, so the adaptive move is to stay on the behavior and repair it — a genuine apology and a changed response next time. Following the guilt through tends to resolve the feeling and protect the relationship; replaying it on a loop without repairing anything just deepens the distress."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Guilt says 'I did a bad thing' and points toward the behavior; shame says 'I am a bad person' and points at the whole self.",
+      "source": "On guilt vs shame"
+    },
+    {
+      "text": "Guilt is designed to prompt action; turning it into a loop of self-criticism strips out the part that makes it useful.",
+      "source": "On rumination"
+    }
+  ],
   "faqs": [
     {
       "question": "What's the difference between guilt and shame?",

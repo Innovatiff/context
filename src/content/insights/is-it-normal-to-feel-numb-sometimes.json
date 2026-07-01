@@ -35,6 +35,36 @@
     "This is a topic where honest context means resisting precise numbers. There is no reliable statistic for how often the 'normal' kind of emotional numbness occurs, and any single percentage claiming to capture it should be treated with caution. What the research offers instead is a qualitative picture: brief emotional blunting under stress, overwhelm, or exhaustion is common and frequently protective, while persistent numbness is a recognised feature of conditions such as depression and post-traumatic stress and a possible side effect of some medications.",
     "The most useful thing to internalise is the distinction, not a figure. Transient numbness that lifts as load eases is ordinary and near-universal. Numbness that is lasting, distressing, follows trauma, accompanies low mood and loss of interest, or began after a medication change is a reason to consult a qualified clinician — not because the feeling is shameful, but because its meaning depends on the cause, and a professional is the right person to help sort that out."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Brief emotional numbness under stress, overwhelm, or exhaustion is common and often a protective response.",
+    "The key distinction is duration and company: transient flatness lifts; persistent numbness deserves attention.",
+    "Numbness is a recognised feature of depression and trauma, and a possible side effect of some medications.",
+    "For brief numbness, reducing load and gently re-engaging tends to help more than forcing feeling back.",
+    "This is educational information, not clinical advice; lasting or distressing numbness is worth a qualified clinician."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "Flat after a punishing month",
+      "body": "After weeks of pressure and poor sleep, everything feels muted and far away — even things you normally care about. On the current evidence this transient blunting is often the mind and body dialling down reactivity under overload, and it commonly lifts as the load eases. Reducing demands, resting, and re-engaging with low-pressure activities tends to help more than trying to jolt strong feeling back on schedule."
+    },
+    {
+      "label": "When to check in",
+      "title": "Numbness that won't lift",
+      "body": "Numbness that lasts for weeks, leaves you disconnected from what you usually care about, comes with low mood or loss of interest, follows a traumatic event, or began after a medication change is a different matter. That is not cause for alarm, but it is exactly the kind of symptom a qualified clinician should hear about — because the same feeling can be a passing response or part of a treatable condition, and the right response depends on the cause."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The same feeling can be a passing response or part of a treatable condition.",
+      "source": "On why lasting numbness is worth assessing"
+    },
+    {
+      "text": "'I feel numb because I am exhausted and overloaded' is more accurate — and less frightening — than concluding something is permanently wrong.",
+      "source": "On naming what is happening"
+    }
+  ],
   "faqs": [
     {
       "question": "Is feeling numb sometimes normal?",

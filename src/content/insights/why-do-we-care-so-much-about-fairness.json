@@ -39,6 +39,40 @@
     { "value": "Relative payoff", "label": "Inequality aversion: people weigh their share against others', not just their own", "source": "Fehr & Schmidt, 1999" },
     { "value": "Other primates", "label": "Capuchins refused a worse reward when a partner got better (interpretation debated)", "source": "Brosnan & de Waal, 2003" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "People will pay a real cost — reject free money — rather than accept a split they see as unfair.",
+    "That is the clue fairness runs deeper than pure self-interest, likely because it supports cooperation.",
+    "Our sense of what's fair is filtered through self-interest, so both sides of a dispute can feel wronged.",
+    "Much of the sting is comparative — what you got versus what others got, not the absolute result.",
+    "A visibly even-handed process defuses more conflict than arguing over the final split alone."
+  ],
+  "examples": [
+    {
+      "label": "The core experiment",
+      "title": "Turning down free money",
+      "body": "In the ultimatum game one person proposes how to split a sum; the other can accept, and both keep their shares, or reject, and both get nothing. Pure self-interest says accept any non-zero offer — something beats nothing. Instead, offers seen as clearly unfair are frequently rejected: people choose nothing over an unfair split. Proposers, anticipating this, tend to offer well above the bare minimum."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The raise that felt like an insult",
+      "body": "You get a raise and feel pleased — until you learn a colleague got more for similar work, and the same raise now feels like a slight. Nothing about your own position changed; the reaction is tracking the comparison, not the absolute result. Recognising when the sting is comparative rather than genuine harm is a documented way to take some heat out of the response."
+    },
+    {
+      "label": "Illustrative",
+      "title": "Both sides sure they were wronged",
+      "body": "Two people split a shared outcome and each walks away convinced they got the raw end. Neither is lying: people reliably judge outcomes that favour them as fairer than identical outcomes favouring someone else, and weight disadvantage to themselves more heavily. Treating your own sense of fairness as the neutral baseline tends to entrench the dispute rather than settle it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "People will turn down free money rather than accept a split they see as unfair — the clue that fairness is doing something more than self-interest.",
+      "source": "On the ultimatum game"
+    },
+    {
+      "text": "It is worth checking whether the feeling is tracking harm or merely tracking comparison."
+    }
+  ],
   "faqs": [
     {
       "question": "Why would anyone reject free money in the ultimatum game?",

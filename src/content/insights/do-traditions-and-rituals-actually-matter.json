@@ -34,6 +34,35 @@
     "There is no clean headline statistic here, and it would be dishonest to invent one — the strongest evidence is experimental and anthropological rather than a single survey number. What the research consistently shows is a direction: shared, repeated rituals are associated with stronger group identity, and brief deliberate rituals are associated with lower anxiety and grief in controlled studies. The effect sizes are generally modest.",
     "It is worth holding the limits in view. Much of the family-and-belonging evidence is correlational, so people who already feel connected may simply keep more traditions. The experimental grief-and-anxiety findings are more causal but come from specific lab settings. The honest summary is that rituals appear to do real psychological work, the mechanism is shared meaning rather than specific form, and the magnitude is meaningful but not transformative."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Rituals appear to do real psychological work — building belonging and easing anxiety and grief — but the effect is modest, not magical.",
+    "The benefit comes from shared, repeated, meaningful action, not from the specific content of any one custom.",
+    "Frequent low-intensity rituals build steady group identity; rare intense ones forge especially strong lasting bonds.",
+    "Even self-created rituals can help individually; a small sincere tradition tends to outperform a large hollow one."
+  ],
+  "examples": [
+    {
+      "label": "Illustrative",
+      "title": "The standing Sunday meal",
+      "body": "A family's unremarkable weekly meal can feel too small to matter — nobody names it, and any single instance looks trivial. But it is exactly the kind of frequent, low-intensity, recurring ritual the research links to a steady sense of identity and connection. Its binding work happens through repetition and shared timing, quietly, without ever being argued about."
+    },
+    {
+      "label": "Illustrative",
+      "title": "A brief ritual before the exam",
+      "body": "Someone who performs a short, deliberate routine before a stressful performance or exam is drawing on the individual side of this evidence: in the Norton and Gino line of work, brief rituals were associated with lower felt anxiety and a restored sense of control. It does not need to be inherited or elaborate — only performed intentionally and treated as meaningful."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "The literal content was never the point — the function is carried by the repetition, the shared timing, and the meaning attached to it.",
+      "source": "On why traditions can feel arbitrary"
+    },
+    {
+      "text": "A smaller, sincere tradition tends to outperform a larger, hollow one.",
+      "source": "On adapting rituals that have lost meaning"
+    }
+  ],
   "faqs": [
     {
       "question": "Do rituals only matter if you're religious?",

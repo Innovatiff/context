@@ -39,6 +39,36 @@
     { "value": "No stop point", "label": "Infinite scroll and algorithmic feeds remove natural stopping cues by design", "source": "Persuasive-design / attention-economy critique" },
     { "value": "Worse mood", "label": "Direction emerging research links to heavier doomscrolling (correlational, young field)", "source": "Early doomscrolling and wellbeing studies" }
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Three forces combine: the brain's pull toward bad news, infinite-scroll design, and an urge to reduce uncertainty.",
+    "Negativity bias is one of psychology's most replicated findings — bad information outweighs equivalent good.",
+    "Infinite scroll removes natural stopping points; the bias then selects the darkest parts of an endless stream.",
+    "The behaviour usually deepens the distress it's meant to relieve — early research links it to worse mood and anxiety.",
+    "Because the pull is environmental, external limits and bounded sources beat willpower against the feed."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "The 'one more update' that never settles",
+      "body": "The urge underneath is often a wish to reduce uncertainty — to finally know enough to feel safe. But threat information is effectively endless, so the next post that promises closure just surfaces another worry. The behaviour is self-perpetuating precisely because the feeling it chases, of being on top of the danger, recedes as fast as you approach it."
+    },
+    {
+      "label": "The mechanism",
+      "title": "Gripping and depleting at once",
+      "body": "Alarming content holds attention by the design of our own psychology, so the scroll stays engaging in the moment even while it erodes mood over time. The pull and the harm run on the same mechanism — which is why doomscrolling can feel like responsible attention to a real situation while functioning mostly as distress."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Doomscrolling is an understandable response to a frightening, infinitely scrollable stream — but one that usually deepens the distress it is meant to relieve.",
+      "source": "On why it backfires"
+    },
+    {
+      "text": "The interface supplies an endless stream and the bias selects the darkest parts of it.",
+      "source": "On design meeting negativity bias"
+    }
+  ],
   "faqs": [
     {
       "question": "What exactly is doomscrolling?",

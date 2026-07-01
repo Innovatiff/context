@@ -35,6 +35,36 @@
     "Hard numbers on crying are limited and should be treated cautiously, because much of the data comes from self-report surveys that vary by country and method. Studies in this tradition consistently find that women report crying more often than men on average, with the reported gap widening around adolescence — though the size of that gap differs a lot between cultures, which suggests social learning plays a large role alongside biology.",
     "Beyond that broad pattern, precise figures for 'how often the average person cries' are unreliable and culture-dependent, so it is more honest to say the range is wide and normal than to quote a specific number. The clearer, better-supported finding is not about frequency at all: it is that whether a cry helps depends on context and social support, not on hitting some typical amount."
   ],
+  "layout": "narrative",
+  "keyTakeaways": [
+    "Emotional crying appears to do two jobs: self-soothing and signalling your state to other people.",
+    "The 'a good cry always helps' idea is only partly supported — the evidence is genuinely mixed.",
+    "What tips a cry toward relief is social context: safety and a supportive response, not the tears alone.",
+    "There is no research-backed 'correct' amount of crying; frequency varies with personality and culture.",
+    "This is educational, not clinical advice: persistent uncontrollable crying or low mood deserves real support."
+  ],
+  "examples": [
+    {
+      "label": "The mechanism",
+      "title": "Why memory says the cry helped",
+      "body": "A hard cry is often followed, eventually, by calm — but that calm frequently arrives later, after the situation shifts or someone offers comfort, not in the moment the tears fall. Memory compresses the sequence into 'I cried, then I felt better,' overstating how directly the crying did the work. Studies measuring mood right after a cry often find no improvement, or a temporary dip, with recovery coming later."
+    },
+    {
+      "label": "Illustrative",
+      "title": "The same tears, two different rooms",
+      "body": "Someone cries alone in an exposed setting and feels worse afterward; the same person cries with a friend who responds with comfort and feels better. Little about the tears changed — the social context did. It is one reason researchers describe much of what we credit to crying as actually depending on the people around it."
+    }
+  ],
+  "pullQuotes": [
+    {
+      "text": "Crying is normal and meaningful, but it is not a guaranteed reset button.",
+      "source": "On the catharsis myth"
+    },
+    {
+      "text": "Much of what we attribute to the tears themselves may actually depend on the people around them.",
+      "source": "On why social context matters"
+    }
+  ],
   "faqs": [
     {
       "question": "Does crying actually make you feel better?",
