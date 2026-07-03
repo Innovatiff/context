@@ -15,6 +15,9 @@ export default defineConfig({
       filter: (page) => !page.includes('/assessment/result'),
       changefreq: 'monthly',
       priority: 0.7,
+      // Emit <lastmod> so crawlers get a freshness signal — a mild but real help
+      // for prioritising crawl of a new site. Uses the build/deploy date.
+      lastmod: new Date(),
     }),
   ],
   build: {

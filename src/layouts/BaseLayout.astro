@@ -28,7 +28,10 @@ const {
   jsonLd,
 } = Astro.props;
 
-const canonical = new URL(path, SITE.url).href;
+// Canonical without a trailing slash, to match `trailingSlash: 'never'` and the
+// sitemap (so the homepage is https://honestpicture.com, not .../ ). This avoids
+// the "Page with redirect" / duplicate-URL ambiguity in Search Console.
+const canonical = new URL(path, SITE.url).href.replace(/\/$/, '') || SITE.url;
 const ogImageUrl = new URL(ogImage, SITE.url).href;
 const fullTitle = title.includes(SITE.name) ? title : `${title} — ${SITE.name}`;
 const adsenseReady = ADSENSE.enabled && ADSENSE.client;
