@@ -22,6 +22,14 @@ export default defineConfig({
   ],
   build: {
     inlineStylesheets: 'auto',
+    // Emit `slug.html` files instead of `slug/index.html` directories. On
+    // Netlify, directory output means the page is served at `/slug/` and the
+    // slash-less URL 301-redirects to it — while our canonicals, internal
+    // links, and sitemap all use the slash-less form (trailingSlash: 'never').
+    // Google was following sitemap URLs into 301s ("Page with redirect") whose
+    // targets pointed their canonical back at the redirecting URL, stalling
+    // indexing. 'file' format makes the canonical URL itself return 200.
+    format: 'file',
   },
   compressHTML: true,
 });
