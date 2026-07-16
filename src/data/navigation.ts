@@ -7,6 +7,7 @@ export interface NavItem {
 
 export const PRIMARY_NAV: NavItem[] = [
   { label: 'Take the Assessment', href: '/assessment' },
+  { label: 'Daily Reality Check', href: '/reality-check' },
   { label: 'Life Areas', href: '/life-areas' },
   { label: 'Research Library', href: '/research-library' },
   { label: 'The Data', href: '/the-data' },
@@ -23,6 +24,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
     heading: 'Explore',
     links: [
       { label: 'Take the Assessment', href: '/assessment' },
+      { label: 'Daily Reality Check', href: '/reality-check' },
       { label: 'Life Areas', href: '/life-areas' },
       { label: 'Research Library', href: '/research-library' },
       { label: 'The Data', href: '/the-data' },

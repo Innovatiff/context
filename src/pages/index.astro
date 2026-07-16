@@ -98,6 +98,26 @@ const jsonLd = {
     </div>
   </section>
 
+  <!-- Daily Reality Check teaser -->
+  <section class="section container">
+    <div class="rcteaser">
+      <div class="rcteaser__copy">
+        <p class="eyebrow">New · daily game</p>
+        <h2>The Daily Reality Check</h2>
+        <p>
+          One real number about ordinary life, every day — savings, friendships,
+          sleep, work. Guess it, then see how close your picture of the world is
+          to the data. One guess. New number at midnight.
+        </p>
+        <a href="/reality-check" class="btn btn--accent">Play today’s Reality Check</a>
+      </div>
+      <div class="rcteaser__art" aria-hidden="true">
+        <span class="rcteaser__q">?</span>
+        <span class="rcteaser__pct num">%</span>
+      </div>
+    </div>
+  </section>
+
   <AdSlot slot="" format="horizontal" />
 
   <!-- Six life areas -->
@@ -355,5 +375,61 @@ const jsonLd = {
   }
   .honesty__links a:hover {
     color: #99f6e4;
+  }
+
+  /* Daily Reality Check teaser */
+  .rcteaser {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-l);
+    align-items: center;
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+    border: 1px solid #fde68a;
+    border-radius: var(--radius-lg);
+    padding: var(--space-l);
+  }
+  @media (min-width: 720px) {
+    .rcteaser {
+      grid-template-columns: 1fr auto;
+      padding: var(--space-l) var(--space-xl);
+    }
+  }
+  .rcteaser__copy .eyebrow { color: var(--amber); }
+  .rcteaser__copy h2 { margin: var(--space-2xs) 0 var(--space-s); }
+  .rcteaser__copy p { max-width: 52ch; margin: 0 0 var(--space-m); color: var(--text-muted); }
+  .rcteaser__art {
+    position: relative;
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    background: #fff;
+    border: 2px solid var(--amber);
+    display: none;
+  }
+  @media (min-width: 720px) {
+    .rcteaser__art { display: block; }
+  }
+  .rcteaser__q {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    font-family: var(--font-display);
+    font-size: 2.6rem;
+    font-weight: 600;
+    color: var(--amber);
+  }
+  .rcteaser__pct {
+    position: absolute;
+    right: -8px;
+    top: -6px;
+    background: var(--charcoal);
+    color: #fde68a;
+    border-radius: 999px;
+    width: 34px;
+    height: 34px;
+    display: grid;
+    place-items: center;
+    font-size: 0.95rem;
   }
 </style>

@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import RealityCheckGame from '../components/RealityCheckGame.astro';
+import FaqAccordion from '../components/FaqAccordion.astro';
+import { SITE } from '../consts';
+
+const faqs = [
+  {
+    question: 'Where do the numbers come from?',
+    answer:
+      'Every daily number is a real, sourced figure from our research library — government statistics, large surveys, and peer-reviewed studies. Nothing is invented for the game, and each reveal links to the full page with the source and the honest caveats.',
+  },
+  {
+    question: 'Is anything stored or tracked?',
+    answer:
+      'Your guess and streak are kept only in your own browser (localStorage) so the page can remember you played today. Nothing is sent to us or anyone else, and there is no account.',
+  },
+  {
+    question: 'Why one guess per day?',
+    answer:
+      'The point is the calibration moment — comparing what you assumed with what the data shows. One honest guess tells you more than ten adjusted ones. A new number arrives at midnight, local time.',
+  },
+  {
+    question: 'Are the answers exact?',
+    answer:
+      'They are as exact as the underlying research allows. Where a figure is approximate or contested, the reveal says so — the same hedging rules the whole site follows.',
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'The Daily Reality Check',
+  description:
+    'A free daily guessing game: one real, sourced number about ordinary life each day. Guess it, then see the honest picture.',
+  url: new URL('/reality-check', SITE.url).href,
+  isAccessibleForFree: true,
+  publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+};
+---
+
+<BaseLayout
+  title="The Daily Reality Check — a real number a day"
+  description="One real, sourced statistic about ordinary life each day. Guess the number, see how close your picture of the world is to the data, and keep your streak."
+  path="/reality-check"
+  jsonLd={jsonLd}
+>
+  <div class="container rcpage">
+    <Breadcrumbs items={[{ label: 'Daily Reality Check' }]} />
+
+    <header class="rcpage__head">
+      <p class="eyebrow">Daily game</p>
+      <h1>How well do you actually know normal?</h1>
+      <p class="lede">
+        One real number about ordinary life, every day — savings, friendships,
+        sleep, work, time. Guess it, then see the honest picture. Most people
+        discover their picture of “everyone else” is off by more than they think.
+      </p>
+    </header>
+
+    <RealityCheckGame />
+
+    <section class="rcpage__how">
+      <h2>How it works</h2>
+      <ol>
+        <li><strong>One question a day.</strong> The same real, sourced statistic for everyone, everywhere.</li>
+        <li><strong>One guess.</strong> Slide to what you believe the number is, and lock it in.</li>
+        <li><strong>The honest reveal.</strong> See the real figure, its source, and why it usually feels different — with a link to the full research page.</li>
+      </ol>
+      <p class="muted">
+        The game runs on the same rule as the rest of {SITE.name}: every number is
+        real and cited, hedged where the research is approximate, and shown as
+        context — never as a verdict on you.
+      </p>
+    </section>
+
+    <FaqAccordion faqs={faqs} />
+
+    <section class="rcpage__cta">
+      <p>
+        Want the full picture behind today’s number?
+        Browse the <a href="/research-library">research library</a> — 597 cited
+        answers — or <a href="/assessment">take the assessment</a> to see where
+        you stand across six areas of life.
+      </p>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .rcpage {
+    padding-top: var(--space-l);
+    padding-bottom: var(--space-2xl);
+  }
+  .rcpage__head {
+    max-width: var(--prose-width);
+    margin: var(--space-m) 0 var(--space-l);
+  }
+  .rcpage__head h1 {
+    margin-bottom: var(--space-s);
+  }
+  .rcpage__how {
+    max-width: var(--prose-width);
+    margin-top: var(--space-xl);
+  }
+  .rcpage__how h2 {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-s);
+  }
+  .rcpage__how ol {
+    padding-left: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 0 0 var(--space-m);
+  }
+  .rcpage__cta {
+    max-width: var(--prose-width);
+    margin-top: var(--space-xl);
+    padding-top: var(--space-m);
+    border-top: 1px solid var(--border-color);
+  }
+</style>

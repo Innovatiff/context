@@ -1,0 +1,267 @@
+---
+import { RC_QUESTIONS, RC_EPOCH } from '../data/realityCheck';
+
+/**
+ * The Daily Reality Check — a small daily guessing game.
+ *
+ * One real, sourced number a day (same for everyone, picked from the local
+ * date). You get one guess; the reveal shows the honest figure, its source,
+ * and a link to the full insight page. A streak is kept in localStorage ONLY —
+ * nothing ever leaves the browser, matching the site's privacy stance.
+ */
+const payload = JSON.stringify({ questions: RC_QUESTIONS, epoch: RC_EPOCH });
+---
+
+<div class="rc" id="reality-check" data-rc>
+  <div class="rc__head">
+    <p class="rc__kicker">Daily Reality Check <span class="rc__daynum" data-rc-daynum></span></p>
+    <p class="rc__streak faint" data-rc-streak hidden></p>
+  </div>
+
+  <p class="rc__question" data-rc-question>Loading today’s question…</p>
+
+  <!-- Guess state -->
+  <div class="rc__guess" data-rc-guess hidden>
+    <div class="rc__value num" data-rc-value aria-live="polite">—</div>
+    <input
+      class="rc__slider"
+      type="range"
+      data-rc-slider
+      aria-label="Your guess"
+    />
+    <div class="rc__range faint">
+      <span data-rc-min></span>
+      <span data-rc-max></span>
+    </div>
+    <button class="btn btn--accent rc__lock" type="button" data-rc-lock>Lock in my guess</button>
+    <p class="rc__hint faint">One guess. Then you see the real number.</p>
+  </div>
+
+  <!-- Result state -->
+  <div class="rc__result" data-rc-result hidden aria-live="polite">
+    <p class="rc__tier" data-rc-tier></p>
+
+    <div class="rc__track" role="img" aria-label="Your guess compared with the real number">
+      <div class="rc__marker rc__marker--you" data-rc-you><span>You</span></div>
+      <div class="rc__marker rc__marker--real" data-rc-real><span>Real</span></div>
+    </div>
+
+    <div class="rc__reveal">
+      <p class="rc__answer">The honest number: <strong class="num" data-rc-answer></strong></p>
+      <p class="rc__source faint" data-rc-source></p>
+      <p class="rc__note" data-rc-note></p>
+      <a class="rc__readmore" data-rc-link href="#">Read the full picture →</a>
+    </div>
+
+    <div class="rc__actions">
+      <button class="btn btn--accent" type="button" data-rc-share>Share your result</button>
+      <span class="rc__copied faint" data-rc-copied hidden>Copied — spoiler-free ✓</span>
+    </div>
+    <p class="rc__tomorrow faint">New number tomorrow. Your streak lives only on this device.</p>
+  </div>
+</div>
+
+<script type="application/json" data-rc-data set:html={payload} is:inline></script>
+
+<script>
+  // Runs for every [data-rc] instance on the page (homepage + /reality-check).
+  const dataEl = document.querySelector('[data-rc-data]');
+  const roots = document.querySelectorAll('[data-rc]');
+  if (dataEl && roots.length) {
+    const { questions, epoch } = JSON.parse(dataEl.textContent || '{}');
+
+    // Local-midnight day number (same question for everyone on a given date).
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const start = new Date(epoch.year, epoch.month, epoch.day);
+    const dayIndex = Math.round((today.getTime() - start.getTime()) / 86400000);
+    const qIndex = ((dayIndex % questions.length) + questions.length) % questions.length;
+    const q = questions[qIndex];
+
+    const fmt = (v) => {
+      const n = Number(v);
+      const num = q.step < 1 ? n.toFixed(1).replace(/\.0$/, '') : Math.round(n).toLocaleString('en-US');
+      return `${q.prefix || ''}${num}${q.suffix || ''}`;
+    };
+
+    const KEY = 'hp_reality_check_v1';
+    const load = () => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { return null; } };
+    const save = (s) => { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch {} };
+
+    const tierFor = (closeness) => {
+      if (closeness <= 0.05) return { emoji: '🎯', label: 'Dead on. The data holds no surprises for you.' };
+      if (closeness <= 0.12) return { emoji: '🔥', label: 'Impressively close.' };
+      if (closeness <= 0.25) return { emoji: '👀', label: 'Warm — but the real number may surprise you.' };
+      return { emoji: '😅', label: 'The honest picture is pretty different from the felt one.' };
+    };
+
+    roots.forEach((root) => {
+      const $ = (sel) => root.querySelector(sel);
+      const guessBox = $('[data-rc-guess]');
+      const resultBox = $('[data-rc-result]');
+      const slider = $('[data-rc-slider]');
+      const valueEl = $('[data-rc-value]');
+
+      $('[data-rc-daynum]').textContent = `#${dayIndex + 1}`;
+      $('[data-rc-question]').textContent = q.q;
+      slider.min = q.min; slider.max = q.max; slider.step = q.step;
+      slider.value = String((q.min + q.max) / 2);
+      $('[data-rc-min]').textContent = fmt(q.min);
+      $('[data-rc-max]').textContent = fmt(q.max);
+      valueEl.textContent = fmt(slider.value);
+      slider.addEventListener('input', () => { valueEl.textContent = fmt(slider.value); });
+
+      const showResult = (guess, state) => {
+        guessBox.hidden = true;
+        resultBox.hidden = false;
+        const closeness = Math.abs(guess - q.value) / (q.max - q.min);
+        const tier = tierFor(closeness);
+        const offPct = Math.max(0, Math.round(closeness * 100));
+        $('[data-rc-tier]').textContent = `${tier.emoji} ${tier.label}`;
+        const pos = (v) => `${Math.min(98, Math.max(2, ((v - q.min) / (q.max - q.min)) * 100))}%`;
+        $('[data-rc-you]').style.left = pos(guess);
+        $('[data-rc-real]').style.left = pos(q.value);
+        $('[data-rc-answer]').textContent = q.answer;
+        $('[data-rc-source]').textContent = `Source: ${q.source}`;
+        $('[data-rc-note]').textContent = q.note;
+        $('[data-rc-link]').href = `/insights/${q.slug}`;
+        if (state.streak > 1) {
+          const st = $('[data-rc-streak]');
+          st.hidden = false;
+          st.textContent = `🔥 ${state.streak}-day streak`;
+        }
+        const shareBtn = $('[data-rc-share]');
+        shareBtn.addEventListener('click', async () => {
+          const text = `Daily Reality Check #${dayIndex + 1} — Honest Picture\n${tier.emoji} within ${offPct}% of the real number${state.streak > 1 ? ` · 🔥 ${state.streak}-day streak` : ''}\nhonestpicture.com/reality-check`;
+          let shared = false;
+          if (navigator.share) { try { await navigator.share({ text }); shared = true; } catch {} }
+          if (!shared) {
+            try {
+              await navigator.clipboard.writeText(text);
+              $('[data-rc-copied]').hidden = false;
+            } catch {}
+          }
+        });
+      };
+
+      const saved = load();
+      if (saved && saved.day === dayIndex && typeof saved.guess === 'number') {
+        // Already played today — restore the result view.
+        showResult(saved.guess, saved);
+      } else {
+        guessBox.hidden = false;
+        $('[data-rc-lock]').addEventListener('click', () => {
+          const guess = Number(slider.value);
+          const prev = load();
+          const streak = prev && prev.day === dayIndex - 1 ? (prev.streak || 0) + 1 : 1;
+          const state = { day: dayIndex, guess, streak, best: Math.max(streak, (prev && prev.best) || 0) };
+          save(state);
+          showResult(guess, state);
+        }, { once: true });
+      }
+    });
+  }
+</script>
+
+<style>
+  .rc {
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: var(--space-l);
+    box-shadow: var(--shadow-md);
+    max-width: 640px;
+  }
+  .rc__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-s);
+    margin-bottom: var(--space-s);
+  }
+  .rc__kicker {
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin: 0;
+  }
+  .rc__streak { margin: 0; font-size: 0.85rem; }
+  .rc__question {
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    line-height: 1.3;
+    margin: 0 0 var(--space-m);
+    text-wrap: pretty;
+  }
+  .rc__value {
+    font-family: var(--font-mono);
+    font-size: clamp(1.8rem, 1.4rem + 1.5vw, 2.4rem);
+    font-weight: 600;
+    color: var(--teal-dark);
+    text-align: center;
+    margin-bottom: var(--space-2xs);
+  }
+  .rc__slider {
+    width: 100%;
+    accent-color: var(--teal);
+    cursor: pointer;
+  }
+  .rc__range {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.78rem;
+    margin-top: 0.2rem;
+  }
+  .rc__lock { width: 100%; margin-top: var(--space-m); }
+  .rc__hint { text-align: center; font-size: 0.82rem; margin: var(--space-2xs) 0 0; }
+
+  .rc__tier {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    margin: 0 0 var(--space-m);
+  }
+  .rc__track {
+    position: relative;
+    height: 0.85rem;
+    border-radius: 999px;
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    margin: var(--space-l) 0 var(--space-xl);
+  }
+  .rc__marker {
+    position: absolute;
+    top: 50%;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .rc__marker span {
+    position: absolute;
+    top: 1.2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.72rem;
+    color: var(--text-muted);
+  }
+  .rc__marker--you { background: var(--slate-blue); }
+  .rc__marker--real { background: var(--amber); }
+  .rc__marker--real span { top: -1.55rem; color: var(--amber); font-weight: 600; }
+
+  .rc__answer { font-size: var(--step-1); margin: 0 0 0.2rem; }
+  .rc__answer strong { color: var(--amber); font-family: var(--font-mono); }
+  .rc__source { margin: 0 0 var(--space-s); font-size: 0.8rem; }
+  .rc__note { margin: 0 0 var(--space-s); color: var(--text-muted); }
+  .rc__readmore { font-weight: 600; color: var(--teal-dark); }
+
+  .rc__actions {
+    display: flex;
+    align-items: center;
+    gap: var(--space-s);
+    margin-top: var(--space-m);
+  }
+  .rc__copied { font-size: 0.82rem; }
+  .rc__tomorrow { font-size: 0.78rem; margin: var(--space-s) 0 0; }
+</style>
