@@ -33,6 +33,15 @@ const { entry } = Astro.props;
 const d = entry.data;
 const cat = getCategory(d.category);
 
+// Resolve a couple of related pages to real titles for an inline, in-body
+// links block (crawled and clicked far more than footer grids alone).
+const allInsights = await getCollection('insights');
+const titleBySlug = new Map(allInsights.map((e) => [e.data.slug, e.data.title]));
+const inlineRelated = (d.relatedInsights ?? [])
+  .filter((s) => s !== d.slug && titleBySlug.has(s))
+  .slice(0, 2)
+  .map((s) => ({ slug: s, title: titleBySlug.get(s) }));
+
 // Optional rich modules (composed per page for variety and depth).
 const layout = d.layout ?? 'standard';
 const numbersFirst = layout === 'data-forward';
@@ -103,9 +112,11 @@ const jsonLd = {
     url: SITE.url,
   },
   mainEntityOfPage: new URL(`/insights/${d.slug}`, SITE.url).href,
+  datePublished: `${d.lastReviewed}-01`,
   dateModified: `${d.lastReviewed}-01`,
   citation: d.dataSources,
 };
+// NOTE: FAQPage JSON-LD is emitted by the FaqAccordion component itself.
 ---
 
 <BaseLayout
@@ -131,7 +142,7 @@ const jsonLd = {
     <div class="container insight__layout">
       <div class="insight__main">
         <!-- The honest answer first. No preamble. -->
-        <KeyFindingBox text={toParagraphs(d.honestAnswer).join(' ')} />
+        <KeyFindingBox paragraphs={toParagraphs(d.honestAnswer)} />
 
         {d.keyTakeaways && d.keyTakeaways.length > 0 && <KeyTakeaways items={d.keyTakeaways} />}
 
@@ -181,6 +192,18 @@ const jsonLd = {
           </section>
 
           {pulls[1] && <PullQuote text={pulls[1].text} source={pulls[1].source} />}
+
+          {/* Inline, in-body related links — crawled and clicked more than footer grids */}
+          {inlineRelated.length > 0 && (
+            <aside class="alsoread" aria-label="Related reading">
+              <p class="alsoread__label">Related on {SITE.name}</p>
+              <ul>
+                {inlineRelated.map((r) => (
+                  <li><a href={`/insights/${r.slug}`}>{r.title}</a></li>
+                ))}
+              </ul>
+            </aside>
+          )}
 
           {/* Page-specific sections for unique structure and extra explanation */}
           {extraSections.map((s) => (
@@ -339,6 +362,33 @@ const jsonLd = {
   }
   .aside-cta .btn {
     width: 100%;
+  }
+
+  /* Inline related-reading block */
+  .alsoread {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: var(--space-s) var(--space-m);
+    margin-block: var(--space-l);
+  }
+  .alsoread__label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--footnote);
+    margin: 0 0 0.4rem;
+  }
+  .alsoread ul {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+  .alsoread li + li {
+    margin-top: 0.3rem;
+  }
+  .alsoread a {
+    color: var(--teal-dark);
   }
 
   /* ---- Layout variants -------------------------------------------------- */

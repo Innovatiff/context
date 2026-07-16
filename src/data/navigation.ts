@@ -26,6 +26,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
       { label: 'Life Areas', href: '/life-areas' },
       { label: 'Research Library', href: '/research-library' },
       { label: 'The Data', href: '/the-data' },
+      { label: 'RSS Feed', href: '/rss.xml' },
     ],
   },
   {

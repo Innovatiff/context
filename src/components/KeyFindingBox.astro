@@ -6,14 +6,19 @@
  */
 export interface Props {
   label?: string;
-  text: string;
+  /** Single-paragraph form (used by category pages). */
+  text?: string;
+  /** Multi-paragraph form — preferred: keeps real <p> structure, which reads
+   *  better and gives search engines a clean, liftable answer block. */
+  paragraphs?: string[];
 }
-const { label = 'The honest answer', text } = Astro.props;
+const { label = 'The honest answer', text, paragraphs } = Astro.props;
+const paras = paragraphs && paragraphs.length > 0 ? paragraphs : text ? [text] : [];
 ---
 
 <div class="keyfinding">
   <p class="keyfinding__label">{label}</p>
-  <p class="keyfinding__text">{text}</p>
+  {paras.map((p) => <p class="keyfinding__text">{p}</p>)}
 </div>
 
 <style>
@@ -40,5 +45,8 @@ const { label = 'The honest answer', text } = Astro.props;
     color: #134e4a;
     margin: 0;
     text-wrap: pretty;
+  }
+  .keyfinding__text + .keyfinding__text {
+    margin-top: 0.7em;
   }
 </style>
