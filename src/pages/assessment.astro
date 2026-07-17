@@ -215,7 +215,7 @@ const jsonLd = {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    background: #fff;
+    background: var(--card-bg, #fff);
     border: 1.5px solid var(--border-strong);
     border-radius: var(--radius);
     padding: 0.5rem 0.85rem;
@@ -252,7 +252,7 @@ const jsonLd = {
     aspect-ratio: 1;
     min-height: 40px;
     border: 1.5px solid var(--border-color);
-    background: #fff;
+    background: var(--card-bg, #fff);
     border-radius: var(--radius-sm);
     font-family: var(--font-mono);
     font-size: 0.95rem;
@@ -292,7 +292,7 @@ const jsonLd = {
   }
   .asmt-choice__btn {
     border: 1.5px solid var(--border-strong);
-    background: #fff;
+    background: var(--card-bg, #fff);
     border-radius: 999px;
     padding: 0.6rem 1.1rem;
     font-size: 0.95rem;
@@ -358,7 +358,7 @@ const jsonLd = {
     border: 1px solid var(--border-color);
     border-radius: var(--radius-lg);
     padding: clamp(1.1rem, 4vw, 1.85rem);
-    background: #fff;
+    background: var(--card-bg, #fff);
     box-shadow: var(--shadow-sm);
   }
   .asmt-area__head {
@@ -595,5 +595,32 @@ const jsonLd = {
   }
   .asmt-results__disclaimer {
     margin-top: var(--space-l);
+  }
+
+  /* Dark theme: boxes whose light styles use hardcoded tints. */
+  [data-theme='dark'] .asmt-privacy {
+    background: #0f2622;
+    border-color: #1f4d44;
+  }
+  [data-theme='dark'] .asmt-privacy__title {
+    color: #99f6e4;
+  }
+  [data-theme='dark'] .asmt-privacy p:last-child {
+    color: #b9f2e5;
+  }
+  [data-theme='dark'] .asmt-number:focus-within {
+    box-shadow: 0 0 0 3px rgba(94, 234, 212, 0.22);
+  }
+  [data-theme='dark'] .asmt-choice__btn.is-selected {
+    background: var(--text);
+    border-color: var(--text);
+    color: #141210;
+  }
+  [data-theme='dark'] .asmt-note--common {
+    background: #26200e;
+    border-color: #574311;
+  }
+  [data-theme='dark'] .asmt-matters {
+    border: 1px solid var(--border-strong);
   }
 </style>

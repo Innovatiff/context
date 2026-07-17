@@ -43,8 +43,22 @@ const jsonLdBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="color-scheme" content="light" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="theme-color" content="#1c1917" />
+
+    <!-- Theme bootstrap: runs before paint to avoid a light/dark flash.
+         Preference order: saved choice → OS preference → light. -->
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('hp-theme');
+          if (t !== 'dark' && t !== 'light') {
+            t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          }
+          document.documentElement.dataset.theme = t;
+        } catch (e) {}
+      })();
+    </script>
 
     <title>{fullTitle}</title>
     <meta name="description" content={description} />

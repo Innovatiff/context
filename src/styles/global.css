@@ -74,6 +74,40 @@
   --shadow-lg: 0 12px 32px rgba(28, 25, 23, 0.08), 0 4px 8px rgba(28, 25, 23, 0.04);
 
   --ease: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Card surfaces (elevated blocks that sit on --bg). */
+  --card-bg: #ffffff;
+}
+
+/* ---- Dark theme --------------------------------------------------------
+   Semantic tokens flip here; component-specific dark fixes live at the end
+   of this file. Toggled by the header button; default follows the OS. */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg: #141210;
+  --bg-surface: #1d1a17;
+  --surface: #1d1a17;
+  --card-bg: #201d1a;
+  --text: #e9e6e2;
+  --text-muted: #b8b1aa;
+  --text-faint: #948c84;
+  --footnote: #948c84;
+  --link: #5eead4;
+  --link-hover: #ffffff;
+  --border: #2e2a26;
+  --border-color: #2e2a26;
+  --border-strong: #423c36;
+
+  /* Palette roles that double as text colours need brighter forms on dark. */
+  --teal-dark: #5eead4;
+  --amber: #fbbf24;
+  --green: #a3e635;
+  --slate-blue: #a5b4cf;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.5);
 }
 
 /* ---- Reset / base ------------------------------------------------------ */
@@ -362,7 +396,7 @@ samp {
 
 /* ---- Generic card ------------------------------------------------------ */
 .card {
-  background: #fff;
+  background: var(--card-bg, #fff);
   border: 1px solid var(--border-color);
   border-radius: var(--radius);
   padding: var(--space-m);
@@ -434,4 +468,66 @@ samp {
   .grid--2-lg {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+
+/* ---- Dark theme: component fixes ---------------------------------------
+   Overrides for blocks whose light styles use hardcoded colours. Class names
+   are stable (Astro scoping keeps authored class attributes). */
+:root[data-theme='dark'] .site-header {
+  background: color-mix(in srgb, #141210 90%, transparent);
+  border-color: var(--border-color);
+}
+:root[data-theme='dark'] .site-header .nav-link,
+:root[data-theme='dark'] .site-header .brand {
+  color: var(--text);
+}
+
+:root[data-theme='dark'] .insight-card,
+:root[data-theme='dark'] .area-card,
+:root[data-theme='dark'] .la-card,
+:root[data-theme='dark'] .cat__related-card,
+:root[data-theme='dark'] .stat,
+:root[data-theme='dark'] .dist__rows,
+:root[data-theme='dark'] .example,
+:root[data-theme='dark'] .rc,
+:root[data-theme='dark'] .rl-jump a {
+  background: var(--card-bg);
+}
+
+:root[data-theme='dark'] .area-card__icon {
+  background: rgba(94, 234, 212, 0.08);
+}
+
+:root[data-theme='dark'] .keyfinding {
+  background: linear-gradient(180deg, #0f2622 0%, #0e211c 100%);
+  border-color: #1f4d44;
+}
+:root[data-theme='dark'] .keyfinding__text {
+  color: #b9f2e5;
+}
+
+:root[data-theme='dark'] .rcteaser {
+  background: linear-gradient(135deg, #26200e 0%, #2b230d 100%);
+  border-color: #574311;
+}
+
+:root[data-theme='dark'] .hero {
+  background:
+    radial-gradient(80% 120% at 100% 0%, rgba(94, 234, 212, 0.06) 0%, transparent 55%),
+    var(--bg);
+}
+
+:root[data-theme='dark'] img,
+:root[data-theme='dark'] .og-preview {
+  opacity: 0.92;
+}
+
+/* Charcoal-on-dark buttons invert to stay visible. */
+:root[data-theme='dark'] .btn--primary {
+  background: var(--text);
+  color: #141210;
+}
+:root[data-theme='dark'] .btn--primary:hover {
+  background: #ffffff;
+  color: #141210;
 }

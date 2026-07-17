@@ -33,7 +33,17 @@ const groups = CATEGORIES.map((cat) => ({
         data and published research. No self-help filler, no unverifiable claims —
         every figure is cited.
       </p>
-      <nav class="rl-jump" aria-label="Jump to category">
+      <div class="rl-search">
+        <input
+          type="search"
+          id="rl-search-input"
+          placeholder={`Search ${insights.length} questions — try "savings", "friends", "sleep"…`}
+          aria-label="Search the research library"
+          autocomplete="off"
+        />
+        <p class="rl-search__count faint" id="rl-search-count" aria-live="polite" hidden></p>
+      </div>
+      <nav class="rl-jump" aria-label="Jump to category" id="rl-jump">
         {groups.map((g) => <a href={`#${g.cat.slug}`}>{g.cat.shortLabel}</a>)}
       </nav>
     </header>
@@ -59,8 +69,54 @@ const groups = CATEGORIES.map((cat) => ({
         </section>
       ))
     }
+    <p class="rl-empty muted" id="rl-empty" hidden>
+      No pages match that search. Try a broader word — or browse by
+      <a href="/life-areas">life area</a>.
+    </p>
   </div>
 </BaseLayout>
+
+<script>
+  // Progressive-enhancement search: filters the server-rendered cards in place.
+  const input = document.getElementById('rl-search-input') as HTMLInputElement | null;
+  if (input) {
+    const groups = [...document.querySelectorAll<HTMLElement>('.rl-group')];
+    const countEl = document.getElementById('rl-search-count')!;
+    const emptyEl = document.getElementById('rl-empty')!;
+    const jumpNav = document.getElementById('rl-jump')!;
+    const cards = groups.flatMap((g) =>
+      [...g.querySelectorAll<HTMLElement>('.grid > *')].map((el) => ({
+        el, g, text: (el.textContent || '').toLowerCase(),
+      }))
+    );
+    let t: ReturnType<typeof setTimeout>;
+    const apply = () => {
+      const q = input.value.trim().toLowerCase();
+      if (!q) {
+        cards.forEach((c) => (c.el.hidden = false));
+        groups.forEach((g) => (g.hidden = false));
+        countEl.hidden = true;
+        emptyEl.hidden = true;
+        jumpNav.hidden = false;
+        return;
+      }
+      let shown = 0;
+      cards.forEach((c) => {
+        const hit = c.text.includes(q);
+        c.el.hidden = !hit;
+        if (hit) shown++;
+      });
+      groups.forEach((g) => {
+        g.hidden = ![...g.querySelectorAll<HTMLElement>('.grid > *')].some((el) => !el.hidden);
+      });
+      countEl.hidden = false;
+      countEl.textContent = `${shown} page${shown === 1 ? '' : 's'} match`;
+      emptyEl.hidden = shown > 0;
+      jumpNav.hidden = true;
+    };
+    input.addEventListener('input', () => { clearTimeout(t); t = setTimeout(apply, 120); });
+  }
+</script>
 
 <style>
   .rl-page {
@@ -72,6 +128,32 @@ const groups = CATEGORIES.map((cat) => ({
   }
   .rl-head h1 {
     margin: var(--space-s) 0 var(--space-m);
+  }
+  .rl-search {
+    margin-top: var(--space-l);
+  }
+  .rl-search input {
+    width: 100%;
+    max-width: 560px;
+    font: inherit;
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius);
+    background: var(--card-bg, #fff);
+    color: var(--text);
+  }
+  .rl-search input:focus {
+    outline: 2px solid var(--teal);
+    outline-offset: 1px;
+    border-color: var(--teal);
+  }
+  .rl-search__count {
+    margin: var(--space-2xs) 0 0;
+    font-size: 0.85rem;
+  }
+  .rl-empty {
+    margin: var(--space-l) 0 var(--space-2xl);
   }
   .rl-jump {
     display: flex;
@@ -86,7 +168,7 @@ const groups = CATEGORIES.map((cat) => ({
     border: 1px solid var(--border-color);
     border-radius: 999px;
     color: var(--slate-blue);
-    background: #fff;
+    background: var(--card-bg, #fff);
   }
   .rl-jump a:hover {
     border-color: var(--teal);

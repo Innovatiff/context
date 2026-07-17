@@ -45,7 +45,7 @@ const { examples, heading = 'What this looks like in real life' } = Astro.props;
     }
   }
   .example {
-    background: #fff;
+    background: var(--card-bg, #fff);
     border: 1px solid var(--border-color);
     border-left: 3px solid var(--teal);
     border-radius: var(--radius);

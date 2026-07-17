@@ -47,8 +47,17 @@ const FEATURED = [
 ];
 
 import { getCollection } from 'astro:content';
+import { CATEGORIES } from '../data/categories';
 const insights = await getCollection('insights');
 const bySlug = new Map(insights.map((e) => [e.data.slug, e]));
+
+// Library stat band (all real, derived from the content itself).
+const LIB_STATS = [
+  { value: insights.length.toLocaleString('en-US'), label: 'researched answers' },
+  { value: String(CATEGORIES.length), label: 'areas of life' },
+  { value: '100%', label: 'of figures cited to real sources' },
+  { value: '0', label: 'accounts, scores, or stored answers' },
+];
 const featured = FEATURED.map((s) => bySlug.get(s)).filter(
   (e): e is NonNullable<typeof e> => Boolean(e)
 );
@@ -95,6 +104,18 @@ const jsonLd = {
       <span class="notstrip__item notstrip__item--yes">
         Just: honest data, real context, a clear picture
       </span>
+    </div>
+  </section>
+
+  <!-- Library stat band -->
+  <section class="statband" aria-label="What's behind this site">
+    <div class="container statband__inner">
+      {LIB_STATS.map((s) => (
+        <div class="statband__item">
+          <span class="statband__value num">{s.value}</span>
+          <span class="statband__label">{s.label}</span>
+        </div>
+      ))}
     </div>
   </section>
 
@@ -377,6 +398,39 @@ const jsonLd = {
     color: #99f6e4;
   }
 
+  /* Library stat band */
+  .statband {
+    border-block: 1px solid var(--border-color);
+    background: var(--card-bg, #fff);
+    padding: var(--space-m) 0;
+  }
+  .statband__inner {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-m);
+  }
+  @media (min-width: 720px) {
+    .statband__inner {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  .statband__item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .statband__value {
+    font-family: var(--font-mono);
+    font-weight: 600;
+    font-size: clamp(1.4rem, 1.1rem + 1vw, 1.9rem);
+    color: var(--teal-dark);
+    line-height: 1.1;
+  }
+  .statband__label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
   /* Daily Reality Check teaser */
   .rcteaser {
     display: grid;
@@ -402,7 +456,7 @@ const jsonLd = {
     width: 96px;
     height: 96px;
     border-radius: 50%;
-    background: #fff;
+    background: var(--card-bg, #fff);
     border: 2px solid var(--amber);
     display: none;
   }

@@ -61,7 +61,7 @@ const max = Math.max(...dist.bars.map((b) => Math.abs(b.value)), 0) || 1;
     border: 1px solid var(--border-color);
     border-radius: var(--radius);
     padding: var(--space-m);
-    background: #fff;
+    background: var(--card-bg, #fff);
   }
   .dist__row {
     display: grid;
