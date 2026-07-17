@@ -485,6 +485,9 @@ samp {
 :root[data-theme='dark'] .site-header .brand {
   color: var(--text);
 }
+:root[data-theme='dark'] .site-header .nav-link.active {
+  color: var(--teal-dark);
+}
 
 :root[data-theme='dark'] .insight-card,
 :root[data-theme='dark'] .area-card,

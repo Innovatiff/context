@@ -5,9 +5,12 @@ export interface NavItem {
   href: string;
 }
 
+/**
+ * Header nav. Deliberately short labels and no assessment entry — the header
+ * CTA is the assessment link, so listing it twice just crowds the bar.
+ */
 export const PRIMARY_NAV: NavItem[] = [
-  { label: 'Take the Assessment', href: '/assessment' },
-  { label: 'Daily Reality Check', href: '/reality-check' },
+  { label: 'Reality Check', href: '/reality-check' },
   { label: 'Life Areas', href: '/life-areas' },
   { label: 'Research Library', href: '/research-library' },
   { label: 'The Data', href: '/the-data' },
