@@ -77,6 +77,9 @@
 
   /* Card surfaces (elevated blocks that sit on --bg). */
   --card-bg: #ffffff;
+
+  /* Long-form paragraph colour (slightly softer than headings). */
+  --prose-text: #292524;
 }
 
 /* ---- Dark theme --------------------------------------------------------
@@ -90,6 +93,7 @@
   --surface: #1d1a17;
   --card-bg: #201d1a;
   --text: #e9e6e2;
+  --prose-text: #d8d2cc;
   --text-muted: #b8b1aa;
   --text-faint: #948c84;
   --footnote: #948c84;
@@ -426,7 +430,7 @@ samp {
 }
 
 .article-body p {
-  color: #292524;
+  color: var(--prose-text, #292524);
 }
 
 .article-body ul,

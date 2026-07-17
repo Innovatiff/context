@@ -4,7 +4,7 @@ import { toParagraphs } from '../utils/prose';
  * Concrete worked examples / scenarios that make the data tangible — "what this
  * looks like for a real person." Rendered as labelled cards.
  */
-type Example = { label?: string; title: string; body: string | string[] };
+type Example = { label?: string | null; title: string; body: string | string[] };
 export interface Props {
   examples: Example[];
   heading?: string;

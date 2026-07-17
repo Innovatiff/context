@@ -12,6 +12,7 @@ export interface Props {
   lede?: string;
   updated?: string;
   showDisclaimer?: boolean;
+  ogImage?: string;
 }
 
 const {
@@ -23,12 +24,13 @@ const {
   lede,
   updated,
   showDisclaimer = false,
+  ogImage,
 } = Astro.props;
 
 const crumbLabel = heading ?? title;
 ---
 
-<BaseLayout title={title} description={description} path={path}>
+<BaseLayout title={title} description={description} path={path} ogImage={ogImage}>
   <div class="container page">
     <Breadcrumbs items={[{ label: crumbLabel }]} />
     <header class="page__head">

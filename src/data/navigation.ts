@@ -28,6 +28,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
       { label: 'Life Areas', href: '/life-areas' },
       { label: 'Research Library', href: '/research-library' },
       { label: 'The Data', href: '/the-data' },
+      { label: 'By the Numbers', href: '/by-the-numbers' },
       { label: 'RSS Feed', href: '/rss.xml' },
     ],
   },
@@ -38,6 +39,7 @@ export const FOOTER_COLUMNS: FooterColumn[] = [
       { label: 'Contact', href: '/contact' },
       { label: 'Research Methodology', href: '/research-methodology' },
       { label: 'Data Sources', href: '/data-sources' },
+      { label: 'How to Read Statistics', href: '/how-to-read-statistics' },
     ],
   },
   {

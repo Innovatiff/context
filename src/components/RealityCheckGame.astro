@@ -78,7 +78,7 @@ const payload = JSON.stringify({ questions: RC_QUESTIONS, epoch: RC_EPOCH });
     const qIndex = ((dayIndex % questions.length) + questions.length) % questions.length;
     const q = questions[qIndex];
 
-    const fmt = (v) => {
+    const fmt = (v: number | string) => {
       const n = Number(v);
       const num = q.step < 1 ? n.toFixed(1).replace(/\.0$/, '') : Math.round(n).toLocaleString('en-US');
       return `${q.prefix || ''}${num}${q.suffix || ''}`;
@@ -86,9 +86,9 @@ const payload = JSON.stringify({ questions: RC_QUESTIONS, epoch: RC_EPOCH });
 
     const KEY = 'hp_reality_check_v1';
     const load = () => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { return null; } };
-    const save = (s) => { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch {} };
+    const save = (s: unknown) => { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch {} };
 
-    const tierFor = (closeness) => {
+    const tierFor = (closeness: number) => {
       if (closeness <= 0.05) return { emoji: '🎯', label: 'Dead on. The data holds no surprises for you.' };
       if (closeness <= 0.12) return { emoji: '🔥', label: 'Impressively close.' };
       if (closeness <= 0.25) return { emoji: '👀', label: 'Warm — but the real number may surprise you.' };
@@ -96,10 +96,10 @@ const payload = JSON.stringify({ questions: RC_QUESTIONS, epoch: RC_EPOCH });
     };
 
     roots.forEach((root) => {
-      const $ = (sel) => root.querySelector(sel);
+      const $ = <T extends HTMLElement = HTMLElement>(sel: string) => root.querySelector(sel) as T;
       const guessBox = $('[data-rc-guess]');
       const resultBox = $('[data-rc-result]');
-      const slider = $('[data-rc-slider]');
+      const slider = $<HTMLInputElement>('[data-rc-slider]');
       const valueEl = $('[data-rc-value]');
 
       $('[data-rc-daynum]').textContent = `#${dayIndex + 1}`;
@@ -111,28 +111,28 @@ const payload = JSON.stringify({ questions: RC_QUESTIONS, epoch: RC_EPOCH });
       valueEl.textContent = fmt(slider.value);
       slider.addEventListener('input', () => { valueEl.textContent = fmt(slider.value); });
 
-      const showResult = (guess, state) => {
+      const showResult = (guess: number, state: { streak?: number }) => {
         guessBox.hidden = true;
         resultBox.hidden = false;
         const closeness = Math.abs(guess - q.value) / (q.max - q.min);
         const tier = tierFor(closeness);
         const offPct = Math.max(0, Math.round(closeness * 100));
         $('[data-rc-tier]').textContent = `${tier.emoji} ${tier.label}`;
-        const pos = (v) => `${Math.min(98, Math.max(2, ((v - q.min) / (q.max - q.min)) * 100))}%`;
+        const pos = (v: number) => `${Math.min(98, Math.max(2, ((v - q.min) / (q.max - q.min)) * 100))}%`;
         $('[data-rc-you]').style.left = pos(guess);
         $('[data-rc-real]').style.left = pos(q.value);
         $('[data-rc-answer]').textContent = q.answer;
         $('[data-rc-source]').textContent = `Source: ${q.source}`;
         $('[data-rc-note]').textContent = q.note;
-        $('[data-rc-link]').href = `/insights/${q.slug}`;
-        if (state.streak > 1) {
+        $<HTMLAnchorElement>('[data-rc-link]').href = `/insights/${q.slug}`;
+        if ((state.streak ?? 0) > 1) {
           const st = $('[data-rc-streak]');
           st.hidden = false;
           st.textContent = `🔥 ${state.streak}-day streak`;
         }
         const shareBtn = $('[data-rc-share]');
         shareBtn.addEventListener('click', async () => {
-          const text = `Daily Reality Check #${dayIndex + 1} — Honest Picture\n${tier.emoji} within ${offPct}% of the real number${state.streak > 1 ? ` · 🔥 ${state.streak}-day streak` : ''}\nhonestpicture.com/reality-check`;
+          const text = `Daily Reality Check #${dayIndex + 1} — Honest Picture\n${tier.emoji} within ${offPct}% of the real number${(state.streak ?? 0) > 1 ? ` · 🔥 ${state.streak}-day streak` : ''}\nhonestpicture.com/reality-check`;
           let shared = false;
           if (navigator.share) { try { await navigator.share({ text }); shared = true; } catch {} }
           if (!shared) {

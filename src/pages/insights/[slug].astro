@@ -18,7 +18,7 @@ import { getCategory } from '../../data/categories';
 import { toParagraphs } from '../../utils/prose';
 import { SITE } from '../../consts';
 
-const slugify = (s) =>
+const slugify = (s: string) =>
   s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
 export async function getStaticPaths() {
@@ -123,6 +123,7 @@ const jsonLd = {
   title={d.metaTitle}
   description={d.metaDescription}
   path={`/insights/${d.slug}`}
+  ogImage={`/og/${d.slug}.png`}
   ogType="article"
   jsonLd={jsonLd}
 >

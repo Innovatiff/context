@@ -4,12 +4,12 @@
  * chart library — bar widths are computed from the data at build time. A
  * highlighted bar can mark "you are here" style context.
  */
-type Bar = { label: string; value: number; display?: string; highlight?: boolean };
+type Bar = { label: string; value: number; display?: string | null; highlight?: boolean };
 type Dist = {
-  title?: string;
-  caption?: string;
-  unit?: string;
-  source?: string;
+  title?: string | null;
+  caption?: string | null;
+  unit?: string | null;
+  source?: string | null;
   bars: Bar[];
 };
 export interface Props {

@@ -9,7 +9,7 @@ import DataTable from './DataTable.astro';
  */
 export interface Props {
   intro: string[];
-  stats?: { value: string; label: string; source?: string }[];
+  stats?: { value: string; label: string; source?: string | null }[];
   distributions?: any[];
   tables?: any[];
   heading?: string;

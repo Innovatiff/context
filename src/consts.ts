@@ -19,8 +19,8 @@ export const SITE = {
   /** The main promise, used in hero / OG copy. */
   promise:
     "You see your life from the inside. We'll show you what it looks like from the outside.",
-  /** Default social/OG image (lives in /public). */
-  ogImage: '/og-default.svg',
+  /** Default social/OG image (generated at build by /og/[key].png). */
+  ogImage: '/og/page--default.png',
   /** Contact address. */
   email: 'hello@honestpicture.com',
   /** Locale for html lang + OG. */

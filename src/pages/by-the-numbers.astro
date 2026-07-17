@@ -1,0 +1,224 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { CATEGORIES } from '../data/categories';
+import { SITE } from '../consts';
+
+/**
+ * A compiled wall of honest numbers. Every figure below is lifted verbatim
+ * from the stat block of one of the library's cited pages — nothing on this
+ * page is sourced separately, so it can never drift from the research pages.
+ */
+const insights = await getCollection('insights');
+
+interface CompiledStat {
+  value: string;
+  label: string;
+  source?: string | null;
+  slug: string;
+}
+
+const groups = CATEGORIES.map((cat) => {
+  const candidates = insights
+    .filter((e) => e.data.category === cat.slug && e.data.realNumbers?.length)
+    .sort(
+      (a, b) =>
+        Number(b.data.featured ?? false) - Number(a.data.featured ?? false) ||
+        a.data.title.localeCompare(b.data.title)
+    );
+  const seen = new Set<string>();
+  const stats: CompiledStat[] = [];
+  for (const e of candidates) {
+    const s = e.data.realNumbers![0];
+    const key = s.label.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    stats.push({ value: s.value, label: s.label, source: s.source, slug: e.data.slug });
+    if (stats.length >= 8) break;
+  }
+  return { cat, stats };
+}).filter((g) => g.stats.length > 0);
+
+const total = groups.reduce((n, g) => n + g.stats.length, 0);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Ordinary Life, By the Numbers',
+  url: new URL('/by-the-numbers', SITE.url).href,
+  description: `${total} key figures about money, time, work, relationships, health, and meaning — every one cited to government data, peer-reviewed research, or an established survey.`,
+  isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+};
+---
+
+<BaseLayout
+  title="Ordinary Life, By the Numbers — Key Figures, All Cited"
+  description={`${total} honest statistics about ordinary life — savings, sleep, friendship, work hours, screen time — each lifted from a cited research page and linked to its full context.`}
+  path="/by-the-numbers"
+  ogImage="/og/page--by-the-numbers.png"
+  jsonLd={jsonLd}
+>
+  <div class="container btn-page">
+    <Breadcrumbs items={[{ label: 'By the Numbers' }]} />
+    <header class="btn-head">
+      <p class="eyebrow">By the Numbers</p>
+      <h1>Ordinary life, by the numbers.</h1>
+      <p class="lede">
+        {total} key figures from the research library, in one place — what people
+        actually earn, save, sleep, and carry. Every number below is taken directly
+        from one of our cited pages; nothing here is sourced separately. Numbers are
+        rounded the way the underlying research reports them, and each links to the
+        page that gives it honest context.
+      </p>
+      <p class="btn-note faint">
+        Compiled automatically from {insights.length} research pages · sources named
+        on every figure · see <a href="/the-data">where the data comes from</a> and
+        <a href="/how-to-read-statistics">how to read numbers like these</a>.
+      </p>
+    </header>
+
+    {
+      groups.map((g) => (
+        <section class="btn-group" id={g.cat.slug}>
+          <div class="btn-group__head">
+            <h2>{g.cat.title}</h2>
+            <a href={`/${g.cat.slug}`} class="btn-group__link">View area →</a>
+          </div>
+          <div class="btn-grid">
+            {g.stats.map((s) => (
+              <a class="numcard" href={`/insights/${s.slug}`}>
+                <span class="numcard__value">{s.value}</span>
+                <span class="numcard__label">{s.label}</span>
+                {s.source && <span class="numcard__source">{s.source}</span>}
+                <span class="numcard__more">See the full picture →</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+
+    <section class="btn-foot">
+      <h2>How to use this page honestly</h2>
+      <p>
+        A single number, even a well-sourced one, is a snapshot — it hides spread,
+        skew, and who was actually measured. That is why every figure here links to
+        a full page: the context around a number matters as much as the number.
+        None of these figures tell you whether you are doing well or badly. They
+        tell you where the middle of the distribution actually sits, which is
+        usually quieter than the version social media suggests.
+      </p>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .btn-page {
+    padding-top: var(--space-l);
+  }
+  .btn-head {
+    max-width: 720px;
+    margin: var(--space-m) 0 var(--space-2xl);
+  }
+  .btn-head h1 {
+    margin: var(--space-s) 0 var(--space-m);
+  }
+  .btn-note {
+    margin-top: var(--space-m);
+    font-size: 0.88rem;
+  }
+  .btn-group {
+    margin-bottom: var(--space-2xl);
+    scroll-margin-top: 90px;
+  }
+  .btn-group__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-s);
+    margin-bottom: var(--space-m);
+    padding-bottom: var(--space-2xs);
+    border-bottom: 1px solid var(--border-color);
+  }
+  .btn-group__head h2 {
+    font-size: var(--step-2);
+    margin: 0;
+  }
+  .btn-group__link {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--teal-dark);
+    white-space: nowrap;
+  }
+  .btn-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-s);
+  }
+  @media (min-width: 640px) {
+    .btn-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (min-width: 980px) {
+    .btn-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  .numcard {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: var(--space-m);
+    background: var(--card-bg, #fff);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    color: var(--text);
+    transition: box-shadow 0.18s var(--ease), transform 0.18s var(--ease),
+      border-color 0.18s var(--ease);
+  }
+  .numcard:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+    border-color: var(--border-strong);
+    text-decoration: none;
+    color: var(--text);
+  }
+  .numcard__value {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: var(--step-3);
+    line-height: 1.05;
+    color: var(--teal-dark);
+    letter-spacing: -0.01em;
+  }
+  .numcard__label {
+    font-size: 0.92rem;
+    line-height: 1.45;
+    color: var(--text);
+  }
+  .numcard__source {
+    font-size: 0.78rem;
+    color: var(--footnote);
+    line-height: 1.4;
+  }
+  .numcard__more {
+    margin-top: auto;
+    padding-top: 0.4rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--teal-dark);
+  }
+  .btn-foot {
+    max-width: 720px;
+    margin: var(--space-2xl) 0 var(--space-3xl);
+  }
+  .btn-foot h2 {
+    font-size: var(--step-2);
+    margin-bottom: var(--space-s);
+  }
+  .btn-foot p {
+    color: var(--text-muted);
+  }
+</style>

@@ -1,0 +1,131 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+---
+
+<PageLayout
+  title="How to Read Statistics About Your Life"
+  description="A plain-language guide to reading statistics honestly: medians vs. averages, base rates, survivorship bias, and a checklist for sanity-checking any number you meet online."
+  path="/how-to-read-statistics"
+  ogImage="/og/page--how-to-read-statistics.png"
+  eyebrow="Guide"
+  heading="How to read statistics about your life."
+  lede="Numbers about “normal” are everywhere — average salaries, typical savings, how often everyone else exercises. Most of them are technically true and practically misleading. This guide covers the handful of ideas that make the difference."
+>
+  <h2>Start with one question: median or mean?</h2>
+  <p>
+    The single most common way a true number misleads is the word “average.”
+    The <strong>mean</strong> adds everything up and divides; the
+    <strong>median</strong> is the middle person. For anything money-related —
+    income, savings, net worth — a small number of very large values pulls the
+    mean far above where most people actually are.
+  </p>
+  <p>
+    Imagine five households with $10,000, $20,000, $30,000, $40,000, and
+    $2 million. The mean is $420,000. The median is $30,000. Both are
+    “the average,” and only one of them describes a life anyone in that group
+    is living. Whenever a headline says “the average American has X,” your
+    first question should be which one was used — and if the article doesn't
+    say, assume the flattering one. On this site we default to medians for
+    exactly this reason, and we say so when a source only reports means.
+  </p>
+
+  <h2>A number is a snapshot of a distribution</h2>
+  <p>
+    Even a median compresses an enormous range into one point. Real
+    populations are spread out — widely. For almost any life measure
+    (savings, sleep, social time, exercise), the honest picture is a curve:
+    a large middle, long tails, and far more variation than public
+    conversation implies. When you see one number, ask what the 25th and
+    75th percentiles look like. If a source can't tell you, it is describing
+    a point, not a population — and you can't locate yourself inside a point.
+  </p>
+
+  <h2>Check the denominator</h2>
+  <p>
+    “Millennials who invest in index funds report higher satisfaction.”
+    Which millennials? All of them, or the subset who had money to invest,
+    answered a brokerage's survey, and finished it? Every statistic has a
+    denominator — the group actually measured — and it is usually narrower
+    than the headline implies. Government surveys with large representative
+    samples (the census, labor statistics, national health surveys) have
+    broad denominators. A poll run by a company with something to sell
+    usually doesn't. The number can be honestly computed and still describe
+    a group you don't belong to.
+  </p>
+
+  <h2>Survivorship and selection: who you're actually comparing yourself to</h2>
+  <p>
+    The lives you see are a filtered sample. People post promotions, not
+    layoffs; engagement photos, not quiet Tuesdays. Businesses that failed
+    don't write “how I did it” threads. This is survivorship bias, and it
+    doesn't just distort social media — it distorts your intuition about
+    what's normal, because your intuition is trained on what's visible.
+    When your gut says “everyone is doing better than me,” it is usually
+    reporting on a curated sample, not a population. The research on this
+    gap is one of the most consistent things in the library — see
+    <a href="/insights/why-you-feel-behind-even-when-youre-not">why you feel
+    behind even when you're not</a> and
+    <a href="/insights/is-comparison-really-the-thief-of-joy">what comparison
+    research actually shows</a>.
+  </p>
+
+  <h2>Base rates: rare things are rare, common struggles are common</h2>
+  <p>
+    Before reacting to any claim, ask what share of people it applies to.
+    Extraordinary outcomes get coverage precisely because they are
+    exceptional — that's the definition of news. Meanwhile, the ordinary
+    struggles almost nobody photographs (thin savings, interrupted sleep,
+    friendships that take work) show up in population data at rates that
+    would genuinely surprise most people. A useful habit: whenever a story
+    makes you feel unusual, go find the base rate. It is usually far less
+    lonely than the feeling suggests —
+    <a href="/insights/what-most-people-your-age-actually-have-saved">actual
+    savings by age</a> is a good place to see this in action.
+  </p>
+
+  <h2>One study is a hint, not a fact</h2>
+  <p>
+    Single studies — especially small, surprising ones — are where headlines
+    come from and where replication failures live. Findings worth building a
+    picture on tend to be replicated across samples, hold up in meta-analyses,
+    or come from large representative surveys. When research on a question is
+    genuinely mixed, the honest summary is “mixed,” not whichever side is more
+    shareable. That's why pages here hedge (“roughly,” “about,” “in most
+    studies”) and say plainly when evidence is thin. Precision that the
+    underlying research can't support isn't rigor — it's decoration.
+  </p>
+
+  <h2>Self-reported numbers drift</h2>
+  <p>
+    People round their height up, their weight down, their gym visits up, and
+    their screen time down — not from dishonesty, but because memory is
+    reconstructive and questions carry social pressure. Numbers measured
+    directly (time-use diaries, device logs, administrative records) routinely
+    disagree with what people report about themselves. When two sources
+    conflict, check whether one of them asked people and the other watched
+    people. The watched number is usually closer.
+  </p>
+
+  <h2>A checklist for any statistic you meet</h2>
+  <ul>
+    <li><strong>Who measured it?</strong> A statistical agency, a research team, or someone selling something?</li>
+    <li><strong>Median or mean?</strong> If money is involved and it doesn't say, be suspicious.</li>
+    <li><strong>Who is in the denominator?</strong> Everyone, or a narrow, self-selected slice?</li>
+    <li><strong>When?</strong> Numbers about money and technology age quickly; a decade-old figure is a different world.</li>
+    <li><strong>Is it measured or self-reported?</strong> And in which direction would people shade the truth?</li>
+    <li><strong>Is it one study or a pattern?</strong> Surprising single results deserve patience, not panic.</li>
+    <li><strong>What's the spread?</strong> If you only got one number, you haven't seen the distribution yet.</li>
+  </ul>
+
+  <h2>How we hold ourselves to this</h2>
+  <p>
+    Every page on this site names its sources — government data, peer-reviewed
+    research, and established surveys only — and every number links back to
+    where it came from. You can read
+    <a href="/research-methodology">the methodology</a>, browse
+    <a href="/data-sources">the full source list</a>, see the headline figures
+    collected on <a href="/by-the-numbers">By the Numbers</a>, or check
+    <a href="/the-data">where the data comes from</a>. If a number here ever
+    fails the checklist above, that's a bug — <a href="/contact">tell us</a>.
+  </p>
+</PageLayout>
