@@ -16,7 +16,8 @@ import DisclaimerBox from '../../components/DisclaimerBox.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import { getCategory } from '../../data/categories';
 import { toParagraphs } from '../../utils/prose';
-import { SITE } from '../../consts';
+import { SITE, AUTHOR } from '../../consts';
+import AuthorByline from '../../components/AuthorByline.astro';
 
 const slugify = (s: string) =>
   s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
@@ -106,6 +107,11 @@ const jsonLd = {
   articleSection: cat?.title ?? d.lifeArea,
   inLanguage: 'en',
   isAccessibleForFree: true,
+  author: {
+    '@type': 'Person',
+    name: AUTHOR.name,
+    url: new URL(AUTHOR.url, SITE.url).href,
+  },
   publisher: {
     '@type': 'Organization',
     name: SITE.name,
@@ -138,6 +144,7 @@ const jsonLd = {
       />
       {cat && <a href={`/${cat.slug}`} class={`insight__tag accent-${cat.accent}`}>{cat.lifeArea}</a>}
       <h1 class="insight__title">{d.title}</h1>
+      <AuthorByline date={reviewedLabel} />
     </div>
 
     <div class="container insight__layout">
@@ -239,7 +246,7 @@ const jsonLd = {
         <DataSources sources={d.dataSources} />
 
         <div class="insight__foot">
-          <p class="faint">Last reviewed: {reviewedLabel}</p>
+          <p class="faint">Created by {AUTHOR.name} · Last reviewed: {reviewedLabel}</p>
           <DisclaimerBox variant="short" />
         </div>
       </div>

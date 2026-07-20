@@ -64,8 +64,8 @@ const pageSpecs: Record<string, OgSpec> = {
   },
   about: {
     kicker: 'About',
-    title: 'A mirror made of data — not advice, not therapy, not judgment.',
-    sub: 'Why Honest Picture exists and the editorial rules every page has to pass.',
+    title: 'The story behind the mirror.',
+    sub: 'Daniel Hernandez on why Honest Picture exists, and the rules every page has to pass.',
   },
   'by-the-numbers': {
     kicker: 'By the Numbers',

@@ -29,6 +29,18 @@ export const SITE = {
 } as const;
 
 /**
+ * Site author. Every article carries this byline and Person structured data.
+ * To use a real photo, drop it in /public/authors/ and update `image` here.
+ */
+export const AUTHOR = {
+  name: 'Daniel Hernandez',
+  /** Path under /public. */
+  image: '/authors/daniel-hernandez.svg',
+  /** Where the byline links. */
+  url: '/about',
+} as const;
+
+/**
  * AdSense configuration.
  *
  * The site is built AdSense-ready but ships with ads DISABLED. To go live after

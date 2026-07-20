@@ -12,7 +12,10 @@ export interface Props {
   lede?: string;
   updated?: string;
   showDisclaimer?: boolean;
+  /** Breadcrumb label override (defaults to heading/title). */
+  crumb?: string;
   ogImage?: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
@@ -24,13 +27,15 @@ const {
   lede,
   updated,
   showDisclaimer = false,
+  crumb,
   ogImage,
+  jsonLd,
 } = Astro.props;
 
-const crumbLabel = heading ?? title;
+const crumbLabel = crumb ?? heading ?? title;
 ---
 
-<BaseLayout title={title} description={description} path={path} ogImage={ogImage}>
+<BaseLayout title={title} description={description} path={path} ogImage={ogImage} jsonLd={jsonLd}>
   <div class="container page">
     <Breadcrumbs items={[{ label: crumbLabel }]} />
     <header class="page__head">

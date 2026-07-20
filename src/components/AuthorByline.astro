@@ -1,0 +1,68 @@
+---
+import { AUTHOR } from '../consts';
+
+/**
+ * Article byline: author avatar, "Created by", and the review date.
+ * Sits directly under the H1 on every insight page.
+ */
+export interface Props {
+  /** Human-readable review date, e.g. "March 2026". */
+  date?: string;
+}
+const { date } = Astro.props;
+---
+
+<div class="byline">
+  <img
+    src={AUTHOR.image}
+    alt={AUTHOR.name}
+    width="40"
+    height="40"
+    class="byline__avatar"
+    loading="lazy"
+  />
+  <p class="byline__text">
+    <span class="byline__name">
+      Created by <a href={AUTHOR.url}>{AUTHOR.name}</a>
+    </span>
+    {date && <span class="byline__date">Last reviewed {date}</span>}
+  </p>
+</div>
+
+<style>
+  .byline {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    margin-top: var(--space-s);
+  }
+  .byline__avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .byline__text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    margin: 0;
+    line-height: 1.35;
+  }
+  .byline__name {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .byline__name a {
+    color: inherit;
+  }
+  .byline__name a:hover {
+    color: var(--teal-dark);
+    text-decoration: none;
+  }
+  .byline__date {
+    font-size: 0.8rem;
+    color: var(--footnote);
+  }
+</style>

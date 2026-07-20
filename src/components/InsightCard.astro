@@ -1,11 +1,12 @@
 ---
 import { getCategory } from '../data/categories';
+import { AUTHOR } from '../consts';
 
 export interface Props {
   title: string;
   slug: string;
   category: string;
-  /** Short teaser — usually the keyFinding. */
+  /** Short teaser, usually the keyFinding. */
   teaser?: string;
   compact?: boolean;
 }
@@ -19,6 +20,10 @@ const accent = cat?.accent ?? 'teal';
   {cat && <span class="insight-card__cat">{cat.shortLabel}</span>}
   <h3 class="insight-card__title">{title}</h3>
   {teaser && !compact && <p class="insight-card__teaser">{teaser}</p>}
+  <span class="insight-card__author">
+    <img src={AUTHOR.image} alt="" width="18" height="18" loading="lazy" />
+    Created by {AUTHOR.name}
+  </span>
   <span class="insight-card__more" aria-hidden="true">Read the data
     <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
   </span>
@@ -80,9 +85,22 @@ const accent = cat?.accent ?? 'teal';
     font-size: 0.92rem;
     line-height: 1.55;
   }
-  .insight-card__more {
+  .insight-card__author {
     margin-top: auto;
-    padding-top: 0.4rem;
+    padding-top: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.78rem;
+    color: var(--footnote);
+  }
+  .insight-card__author img {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+  }
+  .insight-card__more {
+    padding-top: 0.1rem;
     display: inline-flex;
     align-items: center;
     gap: 0.35rem;

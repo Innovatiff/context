@@ -1,126 +1,221 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
-import { SITE } from '../consts';
+import { SITE, AUTHOR } from '../consts';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: AUTHOR.name,
+    url: new URL('/about', SITE.url).href,
+    image: new URL(AUTHOR.image, SITE.url).href,
+    description:
+      'Founder and author of Honest Picture, a research-backed library that places real-life numbers inside real population data.',
+    mainEntityOfPage: new URL('/about', SITE.url).href,
+    worksFor: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'About Honest Picture',
+    url: new URL('/about', SITE.url).href,
+    about: { '@type': 'Person', name: AUTHOR.name },
+  },
+];
 ---
 
 <PageLayout
-  title="About Honest Picture"
-  description="Honest Picture is an independent, research-backed library and assessment that helps people understand where they actually stand in life — using real population data and peer-reviewed studies, not advice or judgment. Here is who we are, how we work, and the standards we hold."
+  title="About Daniel Hernandez and Honest Picture"
+  description="The story behind Honest Picture: who Daniel Hernandez is, the night that started the project, and the rules every page on this site has to pass."
   path="/about"
   ogImage="/og/page--about.png"
+  jsonLd={jsonLd}
+  crumb="About"
   eyebrow="About"
-  heading="A mirror made of data."
-  lede="Honest Picture exists to answer one quiet, near-universal question — am I okay? — not with reassurance or alarm, but with honest context drawn from real research."
+  heading="The story behind the mirror."
+  lede="Honest Picture is researched, written, and run by one person. This page is the honest version of why it exists, plus the rules every page has to follow."
 >
-  <h2>Why this exists</h2>
+  <div class="author-card">
+    <img src={AUTHOR.image} alt="Daniel Hernandez" width="96" height="96" />
+    <div>
+      <p class="author-card__name">{AUTHOR.name}</p>
+      <p class="author-card__role">
+        Founder of {SITE.name}. Creator of every page in the library.
+      </p>
+    </div>
+  </div>
+
+  <h2>Where this started</h2>
   <p>
-    Almost everyone, at some point, measures their life against a standard and
-    comes up short. The standard is usually invisible and almost always wrong: a
-    blend of curated social feeds, the most successful people in your particular
-    circle, and a timeline you absorbed without ever checking it against reality.
+    A few years ago, on an ordinary Tuesday night, I typed a question into a
+    search engine that I was too embarrassed to ask anyone out loud: how much
+    should I have saved by now? A close friend had just bought a house. Another
+    had posted about a promotion. I was sitting in a rented apartment doing the
+    math on my own life, and the math felt like losing.
   </p>
   <p>
-    You see your own life from the inside — every doubt, every gap, every
-    unfinished thing. You see everyone else from the outside, at their most
-    composed. The result is a feeling of being behind a pace that, in the actual
-    population data, frequently does not exist.
+    What I found that night made it worse. Half the results were financial
+    companies telling me I should already have multiples of my salary put away.
+    The other half were motivational posts telling me not to compare myself to
+    anyone, which is easy to say and impossible to do. Nobody would just show me
+    the actual numbers. Not the aspirational targets. The real ones. What people
+    my age actually had.
   </p>
   <p>
-    {SITE.name} takes the specific facts of your life — your age, income, savings,
-    time, relationships, health, and sense of direction — and places them inside
-    real research and real population data. Not to tell you that you are doing well
-    or badly. To show you what your situation actually looks like from the outside.
+    It took me weeks of digging to find the answer, buried in a Federal Reserve
+    survey table that most people will never open. The real median was nothing
+    like the number in my head. I remember the feeling very clearly, and it was
+    not triumph. It was something quieter: the standard I had been failing
+    against did not exist. I had been measuring my life with a broken ruler.
   </p>
 
-  <h2>What you'll find here</h2>
+  <h2>The spreadsheet that would not stop growing</h2>
+  <p>
+    That night turned into a habit. Every time a worry surfaced, I went looking
+    for the population data behind it. How much do people actually sleep? How
+    many close friends does a normal adult have? How often do couples argue?
+    How many people actually love their job? I kept the answers in a
+    spreadsheet, with a link to the source next to every number, because I
+    stopped trusting any figure I could not trace.
+  </p>
+  <p>
+    The pattern repeated so often it stopped being a surprise. Almost every
+    time, the honest number was more forgiving than the number in my head. Not
+    because life is easy, but because my sense of "everyone else" was built
+    from the most visible, most polished slice of other people's lives. The
+    data kept describing a quieter, more ordinary, more crowded middle than the
+    one I imagined I was falling out of.
+  </p>
+  <p>
+    I started sending the spreadsheet to friends when they spiraled about
+    money or milestones. The response was almost always the same two
+    sentences: "wait, really?" and then "why does nobody just show this?"
+    Eventually I ran out of excuses for why nobody did. So I built it.
+  </p>
+
+  <h2>Why I made this project</h2>
+  <p>
+    Honest Picture exists because the question underneath all those searches,
+    the one almost everyone carries and almost nobody says out loud, is: am I
+    okay? And the two industries that answer it both have something to sell.
+    The comparison machine sells you inadequacy, because inadequacy scrolls and
+    clicks and buys. The self-help machine sells you rescue from that
+    inadequacy. Neither one will simply hand you the base rates and let you
+    decide how you feel.
+  </p>
+  <p>
+    I wanted a third thing to exist. A place that treats you like an adult:
+    here is the real distribution, here is where the research is strong, here
+    is where it is mixed or thin, here is what actually helps, and here is
+    what provably does not. No grade at the end. No program to buy. Just the
+    picture, as honest as I can make it, with every source named.
+  </p>
+
+  <h2>What I am, and what I am not</h2>
+  <p>
+    I am not a therapist, a doctor, or an economist, and this site never
+    pretends otherwise. I am someone who reads the underlying research
+    carefully, checks figures against the original tables, hedges when the
+    evidence is soft, and refuses to publish a number I cannot cite. Where a
+    topic is genuinely clinical, the pages say so plainly and point to
+    qualified professionals. Nothing here is medical, psychological,
+    financial, or legal advice; the <a href="/disclaimer">disclaimer</a> spells
+    that out.
+  </p>
+
+  <h2>How I make every page</h2>
+  <p>
+    Every page follows the same process, described in full on the
+    <a href="/research-methodology">research methodology</a> page:
+  </p>
   <ul>
-    <li>
-      <strong>A research library</strong> of in-depth, plainly written articles —
-      each answering a specific, honest question about money, time, work,
-      relationships, health, purpose, comparison, regret, life stages, or happiness,
-      and each grounded in cited data.
-    </li>
-    <li>
-      <strong>The Context Assessment</strong>, a free, private tool that places your
-      own answers next to population data across six areas of life. It runs entirely
-      in your browser and stores nothing.
-    </li>
-    <li>
-      <strong>A published methodology and full source list</strong>, so you can see
-      exactly how the content is made and where every figure comes from.
-    </li>
+    <li>Start from a real, specific question people actually ask.</li>
+    <li>Pull figures only from government statistics, large established surveys, and peer-reviewed studies. Never from anecdote, never invented.</li>
+    <li>Hedge numbers honestly ("roughly," "about") and say plainly when research is mixed or weak.</li>
+    <li>Separate what the data shows, why it feels different, what helps, and, just as important, what does not help.</li>
+    <li>Name the sources on every page and keep a full <a href="/data-sources">source list</a>.</li>
   </ul>
 
-  <h2>Who we are</h2>
-  <p>
-    {SITE.name} is an independent publication and research project — not a startup
-    selling a program, not a personality-quiz brand, and not affiliated with any
-    company whose products it might recommend. It is written and edited by a small
-    team that reads the underlying research, cross-checks the figures, and writes in
-    careful, non-judgmental language. Our interest is in getting the picture right,
-    not in getting you to buy anything.
-  </p>
-
-  <h2>How we make the content</h2>
-  <p>
-    Every insight page follows the same disciplined process, described in full on
-    our <a href="/research-methodology">research methodology</a> page:
-  </p>
+  <h2>The rules I will not break</h2>
   <ul>
-    <li>We start from a real, specific question people actually ask.</li>
-    <li>We gather figures from government statistics, large surveys, and peer-reviewed studies — never from anecdote or invention.</li>
-    <li>We hedge numbers honestly ("roughly," "about," "research on this is mixed") and say so plainly when the evidence is weak or contested.</li>
-    <li>We separate what the data shows, why it can feel different, what actually helps, and — just as importantly — what does not help.</li>
-    <li>We cite our sources on every page and keep a full <a href="/data-sources">source list</a>.</li>
-  </ul>
-
-  <h2>Our editorial standards</h2>
-  <ul>
-    <li><strong>Trust first.</strong> If a claim is not backed by a real, citable source, it does not go on the page. We never invent statistics or studies.</li>
-    <li><strong>Context, not verdicts.</strong> We show you the distribution. We do not grade your place in it or tell you that you are doing well or badly.</li>
-    <li><strong>Honest about uncertainty.</strong> We distinguish strong findings from weak ones, flag where research is mixed, and note where data is thin or skewed toward particular countries.</li>
-    <li><strong>Humane on hard topics.</strong> Where a subject is genuinely painful, we aim to be accurate and kind at once — never minimising a real difficulty, never inflating a common experience into a personal failing, and pointing toward qualified professionals where someone may need real help.</li>
-    <li><strong>Privacy by design.</strong> The assessment runs in your browser; your answers are never stored or transmitted.</li>
+    <li><strong>No invented numbers, ever.</strong> If I cannot cite it, it does not go on the page.</li>
+    <li><strong>Context, not verdicts.</strong> I show the distribution. I do not grade your place in it.</li>
+    <li><strong>Honest about uncertainty.</strong> Strong findings, weak findings, and open questions are labeled as what they are.</li>
+    <li><strong>Humane on hard topics.</strong> Accurate and kind at the same time, and pointing to real help where someone may need it.</li>
+    <li><strong>Privacy by design.</strong> The <a href="/assessment">assessment</a> runs entirely in your browser. Your answers are never stored or transmitted, and I could not read them if I wanted to.</li>
   </ul>
 
   <h2>Accuracy and corrections</h2>
   <p>
-    We take accuracy seriously and we would genuinely rather hear about an error
-    than not. Each page carries a "last reviewed" date, and we update figures as new
-    data is published. If you spot something that looks wrong or out of date, please
-    tell us on the <a href="/contact">contact page</a> — include the page and, if you
-    can, a source — and we will review and correct or annotate it.
-  </p>
-
-  <h2>What we are — and what we are not</h2>
-  <p>
-    We are a publication and a tool, built on publicly available research,
-    government statistics, and peer-reviewed studies. We are not a personality quiz,
-    a productivity app, a self-help brand, or a substitute for therapy or
-    professional advice. Nothing here is medical, psychological, financial, or legal
-    advice — see our <a href="/disclaimer">disclaimer</a>. We do not sell a
-    transformation, and we do not promise that seeing your situation clearly will
-    fix it.
+    I would genuinely rather hear about an error than not. Every page carries a
+    "last reviewed" date, and figures get updated as new data is published. If
+    something looks wrong or out of date, tell me on the
+    <a href="/contact">contact page</a>. Include the page and, if you can, a
+    source, and I will review and correct or annotate it.
   </p>
 
   <h2>How the site is funded</h2>
   <p>
-    Keeping the library free and open costs money to research, write, and host. The
-    site is supported by advertising and may display ads served through Google
-    AdSense. Advertising never influences our editorial content: which studies we
-    cite and what we conclude are decided on the evidence alone, independently of
-    any advertiser. Ads are never placed inside the assessment or its results, and
-    never adjacent to a specific data finding. See our
-    <a href="/privacy-policy">privacy policy</a> for how advertising cookies work
-    and how to opt out.
+    Keeping the library free costs money to research, write, and host. The site
+    is supported by advertising and may display ads served through Google
+    AdSense. Advertising never influences the content: which studies I cite and
+    what I conclude are decided on the evidence alone. Ads are never placed
+    inside the assessment or its results, and never next to a specific data
+    finding. The <a href="/privacy-policy">privacy policy</a> explains how
+    advertising cookies work and how to opt out.
   </p>
 
-  <h2>Get in touch</h2>
+  <h2>Say hello</h2>
   <p>
-    Questions, corrections, or a source you think we should use? Email
-    <a href={`mailto:${SITE.email}`}>{SITE.email}</a>, visit our
-    <a href="/contact">contact page</a>, read our
-    <a href="/research-methodology">research methodology</a>, or see
-    <a href="/data-sources">every source we use</a>.
+    Questions, corrections, or a source you think I should use? Email
+    <a href={`mailto:${SITE.email}`}>{SITE.email}</a> or use the
+    <a href="/contact">contact page</a>. You can also read the
+    <a href="/research-methodology">methodology</a>, browse
+    <a href="/data-sources">every source</a>, or see the numbers themselves on
+    <a href="/by-the-numbers">By the Numbers</a>.
   </p>
 </PageLayout>
+
+<style>
+  .author-card {
+    display: flex;
+    align-items: center;
+    gap: var(--space-m);
+    background: var(--card-bg, #fff);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: var(--space-m) var(--space-l);
+    margin-bottom: var(--space-xl);
+    box-shadow: var(--shadow-sm);
+  }
+  .author-card img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .author-card__name {
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    font-weight: 600;
+    margin: 0 0 0.2rem;
+    color: var(--text);
+  }
+  .author-card__role {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  @media (max-width: 520px) {
+    .author-card {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: var(--space-s);
+    }
+    .author-card img {
+      width: 72px;
+      height: 72px;
+    }
+  }
+</style>
