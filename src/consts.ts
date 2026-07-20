@@ -34,8 +34,8 @@ export const SITE = {
  */
 export const AUTHOR = {
   name: 'Daniel Hernandez',
-  /** Path under /public. */
-  image: '/authors/daniel-hernandez.svg',
+  /** Optimised avatar (240px, ~6KB). Original photo: daniel-hernandez.jpg. */
+  image: '/authors/daniel-hernandez-avatar.jpg',
   /** Where the byline links. */
   url: '/about',
 } as const;
